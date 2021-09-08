@@ -3517,6 +3517,8 @@
   "FFlagFixEnvMapGlassShaderMismatch": "True",
   "DFIntVoiceChatJoinTimeoutMs": "120000",
   "FFlagPluginManagementFixOverlappingDescriptions": "True",
+  "DFIntGameNetPVHeaderRotationOrientIdToleranceExponent": "-4",
+  "DFIntGameNetPVHeaderRotationalVelocityZeroCutoffExponent": "-2",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
