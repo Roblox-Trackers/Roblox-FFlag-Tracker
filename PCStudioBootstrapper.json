@@ -1,0 +1,20 @@
+{
+  "DFFlagRbxFormatMultiByteSizeFix": "True",
+  "DFStringHttpInfluxDatabase": "roblox_bootstrapper",
+  "FFlagWindowsBootstrapperCanRunRecovery": "True",
+  "FIntBootstrapperLaunchBehaviorABTest": "3",
+  "FIntInfluxReportExceptionPermyriad": "10000",
+  "UseCdn": "True",
+  "FFlagWindowsLaunchTypeAnalytics": "True",
+  "FFlagBootstrapperQuitOnDirectXExpiration": "False",
+  "FFlagEnableCheckingOnDisabledChannels": "True",
+  "FStringDisabledRobloxChannelList": "zqt,zfeatureltcg1,zpublic,zfeatureboost_removal_test_in_prod",
+  "FFlagBootstrapperSaveOptOutDUAR": "True",
+  "FFlagBootstrapperAutoOptIn": "True",
+  "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
+  "FFlagBootstrapperEnableOptOutDUAR": "True",
+  "FFlagBootstrapperEnableOpenOptOutSurveyDUAR": "True",
+  "FFlagWindowsBootstrapperReportPerCdnDownloadSpeeds": "True",
+  "FIntBootstrapper64BitStudioPercentage": "100",
+  "InfluxInstallHundredthsPercentage": "1"
+}
