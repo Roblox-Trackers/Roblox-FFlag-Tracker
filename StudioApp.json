@@ -3535,6 +3535,8 @@
   "DFIntCliMaxPayloadRcv": "96000100",
   "DFFlagRemoteReportFlushAndLeft": "False",
   "DFFlagRemoteReportFlushAndLeft_DataCenterFilter": "True;189",
+  "FFlagDetachCrashFix": "true",
+  "FFlagSimStatelessRadius": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
