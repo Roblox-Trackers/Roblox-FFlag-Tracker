@@ -3177,7 +3177,7 @@
   "DFFlagWsClientAbortRemaining": "True",
   "FFlagVoiceManagerCheckBeforeTogglingMic": "True",
   "FFlagEnableImageResampleMode": "True",
-  "FFlagClientDynamicVariableReload": "True",
+  "FFlagClientDynamicVariableReload": "False",
   "FFlagFixScriptDebuggerAssertWhenReloadingPlugin": "True",
   "DFIntLuaGcMaxKb": "200",
   "FFlagEnableVoiceChatDeviceChangeDebounce": "True",
