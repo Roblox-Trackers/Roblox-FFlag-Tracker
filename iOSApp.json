@@ -3536,7 +3536,7 @@
   "FFlagGraphicsDisableThreadSafeUploadOnIntel": "True",
   "FFlagGraphicsDisableThreadSafeUploadOnLowMemory": "False",
   "FFlagGraphicsVulkanQueueUploads": "True",
-  "FFlagRenderAsyncTextureUpload": "True",
+  "FFlagRenderAsyncTextureUpload": "False",
   "FIntGraphicsThreadSafeUploadVideoMemoryThreshold": "512",
   "DFFlagVideoAnalyticsFixDoubleInit": "True",
   "DFFlagVideoAnalyticsClearAfterSend": "True",
