@@ -3590,6 +3590,8 @@
   "FFlagImageInfoOptimizationFlags": "True",
   "FFlagRoactChatSetScreenTopBarFuncSetState": "True",
   "FFlagStudioCommandLineKnowsTheDM": "True",
+  "FFlagAppRouterRemoveLegacyContext": "True",
+  "FFlagRoactServicesUseNewContext": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
