@@ -3603,6 +3603,8 @@
   "FFlagAXTopBarGamepadSelectionFix": "True",
   "FFlagLuauImprovedTypeGuardPredicate2": "True",
   "FFlagAXCameraControlsBottomBar": "True",
+  "DFFlagRemotesQueueMemoryReporting": "False",
+  "DFFlagRemotesQueueMemoryReporting_DataCenterFilter": "True;200",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
