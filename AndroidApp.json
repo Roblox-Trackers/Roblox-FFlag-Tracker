@@ -3605,7 +3605,6 @@
   "FFlagAXCameraControlsBottomBar": "True",
   "DFFlagRemotesQueueMemoryReporting": "False",
   "DFFlagRemotesQueueMemoryReporting_DataCenterFilter": "True;200",
-  "DFFlagSimJointStepUsesAnimationLod3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -3937,11 +3936,11 @@
   "EnableGooglePurchaseAPI3": "True",
   "FFlagLuaAppOmniSortIdentifierFix": "True",
   "FFlagLuaVerifiedSignupExperiment": "True",
-  "EnablePendingPurchaseOnLuaStartup": "False",
   "EnableGoogleGrantPendingOnLaunch": "False",
   "DFFlagVoiceChat3": "False",
   "FFlagEnableAmazonInGameUpsell": "True",
   "DFFlagVoiceChat4": "False",
   "FFlagAvatarExperienceRoactNavigation9": "True",
-  "EnableGoogleGrantPendingOnResume": "True"
+  "EnableGoogleGrantPendingOnResume": "True",
+  "EnablePendingPurchaseOnLuaStartupV2": "True"
 }
