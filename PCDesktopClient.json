@@ -3603,6 +3603,8 @@
   "FFlagAXCameraControlsBottomBar": "True",
   "DFFlagRemotesQueueMemoryReporting": "False",
   "DFFlagRemotesQueueMemoryReporting_DataCenterFilter": "True;200",
+  "FFlagLuauFileSyncUtilsReturnInitFilePath": "True",
+  "FFlagFixFileSyncServiceNestedProjects": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
