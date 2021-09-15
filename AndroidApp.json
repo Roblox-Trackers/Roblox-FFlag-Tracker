@@ -3657,6 +3657,8 @@
   "FFlagPackagesFixForJointInstances": "True",
   "DFFlagFixHumanoidAssetRequirementErrorMessages": "True",
   "FFlagToolboxPolicyForPluginCreatorWhitelist": "True",
+  "DFFlagRemoveSocketSendTest": "False",
+  "DFFlagRemoveSocketSendTest_DataCenterFilter": "True;255",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
