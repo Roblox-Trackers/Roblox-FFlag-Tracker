@@ -3685,6 +3685,7 @@
   "DFFlagUseCharacterTaskQueue": "True",
   "DFFlagSimDontReportHumanoidFloorTouchDuringStep": "True",
   "FFlagStudioCheckTerrainNullptr": "True",
+  "DFFlagGameNetFixHumanoidOnPlatformDestroyedOnServer": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
