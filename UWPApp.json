@@ -3925,5 +3925,6 @@
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "300000000",
   "FFlagCallAdjustAppbridgeSettings": "True",
   "FStringFeature_PlaceLauncherUseNewEndpoints": "481;100",
-  "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538"
+  "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
+  "DFFlagInferredCrashSystemSuccessReportMove": "True"
 }
