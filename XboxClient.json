@@ -3815,6 +3815,8 @@
   "DFFlagAnimationParallelCameraOptimization": "True",
   "DFFlagAnimationParallelFpsOptimization": "True",
   "FFlagLuaAppFixLocalizationContext": "True",
+  "FFlagSimAdaptivePastPVLoadingFix": "True",
+  "FFlagSimTimestepArbiterUpdate": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
