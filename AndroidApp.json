@@ -3812,6 +3812,8 @@
   "FFlagUseDataModelPatchAnalyticsNew": "True",
   "DFIntCookieProtocolAnalyticsHundredthsPercentage": "10000",
   "DFIntCookieProtocolAnalyticsPriorityHundredthsPercentage": "10000",
+  "DFFlagDontNegotiateCapabilitiesClient": "False",
+  "DFFlagDontNegotiateCapabilitiesClient_DataCenterFilter": "True;266",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
