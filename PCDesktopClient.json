@@ -3810,6 +3810,8 @@
   "FFlagSimEnableCSGV3Async_PlaceFilter": "True;7329223766",
   "DFFlagSetCookieHandlerEnabled": "True",
   "FFlagUseDataModelPatchAnalyticsNew": "True",
+  "DFIntCookieProtocolAnalyticsHundredthsPercentage": "10000",
+  "DFIntCookieProtocolAnalyticsPriorityHundredthsPercentage": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
