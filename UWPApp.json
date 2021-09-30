@@ -3890,7 +3890,7 @@
   "FFlagEnableCodecFactory": "True",
   "FFlagMessagingServiceUseSignalrConnection": "True",
   "DFFlagUmsUpdateAsyncParallelInitialSet": "True",
-  "FFlagStudioFixLockViolationCrashInPackages": "True",
+  "FFlagStudioFixLockViolationCrashInPackages": "False",
   "FFlagStudioHighlightWholeRowFixPackageUpdate": "True",
   "FFlagCompletionDriven": "False",
   "FFlagCompletionDriven_PlaceFilter": "True;5064251723;6308572154",
