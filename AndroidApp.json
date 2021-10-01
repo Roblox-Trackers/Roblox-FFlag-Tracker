@@ -3905,6 +3905,8 @@
   "DFFlagDataStoreDisableNativeHttpRetry": "True",
   "FFlagRefactorSceneInteractionFrame": "True",
   "FFlagAudioClockDerivedFromMixer2": "True",
+  "FFlagSimCSG3RemoveMeshDuringSerialization": "False",
+  "FFlagSimCSG3RemoveMeshDuringSerialization_PlaceFilter": "True;7329223766",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
