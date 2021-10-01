@@ -3907,6 +3907,8 @@
   "FFlagAudioClockDerivedFromMixer2": "True",
   "FFlagSimCSG3RemoveMeshDuringSerialization": "False",
   "FFlagSimCSG3RemoveMeshDuringSerialization_PlaceFilter": "True;7329223766",
+  "FFlagStudioRemoveTemplateDitchedTelemetry": "True",
+  "FFlagStudioRemoveGUIMaps": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
