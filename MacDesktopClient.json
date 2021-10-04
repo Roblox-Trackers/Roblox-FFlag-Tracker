@@ -3921,6 +3921,8 @@
   "FFlagLazyTableCheckDebuggerState": "True",
   "FFlagLuauFixScriptConnectionProps": "True",
   "FFlagLuauFixTableTypeAliasClone": "True",
+  "DFFlagReplicatorPrebuildJoinCache": "False",
+  "DFFlagReplicatorPrebuildJoinCache_DataCenterFilter": "True;214",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
