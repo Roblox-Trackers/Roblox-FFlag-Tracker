@@ -3923,6 +3923,7 @@
   "FFlagLuauFixTableTypeAliasClone": "True",
   "DFFlagReplicatorPrebuildJoinCache": "False",
   "DFFlagReplicatorPrebuildJoinCache_DataCenterFilter": "True;214",
+  "DFFlagUseVisualSize2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4210,5 +4211,6 @@
   "DFFlagVoiceChat3": "False",
   "FFlagAvatarExperienceRoactNavigation9": "True",
   "DFFlagInferredCrashSystemSuccessReportMove": "True",
-  "FStringFriendsLandingUserLoadedPageCounter": "FriendsLandingUserLoadedPageiOS"
+  "FStringFriendsLandingUserLoadedPageCounter": "FriendsLandingUserLoadedPageiOS",
+  "FStringFeature_CookieProtocolEnabled": "496;1"
 }
