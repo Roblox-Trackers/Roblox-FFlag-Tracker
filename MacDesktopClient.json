@@ -3980,6 +3980,8 @@
   "DFIntServerFramesBetweenJoins": "1",
   "DFIntServerMaxJoinsInBatch": "1",
   "DFFlagDropPacketFromInvalidPort": "True",
+  "DFFlagAllowBatchJoins": "False",
+  "DFFlagAllowBatchJoins_DataCenterFilter": "True;214",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
