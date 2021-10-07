@@ -3977,6 +3977,8 @@
   "FFlagEnableSoundJobTelemetry": "True",
   "FFlagSocialTabTrackFriendsLandingAnalytics": "True",
   "FFlagFixFilenameArgumentPassingIssue": "True",
+  "DFIntServerFramesBetweenJoins": "1",
+  "DFIntServerMaxJoinsInBatch": "1",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
