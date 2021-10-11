@@ -4012,6 +4012,7 @@
   "FFlagCrossDeviceLoginEvents": "True",
   "FFlagUpdateNoPermissionErrorMessage": "True",
   "FFlagStudioCtrlsApplyEditsScriptLocking": "True",
+  "FFlagAllowInputObjOnFocusLost": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4220,5 +4221,6 @@
   "FFlagCallAdjustAppbridgeSettings": "True",
   "FStringFeature_PlaceLauncherUseNewEndpoints": "481;100",
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
-  "DFFlagInferredCrashSystemSuccessReportMove": "True"
+  "DFFlagInferredCrashSystemSuccessReportMove": "True",
+  "FFlagLuaAppCarouselUseGameGridCardSize": "True"
 }
