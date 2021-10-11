@@ -3971,7 +3971,7 @@
   "DFIntServerMaxJoinsInBatch": "1",
   "DFFlagDropPacketFromInvalidPort": "False",
   "DFFlagAllowBatchJoins": "False",
-  "DFFlagAllowBatchJoins_DataCenterFilter": "True;189;200;213;214",
+  "DFFlagAllowBatchJoins_DataCenterFilter": "True;189;200;213;214;255",
   "FFlagSkeletonWatcherFix": "True",
   "FFlagGraphicsTrailBrightness": "True",
   "FFlagGraphicsParticlesBrightness": "True",
