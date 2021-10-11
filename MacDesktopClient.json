@@ -3970,7 +3970,7 @@
   "FFlagFixFilenameArgumentPassingIssue": "True",
   "DFIntServerFramesBetweenJoins": "1",
   "DFIntServerMaxJoinsInBatch": "1",
-  "DFFlagDropPacketFromInvalidPort": "True",
+  "DFFlagDropPacketFromInvalidPort": "False",
   "DFFlagAllowBatchJoins": "False",
   "DFFlagAllowBatchJoins_DataCenterFilter": "True;189;200;213;214",
   "FFlagSkeletonWatcherFix": "True",
