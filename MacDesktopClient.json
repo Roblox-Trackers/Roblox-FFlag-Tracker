@@ -4269,7 +4269,6 @@
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
   "FFlagLuaScreenTimeShowLogoutPromptInGame": "True",
   "FFlagEnableMacUniversalAppOptInAndOut": "True",
-  "FFlagHumanoidDeferredSyncFunction2_PlaceFilter": "True;2573981315;6317172524;4999654929",
   "FFlagShowGitHashInGame": "True",
   "FFlagLuaAppShowGitHash": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
@@ -4282,5 +4281,6 @@
   "FStringFriendsLandingUserLoadedPageCounter": "FriendsLandingUserLoadedPageMacClient",
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformOSX",
-  "FFlagReportLuaErrorsByPlatform2": "True"
+  "FFlagReportLuaErrorsByPlatform2": "True",
+  "FFlagHumanoidDeferredSyncFunction4_PlaceFilter": "True;2573981315;6317172524;4999654929"
 }
