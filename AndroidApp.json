@@ -4121,6 +4121,8 @@
   "DFFlagRakNetSendReceiveMicroprofiles": "True",
   "FIntMacScrollWheelXGainHundredths": "100",
   "FIntMacScrollWheelYGainHundredths": "100",
+  "FFlagSimSolverSeparateJacobian": "True",
+  "FFlagSimSolverAddPlaneConstraint": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
