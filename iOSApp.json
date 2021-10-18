@@ -4146,6 +4146,8 @@
   "FFlagRemoveUILibraryStyledDropdownPt1": "True",
   "FFlagEnableDelayedCredentialsSyncUI": "True",
   "DFFlagSafeStatic_UseStdCppStaticInit": "True",
+  "DFFlagInferredCrashSystemSuccessReportMove": "True",
+  "DFFlagStudioShutdownInferredQuitHandler": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4428,7 +4430,6 @@
   "FFlagLuaVerifiedSignupExperiment": "True",
   "DFFlagVoiceChat3": "False",
   "FFlagAvatarExperienceRoactNavigation9": "True",
-  "DFFlagInferredCrashSystemSuccessReportMove": "True",
   "FStringFriendsLandingUserLoadedPageCounter": "FriendsLandingUserLoadedPageiOS",
   "FStringFeature_CookieProtocolEnabled": "496;100"
 }

@@ -4146,6 +4146,8 @@
   "FFlagRemoveUILibraryStyledDropdownPt1": "True",
   "FFlagEnableDelayedCredentialsSyncUI": "True",
   "DFFlagSafeStatic_UseStdCppStaticInit": "True",
+  "DFFlagInferredCrashSystemSuccessReportMove": "True",
+  "DFFlagStudioShutdownInferredQuitHandler": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4353,6 +4355,5 @@
   "FFlagCallAdjustAppbridgeSettings": "True",
   "FStringFeature_PlaceLauncherUseNewEndpoints": "481;100",
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
-  "DFFlagInferredCrashSystemSuccessReportMove": "True",
   "FFlagLuaAppCarouselUseGameGridCardSize": "True"
 }

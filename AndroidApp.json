@@ -4146,6 +4146,8 @@
   "FFlagRemoveUILibraryStyledDropdownPt1": "True",
   "FFlagEnableDelayedCredentialsSyncUI": "True",
   "DFFlagSafeStatic_UseStdCppStaticInit": "True",
+  "DFFlagInferredCrashSystemSuccessReportMove": "True",
+  "DFFlagStudioShutdownInferredQuitHandler": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4479,7 +4481,6 @@
   "FFlagAvatarExperienceRoactNavigation9": "True",
   "EnableGoogleGrantPendingOnResume": "True",
   "EnablePendingPurchaseOnLuaStartupV2": "True",
-  "DFFlagInferredCrashSystemSuccessReportMove": "True",
   "FStringFriendsLandingUserLoadedPageCounter": "FriendsLandingUserLoadedPageAndroid",
   "FStringFeature_CookieProtocolEnabled": "496;100"
 }
