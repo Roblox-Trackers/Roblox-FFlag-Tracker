@@ -4160,6 +4160,7 @@
   "DFFlagHttpNativeRetryDefaultEnable": "True",
   "FLogMacLuaApp": "0",
   "FFlagStudioPackagesMassUpdateAnalytics": "True",
+  "FFlagRenderTC2_UpdateOnFlagChanges": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4393,5 +4394,6 @@
   "FStringFeature_CookieProtocolEnabled": "496;100",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformOSX",
   "FFlagReportLuaErrorsByPlatform2": "True",
-  "FFlagHumanoidDeferredSyncFunction4_PlaceFilter": "True;2573981315;6317172524;4999654929"
+  "FFlagHumanoidDeferredSyncFunction4_PlaceFilter": "True;2573981315;6317172524;4999654929",
+  "FFlagRenderTC2_5": "True"
 }
