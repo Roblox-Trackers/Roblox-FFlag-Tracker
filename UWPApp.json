@@ -4132,7 +4132,6 @@
   "FFlagBootcampCLI46686": "True",
   "FFlagFriendsLandingScrollingSpacing": "True",
   "FFlagFriendsLandingFixPrivateGamer": "True",
-  "DFFlagEnableFlushAfterPurge": "True",
   "FFlagBufferedCommandsCircular": "True",
   "DFFlagHttpNativeRetryDefaultEnable": "True",
   "FLogMacLuaApp": "0",
@@ -4300,6 +4299,7 @@
   "DFFlagRemoveTypeFromUserError": "True",
   "FFlagLuauTableFreeze": "True",
   "FFlagLuauIfStatementRecursionGuard": "True",
+  "FFlagInGameMenuLeavePromptKeyboardBinding2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4508,5 +4508,6 @@
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
   "FFlagLuaAppCarouselUseGameGridCardSize": "True",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformUWP",
-  "DFFlagInferredCrashSystemSuccessReportMove": "True"
+  "DFFlagInferredCrashSystemSuccessReportMove": "True",
+  "DFFlagEnableFlushAfterPurge": "True"
 }
