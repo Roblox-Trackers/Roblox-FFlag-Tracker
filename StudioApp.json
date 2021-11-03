@@ -4355,6 +4355,8 @@
   "FFlagStudioSendKibanaTelemetryFromWebLogin": "True",
   "FFlagStudioReportTraceIdAsHex": "True",
   "DFFlagSignalRTimeoutReport": "True",
+  "FLogRenderTC2LogGroupFlow": "0",
+  "FFlagLuauLinterTableMoveZero": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4619,6 +4621,5 @@
   "DFFlagReplicatorNoSingalInAsync": "True",
   "DFFlagInferredCrashSystemSuccessReportMove": "True",
   "DFFlagEnableFlushAfterPurge": "True",
-  "DFFlagRenderTC2_6": "False",
-  "FLogRenderTC2LogGroupFlow": "0"
+  "DFFlagRenderTC2_6": "False"
 }
