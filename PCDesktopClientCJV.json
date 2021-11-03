@@ -4355,6 +4355,7 @@
   "FFlagStudioSendKibanaTelemetryFromWebLogin": "True",
   "FFlagStudioReportTraceIdAsHex": "True",
   "DFFlagSignalRTimeoutReport": "True",
+  "FLogRenderTC2LogGroupFlow": "0",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4619,5 +4620,5 @@
   "DFFlagEnableFlushAfterPurge": "True",
   "DFFlagRenderTC2_6": "True",
   "DFFlagSimHumanoidNewStopOverlap_PlaceFilter": "False;2573981315;6317172524;4999654929",
-  "FLogRenderTC2LogGroupFlow": "0"
+  "FFlagParallelLua": "True"
 }
