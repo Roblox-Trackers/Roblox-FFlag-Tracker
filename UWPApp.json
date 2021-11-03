@@ -4372,6 +4372,8 @@
   "FFlagMessagingServiceUseSignalrConnection3": "False",
   "FFlagLuauConsolidatedStep": "True",
   "DFFlagWebSocketTimeoutSetUrgent": "False",
+  "FFlagLuauPreloadClosures": "True",
+  "FFlagLuauPreloadClosuresUpval": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
