@@ -4382,6 +4382,8 @@
   "FFlagLowOverheadRunServiceInvokeCallback": "True",
   "FFlagStudioFixMissingPlaceIdAssetOnPublish": "True",
   "FIntLuaFriendsLandingEnabledRollout": "0",
+  "FFlagStudioAutoReturnFromExternalBrowserLogin": "True",
+  "FFlagStudioCorrectionOnEmbeddedWebViewCatchJSErrors": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
