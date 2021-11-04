@@ -4397,6 +4397,8 @@
   "FFlagLuaAppAutocompletePreloadedCache3": "True",
   "FFlagToolboxTrackDragInsertFinished": "True",
   "DFFlagSimOnlyAddEdgeToParentJoints": "True",
+  "DFFlagSimCorrectAddAnimatedJoints": "True",
+  "DFFlagSimFrameStepBroadphaseUpdateIfChanged": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
