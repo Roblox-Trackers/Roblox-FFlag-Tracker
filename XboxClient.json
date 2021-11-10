@@ -3809,8 +3809,6 @@
   "DFFlagAddPlaySessionIdTelemetry": "True",
   "FFlagStudioFixEmbeddedWebViewUrlReporting": "True",
   "FIntMaxPackageAssetIdsPerPermissionRequest": "25",
-  "DFFlagLoadCharacterLayeredClothingProperty2": "False",
-  "DFFlagLoadCharacterLayeredClothingProperty2_PlaceFilter": "True;2431195974;5064251723;5100919959;7095858303;7263004204;6959329418;189707;7208091524;6901134961;7240402539;7325556181;7541821641;7651142877;6985856344;7729650296;7738791177;7741289463;7744040933;7746188444;7746827185;7849582485;7850387804",
   "FFlagAXFixEqualityLogic": "True",
   "FFlagTeamTestJoinFromHome": "True",
   "FFlagSignalrConnectionRbxSignalR2": "True",
@@ -4712,5 +4710,6 @@
   "DFStringCrashUploadToBacktraceXboxPlayerToken_PlaceFilter": "30a794c06f5d61e51cf4b0b8103ef2cd7039c6b46bafce0cfba33518d5409010;6036870533",
   "FStringFeature_AppBridgeRewrite": "467;0",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "300000000",
-  "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538"
+  "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
+  "DFFlagLoadCharacterLayeredClothingProperty2": "True"
 }
