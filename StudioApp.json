@@ -4535,7 +4535,7 @@
   "DFFlagSimAdaptiveSkipInterpolationOnNonSimulatedAssemblies": "True",
   "FFlagSimAdaptiveTimestepping2": "True",
   "DFFlagVoiceChatEnableDTX": "True",
-  "DFIntInfluxDynInitErrorHundredthsPercent": "1000",
+  "DFIntInfluxDynInitErrorHundredthsPercent": "10000",
   "FStringStudioExternalBrowserLoginURL": "https://create.robloxdev.cn/v1-studio-login",
   "FFlagMacFixMouseFreezeOnEnter": "True",
   "FFlagRemoveRawHumanoidPtrFromHumanoidIdentifier": "False",
