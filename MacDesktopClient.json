@@ -4770,7 +4770,6 @@
   "FStringFeature_AppBridgeRewrite": "475;100",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "300000000",
   "FFlagHumanoidParallelFasterSetCollision_PlaceFilter": "True;2573981315;6317172524;4999654929",
-  "FFlagHumanoidParallelOnStep_PlaceFilter": "True;2573981315;6317172524;4999654929",
   "FFlagDontOverwriteSettingsWithPartialSerialization": "True",
   "FFlagLuaAppEnableSinglePageSignUp": "True",
   "FFlagHumanoidParallelSafeCofmUpdate_PlaceFilter": "True;2573981315;6317172524;4999654929",
@@ -4807,5 +4806,6 @@
   "FFlagUseIGMControllerBar": "True",
   "DFFlagLoadCharacterLayeredClothingProperty2": "True",
   "FFlagIGMRefactorInviteFriendsGamepadSupport": "True",
-  "FFlagReportDesktopClientOsVersion": "True"
+  "FFlagReportDesktopClientOsVersion": "True",
+  "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929"
 }

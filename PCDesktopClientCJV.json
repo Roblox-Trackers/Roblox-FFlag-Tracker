@@ -4788,7 +4788,6 @@
   "FFlagLuaAppSkipWindowUpdateWithNewCarousel": "False",
   "FFlagInGameMenuUseOpenEduPopupThunk": "True",
   "FFlagHumanoidParallelFasterSetCollision_PlaceFilter": "True;2573981315;6317172524;4999654929",
-  "FFlagHumanoidParallelOnStep_PlaceFilter": "True;2573981315;6317172524;4999654929",
   "FFlagLuaAppDuarOptOut3": "True",
   "FFlagEnableOptOutDUAR3": "True",
   "FFlagLuaAppEnableSinglePageSignUp": "True",
@@ -4826,5 +4825,6 @@
   "FIntRoact17Rollout3": "50",
   "FFlagUseIGMControllerBar": "True",
   "DFFlagLoadCharacterLayeredClothingProperty2": "True",
-  "FFlagIGMRefactorInviteFriendsGamepadSupport": "True"
+  "FFlagIGMRefactorInviteFriendsGamepadSupport": "True",
+  "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929"
 }
