@@ -4822,10 +4822,11 @@
   "FFlagParallelLua": "True",
   "FFlagNewInGameMenuController2": "True",
   "FFlagExperienceMenuABTest": "True",
-  "FIntRoact17Rollout3": "50",
+  "FIntRoact17Rollout3": "100",
   "FFlagUseIGMControllerBar": "True",
   "DFFlagLoadCharacterLayeredClothingProperty2": "True",
   "FFlagIGMRefactorInviteFriendsGamepadSupport": "True",
   "FFlagReportDesktopClientOsVersion": "True",
-  "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929"
+  "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929",
+  "FFlagLuaAppUseRoactNavigation3": "True"
 }
