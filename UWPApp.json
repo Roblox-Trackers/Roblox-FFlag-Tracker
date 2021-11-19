@@ -4659,6 +4659,8 @@
   "FFlagEventZValueIsUsedForVC": "True",
   "FFlagVirtualCursorSupportTextBox": "True",
   "FFlagClientVisualEffectRemoteSetCRFlag": "True",
+  "FFlagReplicatorTrackIdJoinQueue": "False",
+  "FFlagReplicatorTrackIdJoinQueue_DataCenterFilter": "True;213;214",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
