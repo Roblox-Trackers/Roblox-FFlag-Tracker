@@ -4680,6 +4680,8 @@
   "FFlagEnableVoiceChatUseAgeVerificationEndpointV2": "True",
   "FFlagLuaAppClearImpressions": "True",
   "FFlagNewInGameMenuController2": "True",
+  "FFlagIGMRefactorInviteFriendsGamepadSupport": "True",
+  "FFlagIGMRefactorPlayerContextualMenuGamepadSupport": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4943,7 +4945,6 @@
   "FIntRoact17Rollout3": "50",
   "FFlagUseIGMControllerBar": "True",
   "DFFlagLoadCharacterLayeredClothingProperty2": "True",
-  "FFlagIGMRefactorInviteFriendsGamepadSupport": "True",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929",
   "FIntRoact17Rollout5": "100"
 }
