@@ -4733,6 +4733,7 @@
   "DFFlagSinglePlayerTeleportSuccessMetric": "True",
   "FFlagTypeHoverBypassDebuggerIfNotConnected": "True",
   "FFlagQtBaseRbxQtRootOverride": "True",
+  "FFlagTempFixGridViewLayoutWithSpawn": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5078,5 +5079,8 @@
   "DFFlagRenderTC2_6": "False",
   "FFlagEnableHomePageUpsellCard": "True",
   "FIntRoact17Rollout5": "100",
-  "DFFlagSessionTelemetryUnify": "True"
+  "DFFlagSessionTelemetryUnify": "True",
+  "DFFlagAnimatorRetargetR15_2": "False",
+  "DFFlagWorkspaceAnimatorRetargetingEnabledDefault": "False",
+  "FFlagUseFilteredGetKeyframes": "False"
 }
