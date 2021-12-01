@@ -4739,6 +4739,7 @@
   "DFFlagSimMarkDirtyOnCFrameChange": "True",
   "FFlagBootcampNFDN1393": "True",
   "FFlagStudioChallengeDialogAddInitializationHybridCall": "True",
+  "FFlagStudioEarlyReturnWhenUserIsBanned": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5033,5 +5034,8 @@
   "FStringTextureFormatFilterString_PlaceFilter": ";7968883425",
   "DFFlagRenderTC2_6": "False",
   "FFlagEnableHomePageUpsellCard": "True",
-  "FIntRoact17Rollout5": "100"
+  "FIntRoact17Rollout5": "100",
+  "DFFlagAnimatorRetargetR15_2": "False",
+  "DFFlagWorkspaceAnimatorRetargetingEnabledDefault": "False",
+  "FFlagUseFilteredGetKeyframes": "False"
 }
