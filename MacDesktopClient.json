@@ -4755,6 +4755,8 @@
   "DFFlagRenderTC2_ForceFieldFix": "True",
   "FFlagACEPlaybackSpeedChanges": "True",
   "FFlagAXLandingPageSetStateFix": "True",
+  "FFlagUseNewAnimationClipProvider_2": "True",
+  "FFlagHeadsetMenuInjectService": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5003,6 +5005,5 @@
   "FFlagReportDesktopClientOsVersion": "True",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929",
   "FFlagGraphicsGLMacHD3000UploadWorkaround": "True",
-  "FIntRoact17Rollout5": "100",
-  "FFlagUseNewAnimationClipProvider_2": "True"
+  "FIntRoact17Rollout5": "100"
 }
