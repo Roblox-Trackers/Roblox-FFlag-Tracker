@@ -5163,5 +5163,12 @@
   "FFlagEnableHomePageUpsellCard": "True",
   "FIntRoact17Rollout5": "100",
   "DFFlagSessionTelemetryUnify": "True",
-  "FIntRoact17Rollout6": "100"
+  "FIntRoact17Rollout6": "100",
+  "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
+  "FFlagHumanoidParallelFasterSetCollision_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
+  "FFlagHumanoidParallelFixTickleFloor2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
+  "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
+  "FFlagHumanoidParallelSafeCofmUpdate_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
+  "FFlagHumanoidParallelSafeUnseat_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
+  "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707"
 }
