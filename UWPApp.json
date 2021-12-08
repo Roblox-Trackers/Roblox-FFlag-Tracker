@@ -2111,7 +2111,7 @@
   "FFlagUserFixModalEnabled": "True",
   "FFlagStrictTypePlayerScripts": "True",
   "FFlagEnableVoiceDefaultChannel": "True",
-  "FFlagEnableVoiceDefaultChannel_PlaceFilter": "False;5064251723;5465723678;7017799672;7097215816",
+  "FFlagEnableVoiceDefaultChannel_PlaceFilter": "False;5064251723;5465723678;7017799672;7097215816;6873361605",
   "FFlagDevFrameworkFixButtonStyles": "True",
   "FFlagUseRoactAnalyticsForCaptchaPageBrowserService": "True",
   "DFFlagEnablePerfDataMpTimeSplit": "True",
@@ -2498,7 +2498,7 @@
   "FFlagStudioRbxpPropagateToNewStudioProcesses": "True",
   "FFlagTeleportOutOfRetryErrorCounter": "True",
   "DFFlagVoiceChatEnableApiSecurityCheck": "True",
-  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;5064251723;5465723678;7017799672;7097215816;6985028626;7241827834;6937477528;7277614429",
+  "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;5064251723;5465723678;7017799672;7097215816;6985028626;7241827834;6937477528;7277614429;6873361605",
   "FFlagStartupControllerInitProtocolsWin32": "True",
   "FFlagStudioByPassQFatalInQQmlNotifier": "True",
   "FFlagStudioUseAsyncCallForLogoutCancelDiag": "True",
@@ -5056,8 +5056,8 @@
   "FFlagHumanoidParallelSafeCofmUpdate_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelSafeUnseat_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "9ce6af1e2b0dc00250bbde89db2ab66dc7ef3514",
-  "DFStringFlagRepoGitHashDynamicString": "9ce6af1e2b0dc00250bbde89db2ab66dc7ef3514",
-  "FStringFlipTimeStampFastString": "2021-12-08T22:44:11.426Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-08T22:44:11.426Z"
+  "FStringFlagRepoGitHashFastString": "599dd57e14afeb4d37e39c89ee91436b28579dc0",
+  "DFStringFlagRepoGitHashDynamicString": "599dd57e14afeb4d37e39c89ee91436b28579dc0",
+  "FStringFlipTimeStampFastString": "2021-12-08T23:57:50.659Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-08T23:57:50.659Z"
 }
