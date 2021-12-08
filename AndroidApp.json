@@ -4822,6 +4822,8 @@
   "FFlagVoiceServiceGenerateDefaultChannel_PlaceFilter": "True;8158601082",
   "FFlagFriendsLandingPagePerformance_1": "True",
   "FFlagDisableOldModelLodPipeline": "True",
+  "DFFlagStreamJobCollectsNOUs2": "False",
+  "DFFlagStreamJobHandlesNOUAddRemoveMove4": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5175,8 +5177,8 @@
   "FFlagHumanoidParallelSafeUnseat_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagLuaAppUseNewTwoStepFlowOnLoginFix": "False",
-  "FStringFlagRepoGitHashFastString": "4a6427af37912a3537bff4ae94fa6aa0a042beb2",
-  "DFStringFlagRepoGitHashDynamicString": "4a6427af37912a3537bff4ae94fa6aa0a042beb2",
-  "FStringFlipTimeStampFastString": "2021-12-08T20:07:43.281Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-08T20:07:43.281Z"
+  "FStringFlagRepoGitHashFastString": "f8f01f40fbb00a4922baeec8b79e45ca4a4edbe8",
+  "DFStringFlagRepoGitHashDynamicString": "f8f01f40fbb00a4922baeec8b79e45ca4a4edbe8",
+  "FStringFlipTimeStampFastString": "2021-12-08T20:13:32.021Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-08T20:13:32.021Z"
 }
