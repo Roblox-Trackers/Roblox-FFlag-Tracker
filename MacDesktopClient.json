@@ -4560,7 +4560,6 @@
   "FFlagLuauFixRbxScriptSignalType": "True",
   "FFlagNextUnitVector": "True",
   "DFFlagReportStreamPauseMode": "True",
-  "FFlagEnablePushNotificationFixV1": "False",
   "FFlagAllowNaturalScrolling": "True",
   "FFlagFasterSampleOnRayVector3": "True",
   "FFlagRenderTC2_Disable": "False",
@@ -4831,6 +4830,7 @@
   "FFlagImproveGamepadAutoUIHighlight2": "True",
   "FFlagUseIGMControllerBar": "True",
   "FFlagSocialTabLuaProfilePageEnabled": "True",
+  "FFlagEnablePushNotificationFixV2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5082,8 +5082,8 @@
   "FFlagUseFilteredGetKeyframes_PlaceFilter": "True;7477946144;7525190786;7492148266;5064251723;189707",
   "FIntRoact17Rollout6": "100",
   "FFlagIGMControllerBarRefactor": "True",
-  "FStringFlagRepoGitHashFastString": "9706284356fd159b48fe6cc0604c297208f82ef0",
-  "DFStringFlagRepoGitHashDynamicString": "9706284356fd159b48fe6cc0604c297208f82ef0",
-  "FStringFlipTimeStampFastString": "2021-12-08T21:08:22.369Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-08T21:08:22.369Z"
+  "FStringFlagRepoGitHashFastString": "2ae12b1c6cd090ad036d2daa27740224048d8072",
+  "DFStringFlagRepoGitHashDynamicString": "2ae12b1c6cd090ad036d2daa27740224048d8072",
+  "FStringFlipTimeStampFastString": "2021-12-08T21:13:50.522Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-08T21:13:50.522Z"
 }
