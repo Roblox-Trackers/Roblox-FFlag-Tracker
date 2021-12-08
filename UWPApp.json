@@ -4832,6 +4832,9 @@
   "FFlagFixGoToLineScriptDeleteCrash": "True",
   "FFlagLuauDebugTooltipFix": "True",
   "FFlagScriptEditorLintingForPluginScripts": "True",
+  "FFlagCleanUpFullscreenTitleBarPromiseOnUnmount": "True",
+  "FFlagFullscreenTitleBarInjectGameServices": "True",
+  "FIntFullscreenTitleBarTriggerDelayMillis": "500",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5053,8 +5056,8 @@
   "FFlagHumanoidParallelSafeCofmUpdate_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelSafeUnseat_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "df6c29b5a1c19fbf23b5e4f3055de65083ec1bf4",
-  "DFStringFlagRepoGitHashDynamicString": "df6c29b5a1c19fbf23b5e4f3055de65083ec1bf4",
-  "FStringFlipTimeStampFastString": "2021-12-08T21:34:11.037Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-08T21:34:11.037Z"
+  "FStringFlagRepoGitHashFastString": "1722d6ab61b8cfe5cdb37b708ea746ad4fa0ad7e",
+  "DFStringFlagRepoGitHashDynamicString": "1722d6ab61b8cfe5cdb37b708ea746ad4fa0ad7e",
+  "FStringFlipTimeStampFastString": "2021-12-08T21:44:14.164Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-08T21:44:14.164Z"
 }
