@@ -4345,7 +4345,7 @@
   "FFlagLuauPreloadClosuresUpval": "True",
   "FFlagStudioBreakpointPropertyEditCrashFix": "True",
   "FFlagFixDialogChoiceLocalization": "True",
-  "FFlagUserFlagEnableNewVRSystem": "False",
+  "FFlagUserFlagEnableNewVRSystem": "True",
   "FFlagRenderInstanceCulling3": "True",
   "FFlagMacEnableLuaControlsClose": "True",
   "DFIntReplicatorDataPingReportThresholdMs": "10000",
@@ -4842,6 +4842,11 @@
   "DFIntAdjustMixedPriorityFairlyMultiplicativeStepLowerBound_PlaceFilter": "7;8212364468",
   "FFlagVoiceChatPromptsRoact17Fix": "True",
   "FFlagStudioScriptToggleContextItem": "True",
+  "FFlagStudioAddWaypointForAttributes": "True",
+  "FFlagStudioStoreAddedRemovedPropertyDescriptors": "True",
+  "FFlagEnableNewVrSystem": "True",
+  "FFlagValveIndexSupport": "True",
+  "FFlagStudioUseNewUserSettting": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5100,8 +5105,8 @@
   "DFFlagInferredCrashSystemSuccessReportMove": "True",
   "DFFlagRenderTC2_6": "False",
   "FFlagBrickColorMediumBrown": "True",
-  "FStringFlagRepoGitHashFastString": "0e9fef859c9593a11ac837d8988c03050dd7cb55",
-  "DFStringFlagRepoGitHashDynamicString": "0e9fef859c9593a11ac837d8988c03050dd7cb55",
-  "FStringFlipTimeStampFastString": "2021-12-09T19:35:04.768Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-09T19:35:04.768Z"
+  "FStringFlagRepoGitHashFastString": "7b3f27e8d65e2b4cbb7e1efbe602508942dfe5c6",
+  "DFStringFlagRepoGitHashDynamicString": "7b3f27e8d65e2b4cbb7e1efbe602508942dfe5c6",
+  "FStringFlipTimeStampFastString": "2021-12-09T19:36:32.067Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-09T19:36:32.067Z"
 }
