@@ -4709,7 +4709,7 @@
   "FFlagAXNoDuplicateStructure": "True",
   "FFlagACERenameExportToPublish": "True",
   "DFFlagOverlapParamsParallelLua": "True",
-  "FFlagStreamJobClampToWorldExtents2": "True",
+  "FFlagStreamJobClampToWorldExtents2": "False",
   "FFlagNilCheckAnimationData": "True",
   "FFlagRemoveAssertIsVistaPlus": "True",
   "FFlagStudioReportWebView2AvailabilityAndUserType": "True",
@@ -4847,6 +4847,9 @@
   "FFlagEnableNewVrSystem": "True",
   "FFlagValveIndexSupport": "True",
   "FFlagStudioUseNewUserSettting": "True",
+  "FFlagToolboxVerifiedCreatorBadges": "True",
+  "FFlagToolboxVerifiedCreatorBadgesDesignTweaks": "True",
+  "FFlagPlacelauncherEndpointXboxFixPartyJoinsAreRegularJoinsLeaderOnly": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5068,8 +5071,8 @@
   "FFlagHumanoidParallelSafeCofmUpdate_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelSafeUnseat_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "7b3f27e8d65e2b4cbb7e1efbe602508942dfe5c6",
-  "DFStringFlagRepoGitHashDynamicString": "7b3f27e8d65e2b4cbb7e1efbe602508942dfe5c6",
-  "FStringFlipTimeStampFastString": "2021-12-09T19:36:32.067Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-09T19:36:32.067Z"
+  "FStringFlagRepoGitHashFastString": "93fa9bf6d5a3a5dfc9c2032176bdec53628bef2f",
+  "DFStringFlagRepoGitHashDynamicString": "93fa9bf6d5a3a5dfc9c2032176bdec53628bef2f",
+  "FStringFlipTimeStampFastString": "2021-12-09T19:38:56.306Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-09T19:38:56.306Z"
 }
