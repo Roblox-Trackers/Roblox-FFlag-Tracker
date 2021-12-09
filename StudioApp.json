@@ -4871,7 +4871,7 @@
   "DFFlagReportNumSyncMapEntriesModifiedSerial": "True",
   "DFFlagTeleportInvocationsLogging2": "True",
   "DFFlagTeleportInvocationEventIngest": "True",
-  "DFFlagSignalrFixDoubleStop": "False",
+  "DFFlagSignalrFixDoubleStop": "True",
   "FFlagAssetImporterBetaFeature": "True",
   "FFlagCLI40111": "True",
   "DFFlagCoalescePropertiesWithGlobalChangeVersion2": "False",
@@ -4880,6 +4880,7 @@
   "DFFlagMemoryStoreClientReturnExpirationError": "True",
   "FFlagStudioExternalLoginRemoveHasError": "True",
   "DFFlagDataStore2GetAsyncCachedKeyFix2": "True",
+  "FFlagFixTopBarHealthBar": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5138,8 +5139,8 @@
   "DFFlagInferredCrashSystemSuccessReportMove": "True",
   "DFFlagRenderTC2_6": "False",
   "FFlagBrickColorMediumBrown": "True",
-  "FStringFlagRepoGitHashFastString": "f90ae15e3cb94efbf701be8e0a69c01f6d9d77fc",
-  "DFStringFlagRepoGitHashDynamicString": "f90ae15e3cb94efbf701be8e0a69c01f6d9d77fc",
-  "FStringFlipTimeStampFastString": "2021-12-09T21:36:34.777Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-09T21:36:34.777Z"
+  "FStringFlagRepoGitHashFastString": "b1f4d4c2534641c90cdece84d8e2bacb4870fc59",
+  "DFStringFlagRepoGitHashDynamicString": "b1f4d4c2534641c90cdece84d8e2bacb4870fc59",
+  "FStringFlipTimeStampFastString": "2021-12-09T21:42:47.577Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-09T21:42:47.577Z"
 }
