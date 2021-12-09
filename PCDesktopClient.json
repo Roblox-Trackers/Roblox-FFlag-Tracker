@@ -4874,8 +4874,7 @@
   "DFFlagSignalrFixDoubleStop": "False",
   "FFlagAssetImporterBetaFeature": "True",
   "FFlagCLI40111": "True",
-  "DFFlagCoalescePropertiesWithGlobalChangeVersion2": "False",
-  "DFFlagCoalescePropertiesWithGlobalChangeVersion2_DataCenterFilter": "True;235",
+  "DFFlagCoalescePropertiesWithGlobalChangeVersion2": "True",
   "FFlagBootcampCLI48966": "True",
   "DFFlagMemoryStoreClientReturnExpirationError": "True",
   "FFlagStudioExternalLoginRemoveHasError": "True",
@@ -4890,6 +4889,8 @@
   "FFlagPivotEditorDeduplicatePackages": "True",
   "FFlagLocalizationToolsUseRoactv14": "True",
   "FFlagStudioCloseFileToClose": "True",
+  "FFlagBulkImportPreseedAudioCache": "True",
+  "FFlagUpdateSuccessfullyLoadedSoundSignature": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5156,8 +5157,8 @@
   "FFlagIGMControllerBarRefactor": "True",
   "FFlagRemoveMoreMenuFromReducer": "True",
   "FIntRoact17Rollout7": "100",
-  "FStringFlagRepoGitHashFastString": "306dfc561cc670b5364a7410a2854403e52fdccc",
-  "DFStringFlagRepoGitHashDynamicString": "306dfc561cc670b5364a7410a2854403e52fdccc",
-  "FStringFlipTimeStampFastString": "2021-12-09T22:01:03.926Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-09T22:01:03.926Z"
+  "FStringFlagRepoGitHashFastString": "da44077c4d8f066522ad2a959738afc5164af1a8",
+  "DFStringFlagRepoGitHashDynamicString": "da44077c4d8f066522ad2a959738afc5164af1a8",
+  "FStringFlipTimeStampFastString": "2021-12-09T22:02:24.022Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-09T22:02:24.022Z"
 }
