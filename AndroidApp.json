@@ -4896,6 +4896,8 @@
   "FFlagStudioRestartLoginWhenFailtoFetchModerationInfo": "True",
   "FFlagLuaAppGameDetailSourceSession2": "True",
   "FFlagLuaAppUseSecurityPromptsV2New": "True",
+  "FFlagStudioFixInsertServiceAndToggleUIActionDuringPlaySolo": "True",
+  "FFlagStudioUseNewClientServerLoading2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5250,8 +5252,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagLuaAppUseNewTwoStepFlowOnLoginFix": "True",
   "FIntRoact17Rollout7": "100",
-  "FStringFlagRepoGitHashFastString": "de9db4ccf40d9015b4f681095db5af8067fb66c1",
-  "DFStringFlagRepoGitHashDynamicString": "de9db4ccf40d9015b4f681095db5af8067fb66c1",
-  "FStringFlipTimeStampFastString": "2021-12-10T18:31:07.362Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-10T18:31:07.362Z"
+  "FStringFlagRepoGitHashFastString": "438808b4392112d3c34b4d56452990ddc830057f",
+  "DFStringFlagRepoGitHashDynamicString": "438808b4392112d3c34b4d56452990ddc830057f",
+  "FStringFlipTimeStampFastString": "2021-12-10T18:38:20.585Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-10T18:38:20.585Z"
 }
