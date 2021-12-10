@@ -4895,7 +4895,7 @@
   "FFlagStudioHandleTwoStepVerificationError": "True",
   "FFlagStudioRestartLoginWhenFailtoFetchModerationInfo": "True",
   "FFlagLuaAppGameDetailSourceSession2": "True",
-  "FFlagLuaAppUseSecurityPromptsV2New": "True",
+  "FFlagLuaAppUseSecurityPromptsV2New": "False",
   "FFlagStudioFixInsertServiceAndToggleUIActionDuringPlaySolo": "True",
   "FFlagStudioUseNewClientServerLoading2": "True",
   "DFFlagFixCurveAnimationMemLeak": "True",
@@ -4909,6 +4909,8 @@
   "FFlagLuauAutocompletePreferToCallFunctions": "True",
   "FFlagEncodeCurvesAsV0": "True",
   "FFlagStudioUseNewSavePlaceWorkflow": "True",
+  "FFlagUWPShowHideCursorBetter": "True",
+  "FFlagUWPShowKeyboard": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5137,8 +5139,8 @@
   "FFlagHumanoidParallelSafeUnseat_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "0",
-  "FStringFlagRepoGitHashFastString": "0d2b74b3438c40518e6ac20f61f4213056ef947a",
-  "DFStringFlagRepoGitHashDynamicString": "0d2b74b3438c40518e6ac20f61f4213056ef947a",
-  "FStringFlipTimeStampFastString": "2021-12-10T19:02:48.611Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-10T19:02:48.611Z"
+  "FStringFlagRepoGitHashFastString": "f00ecf0aa200b6c8f2ff4a15fe6834cf3ea8e253",
+  "DFStringFlagRepoGitHashDynamicString": "f00ecf0aa200b6c8f2ff4a15fe6834cf3ea8e253",
+  "FStringFlipTimeStampFastString": "2021-12-10T19:08:04.868Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-10T19:08:04.868Z"
 }
