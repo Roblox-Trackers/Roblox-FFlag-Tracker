@@ -4898,6 +4898,8 @@
   "FFlagLuaAppUseSecurityPromptsV2New": "True",
   "FFlagStudioFixInsertServiceAndToggleUIActionDuringPlaySolo": "True",
   "FFlagStudioUseNewClientServerLoading2": "True",
+  "DFFlagFixCurveAnimationMemLeak": "True",
+  "FFlagUseWebSocketWinImpl": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5156,8 +5158,8 @@
   "DFFlagInferredCrashSystemSuccessReportMove": "True",
   "DFFlagRenderTC2_6": "False",
   "FFlagBrickColorMediumBrown": "True",
-  "FStringFlagRepoGitHashFastString": "438808b4392112d3c34b4d56452990ddc830057f",
-  "DFStringFlagRepoGitHashDynamicString": "438808b4392112d3c34b4d56452990ddc830057f",
-  "FStringFlipTimeStampFastString": "2021-12-10T18:38:20.585Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-10T18:38:20.585Z"
+  "FStringFlagRepoGitHashFastString": "2ee39945367077ee4a79e15e45b0999f07bae692",
+  "DFStringFlagRepoGitHashDynamicString": "2ee39945367077ee4a79e15e45b0999f07bae692",
+  "FStringFlipTimeStampFastString": "2021-12-10T18:42:52.713Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-10T18:42:52.713Z"
 }
