@@ -4849,7 +4849,6 @@
   "FFlagToolboxVerifiedCreatorBadges": "True",
   "FFlagToolboxVerifiedCreatorBadgesDesignTweaks": "True",
   "FFlagPlacelauncherEndpointXboxFixPartyJoinsAreRegularJoinsLeaderOnly": "True",
-  "DFFlagReportIncorrectlyPausedReplicationStat2": "True",
   "FFlagToolboxEnableScriptConfirmation": "True",
   "FFlagMaterialServiceBetaFeature": "True",
   "FFlagDevFrameworkAddCreatorToAssetPreviewHeader": "True",
@@ -4871,7 +4870,7 @@
   "DFFlagReportNumSyncMapEntriesModifiedSerial": "True",
   "DFFlagTeleportInvocationsLogging2": "True",
   "DFFlagTeleportInvocationEventIngest": "True",
-  "DFFlagSignalrFixDoubleStop": "False",
+  "DFFlagSignalrFixDoubleStop": "True",
   "FFlagAssetImporterBetaFeature": "True",
   "FFlagCLI40111": "True",
   "FFlagBootcampCLI48966": "True",
@@ -5200,8 +5199,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagLuaAppUseNewTwoStepFlowOnLoginFix": "True",
   "FIntRoact17Rollout7": "100",
-  "FStringFlagRepoGitHashFastString": "55b10cc56a1c9cc387a9cddf5d714a2fadf6b56a",
-  "DFStringFlagRepoGitHashDynamicString": "55b10cc56a1c9cc387a9cddf5d714a2fadf6b56a",
-  "FStringFlipTimeStampFastString": "2021-12-10T18:30:16.926Z",
-  "DFStringFlipTimeStampDynamicString": "2021-12-10T18:30:16.926Z"
+  "FStringFlagRepoGitHashFastString": "de9db4ccf40d9015b4f681095db5af8067fb66c1",
+  "DFStringFlagRepoGitHashDynamicString": "de9db4ccf40d9015b4f681095db5af8067fb66c1",
+  "FStringFlipTimeStampFastString": "2021-12-10T18:31:07.362Z",
+  "DFStringFlipTimeStampDynamicString": "2021-12-10T18:31:07.362Z"
 }
