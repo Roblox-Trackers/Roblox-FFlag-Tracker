@@ -4735,7 +4735,6 @@
   "FFlag9SliceEditorDontRestoreOnDMLoad": "True",
   "FFlag9SliceEditorSaveSliceOffsets": "True",
   "FFlag9SliceEditorFixAnalyticsReportingThrottling": "True",
-  "FFlagFastClusterFetchResourcesEarly": "False",
   "DFFlagTeleportErrorLoggingRequestCount": "True",
   "DFFlagVoiceChatReflectionVisible": "True",
   "DFFlagHttpDefaultRetryEnableParam": "True",
@@ -4994,6 +4993,7 @@
   "FFlagStudioScriptVersionHistoryDisabledInNonEditModes": "True",
   "FFlagVirtualCursorResetLastSelectedObjectCorrectly": "True",
   "FFlagVirtualCursorRThumbstickScrolling": "True",
+  "FFlagFastClusterFetchResourcesEarly2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5348,8 +5348,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagLuaAppUseNewTwoStepFlowOnLoginFix": "True",
   "FIntRoact17Rollout7": "100",
-  "FStringFlagRepoGitHashFastString": "f2603d08cf52acaef5974066e96f1f13ce18d727",
-  "DFStringFlagRepoGitHashDynamicString": "f2603d08cf52acaef5974066e96f1f13ce18d727",
-  "FStringFlipTimeStampFastString": "2022-01-06T20:54:43.698Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-06T20:54:43.698Z"
+  "FStringFlagRepoGitHashFastString": "5c104adc1ff13525883b506c3f188a91a3710a39",
+  "DFStringFlagRepoGitHashDynamicString": "5c104adc1ff13525883b506c3f188a91a3710a39",
+  "FStringFlipTimeStampFastString": "2022-01-06T21:03:03.706Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-06T21:03:03.706Z"
 }
