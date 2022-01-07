@@ -5004,6 +5004,9 @@
   "FFlagCookiesStoredWithLocalStorage": "True",
   "FFlagStudioIsDocTabManagerDifferentiateBetweenPublishAndSaveEnabled": "True",
   "FFlagFixUWPFraudPrecheckErrorModal": "True",
+  "DFFlagEnableRestrictedAssetSaleLocation": "True",
+  "FFlagEnableRestrictedAssetSaleLocationInspectAndBuy": "True",
+  "FFlagEnableRestrictedAssetSaleLocationPurchasePrompt": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5358,8 +5361,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagLuaAppUseNewTwoStepFlowOnLoginFix": "True",
   "FIntRoact17Rollout7": "100",
-  "FStringFlagRepoGitHashFastString": "a26848ea182522a2cc5b28e8b694ffd5bc288c84",
-  "DFStringFlagRepoGitHashDynamicString": "a26848ea182522a2cc5b28e8b694ffd5bc288c84",
-  "FStringFlipTimeStampFastString": "2022-01-07T00:18:05.986Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-07T00:18:05.986Z"
+  "FStringFlagRepoGitHashFastString": "2ecb9fc26b6a198ebf256a241e72a45b42e92c79",
+  "DFStringFlagRepoGitHashDynamicString": "2ecb9fc26b6a198ebf256a241e72a45b42e92c79",
+  "FStringFlipTimeStampFastString": "2022-01-07T00:20:52.773Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-07T00:20:52.773Z"
 }
