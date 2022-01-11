@@ -5036,6 +5036,8 @@
   "FFlagIsTeamCreateJoinFailureInternalErrorMessageDisabled": "True",
   "FFlagReplaceDummyLink": "True",
   "FFlagEnablePlayerAppLoginPageExperiments": "True",
+  "DFFlagMathUseSIMDExtentsFunctions": "True",
+  "DFFlagMathUseSIMDIsOrthonormal": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5293,8 +5295,8 @@
   "FFlagPathfindingModifiersBetaFeature": "True",
   "DFFlagInferredCrashSystemSuccessReportMove": "True",
   "DFFlagRenderTC2_6": "False",
-  "FStringFlagRepoGitHashFastString": "2413addf1eed241949ac2b6c75581ff7ba525f31",
-  "DFStringFlagRepoGitHashDynamicString": "2413addf1eed241949ac2b6c75581ff7ba525f31",
-  "FStringFlipTimeStampFastString": "2022-01-11T19:45:50.548Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-11T19:45:50.548Z"
+  "FStringFlagRepoGitHashFastString": "937fab1dc3827f335c798fc247af93f7de1f3418",
+  "DFStringFlagRepoGitHashDynamicString": "937fab1dc3827f335c798fc247af93f7de1f3418",
+  "FStringFlipTimeStampFastString": "2022-01-11T19:58:54.506Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-11T19:58:54.506Z"
 }
