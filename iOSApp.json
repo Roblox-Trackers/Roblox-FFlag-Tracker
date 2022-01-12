@@ -5027,6 +5027,7 @@
   "FFlagStudioDisallowedBreakpointDeadlock": "True",
   "FFlagCrossDeviceInstructionExperiment": "True",
   "DFFlagCleanupOldAssetGamePt1": "True",
+  "FFlagWin32LaunchGameOnUAStartup": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5331,8 +5332,8 @@
   "FFlagLuaAppUseNewTwoStepFlowOnLoginFix": "True",
   "FIntRoact17Rollout7": "100",
   "DFFlagSessionTelemetryUnify": "True",
-  "FStringFlagRepoGitHashFastString": "950c4549a8dd97470ae0f42d4561a9e857ba930a",
-  "DFStringFlagRepoGitHashDynamicString": "950c4549a8dd97470ae0f42d4561a9e857ba930a",
-  "FStringFlipTimeStampFastString": "2022-01-12T01:11:45.869Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-12T01:11:45.869Z"
+  "FStringFlagRepoGitHashFastString": "45fabeef72eb3ad7367f9d8dfd0f4832b178e84f",
+  "DFStringFlagRepoGitHashDynamicString": "45fabeef72eb3ad7367f9d8dfd0f4832b178e84f",
+  "FStringFlipTimeStampFastString": "2022-01-12T21:07:12.000Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-12T21:07:12.000Z"
 }
