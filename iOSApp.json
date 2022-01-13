@@ -5042,6 +5042,8 @@
   "FFlagFixAndroidPcmFormatDuringDecode": "True",
   "FFlagMediaCodecUseNdk": "True",
   "FFlagPluginDockWidgetsUseNonTranslatedIds": "True",
+  "FFlagEnableStandalonePluginSquishTests": "True",
+  "FFlagStudioRefactorStandalonePluginAccess": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5347,8 +5349,8 @@
   "FIntRoact17Rollout7": "100",
   "DFFlagSessionTelemetryUnify": "True",
   "DFFlagPredictedOOM": "True",
-  "FStringFlagRepoGitHashFastString": "1261e259a65cf170d6d8910adb62829cee095f80",
-  "DFStringFlagRepoGitHashDynamicString": "1261e259a65cf170d6d8910adb62829cee095f80",
-  "FStringFlipTimeStampFastString": "2022-01-13T18:38:24.831Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-13T18:38:24.831Z"
+  "FStringFlagRepoGitHashFastString": "cacb37b5fd33020c3ab04deec1cef7af6309429d",
+  "DFStringFlagRepoGitHashDynamicString": "cacb37b5fd33020c3ab04deec1cef7af6309429d",
+  "FStringFlipTimeStampFastString": "2022-01-13T18:43:35.921Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-13T18:43:35.921Z"
 }
