@@ -5081,9 +5081,6 @@
   "FFlagTileImpressionsUnmountFix": "True",
   "FFlagAXGenericBackButtonOverride": "True",
   "FFlagStudioDebuggerMainThreadAndNullCheckFixes": "True",
-  "DFFlagSaferMove": "True",
-  "DFIntSafeMoveBaseIncrementMillis": "1200",
-  "DFIntSafeMoveGrowthFactorMillis": "0",
   "DFFlagWorkerThreadUseStdThread": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -5313,8 +5310,8 @@
   "FFlagHumanoidParallelSafeUnseat_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "0",
-  "FStringFlagRepoGitHashFastString": "fa0ee6cf3f825b0cb7fd064c6cc562b32713f62a",
-  "DFStringFlagRepoGitHashDynamicString": "fa0ee6cf3f825b0cb7fd064c6cc562b32713f62a",
-  "FStringFlipTimeStampFastString": "2022-01-18T23:26:33.984Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-18T23:26:33.984Z"
+  "FStringFlagRepoGitHashFastString": "8640d6ab53dbe587f592d4d9ef6b7190d9e527f3",
+  "DFStringFlagRepoGitHashDynamicString": "8640d6ab53dbe587f592d4d9ef6b7190d9e527f3",
+  "FStringFlipTimeStampFastString": "2022-01-18T23:27:33.351Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-18T23:27:33.351Z"
 }
