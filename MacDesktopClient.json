@@ -5084,6 +5084,7 @@
   "DFFlagSaferMove": "True",
   "DFIntSafeMoveBaseIncrementMillis": "1200",
   "DFIntSafeMoveGrowthFactorMillis": "0",
+  "DFFlagWorkerThreadUseStdThread": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5337,8 +5338,8 @@
   "DFFlagLogHttpRequestTimeBuckets3": "True",
   "FFlagQuickMenuControllerBarRefactor": "True",
   "FFlagUseInspectAndBuyControllerBar": "True",
-  "FStringFlagRepoGitHashFastString": "87d5455c2cd5a4bcdea3a1e32b6c2f008ed95613",
-  "DFStringFlagRepoGitHashDynamicString": "87d5455c2cd5a4bcdea3a1e32b6c2f008ed95613",
-  "FStringFlipTimeStampFastString": "2022-01-18T23:18:14.603Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-18T23:18:14.603Z"
+  "FStringFlagRepoGitHashFastString": "fa0ee6cf3f825b0cb7fd064c6cc562b32713f62a",
+  "DFStringFlagRepoGitHashDynamicString": "fa0ee6cf3f825b0cb7fd064c6cc562b32713f62a",
+  "FStringFlipTimeStampFastString": "2022-01-18T23:26:33.984Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-18T23:26:33.984Z"
 }
