@@ -1661,7 +1661,7 @@
   "FFlagUsePasswordValidationPOSTApi": "True",
   "FFlagUseUsernameValidationPOSTApi": "True",
   "DFIntRewriteOutfitThumbnailUrlRollout2": "100",
-  "DFIntAbuseReportV2Percentage": "50",
+  "DFIntAbuseReportV2Percentage": "75",
   "DFFlagCommonQueueParallelCleanup": "True",
   "FFlagExtendAnimationLimit": "True",
   "FFlagLuaAppEnableSpotlightSortForFriends": "True",
@@ -5395,8 +5395,8 @@
   "FIntRoact17Rollout7": "100",
   "DFFlagSessionTelemetryUnify": "True",
   "DFFlagPredictedOOM": "True",
-  "FStringFlagRepoGitHashFastString": "f62e1e5c15de179a49186dcf970807e76d4047c3",
-  "DFStringFlagRepoGitHashDynamicString": "f62e1e5c15de179a49186dcf970807e76d4047c3",
-  "FStringFlipTimeStampFastString": "2022-01-19T23:31:45.993Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-19T23:31:45.993Z"
+  "FStringFlagRepoGitHashFastString": "c1d0aa3573ea27e92fe7e2516974583ade7ad929",
+  "DFStringFlagRepoGitHashDynamicString": "c1d0aa3573ea27e92fe7e2516974583ade7ad929",
+  "FStringFlipTimeStampFastString": "2022-01-19T23:55:12.876Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-19T23:55:12.876Z"
 }
