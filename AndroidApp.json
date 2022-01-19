@@ -4630,7 +4630,7 @@
   "FFlagLuauExtendedClassMismatchError": "True",
   "FFlagLuauParseGenericFunctionTypeBegin": "True",
   "DFFlagAllowBatchJoins3": "False",
-  "DFFlagAllowBatchJoins3_DataCenterFilter": "False;213;214;189;265",
+  "DFFlagAllowBatchJoins3_DataCenterFilter": "True;213;214",
   "FFlagLuaAppDiscoveryAPIExperiment": "True",
   "FFlagNotifyAliveOnClose2": "True",
   "FIntLuaAppDiscoveryApiExperimentRolloutPercentage": "100",
@@ -5443,8 +5443,8 @@
   "FIntRoact17Rollout7": "100",
   "FFlagEnableWebviewVisibilityFix": "True",
   "DFFlagPredictedOOM": "True",
-  "FStringFlagRepoGitHashFastString": "4bbdf6e23516b7e9823d346911be4b4297c6231a",
-  "DFStringFlagRepoGitHashDynamicString": "4bbdf6e23516b7e9823d346911be4b4297c6231a",
-  "FStringFlipTimeStampFastString": "2022-01-19T20:16:06.715Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-19T20:16:06.715Z"
+  "FStringFlagRepoGitHashFastString": "972e25c2118cbca11a409f0f03e3e9ecfb02a0ae",
+  "DFStringFlagRepoGitHashDynamicString": "972e25c2118cbca11a409f0f03e3e9ecfb02a0ae",
+  "FStringFlipTimeStampFastString": "2022-01-19T21:09:59.853Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-19T21:09:59.853Z"
 }
