@@ -5085,6 +5085,8 @@
   "DFIntRakNetSelectTimeoutMs_DataCenterFilter": "100;235;232;283;299",
   "FFlagUIBloxUpdateDescriptionTextSize": "True",
   "DFFlagComputePathAnalytics": "True",
+  "DFFlagLogHttpRequestTimeBuckets3": "True",
+  "DFFlagTrackHttpDownloadForBandwidthCompute": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5313,8 +5315,8 @@
   "FFlagHumanoidParallelSafeUnseat_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "0",
-  "FStringFlagRepoGitHashFastString": "05dd80faafe115738b460e5245b8e7da39c7a63a",
-  "DFStringFlagRepoGitHashDynamicString": "05dd80faafe115738b460e5245b8e7da39c7a63a",
-  "FStringFlipTimeStampFastString": "2022-01-19T20:13:11.019Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-19T20:13:11.019Z"
+  "FStringFlagRepoGitHashFastString": "4bbdf6e23516b7e9823d346911be4b4297c6231a",
+  "DFStringFlagRepoGitHashDynamicString": "4bbdf6e23516b7e9823d346911be4b4297c6231a",
+  "FStringFlipTimeStampFastString": "2022-01-19T20:16:06.715Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-19T20:16:06.715Z"
 }
