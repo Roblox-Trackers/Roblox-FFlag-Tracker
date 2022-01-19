@@ -5063,7 +5063,7 @@
   "FFlagRenderTerrainGLES2ApproxMip": "True",
   "FFlagToolboxDeduplicatePackages": "True",
   "FFlagPlayerEmulatorUseRoactv14": "True",
-  "FFlagRakNetSafeShutdown_DataCenterFilter": "True;235;232",
+  "FFlagRakNetSafeShutdown_DataCenterFilter": "True;235;232;299",
   "FFlagImprovePathUpdateStep2": "True",
   "FFlagFixDataModelPatchCachedRollback": "True",
   "FFlagFixDataModelPatchAlwaysUpdate": "True",
@@ -5086,7 +5086,7 @@
   "FFlagLuauFixTonumberReturnType": "True",
   "FFlagAddBrowserEmulationRegistrySetting": "True",
   "FFlagParallelLuaThrowErrorTouchedEventConnection": "True",
-  "DFIntRakNetSelectTimeoutMs_DataCenterFilter": "100;235;232;283",
+  "DFIntRakNetSelectTimeoutMs_DataCenterFilter": "100;235;232;283;299",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5340,8 +5340,8 @@
   "DFFlagLogHttpRequestTimeBuckets3": "True",
   "FFlagQuickMenuControllerBarRefactor": "True",
   "FFlagUseInspectAndBuyControllerBar": "True",
-  "FStringFlagRepoGitHashFastString": "4f8c8dc33f5d29b8b30109ff0dd2f61510c4a3cf",
-  "DFStringFlagRepoGitHashDynamicString": "4f8c8dc33f5d29b8b30109ff0dd2f61510c4a3cf",
-  "FStringFlipTimeStampFastString": "2022-01-19T18:41:58.431Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-19T18:41:58.431Z"
+  "FStringFlagRepoGitHashFastString": "af6d3805cd58d66be5c3632eea123e4196448598",
+  "DFStringFlagRepoGitHashDynamicString": "af6d3805cd58d66be5c3632eea123e4196448598",
+  "FStringFlipTimeStampFastString": "2022-01-19T18:44:42.058Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-19T18:44:42.058Z"
 }
