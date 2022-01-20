@@ -1666,7 +1666,6 @@
   "FFlagExtendAnimationLimit": "True",
   "FFlagLuaAppEnableSpotlightSortForFriends": "True",
   "FFlagNoHardcodedStringInLuaKickMessage": "True",
-  "FFlagEnablePivotEditorBeta": "True",
   "FStringLuauNativeVector3BetaFeatureUrl": "https://devforum.roblox.com/t/native-luau-vector3-beta/1180548",
   "FFlagStudioUpdateCachedResourceAliasName": "True",
   "FFlagGamepadAnimatedCursor": "True",
@@ -5101,6 +5100,11 @@
   "FFlagFixSelectPackageChildrenAssert": "True",
   "FFlagEnableSignupPlaceholderText": "True",
   "FFlagPathfindingCosts3": "True",
+  "FFlagModelPivotVisual2": "True",
+  "FFlagMoveSizePropertyToTransform": "True",
+  "FFlagPivotEditorReleaseCallout": "True",
+  "FFlagStudioMakeAttachCalloutUseableFromPluginHost": "True",
+  "FFlagStudioToastNotificationsInLua": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5351,8 +5355,8 @@
   "FFlagRemoveMoreMenuFromReducer": "True",
   "FIntRoact17Rollout7": "100",
   "FFlagUseInspectAndBuyControllerBar": "True",
-  "FStringFlagRepoGitHashFastString": "1cf99bc8d64472152fdc18e0cb85573063d3c965",
-  "DFStringFlagRepoGitHashDynamicString": "1cf99bc8d64472152fdc18e0cb85573063d3c965",
-  "FStringFlipTimeStampFastString": "2022-01-20T22:25:06.786Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-20T22:25:06.786Z"
+  "FStringFlagRepoGitHashFastString": "41d3c2739b84af23bcb23be4ac3c79deaa48050b",
+  "DFStringFlagRepoGitHashDynamicString": "41d3c2739b84af23bcb23be4ac3c79deaa48050b",
+  "FStringFlipTimeStampFastString": "2022-01-20T22:29:13.669Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-20T22:29:13.669Z"
 }
