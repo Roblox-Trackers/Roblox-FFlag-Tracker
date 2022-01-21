@@ -5114,7 +5114,7 @@
   "DFIntRakNetSelectTimeoutMs": "100",
   "DFFlagVoiceChatAutoRetryTokenOnClient": "True",
   "FFlagPPPremiumUpsellCounters": "True",
-  "FFlagLuaAppSkipIXPWait": "True",
+  "FFlagLuaAppSkipIXPWait": "False",
   "FIntLuaAppDiscoveryApiLaunchRolloutPercentage": "10",
   "DFFlagRemotesFilterInvocationSize": "False",
   "DFFlagRemotesFilterInvocationSize_DataCenterFilter": "False;213",
