@@ -5178,6 +5178,8 @@
   "DFIntTimeBetweenSendConnectionAttemptsMS": "800",
   "FFlagLuauCommittingTxnLogFreeTpPromote": "True",
   "DFFlagStreamingObserverNOUAvoidBracket": "True",
+  "DFIntLuaGcStatsCycleEphemeralCooldownSec": "120",
+  "DFIntLuaGcStatsCycleEphemeralHundrethsPercentage": "2",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5427,8 +5429,8 @@
   "FIntRoact17Rollout6": "100",
   "FIntRoact17Rollout7": "100",
   "FFlagUseInspectAndBuyControllerBar": "True",
-  "FStringFlagRepoGitHashFastString": "e63058dc5537d1406e0953db09d98c0e681f130c",
-  "DFStringFlagRepoGitHashDynamicString": "e63058dc5537d1406e0953db09d98c0e681f130c",
-  "FStringFlipTimeStampFastString": "2022-01-27T17:57:26.876Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-27T17:57:26.876Z"
+  "FStringFlagRepoGitHashFastString": "45cde9b383f8a9bd91ea2521902dcc410cdc0ecd",
+  "DFStringFlagRepoGitHashDynamicString": "45cde9b383f8a9bd91ea2521902dcc410cdc0ecd",
+  "FStringFlipTimeStampFastString": "2022-01-27T17:59:48.856Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-27T17:59:48.856Z"
 }
