@@ -4428,7 +4428,7 @@
   "DFFlagVoiceChatDmFix3": "True",
   "FFlagPreventChangesWhenConvertingPackage": "True",
   "FFlagParallelLuaEasySchedule": "True",
-  "FFlagLuaGcParallelStates": "True",
+  "FFlagLuaGcParallelStates": "False",
   "DFFlagParseScalesAsNumber": "True",
   "FFlagFixNeckDeathInApplyDescriptionStreaming": "True",
   "DFFlagRequest2Refactor": "True",
@@ -5123,7 +5123,6 @@
   "FFlagStudioPackageBlockPublishWindowClose": "True",
   "FFlagRelocateFloatingWidget": "True",
   "FFlagStreamingGCNeverNOUClientCharacter": "True",
-  "FFlagLuaGcParallelStates_DataCenterFilter": "False;295",
   "DFFlagStreamJobHandlesNOUAddRemoveMove4": "False",
   "FFlagLuauClearDMTypeGraphMoreOften": "True",
   "FFlagLatestClientThemeColors": "True",
@@ -5176,6 +5175,7 @@
   "FFlagTrimImageUrl": "True",
   "FFlagLuaCheckResults": "True",
   "FFlagLuauFixAmbiguousErrorRecoveryInAssign": "True",
+  "FFlagTerrainToolsPluginButtonRestore": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5425,8 +5425,8 @@
   "FIntRoact17Rollout6": "100",
   "FIntRoact17Rollout7": "100",
   "FFlagUseInspectAndBuyControllerBar": "True",
-  "FStringFlagRepoGitHashFastString": "680ed71d6f292a2fb70bfb76e94274bc61f89575",
-  "DFStringFlagRepoGitHashDynamicString": "680ed71d6f292a2fb70bfb76e94274bc61f89575",
-  "FStringFlipTimeStampFastString": "2022-01-27T17:14:31.052Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-27T17:14:31.052Z"
+  "FStringFlagRepoGitHashFastString": "4fb1f195624fd441aefc6e98875797213c75c964",
+  "DFStringFlagRepoGitHashDynamicString": "4fb1f195624fd441aefc6e98875797213c75c964",
+  "FStringFlipTimeStampFastString": "2022-01-27T17:18:58.335Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-27T17:18:58.335Z"
 }
