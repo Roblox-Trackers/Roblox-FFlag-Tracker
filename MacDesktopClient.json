@@ -960,7 +960,7 @@
   "FFlagLuaAppFeaturedGamePlayButton": "False",
   "FFlagLuaUseNewBirthdayValidation": "True",
   "FFlagBirthdayPickerFocusRefactor": "True",
-  "DFIntSendConnectionAttemptCount": "18",
+  "DFIntSendConnectionAttemptCount": "24",
   "FFlagUseDisclaimerLinkRtf": "True",
   "FFlagExtendPlayerScrollListWindowingForGamepadSelection": "True",
   "DFFlagDebugLogAvatarLoadTimeStatsByPlace_PlaceFilter": "True;189707",
@@ -5175,6 +5175,7 @@
   "FFlagLuaCheckResults": "True",
   "FFlagLuauFixAmbiguousErrorRecoveryInAssign": "True",
   "FFlagTerrainToolsPluginButtonRestore": "True",
+  "DFIntTimeBetweenSendConnectionAttemptsMS": "800",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5424,8 +5425,8 @@
   "FIntRoact17Rollout6": "100",
   "FIntRoact17Rollout7": "100",
   "FFlagUseInspectAndBuyControllerBar": "True",
-  "FStringFlagRepoGitHashFastString": "a0ac352c889582c475b54a7c09e0a206f3f52d23",
-  "DFStringFlagRepoGitHashDynamicString": "a0ac352c889582c475b54a7c09e0a206f3f52d23",
-  "FStringFlipTimeStampFastString": "2022-01-27T17:23:19.353Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-27T17:23:19.353Z"
+  "FStringFlagRepoGitHashFastString": "fe19fc408dfad866a9976d3020b11797348f858f",
+  "DFStringFlagRepoGitHashDynamicString": "fe19fc408dfad866a9976d3020b11797348f858f",
+  "FStringFlipTimeStampFastString": "2022-01-27T17:26:22.051Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-27T17:26:22.051Z"
 }
