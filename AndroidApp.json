@@ -5103,7 +5103,7 @@
   "DFFlagVoiceChatAutoRetryTokenOnClient": "True",
   "FFlagPPPremiumUpsellCounters": "True",
   "FFlagLuaAppSkipIXPWait": "True",
-  "FIntLuaAppDiscoveryApiLaunchRolloutPercentage": "45",
+  "FIntLuaAppDiscoveryApiLaunchRolloutPercentage": "50",
   "DFFlagRemotesFilterInvocationSize": "False",
   "DFFlagRemotesFilterInvocationSize_DataCenterFilter": "False;213",
   "DFFlagHttpInfluxRandomPerReport": "True",
@@ -5198,6 +5198,7 @@
   "FFlagLuauProperTypeLevels": "True",
   "FFlagLuauQuantifyInPlace2": "True",
   "FFlagSimModelLodUseNewVoxelizer": "True",
+  "FFlagScriptDebuggerDiscardMultipleFramesOnBreak": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5553,8 +5554,8 @@
   "FIntRoact17Rollout7": "100",
   "FFlagEnableWebviewVisibilityFix": "True",
   "DFFlagPredictedOOM": "True",
-  "FStringFlagRepoGitHashFastString": "dc1a36cb398ad5068fc67b7a1b61eb4e7e8a2949",
-  "DFStringFlagRepoGitHashDynamicString": "dc1a36cb398ad5068fc67b7a1b61eb4e7e8a2949",
-  "FStringFlipTimeStampFastString": "2022-01-27T23:46:29.364Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-27T23:46:29.364Z"
+  "FStringFlagRepoGitHashFastString": "56d3a41c77f9204f1f01191b8550d2a7ec1f8a63",
+  "DFStringFlagRepoGitHashDynamicString": "56d3a41c77f9204f1f01191b8550d2a7ec1f8a63",
+  "FStringFlipTimeStampFastString": "2022-01-28T00:06:00.125Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-28T00:06:00.125Z"
 }
