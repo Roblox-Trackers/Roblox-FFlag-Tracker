@@ -3795,7 +3795,7 @@
   "FFlagStudioDisallowMultipleSplineEditors": "True",
   "FFlagUserMayChooseModelForFBXAnimImport2": "True",
   "FFlagFBXAnimImportFixes4": "True",
-  "FFlagBetterBreakpointsBetaFeature": "True",
+  "FFlagBetterBreakpointsBetaFeature": "False",
   "FStringBetterBreakpointsBetaFeatureUrl": "https://devforum.roblox.com/t/better-breakpoints-beta-logpoints-conditional-breakpoints-more/1489321",
   "FFlagEnableVoiceChatMuteButton": "True",
   "FFlagEnableVoiceChatNewMenu": "True",
@@ -5220,6 +5220,8 @@
   "FFlagConnectBatchSignalListener": "True",
   "DFFlagPlayerConnectingBatchSignal": "False",
   "DFFlagPlayerConnectingBatchSignal_DataCenterFilter": "True;214",
+  "FFlagStudioLogExpressionInBreakpointTooltip": "True",
+  "FFlagStudioNewBreakpointEditDialog": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5524,8 +5526,8 @@
   "FIntRoact17Rollout7": "100",
   "DFFlagSessionTelemetryUnify": "True",
   "DFFlagPredictedOOM": "True",
-  "FStringFlagRepoGitHashFastString": "dc3146d1204acfe1b6eb4f051e4bce741769c222",
-  "DFStringFlagRepoGitHashDynamicString": "dc3146d1204acfe1b6eb4f051e4bce741769c222",
-  "FStringFlipTimeStampFastString": "2022-01-31T20:09:57.075Z",
-  "DFStringFlipTimeStampDynamicString": "2022-01-31T20:09:57.075Z"
+  "FStringFlagRepoGitHashFastString": "37974760543d0067b7ba19a48edc6f2822d992c7",
+  "DFStringFlagRepoGitHashDynamicString": "37974760543d0067b7ba19a48edc6f2822d992c7",
+  "FStringFlipTimeStampFastString": "2022-01-31T20:35:08.214Z",
+  "DFStringFlipTimeStampDynamicString": "2022-01-31T20:35:08.214Z"
 }
