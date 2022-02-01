@@ -5235,6 +5235,8 @@
   "FFlagLuauBytecodeV2Write": "True",
   "FFlagInitializeGamepadServiceWithDataModel": "True",
   "DFIntNetJdiProcessReportingIntervalSeconds": "300",
+  "FFlagReplicatorReportJdiOverProcess": "False",
+  "FFlagReplicatorReportJdiOverProcess_DataCenterFilter": "True;213",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5501,8 +5503,8 @@
   "FIntRoact17Rollout7": "100",
   "FFlagUseInspectAndBuyControllerBar": "True",
   "FFlagCloudsUseBC4Compression": "True",
-  "FStringFlagRepoGitHashFastString": "d45ab2f9e3c10eb542d122fe3b482c21f2614d54",
-  "DFStringFlagRepoGitHashDynamicString": "d45ab2f9e3c10eb542d122fe3b482c21f2614d54",
-  "FStringFlipTimeStampFastString": "2022-02-01T21:34:04.109Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-01T21:34:04.109Z"
+  "FStringFlagRepoGitHashFastString": "c0ddf563da75f968f789b0d270b157863eafa2b0",
+  "DFStringFlagRepoGitHashDynamicString": "c0ddf563da75f968f789b0d270b157863eafa2b0",
+  "FStringFlipTimeStampFastString": "2022-02-01T21:49:14.783Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-01T21:49:14.783Z"
 }
