@@ -5121,7 +5121,7 @@
   "FFlagDecalZIndexKeyCheck": "True",
   "FFlagRemoveMoreMenuFromReducer": "True",
   "FFlagFixModelLodZFighting": "True",
-  "DFFlagHttpRetryLoggingImprovements": "False",
+  "DFFlagHttpRetryLoggingImprovements": "True",
   "FFlagSocialTabDisplayNameEvents_v1": "True",
   "FFlagStreamJobTracksNOUAddRemoveMove4": "False",
   "FFlagGridViewToUseAutomaticSize": "True",
@@ -5237,6 +5237,7 @@
   "DFIntNetJdiProcessReportingIntervalSeconds": "300",
   "FFlagReplicatorReportJdiOverProcess": "False",
   "FFlagReplicatorReportJdiOverProcess_DataCenterFilter": "True;213",
+  "FFlagStudioRemoveWidgetFromSessionInfo2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5503,8 +5504,8 @@
   "FIntRoact17Rollout7": "100",
   "FFlagUseInspectAndBuyControllerBar": "True",
   "FFlagCloudsUseBC4Compression": "True",
-  "FStringFlagRepoGitHashFastString": "c0ddf563da75f968f789b0d270b157863eafa2b0",
-  "DFStringFlagRepoGitHashDynamicString": "c0ddf563da75f968f789b0d270b157863eafa2b0",
-  "FStringFlipTimeStampFastString": "2022-02-01T21:49:14.783Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-01T21:49:14.783Z"
+  "FStringFlagRepoGitHashFastString": "a2f1c6e61d752accb3d98ea1993fd4250e8bae5e",
+  "DFStringFlagRepoGitHashDynamicString": "a2f1c6e61d752accb3d98ea1993fd4250e8bae5e",
+  "FStringFlipTimeStampFastString": "2022-02-01T22:01:04.823Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-01T22:01:04.823Z"
 }
