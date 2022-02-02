@@ -4263,8 +4263,6 @@
   "FFlagFFlagModerationByProxyUserBanNotification": "True",
   "FFlagStudioDirectlyReportTracingIdWithNavErrors": "True",
   "FFlagPreventDoubleRegister": "True",
-  "DFFlagDebugEnableNestedSoundGroups": "False",
-  "DFFlagDebugEnableNestedSoundGroups_PlaceFilter": "True;6901134961;7240402539;7325556181",
   "DFFlagFixBuggySoundGroupSidechains": "True",
   "DFFlagOnlySyncDspsWhenNecessary": "True",
   "FFlagUseNewAssetPermissionEndpoint2": "True",
@@ -5260,6 +5258,8 @@
   "FFlagLuauUnifyPackTails": "True",
   "FFlagGlobalDataStoreUseDataStore2": "True",
   "FFlagLuauGroupExpectedType": "True",
+  "DFFlagEnableNestedSoundGroups": "False",
+  "DFFlagEnableNestedSoundGroups_PlaceFilter": "True;6901134961;7240402539;7325556181;7902465046;7902470429",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5510,8 +5510,8 @@
   "FIntRoact17Rollout7": "100",
   "FFlagUseInspectAndBuyControllerBar": "True",
   "FFlagBetterTrackpadScrolling": "True",
-  "FStringFlagRepoGitHashFastString": "101dae245d425623ccae4f341462f15ec53ca5c7",
-  "DFStringFlagRepoGitHashDynamicString": "101dae245d425623ccae4f341462f15ec53ca5c7",
-  "FStringFlipTimeStampFastString": "2022-02-02T17:22:11.596Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-02T17:22:11.596Z"
+  "FStringFlagRepoGitHashFastString": "999a421ec6526f64779b76a703b4f4e11f67fd05",
+  "DFStringFlagRepoGitHashDynamicString": "999a421ec6526f64779b76a703b4f4e11f67fd05",
+  "FStringFlipTimeStampFastString": "2022-02-02T17:24:48.213Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-02T17:24:48.213Z"
 }
