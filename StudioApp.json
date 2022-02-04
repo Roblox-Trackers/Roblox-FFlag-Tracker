@@ -5293,6 +5293,8 @@
   "FFlagRakNetSafeShutdown2_DataCenterFilter": "True;361",
   "FFlagAuthFailureRetryUI": "True",
   "DFFlagReportIncorrectlyPausedReplicationStat3": "True",
+  "FIntRakNetResendBufferArrayLength": "512",
+  "FIntRakNetResendBufferArrayLength_DataCenterFilter": "1024;348",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5551,8 +5553,8 @@
   "FFlagLuauSchubfach": "True",
   "FFlagFixScreenScaleAlwaysBeingOne": "True",
   "FFlagRenderMaterialVariantTerrain": "True",
-  "FStringFlagRepoGitHashFastString": "a8a5791212951b034e12541f4b8a74171ae830d8",
-  "DFStringFlagRepoGitHashDynamicString": "a8a5791212951b034e12541f4b8a74171ae830d8",
-  "FStringFlipTimeStampFastString": "2022-02-04T00:43:56.450Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-04T00:43:56.450Z"
+  "FStringFlagRepoGitHashFastString": "fb59f38d4af341d315948d68fca71dd0b37268bf",
+  "DFStringFlagRepoGitHashDynamicString": "fb59f38d4af341d315948d68fca71dd0b37268bf",
+  "FStringFlipTimeStampFastString": "2022-02-04T01:26:12.399Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-04T01:26:12.399Z"
 }
