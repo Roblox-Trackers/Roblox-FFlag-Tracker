@@ -4519,8 +4519,6 @@
   "DFFlagTeleportHttpMetricsCleanup": "True",
   "FFlagTerrainDetailedLogs": "True",
   "FFlagUpdateTexSlotMainThread": "True",
-  "FFlagOptimizeNumUpdateEntityCalls4": "False",
-  "FFlagOptimizeNumUpdateEntityCalls4_PlaceFilter": "False;4924922222;920587237;6299805723;142823291;6284583030;2753915549;370731277;6872265039;6737970321;185655149;4616652839",
   "DFIntTeleportClientNetworkErrorInfluxHundredthsPercentage": "500",
   "FFlagAddMoreTelemetryToEmbeddedWebBrowserOnError": "True",
   "DFFlagSignalRParseErrorAsObject": "True",
@@ -5315,6 +5313,8 @@
   "FFlagUseInspectAndBuyControllerBar": "True",
   "FFlagLuauGcForwardMetatableBarrier": "True",
   "FFlagAgeVerificationFlowFromVoiceEligibleGamesV6": "True",
+  "FFlagOptimizeNumUpdateEntityCalls5": "False",
+  "FFlagOptimizeNumUpdateEntityCalls5_PlaceFilter": "True;4924922222;920587237;6299805723;142823291;6284583030;2753915549;370731277;6872265039;6737970321;185655149;4616652839",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5582,8 +5582,8 @@
   "FFlagCloudsUseBC4Compression": "True",
   "FFlagAETwoFactorLogOutMessage": "True",
   "FFlagPPTwoFactorLogOutMessage": "True",
-  "FStringFlagRepoGitHashFastString": "3123cfddf21571eec32aef8e0c73ac72f06fbcbe",
-  "DFStringFlagRepoGitHashDynamicString": "3123cfddf21571eec32aef8e0c73ac72f06fbcbe",
-  "FStringFlipTimeStampFastString": "2022-02-07T20:37:14.029Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-07T20:37:14.029Z"
+  "FStringFlagRepoGitHashFastString": "516c390d654d16e27a439daab03174d011e7cbf5",
+  "DFStringFlagRepoGitHashDynamicString": "516c390d654d16e27a439daab03174d011e7cbf5",
+  "FStringFlipTimeStampFastString": "2022-02-07T20:52:27.748Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-07T20:52:27.748Z"
 }
