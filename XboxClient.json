@@ -5321,6 +5321,10 @@
   "DFIntRaknetBwStatsInfluxReportDurationInSeconds": "3",
   "FFlagGenericButtonPassesMaxSizeToGenericTextLabel": "True",
   "FFlagLuaAppRecommendedImpressionsAnalytics3": "True",
+  "DFFlagTeleportErrorDebugInfluxLogs": "True",
+  "DFFlagTeleportWebErrorLogUserId2": "True",
+  "DFIntTeleportErrorDebugInfluxHundredthsPercentage": "10000",
+  "DFStringTeleportErrorDebugUserIds": "62593210;822886545",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5549,8 +5553,8 @@
   "FFlagHumanoidParallelSafeUnseat_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "100",
-  "FStringFlagRepoGitHashFastString": "96f18f0a36649f2ab2ae8c74b6abf0915b692ad7",
-  "DFStringFlagRepoGitHashDynamicString": "96f18f0a36649f2ab2ae8c74b6abf0915b692ad7",
-  "FStringFlipTimeStampFastString": "2022-02-07T23:28:56.606Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-07T23:28:56.606Z"
+  "FStringFlagRepoGitHashFastString": "d0b089ef2d0f91e45b89e3fe5bd72ec8984def67",
+  "DFStringFlagRepoGitHashDynamicString": "d0b089ef2d0f91e45b89e3fe5bd72ec8984def67",
+  "FStringFlipTimeStampFastString": "2022-02-07T23:35:34.410Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-07T23:35:34.410Z"
 }
