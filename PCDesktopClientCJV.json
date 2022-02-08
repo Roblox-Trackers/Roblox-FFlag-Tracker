@@ -5329,6 +5329,9 @@
   "FFlagAXInitalizationMockIXPService": "True",
   "FFlagLuauParseRecoverTypePackEllipsis": "True",
   "DFFlagVoiceChatSubscriptionRetryFix": "True",
+  "FFlagLuaAppCarouselUseGameGridCardSize": "False",
+  "FFlagLuaAppDesktopCarouselUseGridCardSize": "True",
+  "FFlagAssetManagerRemoveUILibraryPart1": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5554,7 +5557,6 @@
   "FIntCtrlPinchRejectionTimeoutMillis": "80",
   "DFFlagSupportJoinDataItemV2iv_PlaceFilter": "True;920587237;142823291;2753915549;192800;893973440;205224386;1715716216",
   "DFIntHttpCacheAsyncWriterMaxPendingSize": "300000000",
-  "FFlagLuaAppCarouselUseGameGridCardSize": "True",
   "FFlagLuaAppSkipWindowUpdateWithNewCarousel": "False",
   "FFlagInGameMenuUseOpenEduPopupThunk": "True",
   "FFlagHumanoidParallelFasterSetCollision_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
@@ -5596,8 +5598,8 @@
   "FFlagCloudsUseBC4Compression": "True",
   "FFlagAETwoFactorLogOutMessage": "True",
   "FFlagPPTwoFactorLogOutMessage": "True",
-  "FStringFlagRepoGitHashFastString": "4186296ad99ac9654395ae549cf2e4b158abe1e7",
-  "DFStringFlagRepoGitHashDynamicString": "4186296ad99ac9654395ae549cf2e4b158abe1e7",
-  "FStringFlipTimeStampFastString": "2022-02-08T19:59:36.754Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-08T19:59:36.754Z"
+  "FStringFlagRepoGitHashFastString": "c9cc98afe36be48d8c96c7795dec0cd1c4f6e1a1",
+  "DFStringFlagRepoGitHashDynamicString": "c9cc98afe36be48d8c96c7795dec0cd1c4f6e1a1",
+  "FStringFlipTimeStampFastString": "2022-02-08T20:06:18.939Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-08T20:06:18.939Z"
 }
