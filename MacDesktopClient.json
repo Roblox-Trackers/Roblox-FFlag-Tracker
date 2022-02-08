@@ -2415,7 +2415,7 @@
   "FFlagAEAssetManagmentIXPEnabled3": "True",
   "FFlagStudioExitQuicklyOnFatalError": "true",
   "FFlagReduceLineHeightClamp": "True",
-  "FFlagTempFixEmptyGridView": "True",
+  "FFlagTempFixEmptyGridView": "False",
   "FFlagAETimeoutOnCatalogPageRefreshABTestEnabled": "True",
   "FFlagLuaAppAutocompletePreloadedCacheIXP3": "False",
   "FFlagStudioScriptSkipUnlockIfDmClosed": "True",
@@ -5337,6 +5337,7 @@
   "FFlagExpandTerrainShapeBoxes": "True",
   "FFlagSendIsOptedInThroughUpsellParameter": "True",
   "DFIntAbuseReportMaxChatMessages": "25",
+  "FFlagAXAnimationManagerBetterDestroy": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5585,8 +5586,8 @@
   "FIntRoact17Rollout6": "100",
   "FIntRoact17Rollout7": "100",
   "FFlagBetterTrackpadScrolling": "True",
-  "FStringFlagRepoGitHashFastString": "e0c8876698f0c9908e4d9bab1fcad1a7d165e28c",
-  "DFStringFlagRepoGitHashDynamicString": "e0c8876698f0c9908e4d9bab1fcad1a7d165e28c",
-  "FStringFlipTimeStampFastString": "2022-02-08T20:45:49.475Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-08T20:45:49.475Z"
+  "FStringFlagRepoGitHashFastString": "6b4dd7170fd52fd29ddc294ee8884c8857c7f7bb",
+  "DFStringFlagRepoGitHashDynamicString": "6b4dd7170fd52fd29ddc294ee8884c8857c7f7bb",
+  "FStringFlipTimeStampFastString": "2022-02-08T20:58:48.482Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-08T20:58:48.482Z"
 }
