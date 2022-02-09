@@ -4942,7 +4942,7 @@
   "FFlagDevFrameworkTableAddFullSpanFunctionality": "True",
   "FFlagGraphicsParticleTimeScaleForBuiltInEffects": "True",
   "FFlagFixMissingEventForCrashes": "True",
-  "FFlagFixStudioHangWhenYieldInBindToClose": "True",
+  "FFlagFixStudioHangWhenYieldInBindToClose": "False",
   "FFlagScriptEditorAllowBoldFonts": "True",
   "FFlagScriptSideWidgetRefactor": "True",
   "FFlagStudioFixMacFontDialog": "True",
@@ -5324,7 +5324,7 @@
   "DFFlagTeleportErrorDebugInfluxLogs": "True",
   "DFFlagTeleportWebErrorLogUserId2": "True",
   "DFIntTeleportErrorDebugInfluxHundredthsPercentage": "10000",
-  "DFStringTeleportErrorDebugUserIds": "62593210;822886545",
+  "DFStringTeleportErrorDebugUserIds": "62593210;822886545;1298129762;2871056706;2536453367;2464589255;1547589010",
   "FFlagAssetImportCatchGetImageErrors": "True",
   "FFlagAXInitalizationMockIXPService": "True",
   "FFlagLuauParseRecoverTypePackEllipsis": "True",
@@ -5675,8 +5675,8 @@
   "DFFlagPredictedOOM": "True",
   "FFlagSessionHeartbeatAddSessionInfo": "True",
   "FFlagSessionAnalyticsIdleState2": "True",
-  "FStringFlagRepoGitHashFastString": "8298b7c5fea51d2790b17e7c9cad22c351a4c73e",
-  "DFStringFlagRepoGitHashDynamicString": "8298b7c5fea51d2790b17e7c9cad22c351a4c73e",
-  "FStringFlipTimeStampFastString": "2022-02-09T21:07:26.801Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-09T21:07:26.801Z"
+  "FStringFlagRepoGitHashFastString": "283d1bdc829a8ba78fb6f310f678ad7036daafdb",
+  "DFStringFlagRepoGitHashDynamicString": "283d1bdc829a8ba78fb6f310f678ad7036daafdb",
+  "FStringFlipTimeStampFastString": "2022-02-09T21:22:56.287Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-09T21:22:56.287Z"
 }
