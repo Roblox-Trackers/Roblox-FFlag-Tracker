@@ -3768,10 +3768,8 @@
   "FFlagStudioFixEmbeddedWebViewUrlReporting": "True",
   "FIntMaxPackageAssetIdsPerPermissionRequest": "50",
   "FFlagAXFixEqualityLogic": "True",
-  "FFlagTeamTestJoinFromHome": "True",
   "FFlagSignalrConnectionRbxSignalR2": "True",
   "FFlagFixOuterBoxDefaultInGameSettings": "True",
-  "FFlagStudioGreyOutLocalServerInTeamTest": "True",
   "DFFlagAddRakNetLogs": "True",
   "DFFlagAbortSeatingForRemoteHumanoid2": "True",
   "DFFlagFixCheckSeatTransitionEnabled2": "True",
@@ -4806,7 +4804,6 @@
   "FFlagReplicatorTrackIdJoinQueue2": "True",
   "FFlagPivotEditorDeduplicatePackages": "True",
   "FFlagLocalizationToolsUseRoactv14": "True",
-  "FFlagStudioCloseFileToClose": "True",
   "FFlagBulkImportPreseedAudioCache": "True",
   "FFlagUpdateSuccessfullyLoadedSoundSignature": "True",
   "FFlagStudioUseSingleQQmlEngineInstance2": "True",
@@ -5594,8 +5591,8 @@
   "FIntRoact17Rollout7": "100",
   "FFlagSessionHeartbeatAddSessionInfo": "True",
   "FFlagSessionAnalyticsIdleState2": "True",
-  "FStringFlagRepoGitHashFastString": "bac959ff6133947f7cfc01223ddd49eb7b1d5ad9",
-  "DFStringFlagRepoGitHashDynamicString": "bac959ff6133947f7cfc01223ddd49eb7b1d5ad9",
-  "FStringFlipTimeStampFastString": "2022-02-09T22:28:43.291Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-09T22:28:43.291Z"
+  "FStringFlagRepoGitHashFastString": "0250a285d2e05cff012f0038423efe28c5cdaaec",
+  "DFStringFlagRepoGitHashDynamicString": "0250a285d2e05cff012f0038423efe28c5cdaaec",
+  "FStringFlipTimeStampFastString": "2022-02-09T22:29:55.647Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-09T22:29:55.647Z"
 }
