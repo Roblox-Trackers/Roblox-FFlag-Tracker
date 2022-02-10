@@ -5405,11 +5405,6 @@
   "DFIntOldSslInfluxHundredthsPercentage": "100",
   "FFlagLuaAppSendSearchUuidToBackend": "True",
   "DFFlagLocalizationTableCreationImprovement": "True",
-  "FFlagUGCDoNotConvertLC": "True",
-  "FFlagUGCLCAssetTypeIdsGuard": "True",
-  "FFlagUGCValidateLCFixEnums": "True",
-  "FFlagUGCValidateLayeredClothing2": "True",
-  "FStringUGCLCAllowedAssetTypeIds": "67",
   "FFlagLuaAppUseNewTwoStepFlowOnLoginFix": "True",
   "DFFlagBetterPlatform": "True",
   "FFlagStudioSaveLocalFileCrashOnApplicationCloseFix": "True",
@@ -5775,8 +5770,8 @@
   "FFlagEnableAmazonInGameUpsellV2": "True",
   "DFFlagPredictedOOMPressure": "True",
   "FIntLuaAppUseRoactNavigationRollout4": "25",
-  "FStringFlagRepoGitHashFastString": "a839bdf2e2a70b92ea1683115e78e64a3535b7d4",
-  "DFStringFlagRepoGitHashDynamicString": "a839bdf2e2a70b92ea1683115e78e64a3535b7d4",
-  "FStringFlipTimeStampFastString": "2022-02-10T21:37:03.941Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-10T21:37:03.941Z"
+  "FStringFlagRepoGitHashFastString": "d90d5610805f25184dbd2e4ad39cc48d74d6a9af",
+  "DFStringFlagRepoGitHashDynamicString": "d90d5610805f25184dbd2e4ad39cc48d74d6a9af",
+  "FStringFlipTimeStampFastString": "2022-02-10T21:43:48.247Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-10T21:43:48.247Z"
 }
