@@ -610,7 +610,7 @@
   "FFlagLuaAppAutocompleteHideSuggestionList": "False",
   "FFlagLuaAppBulletSizeFix": "True",
   "FFlagLuaAppCJVMorePageTermsPrivacy": "True",
-  "FFlagLuaAppChatPageWaitUntilUserABTestsInitialized": "True",
+  "FFlagLuaAppChatPageWaitUntilUserABTestsInitialized": "False",
   "FFlagLuaAppDeepLinkAfterAppDataFetch": "True",
   "FFlagLuaAppEnableStopWatchReporter": "True",
   "FFlagLuaAppEventsAddPageIdV2": "True",
@@ -5685,8 +5685,8 @@
   "FFlagSessionHeartbeatAddSessionInfo": "True",
   "FFlagSessionAnalyticsIdleState2": "True",
   "DFFlagPredictedOOMPressure": "True",
-  "FStringFlagRepoGitHashFastString": "635fbf9858f73638a05e87d0f0248b95d2ceb31e",
-  "DFStringFlagRepoGitHashDynamicString": "635fbf9858f73638a05e87d0f0248b95d2ceb31e",
-  "FStringFlipTimeStampFastString": "2022-02-09T23:55:09.842Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-09T23:55:09.842Z"
+  "FStringFlagRepoGitHashFastString": "428b1398baaa5d6f5c9a852e1582c344374d440a",
+  "DFStringFlagRepoGitHashDynamicString": "428b1398baaa5d6f5c9a852e1582c344374d440a",
+  "FStringFlipTimeStampFastString": "2022-02-10T00:06:00.221Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-10T00:06:00.221Z"
 }
