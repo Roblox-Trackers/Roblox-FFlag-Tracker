@@ -5288,7 +5288,6 @@
   "FIntRakNetResendBufferArrayLength": "512",
   "FIntRakNetResendBufferArrayLength_DataCenterFilter": "512;348",
   "FFlagGameSettingsRemovePermissionsWarning": "True",
-  "FFlagStudioFixPluginElementPerDmState": "True",
   "FFlagStudioHttpTreatNoContentAsEmptyJsonDoc": "True",
   "FFlagStudioForceDraftsUsageOnRCCSettingDeprecated": "True",
   "FFlagCLI49303continuousTimeStamp": "True",
@@ -5389,6 +5388,7 @@
   "FFlagStreamJobTracksNOUAddRemoveMove7": "False",
   "DFFlagSimMeshPreciseSizeChanges": "True",
   "FFlagStudioCrashOnBadQQuickView": "True",
+  "FFlagRenderMaterialGeneratorMap": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5613,8 +5613,8 @@
   "FFlagSessionHeartbeatAddSessionInfo": "True",
   "FFlagSessionAnalyticsIdleState2": "True",
   "FIntLuaAppUseRoactNavigationRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "69127902527b1f739b5a480a66b3990d6467db5e",
-  "DFStringFlagRepoGitHashDynamicString": "69127902527b1f739b5a480a66b3990d6467db5e",
-  "FStringFlipTimeStampFastString": "2022-02-10T18:10:29.153Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-10T18:10:29.153Z"
+  "FStringFlagRepoGitHashFastString": "d42a82c2a4ec95caf9a6bc200337596448685f80",
+  "DFStringFlagRepoGitHashDynamicString": "d42a82c2a4ec95caf9a6bc200337596448685f80",
+  "FStringFlipTimeStampFastString": "2022-02-10T18:12:49.777Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-10T18:12:49.777Z"
 }
