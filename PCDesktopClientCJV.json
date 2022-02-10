@@ -5403,6 +5403,7 @@
   "FFlagStudioDeprecatedCookieConstraintChecker": "True",
   "DFFlagHttpLogSslVersion": "True",
   "DFIntOldSslInfluxHundredthsPercentage": "1",
+  "FFlagLuaAppSendSearchUuidToBackend": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5672,8 +5673,8 @@
   "FFlagSessionHeartbeatAddSessionInfo": "True",
   "FFlagSessionAnalyticsIdleState2": "True",
   "FIntLuaAppUseRoactNavigationRollout4": "25",
-  "FStringFlagRepoGitHashFastString": "6e08794be2eaf63393e0a34eea30722a85cd7464",
-  "DFStringFlagRepoGitHashDynamicString": "6e08794be2eaf63393e0a34eea30722a85cd7464",
-  "FStringFlipTimeStampFastString": "2022-02-10T20:13:32.709Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-10T20:13:32.709Z"
+  "FStringFlagRepoGitHashFastString": "123787c7ed03b2bc07dee9d4bc0f72add4d8be39",
+  "DFStringFlagRepoGitHashDynamicString": "123787c7ed03b2bc07dee9d4bc0f72add4d8be39",
+  "FStringFlipTimeStampFastString": "2022-02-10T20:15:00.433Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-10T20:15:00.433Z"
 }
