@@ -3458,7 +3458,7 @@
   "FFlagRakNetMonotonicClock2": "True",
   "DFFlagRefactorReliabilityLayerUpdate": "True",
   "DFIntRemoteFlushReportMyriad": "0",
-  "FIntClientVisualEffectStartTimeout": "60",
+  "FIntClientVisualEffectStartTimeout": "20",
   "FFlagToolboxFixSubTextColor": "True",
   "FFlagRaknetTrackJoinQueueTime": "True",
   "DFIntReportRaknetDeferredTimeMsHundredthsPercentage": "1",
@@ -5640,8 +5640,8 @@
   "FFlagSessionHeartbeatAddSessionInfo": "True",
   "FFlagSessionAnalyticsIdleState2": "True",
   "FIntLuaAppUseRoactNavigationRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "45bb695780f9c5ddcea734d2e095ba7fca5e8309",
-  "DFStringFlagRepoGitHashDynamicString": "45bb695780f9c5ddcea734d2e095ba7fca5e8309",
-  "FStringFlipTimeStampFastString": "2022-02-11T19:02:32.050Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-11T19:02:32.050Z"
+  "FStringFlagRepoGitHashFastString": "6426106646659b3034c0f363e7dca8e167fbe36f",
+  "DFStringFlagRepoGitHashDynamicString": "6426106646659b3034c0f363e7dca8e167fbe36f",
+  "FStringFlipTimeStampFastString": "2022-02-11T19:12:33.290Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-11T19:12:33.290Z"
 }
