@@ -5422,6 +5422,8 @@
   "FFlagLuauGcPagedSweep": "True",
   "FFlagMacEnableFullScreenWebView": "True",
   "FFlagFixWebBrowserWindowsGetCookiesForUrlStackOverflow": "True",
+  "DFFlagReplicationDataCacheRemoveReplicatorDependency": "False",
+  "DFFlagReplicationDataCacheRemoveReplicatorDependency_DataCenterFilter": "True;213;214",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5651,8 +5653,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "de39488f7a7133f388398fc1e14abeacaa923e50",
-  "DFStringFlagRepoGitHashDynamicString": "de39488f7a7133f388398fc1e14abeacaa923e50",
-  "FStringFlipTimeStampFastString": "2022-02-14T17:37:38.808Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-14T17:37:38.808Z"
+  "FStringFlagRepoGitHashFastString": "ad42a70422b93349f79032867df2e4a1c19b9b11",
+  "DFStringFlagRepoGitHashDynamicString": "ad42a70422b93349f79032867df2e4a1c19b9b11",
+  "FStringFlipTimeStampFastString": "2022-02-14T17:52:56.170Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-14T17:52:56.170Z"
 }
