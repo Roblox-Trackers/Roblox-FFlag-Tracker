@@ -5438,6 +5438,8 @@
   "FFlagRefactorPropertyItemsUpdate": "True",
   "FFlagLuaAppAppRouterSessionization2": "True",
   "FFlagRunInUIThreadWithQtContextThreadCheck": "True",
+  "FFlagGraphicsD3D11FixReduceMips": "True",
+  "FFlagGraphicsGLFixReduceMips": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5709,8 +5711,8 @@
   "FIntLuaAppUseRoactNavigationRollout4": "50",
   "FFlagSessionGamePlayEvents2": "True",
   "FFlagSessionAppLifecycleEvents": "True",
-  "FStringFlagRepoGitHashFastString": "ac3c80b4deec0826e8cd33458c38dbf3a1b3a328",
-  "DFStringFlagRepoGitHashDynamicString": "ac3c80b4deec0826e8cd33458c38dbf3a1b3a328",
-  "FStringFlipTimeStampFastString": "2022-02-15T21:56:33.695Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-15T21:56:33.695Z"
+  "FStringFlagRepoGitHashFastString": "8272714d5038a6390a10eddcb519e5515168b3e5",
+  "DFStringFlagRepoGitHashDynamicString": "8272714d5038a6390a10eddcb519e5515168b3e5",
+  "FStringFlipTimeStampFastString": "2022-02-15T22:07:59.795Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-15T22:07:59.795Z"
 }
