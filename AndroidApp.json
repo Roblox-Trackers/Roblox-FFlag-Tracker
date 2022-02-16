@@ -5804,7 +5804,7 @@
   "FFlagPPTwoFactorLogOutMessage": "True",
   "FFlagAndroidEventStreamCrashDataWithSessionId": "True",
   "FFlagSessionHeartbeatAddSessionInfo": "True",
-  "FFlagSessionAnalyticsIdleState2": "True",
+  "FFlagSessionAnalyticsIdleState2": "False",
   "FFlagEnableAmazonInGameUpsellV2": "True",
   "DFFlagPredictedOOMPressure": "True",
   "FIntLuaAppUseRoactNavigationRollout4": "0",
@@ -5812,8 +5812,8 @@
   "FFlagSessionAppLifecycleEvents": "False",
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
-  "FStringFlagRepoGitHashFastString": "038a5c494bf8e5b8d32d4fa42b073d03f6358548",
-  "DFStringFlagRepoGitHashDynamicString": "038a5c494bf8e5b8d32d4fa42b073d03f6358548",
-  "FStringFlipTimeStampFastString": "2022-02-16T17:14:43.465Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-16T17:14:43.465Z"
+  "FStringFlagRepoGitHashFastString": "166c853c760f76905e1c480dcbc5ceefd81273e5",
+  "DFStringFlagRepoGitHashDynamicString": "166c853c760f76905e1c480dcbc5ceefd81273e5",
+  "FStringFlipTimeStampFastString": "2022-02-16T17:15:25.371Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-16T17:15:25.371Z"
 }
