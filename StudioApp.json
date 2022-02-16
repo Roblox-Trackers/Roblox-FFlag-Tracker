@@ -5453,6 +5453,8 @@
   "FFlagStudioExplorerReadShowGUIDirectlyFromDM": "True",
   "FFlagRemoveTerrainMaterialVariantNullIdError": "True",
   "DFFlagUsePreviousUniverseId": "True",
+  "FFlagTerrainMaterialVariantDefaultColorWhite": "True",
+  "FFlagFixCylinderHandleAdornmentAngleCrash": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5711,8 +5713,8 @@
   "FFlagLuauSchubfach": "True",
   "FFlagFixScreenScaleAlwaysBeingOne": "True",
   "FStringFeature_SessionChangeEventRollout": "513;1",
-  "FStringFlagRepoGitHashFastString": "82e35f4f242e65f1d34db0068514c50acf9ee47f",
-  "DFStringFlagRepoGitHashDynamicString": "82e35f4f242e65f1d34db0068514c50acf9ee47f",
-  "FStringFlipTimeStampFastString": "2022-02-16T21:18:48.900Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-16T21:18:48.900Z"
+  "FStringFlagRepoGitHashFastString": "854b90d89be9cc9ad918f85f6fcd3fa6effdaeaf",
+  "DFStringFlagRepoGitHashDynamicString": "854b90d89be9cc9ad918f85f6fcd3fa6effdaeaf",
+  "FStringFlipTimeStampFastString": "2022-02-16T21:24:55.852Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-16T21:24:55.852Z"
 }
