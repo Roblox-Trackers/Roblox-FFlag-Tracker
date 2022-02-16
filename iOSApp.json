@@ -5466,6 +5466,7 @@
   "FFlagEnableEventstreamLoggingForVoiceUpsellV2": "True",
   "FFlagFixCylinderHandleAdornmentAngleCrash": "True",
   "FFlagDefaultCharacterHSRFix": "True",
+  "DFFlagTeleportPreviousUniverseId": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5777,8 +5778,8 @@
   "FFlagSessionAppLifecycleEvents": "True",
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
-  "FStringFlagRepoGitHashFastString": "57d0dfca2b08c9c18de3f6723b24b2e9eeb7e5af",
-  "DFStringFlagRepoGitHashDynamicString": "57d0dfca2b08c9c18de3f6723b24b2e9eeb7e5af",
-  "FStringFlipTimeStampFastString": "2022-02-16T22:52:48.951Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-16T22:52:48.951Z"
+  "FStringFlagRepoGitHashFastString": "88c74c9d4eb20ecce1cde1a93838a5b4e830de9b",
+  "DFStringFlagRepoGitHashDynamicString": "88c74c9d4eb20ecce1cde1a93838a5b4e830de9b",
+  "FStringFlipTimeStampFastString": "2022-02-16T22:59:16.450Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-16T22:59:16.450Z"
 }
