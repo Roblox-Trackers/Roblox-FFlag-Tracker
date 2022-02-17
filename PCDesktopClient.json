@@ -5472,6 +5472,7 @@
   "DFIntJoinGameFailureInfluxHundredthsPercentage": "25",
   "FFlagGameJoinFailureAnalytics": "True",
   "DFFlagCleanUpUnregisterDspLoop": "True",
+  "FFlagStudioUpdatePublishText": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5746,8 +5747,8 @@
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
   "FFlagTerrainRuntimeTextureUseTM": "True",
-  "FStringFlagRepoGitHashFastString": "7b11e493327f13c9c1a396aea61b9a08c2b8a7ac",
-  "DFStringFlagRepoGitHashDynamicString": "7b11e493327f13c9c1a396aea61b9a08c2b8a7ac",
-  "FStringFlipTimeStampFastString": "2022-02-16T23:52:51.760Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-16T23:52:51.760Z"
+  "FStringFlagRepoGitHashFastString": "fe0e63b0ee9276dd28bd06198a3b10fb17262d50",
+  "DFStringFlagRepoGitHashDynamicString": "fe0e63b0ee9276dd28bd06198a3b10fb17262d50",
+  "FStringFlipTimeStampFastString": "2022-02-16T23:59:15.476Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-16T23:59:15.476Z"
 }
