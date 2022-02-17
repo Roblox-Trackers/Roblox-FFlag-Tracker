@@ -3670,7 +3670,6 @@
   "FFlagUIBloxUseRelevancyInfoTextFontStyle": "True",
   "FFlagVoiceChatWarnOnPlaceEligibility": "True",
   "FFlagVoiceChatWarnOnUserEligibility": "True",
-  "FFlagCacheableContentProviderFixAddOrUpdateTask": "True",
   "DFFlagJoinSig6FmtOnly": "False",
   "FFlagStudioEnableCertificateCheck": "True",
   "FLogLuobuStudioCertificateCheckError": "6",
@@ -4526,7 +4525,6 @@
   "FFlagMessagingServiceUseSignalrConnection4": "True",
   "FFlagLuauStrPackUBCastFix": "True",
   "FFlagXboxShowSponsoredSort": "True",
-  "FFlagRenderD3D11CachePrimitiveTopology": "True",
   "FFlagCollabEditingWarnBothWays": "False",
   "FFlagStudioTeleportServiceUseGameJoinUrlConstruction": "True",
   "FFlagMegaReplicatorCacheStreamingEnabled": "True",
@@ -5080,7 +5078,6 @@
   "FFlagLuauClearDMTypeGraphMoreOften": "True",
   "FFlagLatestClientThemeColors": "True",
   "FFlagLuauTableUnificationEarlyTest": "True",
-  "FFlagDecalZIndexKeyCheck": "True",
   "FFlagRemoveMoreMenuFromReducer": "True",
   "FFlagFixModelLodZFighting": "True",
   "DFFlagHttpRetryLoggingImprovements": "True",
@@ -5825,8 +5822,8 @@
   "FStringFeature_SessionChangeEventRollout": "513;1",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageiOS",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataiOS",
-  "FStringFlagRepoGitHashFastString": "b228f1187d0c483790f1df87be6968484dea22a3",
-  "DFStringFlagRepoGitHashDynamicString": "b228f1187d0c483790f1df87be6968484dea22a3",
-  "FStringFlipTimeStampFastString": "2022-02-17T22:56:16.703Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-17T22:56:16.703Z"
+  "FStringFlagRepoGitHashFastString": "43f33fa26c58d95afd10b8b7bd08dc5377160018",
+  "DFStringFlagRepoGitHashDynamicString": "43f33fa26c58d95afd10b8b7bd08dc5377160018",
+  "FStringFlipTimeStampFastString": "2022-02-17T23:02:16.221Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-17T23:02:16.221Z"
 }
