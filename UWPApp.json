@@ -5481,6 +5481,7 @@
   "FFlagVirtualCursorInteractWithInventory": "True",
   "FFlagRemoveBoostAtomic": "True",
   "FFlagStudioFixUninitializedMainWindowCloseCrash": "True",
+  "FFlagStudioReplaceStartDetachedProcess": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5709,8 +5710,8 @@
   "FFlagSessionAppLifecycleEvents": "True",
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
-  "FStringFlagRepoGitHashFastString": "fb0925d8719bf7097bf38528b17f101bd5e1bbcb",
-  "DFStringFlagRepoGitHashDynamicString": "fb0925d8719bf7097bf38528b17f101bd5e1bbcb",
-  "FStringFlipTimeStampFastString": "2022-02-17T17:01:09.834Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-17T17:01:09.834Z"
+  "FStringFlagRepoGitHashFastString": "0aeb1978e7626f2b2d463f879133f53008027e40",
+  "DFStringFlagRepoGitHashDynamicString": "0aeb1978e7626f2b2d463f879133f53008027e40",
+  "FStringFlipTimeStampFastString": "2022-02-17T17:06:28.214Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-17T17:06:28.214Z"
 }
