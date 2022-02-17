@@ -5507,6 +5507,9 @@
   "FFlagProfileButtonSpacingFix": "True",
   "FFlagLuauParseSingletonTypes": "True",
   "FFlagGameSettingsFixChangeAnalytics": "True",
+  "FFlagPropagateCookiesToGameEngineBeforeInitialization": "True",
+  "FFlagRenderReportOutOfMemory": "True",
+  "FIntRenderReportOutOfMemoryHundredthPercent": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5820,8 +5823,8 @@
   "FStringFeature_SessionChangeEventRollout": "513;1",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageiOS",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataiOS",
-  "FStringFlagRepoGitHashFastString": "5abec0cb51fffd537ef3ea3e4318b6ee29092586",
-  "DFStringFlagRepoGitHashDynamicString": "5abec0cb51fffd537ef3ea3e4318b6ee29092586",
-  "FStringFlipTimeStampFastString": "2022-02-17T22:41:38.922Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-17T22:41:38.922Z"
+  "FStringFlagRepoGitHashFastString": "a7567f8e1307074a633a0f38c497ccbde0b2f86a",
+  "DFStringFlagRepoGitHashDynamicString": "a7567f8e1307074a633a0f38c497ccbde0b2f86a",
+  "FStringFlipTimeStampFastString": "2022-02-17T22:49:11.313Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-17T22:49:11.313Z"
 }
