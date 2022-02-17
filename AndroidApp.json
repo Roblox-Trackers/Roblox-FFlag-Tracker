@@ -5482,6 +5482,7 @@
   "FFlagRemoveBoostAtomic": "True",
   "FFlagStudioFixUninitializedMainWindowCloseCrash": "True",
   "FFlagStudioReplaceStartDetachedProcess": "True",
+  "FFlagACEFixNilPartInSelectionInfo": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5848,8 +5849,8 @@
   "FFlagSessionAppLifecycleEvents": "False",
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
-  "FStringFlagRepoGitHashFastString": "0aeb1978e7626f2b2d463f879133f53008027e40",
-  "DFStringFlagRepoGitHashDynamicString": "0aeb1978e7626f2b2d463f879133f53008027e40",
-  "FStringFlipTimeStampFastString": "2022-02-17T17:06:28.214Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-17T17:06:28.214Z"
+  "FStringFlagRepoGitHashFastString": "b1d376a44ee251fe1985dd8510d97aefc9004e67",
+  "DFStringFlagRepoGitHashDynamicString": "b1d376a44ee251fe1985dd8510d97aefc9004e67",
+  "FStringFlipTimeStampFastString": "2022-02-17T17:29:10.572Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-17T17:29:10.572Z"
 }
