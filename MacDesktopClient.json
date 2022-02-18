@@ -5513,7 +5513,7 @@
   "FFlagFixPendingTPContents": "True",
   "FFlagLuaAppFixGamePeekTopBarBackBtn": "True",
   "FFlagFixWebView2ClearAllCookiesCrash": "True",
-  "DFIntWaitOnUpdateNetworkLoopEndedMS": "1000",
+  "DFIntWaitOnUpdateNetworkLoopEndedMS": "3000",
   "FFlagProfileDoubleToastFix": "True",
   "DFFlagStreamJobCollectsNOUs2": "False",
   "FFlagBuyActionBarLoadRobux": "True",
@@ -5777,8 +5777,8 @@
   "FFlagTerrainRuntimeTextureUseTM": "True",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageMacClient",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataMacClient",
-  "FStringFlagRepoGitHashFastString": "95866d80b3781fad564f61ee2e70a3552fa8ea15",
-  "DFStringFlagRepoGitHashDynamicString": "95866d80b3781fad564f61ee2e70a3552fa8ea15",
-  "FStringFlipTimeStampFastString": "2022-02-18T00:30:31.444Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-18T00:30:31.444Z"
+  "FStringFlagRepoGitHashFastString": "8ed0ba5ccf38c7baea48e86aa75cdba97ffe44d2",
+  "DFStringFlagRepoGitHashDynamicString": "8ed0ba5ccf38c7baea48e86aa75cdba97ffe44d2",
+  "FStringFlipTimeStampFastString": "2022-02-18T00:34:29.082Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-18T00:34:29.082Z"
 }
