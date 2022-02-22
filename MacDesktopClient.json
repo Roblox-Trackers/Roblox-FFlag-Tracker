@@ -5540,7 +5540,7 @@
   "DFFlagCSGv2UseMegaAssetFetcher_PlaceFilter": "False;8793627382;8793618616",
   "FFlagMacUpdateModalWebViewSize": "True",
   "FStringGameLaunchLinkURL": "(?:(?:https?://\\w+\\.roblox(?:labs)?\\.com/games/start\\?)|(?:roblox(?:mobile)?://))(?:(?:(?:(?:id=\\d+)|(?:placeid=\\d+)|(?:userID=\\d+)|(?:gameInstanceId=(?:\\w|\\-)+)|(?:linkCode=(?:\\w|\\-)+)|(?:accessCode=(?:\\w|\\-)+))&?)+)/?",
-  "FIntToolboxGroupCreationsMigrationRolloutPercentage3": "20",
+  "FIntToolboxGroupCreationsMigrationRolloutPercentage3": "50",
   "DFIntBatchThumbnailMaxWaitMs": "15",
   "DFIntBatchThumbnailMinWaitMs": "5",
   "FFlagSimCSGV3OptimizedFaceUVNormalTransform": "False",
@@ -5813,8 +5813,8 @@
   "FFlagLuaAppShowGitHash": "True",
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
-  "FStringFlagRepoGitHashFastString": "ed57dc782e5a73777767818506c2b827ffa69aa4",
-  "DFStringFlagRepoGitHashDynamicString": "ed57dc782e5a73777767818506c2b827ffa69aa4",
-  "FStringFlipTimeStampFastString": "2022-02-22T23:16:30.388Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-22T23:16:30.388Z"
+  "FStringFlagRepoGitHashFastString": "24768c9ba4d9f85266b8aec718652597831bc6d3",
+  "DFStringFlagRepoGitHashDynamicString": "24768c9ba4d9f85266b8aec718652597831bc6d3",
+  "FStringFlipTimeStampFastString": "2022-02-22T23:42:43.399Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-22T23:42:43.399Z"
 }
