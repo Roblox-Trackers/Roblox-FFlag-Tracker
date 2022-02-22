@@ -5542,6 +5542,7 @@
   "DFFlagCleanUpAudioPriorityMap": "True",
   "FFlagToolboxEnablePostDropScriptConfirmation": "True",
   "FFlagSocialProfileShareAnalyticsEnabled": "True",
+  "FFlagLuauPrepopulateUnionOptionsBeforeAllocation": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5908,8 +5909,8 @@
   "FStringFeature_SessionChangeEventRollout": "513;1",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageAndroid",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataAndroid",
-  "FStringFlagRepoGitHashFastString": "e30d9545d13144b61c5ff7c82afffad97f38da24",
-  "DFStringFlagRepoGitHashDynamicString": "e30d9545d13144b61c5ff7c82afffad97f38da24",
-  "FStringFlipTimeStampFastString": "2022-02-22T20:12:19.407Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-22T20:12:19.407Z"
+  "FStringFlagRepoGitHashFastString": "dfc24238b668d9efb3fd954e0d7a2831eb9739b8",
+  "DFStringFlagRepoGitHashDynamicString": "dfc24238b668d9efb3fd954e0d7a2831eb9739b8",
+  "FStringFlipTimeStampFastString": "2022-02-22T20:29:15.431Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-22T20:29:15.431Z"
 }
