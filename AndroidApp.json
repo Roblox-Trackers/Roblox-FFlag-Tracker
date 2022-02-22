@@ -5537,9 +5537,6 @@
   "FFlagFixXboxAdjustSetting": "True",
   "DFFlagFindClosestHandleHitTestFixEnabled": "True",
   "FFlagLuaProfileIXPEnabled_v2": "True",
-  "FFlagLuaAppShowGitHash": "True",
-  "FFlagShowGitHashInGame": "True",
-  "FFlagShowGitHashInNewExperienceMenu": "True",
   "DFFlagHiDPIRoundImageScale": "True",
   "DFFlagHiDPIRoundResolutionScale": "True",
   "AllowVideoPreRoll": "True",
@@ -5908,8 +5905,8 @@
   "FStringFeature_SessionChangeEventRollout": "513;1",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageAndroid",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataAndroid",
-  "FStringFlagRepoGitHashFastString": "40cb41fb14b188a384a52eacbb51e62f3da6c478",
-  "DFStringFlagRepoGitHashDynamicString": "40cb41fb14b188a384a52eacbb51e62f3da6c478",
-  "FStringFlipTimeStampFastString": "2022-02-22T19:41:30.485Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-22T19:41:30.485Z"
+  "FStringFlagRepoGitHashFastString": "2776baf9facb4e0bdd9e6a79232cee792311fda8",
+  "DFStringFlagRepoGitHashDynamicString": "2776baf9facb4e0bdd9e6a79232cee792311fda8",
+  "FStringFlipTimeStampFastString": "2022-02-22T19:45:38.069Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-22T19:45:38.069Z"
 }
