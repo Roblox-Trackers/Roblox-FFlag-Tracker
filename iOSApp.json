@@ -5540,6 +5540,8 @@
   "DFFlagHiDPIRoundImageScale": "True",
   "DFFlagHiDPIRoundResolutionScale": "True",
   "FFlagLuaAppACSessionLoggingFix": "True",
+  "DFFlagCleanUpAudioPriorityMap": "True",
+  "FFlagToolboxEnablePostDropScriptConfirmation": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5851,8 +5853,8 @@
   "FStringFeature_SessionChangeEventRollout": "513;1",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageiOS",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataiOS",
-  "FStringFlagRepoGitHashFastString": "1c64e10058d1601e2edd61b9bfcc7afe58dfcde9",
-  "DFStringFlagRepoGitHashDynamicString": "1c64e10058d1601e2edd61b9bfcc7afe58dfcde9",
-  "FStringFlipTimeStampFastString": "2022-02-22T19:57:04.682Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-22T19:57:04.682Z"
+  "FStringFlagRepoGitHashFastString": "c20183544de6aa7688597c9daf957da592a5a0d1",
+  "DFStringFlagRepoGitHashDynamicString": "c20183544de6aa7688597c9daf957da592a5a0d1",
+  "FStringFlipTimeStampFastString": "2022-02-22T19:58:46.548Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-22T19:58:46.548Z"
 }
