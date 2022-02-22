@@ -5540,7 +5540,7 @@
   "DFFlagCSGv2UseMegaAssetFetcher_PlaceFilter": "False;8793627382;8793618616",
   "FFlagMacUpdateModalWebViewSize": "True",
   "FStringGameLaunchLinkURL": "(?:(?:https?://\\w+\\.roblox(?:labs)?\\.com/games/start\\?)|(?:roblox(?:mobile)?://))(?:(?:(?:(?:id=\\d+)|(?:placeid=\\d+)|(?:userID=\\d+)|(?:gameInstanceId=(?:\\w|\\-)+)|(?:linkCode=(?:\\w|\\-)+)|(?:accessCode=(?:\\w|\\-)+))&?)+)/?",
-  "FIntToolboxGroupCreationsMigrationRolloutPercentage3": "5",
+  "FIntToolboxGroupCreationsMigrationRolloutPercentage3": "20",
   "DFIntBatchThumbnailMaxWaitMs": "15",
   "DFIntBatchThumbnailMinWaitMs": "5",
   "FFlagSimCSGV3OptimizedFaceUVNormalTransform": "False",
@@ -5552,6 +5552,7 @@
   "FFlagSimCSG3AsyncWarmv2_PlaceFilter": "True;8793627382;8793618616",
   "FFlagCSGMeshNewXorBuffer": "False",
   "FFlagCSGMeshNewXorBuffer_PlaceFilter": "True;8793627382;8793618616",
+  "FFlagCSGv3OptimizedGetVertexAttribute": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5780,8 +5781,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "a7ae924d866310a74183f0652fbf620a8771ea8d",
-  "DFStringFlagRepoGitHashDynamicString": "a7ae924d866310a74183f0652fbf620a8771ea8d",
-  "FStringFlipTimeStampFastString": "2022-02-22T22:55:26.620Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-22T22:55:26.620Z"
+  "FStringFlagRepoGitHashFastString": "c6428aa865bb9d795fa313fa75e9da12c62e644e",
+  "DFStringFlagRepoGitHashDynamicString": "c6428aa865bb9d795fa313fa75e9da12c62e644e",
+  "FStringFlipTimeStampFastString": "2022-02-22T23:02:01.531Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-22T23:02:01.531Z"
 }
