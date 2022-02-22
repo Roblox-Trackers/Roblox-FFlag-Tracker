@@ -5538,6 +5538,9 @@
   "FFlagFixXboxAdjustSetting": "True",
   "DFFlagFindClosestHandleHitTestFixEnabled": "True",
   "FFlagLuaProfileIXPEnabled_v2": "True",
+  "FFlagLuaAppShowGitHash": "True",
+  "FFlagShowGitHashInGame": "True",
+  "FFlagShowGitHashInNewExperienceMenu": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5756,9 +5759,6 @@
   "DFIntHttpSendStatsEveryXSeconds_PlaceFilter": "30;2727067538",
   "FFlagLuaScreenTimeShowLogoutPromptInGame": "True",
   "FFlagEnableMacUniversalAppOptInAndOut": "True",
-  "FFlagShowGitHashInGame": "True",
-  "FFlagLuaAppShowGitHash": "True",
-  "FFlagShowGitHashInNewExperienceMenu": "True",
   "FFlagScreenTimeCallLogoutEndpointAfterLogoutInGame": "True",
   "FStringRoactChatUserLoadedCounter": "RoactChatUserLoadedDUAR",
   "FFlagHumanoidParallelFixTickleFloor2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
@@ -5794,8 +5794,8 @@
   "FFlagTerrainRuntimeTextureUseTM": "True",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageMacClient",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataMacClient",
-  "FStringFlagRepoGitHashFastString": "df78b0965b738b4d4aaf6aab0bcb5a04dc704001",
-  "DFStringFlagRepoGitHashDynamicString": "df78b0965b738b4d4aaf6aab0bcb5a04dc704001",
-  "FStringFlipTimeStampFastString": "2022-02-22T19:32:50.245Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-22T19:32:50.245Z"
+  "FStringFlagRepoGitHashFastString": "b2b5f252c4dd99cd9927fa4eaefe46089b9f2060",
+  "DFStringFlagRepoGitHashDynamicString": "b2b5f252c4dd99cd9927fa4eaefe46089b9f2060",
+  "FStringFlipTimeStampFastString": "2022-02-22T19:34:13.818Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-22T19:34:13.818Z"
 }
