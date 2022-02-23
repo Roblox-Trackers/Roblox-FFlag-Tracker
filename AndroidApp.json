@@ -5558,6 +5558,8 @@
   "FFlagMacEnableNotificationsDialogMode": "True",
   "FFlagStudioEnableExplorerMenuActionsForDiff": "True",
   "FFlagLetSingleSurfaceAppInitializeSettingsOnMac": "True",
+  "DFFlagDisconnectReportWasTeleportedForKibana": "False",
+  "DFFlagDisconnectReportWasTeleportedForKibana_DataCenterFilter": "True;213;214",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5924,8 +5926,8 @@
   "FStringFeature_SessionChangeEventRollout": "513;1",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageAndroid",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataAndroid",
-  "FStringFlagRepoGitHashFastString": "b04e962072c05ab65b3a37be9b7aa5eaa0bbc889",
-  "DFStringFlagRepoGitHashDynamicString": "b04e962072c05ab65b3a37be9b7aa5eaa0bbc889",
-  "FStringFlipTimeStampFastString": "2022-02-22T23:59:15.012Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-22T23:59:15.012Z"
+  "FStringFlagRepoGitHashFastString": "1947d2bfa1d38b12d15f6785b2df55ed2cce28cf",
+  "DFStringFlagRepoGitHashDynamicString": "1947d2bfa1d38b12d15f6785b2df55ed2cce28cf",
+  "FStringFlipTimeStampFastString": "2022-02-23T00:07:09.171Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-23T00:07:09.171Z"
 }
