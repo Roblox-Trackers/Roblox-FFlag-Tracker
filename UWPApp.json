@@ -5578,6 +5578,7 @@
   "FFlagFixStrangerThingsIssue2": "True",
   "FFlagFixStrangerThingsIssue3": "True",
   "FFlagFixStrangerThingsIssueUsingAdditionalInvalidationSignal": "True",
+  "FFlagStudioDontCloseOnFailedDocOpen": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5804,8 +5805,8 @@
   "FFlagSessionAppLifecycleEvents": "True",
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
-  "FStringFlagRepoGitHashFastString": "15fbc6695f58413fd59b0e238e0c0857966919c0",
-  "DFStringFlagRepoGitHashDynamicString": "15fbc6695f58413fd59b0e238e0c0857966919c0",
-  "FStringFlipTimeStampFastString": "2022-02-23T21:22:52.888Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-23T21:22:52.888Z"
+  "FStringFlagRepoGitHashFastString": "69dfe1323f57802b5de2cd1f3387f3efe097d5df",
+  "DFStringFlagRepoGitHashDynamicString": "69dfe1323f57802b5de2cd1f3387f3efe097d5df",
+  "FStringFlipTimeStampFastString": "2022-02-23T21:24:16.889Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-23T21:24:16.889Z"
 }
