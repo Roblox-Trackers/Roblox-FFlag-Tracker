@@ -5565,6 +5565,8 @@
   "FStringHttpRetryOverridesDsvStatic": "",
   "FStringHttpRetryOverridesDsvStatic_PlaceFilter": "429;GET;api.roblox.com;/marketplace/game-pass-product-info;none;;;8357510970",
   "FFlagFixStudioWebView2ControllerInitializationError": "True",
+  "FFlagStudioReportWebView2CreationMetrics": "True",
+  "DFIntStudioReportWebView2CreationMetricsHundredthPercent": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5931,8 +5933,8 @@
   "FStringFeature_SessionChangeEventRollout": "513;1",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageAndroid",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataAndroid",
-  "FStringFlagRepoGitHashFastString": "0d39d393931dc25891451b95eb9d8c9e8007481d",
-  "DFStringFlagRepoGitHashDynamicString": "0d39d393931dc25891451b95eb9d8c9e8007481d",
-  "FStringFlipTimeStampFastString": "2022-02-23T19:38:50.780Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-23T19:38:50.780Z"
+  "FStringFlagRepoGitHashFastString": "cbcb685494449a22460679676558301d3cd5d8f5",
+  "DFStringFlagRepoGitHashDynamicString": "cbcb685494449a22460679676558301d3cd5d8f5",
+  "FStringFlipTimeStampFastString": "2022-02-23T19:39:52.997Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-23T19:39:52.997Z"
 }
