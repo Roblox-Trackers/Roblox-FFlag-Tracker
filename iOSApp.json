@@ -5595,6 +5595,9 @@
   "DFFlagPlayerConnectingBatchSignal2": "True",
   "FFlagMegaReplicatorEagerTracking2": "True",
   "FFlagStudioDeprecateUserPluginDM": "True",
+  "DFFlagClientReplicatorReportInitialProcessingStat": "False",
+  "DFFlagClientReplicatorReportInitialProcessingStat_DataCenterFilter": "True;213;214",
+  "FFlagGraphicsFallbackMemorylessMetal": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5909,8 +5912,8 @@
   "FFlagLuaAppShowGitHash": "True",
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
-  "FStringFlagRepoGitHashFastString": "36b0d9893d2246199f955c2d7c411693fe212cc7",
-  "DFStringFlagRepoGitHashDynamicString": "36b0d9893d2246199f955c2d7c411693fe212cc7",
-  "FStringFlipTimeStampFastString": "2022-02-24T18:20:09.056Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-24T18:20:09.056Z"
+  "FStringFlagRepoGitHashFastString": "faadcec914af955b99fe7ad17122d50c983ca24e",
+  "DFStringFlagRepoGitHashDynamicString": "faadcec914af955b99fe7ad17122d50c983ca24e",
+  "FStringFlipTimeStampFastString": "2022-02-24T18:32:38.094Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-24T18:32:38.094Z"
 }
