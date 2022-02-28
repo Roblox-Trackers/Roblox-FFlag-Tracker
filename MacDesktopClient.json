@@ -5435,7 +5435,7 @@
   "FFlagAFTChooseAssetTypeFirst": "True",
   "FFlagFixNoCageMeshIdCrash": "True",
   "FFlagFixTerrainNullTextureCrash": "True",
-  "FFlagRakNetSafeShutdown2": "True",
+  "FFlagRakNetSafeShutdown2": "False",
   "FFlagAddTerrainToMaterialService": "True",
   "FFlagStudioExplorerReadShowGUIDirectlyFromDM": "True",
   "FFlagRemoveTerrainMaterialVariantNullIdError": "True",
@@ -5890,8 +5890,8 @@
   "FFlagLuaAppShowGitHash": "True",
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
-  "FStringFlagRepoGitHashFastString": "cfc7b866b6bb44cf599293307e85cf3d3dec3690",
-  "DFStringFlagRepoGitHashDynamicString": "cfc7b866b6bb44cf599293307e85cf3d3dec3690",
-  "FStringFlipTimeStampFastString": "2022-02-28T17:29:33.109Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-28T17:29:33.109Z"
+  "FStringFlagRepoGitHashFastString": "2e0329d27f8ff788c00c6750fd40dbc33fbe8d47",
+  "DFStringFlagRepoGitHashDynamicString": "2e0329d27f8ff788c00c6750fd40dbc33fbe8d47",
+  "FStringFlipTimeStampFastString": "2022-02-28T17:52:24.978Z",
+  "DFStringFlipTimeStampDynamicString": "2022-02-28T17:52:24.978Z"
 }
