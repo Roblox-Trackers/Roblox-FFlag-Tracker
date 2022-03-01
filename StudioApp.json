@@ -4938,7 +4938,6 @@
   "FFlagScriptSideWidgetRefactor": "True",
   "FFlagStudioFixMacFontDialog": "True",
   "FIntCrossDeviceLoginRollout2": "100",
-  "FIntLuaAppFrequentsSortEnabledRolloutV3": "0",
   "FIntSocialTabFrequentsSortEnabledRolloutV1": "0",
   "FFlagStudioConvertInvokeMethod": "True",
   "FFlagStudioMoveExportFlagToQml": "True",
@@ -5648,6 +5647,7 @@
   "DFFlagSessionTelemetrySuccess": "True",
   "FFlagReportChatEmoteUsage": "True",
   "FFlagMegaReplicatorInitializeCall": "True",
+  "LuaAppFrequentsSortEnabledRolloutV5": "15",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5907,8 +5907,8 @@
   "FFlagTerrainRuntimeTextureUseTM": "True",
   "FFlagRenderMaterialVariantModelLod": "True",
   "FFlagLuauCompileSelectBuiltin2": "True",
-  "FStringFlagRepoGitHashFastString": "0098213974024ed0e52eb8144d9f098e41e2a2ae",
-  "DFStringFlagRepoGitHashDynamicString": "0098213974024ed0e52eb8144d9f098e41e2a2ae",
-  "FStringFlipTimeStampFastString": "2022-03-01T01:34:43.804Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-01T01:34:43.804Z"
+  "FStringFlagRepoGitHashFastString": "35a0eba4a496f80a6adc9088f0d0558d3d684111",
+  "DFStringFlagRepoGitHashDynamicString": "35a0eba4a496f80a6adc9088f0d0558d3d684111",
+  "FStringFlipTimeStampFastString": "2022-03-01T17:28:55.948Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-01T17:28:55.948Z"
 }
