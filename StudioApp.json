@@ -5650,7 +5650,6 @@
   "LuaAppFrequentsSortEnabledRolloutV5": "25",
   "DFFlagSingleStreamCacheOnChildAdded": "True",
   "FFlagLuauFollowWithCommittingTxnLogInAnyUnification": "True",
-  "FFlagTerrainRuntimeTextureUseTM": "True",
   "FFlagFixReportingPathfindingCostsInUse": "True",
   "DFFlagQueueDataPingFromSendData": "False",
   "DFFlagQueueDataPingFromSendData_DataCenterFilter": "True;235",
@@ -5921,8 +5920,9 @@
   "FStringFeature_SessionChangeEventRollout": "513;1",
   "FFlagRenderMaterialVariantModelLod": "True",
   "FFlagLuauCompileSelectBuiltin2": "True",
-  "FStringFlagRepoGitHashFastString": "4ff5a3cc8013072a26e4ad1e2e5a8e674acc5ab3",
-  "DFStringFlagRepoGitHashDynamicString": "4ff5a3cc8013072a26e4ad1e2e5a8e674acc5ab3",
-  "FStringFlipTimeStampFastString": "2022-03-01T19:41:34.389Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-01T19:41:34.389Z"
+  "FFlagTerrainRuntimeTextureUseTM": "True",
+  "FStringFlagRepoGitHashFastString": "7ccc5313ac90779201b6b2d7f064449ee5a0d8c2",
+  "DFStringFlagRepoGitHashDynamicString": "7ccc5313ac90779201b6b2d7f064449ee5a0d8c2",
+  "FStringFlipTimeStampFastString": "2022-03-01T19:55:04.124Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-01T19:55:04.124Z"
 }
