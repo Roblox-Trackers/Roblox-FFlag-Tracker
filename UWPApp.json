@@ -5053,7 +5053,7 @@
   "DFFlagVoiceChatAutoRetryTokenOnClient": "True",
   "FFlagPPPremiumUpsellCounters": "True",
   "FFlagLuaAppSkipIXPWait": "True",
-  "FIntLuaAppDiscoveryApiLaunchRolloutPercentage": "30",
+  "FIntLuaAppDiscoveryApiLaunchRolloutPercentage": "40",
   "DFFlagRemotesFilterInvocationSize": "True",
   "DFFlagHttpInfluxRandomPerReport": "True",
   "FFlagPPExpandedAnalyticPlatforms": "True",
@@ -5873,8 +5873,8 @@
   "FFlagSessionAppLifecycleEvents": "True",
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
-  "FStringFlagRepoGitHashFastString": "fd9e6dc65cee8fbe5666f15f9be84132b2f54300",
-  "DFStringFlagRepoGitHashDynamicString": "fd9e6dc65cee8fbe5666f15f9be84132b2f54300",
-  "FStringFlipTimeStampFastString": "2022-03-01T00:13:44.438Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-01T00:13:44.438Z"
+  "FStringFlagRepoGitHashFastString": "3c1cfae877694810988c5dc6f4a20324f3bff04c",
+  "DFStringFlagRepoGitHashDynamicString": "3c1cfae877694810988c5dc6f4a20324f3bff04c",
+  "FStringFlipTimeStampFastString": "2022-03-01T00:30:30.122Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-01T00:30:30.122Z"
 }
