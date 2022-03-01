@@ -5603,11 +5603,6 @@
   "DFFlagDontRecordGsiRequestStats": "True",
   "FFlagDontConnectSingleJoinLister": "True",
   "FFlagStudioScriptSourceChangeInOneEdit": "True",
-  "FFlagUGCDoNotConvertLC": "True",
-  "FFlagUGCLCAssetTypeIdsGuard": "True",
-  "FFlagUGCValidateLCFixEnums": "True",
-  "FFlagUGCValidateLayeredClothing2": "True",
-  "FStringUGCLCAllowedAssetTypeIds": "67",
   "DFFlagNetworkStreamFewerAllocs": "True",
   "FFlagMPHAFixHumanoidDefaultAssetsContext": "True",
   "FFlagRigBuilderFixR6HRPTransparency": "True",
@@ -5878,8 +5873,8 @@
   "FFlagSessionAppLifecycleEvents": "True",
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
-  "FStringFlagRepoGitHashFastString": "cbd83f2ff4215b5a342eafd6a3ffcf4b997bca9f",
-  "DFStringFlagRepoGitHashDynamicString": "cbd83f2ff4215b5a342eafd6a3ffcf4b997bca9f",
-  "FStringFlipTimeStampFastString": "2022-02-28T23:53:33.826Z",
-  "DFStringFlipTimeStampDynamicString": "2022-02-28T23:53:33.826Z"
+  "FStringFlagRepoGitHashFastString": "fd9e6dc65cee8fbe5666f15f9be84132b2f54300",
+  "DFStringFlagRepoGitHashDynamicString": "fd9e6dc65cee8fbe5666f15f9be84132b2f54300",
+  "FStringFlipTimeStampFastString": "2022-03-01T00:13:44.438Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-01T00:13:44.438Z"
 }
