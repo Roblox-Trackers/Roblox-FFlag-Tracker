@@ -19,6 +19,7 @@
   "FFlagEnablePassingProtocolStringInCommandLine": "True",
   "FIntBootstrapperInfluxReportHundredthPercentage": "100",
   "FFlagDisableMacBootstrapperEmbedding": "True",
+  "FIntBootstrapperWebView2InstallationTelemetryHundredthPercent": "10000",
   "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
   "FFlagBootstrapperEnableOptOutDUAR": "True",
   "FFlagBootstrapperEnableOpenOptOutSurveyDUAR": "True",
@@ -27,8 +28,8 @@
   "InfluxInstallHundredthsPercentage": "1",
   "FFlagWindowsInstallerEnableDpiAwareness": "True",
   "FFlagWindowsMonitorAnalytics": "True",
-  "FStringFlagRepoGitHashFastString": "2a441e0e9e98499b069fbd0e84e96e1fb53cf5af",
-  "DFStringFlagRepoGitHashDynamicString": "2a441e0e9e98499b069fbd0e84e96e1fb53cf5af",
-  "FStringFlipTimeStampFastString": "2022-03-02T19:24:58.664Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-02T19:24:58.664Z"
+  "FStringFlagRepoGitHashFastString": "6b1eebb56bfed2d1614728ffe62c631a130a497a",
+  "DFStringFlagRepoGitHashDynamicString": "6b1eebb56bfed2d1614728ffe62c631a130a497a",
+  "FStringFlipTimeStampFastString": "2022-03-02T19:28:42.739Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-02T19:28:42.739Z"
 }
