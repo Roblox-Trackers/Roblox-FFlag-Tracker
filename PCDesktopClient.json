@@ -5687,6 +5687,8 @@
   "FFlagAssetManagerUseUpdateSelectedAssets": "True",
   "DFFlagSimDeferAtttachedConstraintUpdate": "True",
   "FFlagSimFixAttachmentRemoveFromWorld": "True",
+  "FFlagIXPRecordExposureEnabledV2": "False",
+  "FIntIXPRecordExposureOnMountRollout": "0",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5961,8 +5963,8 @@
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
   "FFlagTerrainRuntimeTextureUseTM": "True",
-  "FStringFlagRepoGitHashFastString": "8b7e175158fa6248128d509749bbef9dccf66616",
-  "DFStringFlagRepoGitHashDynamicString": "8b7e175158fa6248128d509749bbef9dccf66616",
-  "FStringFlipTimeStampFastString": "2022-03-02T21:15:16.370Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-02T21:15:16.370Z"
+  "FStringFlagRepoGitHashFastString": "0364e74a57623058e10b825ec439e49ac65218bd",
+  "DFStringFlagRepoGitHashDynamicString": "0364e74a57623058e10b825ec439e49ac65218bd",
+  "FStringFlipTimeStampFastString": "2022-03-02T21:21:07.021Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-02T21:21:07.021Z"
 }
