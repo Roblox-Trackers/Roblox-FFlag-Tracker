@@ -5660,8 +5660,7 @@
   "FFlagLuauSealExports": "True",
   "FFlagDontCreatePingJob": "True",
   "DFIntPredictedOOMPercent": "20",
-  "DFFlagReplicatorStopProducingTooMuchJDIToProcess2": "False",
-  "DFFlagReplicatorStopProducingTooMuchJDIToProcess2_DataCenterFilter": "True;213;265",
+  "DFFlagReplicatorStopProducingTooMuchJDIToProcess2": "True",
   "DFStringJdiDeserializerConfigPerDC": "213,100,265,250",
   "FFlagLuauTerminateCyclicMetatableIndexLookup": "True",
   "AllowVideoPreRoll": "True",
@@ -5920,8 +5919,8 @@
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
   "FFlagTerrainRuntimeTextureUseTM": "True",
-  "FStringFlagRepoGitHashFastString": "0ebb5b58f798a648874f58dd1f5320a547fc133c",
-  "DFStringFlagRepoGitHashDynamicString": "0ebb5b58f798a648874f58dd1f5320a547fc133c",
-  "FStringFlipTimeStampFastString": "2022-03-02T00:03:31.149Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-02T00:03:31.149Z"
+  "FStringFlagRepoGitHashFastString": "658bd01739179fa6537ef6cf62fa46c44598ff7e",
+  "DFStringFlagRepoGitHashDynamicString": "658bd01739179fa6537ef6cf62fa46c44598ff7e",
+  "FStringFlipTimeStampFastString": "2022-03-02T00:14:55.327Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-02T00:14:55.327Z"
 }
