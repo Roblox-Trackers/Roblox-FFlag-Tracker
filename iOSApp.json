@@ -5476,7 +5476,6 @@
   "FFlagSkipLuaAppOnGameLaunch": "True",
   "FFlagLuauSchubfach": "True",
   "FFlagLuaAppUsingSecurityQuestionsForLuaLogin2": "True",
-  "FFlagStudioSerializeInstancesOffUIThread2": "True",
   "FFlagPublishCageMeshRefactor2": "True",
   "FFlagStudioRemovePluginSettingsFileAnalytics": "True",
   "FFlagLuauRefactorTypeVarQuestions": "True",
@@ -5668,6 +5667,8 @@
   "FFlagLayeredClothingFeatureControllerBehaveSameInClientAndStudioPlayMode": "True",
   "FFlagLuauImmutableTypes": "True",
   "FFlagFixLayeredClothingPopIn3": "True",
+  "DFFlagNetJdiThrottleReporting": "True",
+  "DFFlagVoiceChatJoinProfilingEvents": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5982,8 +5983,8 @@
   "FFlagLuaAppShowGitHash": "True",
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
-  "FStringFlagRepoGitHashFastString": "ce68a5f7a5e4403d6e55ac67866024cca42ce393",
-  "DFStringFlagRepoGitHashDynamicString": "ce68a5f7a5e4403d6e55ac67866024cca42ce393",
-  "FStringFlipTimeStampFastString": "2022-03-02T19:21:28.134Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-02T19:21:28.134Z"
+  "FStringFlagRepoGitHashFastString": "0ee949769493f2d1e5eb5ad253eecb9e8880bf60",
+  "DFStringFlagRepoGitHashDynamicString": "0ee949769493f2d1e5eb5ad253eecb9e8880bf60",
+  "FStringFlipTimeStampFastString": "2022-03-02T19:22:56.215Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-02T19:22:56.215Z"
 }
