@@ -5685,6 +5685,8 @@
   "FFlagStudioSecurityQuestionsChallengeDialog": "True",
   "FFlagFixAvatarPromptsLayeredClothingPopIn": "True",
   "FFlagAssetManagerUseUpdateSelectedAssets": "True",
+  "DFFlagSimDeferAtttachedConstraintUpdate": "True",
+  "FFlagSimFixAttachmentRemoveFromWorld": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5911,8 +5913,8 @@
   "FFlagSessionAppLifecycleEvents": "True",
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
-  "FStringFlagRepoGitHashFastString": "264d78477949e333aab83068d067d96183258d97",
-  "DFStringFlagRepoGitHashDynamicString": "264d78477949e333aab83068d067d96183258d97",
-  "FStringFlipTimeStampFastString": "2022-03-02T21:13:13.213Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-02T21:13:13.213Z"
+  "FStringFlagRepoGitHashFastString": "8b7e175158fa6248128d509749bbef9dccf66616",
+  "DFStringFlagRepoGitHashDynamicString": "8b7e175158fa6248128d509749bbef9dccf66616",
+  "FStringFlipTimeStampFastString": "2022-03-02T21:15:16.370Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-02T21:15:16.370Z"
 }
