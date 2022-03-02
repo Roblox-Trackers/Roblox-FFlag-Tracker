@@ -21,6 +21,7 @@
   "FFlagDisableMacBootstrapperEmbedding": "True",
   "FIntBootstrapperWebView2InstallationTelemetryHundredthPercent": "10000",
   "FFlagBootstrapperStudioInstallWebView2Runtime": "True",
+  "FIntInstallWebView2RuntimeTimeoutMs": "50000",
   "FFlagMacBootstrapperPreserveBaseUrlPort": "True",
   "DFIntCrashUploadToBacktracePercentage": "10",
   "DeprecatedOSXLinkURL": "https://en.help.roblox.com/hc/articles/203312800",
@@ -36,8 +37,8 @@
   "FFlagMacPlayerUnsupportedOSClickButtonForMoreInfo": "True",
   "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
   "DeprecatedOSXMajorVersion": "10",
-  "FStringFlagRepoGitHashFastString": "9bf7208b01846880cf8b0db041def6049ca6da03",
-  "DFStringFlagRepoGitHashDynamicString": "9bf7208b01846880cf8b0db041def6049ca6da03",
-  "FStringFlipTimeStampFastString": "2022-03-02T19:52:50.674Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-02T19:52:50.674Z"
+  "FStringFlagRepoGitHashFastString": "855f3b60894a134838b55fe96a0ea0cf79bfc435",
+  "DFStringFlagRepoGitHashDynamicString": "855f3b60894a134838b55fe96a0ea0cf79bfc435",
+  "FStringFlipTimeStampFastString": "2022-03-02T19:57:58.021Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-02T19:57:58.021Z"
 }
