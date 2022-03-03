@@ -5716,6 +5716,7 @@
   "FFlagLuaAppAppRouterSessionization3": "True",
   "DFIntSessionIdlePeriod": "600",
   "FFlagABTestControllerUse200": "True",
+  "FFlagLuaAppSessionMutedErrorString": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5942,8 +5943,8 @@
   "FFlagSessionAppLifecycleEvents": "True",
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
-  "FStringFlagRepoGitHashFastString": "500eac9bc66e9217c3074a6824c7b6b4a595558b",
-  "DFStringFlagRepoGitHashDynamicString": "500eac9bc66e9217c3074a6824c7b6b4a595558b",
-  "FStringFlipTimeStampFastString": "2022-03-03T23:46:57.073Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-03T23:46:57.073Z"
+  "FStringFlagRepoGitHashFastString": "cd6eb71626a90887308cb335f69289f84bf4c0ab",
+  "DFStringFlagRepoGitHashDynamicString": "cd6eb71626a90887308cb335f69289f84bf4c0ab",
+  "FStringFlipTimeStampFastString": "2022-03-03T23:48:06.134Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-03T23:48:06.134Z"
 }
