@@ -2466,7 +2466,7 @@
   "FFlagRbxpDeprecateFileVersionField": "True",
   "FFlagInitPermissionsInPlatformProtocols": "True",
   "DFFlagEnableNewAnimationRuntimeProperty": "True",
-  "FFlagNewAnimationRuntimeDefaultIsEnabled": "False",
+  "FFlagNewAnimationRuntimeDefaultIsEnabled": "True",
   "FFlagUseNewAnimationRuntime2": "True",
   "FFlagShowIBeamCursor3": "True",
   "FFlagEnableNewInteractiveAppCursors": "True",
@@ -4153,7 +4153,6 @@
   "FFlagStudioEmbeddedWebViewCatchJSErrors": "True",
   "FFlagRemoveUILibraryDropdownMenuPt1": "True",
   "FFlagStudioRefreshButtonDisplayTiming": "True",
-  "FFlagNewAnimationRuntimeDefaultIsEnabled_PlaceFilter": "True;189707",
   "FFlagLuauSecondTypecheckKnowsTheDataModel": "True",
   "DFFlagDataModelPatcherLoadRetryTelemetry": "True",
   "FFlagDecalZIndex_TC2": "True",
@@ -5985,8 +5984,8 @@
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
   "FFlagTerrainRuntimeTextureUseTM": "True",
-  "FStringFlagRepoGitHashFastString": "52f83cdbff1cfeaee41832a0b6543d25e325c3e6",
-  "DFStringFlagRepoGitHashDynamicString": "52f83cdbff1cfeaee41832a0b6543d25e325c3e6",
-  "FStringFlipTimeStampFastString": "2022-03-03T19:37:26.877Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-03T19:37:26.877Z"
+  "FStringFlagRepoGitHashFastString": "0be037896f89f69eeb08bb4e04cc76ce65fe1103",
+  "DFStringFlagRepoGitHashDynamicString": "0be037896f89f69eeb08bb4e04cc76ce65fe1103",
+  "FStringFlipTimeStampFastString": "2022-03-03T19:43:26.586Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-03T19:43:26.586Z"
 }
