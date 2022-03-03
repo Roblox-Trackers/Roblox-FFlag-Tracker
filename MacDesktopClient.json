@@ -3864,7 +3864,6 @@
   "FFlagGameJoinParamsUseDefaultIntent": "True",
   "FFlagLuaAppOmniSortIdentifierFix": "True",
   "DFFlagMicroprofilerLessOverhead": "True",
-  "FFlagInGameMenuBlockPlayer": "True",
   "FFlagUsingLambdaInsteadOfBind": "True",
   "FFlagStudioFixYellowBreakpointAfterInvalid": "True",
   "DFFlagGameNetTrackFrameTimestampsOwnedAssemblies2": "True",
@@ -4031,7 +4030,6 @@
   "FFlagPluginDockWidgetRaiseFromLua": "True",
   "FFlagFutureIsBrightPhase3iOS": "True",
   "FFlagLuauAddMissingFollow": "True",
-  "FFlagSocialTabShouldRespectGroupsTilePolicy": "True",
   "FFlagUseSubmitTaskForPropertiesFilterUpdateAndRefactor": "True",
   "DFFlagWarnForLayeredClothingOptInProblems": "True",
   "DFFlagJoinDataRxStatsStreamingEnabled": "True",
@@ -4211,7 +4209,6 @@
   "DFFlagRemoveTypeFromUserError": "True",
   "FFlagLuauTableFreeze": "True",
   "FFlagLuauIfStatementRecursionGuard": "True",
-  "FFlagInGameMenuLeavePromptKeyboardBinding2": "True",
   "DFFlagTeleportValidationErrorInfluxLogs": "True",
   "DFIntTeleportValidationErrorInfluxHundredthsPercentage": "500",
   "FFlagToolboxRemoveAssetUris": "True",
@@ -5972,8 +5969,8 @@
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
   "FFlagTerrainRuntimeTextureUseTM": "True",
-  "FStringFlagRepoGitHashFastString": "ba1d5e66b2445b79e34e1e99068d97f8c089e16e",
-  "DFStringFlagRepoGitHashDynamicString": "ba1d5e66b2445b79e34e1e99068d97f8c089e16e",
-  "FStringFlipTimeStampFastString": "2022-03-03T22:00:22.713Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-03T22:00:22.713Z"
+  "FStringFlagRepoGitHashFastString": "271b4cfa259528e191ccc24daf116315ae1f12d2",
+  "DFStringFlagRepoGitHashDynamicString": "271b4cfa259528e191ccc24daf116315ae1f12d2",
+  "FStringFlipTimeStampFastString": "2022-03-03T22:06:31.814Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-03T22:06:31.814Z"
 }
