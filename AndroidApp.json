@@ -5717,6 +5717,7 @@
   "DFIntSessionIdlePeriod": "600",
   "FFlagABTestControllerUse200": "True",
   "FFlagLuaAppSessionMutedErrorString": "True",
+  "DFFlagVoiceChatRefactorWorkerThread": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -6086,8 +6087,8 @@
   "FFlagLuaAppShowGitHash": "True",
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
-  "FStringFlagRepoGitHashFastString": "cd6eb71626a90887308cb335f69289f84bf4c0ab",
-  "DFStringFlagRepoGitHashDynamicString": "cd6eb71626a90887308cb335f69289f84bf4c0ab",
-  "FStringFlipTimeStampFastString": "2022-03-03T23:48:06.134Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-03T23:48:06.134Z"
+  "FStringFlagRepoGitHashFastString": "006e641b502bae9c030b583f1229e5f0898e5055",
+  "DFStringFlagRepoGitHashDynamicString": "006e641b502bae9c030b583f1229e5f0898e5055",
+  "FStringFlipTimeStampFastString": "2022-03-03T23:54:09.771Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-03T23:54:09.771Z"
 }
