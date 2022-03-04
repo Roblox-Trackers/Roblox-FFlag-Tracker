@@ -5718,6 +5718,8 @@
   "FFlagABTestControllerUse200": "True",
   "FFlagLuaAppSessionMutedErrorString": "True",
   "DFFlagVoiceChatRefactorWorkerThread": "True",
+  "FFlagFixSerializeHSRMeshIdBug": "True",
+  "FFlagDevFrameworkExpandablePaneAlwaysExpanded": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -6088,8 +6090,8 @@
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
   "FFlagSessionAnalyticsIdleState3": "True",
-  "FStringFlagRepoGitHashFastString": "cb30bb4b2d7904ae73acef8c23894a9feff46113",
-  "DFStringFlagRepoGitHashDynamicString": "cb30bb4b2d7904ae73acef8c23894a9feff46113",
-  "FStringFlipTimeStampFastString": "2022-03-04T19:02:11.940Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-04T19:02:11.940Z"
+  "FStringFlagRepoGitHashFastString": "4dd953f8d30fd458df8176c71292b8c8e1af9970",
+  "DFStringFlagRepoGitHashDynamicString": "4dd953f8d30fd458df8176c71292b8c8e1af9970",
+  "FStringFlipTimeStampFastString": "2022-03-04T19:06:46.444Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-04T19:06:46.444Z"
 }
