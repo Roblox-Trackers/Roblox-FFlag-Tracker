@@ -5744,6 +5744,7 @@
   "FFlagDestroyReplicationWorkspaceProperty": "True",
   "FFlagRoactChatFixConversationEvent_v1": "True",
   "FFlagRemoveABTestServiceWaitSocialChat": "True",
+  "FFlagFixLocalizationTableRapidJsonFailures": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6059,8 +6060,8 @@
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
   "FFlagSessionAnalyticsIdleState3": "True",
-  "FStringFlagRepoGitHashFastString": "897dbbca357adc57387d8248417997aa27ecf375",
-  "DFStringFlagRepoGitHashDynamicString": "897dbbca357adc57387d8248417997aa27ecf375",
-  "FStringFlipTimeStampFastString": "2022-03-07T19:09:35.154Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-07T19:09:35.154Z"
+  "FStringFlagRepoGitHashFastString": "bda477bed224b8e508ee481b0b3f028b2823753c",
+  "DFStringFlagRepoGitHashDynamicString": "bda477bed224b8e508ee481b0b3f028b2823753c",
+  "FStringFlipTimeStampFastString": "2022-03-07T19:17:20.730Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-07T19:17:20.730Z"
 }
