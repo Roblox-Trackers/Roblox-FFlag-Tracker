@@ -5735,6 +5735,9 @@
   "FFlagCancellableTaskMethods": "True",
   "FFlagSocialProfileAnalyticsEnabled_v4": "True",
   "FFlagRemoveABTestServicePurchasePrompt": "True",
+  "DFFlagStreamJobCollectsNOUs3": "False",
+  "DFFlagStreamJobHandlesNOUAddRemoveMove8": "False",
+  "FFlagStreamJobTracksNOUAddRemoveMove7": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5963,8 +5966,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
-  "FStringFlagRepoGitHashFastString": "89df327e99dff1679a615b3856280c90cc2d7ee2",
-  "DFStringFlagRepoGitHashDynamicString": "89df327e99dff1679a615b3856280c90cc2d7ee2",
-  "FStringFlipTimeStampFastString": "2022-03-07T18:35:01.902Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-07T18:35:01.902Z"
+  "FStringFlagRepoGitHashFastString": "d1f83d2e5a15ac82b71a5f402b27c7eff162b984",
+  "DFStringFlagRepoGitHashDynamicString": "d1f83d2e5a15ac82b71a5f402b27c7eff162b984",
+  "FStringFlipTimeStampFastString": "2022-03-07T18:49:49.102Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-07T18:49:49.102Z"
 }
