@@ -6024,9 +6024,9 @@
   "DFFlagReportToEdgeAnalyticsEventsAggregator": "true",
   "DFIntEdgeAnalyticsCheckUniverseIdEveryXSeconds": "10",
   "DFStringEdgeAnalyticsAllowedUniveseIds": "1686885941 383310974 140239261",
-  "DFStringEdgeAnalyticsEventsAggregator": "http://apis.roblox.com/di-aggregator-v1/developer-event-ingest/v1/send-batch",
-  "FStringFlagRepoGitHashFastString": "33f039bf74c7a779dbae5d8ab50aadc861b4a910",
-  "DFStringFlagRepoGitHashDynamicString": "33f039bf74c7a779dbae5d8ab50aadc861b4a910",
-  "FStringFlipTimeStampFastString": "2022-03-08T22:12:59.190Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-08T22:12:59.190Z"
+  "DFStringEdgeAnalyticsEventsAggregator": "https://apis.roblox.com/di-aggregator-v1/developer-event-ingest/v1/send-batch",
+  "FStringFlagRepoGitHashFastString": "272bab7de748875868ded0737d8154dba9ea886d",
+  "DFStringFlagRepoGitHashDynamicString": "272bab7de748875868ded0737d8154dba9ea886d",
+  "FStringFlipTimeStampFastString": "2022-03-08T22:16:57.795Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-08T22:16:57.795Z"
 }
