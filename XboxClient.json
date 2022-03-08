@@ -5743,7 +5743,7 @@
   "FFlagDestroyReplicationWorkspaceProperty": "True",
   "FFlagRoactChatFixConversationEvent_v1": "True",
   "FFlagRemoveABTestServiceWaitSocialChat": "True",
-  "FFlagFixLocalizationTableRapidJsonFailures": "True",
+  "FFlagFixLocalizationTableRapidJsonFailures": "False",
   "FFlagSocialProfileDiagEnabled": "True",
   "FFlagCollectMaterialServiceUsageMetrics": "True",
   "FFlagEnableLocalizationToolsStylizer2": "True",
@@ -5757,6 +5757,7 @@
   "FFlagABTestServiceUse200": "True",
   "FFlagABTestEnrollmentsRequestUse200": "True",
   "FFlagLuaProfile101": "True",
+  "FFlagDataModelAwareRefProps": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5985,8 +5986,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
-  "FStringFlagRepoGitHashFastString": "5a8f6f5382816e159c3154065a3f12de16b5f2cb",
-  "DFStringFlagRepoGitHashDynamicString": "5a8f6f5382816e159c3154065a3f12de16b5f2cb",
-  "FStringFlipTimeStampFastString": "2022-03-08T01:09:22.810Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-08T01:09:22.810Z"
+  "FStringFlagRepoGitHashFastString": "98e314523a13f579f36d923f53472ee478b98416",
+  "DFStringFlagRepoGitHashDynamicString": "98e314523a13f579f36d923f53472ee478b98416",
+  "FStringFlipTimeStampFastString": "2022-03-08T17:07:37.258Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-08T17:07:37.258Z"
 }
