@@ -5802,6 +5802,7 @@
   "DFStringWorkspaceMessageText": "[Action Needed] Upcoming changes to asset privacy for audio. Please start reviewing your experiences now to ensure your users are not disrupted. Click here to learn more.",
   "FFlagStudioShowAnnouncementWidget": "True",
   "FFlagAvatarSceneManagerUseTaskSpawn": "True",
+  "FFlagSessionGamePlayEvents2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6046,7 +6047,6 @@
   "FFlagBetterTrackpadScrolling": "True",
   "FFlagSessionHeartbeatAddSessionInfo": "True",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
-  "FFlagSessionGamePlayEvents2": "True",
   "FFlagSessionAppLifecycleEvents": "True",
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
@@ -6057,8 +6057,8 @@
   "FFlagShowGitHashInNewExperienceMenu": "True",
   "FFlagTerrainRuntimeTextureUseTM": "True",
   "FFlagSessionAnalyticsIdleState3": "True",
-  "FStringFlagRepoGitHashFastString": "fd14b9e90a10f9137f5d0eb5349ad297c0d470c8",
-  "DFStringFlagRepoGitHashDynamicString": "fd14b9e90a10f9137f5d0eb5349ad297c0d470c8",
-  "FStringFlipTimeStampFastString": "2022-03-09T22:56:04.285Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-09T22:56:04.285Z"
+  "FStringFlagRepoGitHashFastString": "ba29258048ee424a451eb4ea1962c9e1a36c9b09",
+  "DFStringFlagRepoGitHashDynamicString": "ba29258048ee424a451eb4ea1962c9e1a36c9b09",
+  "FStringFlipTimeStampFastString": "2022-03-09T23:03:27.984Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-09T23:03:27.984Z"
 }
