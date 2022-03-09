@@ -5677,7 +5677,7 @@
   "FFlagSimFixAttachmentRemoveFromWorld": "True",
   "FFlagIXPRecordExposureEnabledV2": "True",
   "FIntIXPRecordExposureOnMountRollout": "100",
-  "DFStringJdiDeserializerConfigUserIdPer100": "1,150,2,200",
+  "DFStringJdiDeserializerConfigUserIdPer100": "1,150,2,200,3,100,4,50",
   "DFFlagSimDeferAtttachedConstraintUpdate_PlaceFilter": "False;2998650659",
   "FFlagSimFixAttachmentRemoveFromWorld_PlaceFilter": "False;2998650659",
   "FFlagPluginsSetAudioPreviewUsageContext": "True",
@@ -5745,7 +5745,7 @@
   "FFlagSocialProfileDiagEnabled": "True",
   "FFlagCollectMaterialServiceUsageMetrics": "True",
   "FFlagEnableLocalizationToolsStylizer2": "True",
-  "DFStringPacketProcessConfigUserIdPer100": "1,150,2,200",
+  "DFStringPacketProcessConfigUserIdPer100": "1,150,2,200,3,100,4,50",
   "FFlagSimCSGV3ZeroDenormalizedCoefficients": "True",
   "FFlagDevFrameworkScrollingFrameAddPadding": "True",
   "FIntRequestingBackgroundExecutionTimeRollout": "100",
@@ -6170,8 +6170,8 @@
   "FFlagShowGitHashInGame": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
   "FFlagSessionAnalyticsIdleState3": "True",
-  "FStringFlagRepoGitHashFastString": "8bc1c9be629a8a00f106a4cdc8306f0090c4e704",
-  "DFStringFlagRepoGitHashDynamicString": "8bc1c9be629a8a00f106a4cdc8306f0090c4e704",
-  "FStringFlipTimeStampFastString": "2022-03-09T23:14:11.975Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-09T23:14:11.975Z"
+  "FStringFlagRepoGitHashFastString": "273bd2d5fabd5689c6deb1fc371dee512fe7de5f",
+  "DFStringFlagRepoGitHashDynamicString": "273bd2d5fabd5689c6deb1fc371dee512fe7de5f",
+  "FStringFlipTimeStampFastString": "2022-03-09T23:16:18.147Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-09T23:16:18.147Z"
 }
