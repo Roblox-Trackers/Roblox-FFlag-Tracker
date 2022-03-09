@@ -5784,6 +5784,7 @@
   "FFlagNavigationWayPointDataEnabled3": "True",
   "FFlagLuauTxnLogCheckForInvalidation": "True",
   "FFlagLuaAppRecommendedCarouselV2_3": "True",
+  "DFFlagIncludeRotationalVelocityInPriority": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6011,8 +6012,8 @@
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
   "FFlagSessionAnalyticsIdleState3": "True",
-  "FStringFlagRepoGitHashFastString": "1e98a4f0f0743b14d258bf3449ed3f425ecae37a",
-  "DFStringFlagRepoGitHashDynamicString": "1e98a4f0f0743b14d258bf3449ed3f425ecae37a",
-  "FStringFlipTimeStampFastString": "2022-03-09T20:14:07.781Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-09T20:14:07.781Z"
+  "FStringFlagRepoGitHashFastString": "f8fc46e7280b5b87785c1bdd79ac2438ebf5aa40",
+  "DFStringFlagRepoGitHashDynamicString": "f8fc46e7280b5b87785c1bdd79ac2438ebf5aa40",
+  "FStringFlipTimeStampFastString": "2022-03-09T20:33:51.353Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-09T20:33:51.353Z"
 }
