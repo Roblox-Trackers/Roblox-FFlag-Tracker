@@ -5818,6 +5818,7 @@
   "FFlagStudioStudioPerformanceMeasurementsDependencyInjection": "True",
   "FFlagStudioFixDisplayDownloadResult": "True",
   "FFlagABTestEnrollmentsRequestUse200": "True",
+  "DFFlagCliRepFixReportingFrameUndercount": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6079,8 +6080,8 @@
   "DFIntEdgeAnalyticsCheckUniverseIdEveryXSeconds": "10",
   "DFStringEdgeAnalyticsAllowedUniveseIds": "1686885941 383310974 140239261",
   "DFStringEdgeAnalyticsEventsAggregator": "https://apis.roblox.com/di-aggregator-v1/developer-event-ingest/v1/send-batch",
-  "FStringFlagRepoGitHashFastString": "dea928ab3704045a2dd4333e50bb0ade468474a3",
-  "DFStringFlagRepoGitHashDynamicString": "dea928ab3704045a2dd4333e50bb0ade468474a3",
-  "FStringFlipTimeStampFastString": "2022-03-10T18:19:08.758Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-10T18:19:08.758Z"
+  "FStringFlagRepoGitHashFastString": "e80d9cd7e9bba424da11a3b0febdb3525ca9fc7d",
+  "DFStringFlagRepoGitHashDynamicString": "e80d9cd7e9bba424da11a3b0febdb3525ca9fc7d",
+  "FStringFlipTimeStampFastString": "2022-03-10T18:21:19.908Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-10T18:21:19.908Z"
 }
