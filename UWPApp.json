@@ -5819,6 +5819,7 @@
   "FFlagStudioFixDisplayDownloadResult": "True",
   "FFlagABTestEnrollmentsRequestUse200": "True",
   "DFFlagCliRepFixReportingFrameUndercount": "True",
+  "FFlagStudioAddRetryToNewLoginDataEndpoint": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6043,8 +6044,8 @@
   "FStringFeature_SessionHeartbeatRollout": "513;1",
   "FStringFeature_SessionChangeEventRollout": "513;1",
   "FFlagSessionAnalyticsIdleState3": "True",
-  "FStringFlagRepoGitHashFastString": "e80d9cd7e9bba424da11a3b0febdb3525ca9fc7d",
-  "DFStringFlagRepoGitHashDynamicString": "e80d9cd7e9bba424da11a3b0febdb3525ca9fc7d",
-  "FStringFlipTimeStampFastString": "2022-03-10T18:21:19.908Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-10T18:21:19.908Z"
+  "FStringFlagRepoGitHashFastString": "aa52d35be451b99bfd1330adfaad4d86caf9ea27",
+  "DFStringFlagRepoGitHashDynamicString": "aa52d35be451b99bfd1330adfaad4d86caf9ea27",
+  "FStringFlipTimeStampFastString": "2022-03-10T18:40:48.072Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-10T18:40:48.072Z"
 }
