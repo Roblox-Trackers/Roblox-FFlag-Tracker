@@ -5718,7 +5718,7 @@
   "DFFlagLuauRefinementExtendedTelemetry": "True",
   "FFlagLuauDoNotTryToReduce": "True",
   "DFIntHttpCacheCheckVersion": "1",
-  "DFIntHttpCacheRefreshHundredthsPercent": "4000",
+  "DFIntHttpCacheRefreshHundredthsPercent": "500",
   "FFlagLuauReduceStackReallocs": "True",
   "FFlagLuauGcAdditionalStats": "True",
   "FFlagAddInitialUserAgentForWebView2": "True",
@@ -6031,8 +6031,8 @@
   "FStringFeature_SessionHeartbeatRollout": "513;10",
   "FStringFeature_SessionChangeEventRollout": "513;10",
   "FFlagSessionAnalyticsIdleState3": "True",
-  "FStringFlagRepoGitHashFastString": "2e83118749737e78e662420c37b07d09eb08b47c",
-  "DFStringFlagRepoGitHashDynamicString": "2e83118749737e78e662420c37b07d09eb08b47c",
-  "FStringFlipTimeStampFastString": "2022-03-14T23:03:34.663Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-14T23:03:34.663Z"
+  "FStringFlagRepoGitHashFastString": "4837e8ee3c7deffbb221ea286626476cd89a3c40",
+  "DFStringFlagRepoGitHashDynamicString": "4837e8ee3c7deffbb221ea286626476cd89a3c40",
+  "FStringFlipTimeStampFastString": "2022-03-14T23:42:14.965Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-14T23:42:14.965Z"
 }
