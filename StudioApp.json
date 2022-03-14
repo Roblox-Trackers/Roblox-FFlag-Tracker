@@ -4720,8 +4720,6 @@
   "FFlagVirtaulCursorUseNewMouseEvents": "True",
   "FFlagVirtualCursorOnlySendFakeEvents2": "True",
   "DFFlagWorkspaceAnimatorRetargetingEnabledDefault_PlaceFilter": "True;3851622790;4620170611;735030788;4728136238;7477946144;7525190786;7492148266;5064251723;189707",
-  "FFlagUseFilteredGetKeyframes_PlaceFilter": "True;3851622790;4620170611;735030788;4728136238;7477946144;7525190786;7492148266;5064251723;189707",
-  "DFFlagAnimatorRetargetR15_3_PlaceFilter": "True;3851622790;4620170611;735030788;4728136238;7477946144;7525190786;7492148266;5064251723;189707",
   "FFlagStudioTeamCreateStayInIdeView": "True",
   "DFFlagReportNumSyncMapEntriesModifiedSerial": "True",
   "DFFlagTeleportInvocationsLogging2": "True",
@@ -5798,6 +5796,9 @@
   "FFlagLuaAppScrollingAppCarouselMarginUpdate": "True",
   "FFlagLuaAppRefreshSiteAlert": "True",
   "FFlagRakNetSafeShutdown3_DataCenterFilter": "True;361",
+  "DFFlagAnimatorRetargetR15_3": "True",
+  "FFlagUseFilteredGetKeyframes": "True",
+  "DFFlagEnableAnimatorRetargetingMode": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6058,8 +6059,8 @@
   "DFIntEdgeAnalyticsCheckUniverseIdEveryXSeconds": "10",
   "DFStringEdgeAnalyticsAllowedUniveseIds": "1686885941 383310974 140239261",
   "DFStringEdgeAnalyticsEventsAggregator": "https://apis.roblox.com/di-aggregator-v1/developer-event-ingest/v1/send-batch",
-  "FStringFlagRepoGitHashFastString": "d6ab45e3658bb57913e4aaf01853819305327aa3",
-  "DFStringFlagRepoGitHashDynamicString": "d6ab45e3658bb57913e4aaf01853819305327aa3",
-  "FStringFlipTimeStampFastString": "2022-03-14T18:23:18.382Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-14T18:23:18.382Z"
+  "FStringFlagRepoGitHashFastString": "70d8fde98adcc21c389d40260cf891bc19ef912f",
+  "DFStringFlagRepoGitHashDynamicString": "70d8fde98adcc21c389d40260cf891bc19ef912f",
+  "FStringFlipTimeStampFastString": "2022-03-14T18:52:23.813Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-14T18:52:23.813Z"
 }
