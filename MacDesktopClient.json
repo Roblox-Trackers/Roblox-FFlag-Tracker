@@ -5796,6 +5796,7 @@
   "DFIntSafeMoveMaxIncrementMillis": "4000",
   "DFLogKeyRing": "10",
   "DFFlagKeyRingVersioning": "True",
+  "FFlagBrowserTrackerIdRequestUse200": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6038,7 +6039,7 @@
   "FFlagSessionHeartbeatAddSessionInfo": "True",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
   "FFlagSessionAppLifecycleEvents": "True",
-  "FStringFeature_SessionHeartbeatRollout": "513;10",
+  "FStringFeature_SessionHeartbeatRollout": "513;25",
   "FStringFeature_SessionChangeEventRollout": "513;25",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageMacClient",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataMacClient",
@@ -6049,8 +6050,8 @@
   "FFlagSessionAnalyticsIdleState3": "True",
   "FFlagOnGameLeaveGameProtocol": "True",
   "FFlagUniversalAppCsat": "True",
-  "FStringFlagRepoGitHashFastString": "4436dc84d46983078a5854857cdc3b9ed724fba3",
-  "DFStringFlagRepoGitHashDynamicString": "4436dc84d46983078a5854857cdc3b9ed724fba3",
-  "FStringFlipTimeStampFastString": "2022-03-15T19:08:41.236Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-15T19:08:41.236Z"
+  "FStringFlagRepoGitHashFastString": "3a201ce04f9ce28aea42ab107f3f6f791acea65a",
+  "DFStringFlagRepoGitHashDynamicString": "3a201ce04f9ce28aea42ab107f3f6f791acea65a",
+  "FStringFlipTimeStampFastString": "2022-03-15T19:15:35.591Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-15T19:15:35.591Z"
 }
