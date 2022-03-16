@@ -5816,7 +5816,6 @@
   "DFFlagEnableGetProductInfoUpdatedReponseAnalytics": "True",
   "FIntAddFriendsPageRolloutPercentage": "25",
   "FFlagRccReportTcFinalSaveMetrics2": "True",
-  "DFFlagStreamingReportPerformanceStats": "True",
   "DFFlagGCJobChecksAssembliesExist": "True",
   "FFlagCloudsBSMTeleportFix": "True",
   "FFlagTerrainPotentialFix": "True",
@@ -6047,8 +6046,9 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
-  "FStringFlagRepoGitHashFastString": "69eaa4ddcc47cdeee2da0e9b8aad533a845efd5c",
-  "DFStringFlagRepoGitHashDynamicString": "69eaa4ddcc47cdeee2da0e9b8aad533a845efd5c",
-  "FStringFlipTimeStampFastString": "2022-03-16T22:19:33.839Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-16T22:19:33.839Z"
+  "DFFlagStreamingReportPerformanceStats": "False",
+  "FStringFlagRepoGitHashFastString": "daa1b8b4d3da7701ae823894f041bbf0a1caa312",
+  "DFStringFlagRepoGitHashDynamicString": "daa1b8b4d3da7701ae823894f041bbf0a1caa312",
+  "FStringFlipTimeStampFastString": "2022-03-16T22:26:48.609Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-16T22:26:48.609Z"
 }
