@@ -5707,7 +5707,7 @@
   "DFFlagLuauRefinementExtendedTelemetry": "True",
   "FFlagLuauDoNotTryToReduce": "True",
   "DFIntHttpCacheCheckVersion": "2",
-  "DFIntHttpCacheRefreshHundredthsPercent": "4000",
+  "DFIntHttpCacheRefreshHundredthsPercent": "5000",
   "FFlagLuauReduceStackReallocs": "True",
   "FFlagLuauGcAdditionalStats": "True",
   "FFlagAddInitialUserAgentForWebView2": "True",
@@ -5803,6 +5803,7 @@
   "FFlagAXDefaultOrderForLayeredItems": "True",
   "DFFlagVoiceChatSubscriptionRetry": "True",
   "DFFlagAnimatorRetargetR15_3_PlaceFilter": "True;3851622790;4620170611;735030788;4728136238;7477946144;7525190786;7492148266;5064251723;189707",
+  "FFlagIGMStopRenderingInactivePages": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -6173,8 +6174,8 @@
   "FFlagUniversalAppCsat": "True",
   "EnableRestartAfterProcDeath": "True",
   "EnableShutdownAfterProcDeathOnAmazon": "True",
-  "FStringFlagRepoGitHashFastString": "271c769bd0786fd58f3728a91b38c7ca1c16243f",
-  "DFStringFlagRepoGitHashDynamicString": "271c769bd0786fd58f3728a91b38c7ca1c16243f",
-  "FStringFlipTimeStampFastString": "2022-03-16T17:43:09.284Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-16T17:43:09.284Z"
+  "FStringFlagRepoGitHashFastString": "f3e2ef9ad60ae1d44e45a52fd855cae6a051fb2b",
+  "DFStringFlagRepoGitHashDynamicString": "f3e2ef9ad60ae1d44e45a52fd855cae6a051fb2b",
+  "FStringFlipTimeStampFastString": "2022-03-16T18:01:23.660Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-16T18:01:23.660Z"
 }
