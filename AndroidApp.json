@@ -5814,7 +5814,7 @@
   "DFFlagEnableGetProductInfoBatchingAnalytics": "True",
   "DFFlagEnableGetProductInfoDupCallAnalytics": "True",
   "DFFlagEnableGetProductInfoUpdatedReponseAnalytics": "True",
-  "FIntAddFriendsPageRolloutPercentage": "25",
+  "FIntAddFriendsPageRolloutPercentage": "50",
   "FFlagRccReportTcFinalSaveMetrics2": "True",
   "DFFlagGCJobChecksAssembliesExist": "True",
   "FFlagCloudsBSMTeleportFix": "True",
@@ -6193,8 +6193,8 @@
   "EnableRestartAfterProcDeath": "True",
   "EnableShutdownAfterProcDeathOnAmazon": "True",
   "DFFlagStreamingReportPerformanceStats": "False",
-  "FStringFlagRepoGitHashFastString": "1b95d72013c33c032cafe16fc46f0e86c2d1ffea",
-  "DFStringFlagRepoGitHashDynamicString": "1b95d72013c33c032cafe16fc46f0e86c2d1ffea",
-  "FStringFlipTimeStampFastString": "2022-03-16T22:37:10.624Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-16T22:37:10.624Z"
+  "FStringFlagRepoGitHashFastString": "16ef136e43fe47ada2b0f43cf38d76cb205a0d62",
+  "DFStringFlagRepoGitHashDynamicString": "16ef136e43fe47ada2b0f43cf38d76cb205a0d62",
+  "FStringFlipTimeStampFastString": "2022-03-16T22:45:08.949Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-16T22:45:08.949Z"
 }
