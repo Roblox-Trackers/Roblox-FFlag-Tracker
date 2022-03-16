@@ -5811,6 +5811,9 @@
   "FFlagAddFriendsToastIgnoreAllFix": "True",
   "FFlagAddFriendsRequestsCountFix": "True",
   "FFlagModalPopUpWebViewRemoveDismissGestureOnViewDidDisappear": "True",
+  "DFFlagEnableGetProductInfoBatchingAnalytics": "True",
+  "DFFlagEnableGetProductInfoDupCallAnalytics": "True",
+  "DFFlagEnableGetProductInfoUpdatedReponseAnalytics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6064,8 +6067,8 @@
   "FFlagSessionAnalyticsIdleState3": "True",
   "FFlagOnGameLeaveGameProtocol": "True",
   "FFlagUniversalAppCsat": "True",
-  "FStringFlagRepoGitHashFastString": "47ce06ebd0c2d70d7d3f938509cc1ac456e48228",
-  "DFStringFlagRepoGitHashDynamicString": "47ce06ebd0c2d70d7d3f938509cc1ac456e48228",
-  "FStringFlipTimeStampFastString": "2022-03-16T18:26:40.558Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-16T18:26:40.558Z"
+  "FStringFlagRepoGitHashFastString": "8020cc8c0df8dcaf67fb01eb2b256a140978f92d",
+  "DFStringFlagRepoGitHashDynamicString": "8020cc8c0df8dcaf67fb01eb2b256a140978f92d",
+  "FStringFlipTimeStampFastString": "2022-03-16T18:28:13.719Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-16T18:28:13.719Z"
 }
