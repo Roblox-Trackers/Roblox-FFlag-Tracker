@@ -5811,7 +5811,7 @@
   "DFFlagEnableGetProductInfoBatchingAnalytics": "True",
   "DFFlagEnableGetProductInfoDupCallAnalytics": "True",
   "DFFlagEnableGetProductInfoUpdatedReponseAnalytics": "True",
-  "FIntAddFriendsPageRolloutPercentage": "50",
+  "FIntAddFriendsPageRolloutPercentage": "100",
   "FFlagRccReportTcFinalSaveMetrics2": "True",
   "DFFlagGCJobChecksAssembliesExist": "True",
   "FFlagCloudsBSMTeleportFix": "True",
@@ -6093,8 +6093,8 @@
   "DFStringEdgeAnalyticsEventsAggregator": "https://apis.roblox.com/di-aggregator-v1/developer-event-ingest/v1/send-batch",
   "FIntContextualSaveBetaFeatureRolloutPercent": "100",
   "DFFlagStreamingReportPerformanceStats": "False",
-  "FStringFlagRepoGitHashFastString": "170235311fd83459ed43bc1b51d4414a4bcf534d",
-  "DFStringFlagRepoGitHashDynamicString": "170235311fd83459ed43bc1b51d4414a4bcf534d",
-  "FStringFlipTimeStampFastString": "2022-03-17T17:45:59.107Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-17T17:45:59.107Z"
+  "FStringFlagRepoGitHashFastString": "9c3951b0679b6689e701ef67f1c5575a874284d3",
+  "DFStringFlagRepoGitHashDynamicString": "9c3951b0679b6689e701ef67f1c5575a874284d3",
+  "FStringFlipTimeStampFastString": "2022-03-17T17:48:04.367Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-17T17:48:04.367Z"
 }
