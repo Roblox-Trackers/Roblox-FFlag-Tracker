@@ -5912,6 +5912,7 @@
   "FFlagScriptCompilationCache": "True",
   "FFlagFileSystemIndependentGetCacheDirectoryFix": "True",
   "DFFlagRemoveLastPlaceId": "True",
+  "DFFlagInvalidSoundIdPermHotfix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6165,8 +6166,8 @@
   "FFlagOnGameLeaveGameProtocol": "True",
   "FFlagUniversalAppCsat": "True",
   "DFFlagStreamingReportPerformanceStats": "False",
-  "FStringFlagRepoGitHashFastString": "42cc5c5707de6b1131f24f183d94909544b90ada",
-  "DFStringFlagRepoGitHashDynamicString": "42cc5c5707de6b1131f24f183d94909544b90ada",
-  "FStringFlipTimeStampFastString": "2022-03-21T23:12:27.001Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-21T23:12:27.001Z"
+  "FStringFlagRepoGitHashFastString": "264c9ae02f43f03c79c12fb6359c6ef982e2dc7b",
+  "DFStringFlagRepoGitHashDynamicString": "264c9ae02f43f03c79c12fb6359c6ef982e2dc7b",
+  "FStringFlipTimeStampFastString": "2022-03-21T23:15:36.422Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-21T23:15:36.422Z"
 }
