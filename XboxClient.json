@@ -5875,6 +5875,8 @@
   "FFlagLuaProfileShareWithDesktopPolicy": "True",
   "DFFlagHSRPublishCounters": "True",
   "FFlagStudioDisableUpdatesForLocalBuilds": "True",
+  "FFlagStudioFixUpdateManagerShutdown": "True",
+  "FFlagStudioSafeEmergencyMessageShutdownMac": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6101,8 +6103,8 @@
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
   "DFFlagStreamingReportPerformanceStats": "False",
-  "FStringFlagRepoGitHashFastString": "3a3c8b6a85e47f3f1e56a190abe54305027f42d2",
-  "DFStringFlagRepoGitHashDynamicString": "3a3c8b6a85e47f3f1e56a190abe54305027f42d2",
-  "FStringFlipTimeStampFastString": "2022-03-21T17:02:36.164Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-21T17:02:36.164Z"
+  "FStringFlagRepoGitHashFastString": "60172bddae29b85ae3f0681ad189abb6d7fbdcf5",
+  "DFStringFlagRepoGitHashDynamicString": "60172bddae29b85ae3f0681ad189abb6d7fbdcf5",
+  "FStringFlipTimeStampFastString": "2022-03-21T17:07:25.076Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-21T17:07:25.076Z"
 }
