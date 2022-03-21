@@ -5904,6 +5904,7 @@
   "FFlagDataModelPatchCheckVersionBeforeCache": "True",
   "FFlagAudioPrivacyCheckOnPublishNewSlot": "True",
   "FFlagOutputWindowErrorLink": "True",
+  "FFlagDataModelPatchAddCacheError": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6163,8 +6164,8 @@
   "FIntContextualSaveBetaFeatureRolloutPercent": "100",
   "DFFlagStreamingReportPerformanceStats": "False",
   "FFlagFixOutputWindowGrantPermissionForUnpublishedPlace": "True",
-  "FStringFlagRepoGitHashFastString": "fa4eaf6232f2189a5455c008dfabe0f9a486d8a2",
-  "DFStringFlagRepoGitHashDynamicString": "fa4eaf6232f2189a5455c008dfabe0f9a486d8a2",
-  "FStringFlipTimeStampFastString": "2022-03-21T22:07:42.018Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-21T22:07:42.018Z"
+  "FStringFlagRepoGitHashFastString": "0e23e2454cf5ff7972251a652b662881fee2273a",
+  "DFStringFlagRepoGitHashDynamicString": "0e23e2454cf5ff7972251a652b662881fee2273a",
+  "FStringFlipTimeStampFastString": "2022-03-21T22:09:32.702Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-21T22:09:32.702Z"
 }
