@@ -5905,9 +5905,8 @@
   "FFlagAudioPrivacyCheckOnPublishNewSlot": "True",
   "FFlagOutputWindowErrorLink": "True",
   "FFlagDataModelPatchAddCacheError": "True",
-  "FFlagReturnFocusToSearchFromQuickMenu": "True",
-  "FFlagUpdatesToRCCThumbnailer3": "True",
   "FFlagLuaProfileAddTestRenderer": "True",
+  "FFlagFixHSRPublishCheckDuplicateHash": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6134,8 +6133,8 @@
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
   "DFFlagStreamingReportPerformanceStats": "False",
-  "FStringFlagRepoGitHashFastString": "6ff995b95f5525253bea83e6f9a7abdb785a2d5d",
-  "DFStringFlagRepoGitHashDynamicString": "6ff995b95f5525253bea83e6f9a7abdb785a2d5d",
-  "FStringFlipTimeStampFastString": "2022-03-21T22:14:37.881Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-21T22:14:37.881Z"
+  "FStringFlagRepoGitHashFastString": "95c5f25d754da28d95bb16c168793fe0a9496f9c",
+  "DFStringFlagRepoGitHashDynamicString": "95c5f25d754da28d95bb16c168793fe0a9496f9c",
+  "FStringFlipTimeStampFastString": "2022-03-21T22:16:28.838Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-21T22:16:28.838Z"
 }
