@@ -5861,7 +5861,7 @@
   "FFlagHandleBackendErrorCodeForPublicAssets": "True",
   "FFlagFindReplaceWindowDependencyCleanup": "True",
   "FFlagParticleFlipbooksBetaFeature": "True",
-  "DFFlagFixAndroidGetAddrinfoHintFlags": "True",
+  "DFFlagFixAndroidGetAddrinfoHintFlags": "False",
   "FFlagMacFixDuarOptOutButton": "True",
   "DFFlagAddRigidAccessoriesToHumanoidDescriptionProperties": "True",
   "FFlagLayeredClothingEditorDeduplicatePackages": "True",
@@ -5915,6 +5915,7 @@
   "DFFlagInvalidSoundIdPermHotfix": "True",
   "FFlagAudioPrivacyCheckOnPublishNewSlot": "True",
   "FFlagOutputWindowErrorLink": "True",
+  "DFFlagHttpTimeoutStaleQueuedRequests": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6139,8 +6140,8 @@
   "FStringFeature_SessionChangeEventRollout": "513;100",
   "FFlagSessionAnalyticsIdleState3": "True",
   "DFFlagStreamingReportPerformanceStats": "False",
-  "FStringFlagRepoGitHashFastString": "b29bd3f280821d7195663fbf39cce3c29b82ebcf",
-  "DFStringFlagRepoGitHashDynamicString": "b29bd3f280821d7195663fbf39cce3c29b82ebcf",
-  "FStringFlipTimeStampFastString": "2022-03-21T23:23:31.599Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-21T23:23:31.599Z"
+  "FStringFlagRepoGitHashFastString": "4906a2e239d9916c7ca3fe85cbac701ae63c8681",
+  "DFStringFlagRepoGitHashDynamicString": "4906a2e239d9916c7ca3fe85cbac701ae63c8681",
+  "FStringFlipTimeStampFastString": "2022-03-21T23:34:14.042Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-21T23:34:14.042Z"
 }
