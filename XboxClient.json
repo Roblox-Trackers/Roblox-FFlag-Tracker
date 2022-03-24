@@ -5100,7 +5100,7 @@
   "DFIntDisconnectReasonDiagThrottlePercent": "50",
   "FFlagLuauBytecodeV2Write": "True",
   "DFIntNetJdiProcessReportingIntervalSeconds": "300",
-  "FFlagReplicatorReportJdiOverProcess": "True",
+  "FFlagReplicatorReportJdiOverProcess": "False",
   "FFlagStudioRemoveWidgetFromSessionInfo2": "True",
   "DFFlagSetAbsoluteRotationPerfOpt": "True",
   "FFlagVoiceChatServiceLifeTimeForManager2": "True",
@@ -5562,7 +5562,7 @@
   "FFlagTempCatalogLCSearchFix": "True",
   "FFlagLuauSealExports": "True",
   "DFIntPredictedOOMPercent": "50",
-  "DFFlagReplicatorStopProducingTooMuchJDIToProcess2": "True",
+  "DFFlagReplicatorStopProducingTooMuchJDIToProcess2": "False",
   "DFStringJdiDeserializerConfigPerDC": "",
   "FFlagLuauTerminateCyclicMetatableIndexLookup": "True",
   "FFlagToolboxDisableAutocompleteWithGuac": "True",
@@ -6146,8 +6146,8 @@
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
   "DFFlagStreamingReportPerformanceStats": "False",
-  "FStringFlagRepoGitHashFastString": "2711b9d2f0b5e0e1289d0049423bb3748fb7678f",
-  "DFStringFlagRepoGitHashDynamicString": "2711b9d2f0b5e0e1289d0049423bb3748fb7678f",
-  "FStringFlipTimeStampFastString": "2022-03-24T15:59:23.794Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-24T15:59:23.794Z"
+  "FStringFlagRepoGitHashFastString": "b6f1d0132097ac6b18f402c9a80b38ee89431e27",
+  "DFStringFlagRepoGitHashDynamicString": "b6f1d0132097ac6b18f402c9a80b38ee89431e27",
+  "FStringFlipTimeStampFastString": "2022-03-24T16:07:32.509Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-24T16:07:32.509Z"
 }
