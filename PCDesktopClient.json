@@ -3049,7 +3049,7 @@
   "DFFlagWsClientAbortRemaining": "True",
   "FFlagVoiceManagerCheckBeforeTogglingMic": "True",
   "FFlagEnableImageResampleMode": "True",
-  "FFlagClientDynamicVariableReload": "False",
+  "FFlagClientDynamicVariableReload": "True",
   "FFlagFixScriptDebuggerAssertWhenReloadingPlugin": "True",
   "DFIntLuaGcMaxKb": "200",
   "FFlagEnableVoiceChatDeviceChangeDebounce": "True",
@@ -6223,8 +6223,8 @@
   "FFlagUniversalAppCsat": "False",
   "DFFlagStreamingReportPerformanceStats": "False",
   "FFlagSessionGamePlayEvents3": "True",
-  "FStringFlagRepoGitHashFastString": "d8f4b677a38a554220fe80a52671ec4585de2c93",
-  "DFStringFlagRepoGitHashDynamicString": "d8f4b677a38a554220fe80a52671ec4585de2c93",
-  "FStringFlipTimeStampFastString": "2022-03-24T21:03:13.989Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-24T21:03:13.989Z"
+  "FStringFlagRepoGitHashFastString": "a25ae40aeaabcc2d8ba0e6167e4e7f555d36b520",
+  "DFStringFlagRepoGitHashDynamicString": "a25ae40aeaabcc2d8ba0e6167e4e7f555d36b520",
+  "FStringFlipTimeStampFastString": "2022-03-24T21:05:42.271Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-24T21:05:42.271Z"
 }
