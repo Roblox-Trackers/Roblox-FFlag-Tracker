@@ -5732,7 +5732,7 @@
   "FFlagABTestEnrollmentsRequestUse200": "True",
   "DFFlagCliRepFixReportingFrameUndercount": "True",
   "FFlagFacialAnimationCore": "False",
-  "FFlagRenderFixFutureAo": "True",
+  "FFlagRenderFixFutureAo": "False",
   "FFlagAXFixItemDetailsCustomizeNonAvatarItem": "True",
   "FIntGraphicsVulkanAnalyticsHundredthPercent": "100",
   "FFlagAssetImportGenerateMeshLod": "True",
@@ -5926,7 +5926,6 @@
   "FFlagMarkZeroWidthCharacterErrors": "True",
   "FFlagNewRuntimeQuaternionToAAFix": "True",
   "FFlagKeepLastSignatureIfNoneViable": "True",
-  "FFlagRenderPreciseGrass": "True",
   "DFFlagGetPartNameWeakPointerFix": "True",
   "DFFlagStreamJobHandlesNOUAddRemoveMove9": "True",
   "FFlagAudioPrivacyBatchGrantPrintErrors": "True",
@@ -6220,8 +6219,8 @@
   "FFlagOutputWindowErrorLink": "True",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
-  "FStringFlagRepoGitHashFastString": "07d131d7b07b5d5712e8b1888a7da7b2c176cd58",
-  "DFStringFlagRepoGitHashDynamicString": "07d131d7b07b5d5712e8b1888a7da7b2c176cd58",
-  "FStringFlipTimeStampFastString": "2022-03-24T21:56:49.668Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-24T21:56:49.668Z"
+  "FStringFlagRepoGitHashFastString": "e52e6b0523c4b86ace1f5a53ae8cad1651b40375",
+  "DFStringFlagRepoGitHashDynamicString": "e52e6b0523c4b86ace1f5a53ae8cad1651b40375",
+  "FStringFlipTimeStampFastString": "2022-03-24T22:09:19.846Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-24T22:09:19.846Z"
 }
