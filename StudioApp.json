@@ -5951,7 +5951,6 @@
   "FFlagLuauUnsealedTableLiteral": "True",
   "FFlagLuauDiscriminableUnions2": "True",
   "FFlagStudioFixTCCancelCrash": "True",
-  "DFFlagAnimatorRetargetR15_4": "True",
   "DFIntReportStreamingObserverReplicatorDisconnectCapacityProblemHundrethsPercentage": "100",
   "DFFlagDMCloseScriptContextThreads": "True",
   "FFlagLuaAppUseSecurityPromptsV2New4": "True",
@@ -5979,6 +5978,7 @@
   "FFlagSimCSGV3ScaleVertexError": "True",
   "FFlagLuaAppHardenGameDetails": "True",
   "FFlagGameJoinFailureAnalytics2": "True",
+  "DFFlagAnimatorRetargetR15_4_PlaceFilter": "True;3851622790;4620170611;735030788;4728136238;7477946144;7525190786;7492148266;5064251723;189707",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6241,8 +6241,8 @@
   "FFlagOutputWindowErrorLink": "True",
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
-  "FStringFlagRepoGitHashFastString": "d8500f3b0541834770de19a92ab4c72975305a16",
-  "DFStringFlagRepoGitHashDynamicString": "d8500f3b0541834770de19a92ab4c72975305a16",
-  "FStringFlipTimeStampFastString": "2022-03-25T17:35:51.051Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-25T17:35:51.051Z"
+  "FStringFlagRepoGitHashFastString": "f1e90f4eb272b22dfede741f09d973b5a1d94571",
+  "DFStringFlagRepoGitHashDynamicString": "f1e90f4eb272b22dfede741f09d973b5a1d94571",
+  "FStringFlipTimeStampFastString": "2022-03-25T17:36:06.521Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-25T17:36:06.521Z"
 }
