@@ -6012,6 +6012,8 @@
   "FFlagWeakObjectRefCopyExistingRef": "True",
   "FFlagGamepadInputMoreGamepadsCrash": "True",
   "FFlagAssetImporterPbrSupport": "True",
+  "DFFlagAnalyticsServiceStandardEventsLimitMaxBudget": "True",
+  "DFIntAnalyticsServiceFiredEventsBudgetMax": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6275,8 +6277,8 @@
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758",
-  "FStringFlagRepoGitHashFastString": "f8fd82e8f3268b4c58730fa080e6e90c8dd98c2e",
-  "DFStringFlagRepoGitHashDynamicString": "f8fd82e8f3268b4c58730fa080e6e90c8dd98c2e",
-  "FStringFlipTimeStampFastString": "2022-03-28T20:51:01.980Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-28T20:51:01.980Z"
+  "FStringFlagRepoGitHashFastString": "aa01919757ae323230bc7d1dbe17ff44f33bd2ae",
+  "DFStringFlagRepoGitHashDynamicString": "aa01919757ae323230bc7d1dbe17ff44f33bd2ae",
+  "FStringFlipTimeStampFastString": "2022-03-28T20:59:08.304Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-28T20:59:08.304Z"
 }
