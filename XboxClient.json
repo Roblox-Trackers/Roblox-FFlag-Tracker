@@ -5989,6 +5989,9 @@
   "FFlagReportNotificationStreamCTA": "True",
   "FFlagFixProfileJoinGameData": "True",
   "DFFlagReportExtraStreamingPauseMetrics": "True",
+  "FFlagACEFacsAsFloat": "True",
+  "FFlagAssetImportRootMeshSameNameFix": "True",
+  "FFlagPreventExtraModelUpdates2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6216,8 +6219,8 @@
   "FIntLuaAppUseRoactNavigationRollout4": "100",
   "DFFlagStreamingReportPerformanceStats": "False",
   "DFIntHttpBatchApi_bgDelayMs": "2000",
-  "FStringFlagRepoGitHashFastString": "5a5c22c9184675d1cdf544a5320e37ec77ad784f",
-  "DFStringFlagRepoGitHashDynamicString": "5a5c22c9184675d1cdf544a5320e37ec77ad784f",
-  "FStringFlipTimeStampFastString": "2022-03-28T17:23:38.633Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-28T17:23:38.633Z"
+  "FStringFlagRepoGitHashFastString": "1cb5efc4cd1222e7fc4447afdc7acd83a84569a8",
+  "DFStringFlagRepoGitHashDynamicString": "1cb5efc4cd1222e7fc4447afdc7acd83a84569a8",
+  "FStringFlipTimeStampFastString": "2022-03-28T17:26:00.771Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-28T17:26:00.771Z"
 }
