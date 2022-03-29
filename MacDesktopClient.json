@@ -5685,7 +5685,7 @@
   "DFFlagLuauRefinementExtendedTelemetry": "True",
   "FFlagLuauDoNotTryToReduce": "True",
   "DFIntHttpCacheCheckVersion": "3",
-  "DFIntHttpCacheRefreshHundredthsPercent": "500",
+  "DFIntHttpCacheRefreshHundredthsPercent": "1000",
   "FFlagLuauReduceStackReallocs": "True",
   "FFlagLuauGcAdditionalStats": "True",
   "FFlagAddInitialUserAgentForWebView2": "True",
@@ -6274,8 +6274,8 @@
   "DFFlagStreamingReportPerformanceStats": "False",
   "FFlagSessionGamePlayEvents3": "True",
   "DFIntHttpBatchApi_bgDelayMs": "2000",
-  "FStringFlagRepoGitHashFastString": "7c4e9f2f78aad8527d4012c86370a01fd8aad785",
-  "DFStringFlagRepoGitHashDynamicString": "7c4e9f2f78aad8527d4012c86370a01fd8aad785",
-  "FStringFlipTimeStampFastString": "2022-03-29T23:42:11.900Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-29T23:42:11.900Z"
+  "FStringFlagRepoGitHashFastString": "708a7dae7d3dd1ec74e34d6fd8192b6b4d157495",
+  "DFStringFlagRepoGitHashDynamicString": "708a7dae7d3dd1ec74e34d6fd8192b6b4d157495",
+  "FStringFlipTimeStampFastString": "2022-03-29T23:44:44.555Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-29T23:44:44.555Z"
 }
