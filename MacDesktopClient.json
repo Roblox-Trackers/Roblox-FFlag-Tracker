@@ -6021,6 +6021,8 @@
   "FFlagLuauTxnLogDontRetryForIndexers": "True",
   "DFFlagAnyWayYouHashItOut42": "True",
   "DFFlagEnableDevProductEndpointV2": "True",
+  "DFFlagStreamingReportPerformanceStats": "True",
+  "DFFlagStreamingReportPerformanceFixTypoAndSmallCrash": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6273,11 +6275,10 @@
   "FFlagSessionAnalyticsIdleState3": "True",
   "FFlagOnGameLeaveGameProtocol": "True",
   "FFlagUniversalAppCsat": "True",
-  "DFFlagStreamingReportPerformanceStats": "False",
   "FFlagSessionGamePlayEvents3": "True",
   "DFIntHttpBatchApi_bgDelayMs": "2000",
-  "FStringFlagRepoGitHashFastString": "547eafdcb4b1c60c8f8173758db57b06c9c7410b",
-  "DFStringFlagRepoGitHashDynamicString": "547eafdcb4b1c60c8f8173758db57b06c9c7410b",
-  "FStringFlipTimeStampFastString": "2022-03-29T23:50:52.393Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-29T23:50:52.393Z"
+  "FStringFlagRepoGitHashFastString": "0efc5606d6afe91d68ac1a29186ad47567a76ea1",
+  "DFStringFlagRepoGitHashDynamicString": "0efc5606d6afe91d68ac1a29186ad47567a76ea1",
+  "FStringFlipTimeStampFastString": "2022-03-29T23:51:39.591Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-29T23:51:39.591Z"
 }
