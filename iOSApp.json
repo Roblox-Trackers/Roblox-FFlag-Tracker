@@ -6058,6 +6058,7 @@
   "DFFlagUseAsyncTaskToCloseRCCJobInstead": "True",
   "FFlagFixSummaryStats": "True",
   "DFFlagHttpRetryInWorkerThread2": "True",
+  "DFFlagProcessPartEmissiveMap": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6372,8 +6373,8 @@
   "FFlagOnGameLeaveGameProtocol": "True",
   "FFlagUniversalAppCsat": "True",
   "FFlagSessionGamePlayEvents3": "True",
-  "FStringFlagRepoGitHashFastString": "7400d78a64911617e53c4b52db41727a1364e020",
-  "DFStringFlagRepoGitHashDynamicString": "7400d78a64911617e53c4b52db41727a1364e020",
-  "FStringFlipTimeStampFastString": "2022-03-30T22:06:30.312Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-30T22:06:30.312Z"
+  "FStringFlagRepoGitHashFastString": "7a8088f36e6d94436c64a91b37cadc75d48786a7",
+  "DFStringFlagRepoGitHashDynamicString": "7a8088f36e6d94436c64a91b37cadc75d48786a7",
+  "FStringFlipTimeStampFastString": "2022-03-30T22:09:21.959Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-30T22:09:21.959Z"
 }
