@@ -6048,6 +6048,8 @@
   "FIntRccTemporaryAutosaveLoggingPercentage": "1000",
   "FFlagFCEntityTransformMerge2": "True",
   "FFlagRccReportTcFinalSaveMetrics3": "True",
+  "FFlagStudioFixScriptSizeTelemetry": "True",
+  "FFlagStudioTeamCreateClearDirtyBitBeforeEditing": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6308,8 +6310,8 @@
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758",
   "DFIntAudioSplitCacheRolloutHundredthsPercent3": "1000",
-  "FStringFlagRepoGitHashFastString": "246879fc1a2419e41a133e106c5341c052991ec8",
-  "DFStringFlagRepoGitHashDynamicString": "246879fc1a2419e41a133e106c5341c052991ec8",
-  "FStringFlipTimeStampFastString": "2022-03-30T20:49:49.475Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-30T20:49:49.475Z"
+  "FStringFlagRepoGitHashFastString": "62819491a5e299de1e1f25cb0da1abaae82a86d5",
+  "DFStringFlagRepoGitHashDynamicString": "62819491a5e299de1e1f25cb0da1abaae82a86d5",
+  "FStringFlipTimeStampFastString": "2022-03-30T20:54:30.877Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-30T20:54:30.877Z"
 }
