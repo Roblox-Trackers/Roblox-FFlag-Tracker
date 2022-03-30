@@ -5638,7 +5638,7 @@
   "FFlagUGCLCAssetTypes2": "True",
   "FFlagUGCValidateLCFixEnums": "True",
   "FFlagUGCValidateLayeredClothing2": "True",
-  "FStringUGCLCAllowedAssetTypeIds": "64,66,67",
+  "FStringUGCLCAllowedAssetTypeIds": "64,65,66,67,68,69,72",
   "DFFlagAvatarEditorServiceCounters": "True",
   "DFIntAvatarEditorServiceCountersPercent": "100",
   "FFlagCancellableTaskMethods": "True",
@@ -6026,6 +6026,7 @@
   "FFlagUpdateScriptNameWhenParentChanged": "True",
   "DFIntHttpBatchApi_bgDelayMs": "1200",
   "DFFlagStreamingReportPerformanceStatsPerPlatformFix": "True",
+  "FFlagLuauAnyInIsOptionalIsOptional": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6251,8 +6252,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
-  "FStringFlagRepoGitHashFastString": "cf02049289776cfb043c9cd8b3dccb489a6b9b2e",
-  "DFStringFlagRepoGitHashDynamicString": "cf02049289776cfb043c9cd8b3dccb489a6b9b2e",
-  "FStringFlipTimeStampFastString": "2022-03-30T19:12:20.905Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-30T19:12:20.905Z"
+  "FStringFlagRepoGitHashFastString": "c085359955814b5508250fc4272101bbc90341a6",
+  "DFStringFlagRepoGitHashDynamicString": "c085359955814b5508250fc4272101bbc90341a6",
+  "FStringFlipTimeStampFastString": "2022-03-30T19:23:55.813Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-30T19:23:55.813Z"
 }
