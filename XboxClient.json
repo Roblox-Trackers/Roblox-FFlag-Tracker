@@ -6078,6 +6078,8 @@
   "FFlagFixTrailInfLength": "True",
   "FFlagCountActiveTerrainMaterials": "True",
   "DFFlagReportRetargetingStats": "True",
+  "FFlagCollectTerrainMaterialRenderUsageMetrics": "True",
+  "FIntTerrainMaterialRenderUsageMetricsHundredthsPercent": "1",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6303,8 +6305,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
-  "FStringFlagRepoGitHashFastString": "222ce2cda202a2e97916f227386c177d93a32892",
-  "DFStringFlagRepoGitHashDynamicString": "222ce2cda202a2e97916f227386c177d93a32892",
-  "FStringFlipTimeStampFastString": "2022-03-31T18:12:29.719Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-31T18:12:29.719Z"
+  "FStringFlagRepoGitHashFastString": "2415c71b19e9fd3b55811f1e42cb96e7f2597101",
+  "DFStringFlagRepoGitHashDynamicString": "2415c71b19e9fd3b55811f1e42cb96e7f2597101",
+  "FStringFlipTimeStampFastString": "2022-03-31T18:15:51.404Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-31T18:15:51.404Z"
 }
