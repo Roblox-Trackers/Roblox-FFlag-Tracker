@@ -5089,7 +5089,7 @@
   "FFlagLuaAppShowACSuggestionOnlyAfterTyping": "True",
   "FFlagDeleteLocalPlaceInit": "True",
   "DFFlagStudioForwardChannelNameOnOpen": "False",
-  "DFIntPackageServiceMetadataRefreshDelaySeconds": "60",
+  "DFIntPackageServiceMetadataRefreshDelaySeconds": "10",
   "FFlagAutocompleteDocOverloadPlurality": "True",
   "FFlagBootcampCLI49589": "True",
   "FFlagPluginManagementRemoveCommentsEnabled": "True",
@@ -6083,6 +6083,10 @@
   "FFlagRenderMaterialVariantOverrideShadowScale": "True",
   "FFlagLuaAppShowSpecificToastOnSignupInvalidPassword": "True",
   "DFIntEagerTrackingReportMissingMRDPerMyriad": "100",
+  "FFlagGranularPackageMetadataPolling": "True",
+  "FIntAssetInfoRequestStepSize": "12",
+  "FIntAssetLatestSavedVersionRequestStepSize": "1",
+  "FIntAssetPermissionsDataRequestStepSize": "3",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6343,8 +6347,8 @@
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758;9230434873;9230346239;9244015146",
   "DFIntAudioSplitCacheRolloutHundredthsPercent3": "10000",
-  "FStringFlagRepoGitHashFastString": "4f5502ce39e74cc9b46832484049eec7e2a173f5",
-  "DFStringFlagRepoGitHashDynamicString": "4f5502ce39e74cc9b46832484049eec7e2a173f5",
-  "FStringFlipTimeStampFastString": "2022-03-31T20:51:47.005Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-31T20:51:47.005Z"
+  "FStringFlagRepoGitHashFastString": "bcf1522a8cfbe6aacfe9fe403efc3311798a629e",
+  "DFStringFlagRepoGitHashDynamicString": "bcf1522a8cfbe6aacfe9fe403efc3311798a629e",
+  "FStringFlipTimeStampFastString": "2022-03-31T21:01:16.816Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-31T21:01:16.816Z"
 }
