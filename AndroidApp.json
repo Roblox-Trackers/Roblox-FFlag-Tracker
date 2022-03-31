@@ -6069,6 +6069,8 @@
   "FFlagDontThrowOnDeserializationError": "True",
   "FFlagLuaAppShowGitHash": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
+  "FFlagLuaAppGameJoinFailureAnalytics": "True",
+  "FIntLuaAppJoinGameFailureInfluxHundredthsPercentage": "25",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -6439,8 +6441,8 @@
   "EnableShutdownAfterProcDeathOnAmazon": "True",
   "EnableShutdownAfterProcDeath": "False",
   "FFlagSessionGamePlayEvents3": "True",
-  "FStringFlagRepoGitHashFastString": "fc711050206ea539245aafe32c182a0ddbfe359d",
-  "DFStringFlagRepoGitHashDynamicString": "fc711050206ea539245aafe32c182a0ddbfe359d",
-  "FStringFlipTimeStampFastString": "2022-03-31T16:26:15.941Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-31T16:26:15.941Z"
+  "FStringFlagRepoGitHashFastString": "508d384eff564e7c5cf789019f5f288fad97c20d",
+  "DFStringFlagRepoGitHashDynamicString": "508d384eff564e7c5cf789019f5f288fad97c20d",
+  "FStringFlipTimeStampFastString": "2022-03-31T16:32:01.844Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-31T16:32:01.844Z"
 }
