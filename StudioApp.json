@@ -6067,6 +6067,8 @@
   "FFlagFixInvalidUTF8Crash": "True",
   "FFlagHSRHideFaceBasedOnLessVerticesInRelatedTriangles": "True",
   "FFlagDontThrowOnDeserializationError": "True",
+  "FFlagLuaAppShowGitHash": "True",
+  "FFlagShowGitHashInNewExperienceMenu": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6327,8 +6329,8 @@
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758",
   "DFIntAudioSplitCacheRolloutHundredthsPercent3": "10000",
-  "FStringFlagRepoGitHashFastString": "8b909e5dec92255b0469daacac3f0cd5415fe064",
-  "DFStringFlagRepoGitHashDynamicString": "8b909e5dec92255b0469daacac3f0cd5415fe064",
-  "FStringFlipTimeStampFastString": "2022-03-31T16:14:29.076Z",
-  "DFStringFlipTimeStampDynamicString": "2022-03-31T16:14:29.076Z"
+  "FStringFlagRepoGitHashFastString": "fc711050206ea539245aafe32c182a0ddbfe359d",
+  "DFStringFlagRepoGitHashDynamicString": "fc711050206ea539245aafe32c182a0ddbfe359d",
+  "FStringFlipTimeStampFastString": "2022-03-31T16:26:15.941Z",
+  "DFStringFlipTimeStampDynamicString": "2022-03-31T16:26:15.941Z"
 }
