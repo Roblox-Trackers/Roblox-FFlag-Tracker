@@ -6049,7 +6049,7 @@
   "DFFlagHttpLimitedErrorMessage": "True",
   "FFlagFixBlockedEventsForUnblockedPathfindingLinks": "True",
   "FFlagStudioFixGameSettingsCopylock": "True",
-  "FFlagFixScalingWithNonDefaultPivot": "True",
+  "FFlagFixScalingWithNonDefaultPivot": "False",
   "FFlagStudioReportMoreTCDisconnectInfo": "True",
   "DFFlagUseAsyncTaskToCloseRCCJobInstead": "True",
   "FFlagFixSummaryStats": "True",
@@ -6434,8 +6434,8 @@
   "FFlagOnGameLeaveGameProtocol": "True",
   "FFlagUniversalAppCsat": "False",
   "FFlagSessionGamePlayEvents3": "True",
-  "FStringFlagRepoGitHashFastString": "6921102de68c1ffa276613dd15bafe369fa3a3a2",
-  "DFStringFlagRepoGitHashDynamicString": "6921102de68c1ffa276613dd15bafe369fa3a3a2",
-  "FStringFlipTimeStampFastString": "2022-04-04T22:47:08.781Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-04T22:47:08.781Z"
+  "FStringFlagRepoGitHashFastString": "a7de78cec3e844db8d505b1040b8651b1653defe",
+  "DFStringFlagRepoGitHashDynamicString": "a7de78cec3e844db8d505b1040b8651b1653defe",
+  "FStringFlipTimeStampFastString": "2022-04-04T22:49:03.258Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-04T22:49:03.258Z"
 }
