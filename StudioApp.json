@@ -6081,8 +6081,8 @@
   "FFlagRenderMaterialVariantOverrideShadowScale": "True",
   "FFlagLuaAppShowSpecificToastOnSignupInvalidPassword": "True",
   "DFIntEagerTrackingReportMissingMRDPerMyriad": "100",
-  "FFlagGranularPackageMetadataPolling": "False",
-  "FIntAssetInfoRequestStepSize": "12",
+  "FFlagGranularPackageMetadataPolling": "True",
+  "FIntAssetInfoRequestStepSize": "30",
   "FIntAssetLatestSavedVersionRequestStepSize": "1",
   "FIntAssetPermissionsDataRequestStepSize": "3",
   "DFFlagMemoryStoreServiceFixHttpType": "True",
@@ -6387,8 +6387,8 @@
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758;9230434873;9230346239;9244015146",
-  "FStringFlagRepoGitHashFastString": "1001f9714edaf264eaa38ec5ffb14381bbb2b177",
-  "DFStringFlagRepoGitHashDynamicString": "1001f9714edaf264eaa38ec5ffb14381bbb2b177",
-  "FStringFlipTimeStampFastString": "2022-04-05T18:42:52.560Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-05T18:42:52.560Z"
+  "FStringFlagRepoGitHashFastString": "95099cded692410f13dd13ff441bad9eddf1b72b",
+  "DFStringFlagRepoGitHashDynamicString": "95099cded692410f13dd13ff441bad9eddf1b72b",
+  "FStringFlipTimeStampFastString": "2022-04-05T18:54:32.497Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-05T18:54:32.497Z"
 }
