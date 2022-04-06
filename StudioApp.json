@@ -5925,7 +5925,7 @@
   "FFlagStudioReportNewOpenPlaceMeasurements": "True",
   "FFlagStudioSendPerformanceMeasurementsFixSeriesReturnBug": "True",
   "FFlagStudioSendPerformanceMeasurementsKibanaSummary": "True",
-  "FIntStudioUseStudioPerformanceMeasurementsDotCppRollout": "0",
+  "FIntStudioUseStudioPerformanceMeasurementsDotCppRollout": "10000",
   "FFlagLSPManagerRefactor": "True",
   "FFlagStudioSuspendOverrideInAsyncHttpQueue": "True",
   "DFFlagAnimationLodBoneLocomotionFix": "True",
@@ -6173,6 +6173,7 @@
   "DFFlagAnimatorLodOptOutPhase": "True",
   "DFFlagUseAnimateScriptsWithTrackLeakFix": "True",
   "DFFlagStreamingObserverUsesJoinSize": "True",
+  "FFlagStudioMoveOpenPlaceEndSuccess": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6432,8 +6433,8 @@
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758;9230434873;9230346239;9244015146;6704278765",
-  "FStringFlagRepoGitHashFastString": "cd7f99df279bf6b5d70f34f1aef2a0307e926d3b",
-  "DFStringFlagRepoGitHashDynamicString": "cd7f99df279bf6b5d70f34f1aef2a0307e926d3b",
-  "FStringFlipTimeStampFastString": "2022-04-06T22:55:18.475Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-06T22:55:18.475Z"
+  "FStringFlagRepoGitHashFastString": "b64794b75cd41d7e23380396fc924b2e59ed954b",
+  "DFStringFlagRepoGitHashDynamicString": "b64794b75cd41d7e23380396fc924b2e59ed954b",
+  "FStringFlipTimeStampFastString": "2022-04-06T23:16:45.604Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-06T23:16:45.604Z"
 }
