@@ -6145,6 +6145,8 @@
   "DFFlagRefactorGetAttenuatedVolumeFrom": "True",
   "FFlagAlwaysListenForOpenURLOnWindows": "True",
   "DFFlagLuauTableMoveTelemetry2": "True",
+  "FFlagSimCSGV3ClampCoefficients": "True",
+  "DFFlagDisallowDetachedPlaybacksFromHaltedSoundServices": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -6515,8 +6517,8 @@
   "EnableShutdownAfterProcDeathOnAmazon": "True",
   "EnableShutdownAfterProcDeath": "False",
   "FFlagSessionGamePlayEvents3": "True",
-  "FStringFlagRepoGitHashFastString": "ce4e3fbc09a65e6c3c35a6249d18ffd138175b93",
-  "DFStringFlagRepoGitHashDynamicString": "ce4e3fbc09a65e6c3c35a6249d18ffd138175b93",
-  "FStringFlipTimeStampFastString": "2022-04-06T18:43:05.444Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-06T18:43:05.444Z"
+  "FStringFlagRepoGitHashFastString": "7a19d5591443de93203d1942ba60aa349eb4f26f",
+  "DFStringFlagRepoGitHashDynamicString": "7a19d5591443de93203d1942ba60aa349eb4f26f",
+  "FStringFlipTimeStampFastString": "2022-04-06T19:07:02.086Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-06T19:07:02.086Z"
 }
