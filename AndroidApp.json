@@ -6171,6 +6171,8 @@
   "FFlagStudioHttpRequestDontProcessEventsInWaitIfNotQtContext": "True",
   "DFFlagReplicatorReportIngressQueueWaitTimes": "True",
   "FFlagRakNetSafeShutdownFixBeforeStart": "True",
+  "FFlagStudioUseRBXHttpRequestForGetPlaceInfoGetCanManage1": "True",
+  "FIntStudioUseRBXHttpRequestForGetPlaceInfoGetCanManage1HundredthPercent": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -6542,8 +6544,8 @@
   "EnableShutdownAfterProcDeath": "False",
   "FFlagSessionGamePlayEvents3": "True",
   "EnableSyncShellDestroy": "True",
-  "FStringFlagRepoGitHashFastString": "b8a93c396c7d6d4f556938538d399c8dfd951981",
-  "DFStringFlagRepoGitHashDynamicString": "b8a93c396c7d6d4f556938538d399c8dfd951981",
-  "FStringFlipTimeStampFastString": "2022-04-07T17:23:22.725Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-07T17:23:22.725Z"
+  "FStringFlagRepoGitHashFastString": "690f0cf75a3ed6bc5b050d2dc915a0ea1be42d80",
+  "DFStringFlagRepoGitHashDynamicString": "690f0cf75a3ed6bc5b050d2dc915a0ea1be42d80",
+  "FStringFlipTimeStampFastString": "2022-04-07T17:45:57.706Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-07T17:45:57.706Z"
 }
