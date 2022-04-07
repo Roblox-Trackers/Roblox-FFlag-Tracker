@@ -6171,7 +6171,7 @@
   "DFFlagReplicatorReportIngressQueueWaitTimes": "True",
   "FFlagRakNetSafeShutdownFixBeforeStart": "True",
   "FFlagStudioUseRBXHttpRequestForGetPlaceInfoGetCanManage1": "True",
-  "FIntStudioUseRBXHttpRequestForGetPlaceInfoGetCanManage1HundredthPercent": "3000",
+  "FIntStudioUseRBXHttpRequestForGetPlaceInfoGetCanManage1HundredthPercent": "8000",
   "FFlagPivotEditorUpdateSnapPointsOnAltKey": "True",
   "FFlagSelectSubPartShouldFavorSelection": "True",
   "FFlagGuid128RefactorEnabled": "True",
@@ -6441,8 +6441,8 @@
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758;9230434873;9230346239;9244015146;6704278765;8528736393",
-  "FStringFlagRepoGitHashFastString": "966727a9c0ea27369a2cc196c81412e55a434a4e",
-  "DFStringFlagRepoGitHashDynamicString": "966727a9c0ea27369a2cc196c81412e55a434a4e",
-  "FStringFlipTimeStampFastString": "2022-04-07T20:27:32.998Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-07T20:27:32.998Z"
+  "FStringFlagRepoGitHashFastString": "d8464623e5c7f892101a3b815d35aed2bf00c69d",
+  "DFStringFlagRepoGitHashDynamicString": "d8464623e5c7f892101a3b815d35aed2bf00c69d",
+  "FStringFlipTimeStampFastString": "2022-04-07T20:29:26.341Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-07T20:29:26.341Z"
 }
