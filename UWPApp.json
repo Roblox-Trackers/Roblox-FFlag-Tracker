@@ -6168,6 +6168,7 @@
   "DFFlagUseAnimateScriptsWithTrackLeakFix": "True",
   "DFFlagStreamingObserverUsesJoinSize": "True",
   "FFlagStudioMoveOpenPlaceEndSuccess": "True",
+  "FFlagStudioHttpRequestDontProcessEventsInWaitIfNotQtContext": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6393,8 +6394,8 @@
   "FFlagSessionAnalyticsIdleState3": "True",
   "FFlagSessionGamePlayEvents3": "True",
   "FFlagShowGitHashInGame": "True",
-  "FStringFlagRepoGitHashFastString": "5a3bc7a3110bc0b26fffc78185ba5de20bef7e7c",
-  "DFStringFlagRepoGitHashDynamicString": "5a3bc7a3110bc0b26fffc78185ba5de20bef7e7c",
-  "FStringFlipTimeStampFastString": "2022-04-07T16:07:20.764Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-07T16:07:20.764Z"
+  "FStringFlagRepoGitHashFastString": "3c91d70ec7bd1e4ecd6825c61394d86fd4397f82",
+  "DFStringFlagRepoGitHashDynamicString": "3c91d70ec7bd1e4ecd6825c61394d86fd4397f82",
+  "FStringFlipTimeStampFastString": "2022-04-07T16:16:38.178Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-07T16:16:38.178Z"
 }
