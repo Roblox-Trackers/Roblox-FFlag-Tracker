@@ -6169,8 +6169,8 @@
   "DFFlagStreamingObserverUsesJoinSize": "True",
   "FFlagStudioMoveOpenPlaceEndSuccess": "True",
   "FFlagStudioHttpRequestDontProcessEventsInWaitIfNotQtContext": "True",
-  "DFFlagReplicatorReportIngressQueueWaitTimes": "False",
-  "DFFlagReplicatorReportIngressQueueWaitTimes_DataCenterFilter": "True;214;213;254",
+  "DFFlagReplicatorReportIngressQueueWaitTimes": "True",
+  "FFlagRakNetSafeShutdownFixBeforeStart": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6430,8 +6430,8 @@
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758;9230434873;9230346239;9244015146;6704278765;8528736393",
-  "FStringFlagRepoGitHashFastString": "2d5bd43be05e63c93162f005e1e7c07e38756ed5",
-  "DFStringFlagRepoGitHashDynamicString": "2d5bd43be05e63c93162f005e1e7c07e38756ed5",
-  "FStringFlipTimeStampFastString": "2022-04-07T17:05:02.837Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-07T17:05:02.837Z"
+  "FStringFlagRepoGitHashFastString": "b8a93c396c7d6d4f556938538d399c8dfd951981",
+  "DFStringFlagRepoGitHashDynamicString": "b8a93c396c7d6d4f556938538d399c8dfd951981",
+  "FStringFlipTimeStampFastString": "2022-04-07T17:23:22.725Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-07T17:23:22.725Z"
 }
