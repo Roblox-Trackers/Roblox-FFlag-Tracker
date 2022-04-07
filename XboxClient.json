@@ -5792,8 +5792,8 @@
   "FFlagLCCheckAdjectVerticesArray": "True",
   "FFlagStudioUseStartNewProcessApi2": "True",
   "FFlagEnableFastClustercompletenessCheckWatcher": "True",
-  "FFlagOptimizeNumUpdateEntityCalls6": "True",
-  "FFlagOptimizeNumUpdateEntityCalls6_PlaceFilter": "True;4924922222;920587237;6299805723;142823291;6284583030;2753915549;370731277;6872265039;6737970321;185655149;4616652839",
+  "FFlagOptimizeNumUpdateEntityCalls6": "False",
+  "FFlagOptimizeNumUpdateEntityCalls6_PlaceFilter": "False;4924922222;920587237;6299805723;142823291;6284583030;2753915549;370731277;6872265039;6737970321;185655149;4616652839",
   "FFlagClientVisualEffectDiag3": "True",
   "FFlagVisualEffectDiag2": "True",
   "DFFlagProcessTerrainDiffuseAlpha": "True",
@@ -6393,8 +6393,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
-  "FStringFlagRepoGitHashFastString": "ae74eece5225b7b3b0b5e82700c90e87393a1150",
-  "DFStringFlagRepoGitHashDynamicString": "ae74eece5225b7b3b0b5e82700c90e87393a1150",
-  "FStringFlipTimeStampFastString": "2022-04-07T00:04:06.819Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-07T00:04:06.819Z"
+  "FStringFlagRepoGitHashFastString": "ce546b42cf7aa2775ac2e0205e05698adf834eec",
+  "DFStringFlagRepoGitHashDynamicString": "ce546b42cf7aa2775ac2e0205e05698adf834eec",
+  "FStringFlipTimeStampFastString": "2022-04-07T01:42:18.722Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-07T01:42:18.722Z"
 }
