@@ -6188,6 +6188,8 @@
   "FFlagStudioRemoveRBXIDCookieCheckForLuobu": "True",
   "DFFlagReportPlayerType": "True",
   "FFlagStreamJobClampToWorldExtents3_PlaceFilter": "False;6158075274",
+  "DFFlagHttpBatchAssetRefreshTimeCap": "True",
+  "DFIntHttpBatchApi_bgRefreshMaxDelayMs": "1600",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6447,8 +6449,8 @@
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758;9230434873;9230346239;9244015146;6704278765;8528736393",
-  "FStringFlagRepoGitHashFastString": "a1858f0a5d4a3a765911b13e1a3f2b5159ed17e6",
-  "DFStringFlagRepoGitHashDynamicString": "a1858f0a5d4a3a765911b13e1a3f2b5159ed17e6",
-  "FStringFlipTimeStampFastString": "2022-04-08T16:33:02.984Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-08T16:33:02.984Z"
+  "FStringFlagRepoGitHashFastString": "8d76e03c1f000d9d7d02fe87bf51a09d0b2f1f96",
+  "DFStringFlagRepoGitHashDynamicString": "8d76e03c1f000d9d7d02fe87bf51a09d0b2f1f96",
+  "FStringFlipTimeStampFastString": "2022-04-08T17:41:00.178Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-08T17:41:00.178Z"
 }
