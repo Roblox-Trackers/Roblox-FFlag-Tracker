@@ -6055,7 +6055,7 @@
   "DFFlagSessionTelemetryOSWarningCount": "True",
   "FFlagUserAtomicCharacterSounds": "True",
   "FFlagFixInvalidUTF8Crash": "True",
-  "FFlagHSRHideFaceBasedOnLessVerticesInRelatedTriangles": "True",
+  "FFlagHSRHideFaceBasedOnLessVerticesInRelatedTriangles": "False",
   "FFlagDontThrowOnDeserializationError": "True",
   "FFlagLuaAppShowGitHash": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
@@ -6461,8 +6461,8 @@
   "FFlagOnGameLeaveGameProtocol": "False",
   "FFlagUniversalAppCsat": "False",
   "FFlagSessionGamePlayEvents3": "True",
-  "FStringFlagRepoGitHashFastString": "c010883ee1435c4df384894b88cca1aa7b247902",
-  "DFStringFlagRepoGitHashDynamicString": "c010883ee1435c4df384894b88cca1aa7b247902",
-  "FStringFlipTimeStampFastString": "2022-04-08T18:31:13.426Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-08T18:31:13.426Z"
+  "FStringFlagRepoGitHashFastString": "b076b195757b7e7900ec515ce03d471dd06d3db0",
+  "DFStringFlagRepoGitHashDynamicString": "b076b195757b7e7900ec515ce03d471dd06d3db0",
+  "FStringFlipTimeStampFastString": "2022-04-08T18:43:19.361Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-08T18:43:19.361Z"
 }

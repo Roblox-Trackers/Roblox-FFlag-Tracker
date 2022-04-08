@@ -6055,7 +6055,7 @@
   "DFFlagSessionTelemetryOSWarningCount": "True",
   "FFlagUserAtomicCharacterSounds": "True",
   "FFlagFixInvalidUTF8Crash": "True",
-  "FFlagHSRHideFaceBasedOnLessVerticesInRelatedTriangles": "True",
+  "FFlagHSRHideFaceBasedOnLessVerticesInRelatedTriangles": "False",
   "FFlagDontThrowOnDeserializationError": "True",
   "FFlagLuaAppShowGitHash": "True",
   "FFlagShowGitHashInNewExperienceMenu": "True",
@@ -6451,8 +6451,8 @@
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758;9230434873;9230346239;9244015146;6704278765;8528736393",
-  "FStringFlagRepoGitHashFastString": "c010883ee1435c4df384894b88cca1aa7b247902",
-  "DFStringFlagRepoGitHashDynamicString": "c010883ee1435c4df384894b88cca1aa7b247902",
-  "FStringFlipTimeStampFastString": "2022-04-08T18:31:13.426Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-08T18:31:13.426Z"
+  "FStringFlagRepoGitHashFastString": "b076b195757b7e7900ec515ce03d471dd06d3db0",
+  "DFStringFlagRepoGitHashDynamicString": "b076b195757b7e7900ec515ce03d471dd06d3db0",
+  "FStringFlipTimeStampFastString": "2022-04-08T18:43:19.361Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-08T18:43:19.361Z"
 }
