@@ -4932,7 +4932,7 @@
   "DFFlagOnlyPropagateCompletenessToReplicatedParents": "True",
   "DFFlagMobileCPUSpeed": "True",
   "FFlagStudioUsePluginMetadataStore": "True",
-  "FFlagStreamJobClampToWorldExtents3": "True",
+  "FFlagStreamJobClampToWorldExtents3": "False",
   "DFFlagAssemblyExtentsParallel": "True",
   "DFFlagVideoResetLoadJobWhenLoaded": "True",
   "DFFlagVideoExtendIsLoadingState": "True",
@@ -6187,7 +6187,6 @@
   "FFlagEnableUserInputPlaybackPlugin": "True",
   "FFlagStudioRemoveRBXIDCookieCheckForLuobu": "True",
   "DFFlagReportPlayerType": "True",
-  "FFlagStreamJobClampToWorldExtents3_PlaceFilter": "False;6158075274",
   "DFFlagHttpBatchAssetRefreshTimeCap": "True",
   "DFIntHttpBatchApi_bgRefreshMaxDelayMs": "1200",
   "FFlagEnableGetAllOrNone": "True",
@@ -6505,8 +6504,8 @@
   "FFlagOnGameLeaveGameProtocol": "True",
   "FFlagUniversalAppCsat": "False",
   "FFlagSessionGamePlayEvents3": "True",
-  "FStringFlagRepoGitHashFastString": "a7654b5c11732fb0583bd06572c7debdaf2bbd3d",
-  "DFStringFlagRepoGitHashDynamicString": "a7654b5c11732fb0583bd06572c7debdaf2bbd3d",
-  "FStringFlipTimeStampFastString": "2022-04-08T20:57:42.512Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-08T20:57:42.512Z"
+  "FStringFlagRepoGitHashFastString": "751a5bf26cdece900ea03ec11340d5728683660b",
+  "DFStringFlagRepoGitHashDynamicString": "751a5bf26cdece900ea03ec11340d5728683660b",
+  "FStringFlipTimeStampFastString": "2022-04-08T21:33:51.233Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-08T21:33:51.233Z"
 }
