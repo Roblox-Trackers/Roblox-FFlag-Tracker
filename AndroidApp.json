@@ -6188,7 +6188,7 @@
   "FFlagStudioRemoveRBXIDCookieCheckForLuobu": "True",
   "DFFlagReportPlayerType": "True",
   "DFFlagHttpBatchAssetRefreshTimeCap": "True",
-  "DFIntHttpBatchApi_bgRefreshMaxDelayMs": "1200",
+  "DFIntHttpBatchApi_bgRefreshMaxDelayMs": "800",
   "FFlagEnableGetAllOrNone": "True",
   "FFlagUGCAllOrNone": "True",
   "FFlagEnableTagApplicationWillTerminate": "True",
@@ -6574,8 +6574,8 @@
   "EnableShutdownAfterProcDeath": "False",
   "FFlagSessionGamePlayEvents3": "True",
   "EnableSyncShellDestroy": "True",
-  "FStringFlagRepoGitHashFastString": "98461befb49c3b8d4ff16e63fdd1de1108e4df50",
-  "DFStringFlagRepoGitHashDynamicString": "98461befb49c3b8d4ff16e63fdd1de1108e4df50",
-  "FStringFlipTimeStampFastString": "2022-04-11T17:49:26.985Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-11T17:49:26.985Z"
+  "FStringFlagRepoGitHashFastString": "48ed77926abf7657b9059e73174ce5e8408ca94e",
+  "DFStringFlagRepoGitHashDynamicString": "48ed77926abf7657b9059e73174ce5e8408ca94e",
+  "FStringFlipTimeStampFastString": "2022-04-11T17:57:40.058Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-11T17:57:40.058Z"
 }
