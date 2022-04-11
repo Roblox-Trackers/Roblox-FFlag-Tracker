@@ -6211,6 +6211,9 @@
   "FFlagAllowTerrainTexturePackPreview": "True",
   "FFlagBootcampAVBURST7742": "True",
   "DFFlagRccReadChannelFromGameServerMetadata": "True",
+  "FFlagStudioUseStudioPerformanceMeasurementsForLoginEvents": "True",
+  "FFlagStudioUseStudioPerformanceMeasurementsForLoginExternalEvents": "True",
+  "FFlagStudioUseStudioPerformanceMeasurementsForStartupEvents": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6436,8 +6439,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
-  "FStringFlagRepoGitHashFastString": "3e33aaa2df0fc857177f0ba870b8732217701616",
-  "DFStringFlagRepoGitHashDynamicString": "3e33aaa2df0fc857177f0ba870b8732217701616",
-  "FStringFlipTimeStampFastString": "2022-04-11T19:06:56.958Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-11T19:06:56.958Z"
+  "FStringFlagRepoGitHashFastString": "8685ec60ee6d9397a8e4335c832a5a693e9f19e6",
+  "DFStringFlagRepoGitHashDynamicString": "8685ec60ee6d9397a8e4335c832a5a693e9f19e6",
+  "FStringFlipTimeStampFastString": "2022-04-11T19:08:02.033Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-11T19:08:02.033Z"
 }
