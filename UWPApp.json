@@ -5933,10 +5933,10 @@
   "DFIntAnimatorThrottleMaxFramesToSkip": "4",
   "FFlagStudioDeprecateIDEDocSubtype": "True",
   "FFlagStudioEnableQuickSaveToContext2": "True",
-  "FFlagLuauWidenIfSupertypeIsFree2": "True",
+  "FFlagLuauWidenIfSupertypeIsFree2": "False",
   "FFlagFixGroupGamesDisappearAfterCancel": "True",
   "FFlagLuauUnsealedTableLiteral": "False",
-  "FFlagLuauDiscriminableUnions2": "True",
+  "FFlagLuauDiscriminableUnions2": "False",
   "FFlagStudioFixTCCancelCrash": "True",
   "DFIntReportStreamingObserverReplicatorDisconnectCapacityProblemHundrethsPercentage": "100",
   "DFFlagDMCloseScriptContextThreads": "True",
@@ -6445,8 +6445,8 @@
   "FFlagSessionAnalyticsIdleState3": "True",
   "FFlagSessionGamePlayEvents3": "True",
   "FFlagShowGitHashInGame": "True",
-  "FStringFlagRepoGitHashFastString": "4839c64d5238e08c9bee282cee6f93d5f03750eb",
-  "DFStringFlagRepoGitHashDynamicString": "4839c64d5238e08c9bee282cee6f93d5f03750eb",
-  "FStringFlipTimeStampFastString": "2022-04-11T20:20:25.137Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-11T20:20:25.137Z"
+  "FStringFlagRepoGitHashFastString": "7aa5b87a54e92d73b2e8dc9ff14b82481f69e33c",
+  "DFStringFlagRepoGitHashDynamicString": "7aa5b87a54e92d73b2e8dc9ff14b82481f69e33c",
+  "FStringFlipTimeStampFastString": "2022-04-11T20:22:36.484Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-11T20:22:36.484Z"
 }
