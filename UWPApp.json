@@ -2838,7 +2838,7 @@
   "DFIntMemoryPressureTriggerCriticalMB": "10",
   "DFFlagLuauGcAllowPause": "True",
   "FFlagLuauGcAssistBalance": "True",
-  "FIntLuauGcGoal": "125",
+  "FIntLuauGcGoal": "150",
   "FIntLuauGcGoalCore": "125",
   "FFlagStudioPluginLoadingAnalytics": "True",
   "DFFlagToggleAudioMuteOnStudioDataModelChanged": "True",
@@ -6427,8 +6427,8 @@
   "FFlagSessionAnalyticsIdleState3": "True",
   "FFlagSessionGamePlayEvents3": "True",
   "FFlagShowGitHashInGame": "True",
-  "FStringFlagRepoGitHashFastString": "a064fc3e76bbe7f187e6ed29ebbccf351523ef89",
-  "DFStringFlagRepoGitHashDynamicString": "a064fc3e76bbe7f187e6ed29ebbccf351523ef89",
-  "FStringFlipTimeStampFastString": "2022-04-11T17:26:29.795Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-11T17:26:29.795Z"
+  "FStringFlagRepoGitHashFastString": "8eca3736d4941305c16a53752110e8c2afcf3236",
+  "DFStringFlagRepoGitHashDynamicString": "8eca3736d4941305c16a53752110e8c2afcf3236",
+  "FStringFlipTimeStampFastString": "2022-04-11T17:29:04.140Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-11T17:29:04.140Z"
 }
