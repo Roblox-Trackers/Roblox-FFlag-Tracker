@@ -6233,6 +6233,7 @@
   "DFIntAppLaunchFlowThrottlingRate": "1000",
   "FFlagLuaAppFixGridViewImpressions": "True",
   "FFlagStudioMigrateToSessionizedEventIngestRound2": "True",
+  "FFlagLuaAppGameDetailsAutomaticSizeFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6484,8 +6485,8 @@
   "FFlagOnGameLeaveGameProtocol": "True",
   "FFlagUniversalAppCsat": "False",
   "FFlagSessionGamePlayEvents3": "True",
-  "FStringFlagRepoGitHashFastString": "3a4bd1dcffba925c5ec1109308b4b0492dc800a8",
-  "DFStringFlagRepoGitHashDynamicString": "3a4bd1dcffba925c5ec1109308b4b0492dc800a8",
-  "FStringFlipTimeStampFastString": "2022-04-12T19:26:48.701Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-12T19:26:48.701Z"
+  "FStringFlagRepoGitHashFastString": "b3cb02e5cf46d9623a12c8867a0a24b2b5f6f684",
+  "DFStringFlagRepoGitHashDynamicString": "b3cb02e5cf46d9623a12c8867a0a24b2b5f6f684",
+  "FStringFlipTimeStampFastString": "2022-04-12T21:08:08.098Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-12T21:08:08.098Z"
 }
