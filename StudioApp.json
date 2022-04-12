@@ -6232,6 +6232,7 @@
   "FFlagPermissionsProtocolNoRecursion2": "True",
   "DFIntAppLaunchFlowThrottlingRate": "1000",
   "FFlagLuaAppFixGridViewImpressions": "True",
+  "FFlagStudioMigrateToSessionizedEventIngestRound2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6491,8 +6492,8 @@
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758;9230434873;9230346239;9244015146;6704278765;8528736393",
-  "FStringFlagRepoGitHashFastString": "24f98afa2304ec115f2fca2e6f5ab034b4dadb9f",
-  "DFStringFlagRepoGitHashDynamicString": "24f98afa2304ec115f2fca2e6f5ab034b4dadb9f",
-  "FStringFlipTimeStampFastString": "2022-04-12T19:24:03.571Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-12T19:24:03.571Z"
+  "FStringFlagRepoGitHashFastString": "3a4bd1dcffba925c5ec1109308b4b0492dc800a8",
+  "DFStringFlagRepoGitHashDynamicString": "3a4bd1dcffba925c5ec1109308b4b0492dc800a8",
+  "FStringFlipTimeStampFastString": "2022-04-12T19:26:48.701Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-12T19:26:48.701Z"
 }
