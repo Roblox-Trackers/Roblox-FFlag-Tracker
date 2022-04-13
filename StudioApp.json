@@ -6252,6 +6252,10 @@
   "FFlagCatalogRecommendationsIXPEnabled": "True",
   "FStringAvatarMarketplaceLayer": "AvatarMarketplace.RecommendationsAndSearch",
   "FFlagSimCSGV3FixOctCellPad": "True",
+  "DFFlagReportPlayerCountOnRemoving": "True",
+  "FFlagM1AvxFix": "True",
+  "DFFlagRemoveOldAac": "True",
+  "DFFlagSkipRestrictedAreTouching": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6511,8 +6515,8 @@
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758;9230434873;9230346239;9244015146;6704278765;8528736393",
-  "FStringFlagRepoGitHashFastString": "2f4d116b0f98c2c099af74616dedd08eb6fc0984",
-  "DFStringFlagRepoGitHashDynamicString": "2f4d116b0f98c2c099af74616dedd08eb6fc0984",
-  "FStringFlipTimeStampFastString": "2022-04-13T23:04:48.348Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-13T23:04:48.348Z"
+  "FStringFlagRepoGitHashFastString": "d431b94ef430ed16ff92628b983ad01f527e9c1e",
+  "DFStringFlagRepoGitHashDynamicString": "d431b94ef430ed16ff92628b983ad01f527e9c1e",
+  "FStringFlipTimeStampFastString": "2022-04-13T23:05:56.737Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-13T23:05:56.737Z"
 }
