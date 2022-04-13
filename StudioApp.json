@@ -6249,6 +6249,8 @@
   "DFFlagServiceParentFix": "True",
   "DFFlagEnableGetProductInfoRefactorV2": "True",
   "FFlagSwapMyBalanceCalls": "True",
+  "FFlagCatalogRecommendationsIXPEnabled": "True",
+  "FStringAvatarMarketplaceLayer": "AvatarMarketplace.RecommendationsAndSearch",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6508,8 +6510,8 @@
   "DFFlagAnalyticsUseEventStreamEndpointFlag": "true",
   "DFStringAnalyticsEventStreamUrlEndpoint": "studio-ecsv2",
   "FFlagOutputWindowErrorLink_PlaceFilter": "False;8967359816;8430712643;8267821593;8430716410;8430720021;8691928149;698448212;8451491417;8893378293;8893376837;8893375234;706824758;9230434873;9230346239;9244015146;6704278765;8528736393",
-  "FStringFlagRepoGitHashFastString": "f980294cf5edb8d4ee324712e9f54db26704958f",
-  "DFStringFlagRepoGitHashDynamicString": "f980294cf5edb8d4ee324712e9f54db26704958f",
-  "FStringFlipTimeStampFastString": "2022-04-13T22:52:13.705Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-13T22:52:13.705Z"
+  "FStringFlagRepoGitHashFastString": "1bc8e64946858cfcdf6a472a6d11cba9fe180d1e",
+  "DFStringFlagRepoGitHashDynamicString": "1bc8e64946858cfcdf6a472a6d11cba9fe180d1e",
+  "FStringFlipTimeStampFastString": "2022-04-13T23:01:27.296Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-13T23:01:27.296Z"
 }
