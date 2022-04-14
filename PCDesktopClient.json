@@ -6266,6 +6266,12 @@
   "SFFlagEnableAnimationPriorityReplication": "True",
   "FFlagSimSolverInsideOfSphereZeroRadius": "True",
   "DFFlagReportNewAnimationRuntimeStats": "True",
+  "FFlagAddPartMVToMaterialService": "True",
+  "FFlagAddStringOverrideToMaterialService": "True",
+  "FFlagAddTerrainTintToMaterialService": "True",
+  "FFlagAddPropertyStatusToMaterialService": "True",
+  "FFlagAddSpecializedStudioUIToMaterialService": "True",
+  "FFlagAddTerraintDetailToMaterialService": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6536,8 +6542,8 @@
   "FFlagUniversalAppCsat": "False",
   "FFlagSessionGamePlayEvents3": "True",
   "FIntRoact17Rollout8": "0",
-  "FStringFlagRepoGitHashFastString": "77be62369082228e21e8ac3a67ac89bd1a5aa4ea",
-  "DFStringFlagRepoGitHashDynamicString": "77be62369082228e21e8ac3a67ac89bd1a5aa4ea",
-  "FStringFlipTimeStampFastString": "2022-04-14T16:46:15.087Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-14T16:46:15.087Z"
+  "FStringFlagRepoGitHashFastString": "ec5afd5121d478f25b81e140af0e6f9167c58ab2",
+  "DFStringFlagRepoGitHashDynamicString": "ec5afd5121d478f25b81e140af0e6f9167c58ab2",
+  "FStringFlipTimeStampFastString": "2022-04-14T16:47:33.754Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-14T16:47:33.754Z"
 }
