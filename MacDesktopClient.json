@@ -6271,7 +6271,7 @@
   "DFFlagNetworkReportContentIdLimit": "True",
   "DFIntNetworkReportContentIdLimitIntervalSeconds": "10",
   "DFIntNetworkReportContentIdLimitMax": "100",
-  "DFIntNetworkReportContentIdLimitPerMyriad": "100",
+  "DFIntNetworkReportContentIdLimitPerMyriad": "1000",
   "DFIntNetworkReportContentIdLimitRead": "200",
   "FFlagCheckSignupValidityOnRender": "True",
   "FFlagCollectMaterialServiceUsageMetricsPartMV": "True",
@@ -6553,8 +6553,8 @@
   "FFlagUniversalAppCsat": "False",
   "FFlagSessionGamePlayEvents3": "True",
   "FIntRoact17Rollout8": "0",
-  "FStringFlagRepoGitHashFastString": "3692a22d3bccbc5a6e1390ce5e0fea91fc3f230f",
-  "DFStringFlagRepoGitHashDynamicString": "3692a22d3bccbc5a6e1390ce5e0fea91fc3f230f",
-  "FStringFlipTimeStampFastString": "2022-04-18T16:37:31.289Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-18T16:37:31.289Z"
+  "FStringFlagRepoGitHashFastString": "8e612aaa0fe036d6dc25bf3595f3249992a6fd53",
+  "DFStringFlagRepoGitHashDynamicString": "8e612aaa0fe036d6dc25bf3595f3249992a6fd53",
+  "FStringFlipTimeStampFastString": "2022-04-18T16:39:14.141Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-18T16:39:14.141Z"
 }
