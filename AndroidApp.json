@@ -6308,6 +6308,10 @@
   "DFFlagEnableContentIdLengthCheck": "True",
   "DFIntContentIdMaxLength": "256",
   "FFlagDataModelPatchMTCountFix": "True",
+  "DFFlagAddUnder13Field": "True",
+  "DFFlagIncludeUnder13Field": "True",
+  "DFFlagUseWhitelistforU13": "True",
+  "DFIntStopQueryingPlayersChatFilterRolloutPercentageThousands": "1000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -6681,8 +6685,8 @@
   "EnableSyncShellDestroy": "True",
   "SwapMyBalanceEndpointAndroid": "True",
   "FIntRoact17Rollout8": "0",
-  "FStringFlagRepoGitHashFastString": "34bbbff3dc1d22528b8aa546c576650e389a34dd",
-  "DFStringFlagRepoGitHashDynamicString": "34bbbff3dc1d22528b8aa546c576650e389a34dd",
-  "FStringFlipTimeStampFastString": "2022-04-18T21:36:53.649Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-18T21:36:53.649Z"
+  "FStringFlagRepoGitHashFastString": "277f7fd9174d3447ca2bfdfd842f8fbe507c2fae",
+  "DFStringFlagRepoGitHashDynamicString": "277f7fd9174d3447ca2bfdfd842f8fbe507c2fae",
+  "FStringFlipTimeStampFastString": "2022-04-18T21:48:58.863Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-18T21:48:58.863Z"
 }
