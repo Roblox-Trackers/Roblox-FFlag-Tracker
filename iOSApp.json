@@ -6333,6 +6333,8 @@
   "FIntFallBackRequestAutoLoginRolloutPercent": "1",
   "FFlagRenderFastConvolutionOutdoor": "True",
   "DFFlagPredictedOOMPressure": "True",
+  "DFFlagFilterRoughnessMip0": "True",
+  "FFlagRenderFixRoughnessMipTransitions": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6645,8 +6647,8 @@
   "FFlagUniversalAppCsat": "False",
   "FFlagSessionGamePlayEvents3": "True",
   "FIntRoact17Rollout8": "0",
-  "FStringFlagRepoGitHashFastString": "2f14eb50d45f56fc4a275334e812e9bba2778705",
-  "DFStringFlagRepoGitHashDynamicString": "2f14eb50d45f56fc4a275334e812e9bba2778705",
-  "FStringFlipTimeStampFastString": "2022-04-19T22:37:07.142Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-19T22:37:07.142Z"
+  "FStringFlagRepoGitHashFastString": "67664a5904d83578a482876a7b892ee12aa084dc",
+  "DFStringFlagRepoGitHashDynamicString": "67664a5904d83578a482876a7b892ee12aa084dc",
+  "FStringFlipTimeStampFastString": "2022-04-19T22:54:11.482Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-19T22:54:11.482Z"
 }
