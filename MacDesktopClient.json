@@ -1466,7 +1466,7 @@
   "DFFlagHttpEnableTracing": "True",
   "DFStringLightstepToken": "S3EXjCZQQr6OixnmKu+hoa3OSfpvPP5qgU0esiWgwreFUUMBnPhEaoS5yIIrf9bdYlSgW0XKCb1So9Rhtj1eMzt/MJWcyKZ4TwIckHVj",
   "DFFlagRuppHeaderFromClientEnabled3": "True",
-  "FFlagFixPublishAsWhenQueryFails": "True",
+  "FFlagFixPublishAsWhenQueryFails": "False",
   "FFlagTexturePackPropertyFix2": "True",
   "DFIntGetUserThumbnailAsyncUseRbxThumbRollout": "100",
   "FFlagCoreScriptBacktraceReportUserAgent": "True",
@@ -6608,8 +6608,10 @@
   "FFlagUniversalAppCsat": "False",
   "FFlagSessionGamePlayEvents3": "True",
   "FIntRoact17Rollout8": "0",
-  "FStringFlagRepoGitHashFastString": "08647c208bc69bc874b145a78556c57cb318f2dc",
-  "DFStringFlagRepoGitHashDynamicString": "08647c208bc69bc874b145a78556c57cb318f2dc",
-  "FStringFlipTimeStampFastString": "2022-04-20T21:07:13.879Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-20T21:07:13.879Z"
+  "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
+  "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
+  "FStringFlagRepoGitHashFastString": "3c951075d67778561268224b5910e2a1a343cbc8",
+  "DFStringFlagRepoGitHashDynamicString": "3c951075d67778561268224b5910e2a1a343cbc8",
+  "FStringFlipTimeStampFastString": "2022-04-20T21:12:21.057Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-20T21:12:21.057Z"
 }
