@@ -5080,7 +5080,7 @@
   "FFlagFastClusterFetchResourcesEarlyForSkel": "False",
   "FFlagLuaAppShowACSuggestionOnlyAfterTyping": "True",
   "FFlagDeleteLocalPlaceInit": "True",
-  "DFFlagStudioForwardChannelNameOnOpen": "False",
+  "DFFlagStudioForwardChannelNameOnOpen": "True",
   "DFIntPackageServiceMetadataRefreshDelaySeconds": "10",
   "FFlagAutocompleteDocOverloadPlurality": "True",
   "FFlagBootcampCLI49589": "True",
@@ -6625,8 +6625,8 @@
   "FIntRoact17Rollout8": "0",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
   "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
-  "FStringFlagRepoGitHashFastString": "86a15b693a00d41b3d29f77458b29205c77bc361",
-  "DFStringFlagRepoGitHashDynamicString": "86a15b693a00d41b3d29f77458b29205c77bc361",
-  "FStringFlipTimeStampFastString": "2022-04-20T23:41:33.300Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-20T23:41:33.300Z"
+  "FStringFlagRepoGitHashFastString": "48aebdd3c3db826b0af230f12455dc4971d08b13",
+  "DFStringFlagRepoGitHashDynamicString": "48aebdd3c3db826b0af230f12455dc4971d08b13",
+  "FStringFlipTimeStampFastString": "2022-04-20T23:48:55.289Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-20T23:48:55.289Z"
 }
