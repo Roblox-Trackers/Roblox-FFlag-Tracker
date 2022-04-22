@@ -6400,6 +6400,8 @@
   "FFlagSimCSG3MegaAssetFetcherSkipCached_PlaceFilter": "True;8793627382;8793618616;9185091595",
   "DFIntHttpExponetialRetryBaseInterval": "3",
   "DFFlagUseRobloxTelemetryForDataModelPatcher": "True",
+  "DFFlagAnimationLodCameraCrashFix": "True",
+  "DFFlagAnimatorLodModelInstanceOwnershipFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6654,8 +6656,8 @@
   "FIntRoact17Rollout8": "0",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
   "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
-  "FStringFlagRepoGitHashFastString": "0add17a8f8c4f204f5f6e3fcfd01772f47bc49af",
-  "DFStringFlagRepoGitHashDynamicString": "0add17a8f8c4f204f5f6e3fcfd01772f47bc49af",
-  "FStringFlipTimeStampFastString": "2022-04-22T17:25:22.089Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-22T17:25:22.089Z"
+  "FStringFlagRepoGitHashFastString": "2c550b36cd16b2f39ca1d04d25e7aba43f96d8e5",
+  "DFStringFlagRepoGitHashDynamicString": "2c550b36cd16b2f39ca1d04d25e7aba43f96d8e5",
+  "FStringFlipTimeStampFastString": "2022-04-22T17:44:35.652Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-22T17:44:35.652Z"
 }
