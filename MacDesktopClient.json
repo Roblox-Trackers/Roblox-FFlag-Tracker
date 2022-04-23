@@ -6404,6 +6404,8 @@
   "DFFlagAnimatorLodModelInstanceOwnershipFix": "True",
   "FFlagAXCharacterManagerCheckSizes": "True",
   "FFlagGridViewUseFunctionalSetStateInDidMount": "True",
+  "FFlagSkipTerrainUGCShaderWhenFlagOff": "True",
+  "FFlatRenderSkipMediumpShaderLoad": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6658,8 +6660,8 @@
   "FIntRoact17Rollout8": "0",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
   "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
-  "FStringFlagRepoGitHashFastString": "e9eddb805707fe4192427f92ede5283cdb2775d1",
-  "DFStringFlagRepoGitHashDynamicString": "e9eddb805707fe4192427f92ede5283cdb2775d1",
-  "FStringFlipTimeStampFastString": "2022-04-23T22:33:47.923Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-23T22:33:47.923Z"
+  "FStringFlagRepoGitHashFastString": "f72da9a108dcca4f6388934a1a577539b91a4dca",
+  "DFStringFlagRepoGitHashDynamicString": "f72da9a108dcca4f6388934a1a577539b91a4dca",
+  "FStringFlipTimeStampFastString": "2022-04-23T23:01:34.259Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-23T23:01:34.259Z"
 }
