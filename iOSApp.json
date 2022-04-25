@@ -6434,6 +6434,8 @@
   "FFlagWindowsClientUseAppropriateCursorScaling": "True",
   "FFlagEnableLoggingProtocolInLua2": "True",
   "FFlagLuaAppEnableLoggingProtocol2": "True",
+  "DFFlagCLI50798": "False",
+  "DFFlagCLI50798_DataCenterFilter": "True;254",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6747,8 +6749,8 @@
   "FIntRoact17Rollout8": "0",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
   "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
-  "FStringFlagRepoGitHashFastString": "2a91a5a8602980206f8947210e87968fad61df8f",
-  "DFStringFlagRepoGitHashDynamicString": "2a91a5a8602980206f8947210e87968fad61df8f",
-  "FStringFlipTimeStampFastString": "2022-04-25T22:21:05.123Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-25T22:21:05.123Z"
+  "FStringFlagRepoGitHashFastString": "e6319a3df98f1de70cf3c60d11a6624de9cc1603",
+  "DFStringFlagRepoGitHashDynamicString": "e6319a3df98f1de70cf3c60d11a6624de9cc1603",
+  "FStringFlipTimeStampFastString": "2022-04-25T22:26:07.639Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-25T22:26:07.639Z"
 }
