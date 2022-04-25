@@ -6413,6 +6413,8 @@
   "FFlagEnableScrollEdgeAppearanceForIOS15V2": "True",
   "DFFlagHttpBatchAssetInMemoryCacheHitStats2": "True",
   "FFlagDevFrameworkRemoveInfiniteScroller": "True",
+  "FFlagMacSkipLuaAppOnGameLaunch": "True",
+  "FFlagSkipLuaAppOnGameLaunch2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6727,8 +6729,8 @@
   "FIntRoact17Rollout8": "0",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
   "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
-  "FStringFlagRepoGitHashFastString": "f5bf8f89dcfe75df7729b5e6f64b10bbf194ee4d",
-  "DFStringFlagRepoGitHashDynamicString": "f5bf8f89dcfe75df7729b5e6f64b10bbf194ee4d",
-  "FStringFlipTimeStampFastString": "2022-04-25T16:54:28.920Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-25T16:54:28.920Z"
+  "FStringFlagRepoGitHashFastString": "c4726ae6bfe5419c3fcbbd5f8279821cfdaaa129",
+  "DFStringFlagRepoGitHashDynamicString": "c4726ae6bfe5419c3fcbbd5f8279821cfdaaa129",
+  "FStringFlipTimeStampFastString": "2022-04-25T17:01:36.706Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-25T17:01:36.706Z"
 }
