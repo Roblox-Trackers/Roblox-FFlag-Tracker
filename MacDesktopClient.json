@@ -6430,6 +6430,7 @@
   "FFlagEngineHardwareCursorSupport": "True",
   "FFlagStudioTeamCreateClearDirtyBitBeforeEditing2": "True",
   "FFlagRemoveABTestServiceWaitStartup2": "True",
+  "FFlagShowGitHashInGame": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6676,7 +6677,6 @@
   "FStringFeature_SessionChangeEventRollout": "513;100",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageMacClient",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataMacClient",
-  "FFlagShowGitHashInGame": "True",
   "FFlagSessionAnalyticsIdleState3": "True",
   "FFlagOnGameLeaveGameProtocol": "True",
   "FFlagUniversalAppCsat": "False",
@@ -6684,8 +6684,8 @@
   "FIntRoact17Rollout8": "0",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
   "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
-  "FStringFlagRepoGitHashFastString": "83ad7b37ff121cc229ff69d5762701e420664ec8",
-  "DFStringFlagRepoGitHashDynamicString": "83ad7b37ff121cc229ff69d5762701e420664ec8",
-  "FStringFlipTimeStampFastString": "2022-04-25T21:36:45.369Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-25T21:36:45.369Z"
+  "FStringFlagRepoGitHashFastString": "41625442ef5f2da80610f5d337d9ef906c985626",
+  "DFStringFlagRepoGitHashDynamicString": "41625442ef5f2da80610f5d337d9ef906c985626",
+  "FStringFlipTimeStampFastString": "2022-04-25T21:42:27.048Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-25T21:42:27.048Z"
 }
