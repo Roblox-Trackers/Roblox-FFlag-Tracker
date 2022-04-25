@@ -6423,6 +6423,7 @@
   "FFlagIsPlaceOpenFailureMessagingDifferentiatingBetweenSoloAndTeamCreateEnabled": "True",
   "FFlagIsStudioOpenPlaceFailureDialogUsingUpdatedLanguageEnabled": "True",
   "FFlagAddFriendsMutualFriendsContextFixEnabled": "True",
+  "FFlagDebugFixPublishAsWhenQueryFails": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6737,8 +6738,8 @@
   "FIntRoact17Rollout8": "0",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
   "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
-  "FStringFlagRepoGitHashFastString": "f5ae56c88a5aef9abe1e5bcc1f6df8b65a5cf70d",
-  "DFStringFlagRepoGitHashDynamicString": "f5ae56c88a5aef9abe1e5bcc1f6df8b65a5cf70d",
-  "FStringFlipTimeStampFastString": "2022-04-25T19:17:19.954Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-25T19:17:19.954Z"
+  "FStringFlagRepoGitHashFastString": "931dcc1d79e7e3c674e339da3236d9085f44e60f",
+  "DFStringFlagRepoGitHashDynamicString": "931dcc1d79e7e3c674e339da3236d9085f44e60f",
+  "FStringFlipTimeStampFastString": "2022-04-25T19:33:20.600Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-25T19:33:20.600Z"
 }
