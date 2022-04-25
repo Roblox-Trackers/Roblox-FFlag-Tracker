@@ -6173,7 +6173,7 @@
   "FFlagStudioRemoveRBXIDCookieCheckForLuobu": "True",
   "DFFlagReportPlayerType": "True",
   "DFFlagHttpBatchAssetRefreshTimeCap": "True",
-  "DFIntHttpBatchApi_bgRefreshMaxDelayMs": "100",
+  "DFIntHttpBatchApi_bgRefreshMaxDelayMs": "60",
   "FFlagEnableGetAllOrNone": "True",
   "FFlagUGCAllOrNone": "True",
   "FFlagEnableTagApplicationWillTerminate": "True",
@@ -6689,8 +6689,8 @@
   "FIntRoact17Rollout8": "0",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
   "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
-  "FStringFlagRepoGitHashFastString": "fe3af9f4b907094de0dc61a0d8bf41795cf55b42",
-  "DFStringFlagRepoGitHashDynamicString": "fe3af9f4b907094de0dc61a0d8bf41795cf55b42",
-  "FStringFlipTimeStampFastString": "2022-04-25T17:25:00.869Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-25T17:25:00.869Z"
+  "FStringFlagRepoGitHashFastString": "b731d598f59177e3ed89cf4c43b62c35b964ae2e",
+  "DFStringFlagRepoGitHashDynamicString": "b731d598f59177e3ed89cf4c43b62c35b964ae2e",
+  "FStringFlipTimeStampFastString": "2022-04-25T17:49:23.361Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-25T17:49:23.361Z"
 }
