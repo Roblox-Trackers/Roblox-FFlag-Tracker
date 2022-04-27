@@ -5435,8 +5435,8 @@
   "FFlagLuaProfileShareExperimentEnabled": "True",
   "FFlagSimCSG3AsyncWarmv2": "False",
   "FFlagSimCSG3AsyncWarmv2_PlaceFilter": "True;8793627382;8793618616;9185091595",
-  "FFlagCSGMeshNewXorBuffer": "False",
-  "FFlagCSGMeshNewXorBuffer_PlaceFilter": "True;8793627382;8793618616;9185091595",
+  "FFlagCSGMeshNewXorBuffer": "True",
+  "FFlagCSGMeshNewXorBuffer_PlaceFilter": "False;9184895524",
   "FFlagCSGv3OptimizedGetVertexAttribute": "True",
   "FFlagCSGMeshDisableReadHash": "False",
   "FFlagCSGMeshDisableReadHash_PlaceFilter": "True;8793627382;8793618616;9185091595",
@@ -6679,8 +6679,8 @@
   "FFlagSessionAnalyticsIdleState3": "True",
   "FFlagSessionGamePlayEvents3": "True",
   "FIntRoact17Rollout8": "0",
-  "FStringFlagRepoGitHashFastString": "cc6f6e3c832de076496969f6a2e2948881bec3bc",
-  "DFStringFlagRepoGitHashDynamicString": "cc6f6e3c832de076496969f6a2e2948881bec3bc",
-  "FStringFlipTimeStampFastString": "2022-04-27T16:19:42.804Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-27T16:19:42.804Z"
+  "FStringFlagRepoGitHashFastString": "3eeb6c12d140edc5a3f851086c5935cddfff28df",
+  "DFStringFlagRepoGitHashDynamicString": "3eeb6c12d140edc5a3f851086c5935cddfff28df",
+  "FStringFlipTimeStampFastString": "2022-04-27T16:30:18.815Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-27T16:30:18.815Z"
 }
