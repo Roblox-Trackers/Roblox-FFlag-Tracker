@@ -6496,9 +6496,8 @@
   "DFFlagReportDelayForAssetLoading": "True",
   "DFIntLoadAssetDelayDiagHundredthsPercentage": "10",
   "DFIntLoadAssetDelayInfluxHundredthsPercentage": "10",
-  "FFlagSimCSGV3UseNewOperator": "False",
-  "FFlagSimCSGV3UseNewOperator_PlaceFilter": "True;8793627382;8793618616;9185091595",
-  "DFFlagFilteredLocalSimulation": "True",
+  "FFlagSimCSGV3UseNewOperator": "True",
+  "FFlagSimCSGV3UseNewOperator_PlaceFilter": "False;9184895524",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "False",
   "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "False",
   "AllowVideoPreRoll": "True",
@@ -6877,8 +6876,8 @@
   "EnableANRFixDisableClicks": "False",
   "EnableANRFixDisableDoubleStop": "True",
   "FlushAfterSetCookie": "True",
-  "FStringFlagRepoGitHashFastString": "e2a81b687346f85b00c9eeb9ec5eb7203b39a7be",
-  "DFStringFlagRepoGitHashDynamicString": "e2a81b687346f85b00c9eeb9ec5eb7203b39a7be",
-  "FStringFlipTimeStampFastString": "2022-04-28T17:55:20.403Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-28T17:55:20.403Z"
+  "FStringFlagRepoGitHashFastString": "7776002d2abf36a06c19b0147109595aeecd3a8e",
+  "DFStringFlagRepoGitHashDynamicString": "7776002d2abf36a06c19b0147109595aeecd3a8e",
+  "FStringFlipTimeStampFastString": "2022-04-28T18:16:30.002Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-28T18:16:30.002Z"
 }
