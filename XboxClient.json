@@ -6507,6 +6507,8 @@
   "DFFlagUseNewProductInfoEndpointPlaceFactory": "True",
   "FFlagToolboxAssetConfigurationMatchPluginFlow": "True",
   "FFlagRemoveAssetVersionEndpoint": "True",
+  "DFFlagDisableTeleportsOnModeration": "True",
+  "DFFlagEnableModerationDisconnectReason": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6733,8 +6735,8 @@
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
   "FIntRoact17Rollout8": "25",
-  "FStringFlagRepoGitHashFastString": "2fc4c82766413cf935aa2de35164e0fd0e7ceea8",
-  "DFStringFlagRepoGitHashDynamicString": "2fc4c82766413cf935aa2de35164e0fd0e7ceea8",
-  "FStringFlipTimeStampFastString": "2022-04-28T19:39:06.497Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-28T19:39:06.497Z"
+  "FStringFlagRepoGitHashFastString": "82c94b608933ae04f28c64f35e75a355254ad7a4",
+  "DFStringFlagRepoGitHashDynamicString": "82c94b608933ae04f28c64f35e75a355254ad7a4",
+  "FStringFlipTimeStampFastString": "2022-04-28T19:52:50.252Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-28T19:52:50.252Z"
 }
