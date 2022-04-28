@@ -6148,7 +6148,7 @@
   "FFlagDontAllowAutoGuiSelectionInVR": "True",
   "FFlagRenderVRCursorOnTop": "True",
   "FFlagStopSpecialCasing3DScreenGuis": "True",
-  "DFFlagAnimatorLodOptOutPhase": "True",
+  "DFFlagAnimatorLodOptOutPhase": "False",
   "DFFlagUseAnimateScriptsWithTrackLeakFix": "True",
   "DFFlagStreamingObserverUsesJoinSize": "True",
   "FFlagStudioMoveOpenPlaceEndSuccess": "True",
@@ -6272,7 +6272,7 @@
   "DFFlagAnalyticsDeferredEventIngestReportHttpRequestSuccess2": "False",
   "FFlagEnableFormatFactory2": "True",
   "FFlagFixMaterialVariantUpdateBug": "True",
-  "FFlagUseQPointerInsteadOfShared2": "True",
+  "FFlagUseQPointerInsteadOfShared2": "False",
   "FFlagNewTopBarLCSort": "True",
   "FFlagUpgradeExpChat_v1_2_1": "True",
   "DFFlagUpdateOverriddenTracksFix": "True",
@@ -6738,8 +6738,8 @@
   "FIntRoact17Rollout8": "0",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
   "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
-  "FStringFlagRepoGitHashFastString": "937ceda3412b3a7abc773c55f2bbfd09e418a635",
-  "DFStringFlagRepoGitHashDynamicString": "937ceda3412b3a7abc773c55f2bbfd09e418a635",
-  "FStringFlipTimeStampFastString": "2022-04-27T23:41:45.259Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-27T23:41:45.259Z"
+  "FStringFlagRepoGitHashFastString": "29b089476f4e7dc0841c68da688ad9d44422cf1e",
+  "DFStringFlagRepoGitHashDynamicString": "29b089476f4e7dc0841c68da688ad9d44422cf1e",
+  "FStringFlipTimeStampFastString": "2022-04-27T23:52:43.676Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-27T23:52:43.676Z"
 }
