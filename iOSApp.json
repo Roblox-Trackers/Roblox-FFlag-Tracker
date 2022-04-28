@@ -6485,6 +6485,8 @@
   "FFlagLuaAppGenreExplorerAnalyticsMinorFixes": "True",
   "FFlagStudioEnableLocalSaveFailureReport": "True",
   "DFFlagStreamingReportPerformanceStatsAddRadii": "True",
+  "FFlagLuauDirtySourceModule": "True",
+  "FFlagLuauSeparateTypechecks": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6798,8 +6800,8 @@
   "FIntRoact17Rollout8": "25",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
   "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
-  "FStringFlagRepoGitHashFastString": "1ff2f98ce49d44bc6d41c81ca5a6f5365e51d72c",
-  "DFStringFlagRepoGitHashDynamicString": "1ff2f98ce49d44bc6d41c81ca5a6f5365e51d72c",
-  "FStringFlipTimeStampFastString": "2022-04-28T00:17:33.008Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-28T00:17:33.008Z"
+  "FStringFlagRepoGitHashFastString": "4a21c6b6f00edc4628bbd07a490c46ca5c88b113",
+  "DFStringFlagRepoGitHashDynamicString": "4a21c6b6f00edc4628bbd07a490c46ca5c88b113",
+  "FStringFlipTimeStampFastString": "2022-04-28T16:04:52.838Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-28T16:04:52.838Z"
 }
