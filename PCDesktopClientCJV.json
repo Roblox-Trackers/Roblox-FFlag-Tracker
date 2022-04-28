@@ -6499,6 +6499,8 @@
   "FFlagSimCSGV3UseNewOperator": "False",
   "FFlagSimCSGV3UseNewOperator_PlaceFilter": "True;8793627382;8793618616;9185091595",
   "DFFlagFilteredLocalSimulation": "True",
+  "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "False",
+  "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6768,11 +6770,9 @@
   "FFlagUniversalAppCsat": "False",
   "FFlagSessionGamePlayEvents3": "True",
   "FIntRoact17Rollout8": "25",
-  "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "True",
-  "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
   "FStringFeature_CookieProtocolEnabled": "524;0",
-  "FStringFlagRepoGitHashFastString": "726f01df993af3e6a54908491a2607ca8487a59e",
-  "DFStringFlagRepoGitHashDynamicString": "726f01df993af3e6a54908491a2607ca8487a59e",
-  "FStringFlipTimeStampFastString": "2022-04-28T17:52:45.274Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-28T17:52:45.274Z"
+  "FStringFlagRepoGitHashFastString": "e2a81b687346f85b00c9eeb9ec5eb7203b39a7be",
+  "DFStringFlagRepoGitHashDynamicString": "e2a81b687346f85b00c9eeb9ec5eb7203b39a7be",
+  "FStringFlipTimeStampFastString": "2022-04-28T17:55:20.403Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-28T17:55:20.403Z"
 }
