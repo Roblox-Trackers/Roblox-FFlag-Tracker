@@ -6499,7 +6499,7 @@
   "FFlagSimCSGV3UseNewOperator": "True",
   "FFlagSimCSGV3UseNewOperator_PlaceFilter": "False;9184895524",
   "DFFlagLimitRescheduleWhenAddingNewTasksBefore": "False",
-  "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "False",
+  "DFFlagMoveLockAfterRescheduleForWaitUntilEmpty": "True",
   "FFlagRemoveUILibraryDeepJoin": "True",
   "FFlagRemoveUILibraryComponentsPart1": "True",
   "FFlagParallelLuaEnforceScriptConnect": "True",
@@ -6738,8 +6738,8 @@
   "FIntRoact17Rollout7": "100",
   "FIntLuaAppUseRoactNavigationRollout4": "100",
   "FIntRoact17Rollout8": "25",
-  "FStringFlagRepoGitHashFastString": "3ec24b8b6d091cf15e80ae6df117d8bdaca38efa",
-  "DFStringFlagRepoGitHashDynamicString": "3ec24b8b6d091cf15e80ae6df117d8bdaca38efa",
-  "FStringFlipTimeStampFastString": "2022-04-28T22:23:48.315Z",
-  "DFStringFlipTimeStampDynamicString": "2022-04-28T22:23:48.315Z"
+  "FStringFlagRepoGitHashFastString": "530d994e08770d754f8bb2c6a0e4064fd908917d",
+  "DFStringFlagRepoGitHashDynamicString": "530d994e08770d754f8bb2c6a0e4064fd908917d",
+  "FStringFlipTimeStampFastString": "2022-04-28T22:30:45.294Z",
+  "DFStringFlipTimeStampDynamicString": "2022-04-28T22:30:45.294Z"
 }
