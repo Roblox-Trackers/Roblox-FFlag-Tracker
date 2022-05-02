@@ -6519,6 +6519,8 @@
   "DFFlagValidateTypeOfToolsInServerEquip": "False",
   "FFlagLuauGcSweepCostFix": "True",
   "FFlagSimSolverFixLinearVelocityPlaneIcon": "True",
+  "DFFlagHttpServiceBlacklist": "True",
+  "FFlagEnableCrashReportingSendPoints": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6770,8 +6772,8 @@
   "FFlagUniversalAppCsat": "False",
   "FFlagSessionGamePlayEvents3": "True",
   "FIntRoact17Rollout8": "25",
-  "FStringFlagRepoGitHashFastString": "7d27a817a6e6fc8cab4160c1bdb440e28e1ea571",
-  "DFStringFlagRepoGitHashDynamicString": "7d27a817a6e6fc8cab4160c1bdb440e28e1ea571",
-  "FStringFlipTimeStampFastString": "2022-05-02T17:28:51.665Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-02T17:28:51.665Z"
+  "FStringFlagRepoGitHashFastString": "28c703eb455e168550cdc5f4fdf04e7eab734ca3",
+  "DFStringFlagRepoGitHashDynamicString": "28c703eb455e168550cdc5f4fdf04e7eab734ca3",
+  "FStringFlipTimeStampFastString": "2022-05-02T17:32:59.058Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-02T17:32:59.058Z"
 }
