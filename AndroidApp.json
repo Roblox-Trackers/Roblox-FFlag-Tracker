@@ -6860,7 +6860,7 @@
   "FStringRoactChatUserLoadedCounter": "RoactChatUserLoadedAndroid",
   "EnableNativeTextBoxInGame4": "True",
   "EnableGooglePurchaseAPI3": "True",
-  "FFlagLuaVerifiedSignupExperiment": "True",
+  "FFlagLuaVerifiedSignupExperiment": "False",
   "EnableGoogleGrantPendingOnLaunch": "False",
   "DFFlagVoiceChat3": "False",
   "FFlagEnableAmazonInGameUpsell": "True",
@@ -6916,8 +6916,9 @@
   "EnableANRFixDisableClicks": "False",
   "EnableANRFixDisableDoubleStop": "True",
   "FlushAfterSetCookie": "True",
-  "FStringFlagRepoGitHashFastString": "1bc2f25b99e3ed458b257226b9f048375dd92dd0",
-  "DFStringFlagRepoGitHashDynamicString": "1bc2f25b99e3ed458b257226b9f048375dd92dd0",
-  "FStringFlipTimeStampFastString": "2022-05-02T23:02:11.826Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-02T23:02:11.826Z"
+  "FFlagLuaVerifiedSignupExperiment2": "True",
+  "FStringFlagRepoGitHashFastString": "08ca667f10675aca2b899ab489c9aaf9ecb53c5d",
+  "DFStringFlagRepoGitHashDynamicString": "08ca667f10675aca2b899ab489c9aaf9ecb53c5d",
+  "FStringFlipTimeStampFastString": "2022-05-02T23:09:30.933Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-02T23:09:30.933Z"
 }
