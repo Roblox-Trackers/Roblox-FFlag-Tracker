@@ -6531,6 +6531,8 @@
   "FFlagProfileCardPresenceFix": "True",
   "DFFlagReplicatorStopProducingTooMuchJDIToProcess3": "False",
   "DFFlagReplicatorStopProducingTooMuchJDIToProcess3_DataCenterFilter": "True;213;214",
+  "FFlagFixInertiaCalculationForZeroVolumeConvex": "True",
+  "FFlagDevFrameworkAssetRenderModelDisablePan": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6842,8 +6844,8 @@
   "FFlagUniversalAppCsat": "False",
   "FFlagSessionGamePlayEvents3": "True",
   "FIntRoact17Rollout8": "50",
-  "FStringFlagRepoGitHashFastString": "7be7a87f8082d8546949e04844abab5a6e3ac384",
-  "DFStringFlagRepoGitHashDynamicString": "7be7a87f8082d8546949e04844abab5a6e3ac384",
-  "FStringFlipTimeStampFastString": "2022-05-02T20:24:34.437Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-02T20:24:34.437Z"
+  "FStringFlagRepoGitHashFastString": "7e948d45fad010ed58d726fb329065109a486fb9",
+  "DFStringFlagRepoGitHashDynamicString": "7e948d45fad010ed58d726fb329065109a486fb9",
+  "FStringFlipTimeStampFastString": "2022-05-02T20:26:21.445Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-02T20:26:21.445Z"
 }
