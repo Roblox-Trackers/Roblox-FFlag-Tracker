@@ -6569,6 +6569,8 @@
   "FFlagStreamingGCJobUseRegionPrimitiveMap2": "False",
   "FFlagStreamingGCJobUseRegionPrimitiveMap2_DataCenterFilter": "True;333",
   "FFlagCSGv2BalanceExponents": "False",
+  "DFFlagUseNewJoinDataFlow": "False",
+  "DFFlagUseNewJoinDataFlow_PlaceFilter": "True;6900305353;2128186559;2128211677",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6880,8 +6882,8 @@
   "FFlagSessionGamePlayEvents3": "True",
   "FIntRoact17Rollout8": "50",
   "FFlagLuaVerifiedSignupExperiment2": "True",
-  "FStringFlagRepoGitHashFastString": "0a3c602aec0c9d2dc67cf47595abc3341c9b8474",
-  "DFStringFlagRepoGitHashDynamicString": "0a3c602aec0c9d2dc67cf47595abc3341c9b8474",
-  "FStringFlipTimeStampFastString": "2022-05-04T22:34:36.438Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-04T22:34:36.438Z"
+  "FStringFlagRepoGitHashFastString": "d679d4ee3dbe5535eec8d7643436afd9e0f23266",
+  "DFStringFlagRepoGitHashDynamicString": "d679d4ee3dbe5535eec8d7643436afd9e0f23266",
+  "FStringFlipTimeStampFastString": "2022-05-04T22:37:25.209Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-04T22:37:25.209Z"
 }
