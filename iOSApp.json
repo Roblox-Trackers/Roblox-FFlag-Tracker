@@ -6568,6 +6568,7 @@
   "DFIntCLI50798I_DataCenterFilter": "5;246",
   "FFlagStreamingGCJobUseRegionPrimitiveMap2": "False",
   "FFlagStreamingGCJobUseRegionPrimitiveMap2_DataCenterFilter": "True;333",
+  "FFlagCSGv2BalanceExponents": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6639,7 +6640,6 @@
   "EnableWebPageGameDetail": "True",
   "FFlagAvatarEditorLightThemeFix2": "True",
   "FFlagCLI26858": "False",
-  "FFlagCSGv2BalanceExponents": "False",
   "FFlagCSGv2FixOrientationWhenSeparatingNegates": "True",
   "FFlagCSGv2UnionOrientationFromFirstPart": "True",
   "FFlagCSGv2UnparentPartsBeforeModifyingCFrames": "True",
@@ -6880,8 +6880,8 @@
   "FFlagSessionGamePlayEvents3": "True",
   "FIntRoact17Rollout8": "50",
   "FFlagLuaVerifiedSignupExperiment2": "True",
-  "FStringFlagRepoGitHashFastString": "c76a376c4d9c7acec04beb1920e849ed5388cbf7",
-  "DFStringFlagRepoGitHashDynamicString": "c76a376c4d9c7acec04beb1920e849ed5388cbf7",
-  "FStringFlipTimeStampFastString": "2022-05-04T22:30:15.724Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-04T22:30:15.724Z"
+  "FStringFlagRepoGitHashFastString": "0a3c602aec0c9d2dc67cf47595abc3341c9b8474",
+  "DFStringFlagRepoGitHashDynamicString": "0a3c602aec0c9d2dc67cf47595abc3341c9b8474",
+  "FStringFlipTimeStampFastString": "2022-05-04T22:34:36.438Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-04T22:34:36.438Z"
 }
