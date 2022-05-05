@@ -6563,7 +6563,7 @@
   "FFlagExperienceChatFixBubbleChat": "True",
   "FFlagUWPKeepConnectionAlive": "True",
   "DFIntCLI50798HundredthsPercentage": "0",
-  "DFIntCLI50798HundredthsPercentage_DataCenterFilter": "100;246",
+  "DFIntCLI50798HundredthsPercentage_DataCenterFilter": "1;246",
   "DFIntCLI50798I": "5",
   "FFlagStreamingGCJobUseRegionPrimitiveMap2": "True",
   "FFlagCSGv2BalanceExponents": "False",
@@ -6586,6 +6586,7 @@
   "DFFlagClientReportJoinInstanceTypeBreakdown2": "True",
   "DFFlagPlayerEmulatorCustomPoliciesToggleEnabled3": "True",
   "DFFlagPlayerPolicyUserAgentOverrideEnabled": "True",
+  "FFlagPlayerEmulatorCustomPoliciesToggleEnabledUIChanges2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6848,8 +6849,8 @@
   "FFlagRenderMaterialVariantTerrain_PlaceFilter": "True;7902470429",
   "FFlagUGCTerrainDetail": "False",
   "FFlagUGCTerrainDetail_PlaceFilter": "True;7902470429",
-  "FStringFlagRepoGitHashFastString": "d438077c34135744303858c4754a48d76c0df60c",
-  "DFStringFlagRepoGitHashDynamicString": "d438077c34135744303858c4754a48d76c0df60c",
-  "FStringFlipTimeStampFastString": "2022-05-05T23:30:46.839Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-05T23:30:46.839Z"
+  "FStringFlagRepoGitHashFastString": "dea9a1c6a82ce9a76f2f5a1f4083051987e4c108",
+  "DFStringFlagRepoGitHashDynamicString": "dea9a1c6a82ce9a76f2f5a1f4083051987e4c108",
+  "FStringFlipTimeStampFastString": "2022-05-05T23:33:39.313Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-05T23:33:39.313Z"
 }
