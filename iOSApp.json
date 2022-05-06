@@ -5998,7 +5998,7 @@
   "FFlagHSRUploadUseRCCUrl": "True",
   "DFFlagAudioSeparateHttpCachePerUniverse3": "True",
   "FFlagStudioExplorerSelectedItemsUseSafePointer": "True",
-  "FIntStudioUseWebView2OnCompatibleMachinesHundredthPercent": "0",
+  "FIntStudioUseWebView2OnCompatibleMachinesHundredthPercent": "10000",
   "DFFlagRsidReduction": "True",
   "DFFlagCookieSecure": "True",
   "FFlagMoveHardwareInfoToDiagnostics": "True",
@@ -6597,6 +6597,7 @@
   "FFlagStudioWebView2FixUrlPersistence": "True",
   "FFlagStudioRemoveRobloxMainWindowSharedFromThisInheritance": "True",
   "FFlagStudioRemoveRobloxMainWindowSharedFromThisInheritanceAssertCheck": "True",
+  "FFlagRCCTeamCreateReportSaveToDiag": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6920,8 +6921,8 @@
   "FFlagRenderMaterialVariantTerrain_PlaceFilter": "True;7902470429",
   "FFlagUGCTerrainDetail": "False",
   "FFlagUGCTerrainDetail_PlaceFilter": "True;7902470429",
-  "FStringFlagRepoGitHashFastString": "6da213ce5c11dbfae6dbcb3713add2be6555a4b5",
-  "DFStringFlagRepoGitHashDynamicString": "6da213ce5c11dbfae6dbcb3713add2be6555a4b5",
-  "FStringFlipTimeStampFastString": "2022-05-06T17:09:06.437Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-06T17:09:06.437Z"
+  "FStringFlagRepoGitHashFastString": "deab60a5fc074dbfe54841990930666fdb7abbeb",
+  "DFStringFlagRepoGitHashDynamicString": "deab60a5fc074dbfe54841990930666fdb7abbeb",
+  "FStringFlipTimeStampFastString": "2022-05-06T17:17:55.616Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-06T17:17:55.616Z"
 }
