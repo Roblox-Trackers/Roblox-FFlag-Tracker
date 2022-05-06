@@ -6601,6 +6601,8 @@
   "FFlagRenderEnablePlasticOTA": "True",
   "FFlagDisableUgcTerrainTintMask": "True",
   "FFlagRemoveUILibraryGetTextSize": "True",
+  "FFlagPlayerEmulatorDeduplicatePackages": "True",
+  "FFlagFixCollabReverseDependency": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6863,8 +6865,8 @@
   "FFlagRenderMaterialVariantTerrain_PlaceFilter": "True;7902470429",
   "FFlagUGCTerrainDetail": "False",
   "FFlagUGCTerrainDetail_PlaceFilter": "True;7902470429",
-  "FStringFlagRepoGitHashFastString": "9b342f3e662b2374cc40eda694e8bbe871789b28",
-  "DFStringFlagRepoGitHashDynamicString": "9b342f3e662b2374cc40eda694e8bbe871789b28",
-  "FStringFlipTimeStampFastString": "2022-05-06T17:41:29.614Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-06T17:41:29.614Z"
+  "FStringFlagRepoGitHashFastString": "70cc21f12cdc42625cb7ba329e9b969a78409467",
+  "DFStringFlagRepoGitHashDynamicString": "70cc21f12cdc42625cb7ba329e9b969a78409467",
+  "FStringFlipTimeStampFastString": "2022-05-06T17:42:04.514Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-06T17:42:04.514Z"
 }
