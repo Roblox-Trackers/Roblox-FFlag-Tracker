@@ -6634,6 +6634,7 @@
   "FStringTerrainTexturePacksJson2022": "{\"asphalt_top\":9438410491,\"asphalt_side\":9438410904,\"basalt\":9438413227,\"brick\":9438453826,\"cobblestone\":9438459300,\"concrete\":9483105529,\"crackedlava\":9438582231,\"glacier_top\":9438851661,\"glacier_side\":9438853821,\"glacier_bottom\":9438867942,\"grass_top\":9438956437,\"grass_side\":9439010785,\"grass_bottom\":9439012675,\"ground\":9439044431,\"ice_top\":9483105883,\"ice_side\":9439080020,\"leafygrass_top\":9439150097,\"leafygrass_side\":9439152680,\"leafygrass_bottom\":9439264706,\"limestone_top\":9439416055,\"limestone_side\":9439426299,\"mud\":9439517016,\"pavement_top\":9439519914,\"pavement_side\":9439527816,\"rock\":9439546316,\"salt_top\":9439566986,\"salt_side\":9439576187,\"sand_top\":9439585561,\"sand_side\":9439594457,\"sandstone_top\":9439596892,\"sandstone_side\":9439605693,\"slate_top\":9483106252,\"slate_side\":9439622374,\"slate_bottom\":9439631253,\"snow_top\":9439632387,\"snow_side\":9439640395,\"woodplanks\":9439658515}",
   "FFlagDisableSetWaypointDuringWaypointPlay": "True",
   "FFlagTerrainGrassColorFix": "True",
+  "FFlagStudioRemoveOgreWidgetCurrentDm": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6957,8 +6958,8 @@
   "FFlagRenderMaterialVariantTerrain_PlaceFilter": "True;7902470429",
   "FFlagUGCTerrainDetail": "False",
   "FFlagUGCTerrainDetail_PlaceFilter": "True;7902470429",
-  "FStringFlagRepoGitHashFastString": "86d5b2c56a5673c84d6a1912bdfa21b5af3ee495",
-  "DFStringFlagRepoGitHashDynamicString": "86d5b2c56a5673c84d6a1912bdfa21b5af3ee495",
-  "FStringFlipTimeStampFastString": "2022-05-09T18:11:36.989Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-09T18:11:36.989Z"
+  "FStringFlagRepoGitHashFastString": "d3a2ba689a6aff3c554225d45e477cb74c66ae82",
+  "DFStringFlagRepoGitHashDynamicString": "d3a2ba689a6aff3c554225d45e477cb74c66ae82",
+  "FStringFlipTimeStampFastString": "2022-05-09T18:20:06.446Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-09T18:20:06.446Z"
 }
