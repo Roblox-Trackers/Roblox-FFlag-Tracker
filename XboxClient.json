@@ -6588,7 +6588,7 @@
   "FFlagPlayerEmulatorCustomPoliciesToggleEnabledUIChanges2": "True",
   "DFFlagBoneBetterTransformUpdate": "True",
   "FFlagWindowsDetectOOMProblem": "True",
-  "DFIntSkipReadDiskCacheRedirectsHundrethsPercentage": "200",
+  "DFIntSkipReadDiskCacheRedirectsHundrethsPercentage": "500",
   "FFlagEnableCodeSampleWidget3": "True",
   "FFlagLuauInstantiateFollows": "True",
   "FFlagStudioUseUpdatedPrefixToCrashEventMap": "True",
@@ -6602,7 +6602,7 @@
   "FFlagDisableUgcTerrainTintMask": "True",
   "FFlagRemoveUILibraryGetTextSize": "True",
   "FFlagPlayerEmulatorDeduplicatePackages": "True",
-  "FFlagFixCollabReverseDependency": "True",
+  "FFlagFixCollabReverseDependency": "False",
   "FFlagMaterialPackUpdateColorConvert": "True",
   "FFlagTerrainColorKeepBaseColor": "True",
   "DFFlagCatchTransitionContactsDuplication": "True",
@@ -6884,8 +6884,8 @@
   "FFlagRenderMaterialVariantTerrain_PlaceFilter": "True;7902470429",
   "FFlagUGCTerrainDetail": "False",
   "FFlagUGCTerrainDetail_PlaceFilter": "True;7902470429",
-  "FStringFlagRepoGitHashFastString": "c376cc0befa67b3b755d361a281fdf39cf9d6499",
-  "DFStringFlagRepoGitHashDynamicString": "c376cc0befa67b3b755d361a281fdf39cf9d6499",
-  "FStringFlipTimeStampFastString": "2022-05-09T22:42:16.894Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-09T22:42:16.894Z"
+  "FStringFlagRepoGitHashFastString": "603f64403e5d1aeee3835479396e282ceb28e7c6",
+  "DFStringFlagRepoGitHashDynamicString": "603f64403e5d1aeee3835479396e282ceb28e7c6",
+  "FStringFlipTimeStampFastString": "2022-05-09T23:04:18.504Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-09T23:04:18.504Z"
 }
