@@ -6657,6 +6657,8 @@
   "FFlagOptimizeSkeletonGetBoneIndexByPart": "True",
   "FFlagGfxWindowAverage": "True",
   "DFFlagAnimationRigThrowAssertionErrors": "True",
+  "FFlagCountJoinAshxHits": "True",
+  "FFlagOptimizeFCMeshGeneratorTransformSource": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6893,8 +6895,14 @@
   "FFlagRenderMaterialVariantTerrain_PlaceFilter": "True;7902470429",
   "FFlagUGCTerrainDetail": "False",
   "FFlagUGCTerrainDetail_PlaceFilter": "True;7902470429",
-  "FStringFlagRepoGitHashFastString": "032ba565ca4a06ceed31372544f831d476ad3305",
-  "DFStringFlagRepoGitHashDynamicString": "032ba565ca4a06ceed31372544f831d476ad3305",
-  "FStringFlipTimeStampFastString": "2022-05-10T19:50:55.604Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-10T19:50:55.604Z"
+  "FFlagTerrainTintMask": "False",
+  "FFlagTerrainTintMask_PlaceFilter": "True;7902470429",
+  "FFlagMaterialPack2022Update": "False",
+  "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429",
+  "FFlagUnifyPartTerrainTP": "False",
+  "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429",
+  "FStringFlagRepoGitHashFastString": "d1e0a71b15a829e105a3f82e1dbe34ca01707c99",
+  "DFStringFlagRepoGitHashDynamicString": "d1e0a71b15a829e105a3f82e1dbe34ca01707c99",
+  "FStringFlipTimeStampFastString": "2022-05-10T19:55:58.760Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-10T19:55:58.760Z"
 }
