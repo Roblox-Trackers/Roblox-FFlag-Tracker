@@ -6645,8 +6645,7 @@
   "RemoveOldABTestSystemAndroid": "True",
   "FFlagSessionManagerErrorRateCounter": "True",
   "DFFlagIc2UseCustomUpdateQueue2": "True",
-  "FFlagClientReportAdjLoadTime": "False",
-  "FFlagClientReportAdjLoadTime_DataCenterFilter": "True;213;214;254",
+  "FFlagClientReportAdjLoadTime": "True",
   "DFIntServerJoinRejectCountHundredthPercentageSent": "100",
   "FFlagLuaAppUpdateSimpleMotion": "True",
   "FFlagMannequinFallingBugFix": "True",
@@ -6913,8 +6912,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "bfd35bf48e4955d1e81233052d5f00c6f36ce1d6",
-  "DFStringFlagRepoGitHashDynamicString": "bfd35bf48e4955d1e81233052d5f00c6f36ce1d6",
-  "FStringFlipTimeStampFastString": "2022-05-10T22:59:44.963Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-10T22:59:44.963Z"
+  "FStringFlagRepoGitHashFastString": "3031430ed9ba27b00bd44ebce61906322cc74a50",
+  "DFStringFlagRepoGitHashDynamicString": "3031430ed9ba27b00bd44ebce61906322cc74a50",
+  "FStringFlipTimeStampFastString": "2022-05-10T23:22:48.669Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-10T23:22:48.669Z"
 }
