@@ -5420,7 +5420,7 @@
   "FFlagFastClusterFetchResourcesEarlyForSkel2": "True",
   "DFFlagCSGv2UseMegaAssetFetcher_PlaceFilter": "False;8793627382;8793618616",
   "FFlagMacUpdateModalWebViewSize": "True",
-  "FStringGameLaunchLinkURL": "(?:(?:https?://\\w+\\.roblox(?:labs)?\\.com/games/start\\?)|(?:roblox(?:mobile)?://))(?:(?:(?:(?:id=\\d+)|(?:placeid=\\d+)|(?:userID=\\d+)|(?:gameInstanceId=(?:\\w|\\-)+)|(?:linkCode=(?:\\w|\\-)+)|(?:accessCode=(?:\\w|\\-)+))&?)+)/?",
+  "FStringGameLaunchLinkURL": "(?:(?:https?://\\w+\\.roblox(?:labs)?\\.com/games/start\\?)|(?:roblox(?:mobile)?://))(?:(?:(?:(?:id=\\d+)|(?:placeid=\\d+)|(?:userID=\\d+)|(?:gameInstanceId=(?:\\w|\\-)+)|(?:linkCode=(?:\\w|\\-)+)|(?:accessCode=(?:\\w|\\-)+)|(?:launchData=(?:.+)))&?)+)/?",
   "FIntToolboxGroupCreationsMigrationRolloutPercentage3": "100",
   "FFlagSimCSGV3OptimizedFaceUVNormalTransform": "False",
   "FFlagSimCSGV3OptimizedFaceUVNormalTransform_PlaceFilter": "True;8793627382;8793618616;9185091595",
@@ -6936,8 +6936,8 @@
   "FFlagRenderMaterialVariantTerrain_PlaceFilter": "True;7902470429",
   "FFlagUGCTerrainDetail": "False",
   "FFlagUGCTerrainDetail_PlaceFilter": "True;7902470429",
-  "FStringFlagRepoGitHashFastString": "21f55c4d0d00ac52d39721468c8bf1adc6d44461",
-  "DFStringFlagRepoGitHashDynamicString": "21f55c4d0d00ac52d39721468c8bf1adc6d44461",
-  "FStringFlipTimeStampFastString": "2022-05-10T19:40:39.746Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-10T19:40:39.746Z"
+  "FStringFlagRepoGitHashFastString": "4a2a0b0c3be8d4bf0849e2cedf20021b159a2deb",
+  "DFStringFlagRepoGitHashDynamicString": "4a2a0b0c3be8d4bf0849e2cedf20021b159a2deb",
+  "FStringFlipTimeStampFastString": "2022-05-10T19:42:46.415Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-10T19:42:46.415Z"
 }
