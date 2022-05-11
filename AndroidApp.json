@@ -6655,7 +6655,6 @@
   "DFFlagReportFailuresInClientJoinAll": "False",
   "FFlagLuauRecursionLimitException": "True",
   "FFlagEnableAnimationClipAccelerator2": "False",
-  "FFlagEnableAnimationClipAccelerator2_PlaceFilter": "True;189707;2788229376;6284583030",
   "FFlagAvatarAutocompleteIXPBugfix": "True",
   "FFlagACEFixEulerAnglesOrder": "True",
   "FFlagDebugAudioWatchForHangOnOpen": "True",
@@ -6663,6 +6662,7 @@
   "FFlagAnimationLodFacsEnabled_PlaceFilter": "True;9366850275;9597802131",
   "FFlagRenderTC2_CatchOOM": "True",
   "DFFlagDetachedPlaybacksUseEffects": "True",
+  "FFlagEnableAnimationClipAccelerator2_DataCenterFilter": "True;270",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -7057,8 +7057,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;7278331654;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "b8a1814d5b4d3632662ebc6b2162add736341e97",
-  "DFStringFlagRepoGitHashDynamicString": "b8a1814d5b4d3632662ebc6b2162add736341e97",
-  "FStringFlipTimeStampFastString": "2022-05-11T23:03:15.782Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-11T23:03:15.782Z"
+  "FStringFlagRepoGitHashFastString": "78d91325ff2ef591d0f501c8b627e94c6c9d590d",
+  "DFStringFlagRepoGitHashDynamicString": "78d91325ff2ef591d0f501c8b627e94c6c9d590d",
+  "FStringFlipTimeStampFastString": "2022-05-11T23:51:02.293Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-11T23:51:02.293Z"
 }
