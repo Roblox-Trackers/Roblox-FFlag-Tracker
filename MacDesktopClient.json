@@ -6589,7 +6589,7 @@
   "FFlagFixCollabReverseDependency": "False",
   "FFlagMaterialPackUpdateColorConvert": "True",
   "FFlagTerrainColorKeepBaseColor": "True",
-  "DFFlagCatchTransitionContactsDuplication": "True",
+  "DFFlagCatchTransitionContactsDuplication": "False",
   "DFIntStudioReportStreamingEnabledChangeHundredths": "10000",
   "FFlagStudioReportStreamingEnabledChange": "True",
   "FIntRbfMinDistance": "1000",
@@ -6680,6 +6680,8 @@
   "FFlagDevFrameworkStyledDialogStyleModifier": "True",
   "FFlagDevFrameworkScrollingFrameFixUpdate": "True",
   "DFFlagVoiceChatPeerConnectionSubRefactor": "True",
+  "DFFlagCatchContactsDuplicationCrash": "True",
+  "DFFlagMitigateContactsDuplication": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6948,8 +6950,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;7278331654;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "07d802037cce5baa62a381c0416f19ebeaf3eb49",
-  "DFStringFlagRepoGitHashDynamicString": "07d802037cce5baa62a381c0416f19ebeaf3eb49",
-  "FStringFlipTimeStampFastString": "2022-05-12T21:15:19.752Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-12T21:15:19.752Z"
+  "FStringFlagRepoGitHashFastString": "cd8df5730e786a5c414b1ce2b186d0c05f08db6f",
+  "DFStringFlagRepoGitHashDynamicString": "cd8df5730e786a5c414b1ce2b186d0c05f08db6f",
+  "FStringFlipTimeStampFastString": "2022-05-12T21:18:54.628Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-12T21:18:54.628Z"
 }
