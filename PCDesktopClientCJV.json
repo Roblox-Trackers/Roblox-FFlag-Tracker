@@ -5902,7 +5902,7 @@
   "FFlagStudioEnableQuickSaveToContext2": "True",
   "FFlagLuauWidenIfSupertypeIsFree2": "True",
   "FFlagFixGroupGamesDisappearAfterCancel": "True",
-  "FFlagLuauUnsealedTableLiteral": "True",
+  "FFlagLuauUnsealedTableLiteral": "False",
   "FFlagLuauDiscriminableUnions2": "True",
   "FFlagStudioFixTCCancelCrash": "True",
   "DFIntReportStreamingObserverReplicatorDisconnectCapacityProblemHundrethsPercentage": "100",
@@ -6660,7 +6660,7 @@
   "FFlagAnimationLodFacsEnabled_PlaceFilter": "True;9366850275;9597802131",
   "FFlagRenderTC2_CatchOOM": "True",
   "FFlagEnableAnimationClipAccelerator2_DataCenterFilter": "True;356",
-  "FFlagLuauSubtypingAddOptPropsToUnsealedTables": "True",
+  "FFlagLuauSubtypingAddOptPropsToUnsealedTables": "False",
   "DFFlagVoiceChatPeerConnectionSubFailureClassification": "True",
   "FFlagAudioPrivacyCleanUp2": "True",
   "FFlagLuauCompileSupportInlining": "True",
@@ -6784,6 +6784,7 @@
   "FFlagAvatarImporterDeduplicatePackages": "True",
   "FFlagLuauTxnLogRefreshFunctionPointers": "True",
   "FFlagLuauNormalizeCombineTableFix": "True",
+  "FFlagTerrainOTADynamicAtlas": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7070,8 +7071,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "408a829a960d491af90e98bbc672e440cb65547b",
-  "DFStringFlagRepoGitHashDynamicString": "408a829a960d491af90e98bbc672e440cb65547b",
-  "FStringFlipTimeStampFastString": "2022-05-17T20:19:44.874Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-17T20:19:44.874Z"
+  "FStringFlagRepoGitHashFastString": "dd2047a64d694bdfda1251646c6c73e0a9f25c61",
+  "DFStringFlagRepoGitHashDynamicString": "dd2047a64d694bdfda1251646c6c73e0a9f25c61",
+  "FStringFlipTimeStampFastString": "2022-05-17T20:21:47.385Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-17T20:21:47.385Z"
 }
