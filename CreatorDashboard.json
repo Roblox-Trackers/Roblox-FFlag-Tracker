@@ -16,5 +16,7 @@
   "enableSecondLevelDatastores": "true",
   "enableQuestionnaireRestrictionViewingMode": "true",
   "enableOAuthApps": "false",
-  "enableNewChartsForAnalytics": "true"
+  "enableNewChartsForAnalytics": "true",
+  "enableExperienceMigration": "false",
+  "enableDeveloperProductsMigration": "false"
 }
