@@ -6795,6 +6795,8 @@
   "FFlagNotClearHSRInStudio": "True",
   "FFlagReportDevConsoleOpenClose": "True",
   "FFlagFixRichTextLinebreakIndentation2": "False",
+  "FFlagSharedStringStatsGranularDeserialize": "False",
+  "FFlagSharedStringStatsGranularDeserialize_DataCenterFilter": "True;213;214",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -7189,8 +7191,8 @@
   "DFFlagPredictedOOMMessage": "False",
   "FFlagLuaBridgePropertyProfiling": "False",
   "FFlagLuaBridgeMethodProfiling": "False",
-  "FStringFlagRepoGitHashFastString": "dffbaf66f8968bbcb88e16590de5d0b2d492ee23",
-  "DFStringFlagRepoGitHashDynamicString": "dffbaf66f8968bbcb88e16590de5d0b2d492ee23",
-  "FStringFlipTimeStampFastString": "2022-05-18T17:06:08.247Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-18T17:06:08.247Z"
+  "FStringFlagRepoGitHashFastString": "d8e91c40ef8728981125cbc32ae707f6585cec55",
+  "DFStringFlagRepoGitHashDynamicString": "d8e91c40ef8728981125cbc32ae707f6585cec55",
+  "FStringFlipTimeStampFastString": "2022-05-18T17:23:11.184Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-18T17:23:11.184Z"
 }
