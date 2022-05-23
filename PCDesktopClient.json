@@ -6746,11 +6746,11 @@
   "FFlagProfileActionBarMarginsFixEnabled": "True",
   "FFlagStudioAddCookieManagerTelemetry": "True",
   "EnablePauseLogging": "True",
-  "DFIntHttpBatchLimit": "256",
+  "DFIntHttpBatchLimit": "128",
   "FFlagLuaProfile200": "True",
   "FFlagLuauLosslessClone": "True",
   "FFlagLuauDeprecateColor3toHSV": "True",
-  "DFIntHttpBatchApi_maxReqs": "8",
+  "DFIntHttpBatchApi_maxReqs": "2",
   "FFlagAddTerrainTPUsageUpdateToMaterialService": "True",
   "FFlagMacShowRobuxBalance": "True",
   "FFlagLuauCheckImplicitNumbericKeys": "True",
@@ -7171,8 +7171,8 @@
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
   "FFlagLuaAppGamePlaySessionsME": "True",
-  "FStringFlagRepoGitHashFastString": "0490e2c64c04e01fe5dd231f9bcb23830948296f",
-  "DFStringFlagRepoGitHashDynamicString": "0490e2c64c04e01fe5dd231f9bcb23830948296f",
-  "FStringFlipTimeStampFastString": "2022-05-23T22:06:16.073Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-23T22:06:16.073Z"
+  "FStringFlagRepoGitHashFastString": "e668f86f6d420328bb9ec836f0b613b2d08fb8e2",
+  "DFStringFlagRepoGitHashDynamicString": "e668f86f6d420328bb9ec836f0b613b2d08fb8e2",
+  "FStringFlipTimeStampFastString": "2022-05-23T22:39:24.563Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-23T22:39:24.563Z"
 }
