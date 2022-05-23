@@ -6782,7 +6782,7 @@
   "FFlagSocialAddFriendshipRequestEvent_v2": "True",
   "DFFlagDebugStudioReportSerializationTime_PlaceFilter": "True;9551928577",
   "FFlagLuauSetMetaTableArgsCheck": "True",
-  "FIntLuaAppOmniSearchApiPercentageRollout": "25",
+  "FIntLuaAppOmniSearchApiPercentageRollout": "50",
   "FFlagLuauLintGlobalNeverReadBeforeWritten": "True",
   "FFlagLockThreadDelay": "True",
   "FFlagSessionRemoveSessionsWithMetadataKey": "True",
@@ -6870,6 +6870,7 @@
   "DFIntClientNetworkInfluxHundredthsPercentage_PlaceFilter": "1000;9281971995;7665856814",
   "DFFlagVoiceChatPeerConnectionInvalidateTurnAuth": "True",
   "FFlagCloudsFixStereoProjection": "True",
+  "FFlagUseGenericSendEventForPushNotifications": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7111,8 +7112,8 @@
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
   "FFlagLuaAppGamePlaySessionsME": "True",
-  "FStringFlagRepoGitHashFastString": "4b6a78e95a149024ff08f7fdf403a71df07f947d",
-  "DFStringFlagRepoGitHashDynamicString": "4b6a78e95a149024ff08f7fdf403a71df07f947d",
-  "FStringFlipTimeStampFastString": "2022-05-23T20:21:45.280Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-23T20:21:45.280Z"
+  "FStringFlagRepoGitHashFastString": "99cf16be5bb07d1e296360abe4add12ebed0d910",
+  "DFStringFlagRepoGitHashDynamicString": "99cf16be5bb07d1e296360abe4add12ebed0d910",
+  "FStringFlipTimeStampFastString": "2022-05-23T20:36:36.348Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-23T20:36:36.348Z"
 }
