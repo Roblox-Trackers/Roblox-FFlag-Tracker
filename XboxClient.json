@@ -4433,7 +4433,7 @@
   "FFlagMegaReplicatorCacheStreamingEnabled": "True",
   "FFlagUseNewAssetPermissionEndpoint3": "True",
   "DFFlagGraphicsD3D11OptimizeSingleThreadTextureUpload": "True",
-  "FFlagStudioDisableMipMapsOnMac": "True",
+  "FFlagStudioDisableMipMapsOnMac": "False",
   "FFlagPackageHighestPermissionToAssetPermissionApi": "True",
   "FFlagEnableTaskLibraryCrashFixes": "True",
   "FFlagFlushDeferQueueOnInput": "True",
@@ -7147,8 +7147,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "09de521861ec439b5a46a26da97c53dc6a26d649",
-  "DFStringFlagRepoGitHashDynamicString": "09de521861ec439b5a46a26da97c53dc6a26d649",
-  "FStringFlipTimeStampFastString": "2022-05-24T22:03:08.657Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-24T22:03:08.657Z"
+  "FStringFlagRepoGitHashFastString": "a49b6b240dbbcaca0ed29d8b06220dd9d8e6d972",
+  "DFStringFlagRepoGitHashDynamicString": "a49b6b240dbbcaca0ed29d8b06220dd9d8e6d972",
+  "FStringFlipTimeStampFastString": "2022-05-24T22:19:04.853Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-24T22:19:04.853Z"
 }
