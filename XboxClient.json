@@ -6974,6 +6974,10 @@
   "DFIntMarketplaceOwnershipHasAssetMigrationRolloutHundredthsPercentage": "10",
   "FIntCanManageLuaRolloutPercentage_PlaceFilter": "100;9734087209",
   "FFlagUWPNotifyUnhandledError": "True",
+  "DFFlagMegaReplicatorLogDisconnectCleanUp": "False",
+  "DFFlagMegaReplicatorLogDisconnectCleanUp_DataCenterFilter": "True;332",
+  "DFLogMegaReplicatorLogDisconnectCleanUpLog": "0",
+  "DFLogMegaReplicatorLogDisconnectCleanUpLog_DataCenterFilter": "7;332",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7215,8 +7219,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "25a9e596af0e42f38bc7fc41297bc8c3a982207f",
-  "DFStringFlagRepoGitHashDynamicString": "25a9e596af0e42f38bc7fc41297bc8c3a982207f",
-  "FStringFlipTimeStampFastString": "2022-05-26T22:56:12.842Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-26T22:56:12.842Z"
+  "FStringFlagRepoGitHashFastString": "758adc2db430e7854e27feeab292d2c26e78d09c",
+  "DFStringFlagRepoGitHashDynamicString": "758adc2db430e7854e27feeab292d2c26e78d09c",
+  "FStringFlipTimeStampFastString": "2022-05-26T23:11:24.548Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-26T23:11:24.548Z"
 }
