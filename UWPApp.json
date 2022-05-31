@@ -6643,7 +6643,7 @@
   "FFlagMacHardwareCursorSupport": "True",
   "FFlagStopQueryingMouseLockLabelForPlayer": "True",
   "FFlagUWPLaunchSocialLinks": "True",
-  "DFFlagReportFailuresInClientJoinAll": "False",
+  "DFFlagReportFailuresInClientJoinAll": "True",
   "FFlagLuauRecursionLimitException": "True",
   "FFlagEnableAnimationClipAccelerator2": "True",
   "FFlagAvatarAutocompleteIXPBugfix": "True",
@@ -6997,7 +6997,6 @@
   "DFLogNamedMutex": "6",
   "FFlagUserTransparencyControllerDeltaTime": "False",
   "FFlagEnableiOSExperimentSupport": "True",
-  "DFFlagReportFailuresInClientJoinAll_DataCenterFilter": "True;246;283",
   "FFlagCreateAnimationFromVideoBetaFeature": "True",
   "FIntCreateAnimationFromVideoBetaFeatureRoleSet": "1",
   "FIntCreateAnimationFromVideoBetaFeatureRolloutPercent": "0",
@@ -7251,8 +7250,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "8197dfee029aa33645c44009bf6cad4706a01a25",
-  "DFStringFlagRepoGitHashDynamicString": "8197dfee029aa33645c44009bf6cad4706a01a25",
-  "FStringFlipTimeStampFastString": "2022-05-31T22:09:43.866Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-31T22:09:43.866Z"
+  "FStringFlagRepoGitHashFastString": "7ed2e2d452ad23c099e098f77674cdcc4ad395e2",
+  "DFStringFlagRepoGitHashDynamicString": "7ed2e2d452ad23c099e098f77674cdcc4ad395e2",
+  "FStringFlipTimeStampFastString": "2022-05-31T22:12:51.730Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-31T22:12:51.730Z"
 }
