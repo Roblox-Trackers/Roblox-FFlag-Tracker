@@ -7012,6 +7012,11 @@
   "FStringHttpRetryOverridesDsv2Static_PlaceFilter": "429:GET:api.roblox.com:/marketplace/game-pass-product-info:none::;8357510970",
   "FFlagAssemblyAllowBroadphaseExclusion2": "False",
   "FFlagAssemblyAllowBroadphaseExclusion2_PlaceFilter": "True;2413927524;6737970321",
+  "FFlagRenderEnvMapPBRFixVulkanValidation": "True",
+  "DFFlagReportTopReplicationContainerAndAvatarStats": "False",
+  "DFFlagReportTopReplicationContainerAndAvatarStats_DataCenterFilter": "True;213",
+  "DFIntReportTopReplicationContainerAndAvatarStatsHundredths": "0",
+  "DFIntReportTopReplicationContainerAndAvatarStatsHundredths_DataCenterFilter": "50;213",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7295,8 +7300,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "7ed2e2d452ad23c099e098f77674cdcc4ad395e2",
-  "DFStringFlagRepoGitHashDynamicString": "7ed2e2d452ad23c099e098f77674cdcc4ad395e2",
-  "FStringFlipTimeStampFastString": "2022-05-31T22:12:51.730Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-31T22:12:51.730Z"
+  "FStringFlagRepoGitHashFastString": "79fc94fdbf0fbe8a874fec7223371e72e05327f2",
+  "DFStringFlagRepoGitHashDynamicString": "79fc94fdbf0fbe8a874fec7223371e72e05327f2",
+  "FStringFlipTimeStampFastString": "2022-05-31T22:14:55.086Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-31T22:14:55.086Z"
 }
