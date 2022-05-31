@@ -6808,7 +6808,6 @@
   "FFlagToolboxHomeViewAnalyticsUpdate": "True",
   "FFlagBootcampCLI53500": "True",
   "FFlagStudioTaskRegistrationForStartPlaySolo": "True",
-  "FFlagQueryNearestTriangleFix_PlaceFilter": "True;9366850275;9597802131",
   "FFlagPatchEACBlock": "True",
   "FFlagFixBlackImageEtc2": "True",
   "FFlagGamepadCursorAPIs2": "True",
@@ -6982,6 +6981,7 @@
   "FFlagLuauAlwaysQuantify": "True",
   "FFlagLuauNormalizeFlagIsConservative": "True",
   "FFlagMeshPartAlternateMesh2": "True",
+  "FFlagQueryNearestTriangleFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -7380,8 +7380,8 @@
   "EnableStartGameWithParams": "True",
   "HandleSecureCookie": "True",
   "DFFlagSessionTelemetryPredictedOOMCounter": "True",
-  "FStringFlagRepoGitHashFastString": "cc25986d72b6660bb8c4d04f3f8bd6e2732e545f",
-  "DFStringFlagRepoGitHashDynamicString": "cc25986d72b6660bb8c4d04f3f8bd6e2732e545f",
-  "FStringFlipTimeStampFastString": "2022-05-31T16:14:58.920Z",
-  "DFStringFlipTimeStampDynamicString": "2022-05-31T16:14:58.920Z"
+  "FStringFlagRepoGitHashFastString": "1a61ee28727f11f638263cb0be05d4e640812826",
+  "DFStringFlagRepoGitHashDynamicString": "1a61ee28727f11f638263cb0be05d4e640812826",
+  "FStringFlipTimeStampFastString": "2022-05-31T16:16:59.103Z",
+  "DFStringFlipTimeStampDynamicString": "2022-05-31T16:16:59.103Z"
 }
