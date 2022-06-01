@@ -7044,7 +7044,7 @@
   "FFlagGetProductInfoV2": "True",
   "FFlagFacialAnimationDirectImportCheckAttr": "True",
   "DFFlagMacWebViewTelemetryEnabled": "True",
-  "DFIntMacWebViewTelemetryThrottleHundredthsPercent": "1000",
+  "DFIntMacWebViewTelemetryThrottleHundredthsPercent": "10000",
   "FFlagFixLinksWithPurchaseViewOpen": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -7310,8 +7310,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "9f08b1de8c2e92a0c0acfa05a8530fa9da0fa746",
-  "DFStringFlagRepoGitHashDynamicString": "9f08b1de8c2e92a0c0acfa05a8530fa9da0fa746",
-  "FStringFlipTimeStampFastString": "2022-06-01T22:52:22.895Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-01T22:52:22.895Z"
+  "FStringFlagRepoGitHashFastString": "c8ce53b581e8dd680ad903ebecc828bae4f770c9",
+  "DFStringFlagRepoGitHashDynamicString": "c8ce53b581e8dd680ad903ebecc828bae4f770c9",
+  "FStringFlipTimeStampFastString": "2022-06-01T22:57:57.521Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-01T22:57:57.521Z"
 }
