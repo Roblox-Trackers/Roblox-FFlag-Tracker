@@ -7035,6 +7035,8 @@
   "DFIntOAuth2MetadataHttpRequestTelemetryHundredthsPercent": "10000",
   "FFlagAssetImporterFixPivotAndInsertLocations2": "True",
   "DFFlagTPDefaultSpecularFix": "True",
+  "DFIntDebuggerEventsThrottleHundredthPercent": "2000",
+  "FFlagDebuggerV2ReportAnalytics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7368,8 +7370,8 @@
   "FFlagSuspendGameAudioOnBackground": "True",
   "DFFlagSessionTelemetryPredictedOOMCounter": "True",
   "FFlagFriendsCarouselEnabled_v0": "True",
-  "FStringFlagRepoGitHashFastString": "ed801196d85605e4bb0f937a9fdddb6d49082b65",
-  "DFStringFlagRepoGitHashDynamicString": "ed801196d85605e4bb0f937a9fdddb6d49082b65",
-  "FStringFlipTimeStampFastString": "2022-06-01T21:15:03.953Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-01T21:15:03.953Z"
+  "FStringFlagRepoGitHashFastString": "3b623eda68fbc1efb10b81729af571b163d31918",
+  "DFStringFlagRepoGitHashDynamicString": "3b623eda68fbc1efb10b81729af571b163d31918",
+  "FStringFlipTimeStampFastString": "2022-06-01T21:16:48.600Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-01T21:16:48.600Z"
 }
