@@ -5901,7 +5901,7 @@
   "FFlagStudioEnableQuickSaveToContext2": "True",
   "FFlagLuauWidenIfSupertypeIsFree2": "True",
   "FFlagFixGroupGamesDisappearAfterCancel": "True",
-  "FFlagLuauUnsealedTableLiteral": "False",
+  "FFlagLuauUnsealedTableLiteral": "True",
   "FFlagLuauDiscriminableUnions2": "True",
   "FFlagStudioFixTCCancelCrash": "True",
   "DFIntReportStreamingObserverReplicatorDisconnectCapacityProblemHundrethsPercentage": "100",
@@ -6652,7 +6652,7 @@
   "FFlagAnimationLodFacsEnabled_PlaceFilter": "True;9299262749;9366850275;9597802131;9792029805;9718631602",
   "FFlagRenderTC2_CatchOOM": "True",
   "FFlagEnableAnimationClipAccelerator2_DataCenterFilter": "True;356",
-  "FFlagLuauSubtypingAddOptPropsToUnsealedTables": "False",
+  "FFlagLuauSubtypingAddOptPropsToUnsealedTables": "True",
   "DFFlagVoiceChatPeerConnectionSubFailureClassification": "True",
   "FFlagAudioPrivacyCleanUp2": "True",
   "FFlagLuauCompileSupportInlining": "True",
@@ -7351,8 +7351,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "f3c35d767716dd9796aaac5b152945c97504d403",
-  "DFStringFlagRepoGitHashDynamicString": "f3c35d767716dd9796aaac5b152945c97504d403",
-  "FStringFlipTimeStampFastString": "2022-06-02T16:49:57.561Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-02T16:49:57.561Z"
+  "FStringFlagRepoGitHashFastString": "0d638cbec175f333c4ee6fdf4269c90a5c9a3598",
+  "DFStringFlagRepoGitHashDynamicString": "0d638cbec175f333c4ee6fdf4269c90a5c9a3598",
+  "FStringFlipTimeStampFastString": "2022-06-02T16:57:06.384Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-02T16:57:06.384Z"
 }
