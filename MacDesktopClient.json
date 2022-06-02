@@ -7062,6 +7062,12 @@
   "FFlagTerrain_UnpackOnDemand3": "True",
   "FFlagToolboxFixDragInsertRemains": "True",
   "FFlagAssetConfigDynamicDistributionQuotas": "True",
+  "DFFlagCLI52064Experiment": "False",
+  "DFFlagCLI52064Experiment_PlaceFilter": "True;6529825991",
+  "DFIntDebugCLI52064ReceiveUS": "0",
+  "DFIntDebugCLI52064ReceiveUS_PlaceFilter": "10000;6529825991",
+  "DFIntDebugCLI52064TransmitUS": "0",
+  "DFIntDebugCLI52064TransmitUS_PlaceFilter": "10000;6529825991",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7325,8 +7331,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "6a6facd3cfdbe944c77f7c6ba3fcdd5a687e8bbc",
-  "DFStringFlagRepoGitHashDynamicString": "6a6facd3cfdbe944c77f7c6ba3fcdd5a687e8bbc",
-  "FStringFlipTimeStampFastString": "2022-06-02T16:35:23.198Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-02T16:35:23.198Z"
+  "FStringFlagRepoGitHashFastString": "2d8a2189d2039acde05f96cf30bfef5f87750ad6",
+  "DFStringFlagRepoGitHashDynamicString": "2d8a2189d2039acde05f96cf30bfef5f87750ad6",
+  "FStringFlipTimeStampFastString": "2022-06-02T16:36:55.568Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-02T16:36:55.568Z"
 }
