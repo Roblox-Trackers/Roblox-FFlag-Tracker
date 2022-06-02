@@ -7053,6 +7053,10 @@
   "DFFlagSessionTelemetrySID": "True",
   "FFlagReportStudioInstancesCountWithStartSummary": "True",
   "FFlagStudioReportMemoryInfo2": "True",
+  "FFlagRCCUseRobloxTelemetryForSaveMetric": "True",
+  "FFlagStudioCountRetriesWhenConnectedToMatchmaker": "True",
+  "FFlagStudioMoveDMInitialStreamDoneLocation": "True",
+  "FFlagStudioReportMismatchedPerformanceMeasurementEvents": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7385,8 +7389,8 @@
   "FFlagSuspendGameAudioOnBackground": "True",
   "DFFlagSessionTelemetryPredictedOOMCounter": "True",
   "FFlagFriendsCarouselEnabled_v0": "True",
-  "FStringFlagRepoGitHashFastString": "8bafcf6547a8b50d4aa23a2eb55cfc2ac8a075e7",
-  "DFStringFlagRepoGitHashDynamicString": "8bafcf6547a8b50d4aa23a2eb55cfc2ac8a075e7",
-  "FStringFlipTimeStampFastString": "2022-06-02T16:05:03.199Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-02T16:05:03.199Z"
+  "FStringFlagRepoGitHashFastString": "d93931f7984de3c51671f686744c7d9cd2934921",
+  "DFStringFlagRepoGitHashDynamicString": "d93931f7984de3c51671f686744c7d9cd2934921",
+  "FStringFlipTimeStampFastString": "2022-06-02T16:13:47.040Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-02T16:13:47.040Z"
 }
