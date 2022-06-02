@@ -6865,7 +6865,7 @@
   "FFlagDisableIOSNativeLocaleFetch": "True",
   "FFlagACEUseCFrameAPI": "True",
   "FFlagLogCreateHumanoidModelFailures": "True",
-  "FFlagAXInitializationMutedError": "True",
+  "FFlagAXInitializationMutedError": "False",
   "FFlagACEUseInternalPermissionForDebugging": "True",
   "FFlagAXFullScreenFocusFix": "True",
   "FFlagAXFixEmotesDarkenItemGrid": "True",
@@ -7065,6 +7065,7 @@
   "FFlagFixAuthTokenManagerMutexCrashOnMac": "True",
   "FFlagUIBloxUseNewIconSizes": "True",
   "FFlagPurchaseGamePromptUseDeprecatedTheme": "True",
+  "FFlagLuauParserFunctionKeywordAsTypeHelp": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -7461,8 +7462,8 @@
   "HandleSecureCookie": "True",
   "DFFlagSessionTelemetryPredictedOOMCounter": "True",
   "FFlagFriendsCarouselEnabled_v0": "True",
-  "FStringFlagRepoGitHashFastString": "184756015717d9c77e7a3749e15cf3dc66443972",
-  "DFStringFlagRepoGitHashDynamicString": "184756015717d9c77e7a3749e15cf3dc66443972",
-  "FStringFlipTimeStampFastString": "2022-06-02T18:19:19.499Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-02T18:19:19.499Z"
+  "FStringFlagRepoGitHashFastString": "4fbe45a28804dba46b881be5a45f2a7fbe1a11fa",
+  "DFStringFlagRepoGitHashDynamicString": "4fbe45a28804dba46b881be5a45f2a7fbe1a11fa",
+  "FStringFlipTimeStampFastString": "2022-06-02T18:22:52.015Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-02T18:22:52.015Z"
 }
