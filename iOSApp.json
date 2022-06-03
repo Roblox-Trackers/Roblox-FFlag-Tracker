@@ -6828,7 +6828,6 @@
   "FFlagAutocompleteDetailViewScrollbarBugfix": "True",
   "FFlagDontUseVectorAsQueue": "True",
   "FFlagStudioMoveBetaFeaturesDialog": "True",
-  "FFlagLuaAppGridHomePage2": "False",
   "FFlagAlwaysCountDocViewLinesForEstimate": "True",
   "DFFlagTestServiceChecks": "True",
   "FFlagQt515DeprecationEffort": "True",
@@ -7092,6 +7091,7 @@
   "DFIntDebugCLI52064ReceiveUS_DataCenterFilter": "1000;332",
   "DFIntDebugCLI52064TransmitUS": "0",
   "DFIntDebugCLI52064TransmitUS_DataCenterFilter": "1000;332",
+  "FFlagLuaAppGridHomePage3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7424,8 +7424,8 @@
   "FFlagSuspendGameAudioOnBackground": "True",
   "DFFlagSessionTelemetryPredictedOOMCounter": "True",
   "FFlagFriendsCarouselEnabled_v0": "True",
-  "FStringFlagRepoGitHashFastString": "ccc80040d22bb18e3e7218483673c648541b126a",
-  "DFStringFlagRepoGitHashDynamicString": "ccc80040d22bb18e3e7218483673c648541b126a",
-  "FStringFlipTimeStampFastString": "2022-06-03T17:17:23.688Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-03T17:17:23.688Z"
+  "FStringFlagRepoGitHashFastString": "b8d92eba8dcb4262a631d65ec4efd4a20582d8ef",
+  "DFStringFlagRepoGitHashDynamicString": "b8d92eba8dcb4262a631d65ec4efd4a20582d8ef",
+  "FStringFlipTimeStampFastString": "2022-06-03T17:23:50.835Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-03T17:23:50.835Z"
 }
