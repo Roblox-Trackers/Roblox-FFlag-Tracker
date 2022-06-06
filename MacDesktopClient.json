@@ -6924,7 +6924,7 @@
   "FFlagToolboxAssetConfigurationFixPriceToggle": "True",
   "FFlagToolboxAssetConfigurationMatchPluginFlow": "True",
   "FFlagEnableLocaleLogging": "True",
-  "DFFlagResetChildrenOnNIIProcess2": "False",
+  "DFFlagResetChildrenOnNIIProcess2": "True",
   "DFFlagFixReparentingReplicationWithStreaming": "False",
   "FFlagMarkerCurveEnableEvents": "True",
   "FFlagMarkerCurveRefactor": "True",
@@ -7099,7 +7099,6 @@
   "FFlagDevFrameworkStaticSplitPane": "True",
   "FFlagWebrtcCapabilityLockFix": "True",
   "FFlagGraphicsGLUseDefaultVAO": "True",
-  "DFFlagResetChildrenOnNIIProcess2_DataCenterFilter": "True;235",
   "FFlagLuauOnlyMutateInstantiatedTables": "True",
   "FFlagLuauApplyTypeFunctionFix": "True",
   "AllowVideoPreRoll": "True",
@@ -7356,8 +7355,8 @@
   "FFlagTerrainTintMask": "True",
   "FFlagMaterialPack2022Update": "True",
   "FFlagUnifyPartTerrainTP": "True",
-  "FStringFlagRepoGitHashFastString": "7df63e8691514be683a4b0e495b16e24534f43f1",
-  "DFStringFlagRepoGitHashDynamicString": "7df63e8691514be683a4b0e495b16e24534f43f1",
-  "FStringFlipTimeStampFastString": "2022-06-06T18:24:37.758Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-06T18:24:37.758Z"
+  "FStringFlagRepoGitHashFastString": "efba3d5dd615170fb5e26519432933e80eca6dc9",
+  "DFStringFlagRepoGitHashDynamicString": "efba3d5dd615170fb5e26519432933e80eca6dc9",
+  "FStringFlipTimeStampFastString": "2022-06-06T18:33:58.217Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-06T18:33:58.217Z"
 }
