@@ -7002,10 +7002,8 @@
   "FStringHttpRetryOverridesDsv2Static": "",
   "FStringHttpRetryOverridesDsv2Static_PlaceFilter": "429:GET:api.roblox.com:/marketplace/game-pass-product-info:none::;8357510970",
   "FFlagRenderEnvMapPBRFixVulkanValidation": "True",
-  "DFFlagReportTopReplicationContainerAndAvatarStats": "False",
-  "DFFlagReportTopReplicationContainerAndAvatarStats_DataCenterFilter": "True;213",
-  "DFIntReportTopReplicationContainerAndAvatarStatsHundredths": "0",
-  "DFIntReportTopReplicationContainerAndAvatarStatsHundredths_DataCenterFilter": "50;213",
+  "DFFlagReportTopReplicationContainerAndAvatarStats": "True",
+  "DFIntReportTopReplicationContainerAndAvatarStatsHundredths": "1",
   "FFlagStringCompletionsForGetPropertyChangedSignal": "True",
   "FFlagCLI53167Client": "False",
   "FFlagHttpRbxApiServiceDevelopWhitelistedOnAllBuilds": "True",
@@ -7443,8 +7441,8 @@
   "FFlagSuspendGameAudioOnBackground": "True",
   "DFFlagSessionTelemetryPredictedOOMCounter": "True",
   "FFlagFriendsCarouselEnabled_v0": "True",
-  "FStringFlagRepoGitHashFastString": "20261a35983a0531a67bc88c8b01bcb79a5aa60f",
-  "DFStringFlagRepoGitHashDynamicString": "20261a35983a0531a67bc88c8b01bcb79a5aa60f",
-  "FStringFlipTimeStampFastString": "2022-06-06T22:46:20.505Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-06T22:46:20.505Z"
+  "FStringFlagRepoGitHashFastString": "a4b01a9ac49c473ac06e8e37bc15607e6a477de4",
+  "DFStringFlagRepoGitHashDynamicString": "a4b01a9ac49c473ac06e8e37bc15607e6a477de4",
+  "FStringFlipTimeStampFastString": "2022-06-06T22:50:30.817Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-06T22:50:30.817Z"
 }
