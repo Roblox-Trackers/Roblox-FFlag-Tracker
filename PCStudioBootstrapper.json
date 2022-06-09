@@ -8,7 +8,7 @@
   "FFlagWindowsLaunchTypeAnalytics": "True",
   "FFlagBootstrapperQuitOnDirectXExpiration": "False",
   "FFlagEnableCheckingOnDisabledChannels": "True",
-  "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115",
+  "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test",
   "FFlagBootstrapperSaveOptOutDUAR": "True",
   "FFlagBootstrapperAutoOptIn": "True",
   "FFlagBootstrapperReportForceShutDownApp": "True",
@@ -35,8 +35,8 @@
   "InfluxInstallHundredthsPercentage": "1",
   "FFlagWindowsInstallerEnableDpiAwareness": "True",
   "FFlagWindowsMonitorAnalytics": "True",
-  "FStringFlagRepoGitHashFastString": "8b146223035a367cd28db8b2a1f96a8508a747f9",
-  "DFStringFlagRepoGitHashDynamicString": "8b146223035a367cd28db8b2a1f96a8508a747f9",
-  "FStringFlipTimeStampFastString": "2022-06-09T00:20:35.545Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-09T00:20:35.545Z"
+  "FStringFlagRepoGitHashFastString": "9e286359350cc6191841a7b46b3169b51759808c",
+  "DFStringFlagRepoGitHashDynamicString": "9e286359350cc6191841a7b46b3169b51759808c",
+  "FStringFlipTimeStampFastString": "2022-06-09T01:03:55.116Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-09T01:03:55.116Z"
 }
