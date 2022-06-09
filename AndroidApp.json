@@ -6922,7 +6922,6 @@
   "FFlagToolboxAssetConfigurationMatchPluginFlow": "True",
   "FFlagEnableLocaleLogging": "True",
   "DFFlagResetChildrenOnNIIProcess2": "False",
-  "DFFlagFixReparentingReplicationWithStreaming": "False",
   "FFlagMarkerCurveEnableEvents": "True",
   "FFlagMarkerCurveRefactor": "True",
   "FFlagStudioErrorReporterFilterJunkCallstacks": "True",
@@ -7144,6 +7143,8 @@
   "FFlagTrackerTelemetry_PlaceFilter": "True;7369597890;8199661308;9299262749;9618479321;9621863411;9642740713;9609352797",
   "DFFlagVirtualCursorReportManuallyEnabled": "True",
   "DFFlagVirtualCursorReportPlatform": "True",
+  "DFFlagFixReparentingReplicationWithStreaming2": "False",
+  "DFFlagFixReparentingReplicationWithStreaming2_DataCenterFilter": "True;299",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -7577,8 +7578,8 @@
   "DFStringCLI52218ah_PlaceFilter": "632312b51afcb4654dbd03594f849f55ca310379c5c66dfe765ea60a086effc6;4701139071;6219745799",
   "EnableGoogleUnackedPurchaseAnalyticsV2": "True",
   "FStringFriendsCarouselLoadedWithUsers": "FriendsCarouselLoadedWithUsersAndroid",
-  "FStringFlagRepoGitHashFastString": "5a2f3746de361b704cb54cde0c45d5207e738e60",
-  "DFStringFlagRepoGitHashDynamicString": "5a2f3746de361b704cb54cde0c45d5207e738e60",
-  "FStringFlipTimeStampFastString": "2022-06-09T18:14:19.868Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-09T18:14:19.868Z"
+  "FStringFlagRepoGitHashFastString": "f5d9ebb7ec58373653622fa6a545a429213929e2",
+  "DFStringFlagRepoGitHashDynamicString": "f5d9ebb7ec58373653622fa6a545a429213929e2",
+  "FStringFlipTimeStampFastString": "2022-06-09T18:22:43.507Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-09T18:22:43.507Z"
 }
