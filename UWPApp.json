@@ -3328,7 +3328,6 @@
   "FFlagAXNewInitialization": "True",
   "FFlagToolboxRemoveUnusedSuggestionsFeature": "True",
   "DFFlagGameNetFixParallelPhysicsReceiveMotorAnglesCrash": "True",
-  "FFlagDevFrameworkScrollingFrameUsePane": "True",
   "FFlagStudioPluginInstallInModel2": "True",
   "FFlagStudioCleanupUninstallPlugin": "True",
   "FFlagStudioFixPluginUpdatingNotUnloadingOldVersion": "True",
@@ -5621,7 +5620,6 @@
   "FFlagEnableLocalizationToolsStylizer2": "True",
   "DFStringPacketProcessConfigUserIdPer100": "",
   "FFlagSimCSGV3ZeroDenormalizedCoefficients": "True",
-  "FFlagDevFrameworkScrollingFrameAddPadding": "True",
   "FFlagSimRopeWinch": "True",
   "FFlagAudioVolumetricSoundsBetaFeature": "True",
   "FStringAudioVolumetricSoundsBetaFeatureUrl": "https://devforum.roblox.com/t/the-volumetric-sounds-beta-is-here/1695240",
@@ -7162,6 +7160,7 @@
   "FFlagMaterialManagerGridListView": "True",
   "FFlagMaterialManagerMaterialListFix": "True",
   "FFlagMaterialManagerSideBarHide": "True",
+  "FFlagToolboxFixTryInStudio": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7399,8 +7398,8 @@
   "FFlagMaterialPack2022Update_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
   "FFlagUnifyPartTerrainTP": "False",
   "FFlagUnifyPartTerrainTP_PlaceFilter": "True;7902470429;7278331654;9618320521;9596022975;9596060949;9596027190;9596055067",
-  "FStringFlagRepoGitHashFastString": "a3ab9df71ea98193e7b7dc31c7309dba46a87416",
-  "DFStringFlagRepoGitHashDynamicString": "a3ab9df71ea98193e7b7dc31c7309dba46a87416",
-  "FStringFlipTimeStampFastString": "2022-06-09T19:21:23.681Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-09T19:21:23.681Z"
+  "FStringFlagRepoGitHashFastString": "9fa179aecf72268717bf05c8bfd17031e9b5ae38",
+  "DFStringFlagRepoGitHashDynamicString": "9fa179aecf72268717bf05c8bfd17031e9b5ae38",
+  "FStringFlipTimeStampFastString": "2022-06-09T19:24:56.603Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-09T19:24:56.603Z"
 }
