@@ -7130,7 +7130,6 @@
   "FFlagStudioFixActivityTracker": "True",
   "FFlagUWPProcessBrowserServiceCommand": "True",
   "FStringNewInGameMenuForcedUserIds": "1698088566;3065242498;3222825754;2591622000;143967367;1155027644;2818205338;2585422222;3602648941;3602650475;3602652377;3602654351;99498493;959520514;1246724291;1062804083",
-  "FIntInfluxReportMaterialManagerHundrethPercent": "100",
   "DFFlagLogVersionNumberUsage": "true",
   "DFFlagRobloxTelemetryTagMult": "True",
   "FFlagAddCurrentMemoryInfoToCrashDetails": "True",
@@ -7145,6 +7144,9 @@
   "DFFlagVirtualCursorReportPlatform": "True",
   "DFFlagFixReparentingReplicationWithStreaming2": "False",
   "DFFlagFixReparentingReplicationWithStreaming2_DataCenterFilter": "True;299",
+  "FFlagTrackerTelemetryIncludeUserID": "False",
+  "FFlagTrackerTelemetryIncludeUserID_PlaceFilter": "True;7369597890;8199661308;9299262749;9618479321;9621863411;9642740713;9609352797",
+  "FFlagStudioGetServiceWorksFromLua2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7480,8 +7482,8 @@
   "DFFlagSessionTelemetryEventStream2": "True",
   "DFFlagVoiceChatIosAudioSessionIgnoreEventUpdate": "True",
   "FStringFriendsCarouselLoadedWithUsers": "FriendsCarouselLoadedWithUsersiOS",
-  "FStringFlagRepoGitHashFastString": "f5d9ebb7ec58373653622fa6a545a429213929e2",
-  "DFStringFlagRepoGitHashDynamicString": "f5d9ebb7ec58373653622fa6a545a429213929e2",
-  "FStringFlipTimeStampFastString": "2022-06-09T18:22:43.507Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-09T18:22:43.507Z"
+  "FStringFlagRepoGitHashFastString": "54c60eb4b74cb9340fd8c0905a7d6dab36e75ca9",
+  "DFStringFlagRepoGitHashDynamicString": "54c60eb4b74cb9340fd8c0905a7d6dab36e75ca9",
+  "FStringFlipTimeStampFastString": "2022-06-09T18:27:09.229Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-09T18:27:09.229Z"
 }
