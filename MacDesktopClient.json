@@ -7190,6 +7190,13 @@
   "DFFlagStreamingReportPerformanceStatsAddInstanceQuota_DataCenterFilter": "True;213",
   "FFlagToolboxFixAssetFetcherOnUpdate": "True",
   "FFlagToolboxRemoveSFXMonstercatBanner": "True",
+  "FFlagAlwaysCreateCorePackages": "True",
+  "FFlagClearLanguageStatsInCheck": "True",
+  "FFlagCoreScriptSyncServiceRefactor": "True",
+  "FFlagFilePathUtilsLeadingDotFix": "True",
+  "FFlagInstanceConfigResolverSupportAnalysisStats": "True",
+  "FFlagProjectMergePaths": "True",
+  "FFlagProjectMergePropertiesFaster": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7448,8 +7455,8 @@
   "FFlagLuaAppCheckUserAgreementsUpdatedOnLogin1": "True",
   "FStringSocialTabUserLoadedCounter": "RoactChatUserLoadedDUAR",
   "FIntConversationListVirtualizedRollout": "1",
-  "FStringFlagRepoGitHashFastString": "f2ca995dac77b3f71a0cf73158a50363327f7e14",
-  "DFStringFlagRepoGitHashDynamicString": "f2ca995dac77b3f71a0cf73158a50363327f7e14",
-  "FStringFlipTimeStampFastString": "2022-06-10T18:39:42.116Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-10T18:39:42.116Z"
+  "FStringFlagRepoGitHashFastString": "61bc2dbcbb865389e644358013929bc006e1906d",
+  "DFStringFlagRepoGitHashDynamicString": "61bc2dbcbb865389e644358013929bc006e1906d",
+  "FStringFlipTimeStampFastString": "2022-06-10T18:41:07.577Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-10T18:41:07.577Z"
 }
