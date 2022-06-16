@@ -6860,7 +6860,7 @@
   "FFlagTextChatServiceEnabled": "False",
   "FFlagTextChatServiceEnabled_PlaceFilter": "True;9709838535",
   "FFlagTextChatServiceEnabledRC1": "False",
-  "FFlagTextChatServiceEnabledRC1_PlaceFilter": "True;9709838535;7200003285;5796917097;2975911755;4996842343;3582601336",
+  "FFlagTextChatServiceEnabledRC1_PlaceFilter": "True;9709838535;7200003285;5796917097;2975911755;4996842343;3582601336;8303498444;7714627632;2376885433;1365404657;8554014495;9352339807;9290678431;966642236;463915360;8256362713;8993935278;8348334677;7188951129;323726530;300183019;8369888266;7195015349;9376792433",
   "FFlagInertiaAndVolumeFixEnabled": "True",
   "DFFlagReportInertiaAndVolumeFixEnabled": "True",
   "DFFlagFixInstanceQuotaTruncation": "True",
@@ -7262,8 +7262,7 @@
   "FFlagFilteredLocalSimulation3": "False",
   "FFlagFilteredLocalSimulation3_DataCenterFilter": "True;323",
   "DFFlagSetNetworkOwnershipAutoInternalVersion": "True",
-  "FFlagClientReportDownloadedBytes": "False",
-  "FFlagClientReportDownloadedBytes_DataCenterFilter": "True;213;214",
+  "FFlagClientReportDownloadedBytes": "True",
   "FFlagClientCountJdiv2Explicitly": "False",
   "FFlagClientCountJdiv2Explicitly_DataCenterFilter": "True;213;214",
   "FFlagKeyRingFileDiag": "True",
@@ -7549,8 +7548,8 @@
   "FFlagLuaAppCheckUserAgreementsUpdatedOnLogin1": "True",
   "FStringSocialTabUserLoadedCounter": "RoactChatUserLoadedDUAR",
   "FIntConversationListVirtualizedRollout": "10",
-  "FStringFlagRepoGitHashFastString": "d2de83ac894dbf897c5a63127b9bb0b64738476d",
-  "DFStringFlagRepoGitHashDynamicString": "d2de83ac894dbf897c5a63127b9bb0b64738476d",
-  "FStringFlipTimeStampFastString": "2022-06-16T17:21:23.065Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-16T17:21:23.065Z"
+  "FStringFlagRepoGitHashFastString": "ec7183a477e8e54964945205d0282601bef9e33e",
+  "DFStringFlagRepoGitHashDynamicString": "ec7183a477e8e54964945205d0282601bef9e33e",
+  "FStringFlipTimeStampFastString": "2022-06-16T17:36:00.508Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-16T17:36:00.508Z"
 }
