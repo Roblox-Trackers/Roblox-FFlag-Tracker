@@ -7259,8 +7259,7 @@
   "FFlagLCCheckCageDimensions": "True",
   "FIntLCCheckDimTolerance": "2000",
   "FFlagMacFixAnimationBugs": "True",
-  "FFlagFilteredLocalSimulation3": "False",
-  "FFlagFilteredLocalSimulation3_DataCenterFilter": "True;323",
+  "FFlagFilteredLocalSimulation3": "True",
   "DFFlagSetNetworkOwnershipAutoInternalVersion": "True",
   "FFlagClientReportDownloadedBytes": "True",
   "FFlagClientCountJdiv2Explicitly": "False",
@@ -7298,6 +7297,7 @@
   "FFlagStudioReportEndFailureOnDataModelLoadException": "True",
   "FFlagStudioSendOpenPlaceFailuresToEventIngest": "True",
   "FFlagAddDataModelCaps": "True",
+  "FFlagNewWin32WebViewToolbar": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7633,8 +7633,8 @@
   "FStringSocialTabUserLoadedCounter": "RoactChatUserLoadediOS",
   "FIntConversationListVirtualizedRollout": "10",
   "FFlagEnableHomePageUpsellCard4": "True",
-  "FStringFlagRepoGitHashFastString": "0b949f0d8204809b9bc879f4c913efddaf2a410b",
-  "DFStringFlagRepoGitHashDynamicString": "0b949f0d8204809b9bc879f4c913efddaf2a410b",
-  "FStringFlipTimeStampFastString": "2022-06-16T20:11:09.502Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-16T20:11:09.502Z"
+  "FStringFlagRepoGitHashFastString": "08e39352dd594921aa2cbdab9f08c806c683da3c",
+  "DFStringFlagRepoGitHashDynamicString": "08e39352dd594921aa2cbdab9f08c806c683da3c",
+  "FStringFlipTimeStampFastString": "2022-06-16T20:23:08.801Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-16T20:23:08.801Z"
 }
