@@ -7265,10 +7265,6 @@
   "FFlagClientCountJdiv2Explicitly": "True",
   "FFlagKeyRingFileDiag": "True",
   "DFIntCLI52064InfluxHundredthsPercentage": "10",
-  "DFIntDebugCLI52064ReceiveUS": "0",
-  "DFIntDebugCLI52064ReceiveUS_DataCenterFilter": "1000;358",
-  "DFIntDebugCLI52064TransmitUS": "0",
-  "DFIntDebugCLI52064TransmitUS_DataCenterFilter": "1000;358",
   "FFlagCLI52064Experiment2": "True",
   "FFlagAutosizedTextShouldGrowInAutosizedCanvas": "True",
   "FFlagDevFrameworkSortDragFix": "True",
@@ -7306,6 +7302,8 @@
   "DFFlagKeyRingClient": "True",
   "FFlagUWPWebProtocolSupportsModals": "True",
   "FFlagSocialTabBottomBarFix": "True",
+  "DFFlagCLI52064UseIxp": "False",
+  "DFFlagCLI52064UseIxp_DataCenterFilter": "True;358",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7564,8 +7562,8 @@
   "FFlagLuaAppCheckUserAgreementsUpdatedOnLogin1": "True",
   "FStringSocialTabUserLoadedCounter": "RoactChatUserLoadedDUAR",
   "FIntConversationListVirtualizedRollout": "10",
-  "FStringFlagRepoGitHashFastString": "e0298d77cbb1e5187e1123d741a3f558d4282fce",
-  "DFStringFlagRepoGitHashDynamicString": "e0298d77cbb1e5187e1123d741a3f558d4282fce",
-  "FStringFlipTimeStampFastString": "2022-06-16T23:47:11.609Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-16T23:47:11.609Z"
+  "FStringFlagRepoGitHashFastString": "9ada217e99ba7b54d5c764dc3a1dcdb877c8bd53",
+  "DFStringFlagRepoGitHashDynamicString": "9ada217e99ba7b54d5c764dc3a1dcdb877c8bd53",
+  "FStringFlipTimeStampFastString": "2022-06-17T16:12:56.536Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-17T16:12:56.536Z"
 }
