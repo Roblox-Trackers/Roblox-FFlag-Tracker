@@ -7043,10 +7043,8 @@
   "FFlagUwpSupportClientAppSettingsJson": "True",
   "FFlagDefaultTextRangeShouldBeZero": "True",
   "FFlagStudioGracefulFailureOnNullAuthorizationController": "True",
-  "DFFlagPathfindingLinkAnalytics2": "False",
-  "DFFlagPathfindingLinkAnalytics2_PlaceFilter": "True;9702788345;9045442825;8880619001;9290678431;1048204499;4858882918",
-  "FFlagNavigationPathfindingLink2": "False",
-  "FFlagNavigationPathfindingLink2_PlaceFilter": "True;9702788345;9045442825;8880619001;9290678431;1048204499;4858882918",
+  "DFFlagPathfindingLinkAnalytics2": "True",
+  "FFlagNavigationPathfindingLink2": "True",
   "PreventDismissingForceUpgrade": "True",
   "FFlagACEFixRenameAllPromptLabel": "True",
   "FFlagPreventHangCrashFromFailedWebLogin": "True",
@@ -7574,8 +7572,8 @@
   "FFlagLuaAppCheckUserAgreementsUpdatedOnLogin1": "True",
   "FStringSocialTabUserLoadedCounter": "RoactChatUserLoadedDUAR",
   "FIntConversationListVirtualizedRollout": "10",
-  "FStringFlagRepoGitHashFastString": "71ca9083c6138030187b1fbc1a004e993018aec1",
-  "DFStringFlagRepoGitHashDynamicString": "71ca9083c6138030187b1fbc1a004e993018aec1",
-  "FStringFlipTimeStampFastString": "2022-06-21T19:05:08.270Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-21T19:05:08.270Z"
+  "FStringFlagRepoGitHashFastString": "6b6ec44d7a83f89c81b8b117ead159f6e165c7de",
+  "DFStringFlagRepoGitHashDynamicString": "6b6ec44d7a83f89c81b8b117ead159f6e165c7de",
+  "FStringFlipTimeStampFastString": "2022-06-21T19:25:15.117Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-21T19:25:15.117Z"
 }
