@@ -7375,6 +7375,7 @@
   "FFlagFixWrapPhysicsInvalidationSignal": "True",
   "FFlagUWPFix2SVCrashing": "True",
   "FFlagThrottleVFUpdate": "True",
+  "FFlagSocialTabFixNilLengthError": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7654,8 +7655,8 @@
   "FIntConversationListVirtualizedRollout": "10",
   "FFlagLuaAppGameJoinFailureAnalytics": "True",
   "FIntLuaAppJoinGameFailureInfluxHundredthsPercentage": "1",
-  "FStringFlagRepoGitHashFastString": "9d5bf70dcba7ed165cfcc8cc60dbc0e1242c1898",
-  "DFStringFlagRepoGitHashDynamicString": "9d5bf70dcba7ed165cfcc8cc60dbc0e1242c1898",
-  "FStringFlipTimeStampFastString": "2022-06-22T22:18:36.747Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-22T22:18:36.747Z"
+  "FStringFlagRepoGitHashFastString": "b244627bd6d25cce0edc811f80a719c6b1b56fdf",
+  "DFStringFlagRepoGitHashDynamicString": "b244627bd6d25cce0edc811f80a719c6b1b56fdf",
+  "FStringFlipTimeStampFastString": "2022-06-22T22:43:33.354Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-22T22:43:33.354Z"
 }
