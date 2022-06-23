@@ -7413,6 +7413,7 @@
   "FFlagUpgradeExpChatV1_4_1": "True",
   "FFlagSessionHeartbeatEvent": "True",
   "FFlagTextChatServiceBlockingFix": "True",
+  "RemoveAppBridgeBlockingCall": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7693,8 +7694,8 @@
   "FFlagLuaAppGameJoinFailureAnalytics": "True",
   "FIntLuaAppJoinGameFailureInfluxHundredthsPercentage": "1",
   "FIntConversationListVirtualizedRollout2": "50",
-  "FStringFlagRepoGitHashFastString": "d8a9e0579c526923506d757c931971f1a00800ae",
-  "DFStringFlagRepoGitHashDynamicString": "d8a9e0579c526923506d757c931971f1a00800ae",
-  "FStringFlipTimeStampFastString": "2022-06-23T23:33:08.676Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-23T23:33:08.676Z"
+  "FStringFlagRepoGitHashFastString": "23c7d82958c732eec965ceba462a191e01e3d90a",
+  "DFStringFlagRepoGitHashDynamicString": "23c7d82958c732eec965ceba462a191e01e3d90a",
+  "FStringFlipTimeStampFastString": "2022-06-23T23:44:55.947Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-23T23:44:55.947Z"
 }
