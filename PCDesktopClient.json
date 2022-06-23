@@ -7103,7 +7103,7 @@
   "DFFlagExtentsUseSIMDFunctions": "True",
   "DFFlagUseSIMDCulling": "True",
   "FFlagFriendsCarouselFireDiagEvent": "True",
-  "DFIntCollectNumOfPrimitivesRate": "1000",
+  "DFIntCollectNumOfPrimitivesRate": "10",
   "FFlagEnableGameLaunchProtocolLeakFix": "True",
   "FFlagIxpTrackLayerStatus": "True",
   "FFlagStudioFixActivityTracker": "True",
@@ -7406,6 +7406,7 @@
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeServer": "100",
   "FFlagMyBalanceUWPV22": "True",
+  "DFFlagIntegrityCheckedProcessorCleanupProperly": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7686,8 +7687,8 @@
   "FFlagLuaAppGameJoinFailureAnalytics": "True",
   "FIntLuaAppJoinGameFailureInfluxHundredthsPercentage": "1",
   "FIntConversationListVirtualizedRollout2": "10",
-  "FStringFlagRepoGitHashFastString": "66b9445da6e3b1152fd1df276f72da7df5cefcee",
-  "DFStringFlagRepoGitHashDynamicString": "66b9445da6e3b1152fd1df276f72da7df5cefcee",
-  "FStringFlipTimeStampFastString": "2022-06-23T21:14:54.203Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-23T21:14:54.203Z"
+  "FStringFlagRepoGitHashFastString": "58f21423c5e53b20108e31c1524edaaf5a51bcb5",
+  "DFStringFlagRepoGitHashDynamicString": "58f21423c5e53b20108e31c1524edaaf5a51bcb5",
+  "FStringFlipTimeStampFastString": "2022-06-23T21:16:25.698Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-23T21:16:25.698Z"
 }
