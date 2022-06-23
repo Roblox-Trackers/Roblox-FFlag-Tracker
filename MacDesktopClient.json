@@ -7402,6 +7402,9 @@
   "DFFlagGameNetStreamingFixStreamOutPrefetchServer": "True",
   "FFlagGreyOutCollabEditingForTeamCreateOff2": "True",
   "FFlagACECurveEditorFreeZoom": "True",
+  "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSize": "100",
+  "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
+  "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeServer": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7663,8 +7666,8 @@
   "FFlagLuaAppGameJoinFailureAnalytics": "True",
   "FIntLuaAppJoinGameFailureInfluxHundredthsPercentage": "1",
   "FIntConversationListVirtualizedRollout2": "10",
-  "FStringFlagRepoGitHashFastString": "8b9d377c6e656f9e605ecc377cf935ad98228405",
-  "DFStringFlagRepoGitHashDynamicString": "8b9d377c6e656f9e605ecc377cf935ad98228405",
-  "FStringFlipTimeStampFastString": "2022-06-23T21:05:14.386Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-23T21:05:14.386Z"
+  "FStringFlagRepoGitHashFastString": "fcd0abc977c8c05bed8c70eeebe95e944803e45a",
+  "DFStringFlagRepoGitHashDynamicString": "fcd0abc977c8c05bed8c70eeebe95e944803e45a",
+  "FStringFlipTimeStampFastString": "2022-06-23T21:11:06.066Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-23T21:11:06.066Z"
 }
