@@ -7405,7 +7405,6 @@
   "FFlagUpgradeExpChatV1_4_1": "True",
   "FFlagSessionHeartbeatEvent": "True",
   "FFlagTextChatServiceBlockingFix": "True",
-  "RemoveAppBridgeBlockingCall": "True",
   "FFlagUIBloxEnableActionBarLayoutFix": "True",
   "DFFlagDurationLoggerEphemeralStat": "True",
   "FFlagStudioAddMiddleMouseAndBreakpointActionHandling": "True",
@@ -7440,6 +7439,7 @@
   "FFlagGetBTIDFromCookie": "True",
   "FFlagAXFixLogicInItemsList": "True",
   "FFlagMaterialManagerUIUXFixes": "True",
+  "FFlagUpgradeXboxToLatestRapidjson": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7702,8 +7702,8 @@
   "FIntLuaAppJoinGameFailureInfluxHundredthsPercentage": "1",
   "FIntConversationListVirtualizedRollout2": "50",
   "FFlagLuaAppEnableExperienceDetailsPageIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "fa1daa87c7ada42cc882f5464871f70e51547247",
-  "DFStringFlagRepoGitHashDynamicString": "fa1daa87c7ada42cc882f5464871f70e51547247",
-  "FStringFlipTimeStampFastString": "2022-06-27T18:13:29.325Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-27T18:13:29.325Z"
+  "FStringFlagRepoGitHashFastString": "dabf6c9085ccf039a267d19a017143b43a18a5ec",
+  "DFStringFlagRepoGitHashDynamicString": "dabf6c9085ccf039a267d19a017143b43a18a5ec",
+  "FStringFlipTimeStampFastString": "2022-06-27T18:15:49.945Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-27T18:15:49.945Z"
 }

@@ -7405,7 +7405,6 @@
   "FFlagUpgradeExpChatV1_4_1": "True",
   "FFlagSessionHeartbeatEvent": "True",
   "FFlagTextChatServiceBlockingFix": "True",
-  "RemoveAppBridgeBlockingCall": "True",
   "FFlagUIBloxEnableActionBarLayoutFix": "True",
   "DFFlagDurationLoggerEphemeralStat": "True",
   "FFlagStudioAddMiddleMouseAndBreakpointActionHandling": "True",
@@ -7440,6 +7439,9 @@
   "FFlagGetBTIDFromCookie": "True",
   "FFlagAXFixLogicInItemsList": "True",
   "FFlagMaterialManagerUIUXFixes": "True",
+  "FFlagUpgradeXboxToLatestRapidjson": "True",
+  "AndroidPrefetchRefactor": "True",
+  "FFlagScriptAnalysisWidgetMinSize": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -7880,8 +7882,8 @@
   "EnableUnpackAssetsNullFix": "True",
   "FIntConversationListVirtualizedRollout2": "50",
   "EnableSaveImageToAlbum": "True",
-  "FStringFlagRepoGitHashFastString": "fa1daa87c7ada42cc882f5464871f70e51547247",
-  "DFStringFlagRepoGitHashDynamicString": "fa1daa87c7ada42cc882f5464871f70e51547247",
-  "FStringFlipTimeStampFastString": "2022-06-27T18:13:29.325Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-27T18:13:29.325Z"
+  "FStringFlagRepoGitHashFastString": "d65bcb55419bafd3896cac138e216de92d53cc45",
+  "DFStringFlagRepoGitHashDynamicString": "d65bcb55419bafd3896cac138e216de92d53cc45",
+  "FStringFlipTimeStampFastString": "2022-06-27T18:16:10.138Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-27T18:16:10.138Z"
 }
