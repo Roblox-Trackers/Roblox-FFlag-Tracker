@@ -7436,14 +7436,7 @@
   "FFlagToolboxFixAssetsNoVoteData": "True",
   "FFlagStudioDontUploadHashOnRequestToSameSlot": "True",
   "FFlagRefactorLoadingAnimation": "True",
-  "FFlagGetBTIDFromCookie": "True",
-  "FFlagAXFixLogicInItemsList": "True",
-  "FFlagMaterialManagerUIUXFixes": "True",
-  "FFlagUpgradeXboxToLatestRapidjson": "True",
-  "AndroidPrefetchRefactor": "True",
-  "FFlagScriptAnalysisWidgetMinSize": "True",
-  "FFlagOutputWidgetMinimumSize": "True",
-  "FFlagUseLocaleFromLUA": "True",
+  "RemoveAppBridgeBlockingCall": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7727,8 +7720,8 @@
   "FFlagStreamingSolverEnable6": "False",
   "FFlagStreamingSolverEnable6_DataCenterFilter": "True;213",
   "FFlagLuaAppEnableExperienceDetailsPageIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "1412d2cd7b5ad9e91df617e6412eb0f1da95b608",
-  "DFStringFlagRepoGitHashDynamicString": "1412d2cd7b5ad9e91df617e6412eb0f1da95b608",
-  "FStringFlipTimeStampFastString": "2022-06-27T18:17:53.337Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-27T18:17:53.337Z"
+  "FStringFlagRepoGitHashFastString": "b8a1175d12200113958013753125ae083f68993a",
+  "DFStringFlagRepoGitHashDynamicString": "b8a1175d12200113958013753125ae083f68993a",
+  "FStringFlipTimeStampFastString": "2022-06-27T18:30:03.070Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-27T18:30:03.070Z"
 }
