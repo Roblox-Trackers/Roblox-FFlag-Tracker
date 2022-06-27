@@ -7417,6 +7417,10 @@
   "FFlagFixDefaultRoughness": "True",
   "FFlagEnablePlayerOwnsBundleApi": "True",
   "FFlagVideoCaptureServiceUseClients": "True",
+  "DFIntClusterSenderMaxJoinBandwidthBps": "6144000",
+  "DFIntClusterSenderMaxJoinBandwidthBps_DataCenterFilter": "61440000;332",
+  "DFIntDataSenderMaxJoinBandwidthBps": "9600000",
+  "DFIntDataSenderMaxJoinBandwidthBps_DataCenterFilter": "96000000;332",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7700,8 +7704,8 @@
   "FFlagStreamingSolverEnable6": "False",
   "FFlagStreamingSolverEnable6_DataCenterFilter": "True;213",
   "FFlagLuaAppEnableExperienceDetailsPageIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "6141a04ce9719a67be338110f9485e7a4ac4dd6b",
-  "DFStringFlagRepoGitHashDynamicString": "6141a04ce9719a67be338110f9485e7a4ac4dd6b",
-  "FStringFlipTimeStampFastString": "2022-06-27T16:13:16.449Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-27T16:13:16.449Z"
+  "FStringFlagRepoGitHashFastString": "044a2c49ac6ed5fc9b2ea21d2ac0c3cd27ec692d",
+  "DFStringFlagRepoGitHashDynamicString": "044a2c49ac6ed5fc9b2ea21d2ac0c3cd27ec692d",
+  "FStringFlipTimeStampFastString": "2022-06-27T16:14:00.169Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-27T16:14:00.169Z"
 }
