@@ -7891,6 +7891,7 @@
   "EnableInitWithParamsV2": "True",
   "EnableUnpackAssetsNullFix": "True",
   "FIntConversationListVirtualizedRollout2": "50",
+  "EnableSessionCheckThroughUserAuthenticatedEndpoint": "True",
   "FStringFlagRepoGitHashFastString": "476dc63c762a42d3fe5555cc7f86133f344fd609",
   "DFStringFlagRepoGitHashDynamicString": "476dc63c762a42d3fe5555cc7f86133f344fd609",
   "FStringFlipTimeStampFastString": "2022-06-28T16:39:14.677Z",
