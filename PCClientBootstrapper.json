@@ -29,6 +29,7 @@
   "FFlagCacheChannelForCommandLineInstall": "True",
   "FFlagStudioShipOAuth2ConfigFile": "True",
   "FFlagEnableCheckDirectXVersion2": "True",
+  "FFlagBootstrapperPassProtocolStringOnEditWebUpdate": "True",
   "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
   "FFlagBootstrapperEnableOptOutDUAR": "True",
   "DFIntCrashUploadToBacktracePercentage": "100",
@@ -41,8 +42,8 @@
   "InfluxHundredthsPercentage": "0",
   "InfluxInstallHundredthsPercentage": "10000",
   "ShowInstallSuccessPrompt": "True",
-  "FStringFlagRepoGitHashFastString": "e1b47eef80d84cb69fa45d2ced2ce5050c8dfa84",
-  "DFStringFlagRepoGitHashDynamicString": "e1b47eef80d84cb69fa45d2ced2ce5050c8dfa84",
-  "FStringFlipTimeStampFastString": "2022-06-29T22:12:21.715Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-29T22:12:21.715Z"
+  "FStringFlagRepoGitHashFastString": "5b66184933ecbc4ab05a2e90795b466b9db2b804",
+  "DFStringFlagRepoGitHashDynamicString": "5b66184933ecbc4ab05a2e90795b466b9db2b804",
+  "FStringFlipTimeStampFastString": "2022-06-29T22:14:51.224Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-29T22:14:51.224Z"
 }
