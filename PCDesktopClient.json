@@ -7487,6 +7487,7 @@
   "DFFlagVelocityAwareStreamingFix": "False",
   "DFFlagVelocityAwareStreamingFix_DataCenterFilter": "True;265",
   "FFlagSimCSGV23ReportErrorsDuringMegaAssetFetcher": "True",
+  "FFlagEnableCheckingOnDisabledChannels": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7760,8 +7761,8 @@
   "FFlagStreamingSolverEnable6": "False",
   "FFlagStreamingSolverEnable6_DataCenterFilter": "True;213",
   "FFlagLuaAppEnableExperienceDetailsPageIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "5ed6bb9a16134d5f2ba9b729ad7311fc67f3807f",
-  "DFStringFlagRepoGitHashDynamicString": "5ed6bb9a16134d5f2ba9b729ad7311fc67f3807f",
-  "FStringFlipTimeStampFastString": "2022-06-29T19:08:19.828Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-29T19:08:19.828Z"
+  "FStringFlagRepoGitHashFastString": "b64690899a982f2bc5a5e4de86f8e8007cc938e4",
+  "DFStringFlagRepoGitHashDynamicString": "b64690899a982f2bc5a5e4de86f8e8007cc938e4",
+  "FStringFlipTimeStampFastString": "2022-06-29T19:15:02.459Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-29T19:15:02.459Z"
 }
