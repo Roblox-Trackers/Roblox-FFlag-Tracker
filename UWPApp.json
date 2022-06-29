@@ -6286,7 +6286,7 @@
   "FFlagFixPrintPathWayPoint": "True",
   "FFlagFixStickyClickDetectorCursor": "True",
   "FFlagBootcampCLI52577": "True",
-  "FIntFallBackRequestAutoLoginRolloutPercent": "50",
+  "FIntFallBackRequestAutoLoginRolloutPercent": "0",
   "DFFlagPredictedOOMPressure": "True",
   "DFFlagFilterRoughnessMip0": "True",
   "FFlagRenderFixRoughnessMipTransitions": "True",
@@ -7496,6 +7496,7 @@
   "DFFlagJobCPU": "True",
   "FFlagUpdateStudioSessionLengthTracking": "True",
   "FFlagWriteBootstrapperMetrics": "True",
+  "FFlagSimCSGV3OperatorFixEmptyMeshReturns": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7718,8 +7719,8 @@
   "FIntConversationListVirtualizedRollout": "10",
   "FIntConversationListVirtualizedRollout2": "50",
   "FFlagLuaAppEnableExperienceDetailsPageIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "e93cf740571d892334e13f11f0acd77def1b0971",
-  "DFStringFlagRepoGitHashDynamicString": "e93cf740571d892334e13f11f0acd77def1b0971",
-  "FStringFlipTimeStampFastString": "2022-06-29T22:43:26.424Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-29T22:43:26.424Z"
+  "FStringFlagRepoGitHashFastString": "eba24161f2477e658ee33005fe08ded48c64de9f",
+  "DFStringFlagRepoGitHashDynamicString": "eba24161f2477e658ee33005fe08ded48c64de9f",
+  "FStringFlipTimeStampFastString": "2022-06-29T22:55:12.627Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-29T22:55:12.627Z"
 }
