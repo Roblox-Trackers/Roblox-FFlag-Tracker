@@ -7488,6 +7488,8 @@
   "DFFlagVelocityAwareStreamingFix_DataCenterFilter": "True;265",
   "FFlagSimCSGV23ReportErrorsDuringMegaAssetFetcher": "True",
   "FFlagEnableCheckingOnDisabledChannels": "True",
+  "DFFlagLuauOptimizedBytecodeClient": "True",
+  "DFFlagLuauOptimizedBytecodeRCC": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7710,8 +7712,8 @@
   "FIntRoact17Rollout8": "100",
   "FIntConversationListVirtualizedRollout": "100",
   "FIntConversationListVirtualizedRollout2": "100",
-  "FStringFlagRepoGitHashFastString": "b64690899a982f2bc5a5e4de86f8e8007cc938e4",
-  "DFStringFlagRepoGitHashDynamicString": "b64690899a982f2bc5a5e4de86f8e8007cc938e4",
-  "FStringFlipTimeStampFastString": "2022-06-29T19:15:02.459Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-29T19:15:02.459Z"
+  "FStringFlagRepoGitHashFastString": "78230716f7b52166538ce17df2427351439e1301",
+  "DFStringFlagRepoGitHashDynamicString": "78230716f7b52166538ce17df2427351439e1301",
+  "FStringFlipTimeStampFastString": "2022-06-29T19:52:28.331Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-29T19:52:28.331Z"
 }
