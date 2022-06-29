@@ -7489,6 +7489,8 @@
   "FFlagExperienceMenuABTest": "False",
   "DFFlagUpdateBroadphaseForClearTerrainWelds": "True",
   "FFlagRenderIgnoreZeroDPI": "True",
+  "DFFlagAssemblyBroadphaseExcludeCrashFix": "True",
+  "DFFlagSkipSingePartAssemblyUpdate": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7711,8 +7713,8 @@
   "FIntConversationListVirtualizedRollout": "10",
   "FIntConversationListVirtualizedRollout2": "50",
   "FFlagLuaAppEnableExperienceDetailsPageIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "710dc4b812a48c62f24c43315ba4441898afc2ae",
-  "DFStringFlagRepoGitHashDynamicString": "710dc4b812a48c62f24c43315ba4441898afc2ae",
-  "FStringFlipTimeStampFastString": "2022-06-29T22:16:54.434Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-29T22:16:54.434Z"
+  "FStringFlagRepoGitHashFastString": "6a8e7760b30a58b36c488d049de3a47de948c68c",
+  "DFStringFlagRepoGitHashDynamicString": "6a8e7760b30a58b36c488d049de3a47de948c68c",
+  "FStringFlipTimeStampFastString": "2022-06-29T22:22:11.356Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-29T22:22:11.356Z"
 }
