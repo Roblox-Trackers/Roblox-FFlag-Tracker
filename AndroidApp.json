@@ -7497,6 +7497,8 @@
   "FFlagUpdateStudioSessionLengthTracking": "True",
   "FFlagWriteBootstrapperMetrics": "True",
   "FFlagSimCSGV3OperatorFixEmptyMeshReturns": "True",
+  "FFlagMacReportBootstrapperTelemetry": "True",
+  "FIntBootstrapperTelemetryReportingHundredthsPercentage": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -7919,8 +7921,8 @@
   "EnableSessionCheckThroughUserAuthenticatedEndpoint": "True",
   "FFlagEnableAppLaunchInfoEndpoint": "True",
   "EnableSaveImageToAlbum": "True",
-  "FStringFlagRepoGitHashFastString": "25fefa7afb87bc10cc00e3fa0bb18d0899983ca1",
-  "DFStringFlagRepoGitHashDynamicString": "25fefa7afb87bc10cc00e3fa0bb18d0899983ca1",
-  "FStringFlipTimeStampFastString": "2022-06-29T23:12:05.403Z",
-  "DFStringFlipTimeStampDynamicString": "2022-06-29T23:12:05.403Z"
+  "FStringFlagRepoGitHashFastString": "10eb6e1a502b0b63a527d3f0eca6775c999958f6",
+  "DFStringFlagRepoGitHashDynamicString": "10eb6e1a502b0b63a527d3f0eca6775c999958f6",
+  "FStringFlipTimeStampFastString": "2022-06-29T23:16:44.223Z",
+  "DFStringFlipTimeStampDynamicString": "2022-06-29T23:16:44.223Z"
 }
