@@ -5113,7 +5113,7 @@
   "DFIntNetworkStopProducingPacketsToProcessThresholdMs": "0",
   "FFlagStudPerTileForTerrain": "True",
   "FFlagMaterialVariantZeroUVOffset": "True",
-  "FFlagCheckLegacyCodecUse": "True",
+  "FFlagCheckLegacyCodecUse": "False",
   "DFFlagHttpEnableTraceError2": "True",
   "DFLogHttpTraceError": "12",
   "DFFlagRakNetFixDeferPacketId": "True",
@@ -7845,8 +7845,8 @@
   "FIntLuaAppJoinGameFailureInfluxHundredthsPercentage": "1",
   "FIntConversationListVirtualizedRollout2": "100",
   "FFlagLuaAppEnableExperienceDetailsPageIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "3abebe8579ed209aa1ee5be1810664cb26a491cc",
-  "DFStringFlagRepoGitHashDynamicString": "3abebe8579ed209aa1ee5be1810664cb26a491cc",
-  "FStringFlipTimeStampFastString": "2022-07-06T23:21:09.697Z",
-  "DFStringFlipTimeStampDynamicString": "2022-07-06T23:21:09.697Z"
+  "FStringFlagRepoGitHashFastString": "18a2f6ef43199423052bacf92658467e5a341b5f",
+  "DFStringFlagRepoGitHashDynamicString": "18a2f6ef43199423052bacf92658467e5a341b5f",
+  "FStringFlipTimeStampFastString": "2022-07-06T23:44:24.177Z",
+  "DFStringFlipTimeStampDynamicString": "2022-07-06T23:44:24.177Z"
 }
