@@ -7577,6 +7577,8 @@
   "UseNewCheckAppVersionUrl": "True",
   "UseNewCheckAppVersionUrlLogging": "True",
   "FFlagCleanUpSeatWeld": "True",
+  "DFFlagClientJoinReportGroupControl": "False",
+  "DFFlagClientJoinReportGroupControl_DataCenterFilter": "True;214",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7827,8 +7829,8 @@
   "FIntLuaAppJoinGameFailureInfluxHundredthsPercentage": "1",
   "FIntConversationListVirtualizedRollout2": "100",
   "FFlagLuaAppEnableExperienceDetailsPageIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "2791ac26324fa624bcc07d3003c0e24dafea0ef4",
-  "DFStringFlagRepoGitHashDynamicString": "2791ac26324fa624bcc07d3003c0e24dafea0ef4",
-  "FStringFlipTimeStampFastString": "2022-07-07T17:25:39.782Z",
-  "DFStringFlipTimeStampDynamicString": "2022-07-07T17:25:39.782Z"
+  "FStringFlagRepoGitHashFastString": "06e5586e3e611b71451593af5f808ee611683129",
+  "DFStringFlagRepoGitHashDynamicString": "06e5586e3e611b71451593af5f808ee611683129",
+  "FStringFlipTimeStampFastString": "2022-07-07T18:05:54.158Z",
+  "DFStringFlipTimeStampDynamicString": "2022-07-07T18:05:54.158Z"
 }
