@@ -4178,7 +4178,6 @@
   "FFlagStudioSendKibanaTelemetryFromWebLogin": "True",
   "FFlagStudioReportTraceIdAsHex": "True",
   "DFFlagSignalRTimeoutReport": "False",
-  "FLogRenderTC2LogGroupFlow": "0",
   "FFlagLuauLinterTableMoveZero": "True",
   "FFlagLuauNewRequireTrace": "False",
   "FFlagXboxSyncCrossplay": "True",
@@ -8007,8 +8006,10 @@
   "FFlagEnableTouchHandlingFix": "True",
   "DisableAppOverlayBottomMargin": "True",
   "EnableNonDialogRobuxPremiumFragment": "False",
-  "FStringFlagRepoGitHashFastString": "63c23a4f37938deb709b93cd3b7c25dc22000d20",
-  "DFStringFlagRepoGitHashDynamicString": "63c23a4f37938deb709b93cd3b7c25dc22000d20",
-  "FStringFlipTimeStampFastString": "2022-07-08T00:32:32.591Z",
-  "DFStringFlipTimeStampDynamicString": "2022-07-08T00:32:32.591Z"
+  "FLogRenderTC2LogGroupFlow": "6",
+  "FLogRenderTC2LogGroupContent": "6",
+  "FStringFlagRepoGitHashFastString": "5b6febbe25204b6483d0ba5bb2e647dcdcda46a7",
+  "DFStringFlagRepoGitHashDynamicString": "5b6febbe25204b6483d0ba5bb2e647dcdcda46a7",
+  "FStringFlipTimeStampFastString": "2022-07-08T17:08:07.561Z",
+  "DFStringFlipTimeStampDynamicString": "2022-07-08T17:08:07.561Z"
 }
