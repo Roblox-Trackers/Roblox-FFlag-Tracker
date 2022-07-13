@@ -7595,6 +7595,8 @@
   "FFlagLuaAppSizesWithValidDefaults": "True",
   "FFlagLuaInviteFailOnZeroPlaceIdV384": "True",
   "DFFlagDataModelAllowSameVersionConfiguration": "True",
+  "DFFlagParallelInterpolationDeadlockFix": "True",
+  "FFlagFixExperienceNameOverlay": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7815,8 +7817,8 @@
   "FIntConversationListVirtualizedRollout": "10",
   "FIntConversationListVirtualizedRollout2": "100",
   "FFlagGraphicsDeviceEvents": "True",
-  "FStringFlagRepoGitHashFastString": "ac5666aabbefe8f2c4cf26da3e0e68a75cfec598",
-  "DFStringFlagRepoGitHashDynamicString": "ac5666aabbefe8f2c4cf26da3e0e68a75cfec598",
-  "FStringFlipTimeStampFastString": "2022-07-13T18:24:14.132Z",
-  "DFStringFlipTimeStampDynamicString": "2022-07-13T18:24:14.132Z"
+  "FStringFlagRepoGitHashFastString": "7c77d932e5aa8e72f669058dec752457313890a6",
+  "DFStringFlagRepoGitHashDynamicString": "7c77d932e5aa8e72f669058dec752457313890a6",
+  "FStringFlipTimeStampFastString": "2022-07-13T18:26:20.431Z",
+  "DFStringFlipTimeStampDynamicString": "2022-07-13T18:26:20.431Z"
 }
