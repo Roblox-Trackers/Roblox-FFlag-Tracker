@@ -7743,8 +7743,7 @@
   "FFlagEnableGameJoinFlowTelemetry": "True",
   "FFlagProjectRemoveExcludedInstances": "True",
   "EnableGameJoinFlowTelemetry": "True",
-  "FFlagCompletenessLocalModificationSupport": "False",
-  "FFlagCompletenessLocalModificationSupport_DataCenterFilter": "True;265",
+  "FFlagCompletenessLocalModificationSupport": "True",
   "FFlagSimCorrectRedundantVirtualMethod": "True",
   "FIntMaterialServiceBetaFeatureRolloutPercent": "10",
   "FFlagNewRuntimeReserveFixes1": "True",
@@ -8009,8 +8008,8 @@
   "FFlagGraphicsDeviceEvents": "False",
   "FIntLuaAppErrorReportPointsRollout": "25",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
-  "FStringFlagRepoGitHashFastString": "44cd4564b59b09d48ce3eeb599073cc8895125e7",
-  "DFStringFlagRepoGitHashDynamicString": "44cd4564b59b09d48ce3eeb599073cc8895125e7",
-  "FStringFlipTimeStampFastString": "2022-07-21T18:03:16.171Z",
-  "DFStringFlipTimeStampDynamicString": "2022-07-21T18:03:16.171Z"
+  "FStringFlagRepoGitHashFastString": "752e75dda49a54f1b37e9fa5e9ee1e16c48cd75b",
+  "DFStringFlagRepoGitHashDynamicString": "752e75dda49a54f1b37e9fa5e9ee1e16c48cd75b",
+  "FStringFlipTimeStampFastString": "2022-07-21T18:39:24.338Z",
+  "DFStringFlipTimeStampDynamicString": "2022-07-21T18:39:24.338Z"
 }
