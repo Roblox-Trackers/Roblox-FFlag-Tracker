@@ -7846,6 +7846,10 @@
   "FFlagFixNoTimeHudOnTeleport": "False",
   "FFlagFixNoTimeHudOnTeleport_DataCenterFilter": "True;213",
   "FFlagMacLocalizeAuthErrorMessages": "True",
+  "FStringFriendsCarouselRequestFriendship": "FriendsCarouselRequestFriendshipEvents",
+  "FStringFriendsCarouselRevokeFriendRequest": "FriendsCarouselRevokeFriendRequestEvents",
+  "FStringFriendsCarouselUserPressed": "FriendsCarouselUserPressedEvents",
+  "FStringHomePageNavigationViewAllFriends": "HomePageNavigationViewAllFriendsEvents",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8113,8 +8117,8 @@
   "FFlagGraphicsDeviceEvents": "True",
   "FIntLuaAppErrorReportPointsRollout": "25",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
-  "FStringFlagRepoGitHashFastString": "1c8393a85bf8a3ecaf6b6b21e83f2a28c15f19e0",
-  "DFStringFlagRepoGitHashDynamicString": "1c8393a85bf8a3ecaf6b6b21e83f2a28c15f19e0",
-  "FStringFlipTimeStampFastString": "2022-07-26T23:32:46.385Z",
-  "DFStringFlipTimeStampDynamicString": "2022-07-26T23:32:46.385Z"
+  "FStringFlagRepoGitHashFastString": "8dc6bdd97931b703a8bde8465d14243830015214",
+  "DFStringFlagRepoGitHashDynamicString": "8dc6bdd97931b703a8bde8465d14243830015214",
+  "FStringFlipTimeStampFastString": "2022-07-26T23:51:49.706Z",
+  "DFStringFlipTimeStampDynamicString": "2022-07-26T23:51:49.706Z"
 }
