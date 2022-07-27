@@ -7861,6 +7861,8 @@
   "DFFlagTextBoxServiceMasterV4AnalyticsEnabled": "True",
   "FFlagAssetImporterFixUnmount": "True",
   "FFlagStudioFixPluginRawPointers": "True",
+  "DFIntMinSoundStreamSizeBytes": "512000",
+  "DFIntMinSoundStreamSizeBytes_PlaceFilter": "150000;7902470429",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8182,8 +8184,8 @@
   "FFlagEnableV3MenuABTest": "True",
   "FFlagEnableWebviewsInUGCExperience": "True",
   "FIntProfileCardRolloutEnabled_v1": "25",
-  "FStringFlagRepoGitHashFastString": "4eaef1facc61682d70636c45f4c33ffa1e241b06",
-  "DFStringFlagRepoGitHashDynamicString": "4eaef1facc61682d70636c45f4c33ffa1e241b06",
-  "FStringFlipTimeStampFastString": "2022-07-27T23:39:45.553Z",
-  "DFStringFlipTimeStampDynamicString": "2022-07-27T23:39:45.553Z"
+  "FStringFlagRepoGitHashFastString": "f51bc5a0b8e9aff1d9dadb0874d9cf82dbf00507",
+  "DFStringFlagRepoGitHashDynamicString": "f51bc5a0b8e9aff1d9dadb0874d9cf82dbf00507",
+  "FStringFlipTimeStampFastString": "2022-07-27T23:52:11.306Z",
+  "DFStringFlipTimeStampDynamicString": "2022-07-27T23:52:11.306Z"
 }
