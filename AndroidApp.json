@@ -7852,6 +7852,7 @@
   "FStringHomePageNavigationViewAllFriends": "HomePageNavigationViewAllFriendsEvents",
   "FFlagAddFriendsNavigateBack": "True",
   "FFlagContactImporterNavigation2": "True",
+  "FFlagFixClientServerScreenOrientation2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -7946,8 +7947,8 @@
   "EnableDeviceHandleInHeaderV2": "True",
   "EnableDisplayScaling2": "True",
   "EnableEncryptedDeviceHandle": "True",
-  "EnableGameOrientationSkipInitialRequest": "True",
-  "EnableGameOrientationWithDelayInMs": "150",
+  "EnableGameOrientationSkipInitialRequest": "False",
+  "EnableGameOrientationWithDelayInMs": "0",
   "EnableGameOrientationWithInitialSensor": "True",
   "EnableGetPriceForPurchaseOnAmazon": "True",
   "EnableGetPriceForPurchaseOnGooglePlay": "True",
@@ -8283,8 +8284,8 @@
   "FStringGraphicsGLShlangExcludeListSuperHQShaders": "glsles3",
   "EnableVrModeForQuest3VrVariant": "True",
   "EnableNonDialogRobuxPremiumFragmentV2": "True",
-  "FStringFlagRepoGitHashFastString": "0787cf889ffb53ab354bb0781639cac51ef209ba",
-  "DFStringFlagRepoGitHashDynamicString": "0787cf889ffb53ab354bb0781639cac51ef209ba",
-  "FStringFlipTimeStampFastString": "2022-07-27T20:38:08.146Z",
-  "DFStringFlipTimeStampDynamicString": "2022-07-27T20:38:08.146Z"
+  "FStringFlagRepoGitHashFastString": "0dbd2c8826f1bad276c52ab06f3f2bd469cd0b00",
+  "DFStringFlagRepoGitHashDynamicString": "0dbd2c8826f1bad276c52ab06f3f2bd469cd0b00",
+  "FStringFlipTimeStampFastString": "2022-07-27T20:53:17.711Z",
+  "DFStringFlipTimeStampDynamicString": "2022-07-27T20:53:17.711Z"
 }
