@@ -551,7 +551,7 @@
   "FFlagHideThirdPartyPurchaseFailure": "True",
   "FFlagHttpClientDisconnectResultSignals": "True",
   "FFlagHttpServiceNeverCache": "True",
-  "FFlagHttpUseMinGzip": "False",
+  "FFlagHttpUseMinGzip": "True",
   "FFlagHumanoidPreventDuplicateAnimatorChildren": "True",
   "FFlagIAPProductReducerV2": "True",
   "FFlagIESuppressErrors": "True",
@@ -8091,8 +8091,8 @@
   "FIntLuaAppErrorReportPointsRollout": "50",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
   "FFlagReportLuaErrorsByPlatform2": "True",
-  "FStringFlagRepoGitHashFastString": "fefba19a85a6bfdae3745c006c4ee679cabf4c4b",
-  "DFStringFlagRepoGitHashDynamicString": "fefba19a85a6bfdae3745c006c4ee679cabf4c4b",
-  "FStringFlipTimeStampFastString": "2022-08-01T15:58:56.989Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-01T15:58:56.989Z"
+  "FStringFlagRepoGitHashFastString": "8993c807f28175e7f38d3b6764ece045e4853671",
+  "DFStringFlagRepoGitHashDynamicString": "8993c807f28175e7f38d3b6764ece045e4853671",
+  "FStringFlipTimeStampFastString": "2022-08-01T15:59:36.047Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-01T15:59:36.047Z"
 }
