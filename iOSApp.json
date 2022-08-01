@@ -7868,6 +7868,8 @@
   "FFlagFixContentProviderOrphanedMemory": "True",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FFlagUITextureRespectDpiScale": "True",
+  "FFlagLuaAppDisableACSessionRestartOnSearchCleared": "True",
+  "FFlagLuaAppPlayButtonOnTile2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8189,8 +8191,8 @@
   "FFlagEnableWebviewsInUGCExperience": "True",
   "FIntProfileCardRolloutEnabled_v1": "100",
   "FFlagUniversalAppMenuCsat": "False",
-  "FStringFlagRepoGitHashFastString": "b50a6af6433b584d92ecb28a76a3ed2aab03a629",
-  "DFStringFlagRepoGitHashDynamicString": "b50a6af6433b584d92ecb28a76a3ed2aab03a629",
-  "FStringFlipTimeStampFastString": "2022-08-01T18:27:24.756Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-01T18:27:24.756Z"
+  "FStringFlagRepoGitHashFastString": "599104701b14f7fc687855aa21330d3caf9d810d",
+  "DFStringFlagRepoGitHashDynamicString": "599104701b14f7fc687855aa21330d3caf9d810d",
+  "FStringFlipTimeStampFastString": "2022-08-01T18:36:21.339Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-01T18:36:21.339Z"
 }
