@@ -7843,8 +7843,7 @@
   "DFFlagReportGameJoinBandwidthUsage": "False",
   "DFFlagReportGameJoinBandwidthUsage_DataCenterFilter": "True;322",
   "DFFlagAudioToggleVolumetricPanning": "True",
-  "FFlagFixNoTimeHudOnTeleport": "False",
-  "FFlagFixNoTimeHudOnTeleport_DataCenterFilter": "True;213;322",
+  "FFlagFixNoTimeHudOnTeleport": "True",
   "FFlagMacLocalizeAuthErrorMessages": "True",
   "FStringFriendsCarouselRequestFriendship": "FriendsCarouselRequestFriendshipEvents",
   "FStringFriendsCarouselRevokeFriendRequest": "FriendsCarouselRevokeFriendRequestEvents",
@@ -8120,8 +8119,8 @@
   "FFlagGraphicsDeviceEvents": "False",
   "FIntLuaAppErrorReportPointsRollout": "50",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
-  "FStringFlagRepoGitHashFastString": "64564463bd5bf14d1f7bcb4ffa78187056889984",
-  "DFStringFlagRepoGitHashDynamicString": "64564463bd5bf14d1f7bcb4ffa78187056889984",
-  "FStringFlipTimeStampFastString": "2022-08-01T17:32:40.962Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-01T17:32:40.962Z"
+  "FStringFlagRepoGitHashFastString": "c1460d6c8acccb3e191b5088dd244c13c25c8d16",
+  "DFStringFlagRepoGitHashDynamicString": "c1460d6c8acccb3e191b5088dd244c13c25c8d16",
+  "FStringFlipTimeStampFastString": "2022-08-01T17:50:21.393Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-01T17:50:21.393Z"
 }
