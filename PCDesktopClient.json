@@ -7873,6 +7873,9 @@
   "FFlagLuauCompileNoIpairs": "True",
   "FFlagWaveEmoteOnAvatarContextMenuWithExpChat": "True",
   "FFlagInertiaAndVolumeFixEnabledForce": "True",
+  "FFlagFaceAnimatorEnableA2CInitialization": "True",
+  "FFlagVideoCaptureCheckPermissionsBeforeOpen": "True",
+  "FFlagVideoCaptureServicePushStreamBeforeOpen": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8139,8 +8142,8 @@
   "FFlagGraphicsDeviceEvents": "True",
   "FIntLuaAppErrorReportPointsRollout": "50",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
-  "FStringFlagRepoGitHashFastString": "7b0638b1c1cd9e0f6235f454ae510332d97c6c35",
-  "DFStringFlagRepoGitHashDynamicString": "7b0638b1c1cd9e0f6235f454ae510332d97c6c35",
-  "FStringFlipTimeStampFastString": "2022-08-01T19:26:56.848Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-01T19:26:56.848Z"
+  "FStringFlagRepoGitHashFastString": "d2919407b5d36d659089d2c36eb24cee586d967a",
+  "DFStringFlagRepoGitHashDynamicString": "d2919407b5d36d659089d2c36eb24cee586d967a",
+  "FStringFlipTimeStampFastString": "2022-08-01T19:27:58.595Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-01T19:27:58.595Z"
 }
