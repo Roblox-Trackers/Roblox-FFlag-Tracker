@@ -7890,6 +7890,8 @@
   "FFlagLocalizationUseConstexprLookupTables": "True",
   "FFlagEnablePermissionsProtocolUnitTestRefactor2": "True",
   "FFlagLuauDebuggerBreakpointHitOnNextBestLine": "True",
+  "DFFlagNonuniformUnionsRelease": "False",
+  "DFFlagNonuniformUnionsRelease_PlaceFilter": "True;5944099738",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8140,8 +8142,8 @@
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
   "FFlagDarwinCameraPermissionsProtocol": "True",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "26f5eaa33c06f9ca5ee0793017141dc7ffd37354",
-  "DFStringFlagRepoGitHashDynamicString": "26f5eaa33c06f9ca5ee0793017141dc7ffd37354",
-  "FStringFlipTimeStampFastString": "2022-08-02T21:50:40.814Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-02T21:50:40.814Z"
+  "FStringFlagRepoGitHashFastString": "e21a58abed4451e55df9a3a99aa692776a2d554b",
+  "DFStringFlagRepoGitHashDynamicString": "e21a58abed4451e55df9a3a99aa692776a2d554b",
+  "FStringFlipTimeStampFastString": "2022-08-02T22:05:51.620Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-02T22:05:51.620Z"
 }
