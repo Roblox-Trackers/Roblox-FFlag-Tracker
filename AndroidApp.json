@@ -7893,6 +7893,7 @@
   "FFlagUsePopulateCallstackThreadThunk": "True",
   "FFlagImprovedDeferredReentrancyErrorMessages": "True",
   "FFlagOnlyQueueThreadsWithAcceptableReentrancyDepth": "True",
+  "FFlagLCDimToleranceFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -8324,8 +8325,8 @@
   "EnableNonDialogRobuxPremiumFragmentV2": "True",
   "FIntProfileCardRolloutEnabled_v1": "100",
   "FFlagUniversalAppMenuCsat": "False",
-  "FStringFlagRepoGitHashFastString": "c5e60121f35f4164ff250e6c7d7d1b5cef181431",
-  "DFStringFlagRepoGitHashDynamicString": "c5e60121f35f4164ff250e6c7d7d1b5cef181431",
-  "FStringFlipTimeStampFastString": "2022-08-02T23:01:44.578Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-02T23:01:44.578Z"
+  "FStringFlagRepoGitHashFastString": "57b9ace13263b9d7ed96132ca1dbc7f7a6a859cb",
+  "DFStringFlagRepoGitHashDynamicString": "57b9ace13263b9d7ed96132ca1dbc7f7a6a859cb",
+  "FStringFlipTimeStampFastString": "2022-08-02T23:10:53.873Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-02T23:10:53.873Z"
 }
