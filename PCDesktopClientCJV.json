@@ -7906,6 +7906,8 @@
   "FFlagStudioCheckExistingAuthWindowBeforeCreatingNewOne": "True",
   "FFlagStudioLoginTelemetryAddAdditionalInfo": "True",
   "FFlagStudioRespectLoggingoutState": "True",
+  "FFlagCleanupLoginManagerGAEvents": "True",
+  "FFlagStudioEnableWebView2RegularRunningAdmin2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8172,8 +8174,8 @@
   "FFlagGraphicsDeviceEvents": "True",
   "FIntLuaAppErrorReportPointsRollout": "50",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
-  "FStringFlagRepoGitHashFastString": "dd53f5bdee97de53ef6a0d95ec096aeee61e150e",
-  "DFStringFlagRepoGitHashDynamicString": "dd53f5bdee97de53ef6a0d95ec096aeee61e150e",
-  "FStringFlipTimeStampFastString": "2022-08-03T18:31:31.684Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-03T18:31:31.684Z"
+  "FStringFlagRepoGitHashFastString": "3a87480f8671fa4627c551068f9befc9ac793ba2",
+  "DFStringFlagRepoGitHashDynamicString": "3a87480f8671fa4627c551068f9befc9ac793ba2",
+  "FStringFlipTimeStampFastString": "2022-08-03T18:35:26.665Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-03T18:35:26.665Z"
 }
