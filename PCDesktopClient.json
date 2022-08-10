@@ -7572,8 +7572,8 @@
   "DFIntDownloadBandwidthNetworkIdFailInfluxHundredthsPercentage": "500",
   "FFlagStudioFindReplaceOptionCmds": "True",
   "DFFlagTextBoxServiceNormalizeMessages": "True",
-  "FFlagHorizontalCylinderUpdate": "False",
-  "FFlagHorizontalCylinderUpdateIC": "False",
+  "FFlagHorizontalCylinderUpdate": "True",
+  "FFlagHorizontalCylinderUpdateIC": "True",
   "FFlagVerticalCylinderUpdate": "True",
   "FFlagVerticalCylinderUpdateIC": "True",
   "FFlagLuaAppSystemBarPersistOnPolicy": "True",
@@ -8008,6 +8008,7 @@
   "DFFlagModelLodOnlyResetWhenNotInDMServer": "False",
   "DFFlagModelLodOnlyResetWhenNotInDMServer_DataCenterFilter": "True;356",
   "FFlagUITextureFixRotatedGlyphRender": "True",
+  "FFlagMoveSphereVertices": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8274,8 +8275,8 @@
   "FFlagGraphicsDeviceEvents": "True",
   "FIntLuaAppErrorReportPointsRollout": "50",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
-  "FStringFlagRepoGitHashFastString": "a89b06c941cfa776a571294ae1e374edbca2c3e4",
-  "DFStringFlagRepoGitHashDynamicString": "a89b06c941cfa776a571294ae1e374edbca2c3e4",
-  "FStringFlipTimeStampFastString": "2022-08-10T20:50:00.693Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-10T20:50:00.693Z"
+  "FStringFlagRepoGitHashFastString": "9fe325b13026ec3b0f9ebd59ad86a4f9be89a1af",
+  "DFStringFlagRepoGitHashDynamicString": "9fe325b13026ec3b0f9ebd59ad86a4f9be89a1af",
+  "FStringFlipTimeStampFastString": "2022-08-10T20:52:59.699Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-10T20:52:59.699Z"
 }
