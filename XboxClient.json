@@ -8020,6 +8020,8 @@
   "EnableExternalContentSharingProtocol": "True",
   "FFlagEnableExternalContentSharingProtocolIOS": "True",
   "FFlagLuaAppSortLocalFeedItems": "True",
+  "FFlagEnableExternalContentSharingProtocolLua": "True",
+  "FFlagLuaAppHardenGameDetails3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8240,8 +8242,8 @@
   "FIntConversationListVirtualizedRollout": "100",
   "FIntConversationListVirtualizedRollout2": "100",
   "FIntLuaAppErrorReportPointsRollout": "0",
-  "FStringFlagRepoGitHashFastString": "ff842a83a5e035d52d39df13e258b17d42449293",
-  "DFStringFlagRepoGitHashDynamicString": "ff842a83a5e035d52d39df13e258b17d42449293",
-  "FStringFlipTimeStampFastString": "2022-08-10T21:25:51.217Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-10T21:25:51.217Z"
+  "FStringFlagRepoGitHashFastString": "9e0c5050ac65dffd8be49f841a2d540fcf9ad7c5",
+  "DFStringFlagRepoGitHashDynamicString": "9e0c5050ac65dffd8be49f841a2d540fcf9ad7c5",
+  "FStringFlipTimeStampFastString": "2022-08-10T21:28:18.787Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-10T21:28:18.787Z"
 }
