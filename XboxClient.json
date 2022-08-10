@@ -6443,7 +6443,7 @@
   "FFlagLuaAppRecommendedGameImpressionsFix2": "True",
   "FFlagLuaAppRecommendedImpressionsAnalytics4": "True",
   "DFFlagSimOrderNewContactPrimitives": "True",
-  "FFlagSimUseDeterministicAssemblyArray": "False",
+  "FFlagSimUseDeterministicAssemblyArray": "True",
   "FFlagLuaAppNewTopBarFixes": "True",
   "FFlagLuaAppFixOmniRecsNil": "True",
   "FFlagLuaAppPopulateP13NStore2": "True",
@@ -8013,9 +8013,9 @@
   "FFlagVideoUploadFixStatusJsonType": "True",
   "FFlagRegisterGetBlockedUserIdsEarly": "True",
   "FFlagMSRemoveOnDescendantFunction": "True",
-  "DFStringCLI50798S_PlaceFilter": "NTE3LDYwNSwxMDI5LDEyMzgsNjM=;8778258317",
   "DFFlagFixAnalyticsAndHttpPlaceId": "True",
   "DFFlagRuppHeaderRakCryptoFix": "True",
+  "DFFlagSimQuickCrashSleepStageAssembly": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8236,8 +8236,8 @@
   "FIntConversationListVirtualizedRollout": "100",
   "FIntConversationListVirtualizedRollout2": "100",
   "FIntLuaAppErrorReportPointsRollout": "0",
-  "FStringFlagRepoGitHashFastString": "c3993accd142839c8a5010b78dc82cd7d00c5e05",
-  "DFStringFlagRepoGitHashDynamicString": "c3993accd142839c8a5010b78dc82cd7d00c5e05",
-  "FStringFlipTimeStampFastString": "2022-08-10T21:14:21.157Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-10T21:14:21.157Z"
+  "FStringFlagRepoGitHashFastString": "6e732747af4c1e6da3915ef72bc430dd30784b6e",
+  "DFStringFlagRepoGitHashDynamicString": "6e732747af4c1e6da3915ef72bc430dd30784b6e",
+  "FStringFlipTimeStampFastString": "2022-08-10T21:17:14.019Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-10T21:17:14.019Z"
 }
