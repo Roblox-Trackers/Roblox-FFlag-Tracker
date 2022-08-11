@@ -4629,7 +4629,7 @@
   "FFlagToolboxVerifiedCreatorBadgesDesignTweaks": "True",
   "FFlagPlacelauncherEndpointXboxFixPartyJoinsAreRegularJoinsLeaderOnly": "True",
   "FFlagToolboxEnableScriptConfirmation": "True",
-  "FFlagMaterialServiceBetaFeature": "True",
+  "FFlagMaterialServiceBetaFeature": "False",
   "FFlagDevFrameworkAddCreatorToAssetPreviewHeader": "True",
   "FFlagDevFrameworkAddTooltipToAssetPreviewFlagIcon": "True",
   "FFlagToolboxRedirectToLibraryAbuseReport": "True",
@@ -8040,6 +8040,11 @@
   "DFFlagNonuniformUnionsRelease2_PlaceFilter": "True;5944099738",
   "DFIntNonuniformUnionsMigrationChoicePercent": "10000",
   "DFIntNonuniformUnionsRolloutChangePercent": "10000",
+  "FFlagEnableMaterialManager": "True",
+  "FFlagMaterialServicePropertyStatus": "True",
+  "FFlagMaterialServiceWarningsExplorer": "True",
+  "FFlagMaterialVariantPropertyItem": "True",
+  "FFlagTerrainToolsUse2022Materials": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -8475,8 +8480,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadCounterAndroid",
   "FStringContactImportingTimeStat": "ContactImportingTime_Android",
   "FStringContactsListLoadedCounter": "ContactsListLoadedCounterAndroid",
-  "FStringFlagRepoGitHashFastString": "22950c44137707f120839e5a7e54bfc92e805099",
-  "DFStringFlagRepoGitHashDynamicString": "22950c44137707f120839e5a7e54bfc92e805099",
-  "FStringFlipTimeStampFastString": "2022-08-11T16:29:33.498Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-11T16:29:33.498Z"
+  "FStringFlagRepoGitHashFastString": "9386309a52d207ba72bdf5eec5673e1394fb3061",
+  "DFStringFlagRepoGitHashDynamicString": "9386309a52d207ba72bdf5eec5673e1394fb3061",
+  "FStringFlipTimeStampFastString": "2022-08-11T16:32:02.740Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-11T16:32:02.740Z"
 }
