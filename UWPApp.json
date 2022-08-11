@@ -7867,8 +7867,6 @@
   "FFlagAssetImportSessionCleanup": "True",
   "FFlagLocalizationUseConstexprLookupTables": "True",
   "FFlagEnablePermissionsProtocolUnitTestRefactor2": "True",
-  "DFFlagNonuniformUnionsRelease": "False",
-  "DFFlagNonuniformUnionsRelease_PlaceFilter": "True;5944099738",
   "FFlagUsePopulateCallstackThreadThunk": "True",
   "FFlagImprovedDeferredReentrancyErrorMessages": "True",
   "FFlagOnlyQueueThreadsWithAcceptableReentrancyDepth": "True",
@@ -8038,6 +8036,10 @@
   "FFlagFetchUserNameOnCloseAccountInfo": "False",
   "FFlagStudioMigrateCloudEditConnectionLostDialogToShow": "True",
   "DFIntGameTransactionsMigrationRolloutPercentage": "2",
+  "DFFlagNonuniformUnionsRelease2": "False",
+  "DFFlagNonuniformUnionsRelease2_PlaceFilter": "True;5944099738",
+  "DFIntNonuniformUnionsMigrationChoicePercent": "10000",
+  "DFIntNonuniformUnionsRolloutChangePercent": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8260,8 +8262,8 @@
   "FIntLuaAppErrorReportPointsRollout": "50",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
   "FFlagReportLuaErrorsByPlatform2": "True",
-  "FStringFlagRepoGitHashFastString": "70ef7c04c9f95e53ee655204648a63d22c2ee537",
-  "DFStringFlagRepoGitHashDynamicString": "70ef7c04c9f95e53ee655204648a63d22c2ee537",
-  "FStringFlipTimeStampFastString": "2022-08-11T16:26:27.766Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-11T16:26:27.766Z"
+  "FStringFlagRepoGitHashFastString": "22950c44137707f120839e5a7e54bfc92e805099",
+  "DFStringFlagRepoGitHashDynamicString": "22950c44137707f120839e5a7e54bfc92e805099",
+  "FStringFlipTimeStampFastString": "2022-08-11T16:29:33.498Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-11T16:29:33.498Z"
 }
