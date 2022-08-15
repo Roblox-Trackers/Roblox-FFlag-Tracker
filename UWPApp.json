@@ -8096,6 +8096,9 @@
   "FFlagUWPShouldUseCrashpad": "True",
   "DFFlagInstanceDiffLinkPropsFilter": "True",
   "FFlagStudioDontSendTeamCreateJoinServerSuccess": "True",
+  "FFlagCOLLAB2038AddSessionInfoToDisconnectEvent": "True",
+  "FFlagCOLLAB2010RemoveCloudEditEvent": "True",
+  "FFlagCOLLAB2010RemoveUnusedTCTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8318,8 +8321,8 @@
   "FIntLuaAppErrorReportPointsRollout": "100",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
   "FFlagReportLuaErrorsByPlatform2": "True",
-  "FStringFlagRepoGitHashFastString": "645a8585ef89b925d2457bab34f99b9464b432af",
-  "DFStringFlagRepoGitHashDynamicString": "645a8585ef89b925d2457bab34f99b9464b432af",
-  "FStringFlipTimeStampFastString": "2022-08-15T18:19:04.274Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-15T18:19:04.274Z"
+  "FStringFlagRepoGitHashFastString": "c1731ba1c4550fd67d2d506b0ac73f55b434fa44",
+  "DFStringFlagRepoGitHashDynamicString": "c1731ba1c4550fd67d2d506b0ac73f55b434fa44",
+  "FStringFlipTimeStampFastString": "2022-08-15T18:20:37.687Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-15T18:20:37.687Z"
 }
