@@ -3653,7 +3653,7 @@
   "FFlagReplicationDataCacheRemoveReplicatorDependencyPrep": "True",
   "FFlagLuauGenericFunctionsParserFix": "True",
   "FFlagLuauParseGenericFunctions": "True",
-  "FFlagRenderUseHalfsiOS": "False",
+  "FFlagRenderUseHalfsiOS": "True",
   "FFlagStudioHandleCaptchaJSError2": "True",
   "FFlagStudioAddUserAgent": "True",
   "FFlagToggleDraftsDockActionFix": "True",
@@ -8078,8 +8078,6 @@
   "FFlagRemoveUILibraryFitContent2": "True",
   "FFlagTrackerTelemetryDeviceHealth": "True",
   "FFlagDevFrameworkMigrateDialog": "True",
-  "FFlagRenderSkipMediumpShaderLoad": "True",
-  "FFlagUseMediumpMetal": "True",
   "FFlagRenderClampRoughness": "True",
   "FFlagStudioAddInstallInfoToCrashReporting": "True",
   "DFFlagReportPacketQueueSizeStats": "True",
@@ -8361,8 +8359,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadWindowsClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_WindowsClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "4eb965b264c76b3c8bc40d747372054d3f02727a",
-  "DFStringFlagRepoGitHashDynamicString": "4eb965b264c76b3c8bc40d747372054d3f02727a",
-  "FStringFlipTimeStampFastString": "2022-08-15T17:40:02.728Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-15T17:40:02.728Z"
+  "FStringFlagRepoGitHashFastString": "6f5c10e2a2a20ca81dbad336d8a173d997e511af",
+  "DFStringFlagRepoGitHashDynamicString": "6f5c10e2a2a20ca81dbad336d8a173d997e511af",
+  "FStringFlipTimeStampFastString": "2022-08-15T17:40:47.728Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-15T17:40:47.728Z"
 }
