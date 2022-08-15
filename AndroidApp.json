@@ -8104,6 +8104,8 @@
   "DFFlagRakNetShutdownOnce": "True",
   "FFlagRemoveOldBackendErrorCasing": "True",
   "DFFlagLogUdmuxAndRccIp": "True",
+  "DFFlagCLI56775": "False",
+  "DFFlagCLI56775_DataCenterFilter": "True;232",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -8540,8 +8542,8 @@
   "FStringContactImportingTimeStat": "ContactImportingTime_Android",
   "FStringContactsListLoadedCounter": "ContactsListLoadedAndroid",
   "DFFlagCLI52218ai": "True",
-  "FStringFlagRepoGitHashFastString": "e40f803a0e95bbe64cb3afb8e25289b964bc95fd",
-  "DFStringFlagRepoGitHashDynamicString": "e40f803a0e95bbe64cb3afb8e25289b964bc95fd",
-  "FStringFlipTimeStampFastString": "2022-08-15T19:45:28.219Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-15T19:45:28.219Z"
+  "FStringFlagRepoGitHashFastString": "9c6c4d929413ec4958993462aadad1255da5655f",
+  "DFStringFlagRepoGitHashDynamicString": "9c6c4d929413ec4958993462aadad1255da5655f",
+  "FStringFlipTimeStampFastString": "2022-08-15T19:51:28.863Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-15T19:51:28.863Z"
 }
