@@ -7517,7 +7517,7 @@
   "FFlagLuaAppDisableOptOutForIxp": "True",
   "FFlagLuaAppSizesWithValidDefaults": "True",
   "FFlagLuaInviteFailOnZeroPlaceIdV384": "True",
-  "DFFlagDataModelAllowSameVersionConfiguration": "False",
+  "DFFlagDataModelAllowSameVersionConfiguration": "True",
   "DFFlagParallelInterpolationDeadlockFix": "True",
   "FFlagFixExperienceNameOverlay": "True",
   "FFlagLCCheckCageDimRevert": "True",
@@ -8093,6 +8093,7 @@
   "FFlagCliMoreLimiterImpact_DataCenterFilter": "True;214",
   "FFlagCrashpadManagerConsidersUploadPercentage": "True",
   "FFlagMaterialManagerFixApplyToClicked": "True",
+  "FStringFeature_UWPUsesCrashReport": "539;2",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8346,8 +8347,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadMacClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedMacClient",
-  "FStringFlagRepoGitHashFastString": "c9ce31bdb8808eeeaaac8fa967e2b83b57921f3f",
-  "DFStringFlagRepoGitHashDynamicString": "c9ce31bdb8808eeeaaac8fa967e2b83b57921f3f",
-  "FStringFlipTimeStampFastString": "2022-08-15T17:37:45.861Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-15T17:37:45.861Z"
+  "FStringFlagRepoGitHashFastString": "77153ac53d1b21e275c06aa7e95ccd20358468a4",
+  "DFStringFlagRepoGitHashDynamicString": "77153ac53d1b21e275c06aa7e95ccd20358468a4",
+  "FStringFlipTimeStampFastString": "2022-08-15T17:38:52.075Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-15T17:38:52.075Z"
 }
