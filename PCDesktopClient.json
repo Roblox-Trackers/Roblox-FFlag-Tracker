@@ -8103,6 +8103,7 @@
   "FFlagPPAccountInfoMigration": "True",
   "FFlagSimCSGV23CaptureDatamodel": "True",
   "FFlagMigrateRoduxAliases": "True",
+  "FFlagUWPPurchaseEndpointMigration": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8372,8 +8373,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadWindowsClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_WindowsClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "a4c599cd633d891a1e428fb539f7f603321730df",
-  "DFStringFlagRepoGitHashDynamicString": "a4c599cd633d891a1e428fb539f7f603321730df",
-  "FStringFlipTimeStampFastString": "2022-08-15T19:32:57.222Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-15T19:32:57.222Z"
+  "FStringFlagRepoGitHashFastString": "a0bcd95b18408977e2c5fd5afbb1f556df7d28d6",
+  "DFStringFlagRepoGitHashDynamicString": "a0bcd95b18408977e2c5fd5afbb1f556df7d28d6",
+  "FStringFlipTimeStampFastString": "2022-08-15T19:35:40.797Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-15T19:35:40.797Z"
 }
