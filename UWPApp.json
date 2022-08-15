@@ -242,7 +242,7 @@
   "DFIntClientSendEventStringDataLimitBytes": "100000000",
   "DFIntClientSendEventVariantCountLimit": "5000000",
   "DFIntCrashUploadHttpResponseDefaultTimeoutMillis": "80000",
-  "DFIntCrashUploadToBacktracePercentage": "10",
+  "DFIntCrashUploadToBacktracePercentage": "1",
   "DFIntDataModelPatcherErrorInfluxHundredthsPercentage": "10000",
   "DFIntDataModelPatcherFunnelInfluxHundredthsPercentage": "25",
   "DFIntDataStoreApiRefreshRolloutPercentage": "100",
@@ -8023,7 +8023,7 @@
   "FFlagSeparateCoreGlyphAtlas": "True",
   "FFlagBootcampCLI55952": "True",
   "FFlagExecuteActionOnFocusedEditor2": "True",
-  "DFFlagRakNetShutdownOnce_DataCenterFilter": "True;295;370",
+  "DFFlagRakNetShutdownOnce_DataCenterFilter": "True;295;370;362",
   "FFlagStudioPluginsUseBedev2Endpoint": "True",
   "FFlagFixUiEditorDeferredSignalingBug": "True",
   "DFFlagMemoryCategoriesForGPU": "True",
@@ -8091,6 +8091,7 @@
   "FFlagStudioViewportStateInPlatform2": "True",
   "FFlagCliMoreLimiterImpact": "False",
   "FFlagCliMoreLimiterImpact_DataCenterFilter": "True;214",
+  "FFlagCrashpadManagerConsidersUploadPercentage": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8313,8 +8314,8 @@
   "FIntLuaAppErrorReportPointsRollout": "50",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
   "FFlagReportLuaErrorsByPlatform2": "True",
-  "FStringFlagRepoGitHashFastString": "3122a487602284f48169cd07f5c86934618d9708",
-  "DFStringFlagRepoGitHashDynamicString": "3122a487602284f48169cd07f5c86934618d9708",
-  "FStringFlipTimeStampFastString": "2022-08-15T17:18:39.255Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-15T17:18:39.255Z"
+  "FStringFlagRepoGitHashFastString": "253e00fe2eb4336db75afe42d705eaacdb927c60",
+  "DFStringFlagRepoGitHashDynamicString": "253e00fe2eb4336db75afe42d705eaacdb927c60",
+  "FStringFlipTimeStampFastString": "2022-08-15T17:19:47.623Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-15T17:19:47.623Z"
 }
