@@ -7059,7 +7059,7 @@
   "FFlagLocalizationServiceSendLocalizationTableAnalytics2": "True",
   "FFlagFixDismissWithNoNavigationController": "True",
   "FFlagFixLegacyScaleWithFontStreaming": "True",
-  "DFIntLocalizationTableAnalyticsSenderClientToHttpMinHundrethsPercent": "10",
+  "DFIntLocalizationTableAnalyticsSenderClientToHttpMinHundrethsPercent": "25",
   "DFIntLocalizationTableAnalyticsSenderClientToHttpMinHundrethsPercent_PlaceFilter": "10000;7731036362",
   "DFIntLocalizationTableAnalyticsSenderClientToServerSampleRateHundrethsPercent": "10000",
   "DFIntLocalizationTableAnalyticsSenderClientToServerSampleRateHundrethsPercent_PlaceFilter": "10000;7731036362",
@@ -8368,8 +8368,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadMacClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedMacClient",
-  "FStringFlagRepoGitHashFastString": "a4a545c916f9aa01827df96741c697ed998a464a",
-  "DFStringFlagRepoGitHashDynamicString": "a4a545c916f9aa01827df96741c697ed998a464a",
-  "FStringFlipTimeStampFastString": "2022-08-15T22:13:38.128Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-15T22:13:38.128Z"
+  "FStringFlagRepoGitHashFastString": "0b101e5fd2594a0554cb3caedb8f1ef272218a95",
+  "DFStringFlagRepoGitHashDynamicString": "0b101e5fd2594a0554cb3caedb8f1ef272218a95",
+  "FStringFlipTimeStampFastString": "2022-08-15T22:25:56.266Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-15T22:25:56.266Z"
 }
