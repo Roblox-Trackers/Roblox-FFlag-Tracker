@@ -8087,6 +8087,8 @@
   "DFFlagReportPacketQueueSizeStats": "True",
   "FFlagEnableTileInsets": "True",
   "DFFlagReportLargePacketQueueSizeStats": "True",
+  "FFlagStudioUpdateViewportOnEmulatedDeviceChange": "True",
+  "FFlagStudioViewportStateInPlatform2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8415,8 +8417,8 @@
   "FStringContactImportingTimeStat": "ContactImportingTime_iOS",
   "FStringContactsListLoadedCounter": "ContactsListLoadediOS",
   "FFlagEnableUserAuthenticatedRequest": "True",
-  "FStringFlagRepoGitHashFastString": "3afc869a088b3c136947b7aa2411af3b82b95321",
-  "DFStringFlagRepoGitHashDynamicString": "3afc869a088b3c136947b7aa2411af3b82b95321",
-  "FStringFlipTimeStampFastString": "2022-08-15T17:12:21.943Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-15T17:12:21.943Z"
+  "FStringFlagRepoGitHashFastString": "a1b30c8127d52af655e621a505e753975b15d2ad",
+  "DFStringFlagRepoGitHashDynamicString": "a1b30c8127d52af655e621a505e753975b15d2ad",
+  "FStringFlipTimeStampFastString": "2022-08-15T17:15:19.876Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-15T17:15:19.876Z"
 }
