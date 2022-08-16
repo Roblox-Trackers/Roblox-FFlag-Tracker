@@ -8132,6 +8132,9 @@
   "DFFlagGameplayNetFixNOUMovementCallbacks_DataCenterFilter": "True;302",
   "FFlagLuaAppFixAutocompleteEntryDups": "True",
   "FFlagRuppLogger": "True",
+  "FFlagSimFixAutoJointParenting": "True",
+  "FFlagSimOrderedAutoJointCreation": "True",
+  "FFlagSkipToFrontEndOfLines": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8354,8 +8357,8 @@
   "FIntLuaAppErrorReportPointsRollout": "100",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
   "FFlagReportLuaErrorsByPlatform2": "True",
-  "FStringFlagRepoGitHashFastString": "c8632337f4ff8f7bd0549ecbc9c77969d8e831ab",
-  "DFStringFlagRepoGitHashDynamicString": "c8632337f4ff8f7bd0549ecbc9c77969d8e831ab",
-  "FStringFlipTimeStampFastString": "2022-08-16T19:47:09.814Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-16T19:47:09.814Z"
+  "FStringFlagRepoGitHashFastString": "fd99a66225e56320a5848714c9e916e274cf85ff",
+  "DFStringFlagRepoGitHashDynamicString": "fd99a66225e56320a5848714c9e916e274cf85ff",
+  "FStringFlipTimeStampFastString": "2022-08-16T20:03:21.441Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-16T20:03:21.441Z"
 }

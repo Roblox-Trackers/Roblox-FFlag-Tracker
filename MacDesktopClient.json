@@ -8132,6 +8132,8 @@
   "DFFlagGameplayNetFixNOUMovementCallbacks_DataCenterFilter": "True;302",
   "FFlagLuaAppFixAutocompleteEntryDups": "True",
   "FFlagRuppLogger": "True",
+  "FFlagSimFixAutoJointParenting": "True",
+  "FFlagSimOrderedAutoJointCreation": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8385,8 +8387,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadMacClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedMacClient",
-  "FStringFlagRepoGitHashFastString": "c8632337f4ff8f7bd0549ecbc9c77969d8e831ab",
-  "DFStringFlagRepoGitHashDynamicString": "c8632337f4ff8f7bd0549ecbc9c77969d8e831ab",
-  "FStringFlipTimeStampFastString": "2022-08-16T19:47:09.814Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-16T19:47:09.814Z"
+  "FStringFlagRepoGitHashFastString": "7b933913800319a4d81db1ba847576a3383e10b9",
+  "DFStringFlagRepoGitHashDynamicString": "7b933913800319a4d81db1ba847576a3383e10b9",
+  "FStringFlipTimeStampFastString": "2022-08-16T20:02:38.545Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-16T20:02:38.545Z"
 }
