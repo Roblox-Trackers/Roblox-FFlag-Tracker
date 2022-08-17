@@ -8164,6 +8164,11 @@
   "FFlagStudioNoRetryOnWebViewLoadFail": "True",
   "FFlagStudioAddGPUInfoWhenWebView2Failed": "True",
   "FFlagStudioAddErrorMessageInReauthRequiredSignal": "True",
+  "DFFlagRenderTC2FixBlockCopy": "True",
+  "FFlagRenderTC2_FixImageLoadCount": "True",
+  "FFlagStudioUseLaunchConfiguration": "True",
+  "FFlagCancellableTaskMethodsAssertionFix": "True",
+  "FFlagStudioMoreInfoOnAuthControllerInitFailure": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8433,8 +8438,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadWindowsClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_WindowsClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "47c76353e50e587150896922fc0637fdb80d6b9d",
-  "DFStringFlagRepoGitHashDynamicString": "47c76353e50e587150896922fc0637fdb80d6b9d",
-  "FStringFlipTimeStampFastString": "2022-08-17T19:14:17.071Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-17T19:14:17.071Z"
+  "FStringFlagRepoGitHashFastString": "1870ffd3a036a2e11cde158879cc9fff46791eb1",
+  "DFStringFlagRepoGitHashDynamicString": "1870ffd3a036a2e11cde158879cc9fff46791eb1",
+  "FStringFlipTimeStampFastString": "2022-08-17T19:16:11.309Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-17T19:16:11.309Z"
 }
