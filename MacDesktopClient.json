@@ -7984,9 +7984,7 @@
   "FFlagEnableRoact17BacktraceTag": "True",
   "FFlagInGameMenuV3SortPlayersByDisplayName": "True",
   "DFFlagCLI57261v1": "False",
-  "DFFlagCLI57261v1_DataCenterFilter": "True;232",
   "DFIntCLI57261v3": "0",
-  "DFIntCLI57261v3_DataCenterFilter": "1000;232",
   "FFlagImageLabelRenderUIStrokeWithTransparentBackground": "True",
   "FFlagFixUIRTFlip": "True",
   "DFFlagSimRecordCFramesAfterDrag": "False",
@@ -8185,6 +8183,10 @@
   "FFlagOptionalArgumentSupport": "True",
   "DFFlagContentProviderForceUniquePrio": "False",
   "FFlagManageCollaboratorsExplainFriendPermissions": "True",
+  "DFFlagCompareFilterResults": "False",
+  "DFFlagCompareFilterResults_DataCenterFilter": "True;232",
+  "DFIntCompareFilterResultsHundredths": "0",
+  "DFIntCompareFilterResultsHundredths_DataCenterFilter": "1000;232",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8439,8 +8441,8 @@
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedMacClient",
   "DFFlagContentProviderForceUniquePrio_DataCenterFilter": "True;370",
-  "FStringFlagRepoGitHashFastString": "8198a88380b9bbf6d675d3103cab240ead81af84",
-  "DFStringFlagRepoGitHashDynamicString": "8198a88380b9bbf6d675d3103cab240ead81af84",
-  "FStringFlipTimeStampFastString": "2022-08-17T21:32:26.193Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-17T21:32:26.193Z"
+  "FStringFlagRepoGitHashFastString": "1ff8309d4b4d2b8bd1eece3144fa443b99462108",
+  "DFStringFlagRepoGitHashDynamicString": "1ff8309d4b4d2b8bd1eece3144fa443b99462108",
+  "FStringFlipTimeStampFastString": "2022-08-17T21:36:59.507Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-17T21:36:59.507Z"
 }
