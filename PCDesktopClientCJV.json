@@ -3509,6 +3509,8 @@
   "DFFlagUnconnectedPingReport_DataCenterFilter": "True;333",
   "DFIntUnconnectedPingReportMS": "0",
   "DFIntUnconnectedPingReportMS_DataCenterFilter": "60000;333",
+  "DFIntUnconnectedPingReport_HundredthsPercentage": "0",
+  "DFIntUnconnectedPingReport_HundredthsPercentage_DataCenterFilter": "10000;333",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3750,8 +3752,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadWindowsClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_WindowsClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "1befe8f9c85831ae2fa2fa62f19c03eb360646b0",
-  "DFStringFlagRepoGitHashDynamicString": "1befe8f9c85831ae2fa2fa62f19c03eb360646b0",
-  "FStringFlipTimeStampFastString": "2022-08-22T20:17:43.116Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-22T20:17:43.116Z"
+  "FStringFlagRepoGitHashFastString": "6ca0c717ab2cccd18c13bc67aaaf0178e0005971",
+  "DFStringFlagRepoGitHashDynamicString": "6ca0c717ab2cccd18c13bc67aaaf0178e0005971",
+  "FStringFlipTimeStampFastString": "2022-08-22T20:18:53.976Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-22T20:18:53.976Z"
 }
