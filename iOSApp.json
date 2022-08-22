@@ -3505,11 +3505,11 @@
   "FFlagShaderPreprocessPremultiplied_PlaceFilter": "True;7000618865;9000766053;10136256458;10281811269;10113571048;7873767159;9238693870;10217382807;9610877382",
   "FFlagLCSortQuickMenuEntryForAnalytics": "True",
   "FIntCloudEditWaitTimeMs": "200",
-  "DFFlagUnconnectedPingReport": "False",
+  "DFFlagUnconnectedPingReport": "True",
   "DFFlagUnconnectedPingReport_DataCenterFilter": "True;333;302",
-  "DFIntUnconnectedPingReportMS": "0",
+  "DFIntUnconnectedPingReportMS": "60000",
   "DFIntUnconnectedPingReportMS_DataCenterFilter": "60000;333;302",
-  "DFIntUnconnectedPingReport_HundredthsPercentage": "0",
+  "DFIntUnconnectedPingReport_HundredthsPercentage": "10000",
   "DFIntUnconnectedPingReport_HundredthsPercentage_DataCenterFilter": "10000;333;302",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -3800,8 +3800,8 @@
   "FFlagPPUpsellEndpoint": "True",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "b18d163d2b2650e129cf391b1b050c736e9665f0",
-  "DFStringFlagRepoGitHashDynamicString": "b18d163d2b2650e129cf391b1b050c736e9665f0",
-  "FStringFlipTimeStampFastString": "2022-08-22T20:31:35.019Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-22T20:31:35.019Z"
+  "FStringFlagRepoGitHashFastString": "3385282ddc5ab5098d3fb115c8c7b9d7bd3fd42b",
+  "DFStringFlagRepoGitHashDynamicString": "3385282ddc5ab5098d3fb115c8c7b9d7bd3fd42b",
+  "FStringFlipTimeStampFastString": "2022-08-22T20:33:58.276Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-22T20:33:58.276Z"
 }
