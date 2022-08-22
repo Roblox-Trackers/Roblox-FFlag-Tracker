@@ -2093,7 +2093,7 @@
   "FFlagClientReportJoinDetailBreakdown": "True",
   "DFFlagVoiceChatHttpResultBodyEmptyTelemetry": "True",
   "FFlagFCIgnoreClumps": "True",
-  "DFFlagRvScaleFixResize": "False",
+  "DFFlagRvScaleFixResize": "True",
   "FFlagVideoStreamUseTask": "False",
   "FFlagEnableCallExitInTerminate": "True",
   "FFlagFFlagEnableSetCoreGuiEnabledExpChat": "True",
@@ -2806,8 +2806,8 @@
   "DFFlagTextBoxServiceNormalizeMessages": "True",
   "FFlagHorizontalCylinderUpdate": "False",
   "FFlagHorizontalCylinderUpdateIC": "False",
-  "FFlagVerticalCylinderUpdate": "True",
-  "FFlagVerticalCylinderUpdateIC": "True",
+  "FFlagVerticalCylinderUpdate": "False",
+  "FFlagVerticalCylinderUpdateIC": "False",
   "FFlagLuaAppSystemBarPersistOnPolicy": "True",
   "FFlagDoNotUpdateVersionIfNoChange": "True",
   "FFlagFixCanvasGroupBlurryText": "True",
@@ -3893,8 +3893,8 @@
   "DFFlagCLI52218ai": "True",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "f179f21977b0a72b307bd1f2ca4188eefb247dee",
-  "DFStringFlagRepoGitHashDynamicString": "f179f21977b0a72b307bd1f2ca4188eefb247dee",
-  "FStringFlipTimeStampFastString": "2022-08-22T20:58:32.336Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-22T20:58:32.336Z"
+  "FStringFlagRepoGitHashFastString": "152c1e32df30beaf5369ff3d4ade90d1054a2fff",
+  "DFStringFlagRepoGitHashDynamicString": "152c1e32df30beaf5369ff3d4ade90d1054a2fff",
+  "FStringFlipTimeStampFastString": "2022-08-22T21:02:05.961Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-22T21:02:05.961Z"
 }
