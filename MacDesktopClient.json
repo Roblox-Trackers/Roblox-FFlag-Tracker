@@ -3492,6 +3492,7 @@
   "FFlagLuaAppUseOmniRecDefaultPolicy": "True",
   "FFlagFixOpenUrlRequestMacBug": "True",
   "FFlagClearContactImporterLocalStorage": "True",
+  "FFlagFixRenderSizeForBillboardGui": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3721,8 +3722,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadMacClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedMacClient",
-  "FStringFlagRepoGitHashFastString": "81dd44442fee293763b0979d02dd34d32fa39572",
-  "DFStringFlagRepoGitHashDynamicString": "81dd44442fee293763b0979d02dd34d32fa39572",
-  "FStringFlipTimeStampFastString": "2022-08-22T18:44:53.471Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-22T18:44:53.471Z"
+  "FStringFlagRepoGitHashFastString": "e52b7173baff587cd738c2ea0c449227c9ff9f52",
+  "DFStringFlagRepoGitHashDynamicString": "e52b7173baff587cd738c2ea0c449227c9ff9f52",
+  "FStringFlipTimeStampFastString": "2022-08-22T18:46:28.072Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-22T18:46:28.072Z"
 }
