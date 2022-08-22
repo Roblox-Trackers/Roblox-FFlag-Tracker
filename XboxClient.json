@@ -3520,6 +3520,8 @@
   "FFlagVideoCaptureFrameSkipper": "True",
   "EnableANRFixAsync6": "True",
   "FFlagAXUseItemStatisticsV2": "True",
+  "DFFlagIgnoreUnconnectedPing": "False",
+  "DFFlagIgnoreUnconnectedPing_DataCenterFilter": "True;333",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3722,8 +3724,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntConversationListVirtualizedRollout2": "100",
   "FIntLuaAppErrorReportPointsRollout": "0",
-  "FStringFlagRepoGitHashFastString": "a2e6ab4a59ed0e21a432c888cf45d1cceb22b5c8",
-  "DFStringFlagRepoGitHashDynamicString": "a2e6ab4a59ed0e21a432c888cf45d1cceb22b5c8",
-  "FStringFlipTimeStampFastString": "2022-08-22T22:27:28.623Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-22T22:27:28.623Z"
+  "FStringFlagRepoGitHashFastString": "13bb3f13eecd76ed6a9f72cd7104a82e91f136bd",
+  "DFStringFlagRepoGitHashDynamicString": "13bb3f13eecd76ed6a9f72cd7104a82e91f136bd",
+  "FStringFlipTimeStampFastString": "2022-08-22T22:43:46.366Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-22T22:43:46.366Z"
 }
