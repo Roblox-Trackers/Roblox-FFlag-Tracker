@@ -3506,11 +3506,11 @@
   "FFlagLCSortQuickMenuEntryForAnalytics": "True",
   "FIntCloudEditWaitTimeMs": "200",
   "DFFlagUnconnectedPingReport": "False",
-  "DFFlagUnconnectedPingReport_DataCenterFilter": "True;333",
+  "DFFlagUnconnectedPingReport_DataCenterFilter": "True;333;302",
   "DFIntUnconnectedPingReportMS": "0",
-  "DFIntUnconnectedPingReportMS_DataCenterFilter": "60000;333",
+  "DFIntUnconnectedPingReportMS_DataCenterFilter": "60000;333;302",
   "DFIntUnconnectedPingReport_HundredthsPercentage": "0",
-  "DFIntUnconnectedPingReport_HundredthsPercentage_DataCenterFilter": "10000;333",
+  "DFIntUnconnectedPingReport_HundredthsPercentage_DataCenterFilter": "10000;333;302",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3713,8 +3713,8 @@
   "FIntLuaAppErrorReportPointsRollout": "100",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
   "FFlagReportLuaErrorsByPlatform2": "True",
-  "FStringFlagRepoGitHashFastString": "6ca0c717ab2cccd18c13bc67aaaf0178e0005971",
-  "DFStringFlagRepoGitHashDynamicString": "6ca0c717ab2cccd18c13bc67aaaf0178e0005971",
-  "FStringFlipTimeStampFastString": "2022-08-22T20:18:53.976Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-22T20:18:53.976Z"
+  "FStringFlagRepoGitHashFastString": "b18d163d2b2650e129cf391b1b050c736e9665f0",
+  "DFStringFlagRepoGitHashDynamicString": "b18d163d2b2650e129cf391b1b050c736e9665f0",
+  "FStringFlipTimeStampFastString": "2022-08-22T20:31:35.019Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-22T20:31:35.019Z"
 }
