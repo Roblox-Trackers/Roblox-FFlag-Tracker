@@ -3471,6 +3471,7 @@
   "FFlagRenderUnifiedBufferType": "True",
   "FFlagVideoCaptureServiceEnableLuaEvents": "True",
   "FFlagExperienceChatOnLoadedCounters": "True",
+  "FFlagMacFixReferenceCrash": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3700,8 +3701,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadMacClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedMacClient",
-  "FStringFlagRepoGitHashFastString": "bdaf67181f1378be8682cb00c3ce5b4dad580eb5",
-  "DFStringFlagRepoGitHashDynamicString": "bdaf67181f1378be8682cb00c3ce5b4dad580eb5",
-  "FStringFlipTimeStampFastString": "2022-08-22T16:15:38.320Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-22T16:15:38.320Z"
+  "FStringFlagRepoGitHashFastString": "2215d79c697fe8c9e240db7518da2ea3962f3b88",
+  "DFStringFlagRepoGitHashDynamicString": "2215d79c697fe8c9e240db7518da2ea3962f3b88",
+  "FStringFlipTimeStampFastString": "2022-08-22T16:16:29.918Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-22T16:16:29.918Z"
 }
