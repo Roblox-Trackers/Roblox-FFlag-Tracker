@@ -3522,6 +3522,7 @@
   "FFlagAXUseItemStatisticsV2": "True",
   "DFFlagIgnoreUnconnectedPing": "False",
   "DFFlagIgnoreUnconnectedPing_DataCenterFilter": "True;333;302",
+  "FIntLuaAppErrorReportPointsRollout": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3744,15 +3745,14 @@
   "FIntLuaAppJoinGameFailureInfluxHundredthsPercentage": "1",
   "FIntConversationListVirtualizedRollout2": "100",
   "FFlagGraphicsDeviceEvents": "False",
-  "FIntLuaAppErrorReportPointsRollout": "100",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
   "FFlagDarwinCameraPermissionsProtocol": "True",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadMacClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedMacClient",
-  "FStringFlagRepoGitHashFastString": "34e2265a634f46f79ab51761a00231fe3f16ddff",
-  "DFStringFlagRepoGitHashDynamicString": "34e2265a634f46f79ab51761a00231fe3f16ddff",
-  "FStringFlipTimeStampFastString": "2022-08-22T22:53:30.625Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-22T22:53:30.625Z"
+  "FStringFlagRepoGitHashFastString": "9cee716611a4f2b8662491fd839130a502bec08e",
+  "DFStringFlagRepoGitHashDynamicString": "9cee716611a4f2b8662491fd839130a502bec08e",
+  "FStringFlipTimeStampFastString": "2022-08-22T22:54:56.797Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-22T22:54:56.797Z"
 }
