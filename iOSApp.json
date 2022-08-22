@@ -3520,7 +3520,7 @@
   "FFlagVideoCaptureFrameSkipper": "True",
   "EnableANRFixAsync6": "True",
   "FFlagAXUseItemStatisticsV2": "True",
-  "DFFlagIgnoreUnconnectedPing": "False",
+  "DFFlagIgnoreUnconnectedPing": "True",
   "DFFlagIgnoreUnconnectedPing_DataCenterFilter": "True;333;302",
   "FIntLuaAppErrorReportPointsRollout": "100",
   "FFlagUserPlayEmoteByIdAnimTrackReturn2": "True",
@@ -3812,8 +3812,8 @@
   "FFlagPPUpsellEndpoint": "True",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "4cb7d2ec7c7f2759a3336d4ce06b1cb0e209b0b7",
-  "DFStringFlagRepoGitHashDynamicString": "4cb7d2ec7c7f2759a3336d4ce06b1cb0e209b0b7",
-  "FStringFlipTimeStampFastString": "2022-08-22T23:03:49.626Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-22T23:03:49.626Z"
+  "FStringFlagRepoGitHashFastString": "132cfe0eb29a1e10ebc32b71758477f01c490875",
+  "DFStringFlagRepoGitHashDynamicString": "132cfe0eb29a1e10ebc32b71758477f01c490875",
+  "FStringFlipTimeStampFastString": "2022-08-22T23:04:18.490Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-22T23:04:18.490Z"
 }
