@@ -3495,6 +3495,14 @@
   "FFlagFixRenderSizeForBillboardGui": "True",
   "FFlagBootcampCLI57346": "True",
   "DFFlagSimConsolidationMultiplierFix": "True",
+  "FFlagEnableRenderTargetItem2": "False",
+  "FFlagEnableRenderTargetItem2_PlaceFilter": "True;7000618865;9000766053;10136256458;10281811269;10113571048;7873767159;9238693870;10217382807;9610877382",
+  "FFlagRenderCanvasGroupToTexture": "False",
+  "FFlagRenderCanvasGroupToTexture_PlaceFilter": "True;7000618865;9000766053;10136256458;10281811269;10113571048;7873767159;9238693870;10217382807;9610877382",
+  "FFlagRouteGfxGuiRecordingForCanvasGroup2": "False",
+  "FFlagRouteGfxGuiRecordingForCanvasGroup2_PlaceFilter": "True;7000618865;9000766053;10136256458;10281811269;10113571048;7873767159;9238693870;10217382807;9610877382",
+  "FFlagShaderPreprocessPremultiplied": "False",
+  "FFlagShaderPreprocessPremultiplied_PlaceFilter": "True;7000618865;9000766053;10136256458;10281811269;10113571048;7873767159;9238693870;10217382807;9610877382",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3724,8 +3732,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadMacClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedMacClient",
-  "FStringFlagRepoGitHashFastString": "2a592396bc16514f89e21d6beb84a56de62326af",
-  "DFStringFlagRepoGitHashDynamicString": "2a592396bc16514f89e21d6beb84a56de62326af",
-  "FStringFlipTimeStampFastString": "2022-08-22T19:48:13.845Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-22T19:48:13.845Z"
+  "FStringFlagRepoGitHashFastString": "c88c6c1568b14d35390cf54b2db555069fc090aa",
+  "DFStringFlagRepoGitHashDynamicString": "c88c6c1568b14d35390cf54b2db555069fc090aa",
+  "FStringFlipTimeStampFastString": "2022-08-22T20:04:55.129Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-22T20:04:55.129Z"
 }
