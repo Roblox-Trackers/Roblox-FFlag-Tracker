@@ -3529,6 +3529,8 @@
   "DFFlagFixR6AccessoryScaling2": "False",
   "DFFlagFixR6AccessoryScaling2_PlaceFilter": "True;10056590701",
   "FFlagStopSaveOnInvokeMethod": "True",
+  "FFlagShadowDataModelLspSync": "True",
+  "FFlagUseShadowDataModel": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3769,8 +3771,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadWindowsClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_WindowsClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "11111a7531ec5c85dc313f0e7df38ca07c88b21b",
-  "DFStringFlagRepoGitHashDynamicString": "11111a7531ec5c85dc313f0e7df38ca07c88b21b",
-  "FStringFlipTimeStampFastString": "2022-08-23T00:52:42.423Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-23T00:52:42.423Z"
+  "FStringFlagRepoGitHashFastString": "bce10a050e9c5f6b9696ced2e87159c74b949d27",
+  "DFStringFlagRepoGitHashDynamicString": "bce10a050e9c5f6b9696ced2e87159c74b949d27",
+  "FStringFlipTimeStampFastString": "2022-08-23T16:07:10.783Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-23T16:07:10.783Z"
 }
