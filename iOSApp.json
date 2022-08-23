@@ -993,7 +993,7 @@
   "FIntHttpCurlMaxHostsRequestsInProgress": "2",
   "FFlagLocalizationToolsFixExampleNotDownloaded": "True",
   "FFlagLuaAppHttpNativeRetry": "True",
-  "FStringTextureFormatFilterString": "Apple A7 GPU;Apple A8 GPU",
+  "FStringTextureFormatFilterString": "Apple A7 GPU;Apple A8 GPU;Apple A11 GPU@*.*.*@12.*.*",
   "DFIntDesiredStreamJobTimeMSPerThread2": "6",
   "FFlagVirtualCursorEnabled3": "True",
   "FFlagVirtualCursorOptInOutActive": "True",
@@ -3783,7 +3783,6 @@
   "FStringFriendsLandingLoadingPageTimeStats": "FriendsLandingLoadingPageTimeiOS",
   "FStringFriendsLandingMountingPageTimeStats": "FriendsLandingMountingPageTimeiOS",
   "FFlagLuaAppWaitBeforeTwoStepRenderDev": "True",
-  "FStringTextureFormatFilterString_PlaceFilter": ";7968883425",
   "DFFlagRenderTC2_6": "True",
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelFasterSetCollision_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
@@ -3832,8 +3831,8 @@
   "FFlagPPUpsellEndpoint": "True",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "81780d37846ecc0291d197646a9e7ed591c7ec4e",
-  "DFStringFlagRepoGitHashDynamicString": "81780d37846ecc0291d197646a9e7ed591c7ec4e",
-  "FStringFlipTimeStampFastString": "2022-08-23T21:08:52.099Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-23T21:08:52.099Z"
+  "FStringFlagRepoGitHashFastString": "2fb943608e48af0f2220cea7b2b14704a8b2ca8b",
+  "DFStringFlagRepoGitHashDynamicString": "2fb943608e48af0f2220cea7b2b14704a8b2ca8b",
+  "FStringFlipTimeStampFastString": "2022-08-23T21:15:13.369Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-23T21:15:13.369Z"
 }
