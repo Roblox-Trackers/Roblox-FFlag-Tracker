@@ -1460,7 +1460,6 @@
   "FIntFullscreenTitleBarTriggerDelayMillis": "500",
   "FFlagEnableNewVrSystem": "True",
   "FFlagMaterialServiceBetaFeature": "False",
-  "DFFlagWorkspaceAnimatorRetargetingEnabledDefault_PlaceFilter": "True;3851622790;4620170611;735030788;4728136238;7477946144;7525190786;7492148266;5064251723;189707",
   "DFFlagReportNumSyncMapEntriesModifiedSerial": "True",
   "DFFlagTeleportInvocationsLogging2": "True",
   "DFFlagTeleportInvocationEventIngest": "True",
@@ -3385,7 +3384,6 @@
   "FFlagBootcampCLI56099": "True",
   "DFFlagVoiceChatSendDataCenterIdInTokenRequest": "True",
   "FFlagStudioReportMemoryInBytes": "True",
-  "DFFlagWorkspaceAnimatorRetargetingEnabledDefault_DataCenterFilter": "True;361;246;333;265",
   "FFlagCOLLAB1498StudioHttpRequestMoreThreadMarshalling": "True",
   "FFlagStudioUpdateFetchChannelApi": "True",
   "FFlagStudioNoRetryOnWebViewLoadFail": "True",
@@ -3538,6 +3536,7 @@
   "FFlagWin32UserAgeIndicator": "True",
   "FFlagWin32DialogSizeChange": "True",
   "FFlagWin32ListenToThemeChangedEvent": "True",
+  "DFFlagWorkspaceAnimatorRetargetingEnabledDefault": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3766,8 +3765,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadMacClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedMacClient",
-  "FStringFlagRepoGitHashFastString": "8c2e323aa950f581adf35721372341bf60b259d7",
-  "DFStringFlagRepoGitHashDynamicString": "8c2e323aa950f581adf35721372341bf60b259d7",
-  "FStringFlipTimeStampFastString": "2022-08-23T19:34:19.787Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-23T19:34:19.787Z"
+  "FStringFlagRepoGitHashFastString": "3db4b049f59277ca2613629f45e9a163bbebf687",
+  "DFStringFlagRepoGitHashDynamicString": "3db4b049f59277ca2613629f45e9a163bbebf687",
+  "FStringFlipTimeStampFastString": "2022-08-23T19:48:23.982Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-23T19:48:23.982Z"
 }
