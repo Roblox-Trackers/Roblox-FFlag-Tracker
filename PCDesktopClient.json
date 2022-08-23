@@ -3537,6 +3537,8 @@
   "FFlagDisableCollisionGroupId": "True",
   "FFlagFaceControlsEditorButtonAutosizing": "True",
   "FFlagWin32UserAgeIndicator": "True",
+  "FFlagWin32DialogSizeChange": "True",
+  "FFlagWin32ListenToThemeChangedEvent": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3777,8 +3779,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadWindowsClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_WindowsClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "673b4eded91686391ed7a3e534c7c79bde4af9d9",
-  "DFStringFlagRepoGitHashDynamicString": "673b4eded91686391ed7a3e534c7c79bde4af9d9",
-  "FStringFlipTimeStampFastString": "2022-08-23T19:06:26.455Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-23T19:06:26.455Z"
+  "FStringFlagRepoGitHashFastString": "4253dc25ef85bf8fb86f4ba86e43473d582beebe",
+  "DFStringFlagRepoGitHashDynamicString": "4253dc25ef85bf8fb86f4ba86e43473d582beebe",
+  "FStringFlipTimeStampFastString": "2022-08-23T19:06:45.152Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-23T19:06:45.152Z"
 }
