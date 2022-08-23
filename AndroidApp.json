@@ -3529,6 +3529,8 @@
   "DFFlagFixR6AccessoryScaling2_PlaceFilter": "True;10056590701",
   "FFlagStopSaveOnInvokeMethod": "True",
   "FFlagDontUseBufferStride": "True",
+  "FFlagCreateAnimationFromVideoFBXFileWriteFix": "True",
+  "DFIntAnimationFromVideoCreatorStudioServiceSecondsPerRequest": "2",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -3906,8 +3908,8 @@
   "DFFlagCLI52218ai": "True",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "6c45a8e4b24a6381e9a61427371b196ed46db4e4",
-  "DFStringFlagRepoGitHashDynamicString": "6c45a8e4b24a6381e9a61427371b196ed46db4e4",
-  "FStringFlipTimeStampFastString": "2022-08-23T18:02:43.976Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-23T18:02:43.976Z"
+  "FStringFlagRepoGitHashFastString": "cb26d843e4daf99fd1cb5e9c5dcb80fbaa05ef59",
+  "DFStringFlagRepoGitHashDynamicString": "cb26d843e4daf99fd1cb5e9c5dcb80fbaa05ef59",
+  "FStringFlipTimeStampFastString": "2022-08-23T18:07:06.612Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-23T18:07:06.612Z"
 }
