@@ -3250,7 +3250,7 @@
   "FFlagShowModerationAbuseTypeAndMessage2": "True",
   "FFlagFetchUserNameOnCloseAccountInfo": "False",
   "FFlagStudioMigrateCloudEditConnectionLostDialogToShow": "True",
-  "DFIntGameTransactionsMigrationRolloutPercentage": "30",
+  "DFIntGameTransactionsMigrationRolloutPercentage": "60",
   "DFIntNonuniformUnionsMigrationChoicePercent": "10000",
   "DFIntNonuniformUnionsRolloutChangePercent": "10000",
   "FFlagEnableMaterialManager": "True",
@@ -3916,8 +3916,8 @@
   "DFFlagCLI52218ai": "True",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "4253dc25ef85bf8fb86f4ba86e43473d582beebe",
-  "DFStringFlagRepoGitHashDynamicString": "4253dc25ef85bf8fb86f4ba86e43473d582beebe",
-  "FStringFlipTimeStampFastString": "2022-08-23T19:06:45.152Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-23T19:06:45.152Z"
+  "FStringFlagRepoGitHashFastString": "581b7dec93394684be9b447ef2f5943eadbceac6",
+  "DFStringFlagRepoGitHashDynamicString": "581b7dec93394684be9b447ef2f5943eadbceac6",
+  "FStringFlipTimeStampFastString": "2022-08-23T19:19:13.671Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-23T19:19:13.671Z"
 }
