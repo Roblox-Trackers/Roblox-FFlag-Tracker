@@ -3244,7 +3244,7 @@
   "FFlagStudioPluginsUseBedev2Endpoint": "True",
   "FFlagFixUiEditorDeferredSignalingBug": "True",
   "DFFlagMemoryCategoriesForGPU": "True",
-  "DFFlagUseClientSessionTrackingAPI": "True",
+  "DFFlagUseClientSessionTrackingAPI": "False",
   "FFlagToolboxFixAssetsNoVoteData2": "True",
   "FFlagUIBloxSliderCustomization": "True",
   "FFlagShowModerationAbuseTypeAndMessage2": "True",
@@ -3907,8 +3907,8 @@
   "DFFlagCLI52218ai": "True",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "9c9e11a11b04032b48ac3dc2c6b629c396271aba",
-  "DFStringFlagRepoGitHashDynamicString": "9c9e11a11b04032b48ac3dc2c6b629c396271aba",
-  "FStringFlipTimeStampFastString": "2022-08-23T16:10:02.281Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-23T16:10:02.281Z"
+  "FStringFlagRepoGitHashFastString": "dc2c7eb04526c414dc1386548a452a88b2986cf2",
+  "DFStringFlagRepoGitHashDynamicString": "dc2c7eb04526c414dc1386548a452a88b2986cf2",
+  "FStringFlipTimeStampFastString": "2022-08-23T16:14:15.101Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-23T16:14:15.101Z"
 }
