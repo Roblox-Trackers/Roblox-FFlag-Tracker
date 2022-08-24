@@ -2510,7 +2510,6 @@
   "FFlagStudioDisallowLaunchUpdateMultipleTimes": "True",
   "FFlagStudioCheckForInstallLocation": "True",
   "FFlagStudioWebView2OpenLinksByExternalBrowser": "True",
-  "DFFlagSessionTelemetryJoinTimeAndStreaming": "True",
   "FIntInfluxReportMaterialManagerHundrethPercent2": "10000",
   "FFlagWrapLayeredDeformerSkipPrevGen": "True",
   "EnableDeadCodeDetection": "True",
@@ -2862,7 +2861,6 @@
   "DFFlagLuaReportParseWrongNamedType": "True",
   "DFFlagAttachmentSilenceCrashes": "True",
   "FFlagBootcampCLI55916": "True",
-  "DFFlagFixTelemetryMetricParsing": "True",
   "DFIntLuaParseWrongNamedTypeInfluxHundrethsPercentage": "10000",
   "FFlagRobuxBalanceOnNewHeaderLocalized": "True",
   "FFlagUWPUniversalAppRollout352": "True",
@@ -3804,8 +3802,8 @@
   "FStringContactImportingTimeStat": "ContactImportingTime_WindowsClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedWindowsClient",
   "DFFlagCollectionServiceAPIAnalytics": "True",
-  "FStringFlagRepoGitHashFastString": "d541731801a9a9b7c42acf7d4e504cc963602a94",
-  "DFStringFlagRepoGitHashDynamicString": "d541731801a9a9b7c42acf7d4e504cc963602a94",
-  "FStringFlipTimeStampFastString": "2022-08-24T20:46:35.792Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-24T20:46:35.792Z"
+  "FStringFlagRepoGitHashFastString": "6a30ce31e0e83c45cf641aa0eec9a77b8fcaf1c3",
+  "DFStringFlagRepoGitHashDynamicString": "6a30ce31e0e83c45cf641aa0eec9a77b8fcaf1c3",
+  "FStringFlipTimeStampFastString": "2022-08-24T20:48:45.158Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-24T20:48:45.158Z"
 }
