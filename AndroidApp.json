@@ -3191,10 +3191,6 @@
   "FFlagIxpAddLayerNameToLayerVariablesResponse": "True",
   "FFlagPublishFlowStartup": "True",
   "FFlagNFDN2644UseKVInsteadOfExceptionCallback": "True",
-  "FFlagVoiceChatLockFreeBuffering": "False",
-  "FFlagVoiceChatLockFreeBuffering_PlaceFilter": "True;2178064631;9299262749;9793123004;9799263270;9872815406;10001271232;10001514317;10057672346;10358747927;10548862903",
-  "FFlagShrinkSpatialVoiceBuffers": "False",
-  "FFlagShrinkSpatialVoiceBuffers_PlaceFilter": "True;2178064631;9299262749;9793123004;9799263270;9872815406;10001271232;10001514317;10057672346;10358747927;10548862903",
   "FFlagSetCrashAttributeSaverAndTerminationHandler": "True",
   "DFFlagModelMeshUseColorTable": "True",
   "DFFlagIntegrityCheckedProcessorUC3927": "False",
@@ -3434,8 +3430,6 @@
   "FFlagFixSetGuiEffectCrash": "True",
   "FFlagAssetManagerDragAndDrop": "True",
   "FFlagDragAndDropImageAssets": "True",
-  "DFIntSpatialVoiceTransferBufferSizeTenthsMs": "930",
-  "DFIntSpatialVoiceTransferBufferSizeTenthsMs_PlaceFilter": "1860;2178064631;9299262749;9793123004;9799263270;9872815406;10001271232;10001514317;10057672346;10358747927;10548862903",
   "FFlagLuauLintParseIntegerIssues": "True",
   "FFlagClientAssetFormatResolution2": "False",
   "FFlagClientAssetFormatResolution2_PlaceFilter": "True;10491243930;10637625620",
@@ -3935,8 +3929,8 @@
   "DFFlagCLI52218ai": "True",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "e959a020070bec4fc7b58b718f92f46da9bd28f4",
-  "DFStringFlagRepoGitHashDynamicString": "e959a020070bec4fc7b58b718f92f46da9bd28f4",
-  "FStringFlipTimeStampFastString": "2022-08-24T00:44:42.058Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-24T00:44:42.058Z"
+  "FStringFlagRepoGitHashFastString": "a373d73704f4975b76b7fc267a8cf00178b81266",
+  "DFStringFlagRepoGitHashDynamicString": "a373d73704f4975b76b7fc267a8cf00178b81266",
+  "FStringFlipTimeStampFastString": "2022-08-24T16:03:53.617Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-24T16:03:53.617Z"
 }
