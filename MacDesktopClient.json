@@ -3244,7 +3244,7 @@
   "FFlagShowModerationAbuseTypeAndMessage2": "True",
   "FFlagFetchUserNameOnCloseAccountInfo": "False",
   "FFlagStudioMigrateCloudEditConnectionLostDialogToShow": "True",
-  "DFIntGameTransactionsMigrationRolloutPercentage": "80",
+  "DFIntGameTransactionsMigrationRolloutPercentage": "30",
   "DFIntNonuniformUnionsMigrationChoicePercent": "10000",
   "DFIntNonuniformUnionsRolloutChangePercent": "10000",
   "FFlagEnableMaterialManager": "True",
@@ -3790,8 +3790,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadMacClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedMacClient",
-  "FStringFlagRepoGitHashFastString": "bcb02cdd9164071f931f72e9b6d6bf8bb68859ca",
-  "DFStringFlagRepoGitHashDynamicString": "bcb02cdd9164071f931f72e9b6d6bf8bb68859ca",
-  "FStringFlipTimeStampFastString": "2022-08-24T19:51:40.977Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-24T19:51:40.977Z"
+  "FStringFlagRepoGitHashFastString": "11eb1b8a3429a39efb040282b89ccd829cc4af83",
+  "DFStringFlagRepoGitHashDynamicString": "11eb1b8a3429a39efb040282b89ccd829cc4af83",
+  "FStringFlipTimeStampFastString": "2022-08-24T19:54:30.695Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-24T19:54:30.695Z"
 }
