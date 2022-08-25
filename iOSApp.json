@@ -3594,7 +3594,7 @@
   "DFFlagReportQueueStatsCanSend": "True",
   "DFFlagReportQueueStatsCanSend_DataCenterFilter": "True;254;333;302",
   "DFFlagBetterHandshakeLogs": "False",
-  "DFFlagBetterHandshakeLogs_DataCenterFilter": "True;254",
+  "DFFlagBetterHandshakeLogs_DataCenterFilter": "True;254;333",
   "DFFlagCLI52064UseIxp": "False",
   "DFFlagCLI52064UseIxp_DataCenterFilter": "True;370",
   "DFFlagCLI55145Experiment": "False",
@@ -3887,8 +3887,8 @@
   "FFlagPPUpsellEndpoint": "True",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "cefaba4046f5e1fe33226924d48930e81c40e57f",
-  "DFStringFlagRepoGitHashDynamicString": "cefaba4046f5e1fe33226924d48930e81c40e57f",
-  "FStringFlipTimeStampFastString": "2022-08-25T21:02:57.929Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-25T21:02:57.929Z"
+  "FStringFlagRepoGitHashFastString": "84e147587c4a3441093e33a07e3ccef5c9a50f92",
+  "DFStringFlagRepoGitHashDynamicString": "84e147587c4a3441093e33a07e3ccef5c9a50f92",
+  "FStringFlipTimeStampFastString": "2022-08-25T21:04:32.510Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-25T21:04:32.510Z"
 }
