@@ -3591,7 +3591,7 @@
   "FFlagTerrain_UnpackOnDemand4": "True",
   "DFFlagSimAdaptiveAtomicPVState": "True",
   "DFFlagReportPerSessionPauseMetricsToEphemeralCounters": "True",
-  "DFFlagReportQueueStatsCanSend": "False",
+  "DFFlagReportQueueStatsCanSend": "True",
   "DFFlagReportQueueStatsCanSend_DataCenterFilter": "True;254;333;302",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -3972,8 +3972,8 @@
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "FFlagIsSendrNotificationSetupEnabled": "True",
   "EnableUnwindBackStackAndRestartAfterProcDeath": "True",
-  "FStringFlagRepoGitHashFastString": "b59cecfa526263e58071e2f063ad7c68ef180f87",
-  "DFStringFlagRepoGitHashDynamicString": "b59cecfa526263e58071e2f063ad7c68ef180f87",
-  "FStringFlipTimeStampFastString": "2022-08-25T20:55:10.085Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-25T20:55:10.085Z"
+  "FStringFlagRepoGitHashFastString": "ea947030d4bd430ae9f0645ab14ce9c6cdb17c7f",
+  "DFStringFlagRepoGitHashDynamicString": "ea947030d4bd430ae9f0645ab14ce9c6cdb17c7f",
+  "FStringFlipTimeStampFastString": "2022-08-25T20:58:25.484Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-25T20:58:25.484Z"
 }
