@@ -3583,6 +3583,8 @@
   "FFlagManageCollaboratorsDebugLogging": "True",
   "FFlagClampTargetIndentLevel": "True",
   "FFlagOpenScriptFromLocationAssert": "True",
+  "FFlagToolboxEnableAssetConfigPhoneVerification": "True",
+  "FFlagToolboxUseVerifiedIdAsDefault2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3870,8 +3872,8 @@
   "FFlagPPUpsellEndpoint": "True",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "174a00d33bcf1bf5f51aaf8ca0bd2edea20c5148",
-  "DFStringFlagRepoGitHashDynamicString": "174a00d33bcf1bf5f51aaf8ca0bd2edea20c5148",
-  "FStringFlipTimeStampFastString": "2022-08-25T17:42:15.181Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-25T17:42:15.181Z"
+  "FStringFlagRepoGitHashFastString": "dc41ad80d81609abd1d7217269351a8760dfaf22",
+  "DFStringFlagRepoGitHashDynamicString": "dc41ad80d81609abd1d7217269351a8760dfaf22",
+  "FStringFlipTimeStampFastString": "2022-08-25T17:42:59.022Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-25T17:42:59.022Z"
 }

@@ -3581,6 +3581,10 @@
   "DFFlagRequestNameInRCCSoapException": "True",
   "FFlagIncreaseFCDownsampleMipLevel": "True",
   "FFlagManageCollaboratorsDebugLogging": "True",
+  "FFlagClampTargetIndentLevel": "True",
+  "FFlagOpenScriptFromLocationAssert": "True",
+  "FFlagToolboxEnableAssetConfigPhoneVerification": "True",
+  "FFlagToolboxUseVerifiedIdAsDefault2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3822,8 +3826,8 @@
   "FStringContactImportingTimeStat": "ContactImportingTime_WindowsClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedWindowsClient",
   "DFFlagCollectionServiceAPIAnalytics": "True",
-  "FStringFlagRepoGitHashFastString": "f1a5f2286095e2312545e89f880cd4d7fc0ab369",
-  "DFStringFlagRepoGitHashDynamicString": "f1a5f2286095e2312545e89f880cd4d7fc0ab369",
-  "FStringFlipTimeStampFastString": "2022-08-25T17:37:39.868Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-25T17:37:39.868Z"
+  "FStringFlagRepoGitHashFastString": "dc41ad80d81609abd1d7217269351a8760dfaf22",
+  "DFStringFlagRepoGitHashDynamicString": "dc41ad80d81609abd1d7217269351a8760dfaf22",
+  "FStringFlipTimeStampFastString": "2022-08-25T17:42:59.022Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-25T17:42:59.022Z"
 }
