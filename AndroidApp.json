@@ -3594,7 +3594,7 @@
   "DFFlagReportQueueStatsCanSend": "True",
   "DFFlagReportQueueStatsCanSend_DataCenterFilter": "True;254;333;302",
   "DFFlagBetterHandshakeLogs": "False",
-  "DFFlagBetterHandshakeLogs_DataCenterFilter": "True;254;333",
+  "DFFlagBetterHandshakeLogs_DataCenterFilter": "True;254;333;302",
   "DFFlagCLI52064UseIxp": "False",
   "DFFlagCLI52064UseIxp_DataCenterFilter": "True;370",
   "DFFlagCLI55145Experiment": "False",
@@ -3981,8 +3981,8 @@
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "FFlagIsSendrNotificationSetupEnabled": "True",
   "EnableUnwindBackStackAndRestartAfterProcDeath": "True",
-  "FStringFlagRepoGitHashFastString": "10b0e96bf7249782064d1b46c0b78bef3c8d69bf",
-  "DFStringFlagRepoGitHashDynamicString": "10b0e96bf7249782064d1b46c0b78bef3c8d69bf",
-  "FStringFlipTimeStampFastString": "2022-08-25T21:11:50.746Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-25T21:11:50.746Z"
+  "FStringFlagRepoGitHashFastString": "bbeada75eccd5b0c60f73a3122101d1e759ab30f",
+  "DFStringFlagRepoGitHashDynamicString": "bbeada75eccd5b0c60f73a3122101d1e759ab30f",
+  "FStringFlipTimeStampFastString": "2022-08-25T21:18:32.903Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-25T21:18:32.903Z"
 }
