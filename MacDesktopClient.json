@@ -3575,7 +3575,7 @@
   "FFlagUserHandleFriendJoinNotifierOnClient": "True",
   "FFlagStudioDisableTerminateMessageBoxOnLowMemory": "True",
   "FFlagSimAdaptiveOptimization3": "False",
-  "FFlagSimAdaptiveOptimization3_PlaceFilter": "True;6305582775;7117492592;2768379856;370731277",
+  "FFlagSimAdaptiveOptimization3_PlaceFilter": "True;6305582775;2768379856;370731277",
   "DFFlagRequestNameInRCCSoapException": "True",
   "FFlagIncreaseFCDownsampleMipLevel": "True",
   "FFlagManageCollaboratorsDebugLogging": "True",
@@ -3588,7 +3588,7 @@
   "FFlagUserExitFreecamBreaksWithShiftlock": "True",
   "FFlagStudioResetTraceIdOnRetryInternalLogin": "True",
   "FFlagTerrain_UnpackOnDemand4": "True",
-  "DFFlagSimAdaptiveAtomicPVState": "False",
+  "DFFlagSimAdaptiveAtomicPVState": "True",
   "DFFlagReportPerSessionPauseMetricsToEphemeralCounters": "True",
   "DFFlagReportQueueStatsCanSend": "True",
   "DFFlagReportQueueStatsCanSend_DataCenterFilter": "True;254;333;302",
@@ -3835,8 +3835,8 @@
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadMacClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
   "FStringContactsListLoadedCounter": "ContactsListLoadedMacClient",
-  "FStringFlagRepoGitHashFastString": "0a07d4510b7d12a9c2e8bbdc20c58a93ed1a00ef",
-  "DFStringFlagRepoGitHashDynamicString": "0a07d4510b7d12a9c2e8bbdc20c58a93ed1a00ef",
-  "FStringFlipTimeStampFastString": "2022-08-26T17:18:40.960Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-26T17:18:40.960Z"
+  "FStringFlagRepoGitHashFastString": "9ab5d967870262b39d0ffa1e47f32c0c78605726",
+  "DFStringFlagRepoGitHashDynamicString": "9ab5d967870262b39d0ffa1e47f32c0c78605726",
+  "FStringFlipTimeStampFastString": "2022-08-26T17:27:16.561Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-26T17:27:16.561Z"
 }
