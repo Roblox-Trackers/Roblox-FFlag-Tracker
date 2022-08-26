@@ -3442,7 +3442,7 @@
   "DFFlagReportDataPing2ByRPR": "True",
   "DFIntDataPing2ReportByIPInfluxHundredthsPercentage": "500",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "500",
-  "DFIntRemotePopToReadTimeReportingThresholdMS": "5",
+  "DFIntRemotePopToReadTimeReportingThresholdMS": "50",
   "DFIntServerIPAddressDataPingSelectionModuloValue": "1000",
   "DFIntServerIPAddressDataPingSelectionNumUnits": "1",
   "FFlagStudioCheckGCSInActionHandler": "True",
@@ -3811,8 +3811,8 @@
   "FFlagHumanoidParallelSafeUnseat_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntConversationListVirtualizedRollout2": "100",
-  "FStringFlagRepoGitHashFastString": "bba1c3cf7f1d55a6e21c9a145967ddd158a04d82",
-  "DFStringFlagRepoGitHashDynamicString": "bba1c3cf7f1d55a6e21c9a145967ddd158a04d82",
-  "FStringFlipTimeStampFastString": "2022-08-26T17:57:10.965Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-26T17:57:10.965Z"
+  "FStringFlagRepoGitHashFastString": "b95c94c3084498c628dad66709bc7d7c432f8a4a",
+  "DFStringFlagRepoGitHashDynamicString": "b95c94c3084498c628dad66709bc7d7c432f8a4a",
+  "FStringFlipTimeStampFastString": "2022-08-26T20:22:35.492Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-26T20:22:35.492Z"
 }
