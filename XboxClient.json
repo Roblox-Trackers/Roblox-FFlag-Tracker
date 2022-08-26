@@ -3588,7 +3588,7 @@
   "FFlagUserExitFreecamBreaksWithShiftlock": "True",
   "FFlagStudioResetTraceIdOnRetryInternalLogin": "True",
   "FFlagTerrain_UnpackOnDemand4": "True",
-  "DFFlagSimAdaptiveAtomicPVState": "True",
+  "DFFlagSimAdaptiveAtomicPVState": "False",
   "DFFlagReportPerSessionPauseMetricsToEphemeralCounters": "True",
   "DFFlagReportQueueStatsCanSend": "True",
   "DFFlagReportQueueStatsCanSend_DataCenterFilter": "True;254;333;302",
@@ -3807,8 +3807,8 @@
   "FFlagHumanoidParallelSafeUnseat_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntConversationListVirtualizedRollout2": "100",
-  "FStringFlagRepoGitHashFastString": "fc52f6251b5771ed40970a420632aaccf9520164",
-  "DFStringFlagRepoGitHashDynamicString": "fc52f6251b5771ed40970a420632aaccf9520164",
-  "FStringFlipTimeStampFastString": "2022-08-26T00:56:09.352Z",
-  "DFStringFlipTimeStampDynamicString": "2022-08-26T00:56:09.352Z"
+  "FStringFlagRepoGitHashFastString": "8f7413772c1e8903b174179892ab1dba848d0026",
+  "DFStringFlagRepoGitHashDynamicString": "8f7413772c1e8903b174179892ab1dba848d0026",
+  "FStringFlipTimeStampFastString": "2022-08-26T03:33:31.203Z",
+  "DFStringFlipTimeStampDynamicString": "2022-08-26T03:33:31.203Z"
 }
