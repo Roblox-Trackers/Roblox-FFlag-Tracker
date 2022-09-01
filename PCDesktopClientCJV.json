@@ -3678,9 +3678,14 @@
   "DFFlagEnableFontAsAttribute": "True",
   "FFlagNewFontUIBetaFeature": "True",
   "FFlagExperienceInviteNotification": "True",
-  "FFlagShadowDataModelLspSync": "True",
+  "FFlagShadowDataModelLspSync": "False",
   "FFlagUseShadowDataModel2": "True",
   "FFlagBrowserTrackerIdRequestUseWebId2": "True",
+  "FFlagWin32InheritBTId": "True",
+  "FFlagWin32LogoutCookieSync": "True",
+  "FLogLogWin32BTId": "6",
+  "FFlagWin32EndWebSession": "True",
+  "FFlagMacInheritWebBtid": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3925,8 +3930,8 @@
   "DFFlagReportDataPing2": "True",
   "DFIntDataPing2ReportThresholdMs": "400",
   "DFIntDataPing2ReportThrottleSeconds": "2",
-  "FStringFlagRepoGitHashFastString": "616156ab784683ae8936b69b6155c4e9ac3a7c59",
-  "DFStringFlagRepoGitHashDynamicString": "616156ab784683ae8936b69b6155c4e9ac3a7c59",
-  "FStringFlipTimeStampFastString": "2022-09-01T16:18:09.000Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-01T16:18:09.000Z"
+  "FStringFlagRepoGitHashFastString": "434d1c5251b2764ee603dd35499da38f019fab26",
+  "DFStringFlagRepoGitHashDynamicString": "434d1c5251b2764ee603dd35499da38f019fab26",
+  "FStringFlipTimeStampFastString": "2022-09-01T16:34:02.174Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-01T16:34:02.174Z"
 }
