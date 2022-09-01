@@ -3565,7 +3565,7 @@
   "FFlagUserHandleFriendJoinNotifierOnClient": "True",
   "FFlagStudioDisableTerminateMessageBoxOnLowMemory": "True",
   "FFlagSimAdaptiveOptimization3": "False",
-  "FFlagSimAdaptiveOptimization3_PlaceFilter": "True;6305582775;2768379856;370731277",
+  "FFlagSimAdaptiveOptimization3_PlaceFilter": "True;6305582775;2768379856;370731277;10151870864;7117492592",
   "DFFlagRequestNameInRCCSoapException": "True",
   "FFlagManageCollaboratorsDebugLogging": "True",
   "FFlagClampTargetIndentLevel": "True",
@@ -3577,7 +3577,6 @@
   "FFlagUserExitFreecamBreaksWithShiftlock": "True",
   "FFlagStudioResetTraceIdOnRetryInternalLogin": "True",
   "FFlagTerrain_UnpackOnDemand4": "True",
-  "DFFlagSimAdaptiveAtomicPVState": "False",
   "DFFlagReportPerSessionPauseMetricsToEphemeralCounters": "True",
   "DFFlagReportQueueStatsCanSend": "True",
   "DFFlagReportQueueStatsCanSend_DataCenterFilter": "True;254;333;302",
@@ -3922,8 +3921,8 @@
   "DFFlagReportDataPing2": "True",
   "DFIntDataPing2ReportThresholdMs": "400",
   "DFIntDataPing2ReportThrottleSeconds": "2",
-  "FStringFlagRepoGitHashFastString": "ca19413f9670f71e6b4ef4c9ebd3422b645e6725",
-  "DFStringFlagRepoGitHashDynamicString": "ca19413f9670f71e6b4ef4c9ebd3422b645e6725",
-  "FStringFlipTimeStampFastString": "2022-09-01T17:29:05.959Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-01T17:29:05.959Z"
+  "FStringFlagRepoGitHashFastString": "9538d1051c5505ee225da6d21de30fc3fa7ef569",
+  "DFStringFlagRepoGitHashDynamicString": "9538d1051c5505ee225da6d21de30fc3fa7ef569",
+  "FStringFlipTimeStampFastString": "2022-09-01T17:38:50.442Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-01T17:38:50.442Z"
 }
