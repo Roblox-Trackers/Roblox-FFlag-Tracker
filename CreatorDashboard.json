@@ -1,13 +1,9 @@
 {
   "enableStudioSSOParams": "true",
-  "enableLuobuMarketplace": "false",
   "enableQuestionnaireRestrictionViewingMode": "true",
   "enableNewChartsForAnalytics": "true",
   "enableExperienceGuidelinesView": "true",
-  "enableExperienceUpdatesMigration": "false",
   "enableSocialLinkMigration": "true",
-  "enableGenericChartsExperienceMonetization": "false",
-  "enableGenericChartsExperienceAll": "false",
   "enableRefactoredSocialLink": "true",
-  "enableAvatarItemsMigration": "false"
+  "enableExperienceUpdatesMigration": "true"
 }
