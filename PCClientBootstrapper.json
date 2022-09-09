@@ -7,7 +7,7 @@
   "FFlagWindowsLaunchTypeAnalytics": "True",
   "FFlagBootstrapperQuitOnDirectXExpiration": "False",
   "FFlagEnableCheckingOnDisabledChannels": "True",
-  "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release",
+  "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease",
   "FFlagBootstrapperSaveOptOutDUAR": "True",
   "FFlagBootstrapperAutoOptIn": "True",
   "FIntBootstrapperInfluxReportHundredthPercentage": "100",
@@ -34,8 +34,8 @@
   "InfluxHundredthsPercentage": "0",
   "InfluxInstallHundredthsPercentage": "10000",
   "ShowInstallSuccessPrompt": "True",
-  "FStringFlagRepoGitHashFastString": "f2d3bd3786c27ca2736ef202ab84a47daccadcb1",
-  "DFStringFlagRepoGitHashDynamicString": "f2d3bd3786c27ca2736ef202ab84a47daccadcb1",
-  "FStringFlipTimeStampFastString": "2022-09-09T16:28:12.893Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-09T16:28:12.893Z"
+  "FStringFlagRepoGitHashFastString": "4401e4cb2ae4d8cc1d2ccbf23b7ab579ccfe1085",
+  "DFStringFlagRepoGitHashDynamicString": "4401e4cb2ae4d8cc1d2ccbf23b7ab579ccfe1085",
+  "FStringFlipTimeStampFastString": "2022-09-09T18:03:53.101Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-09T18:03:53.101Z"
 }
