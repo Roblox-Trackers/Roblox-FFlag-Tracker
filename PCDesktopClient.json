@@ -3760,6 +3760,9 @@
   "FFlagUseXBoxGameAbuseReportingApi": "True",
   "FFlagUseXBoxAvatarAbuseReportingApi": "True",
   "FFlagEnableInGameMenuDurationLogger": "True",
+  "DFIntDynamicHeadRenderedNpcEventThrottleHundrethsPercent": "100",
+  "DFIntDynamicHeadRenderedPlayerEventThrottleHundrethsPercent": "10000",
+  "FFlagFacialAnimationAnalyticsRefactor2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4006,8 +4009,8 @@
   "DFIntDataPing2ReportThrottleSeconds": "2",
   "FFlagOutlineSelection": "True",
   "FIntMessageListVirtualizedRollout3": "1",
-  "FStringFlagRepoGitHashFastString": "55c93632a18f7bf54c5ca08593d18600e58fcbe8",
-  "DFStringFlagRepoGitHashDynamicString": "55c93632a18f7bf54c5ca08593d18600e58fcbe8",
-  "FStringFlipTimeStampFastString": "2022-09-12T20:32:03.049Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-12T20:32:03.049Z"
+  "FStringFlagRepoGitHashFastString": "26de56cc664fd4aa7ea4f1a0e3dccba7d06e5b2e",
+  "DFStringFlagRepoGitHashDynamicString": "26de56cc664fd4aa7ea4f1a0e3dccba7d06e5b2e",
+  "FStringFlipTimeStampFastString": "2022-09-12T20:36:09.759Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-12T20:36:09.759Z"
 }
