@@ -3747,6 +3747,7 @@
   "FFlagLuaAppUseVerifiedBadgeAnalytics": "True",
   "FFlagEnableContactsFormattingAsIs": "True",
   "FFlagMigrateEventsToEcosystems": "True",
+  "FFlagVideoCaptureEnableDeviceEnumeratorApple": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4135,8 +4136,8 @@
   "FFlagPPUpsellEndpoint": "False",
   "AndroidIAPList": "com.roblox.client.robux40,com.roblox.robloxmobile.premium80robux,com.roblox.robloxmobile.premium160robux,com.roblox.robloxmobile.premium240robux,com.roblox.robloxmobile.premium320robux,com.roblox.robloxmobile.premium400robux,com.roblox.robloxmobile.premium800robux,com.roblox.robloxmobile.premium1700robux,com.roblox.robloxmobile.premium4500robux,com.roblox.robloxmobile.premium10000robux,com.roblox.client.robux22500,com.roblox.robloxmobile.premium88subscribed,com.roblox.robloxmobile.premium175subscribed,com.roblox.robloxmobile.premium265subscribed,com.roblox.robloxmobile.premium350subscribed,com.roblox.robloxmobile.premium440subscribed2,com.roblox.robloxmobile.premium880subscribed,com.roblox.robloxmobile.premium1870subscribed,com.roblox.robloxmobile.premium4950subscribed,com.roblox.robloxmobile.premium11000subscribed,com.roblox.client.robux25000,com.roblox.client.robux22500",
   "EnableDynamicIAPList": "True",
-  "FStringFlagRepoGitHashFastString": "052df965487065e3a4f68419ba0e57d02defcf3d",
-  "DFStringFlagRepoGitHashDynamicString": "052df965487065e3a4f68419ba0e57d02defcf3d",
-  "FStringFlipTimeStampFastString": "2022-09-12T18:26:45.819Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-12T18:26:45.819Z"
+  "FStringFlagRepoGitHashFastString": "d25b7d1d52c5891039472ac61164327a0f5db563",
+  "DFStringFlagRepoGitHashDynamicString": "d25b7d1d52c5891039472ac61164327a0f5db563",
+  "FStringFlipTimeStampFastString": "2022-09-12T18:34:55.412Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-12T18:34:55.412Z"
 }
