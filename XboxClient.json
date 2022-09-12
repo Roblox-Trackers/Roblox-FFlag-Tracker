@@ -3764,6 +3764,8 @@
   "DFIntDynamicHeadRenderedPlayerEventThrottleHundrethsPercent": "10000",
   "FFlagFacialAnimationAnalyticsRefactor2": "True",
   "FFlagDraggerPivotTo2": "True",
+  "FFlagFixScreenGuiRenderIn3DClipping": "True",
+  "FFlagUserInputPlaybackPluginShowMouseCursorAfterPlayback": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3970,8 +3972,8 @@
   "DFIntDataPing2ReportThrottleSeconds": "2",
   "FFlagOutlineSelection": "True",
   "FIntMessageListVirtualizedRollout3": "100",
-  "FStringFlagRepoGitHashFastString": "18ee0a54927a44da113bb6bef407ec5263f5787c",
-  "DFStringFlagRepoGitHashDynamicString": "18ee0a54927a44da113bb6bef407ec5263f5787c",
-  "FStringFlipTimeStampFastString": "2022-09-12T20:54:38.953Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-12T20:54:38.953Z"
+  "FStringFlagRepoGitHashFastString": "011f35bda4bbd28e2217e54579afe77a1039ee6c",
+  "DFStringFlagRepoGitHashDynamicString": "011f35bda4bbd28e2217e54579afe77a1039ee6c",
+  "FStringFlipTimeStampFastString": "2022-09-12T20:55:57.152Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-12T20:55:57.152Z"
 }
