@@ -3769,7 +3769,7 @@
   "FFlagRender2dAdornsBehindPlayerGuiByDefault": "True",
   "FFlagStudioDoNotShowExternalDialogWithUnifiedLogin": "True",
   "FFlagStudioUseLaunchAuthConfig": "True",
-  "FFlagStudioAddLockWhenCheckingIsTokenCached": "True",
+  "FFlagStudioAddLockWhenCheckingIsTokenCached": "False",
   "FFlagStudioCheckExistingAuthWindowBeforeCreatingNewOne": "True",
   "DFFlagVoiceChatMuteMicrophoneOnPause": "True",
   "DFFlagVoiceChatMuteSpeakerOnPause": "True",
@@ -4025,8 +4025,8 @@
   "DFIntDataPing2ReportThrottleSeconds": "2",
   "FFlagOutlineSelection": "True",
   "FIntMessageListVirtualizedRollout3": "1",
-  "FStringFlagRepoGitHashFastString": "3cbbaf14f1fb78a45f0dd732af162e9368fe86f0",
-  "DFStringFlagRepoGitHashDynamicString": "3cbbaf14f1fb78a45f0dd732af162e9368fe86f0",
-  "FStringFlipTimeStampFastString": "2022-09-13T09:20:15.454Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-13T09:20:15.454Z"
+  "FStringFlagRepoGitHashFastString": "f5bd8ef1e0e1f176f997959635a36c9df57b22ae",
+  "DFStringFlagRepoGitHashDynamicString": "f5bd8ef1e0e1f176f997959635a36c9df57b22ae",
+  "FStringFlipTimeStampFastString": "2022-09-13T12:51:09.097Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-13T12:51:09.097Z"
 }
