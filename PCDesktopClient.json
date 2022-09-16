@@ -2226,7 +2226,7 @@
   "DFFlagFacialAnimationStreaming": "False",
   "DFFlagFacialAnimationStreaming_PlaceFilter": "True;2178064631;7369597890;9299262749;9793123004;9799263270;9872815406;10001271232;10001514317;10724942847;10057672346;10358747927;10442917528;10548862903;10713392009;10787386927",
   "DFFlagVideoCaptureServiceEnabled": "False",
-  "DFFlagVideoCaptureServiceEnabled_PlaceFilter": "True;2178064631;7369597890;9299262749;9793123004;9799263270;9872815406;10001271232;10001514317;10724942847;10057672346;10358747927;10442917528;10548862903;10713392009;10787386927",
+  "DFFlagVideoCaptureServiceEnabled_PlaceFilter": "True;2178064631;7369597890;9299262749;9793123004;9799263270;9872815406;10001271232;10001514317;10724942847;10057672346;10358747927;10548862903;10713392009;10787386927",
   "FFlagEnableCameraByDefault": "False",
   "FFlagEnableCameraByDefault_PlaceFilter": "True;2178064631;7369597890;9299262749;9793123004;9799263270;9872815406;10001271232;10001514317;10724942847;10057672346;10358747927;10442917528;10548862903;10713392009;10787386927",
   "FFlagRtMessaging": "False",
@@ -3645,7 +3645,7 @@
   "FFlagSerializerSupportZlib": "True",
   "FFlagStudioExternalLoginTelemetryCombineStageNames": "True",
   "FFlagFaceAnimatorEnableAudioToCurves": "True",
-  "FFlagFaceAnimatorEnableAudioToCurves_PlaceFilter": "False;10442917528;10713392009;10724942847;10787386927",
+  "FFlagFaceAnimatorEnableAudioToCurves_PlaceFilter": "False;10713392009;10724942847;10787386927",
   "FFlagDontSendTokenRequestWithEmptyToken": "True",
   "FFlagLuauSimplerUpval": "True",
   "FFlagSerializerSupportZstd": "True",
@@ -4158,8 +4158,8 @@
   "FIntLuaAppGameExperienceGuidelinesRollout6": "100",
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "fc1ffdb2c83e0cb247acaab84f9fab1c81912d45",
-  "DFStringFlagRepoGitHashDynamicString": "fc1ffdb2c83e0cb247acaab84f9fab1c81912d45",
-  "FStringFlipTimeStampFastString": "2022-09-16T16:40:38.205Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-16T16:40:38.205Z"
+  "FStringFlagRepoGitHashFastString": "c0b3ec0f5323e60534ad94759113eb803cd0e859",
+  "DFStringFlagRepoGitHashDynamicString": "c0b3ec0f5323e60534ad94759113eb803cd0e859",
+  "FStringFlipTimeStampFastString": "2022-09-16T16:56:38.960Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-16T16:56:38.960Z"
 }
