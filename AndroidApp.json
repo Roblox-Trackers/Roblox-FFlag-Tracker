@@ -1100,7 +1100,7 @@
   "FFlagDevFrameworkUseSiblingPackages": "True",
   "DFFlagEnablePerfDataSummaryMode": "True",
   "DFIntPerfDataSummaryModeHundredthsPercent": "6500",
-  "DFFlagEnableCloseFmodLogs": "True",
+  "DFFlagEnableCloseFmodLogs": "False",
   "DFIntMemoryPressureTriggerMB": "75",
   "FFlagLockTaskLibrary": "True",
   "DFFlagNetworkingInfoSecLogs": "True",
@@ -4307,8 +4307,8 @@
   "DFIntAlternateMemoryPressureTriggerMB": "350",
   "DFIntAlternateMemoryPrioritizationThresholdSubsetPercent": "20",
   "FIntMessageListVirtualizedRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "95ac7a580b69d7314a88af8581a55e3d4a23e05a",
-  "DFStringFlagRepoGitHashDynamicString": "95ac7a580b69d7314a88af8581a55e3d4a23e05a",
-  "FStringFlipTimeStampFastString": "2022-09-16T22:30:37.118Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-16T22:30:37.118Z"
+  "FStringFlagRepoGitHashFastString": "f0af8e86782f16dfa22372a37cc186d53ac001cc",
+  "DFStringFlagRepoGitHashDynamicString": "f0af8e86782f16dfa22372a37cc186d53ac001cc",
+  "FStringFlipTimeStampFastString": "2022-09-16T23:25:45.618Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-16T23:25:45.618Z"
 }
