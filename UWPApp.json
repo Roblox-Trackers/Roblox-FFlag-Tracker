@@ -3921,6 +3921,8 @@
   "FFlagUniversalAppOnMac": "True",
   "FFlagFixMessageReceivedEventLeak": "True",
   "FFlagFixMockSizingLabelMemoryLeak2": "True",
+  "FFlagGraphicsParticlesSoftZOffsetFix3": "True",
+  "FFlagGraphicsParticlesSoftZOffsetFixGLDep2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4129,8 +4131,8 @@
   "FIntLuaAppGameExperienceGuidelinesRollout6": "100",
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "4c8df9c9b8695a3e3285c94380c6a58694488043",
-  "DFStringFlagRepoGitHashDynamicString": "4c8df9c9b8695a3e3285c94380c6a58694488043",
-  "FStringFlipTimeStampFastString": "2022-09-19T21:42:17.176Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-19T21:42:17.176Z"
+  "FStringFlagRepoGitHashFastString": "97637b86f8ec631a648e6159b0a48f22d95e4357",
+  "DFStringFlagRepoGitHashDynamicString": "97637b86f8ec631a648e6159b0a48f22d95e4357",
+  "FStringFlipTimeStampFastString": "2022-09-19T22:12:01.226Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-19T22:12:01.226Z"
 }
