@@ -3426,7 +3426,7 @@
   "DFFlagReportDataPing2ByRPR": "True",
   "DFIntDataPing2ReportByIPInfluxHundredthsPercentage": "10000",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "100",
-  "DFIntRemotePopToReadTimeReportingThresholdMS": "10",
+  "DFIntRemotePopToReadTimeReportingThresholdMS": "100",
   "DFIntServerIPAddressDataPingSelectionModuloValue": "1000",
   "DFIntServerIPAddressDataPingSelectionNumUnits": "2",
   "FFlagStudioCheckGCSInActionHandler": "True",
@@ -4159,8 +4159,8 @@
   "FIntLuaAppGameExperienceGuidelinesRollout6": "100",
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "3b136aab6250a9d689a6d4cf927b0685c1180d3c",
-  "DFStringFlagRepoGitHashDynamicString": "3b136aab6250a9d689a6d4cf927b0685c1180d3c",
-  "FStringFlipTimeStampFastString": "2022-09-20T23:16:36.142Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-20T23:16:36.142Z"
+  "FStringFlagRepoGitHashFastString": "6f4b15c1f14ce1157e18b88ef0f2f2fcca86c89f",
+  "DFStringFlagRepoGitHashDynamicString": "6f4b15c1f14ce1157e18b88ef0f2f2fcca86c89f",
+  "FStringFlipTimeStampFastString": "2022-09-20T23:19:31.527Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-20T23:19:31.527Z"
 }
