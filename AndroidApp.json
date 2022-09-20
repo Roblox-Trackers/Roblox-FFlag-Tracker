@@ -3767,7 +3767,7 @@
   "DFFlagVoiceChatMuteMicrophoneOnPause": "True",
   "DFFlagVoiceChatMuteSpeakerOnPause": "True",
   "FFlagFixGameDetailTruncationWithVB": "True",
-  "DFFlagVideoUseSystemTime": "False",
+  "DFFlagVideoUseSystemTime": "True",
   "FFlagStopRemovingMessageHandler": "True",
   "DFIntGameMenuFlowTelemetryThrottle": "100",
   "FFlagAlignToolImprovedAnalytics": "True",
@@ -3900,10 +3900,8 @@
   "FFlagOnlyLoadOneCallstack2": "True",
   "FFlagFixJapaneseLineBreak": "True",
   "DFFlagRccUpdateChannelInCrashHandler2": "True",
-  "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;4996049426",
   "FFlagVideoCaptureOrientationLockFix": "True",
   "FFlagGroupChanges": "True",
-  "DFFlagVideoUseSystemTime_PlaceFilter": "True;9524757503",
   "DFFlagHttpLimitLoggedInfo": "True",
   "FFlagShareInviteLinkContextMenuV1ABTestEnabled_v4": "True",
   "FFlagToolboxInsertMaterialsInMS": "True",
@@ -4349,8 +4347,8 @@
   "DFIntAlternateMemoryPressureTriggerMB": "350",
   "DFIntAlternateMemoryPrioritizationThresholdSubsetPercent": "20",
   "FIntMessageListVirtualizedRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "f1bcbdecc26a4d2ca5bca33a736e0f9a637fa4c2",
-  "DFStringFlagRepoGitHashDynamicString": "f1bcbdecc26a4d2ca5bca33a736e0f9a637fa4c2",
-  "FStringFlipTimeStampFastString": "2022-09-20T22:54:22.783Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-20T22:54:22.783Z"
+  "FStringFlagRepoGitHashFastString": "3b136aab6250a9d689a6d4cf927b0685c1180d3c",
+  "DFStringFlagRepoGitHashDynamicString": "3b136aab6250a9d689a6d4cf927b0685c1180d3c",
+  "FStringFlipTimeStampFastString": "2022-09-20T23:16:36.142Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-20T23:16:36.142Z"
 }
