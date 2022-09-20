@@ -3425,7 +3425,7 @@
   "DFFlagReportDataPing2ByIP": "True",
   "DFFlagReportDataPing2ByRPR": "True",
   "DFIntDataPing2ReportByIPInfluxHundredthsPercentage": "10000",
-  "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "0",
+  "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "100",
   "DFIntRemotePopToReadTimeReportingThresholdMS": "10",
   "DFIntServerIPAddressDataPingSelectionModuloValue": "1000",
   "DFIntServerIPAddressDataPingSelectionNumUnits": "2",
@@ -3952,6 +3952,7 @@
   "DFIntReportNoWorkspaceStreamingErrorsHundredths_DataCenterFilter": "1000;232",
   "FFlagMeshSimplificationQuadricErrorEdge": "True",
   "FFlagMeshSimplificationDontAllowDegeneratedTriangle": "True",
+  "DFIntAutoSkinTransferUsedEventThrottleHundrethsPercent_PlaceFilter": "10000;9597802131",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4348,8 +4349,8 @@
   "DFIntAlternateMemoryPressureTriggerMB": "350",
   "DFIntAlternateMemoryPrioritizationThresholdSubsetPercent": "20",
   "FIntMessageListVirtualizedRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "68f10b117ff6ee9726ade9bbc9765c484aeb05bd",
-  "DFStringFlagRepoGitHashDynamicString": "68f10b117ff6ee9726ade9bbc9765c484aeb05bd",
-  "FStringFlipTimeStampFastString": "2022-09-20T22:52:03.087Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-20T22:52:03.087Z"
+  "FStringFlagRepoGitHashFastString": "f1bcbdecc26a4d2ca5bca33a736e0f9a637fa4c2",
+  "DFStringFlagRepoGitHashDynamicString": "f1bcbdecc26a4d2ca5bca33a736e0f9a637fa4c2",
+  "FStringFlipTimeStampFastString": "2022-09-20T22:54:22.783Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-20T22:54:22.783Z"
 }
