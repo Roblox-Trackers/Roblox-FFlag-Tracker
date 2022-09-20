@@ -3787,7 +3787,7 @@
   "DFFlagReplicatorEventInvocationItemStringSizeFromMetadata_DataCenterFilter": "True;232",
   "DFFlagCollisionGroupNameStage3": "False",
   "DFIntSessionTelemetryOSWarningMinimum": "5",
-  "DFFlagVoiceChatValidateDataCenterIdInTokenRequest": "False",
+  "DFFlagVoiceChatValidateDataCenterIdInTokenRequest": "True",
   "FIntVideoDecodedVideoQueueSize": "4",
   "FFlagLeaveGameOnDeeplink": "True",
   "DFFlagUseSmallVectorForStacklessKDTreeQueries": "True",
@@ -4135,8 +4135,8 @@
   "FIntLuaAppGameExperienceGuidelinesRollout6": "100",
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "cced1c64ea43305ca6fc37279778465a30386e77",
-  "DFStringFlagRepoGitHashDynamicString": "cced1c64ea43305ca6fc37279778465a30386e77",
-  "FStringFlipTimeStampFastString": "2022-09-20T17:45:05.092Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-20T17:45:05.092Z"
+  "FStringFlagRepoGitHashFastString": "36b781346f97463097af7bef52681ee1df677652",
+  "DFStringFlagRepoGitHashDynamicString": "36b781346f97463097af7bef52681ee1df677652",
+  "FStringFlipTimeStampFastString": "2022-09-20T17:45:56.692Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-20T17:45:56.692Z"
 }
