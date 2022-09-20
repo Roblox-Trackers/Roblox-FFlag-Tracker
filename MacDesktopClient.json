@@ -3811,7 +3811,7 @@
   "FFlagMaterialVariantPhysicalPropertiesV2": "True",
   "FFlagRenderUseUnifiedBuffers": "True",
   "FFlagCOLLAB2141RedirectUniversesGetInfo": "True",
-  "FIntCOLLAB2141RedirectUniversesGetInfoHundredthPercent": "1000",
+  "FIntCOLLAB2141RedirectUniversesGetInfoHundredthPercent": "0",
   "FFlagSimSolverGeometricStiffness": "False",
   "FFlagSimSolverGeometricStiffness_PlaceFilter": "True;10758120910;9111590546;3633505977",
   "FFlagReturnEarlyForNewUniverse": "True",
@@ -3934,6 +3934,7 @@
   "DFFlagSimHumanoidPhysics_PlaceFilter": "True;9863470458",
   "FFlagLuauUnionOfTypesFollow": "True",
   "DFFlagDynamicHeadFallback": "True",
+  "DFFlagVoiceChatSubscribePauseRefactorV2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4172,8 +4173,8 @@
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "0",
   "FFlagUniversalAppOnMac": "True",
-  "FStringFlagRepoGitHashFastString": "aa25ff5001ee09ecb813db7b379bd4fe21f6d088",
-  "DFStringFlagRepoGitHashDynamicString": "aa25ff5001ee09ecb813db7b379bd4fe21f6d088",
-  "FStringFlipTimeStampFastString": "2022-09-20T18:40:37.000Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-20T18:40:37.000Z"
+  "FStringFlagRepoGitHashFastString": "a62fb46b4cd7e335cb079464e0f489ead988434e",
+  "DFStringFlagRepoGitHashDynamicString": "a62fb46b4cd7e335cb079464e0f489ead988434e",
+  "FStringFlipTimeStampFastString": "2022-09-20T18:41:44.289Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-20T18:41:44.289Z"
 }
