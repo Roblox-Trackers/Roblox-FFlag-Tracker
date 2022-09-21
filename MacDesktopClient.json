@@ -2147,7 +2147,7 @@
   "FFlagFaceControlsEditorBugBash2Update": "True",
   "FFlagFaceControlsEditorBugBash3Update": "True",
   "FFlagGamepadCursorAPIs2": "True",
-  "FFlagCanvasGroupBetaFeature": "True",
+  "FFlagCanvasGroupBetaFeature": "False",
   "FFlagUnanchorAccessoryOnGeneration": "True",
   "FFlagParallelLuaDelayInstanceFree2": "True",
   "DFFlagCantVouchForThisReference2": "True",
@@ -3938,9 +3938,9 @@
   "FFlagFriendsCarouselLegacyCarouselReport": "True",
   "FIntEnableCullableScene2HundredthPercent": "000",
   "DFFlagReportNoWorkspaceStreamingErrors": "False",
-  "DFFlagReportNoWorkspaceStreamingErrors_DataCenterFilter": "True;232",
+  "DFFlagReportNoWorkspaceStreamingErrors_DataCenterFilter": "True;232;332",
   "DFIntReportNoWorkspaceStreamingErrorsHundredths": "0",
-  "DFIntReportNoWorkspaceStreamingErrorsHundredths_DataCenterFilter": "1000;232",
+  "DFIntReportNoWorkspaceStreamingErrorsHundredths_DataCenterFilter": "10000;232;332",
   "FFlagMeshSimplificationQuadricErrorEdge": "True",
   "FFlagMeshSimplificationDontAllowDegeneratedTriangle": "True",
   "DFIntAutoSkinTransferUsedEventThrottleHundrethsPercent_PlaceFilter": "10000;9597802131",
@@ -4191,8 +4191,8 @@
   "FIntMessageListVirtualizedRollout4": "0",
   "FFlagUniversalAppOnMac": "True",
   "DFFlagRakNetSendJoinDataBit_DataCenterFilter": "True;333;235",
-  "FStringFlagRepoGitHashFastString": "3c958c1c18040a5040794d5051287a91d3175001",
-  "DFStringFlagRepoGitHashDynamicString": "3c958c1c18040a5040794d5051287a91d3175001",
-  "FStringFlipTimeStampFastString": "2022-09-21T21:02:00.689Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-21T21:02:00.689Z"
+  "FStringFlagRepoGitHashFastString": "f581a483afd7618049b1816c665dc9eee14e08ad",
+  "DFStringFlagRepoGitHashDynamicString": "f581a483afd7618049b1816c665dc9eee14e08ad",
+  "FStringFlipTimeStampFastString": "2022-09-21T21:15:13.313Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-21T21:15:13.313Z"
 }
