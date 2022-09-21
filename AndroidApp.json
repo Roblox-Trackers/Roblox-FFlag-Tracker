@@ -3747,7 +3747,7 @@
   "FFlagLuaAppMobileMoreTilesPerRowIXP": "True",
   "DFFlagStudioVideoUseSimpleMp4Parser": "True",
   "FFlagReduceWorldStagesV3": "True",
-  "FFlagLuaAppGridTopBarLimitHeight": "False",
+  "FFlagLuaAppGridTopBarLimitHeight": "True",
   "FFlagSTUDIOPLAT29209FixSendInternalThreadingInStudioHttpRequest": "True",
   "FFlagXboxExperienceGuidelines": "True",
   "FFlagUseXBoxGameAbuseReportingApi": "True",
@@ -3951,8 +3951,6 @@
   "FFlagMeshSimplificationQuadricErrorEdge": "True",
   "FFlagMeshSimplificationDontAllowDegeneratedTriangle": "True",
   "DFIntAutoSkinTransferUsedEventThrottleHundrethsPercent_PlaceFilter": "10000;9597802131",
-  "DFFlagReportStreamJobStopReasons2": "False",
-  "DFFlagReportStreamJobStopReasons2_DataCenterFilter": "True;353",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4349,8 +4347,8 @@
   "DFIntAlternateMemoryPressureTriggerMB": "350",
   "DFIntAlternateMemoryPrioritizationThresholdSubsetPercent": "20",
   "FIntMessageListVirtualizedRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "e5c198c3d4c9c0b73f8261ec3da527a2f501675a",
-  "DFStringFlagRepoGitHashDynamicString": "e5c198c3d4c9c0b73f8261ec3da527a2f501675a",
-  "FStringFlipTimeStampFastString": "2022-09-20T23:51:49.389Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-20T23:51:49.389Z"
+  "FStringFlagRepoGitHashFastString": "b2b643b788316f35dec889a11977f8f1a481ad95",
+  "DFStringFlagRepoGitHashDynamicString": "b2b643b788316f35dec889a11977f8f1a481ad95",
+  "FStringFlipTimeStampFastString": "2022-09-21T00:26:03.245Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-21T00:26:03.245Z"
 }
