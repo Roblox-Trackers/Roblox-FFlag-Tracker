@@ -3463,10 +3463,8 @@
   "FFlagFixRenderSizeForBillboardGui": "True",
   "FFlagBootcampCLI57346": "True",
   "DFFlagSimConsolidationMultiplierFix": "True",
-  "FFlagEnableRenderTargetItem2": "False",
-  "FFlagEnableRenderTargetItem2_PlaceFilter": "True;7000618865;9000766053;10136256458;10281811269;10113571048;7873767159;9238693870;10217382807;9610877382",
-  "FFlagRenderCanvasGroupToTexture": "False",
-  "FFlagRenderCanvasGroupToTexture_PlaceFilter": "True;7000618865;9000766053;10136256458;10281811269;10113571048;7873767159;9238693870;10217382807;9610877382",
+  "FFlagEnableRenderTargetItem2": "True",
+  "FFlagRenderCanvasGroupToTexture": "True",
   "FFlagRouteGfxGuiRecordingForCanvasGroup2": "True",
   "FFlagShaderPreprocessPremultiplied": "True",
   "FFlagLCSortQuickMenuEntryForAnalytics": "True",
@@ -4192,8 +4190,8 @@
   "FIntMessageListVirtualizedRollout4": "0",
   "FFlagUniversalAppOnMac": "True",
   "DFFlagRakNetSendJoinDataBit_DataCenterFilter": "True;333;235",
-  "FStringFlagRepoGitHashFastString": "7cf99a266056ef4cd0089a84b152a429882271d9",
-  "DFStringFlagRepoGitHashDynamicString": "7cf99a266056ef4cd0089a84b152a429882271d9",
-  "FStringFlipTimeStampFastString": "2022-09-21T20:48:45.923Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-21T20:48:45.923Z"
+  "FStringFlagRepoGitHashFastString": "0277e469dc3f53c77acb74fe3652f439e7c2b24c",
+  "DFStringFlagRepoGitHashDynamicString": "0277e469dc3f53c77acb74fe3652f439e7c2b24c",
+  "FStringFlipTimeStampFastString": "2022-09-21T20:50:41.311Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-21T20:50:41.311Z"
 }
