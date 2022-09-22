@@ -3332,8 +3332,6 @@
   "FFlagEnableVideoTextureDynamicResize": "False",
   "FFlagEnableSponsoredGamesHomeOmniFeedV4": "True",
   "FIntRakNetResendBufferArrayLength_DataCenterFilter": "512;348",
-  "FFlagConsolidateNewGetBodyPartR15_PlaceFilter": "True;9597802131",
-  "FFlagRigidAutoSkinTransfer_PlaceFilter": "True;9597802131",
   "FFlagEnableBetaBadgeLearnMore": "True",
   "DFFlagXboxPartyRbxJson": "True",
   "FFlagFacsRigFasterPrepare": "True",
@@ -4006,6 +4004,8 @@
   "FFlagStudioDoNotPlaceFloatingDMPluginsAtBottom": "True",
   "FFlagStudioEnforceMinimumSizeOnQtitanPluginPanels": "True",
   "FFlagStudioUpdateLayoutOnPluginActionAdd": "True",
+  "FFlagConsolidateNewGetBodyPartR15": "True",
+  "FFlagRigidAutoSkinTransfer": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4306,8 +4306,8 @@
   "FFlagSoothsayerCheckForContactImporterV1": "True",
   "FFlagEnableGameVCAutoLayout": "True",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "206c7f91963ae95a37452cc7e93029dc37cfffa2",
-  "DFStringFlagRepoGitHashDynamicString": "206c7f91963ae95a37452cc7e93029dc37cfffa2",
-  "FStringFlipTimeStampFastString": "2022-09-22T18:39:00.791Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-22T18:39:00.791Z"
+  "FStringFlagRepoGitHashFastString": "1285473f099c0e9643f782b22dc104f42984b7b0",
+  "DFStringFlagRepoGitHashDynamicString": "1285473f099c0e9643f782b22dc104f42984b7b0",
+  "FStringFlipTimeStampFastString": "2022-09-22T18:46:34.788Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-22T18:46:34.788Z"
 }
