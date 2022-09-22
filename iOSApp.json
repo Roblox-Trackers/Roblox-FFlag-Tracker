@@ -3656,7 +3656,7 @@
   "FFlagStudioUpdateWebView2Telemetry2": "False",
   "DFFlagTrackInPlaySession": "True",
   "DFFlagEnableFontAsAttribute": "True",
-  "FFlagNewFontUIBetaFeature": "True",
+  "FFlagNewFontUIBetaFeature": "False",
   "FFlagExperienceInviteNotification": "True",
   "FFlagShadowDataModelLspSync": "False",
   "FFlagUseShadowDataModel2": "False",
@@ -3978,6 +3978,8 @@
   "DFFlagFixRigNotRebuilding": "True",
   "FFlagFixFontSetters": "True",
   "FFlagMaterialManagerDisableSelectionOnTool": "True",
+  "FFlagFontPropertyItem": "True",
+  "FFlagShowFontInAddNewAttributeDialog": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4278,8 +4280,8 @@
   "FFlagSoothsayerCheckForContactImporterV1": "True",
   "FFlagEnableGameVCAutoLayout": "True",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "6bde9ec49474b187202cfdab3db08b2c06164ce6",
-  "DFStringFlagRepoGitHashDynamicString": "6bde9ec49474b187202cfdab3db08b2c06164ce6",
-  "FStringFlipTimeStampFastString": "2022-09-22T17:09:03.070Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-22T17:09:03.070Z"
+  "FStringFlagRepoGitHashFastString": "d4075c8e524bcbe9564a36f9298f83d3229e57aa",
+  "DFStringFlagRepoGitHashDynamicString": "d4075c8e524bcbe9564a36f9298f83d3229e57aa",
+  "FStringFlipTimeStampFastString": "2022-09-22T17:14:16.860Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-22T17:14:16.860Z"
 }
