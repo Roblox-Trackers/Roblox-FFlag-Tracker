@@ -3992,6 +3992,9 @@
   "DFFlagFixJoinBitSettingInStream": "False",
   "FFlagSetSourceTextCrash": "True",
   "FFlagAuthTokenManagerHasASimpleTimer2": "True",
+  "FFlagStudioFixRestorationLogicForOneGSTPlugins": "True",
+  "FFlagStudioInvalidCurrentDocCrash": "True",
+  "FFlagStudioOptimizedPluginPanelsRestorationUponGSTChanges": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4231,8 +4234,8 @@
   "FIntMessageListVirtualizedRollout4": "0",
   "FFlagUniversalAppOnMac": "True",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "9813ab377fd6286e2058d8909bfd886e9bb92fa8",
-  "DFStringFlagRepoGitHashDynamicString": "9813ab377fd6286e2058d8909bfd886e9bb92fa8",
-  "FStringFlipTimeStampFastString": "2022-09-22T18:16:41.700Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-22T18:16:41.700Z"
+  "FStringFlagRepoGitHashFastString": "253fa46ce910f7e8aaafd8809eb28734664d7a23",
+  "DFStringFlagRepoGitHashDynamicString": "253fa46ce910f7e8aaafd8809eb28734664d7a23",
+  "FStringFlipTimeStampFastString": "2022-09-22T18:19:44.297Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-22T18:19:44.297Z"
 }
