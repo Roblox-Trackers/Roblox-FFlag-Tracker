@@ -3971,6 +3971,9 @@
   "DFIntDefaultHeadFallbackEventThrottleHundrethsPercent": "10000",
   "FFlagExtendPluginTheme1": "True",
   "DFFlagPerfDataOnlyReportSummaryWhenTrue": "True",
+  "DFFlagEngineStabilityMetrics": "True",
+  "DFIntEngineStabilityReportThrottleHundredthsPercent": "10000",
+  "DFIntEngineStabilityTrackingWindowInSeconds": "86400",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4179,8 +4182,8 @@
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "100",
   "FFlagXboxMigrateOffAccountInfo": "True",
-  "FStringFlagRepoGitHashFastString": "c53fec8d1ce31b49ba7982c17aee50164b78eb8a",
-  "DFStringFlagRepoGitHashDynamicString": "c53fec8d1ce31b49ba7982c17aee50164b78eb8a",
-  "FStringFlipTimeStampFastString": "2022-09-22T16:32:33.988Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-22T16:32:33.988Z"
+  "FStringFlagRepoGitHashFastString": "2d94cf8ea102d782983137692415e25ece3874da",
+  "DFStringFlagRepoGitHashDynamicString": "2d94cf8ea102d782983137692415e25ece3874da",
+  "FStringFlipTimeStampFastString": "2022-09-22T16:32:53.988Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-22T16:32:53.988Z"
 }
