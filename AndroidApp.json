@@ -3221,7 +3221,7 @@
   "FFlagStudioPluginsUseBedev2Endpoint": "True",
   "FFlagFixUiEditorDeferredSignalingBug": "True",
   "DFFlagMemoryCategoriesForGPU": "True",
-  "DFFlagUseClientSessionTrackingAPI": "False",
+  "DFFlagUseClientSessionTrackingAPI": "True",
   "FFlagToolboxFixAssetsNoVoteData2": "True",
   "FFlagUIBloxSliderCustomization": "True",
   "FFlagShowModerationAbuseTypeAndMessage2": "True",
@@ -3970,6 +3970,7 @@
   "DFFlagAnalyticsDefaultHeadLoaded": "True",
   "DFIntDefaultHeadFallbackEventThrottleHundrethsPercent": "10000",
   "FFlagExtendPluginTheme1": "True",
+  "DFFlagPerfDataOnlyReportSummaryWhenTrue": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4366,8 +4367,8 @@
   "DFIntAlternateMemoryPressureTriggerMB": "350",
   "DFIntAlternateMemoryPrioritizationThresholdSubsetPercent": "20",
   "FIntMessageListVirtualizedRollout4": "0",
-  "FStringFlagRepoGitHashFastString": "a6de47975fc025e9e7e93b7a569c6182d8a9dc6a",
-  "DFStringFlagRepoGitHashDynamicString": "a6de47975fc025e9e7e93b7a569c6182d8a9dc6a",
-  "FStringFlipTimeStampFastString": "2022-09-22T16:27:18.162Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-22T16:27:18.162Z"
+  "FStringFlagRepoGitHashFastString": "c53fec8d1ce31b49ba7982c17aee50164b78eb8a",
+  "DFStringFlagRepoGitHashDynamicString": "c53fec8d1ce31b49ba7982c17aee50164b78eb8a",
+  "FStringFlipTimeStampFastString": "2022-09-22T16:32:33.988Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-22T16:32:33.988Z"
 }
