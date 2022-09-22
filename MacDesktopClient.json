@@ -3962,6 +3962,9 @@
   "FFlagVRUsePointerForTextBoxPreprocessing": "True",
   "DFFlagReportStreamJobStopReasons2": "False",
   "DFFlagReportStreamJobStopReasons2_DataCenterFilter": "True;353",
+  "DFFlagEngineStabilityMetrics": "True",
+  "DFIntEngineStabilityReportThrottleHundredthsPercent": "10000",
+  "DFIntEngineStabilityTrackingWindowInSeconds": "86400",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4200,8 +4203,8 @@
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "0",
   "FFlagUniversalAppOnMac": "True",
-  "FStringFlagRepoGitHashFastString": "e1742581568453c7cec2378b02e513ac3bae6a43",
-  "DFStringFlagRepoGitHashDynamicString": "e1742581568453c7cec2378b02e513ac3bae6a43",
-  "FStringFlipTimeStampFastString": "2022-09-21T23:53:32.005Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-21T23:53:32.005Z"
+  "FStringFlagRepoGitHashFastString": "5f73fb27395de2443135a4efce82b56229d6e92c",
+  "DFStringFlagRepoGitHashDynamicString": "5f73fb27395de2443135a4efce82b56229d6e92c",
+  "FStringFlipTimeStampFastString": "2022-09-22T00:00:22.487Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-22T00:00:22.487Z"
 }
