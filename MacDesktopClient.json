@@ -3980,6 +3980,8 @@
   "FFlagMaterialManagerDisableSelectionOnTool": "True",
   "FFlagFontPropertyItem": "True",
   "FFlagShowFontInAddNewAttributeDialog": "True",
+  "DFFlagSessionTrackingFlushAtImportantCheckpoints": "True",
+  "DFFlagSessionTrackingInitializeSessionStartTimeOnce": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4219,8 +4221,8 @@
   "FIntMessageListVirtualizedRollout4": "0",
   "FFlagUniversalAppOnMac": "True",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "80bc54361eedc1d634edd5d1c6931c90ac099b18",
-  "DFStringFlagRepoGitHashDynamicString": "80bc54361eedc1d634edd5d1c6931c90ac099b18",
-  "FStringFlipTimeStampFastString": "2022-09-22T17:17:02.115Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-22T17:17:02.115Z"
+  "FStringFlagRepoGitHashFastString": "558af0826fc7ce77d4c478da182826b74da7f359",
+  "DFStringFlagRepoGitHashDynamicString": "558af0826fc7ce77d4c478da182826b74da7f359",
+  "FStringFlipTimeStampFastString": "2022-09-22T17:23:10.043Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-22T17:23:10.043Z"
 }
