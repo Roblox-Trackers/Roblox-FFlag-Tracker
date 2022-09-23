@@ -4013,8 +4013,10 @@
   "FFlagFixUniversalAppTopOffsetV2": "True",
   "FFlagStudioDoNotDropDockWindowUponGSTChange": "True",
   "FFlagStudioSyncRibbonForAutoHidePluginsOnGSTChange": "True",
-  "FFlagThumbnailerAddsMoodsToAvatarThumbnails": "True",
+  "FFlagThumbnailerAddsMoodsToAvatarThumbnails": "False",
   "FFlagPlasticNewShaders_PlaceFilter": "False;606849621",
+  "DFFlagReportStreamJobStopReasons2": "False",
+  "DFFlagReportStreamJobStopReasons2_DataCenterFilter": "True;353",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4266,8 +4268,8 @@
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "0",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "3ee8c4c78ce04ffe9e886ef4868ed4492ee5e91a",
-  "DFStringFlagRepoGitHashDynamicString": "3ee8c4c78ce04ffe9e886ef4868ed4492ee5e91a",
-  "FStringFlipTimeStampFastString": "2022-09-22T23:49:11.376Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-22T23:49:11.376Z"
+  "FStringFlagRepoGitHashFastString": "c9ad4081c11c0c81a3797353d010e3b4c6e0c846",
+  "DFStringFlagRepoGitHashDynamicString": "c9ad4081c11c0c81a3797353d010e3b4c6e0c846",
+  "FStringFlipTimeStampFastString": "2022-09-23T00:12:49.702Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-23T00:12:49.702Z"
 }
