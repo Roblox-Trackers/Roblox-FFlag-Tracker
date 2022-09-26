@@ -3226,7 +3226,7 @@
   "FFlagUIBloxSliderCustomization": "True",
   "FFlagShowModerationAbuseTypeAndMessage2": "True",
   "FFlagStudioMigrateCloudEditConnectionLostDialogToShow": "True",
-  "DFIntGameTransactionsMigrationRolloutPercentage": "30",
+  "DFIntGameTransactionsMigrationRolloutPercentage": "50",
   "DFIntNonuniformUnionsMigrationChoicePercent": "10000",
   "DFIntNonuniformUnionsRolloutChangePercent": "10000",
   "FFlagEnableMaterialManager": "True",
@@ -4038,6 +4038,7 @@
   "FFlagRegionLoDSubscription_DataCenterFilter": "True;265",
   "FFlagSOTracksLoD": "False",
   "FFlagSOTracksLoD_DataCenterFilter": "True;265",
+  "FFlagAvatarFaceChatAudioQueueAnalytics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4435,8 +4436,8 @@
   "DFIntAlternateMemoryPrioritizationThresholdSubsetPercent": "20",
   "FIntMessageListVirtualizedRollout4": "50",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "05411892f2301cf7df58c9b61304afe3753b37cf",
-  "DFStringFlagRepoGitHashDynamicString": "05411892f2301cf7df58c9b61304afe3753b37cf",
-  "FStringFlipTimeStampFastString": "2022-09-26T17:13:23.176Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-26T17:13:23.176Z"
+  "FStringFlagRepoGitHashFastString": "c05354e11b666649f4977b08889daeac662d3dc7",
+  "DFStringFlagRepoGitHashDynamicString": "c05354e11b666649f4977b08889daeac662d3dc7",
+  "FStringFlipTimeStampFastString": "2022-09-26T17:25:34.827Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-26T17:25:34.827Z"
 }
