@@ -4025,6 +4025,7 @@
   "FFlagUserVRBottomBarWorksBehindObjects": "True",
   "FFlagFaceAnimatorEnableTrackerModeAPI": "True",
   "FFlagEnableSyncAudioWithVoiceChatMuteState": "True",
+  "FFlagDisableLegacyCodecFallback": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4422,8 +4423,8 @@
   "DFIntAlternateMemoryPrioritizationThresholdSubsetPercent": "20",
   "FIntMessageListVirtualizedRollout4": "10",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "4e76adfc0633c7a2c564a875ec681824fec48bb2",
-  "DFStringFlagRepoGitHashDynamicString": "4e76adfc0633c7a2c564a875ec681824fec48bb2",
-  "FStringFlipTimeStampFastString": "2022-09-26T16:19:05.242Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-26T16:19:05.242Z"
+  "FStringFlagRepoGitHashFastString": "f3c7bbbaf708346ddfdaff678234af8c858cdd98",
+  "DFStringFlagRepoGitHashDynamicString": "f3c7bbbaf708346ddfdaff678234af8c858cdd98",
+  "FStringFlipTimeStampFastString": "2022-09-26T16:22:03.116Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-26T16:22:03.116Z"
 }
