@@ -4038,6 +4038,9 @@
   "FFlagSOTracksLoD": "False",
   "FFlagSOTracksLoD_DataCenterFilter": "True;265",
   "FFlagAvatarFaceChatAudioQueueAnalytics": "True",
+  "FFlagStudioDoNotHideForRestoreLaterOnAboutToPlay": "True",
+  "FFlagStudioFixDocsAddedAfterRestore": "True",
+  "FFlagStudioFixNotificationManagerCrashDuringStateChange": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4289,8 +4292,8 @@
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "0",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "b042a7c36c838ffed3c7c0ea7d45c7ad0f98ebcb",
-  "DFStringFlagRepoGitHashDynamicString": "b042a7c36c838ffed3c7c0ea7d45c7ad0f98ebcb",
-  "FStringFlipTimeStampFastString": "2022-09-26T17:37:57.899Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-26T17:37:57.899Z"
+  "FStringFlagRepoGitHashFastString": "74df1f4fdfe4b47f1f2495984f2a200a34bba46c",
+  "DFStringFlagRepoGitHashDynamicString": "74df1f4fdfe4b47f1f2495984f2a200a34bba46c",
+  "FStringFlipTimeStampFastString": "2022-09-26T17:48:27.723Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-26T17:48:27.723Z"
 }
