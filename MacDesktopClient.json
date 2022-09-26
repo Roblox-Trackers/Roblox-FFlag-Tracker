@@ -4044,6 +4044,9 @@
   "FFlagUseFixedAddSaturated": "True",
   "FFlagCloudsSunCoverEnabledCheck": "True",
   "FFlagStudioAddLockWhenCheckingIsTokenCached2": "True",
+  "DFFlagRakNetUseGrowthPercentInt": "False",
+  "DFFlagRakNetUseGrowthPercentInt_DataCenterFilter": "True;235;333",
+  "FFlagInitializeBaseCellState": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4283,8 +4286,8 @@
   "FIntMessageListVirtualizedRollout4": "0",
   "FFlagUniversalAppOnMac": "True",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "a79cdcb82dde093d45c6247a4b6411b071a5fa78",
-  "DFStringFlagRepoGitHashDynamicString": "a79cdcb82dde093d45c6247a4b6411b071a5fa78",
-  "FStringFlipTimeStampFastString": "2022-09-26T18:02:02.485Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-26T18:02:02.485Z"
+  "FStringFlagRepoGitHashFastString": "7c4eace5d6cf4a3713bf10020e3e544d063c1e9c",
+  "DFStringFlagRepoGitHashDynamicString": "7c4eace5d6cf4a3713bf10020e3e544d063c1e9c",
+  "FStringFlipTimeStampFastString": "2022-09-26T18:06:53.864Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-26T18:06:53.864Z"
 }
