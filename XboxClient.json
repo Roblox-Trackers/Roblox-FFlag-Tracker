@@ -4054,6 +4054,8 @@
   "ANRZombieThreadFix": "True",
   "FFlagEnableNewSystemBarAvatarIconV2": "True",
   "DFFlagVideoMetricsReportZero": "True",
+  "DFFlagRecvFromLoopMemoryReleaseFix": "False",
+  "DFFlagRecvFromLoopMemoryReleaseFix_DataCenterFilter": "True;299;332",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4263,8 +4265,8 @@
   "FIntMessageListVirtualizedRollout4": "100",
   "FFlagXboxMigrateOffAccountInfo": "True",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "22a3fe94c0b5e70b82cabf0650d38cc579884866",
-  "DFStringFlagRepoGitHashDynamicString": "22a3fe94c0b5e70b82cabf0650d38cc579884866",
-  "FStringFlipTimeStampFastString": "2022-09-26T19:43:26.299Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-26T19:43:26.299Z"
+  "FStringFlagRepoGitHashFastString": "3f02583792a686a191df3df93d4dae812ccb564b",
+  "DFStringFlagRepoGitHashDynamicString": "3f02583792a686a191df3df93d4dae812ccb564b",
+  "FStringFlipTimeStampFastString": "2022-09-26T20:12:19.665Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-26T20:12:19.665Z"
 }
