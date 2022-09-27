@@ -4054,7 +4054,7 @@
   "ANRZombieThreadFix": "True",
   "FFlagEnableNewSystemBarAvatarIconV2": "True",
   "DFFlagVideoMetricsReportZero": "True",
-  "DFFlagRecvFromLoopMemoryReleaseFix": "False",
+  "DFFlagRecvFromLoopMemoryReleaseFix": "True",
   "DFFlagRecvFromLoopMemoryReleaseFix_DataCenterFilter": "True;299;332;283;352",
   "EnableAssetUnpackBeginEvent": "True",
   "FFlagFixHPlaneForSphereAndCylinder": "True",
@@ -4331,8 +4331,8 @@
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "0",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "433a8de1a69adfa4a3ebd2f31a683f36ad613218",
-  "DFStringFlagRepoGitHashDynamicString": "433a8de1a69adfa4a3ebd2f31a683f36ad613218",
-  "FStringFlipTimeStampFastString": "2022-09-27T16:00:44.095Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-27T16:00:44.095Z"
+  "FStringFlagRepoGitHashFastString": "62d28e0ca0ced6d890aca238559424881fe02db2",
+  "DFStringFlagRepoGitHashDynamicString": "62d28e0ca0ced6d890aca238559424881fe02db2",
+  "FStringFlipTimeStampFastString": "2022-09-27T16:06:41.249Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-27T16:06:41.249Z"
 }
