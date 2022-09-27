@@ -4033,10 +4033,8 @@
   "FFlagLuauCallUnifyPackTails": "True",
   "FFlagACEFixFaceRecorderFlow": "True",
   "FFlagTextUnderCustomizeTilesIXPEnabled3": "True",
-  "FFlagRegionLoDSubscription": "False",
-  "FFlagRegionLoDSubscription_DataCenterFilter": "True;265",
-  "FFlagSOTracksLoD": "False",
-  "FFlagSOTracksLoD_DataCenterFilter": "True;265",
+  "FFlagRegionLoDSubscription": "True",
+  "FFlagSOTracksLoD": "True",
   "FFlagAvatarFaceChatAudioQueueAnalytics": "True",
   "FFlagStudioDoNotHideForRestoreLaterOnAboutToPlay": "True",
   "FFlagStudioFixDocsAddedAfterRestore": "True",
@@ -4296,8 +4294,8 @@
   "FIntMessageListVirtualizedRollout4": "100",
   "FFlagXboxMigrateOffAccountInfo": "True",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "51344475f99568708a5b20288fd9c97f301a1098",
-  "DFStringFlagRepoGitHashDynamicString": "51344475f99568708a5b20288fd9c97f301a1098",
-  "FStringFlipTimeStampFastString": "2022-09-27T16:24:00.629Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-27T16:24:00.629Z"
+  "FStringFlagRepoGitHashFastString": "bcb91f4794c358678ad2c4578516e81ed830b035",
+  "DFStringFlagRepoGitHashDynamicString": "bcb91f4794c358678ad2c4578516e81ed830b035",
+  "FStringFlipTimeStampFastString": "2022-09-27T16:28:51.082Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-27T16:28:51.082Z"
 }
