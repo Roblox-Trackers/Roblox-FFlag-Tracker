@@ -3809,7 +3809,7 @@
   "FFlagRenderEnableHalfsMali": "True",
   "FFlagIncompleteDragShouldCancel": "True",
   "DFFlagSimNewMaterialProperties": "True",
-  "FFlagRenderTC2_FixViewportFrame": "False",
+  "FFlagRenderTC2_FixViewportFrame": "True",
   "FFlagFacialAnimationRecordingInStudio": "False",
   "FFlagSelfieViewFeature": "False",
   "FFlagMoodsEmoteFix3": "True",
@@ -4129,6 +4129,7 @@
   "DFFlagControllerManagerTweaks": "True",
   "DFFlagHumanoidUseFloorWorld": "True",
   "FIntCOLLAB2237RedirectGetGamePlacesAsyncHundredthPercent": "10000",
+  "DFFlagAddFinalFinalSaveToTelemetry2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4527,8 +4528,8 @@
   "FIntMessageListVirtualizedRollout4": "50",
   "FFlagPropertyWidgetPhysicalProperties": "True",
   "DFFlagLogSystemSinkSupport2": "True",
-  "FStringFlagRepoGitHashFastString": "5933c86b9b25f7bdf88113b4441a3724f59b645f",
-  "DFStringFlagRepoGitHashDynamicString": "5933c86b9b25f7bdf88113b4441a3724f59b645f",
-  "FStringFlipTimeStampFastString": "2022-09-28T21:04:57.586Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-28T21:04:57.586Z"
+  "FStringFlagRepoGitHashFastString": "00deee5e90a849fdeae9356773837f7c7e90c66e",
+  "DFStringFlagRepoGitHashDynamicString": "00deee5e90a849fdeae9356773837f7c7e90c66e",
+  "FStringFlipTimeStampFastString": "2022-09-28T21:10:50.102Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-28T21:10:50.102Z"
 }
