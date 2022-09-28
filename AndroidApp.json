@@ -4130,6 +4130,8 @@
   "DFFlagHumanoidUseFloorWorld": "True",
   "FIntCOLLAB2237RedirectGetGamePlacesAsyncHundredthPercent": "10000",
   "DFFlagAddFinalFinalSaveToTelemetry2": "True",
+  "FFlagCOLLAB2264PreemptiveLoadTCRecentGamesOnStartUp": "True",
+  "FIntCOLLAB2264PreemptiveLoadTCRecentGamesOnStartUpRolloutPercentage": "5",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4528,8 +4530,8 @@
   "FIntMessageListVirtualizedRollout4": "50",
   "FFlagPropertyWidgetPhysicalProperties": "True",
   "DFFlagLogSystemSinkSupport2": "True",
-  "FStringFlagRepoGitHashFastString": "00deee5e90a849fdeae9356773837f7c7e90c66e",
-  "DFStringFlagRepoGitHashDynamicString": "00deee5e90a849fdeae9356773837f7c7e90c66e",
-  "FStringFlipTimeStampFastString": "2022-09-28T21:10:50.102Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-28T21:10:50.102Z"
+  "FStringFlagRepoGitHashFastString": "1d65510022c1fb56348c67295539db35a738bb57",
+  "DFStringFlagRepoGitHashDynamicString": "1d65510022c1fb56348c67295539db35a738bb57",
+  "FStringFlipTimeStampFastString": "2022-09-28T21:11:26.199Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-28T21:11:26.199Z"
 }
