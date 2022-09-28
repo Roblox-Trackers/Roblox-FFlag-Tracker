@@ -4146,6 +4146,10 @@
   "DFFlagCLI58952Report": "True",
   "DFIntCLI58952HundrethsPercentage": "100",
   "FFlagLuaAddMetricsForAddAgreementsIdsToSignupRequest1": "True",
+  "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent": "1",
+  "FFlagStudioLexMapChangeDocAnalytics": "True",
+  "FFlagStudioNewScriptSizeTelemetry": "True",
+  "FFlagFFlagToolboxAddAssetSubTypesToAnalytics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4387,8 +4391,8 @@
   "FFlagPropertyWidgetPhysicalProperties": "True",
   "FFlagLuaAppEnableStudioCTATest": "True",
   "FFlagReportSentPageV2Enabled": "True",
-  "FStringFlagRepoGitHashFastString": "b8923807d7f803f0d6acc94eb66e01a672c0636d",
-  "DFStringFlagRepoGitHashDynamicString": "b8923807d7f803f0d6acc94eb66e01a672c0636d",
-  "FStringFlipTimeStampFastString": "2022-09-28T21:55:09.050Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-28T21:55:09.050Z"
+  "FStringFlagRepoGitHashFastString": "0801a204e1c90189080c964c8da8eee9a62bbd5d",
+  "DFStringFlagRepoGitHashDynamicString": "0801a204e1c90189080c964c8da8eee9a62bbd5d",
+  "FStringFlipTimeStampFastString": "2022-09-28T22:00:29.762Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-28T22:00:29.762Z"
 }
