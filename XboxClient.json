@@ -4145,7 +4145,7 @@
   "DFFlagCLI58952Report": "True",
   "DFIntCLI58952HundrethsPercentage": "1000",
   "FFlagLuaAddMetricsForAddAgreementsIdsToSignupRequest1": "True",
-  "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent": "10",
+  "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent": "25",
   "FFlagStudioLexMapChangeDocAnalytics": "True",
   "FFlagStudioNewScriptSizeTelemetry": "True",
   "FFlagFFlagToolboxAddAssetSubTypesToAnalytics": "True",
@@ -4167,7 +4167,7 @@
   "DFFlagRakNetReceiveRefactor2": "True",
   "DFFlagInferredCrashCalculateCorrectOOMPercent": "True",
   "DFFlagStudioReplaceIncrementalLexer": "True",
-  "DFIntStudioReplaceIncrementalLexerHundredthPercent": "100",
+  "DFIntStudioReplaceIncrementalLexerHundredthPercent": "500",
   "DFFlagForceFinitePrio": "False",
   "FFlagToolboxUnifyModelPackageInsertion": "True",
   "DFFlagFixIncorrectBasePartCanUseCacheCondition": "True",
@@ -4185,6 +4185,7 @@
   "FFlagPropertyWidgetPhysicalProperties": "True",
   "FFlagAXCatalogSearchSizeGamepadRefactor": "True",
   "FFlagAXUseNewGradientFrame": "True",
+  "DFFlagCLI59192SendAnalyticsPointsWithNoPoints": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4394,8 +4395,8 @@
   "FIntMessageListVirtualizedRollout4": "100",
   "FFlagXboxMigrateOffAccountInfo": "True",
   "FFlagEnableReliableCellLayout": "True",
-  "FStringFlagRepoGitHashFastString": "73394b83bd44891e1022eaace4a17b0909884940",
-  "DFStringFlagRepoGitHashDynamicString": "73394b83bd44891e1022eaace4a17b0909884940",
-  "FStringFlipTimeStampFastString": "2022-09-29T21:35:38.165Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-29T21:35:38.165Z"
+  "FStringFlagRepoGitHashFastString": "4586d91f5338d1f401f070b457a539d4d95ed6c1",
+  "DFStringFlagRepoGitHashDynamicString": "4586d91f5338d1f401f070b457a539d4d95ed6c1",
+  "FStringFlipTimeStampFastString": "2022-09-29T21:40:36.210Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-29T21:40:36.210Z"
 }
