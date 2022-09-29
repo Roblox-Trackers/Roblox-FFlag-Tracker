@@ -4063,7 +4063,7 @@
   "DFFlagVideoMetricsReportBandwidthAndPerformanceMetrics": "True",
   "FFlagLuaAppEnableChatGameDetailReferralEvents": "True",
   "FFlagLuaAppEnablePeopleListGameDetailReferralEvents": "True",
-  "FFlagDebuggerBreakpointsInScripts": "True",
+  "FFlagDebuggerBreakpointsInScripts": "False",
   "DFFlagAnalyticsAvatarFaceChatFailurePoints": "True",
   "DFIntAvatarFaceChatSDKFailedCreateContextThrottleHundrethsPercent": "10000",
   "DFIntAvatarFaceChatSDKFailedSetLodThrottleHundrethsPercent": "1000",
@@ -4373,8 +4373,8 @@
   "FIntMessageListVirtualizedRollout4": "100",
   "FFlagXboxMigrateOffAccountInfo": "True",
   "FFlagPropertyWidgetPhysicalProperties": "True",
-  "FStringFlagRepoGitHashFastString": "cbec5df95bfef8dc4d93709ab8857fbd9b7e31a8",
-  "DFStringFlagRepoGitHashDynamicString": "cbec5df95bfef8dc4d93709ab8857fbd9b7e31a8",
-  "FStringFlipTimeStampFastString": "2022-09-29T00:21:24.384Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-29T00:21:24.384Z"
+  "FStringFlagRepoGitHashFastString": "9e6a6b17c7708f74539a83db402956d7e58f99be",
+  "DFStringFlagRepoGitHashDynamicString": "9e6a6b17c7708f74539a83db402956d7e58f99be",
+  "FStringFlipTimeStampFastString": "2022-09-29T01:27:39.343Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-29T01:27:39.343Z"
 }
