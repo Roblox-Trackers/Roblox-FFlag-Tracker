@@ -4166,6 +4166,7 @@
   "WarmStartDeduplication": "True",
   "DFFlagSimCollectConstraintInfo": "True",
   "DFIntSimConstraintDataCollectionRate": "10",
+  "FFlagPrimitiveCacheGeometryType": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4565,8 +4566,8 @@
   "FFlagPropertyWidgetPhysicalProperties": "True",
   "DFFlagLogSystemSinkSupport2": "True",
   "FFlagReportSentPageV2Enabled": "False",
-  "FStringFlagRepoGitHashFastString": "d4b730196aa1c8d29a2efba3f8a218954532c3b0",
-  "DFStringFlagRepoGitHashDynamicString": "d4b730196aa1c8d29a2efba3f8a218954532c3b0",
-  "FStringFlipTimeStampFastString": "2022-09-29T16:01:17.450Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-29T16:01:17.450Z"
+  "FStringFlagRepoGitHashFastString": "2c07083692e46315157d2253464ee31571baf0d5",
+  "DFStringFlagRepoGitHashDynamicString": "2c07083692e46315157d2253464ee31571baf0d5",
+  "FStringFlipTimeStampFastString": "2022-09-29T16:18:53.222Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-29T16:18:53.222Z"
 }
