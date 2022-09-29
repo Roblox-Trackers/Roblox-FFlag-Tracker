@@ -4170,10 +4170,8 @@
   "DFIntStudioReplaceIncrementalLexerHundredthPercent": "100",
   "DFFlagForceFinitePrio": "False",
   "FFlagToolboxUnifyModelPackageInsertion": "True",
-  "DFFlagFixIncorrectBasePartCanUseCacheCondition": "False",
-  "DFFlagFixIncorrectBasePartCanUseCacheCondition_DataCenterFilter": "True;302",
-  "DFFlagStreamJobInvalidateJoinCacheOnWholeSet": "False",
-  "DFFlagStreamJobInvalidateJoinCacheOnWholeSet_DataCenterFilter": "True;302",
+  "DFFlagFixIncorrectBasePartCanUseCacheCondition": "True",
+  "DFFlagStreamJobInvalidateJoinCacheOnWholeSet": "True",
   "FFlagToolboxFixVideoEditFlow": "True",
   "FFlagMaterialManagerUXBetaFeature": "True",
   "DFIntEagerTrackingReportStopOnMissingMRDPerMyriad": "100",
@@ -4390,8 +4388,8 @@
   "FFlagLuaAppEnableStudioCTATest": "True",
   "FFlagReportSentPageV2Enabled": "True",
   "FFlagEnableReliableCellLayout": "False",
-  "FStringFlagRepoGitHashFastString": "daf71cf8b5784a71148683aed08f314b1cfabd92",
-  "DFStringFlagRepoGitHashDynamicString": "daf71cf8b5784a71148683aed08f314b1cfabd92",
-  "FStringFlipTimeStampFastString": "2022-09-29T19:15:12.854Z",
-  "DFStringFlipTimeStampDynamicString": "2022-09-29T19:15:12.854Z"
+  "FStringFlagRepoGitHashFastString": "e739f7d575a602f84aa7d24d31cc056d3c32c387",
+  "DFStringFlagRepoGitHashDynamicString": "e739f7d575a602f84aa7d24d31cc056d3c32c387",
+  "FStringFlipTimeStampFastString": "2022-09-29T19:46:17.402Z",
+  "DFStringFlipTimeStampDynamicString": "2022-09-29T19:46:17.402Z"
 }
