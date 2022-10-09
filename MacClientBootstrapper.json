@@ -23,6 +23,7 @@
   "FFlagMacDeeplinkFix": "True",
   "FIntMacBootstrapperWaitMillisecondsForClientTermination": "500",
   "FFlagPassStudioLaunchConfigArgsToStudio": "True",
+  "FFlagDisableLegacyChannelSelection": "True",
   "DFIntCrashUploadToBacktracePercentage": "10",
   "DeprecatedOSXLinkURL": "https://en.help.roblox.com/hc/articles/203312800",
   "DeprecatedOSXMinorVersion": "9",
@@ -35,8 +36,10 @@
   "ShowInstallSuccessPrompt": "True",
   "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
   "DeprecatedOSXMajorVersion": "10",
-  "FStringFlagRepoGitHashFastString": "8d14bbab859615b5afcade1f6a3362e8d88b1f30",
-  "DFStringFlagRepoGitHashDynamicString": "8d14bbab859615b5afcade1f6a3362e8d88b1f30",
-  "FStringFlipTimeStampFastString": "2022-10-05T16:01:14.121Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-05T16:01:14.121Z"
+  "FFlagEnableRandomRobloxChannelSelection": "True",
+  "FStringClientChannelProbabilityString": "1000;ZFlag=50",
+  "FStringFlagRepoGitHashFastString": "a5503b0f02356e7496e1123ad02667c272d9922f",
+  "DFStringFlagRepoGitHashDynamicString": "a5503b0f02356e7496e1123ad02667c272d9922f",
+  "FStringFlipTimeStampFastString": "2022-10-08T01:16:53.188Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-08T01:16:53.188Z"
 }

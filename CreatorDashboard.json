@@ -7,7 +7,8 @@
   "enableRefactoredSocialLink": "true",
   "enableExperienceUpdatesMigration": "true",
   "enableExperiencePlaceManagementMigration": "true",
-  "enableConfigurePlaceMigration": "false",
+  "enableConfigurePlaceMigration": "true",
   "enableImproveSortsFilter": "true",
-  "enableAvatarItemsMigration": "true"
+  "enableAvatarItemsMigration": "true",
+  "enablePlaceIconMigration": "true"
 }
