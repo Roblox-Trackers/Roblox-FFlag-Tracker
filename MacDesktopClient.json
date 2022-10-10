@@ -4342,6 +4342,7 @@
   "FFlagTouchInputActivatedChangedLockWeakPtr": "True",
   "FFlagTouchInputActivatedChangedDoNotDoubleLockWeakPtr": "True",
   "FFlagSwitchReportStatusToRefresh": "True",
+  "FFlagEnableCrashreporterRefactor": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4580,8 +4581,8 @@
   "FFlagUniversalAppOnMac": "True",
   "FFlagReportSentPageV2Enabled": "True",
   "DFIntTeleportExceptionInfluxHundredthsPercentage": "10000",
-  "FStringFlagRepoGitHashFastString": "e13046ac398836a7404139c684c39a1ee31b6391",
-  "DFStringFlagRepoGitHashDynamicString": "e13046ac398836a7404139c684c39a1ee31b6391",
-  "FStringFlipTimeStampFastString": "2022-10-10T19:33:52.634Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-10T19:33:52.634Z"
+  "FStringFlagRepoGitHashFastString": "dc25a67f93a0ac80f9f3bcac585e6e42f7650a78",
+  "DFStringFlagRepoGitHashDynamicString": "dc25a67f93a0ac80f9f3bcac585e6e42f7650a78",
+  "FStringFlipTimeStampFastString": "2022-10-10T19:38:39.574Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-10T19:38:39.574Z"
 }
