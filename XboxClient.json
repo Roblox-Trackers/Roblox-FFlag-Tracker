@@ -4341,6 +4341,8 @@
   "DFIntLocalizationTableAnalyticsSenderMaxServerQueueSize": "15000",
   "FFlagTeleportOutOfRetryEventLog": "True",
   "FFlagRenderUpdateImguiInPrepare": "True",
+  "FFlagTouchInputActivatedChangedLockWeakPtr": "True",
+  "FFlagTouchInputActivatedChangedDoNotDoubleLockWeakPtr": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4549,8 +4551,8 @@
   "FIntMessageListVirtualizedRollout4": "100",
   "FFlagXboxMigrateOffAccountInfo": "True",
   "FFlagUpdateAppShellBalance": "True",
-  "FStringFlagRepoGitHashFastString": "910a7b4fb1e2b0fd3761ed43a11ce0b576c59de2",
-  "DFStringFlagRepoGitHashDynamicString": "910a7b4fb1e2b0fd3761ed43a11ce0b576c59de2",
-  "FStringFlipTimeStampFastString": "2022-10-10T18:59:22.779Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-10T18:59:22.779Z"
+  "FStringFlagRepoGitHashFastString": "33f674fedf6a9ed3c92028a45f75509749506df0",
+  "DFStringFlagRepoGitHashDynamicString": "33f674fedf6a9ed3c92028a45f75509749506df0",
+  "FStringFlipTimeStampFastString": "2022-10-10T19:03:19.516Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-10T19:03:19.516Z"
 }
