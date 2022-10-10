@@ -4354,6 +4354,8 @@
   "FFlagEnableBacktraceResponseHandler": "True",
   "FFlagDisableGoogleAnalytics": "True",
   "FFlagTeleportOutOfRetryEventLog": "True",
+  "DFFlagEarlyPrefetchRequestChecks": "False",
+  "DFFlagEarlyPrefetchRequestChecks_DataCenterFilter": "True;265",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4604,8 +4606,8 @@
   "FIntMessageListVirtualizedRollout4": "100",
   "FFlagReportSentPageV2Enabled": "True",
   "DFIntTeleportExceptionInfluxHundredthsPercentage": "10000",
-  "FStringFlagRepoGitHashFastString": "1736ef54e2ff0eed51f9f2d28f667d6fcca58ac2",
-  "DFStringFlagRepoGitHashDynamicString": "1736ef54e2ff0eed51f9f2d28f667d6fcca58ac2",
-  "FStringFlipTimeStampFastString": "2022-10-10T21:12:23.427Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-10T21:12:23.427Z"
+  "FStringFlagRepoGitHashFastString": "2f2d7a7d0e25d9adb2a5af8c09167d0cbd5ff6eb",
+  "DFStringFlagRepoGitHashDynamicString": "2f2d7a7d0e25d9adb2a5af8c09167d0cbd5ff6eb",
+  "FStringFlipTimeStampFastString": "2022-10-10T21:36:17.669Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-10T21:36:17.669Z"
 }
