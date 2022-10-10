@@ -4328,6 +4328,7 @@
   "DFIntTeleportInvocationsInfluxHundredthsPercentage_PlaceFilter": "1000;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
   "FFlagStudioFixAssetRenderModelInput": "True",
   "FFlagLuaAppExitModalDoNotShow": "True",
+  "FFlagDarwinCameraPermissionsProtocol": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4551,7 +4552,6 @@
   "FIntConversationListVirtualizedRollout2": "100",
   "FFlagGraphicsDeviceEvents": "False",
   "FFlagLuaAppEnableExperienceDetailsPageIXP3": "True",
-  "FFlagDarwinCameraPermissionsProtocol": "True",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadMacClient",
   "FStringContactImportingTimeStat": "ContactImportingTime_MacClient",
@@ -4567,8 +4567,8 @@
   "FIntMessageListVirtualizedRollout4": "50",
   "FFlagUniversalAppOnMac": "True",
   "FFlagReportSentPageV2Enabled": "True",
-  "FStringFlagRepoGitHashFastString": "a5503b0f02356e7496e1123ad02667c272d9922f",
-  "DFStringFlagRepoGitHashDynamicString": "a5503b0f02356e7496e1123ad02667c272d9922f",
-  "FStringFlipTimeStampFastString": "2022-10-08T01:16:53.188Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-08T01:16:53.188Z"
+  "FStringFlagRepoGitHashFastString": "4ccc76573be795599d04ec7afcbab3bbd4f7b49f",
+  "DFStringFlagRepoGitHashDynamicString": "4ccc76573be795599d04ec7afcbab3bbd4f7b49f",
+  "FStringFlipTimeStampFastString": "2022-10-10T16:15:51.887Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-10T16:15:51.887Z"
 }
