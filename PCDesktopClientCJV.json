@@ -4334,6 +4334,7 @@
   "FFlagControlledLRUCacheStatsAndBetterEvictionApi": "True",
   "FFlagContactImporterAnalyticsImprovements_v2": "True",
   "FFlagChatUserDeepLinkEnabled": "True",
+  "DFIntTeleportExceptionInfluxHundredthsPercentage": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4384,7 +4385,6 @@
   "DFIntStreamJobMinBufferHealthThresholdHundredths": "40",
   "DFIntStreamJobMinBufferHealthThresholdHundredths_PlaceFilter": "30;1526666203",
   "DFIntTargetTimeDelayFacctorTenths": "20",
-  "DFIntTeleportExceptionInfluxHundredthsPercentage": "10000",
   "DFLogPlaceLauncherTeleportLog": "6",
   "DFLogSoundTrace": "4",
   "DFStringCrashUploadToBacktraceMacPlayerToken": "24cb37449e120c3a0618b1bf0585e339571828cae4dc73c7b8c99f67fcd751e9",
@@ -4584,8 +4584,8 @@
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "100",
   "FFlagReportSentPageV2Enabled": "True",
-  "FStringFlagRepoGitHashFastString": "a894d9f823642cb78ebfcdb18a76902c86a29d5a",
-  "DFStringFlagRepoGitHashDynamicString": "a894d9f823642cb78ebfcdb18a76902c86a29d5a",
-  "FStringFlipTimeStampFastString": "2022-10-10T17:49:23.943Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-10T17:49:23.943Z"
+  "FStringFlagRepoGitHashFastString": "28f13c716673beb64433baf0a7288e326dcf043e",
+  "DFStringFlagRepoGitHashDynamicString": "28f13c716673beb64433baf0a7288e326dcf043e",
+  "FStringFlipTimeStampFastString": "2022-10-10T18:13:03.415Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-10T18:13:03.415Z"
 }
