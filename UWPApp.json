@@ -1346,7 +1346,7 @@
   "FFlagNewRuntimeWeightRotationWhenBlending": "True",
   "FFlagDebugTraceCreatableCounts3": "True",
   "DFFlagAdditionalDataPingData": "True",
-  "DFIntTeleportValidationErrorInfluxHundredthsPercentage": "500",
+  "DFIntTeleportValidationErrorInfluxHundredthsPercentage": "10000",
   "FFlagFixUWPUpsells": "True",
   "FFlagParallelLuaJoinMain": "True",
   "DFStringTeleportHttpStatusToPlaceLauncherStateMap": "403;12",
@@ -4571,8 +4571,8 @@
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "100",
   "FFlagReportSentPageV2Enabled": "True",
-  "FStringFlagRepoGitHashFastString": "82ee12e4f42b195492d0a5a6cfc5c5b7c1696da5",
-  "DFStringFlagRepoGitHashDynamicString": "82ee12e4f42b195492d0a5a6cfc5c5b7c1696da5",
-  "FStringFlipTimeStampFastString": "2022-10-10T23:48:33.134Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-10T23:48:33.134Z"
+  "FStringFlagRepoGitHashFastString": "6e182a8aa95700e2d9500d7a5ea9ab432579f26c",
+  "DFStringFlagRepoGitHashDynamicString": "6e182a8aa95700e2d9500d7a5ea9ab432579f26c",
+  "FStringFlipTimeStampFastString": "2022-10-10T23:49:21.711Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-10T23:49:21.711Z"
 }
