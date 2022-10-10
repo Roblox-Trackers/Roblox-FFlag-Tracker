@@ -2549,7 +2549,7 @@
   "FFlagGreyOutCollabEditingForTeamCreateOff2": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSize": "100",
   "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeClient": "100",
-  "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeServer": "100",
+  "DFIntLocalizationTableAnalyticsSenderMaxToBeProcessedQueueSizeServer": "200",
   "FFlagMyBalanceUWPV22": "True",
   "DFFlagIntegrityCheckedProcessorCleanupProperly": "True",
   "DFFlagCollisionGroupNameStage1": "True",
@@ -4337,6 +4337,8 @@
   "DFIntTeleportExceptionInfluxHundredthsPercentage": "10000",
   "FFlagUseShadowDataModel3": "True",
   "FFlagLuaAppNewHomeOmniImpressions": "True",
+  "DFIntLocalizationTableAnalyticsSenderMaxClientQueueSize": "100",
+  "DFIntLocalizationTableAnalyticsSenderMaxServerQueueSize": "15000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4638,8 +4640,8 @@
   "FFlagPYMKExperimentSetup_v6": "True",
   "FFlagIANewBottomBarIcons2": "True",
   "FFlagIANewIconsTest2": "True",
-  "FStringFlagRepoGitHashFastString": "93d56660f3ef5c347fe797aa7482d6c7eeeb5de7",
-  "DFStringFlagRepoGitHashDynamicString": "93d56660f3ef5c347fe797aa7482d6c7eeeb5de7",
-  "FStringFlipTimeStampFastString": "2022-10-10T18:20:30.173Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-10T18:20:30.173Z"
+  "FStringFlagRepoGitHashFastString": "93702ca6dc7111847911d357b7f9ec8ad9ff13f6",
+  "DFStringFlagRepoGitHashDynamicString": "93702ca6dc7111847911d357b7f9ec8ad9ff13f6",
+  "FStringFlipTimeStampFastString": "2022-10-10T18:33:17.197Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-10T18:33:17.197Z"
 }
