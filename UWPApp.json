@@ -140,7 +140,7 @@
   "DFIntClientSendEventStringDataLimitBytes": "100000000",
   "DFIntClientSendEventVariantCountLimit": "5000000",
   "DFIntCrashUploadHttpResponseDefaultTimeoutMillis": "80000",
-  "DFIntCrashUploadToBacktracePercentage": "10",
+  "DFIntCrashUploadToBacktracePercentage": "100",
   "DFIntDataModelPatcherErrorInfluxHundredthsPercentage": "10000",
   "DFIntDataModelPatcherFunnelInfluxHundredthsPercentage": "25",
   "DFIntDataStoreCachedKeysMemSize": "16777216",
@@ -4589,8 +4589,8 @@
   "DFFlagReportDataPing2": "True",
   "FIntMessageListVirtualizedRollout4": "100",
   "FFlagReportSentPageV2Enabled": "True",
-  "FStringFlagRepoGitHashFastString": "7b3b3f233ce9166db6bf6ea7a111e7ce5ca7185c",
-  "DFStringFlagRepoGitHashDynamicString": "7b3b3f233ce9166db6bf6ea7a111e7ce5ca7185c",
-  "FStringFlipTimeStampFastString": "2022-10-11T23:49:08.837Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-11T23:49:08.837Z"
+  "FStringFlagRepoGitHashFastString": "9576fe5bf1f49870cec5ba0df84b6df3a06e43eb",
+  "DFStringFlagRepoGitHashDynamicString": "9576fe5bf1f49870cec5ba0df84b6df3a06e43eb",
+  "FStringFlipTimeStampFastString": "2022-10-12T00:06:23.666Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-12T00:06:23.666Z"
 }
