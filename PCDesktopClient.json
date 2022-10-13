@@ -4467,6 +4467,8 @@
   "FFlagMaterialManagerVariantCreatorOverhaul": "True",
   "DFFlagPropertySQIMemScope": "False",
   "DFFlagPropertySQIMemScope_DataCenterFilter": "True;235",
+  "DFFlagSetDefaultMoodNeutral2": "True",
+  "FFlagSetDefaultMoodNeutralLua": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4718,8 +4720,8 @@
   "FFlagReportSentPageV2Enabled": "True",
   "FFlagLuaAppEnableStudioCTATest2": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
-  "FStringFlagRepoGitHashFastString": "7cab7a61fb046e105c7a4f5e8a89600aba96eae7",
-  "DFStringFlagRepoGitHashDynamicString": "7cab7a61fb046e105c7a4f5e8a89600aba96eae7",
-  "FStringFlipTimeStampFastString": "2022-10-13T22:07:54.817Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-13T22:07:54.817Z"
+  "FStringFlagRepoGitHashFastString": "33a1676d519392f09761648d3d0d3ce0fabb7f4b",
+  "DFStringFlagRepoGitHashDynamicString": "33a1676d519392f09761648d3d0d3ce0fabb7f4b",
+  "FStringFlipTimeStampFastString": "2022-10-13T22:13:27.436Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-13T22:13:27.436Z"
 }
