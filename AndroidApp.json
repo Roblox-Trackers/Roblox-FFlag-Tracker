@@ -4458,6 +4458,8 @@
   "FFlagUserShowVerifiedBadgeInLegacyChat": "False",
   "FFlagCoreScriptShowTeleportPrompt": "True",
   "FFlagBlockTeleportOnMenuOpen": "True",
+  "DFFlagStudioReplaceIncrementalLexer2": "True",
+  "DFIntStudioReplaceIncrementalLexer2HundredthPercent": "500",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4862,8 +4864,8 @@
   "FFlagIANewIconsTest2": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DisableSplashForVR": "True",
-  "FStringFlagRepoGitHashFastString": "f27656c31d023945238306d04693b5f70179b069",
-  "DFStringFlagRepoGitHashDynamicString": "f27656c31d023945238306d04693b5f70179b069",
-  "FStringFlipTimeStampFastString": "2022-10-13T21:22:56.634Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-13T21:22:56.634Z"
+  "FStringFlagRepoGitHashFastString": "9e95790c1d7bccf328708a65ca8f36fd3e38662b",
+  "DFStringFlagRepoGitHashDynamicString": "9e95790c1d7bccf328708a65ca8f36fd3e38662b",
+  "FStringFlipTimeStampFastString": "2022-10-13T21:26:02.970Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-13T21:26:02.970Z"
 }
