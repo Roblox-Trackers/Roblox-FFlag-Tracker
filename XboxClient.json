@@ -4462,6 +4462,8 @@
   "DFIntStudioReplaceIncrementalLexer2HundredthPercent": "500",
   "FFlagDeactivateThrottleInVR": "True",
   "DFFlagPatchTeleportExploit": "True",
+  "DFFlagNewInstanceSQIMemScope": "False",
+  "DFFlagNewInstanceSQIMemScope_DataCenterFilter": "True;235",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4671,8 +4673,8 @@
   "FFlagXboxMigrateOffAccountInfo": "True",
   "FFlagUpdateAppShellBalance": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
-  "FStringFlagRepoGitHashFastString": "a41b32f9bcf65891b03980b956209f94076299ee",
-  "DFStringFlagRepoGitHashDynamicString": "a41b32f9bcf65891b03980b956209f94076299ee",
-  "FStringFlipTimeStampFastString": "2022-10-13T21:32:45.335Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-13T21:32:45.335Z"
+  "FStringFlagRepoGitHashFastString": "b972901a77adf69e189bac216557fd5a41878dea",
+  "DFStringFlagRepoGitHashDynamicString": "b972901a77adf69e189bac216557fd5a41878dea",
+  "FStringFlipTimeStampFastString": "2022-10-13T21:46:25.422Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-13T21:46:25.422Z"
 }
