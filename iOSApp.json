@@ -3879,7 +3879,7 @@
   "FFlagVideoCaptureOrientationLockFix": "True",
   "FFlagGroupChanges": "True",
   "DFFlagHttpLimitLoggedInfo": "True",
-  "FFlagShareInviteLinkContextMenuV1ABTestEnabled_v4": "True",
+  "FFlagShareInviteLinkContextMenuV1ABTestEnabled_v4": "False",
   "FFlagToolboxInsertMaterialsInMS": "True",
   "FFlagSessionReporterSaveChannel": "True",
   "FFlagDevFrameworkFixErrorTextColors": "True",
@@ -4418,9 +4418,7 @@
   "FFlagUAPremiumUpsellFlow": "True",
   "FFlagVoiceChatLockFreeMixing": "True",
   "FFlagContactImporterWithPhoneVerification_v1": "False",
-  "FFlagLocaleIdRefactor2": "False",
-  "FFlagLocaleIdRefactor2_PlaceFilter": "True;7731036362",
-  "FFlagLocaleIdRefactor2_DataCenterFilter": "True;254;246;265;333;352;302",
+  "FFlagLocaleIdRefactor2": "True",
   "FFlagCleanupDevFrameworkPackages": "True",
   "FFlagStudioSendActivitySummary": "True",
   "FFlagStudioFixResetActivitySession": "True",
@@ -4743,8 +4741,8 @@
   "FFlagPYMKExperimentSetup_v6": "True",
   "FFlagIANewBottomBarIcons2": "True",
   "FFlagIANewIconsTest2": "True",
-  "FStringFlagRepoGitHashFastString": "2d6f8cace223a73e33a09993732b689874d9652d",
-  "DFStringFlagRepoGitHashDynamicString": "2d6f8cace223a73e33a09993732b689874d9652d",
-  "FStringFlipTimeStampFastString": "2022-10-13T18:58:47.524Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-13T18:58:47.524Z"
+  "FStringFlagRepoGitHashFastString": "5cfd7ad8d330b9eb906d22f29b377cccd82817be",
+  "DFStringFlagRepoGitHashDynamicString": "5cfd7ad8d330b9eb906d22f29b377cccd82817be",
+  "FStringFlipTimeStampFastString": "2022-10-13T19:06:34.897Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-13T19:06:34.897Z"
 }
