@@ -4445,6 +4445,8 @@
   "FFlagLuauFasterGetInfo": "True",
   "FFlagRouteVoiceChatQueryToDataModel": "True",
   "DFFlagPoolAudioBuffers": "True",
+  "DFFlagReparentSQIMemScope": "False",
+  "DFFlagReparentSQIMemScope_DataCenterFilter": "True;214",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4653,8 +4655,8 @@
   "FIntMessageListVirtualizedRollout4": "100",
   "FFlagReportSentPageV2Enabled": "True",
   "FFlagLuaAppEnableStudioCTATest2": "True",
-  "FStringFlagRepoGitHashFastString": "7e9de2c1f3ed04ef4df5b5326d2ec5687d31bc92",
-  "DFStringFlagRepoGitHashDynamicString": "7e9de2c1f3ed04ef4df5b5326d2ec5687d31bc92",
-  "FStringFlipTimeStampFastString": "2022-10-13T19:36:24.034Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-13T19:36:24.034Z"
+  "FStringFlagRepoGitHashFastString": "b202d71d10b48c3f3c51138af93f19034597c1a2",
+  "DFStringFlagRepoGitHashDynamicString": "b202d71d10b48c3f3c51138af93f19034597c1a2",
+  "FStringFlipTimeStampFastString": "2022-10-13T19:39:51.288Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-13T19:39:51.288Z"
 }
