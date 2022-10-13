@@ -4470,6 +4470,7 @@
   "FFlagSetDefaultMoodNeutralLua": "True",
   "FFlagLuaAppUseHomePageWithFeedOnDesktop": "True",
   "FFlagVoiceChatLockFreeEchoCancellation": "True",
+  "FFlagUIBloxEnableVirtualizedListForCarousel": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4834,7 +4835,6 @@
   "EnableNonDialogRobuxPremiumFragmentV2": "True",
   "FIntProfileCardRolloutEnabled_v1": "100",
   "FFlagUniversalAppMenuCsat": "False",
-  "FFlagUIBloxEnableVirtualizedListForCarousel": "True",
   "FStringContactImportModalPageLoadCounter": "ContactImportModalPageLoadAndroid",
   "FStringContactImportingTimeStat": "ContactImportingTime_Android",
   "FStringContactsListLoadedCounter": "ContactsListLoadedAndroid",
@@ -4875,8 +4875,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DisableSplashForVR": "True",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
-  "FStringFlagRepoGitHashFastString": "122fd8328110b8356cdf3c03f8f116cdd49846bb",
-  "DFStringFlagRepoGitHashDynamicString": "122fd8328110b8356cdf3c03f8f116cdd49846bb",
-  "FStringFlipTimeStampFastString": "2022-10-13T22:31:13.955Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-13T22:31:13.955Z"
+  "FStringFlagRepoGitHashFastString": "7913ea52416e84e3e5dfa5a6a5d019e8fcc8d516",
+  "DFStringFlagRepoGitHashDynamicString": "7913ea52416e84e3e5dfa5a6a5d019e8fcc8d516",
+  "FStringFlipTimeStampFastString": "2022-10-13T22:32:31.718Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-13T22:32:31.718Z"
 }
