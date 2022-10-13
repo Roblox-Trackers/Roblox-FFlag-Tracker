@@ -4149,7 +4149,7 @@
   "DFFlagFixIncorrectBasePartCanUseCacheCondition": "True",
   "DFFlagStreamJobInvalidateJoinCacheOnWholeSet": "True",
   "FFlagToolboxFixVideoEditFlow": "True",
-  "FFlagMaterialManagerUXBetaFeature": "True",
+  "FFlagMaterialManagerUXBetaFeature": "False",
   "DFIntEagerTrackingReportStopOnMissingMRDPerMyriad": "100",
   "DFFlagEagerTrackingStopOnMissingMRD": "True",
   "DFFlagFixDivBy0ForRakNetTime": "True",
@@ -4463,6 +4463,8 @@
   "FFlagDeactivateThrottleInVR": "True",
   "DFFlagPatchTeleportExploit": "True",
   "DFFlagNewInstanceSQIMemScope": "True",
+  "FFlagMaterialManagerTerrainDetails": "True",
+  "FFlagMaterialManagerVariantCreatorOverhaul": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4672,8 +4674,8 @@
   "FFlagXboxMigrateOffAccountInfo": "True",
   "FFlagUpdateAppShellBalance": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
-  "FStringFlagRepoGitHashFastString": "eb64f01aba3ab8d82014709c63d49036c4b5c6b0",
-  "DFStringFlagRepoGitHashDynamicString": "eb64f01aba3ab8d82014709c63d49036c4b5c6b0",
-  "FStringFlipTimeStampFastString": "2022-10-13T21:58:01.165Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-13T21:58:01.165Z"
+  "FStringFlagRepoGitHashFastString": "2d034b349a3637fd7fa02e6ea43e22364df464da",
+  "DFStringFlagRepoGitHashDynamicString": "2d034b349a3637fd7fa02e6ea43e22364df464da",
+  "FStringFlipTimeStampFastString": "2022-10-13T21:59:15.135Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-13T21:59:15.135Z"
 }
