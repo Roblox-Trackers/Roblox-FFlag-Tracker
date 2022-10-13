@@ -4455,6 +4455,8 @@
   "DFFlagVoiceChatExperienceId": "True",
   "DFFlagRaknetRemoveGetnameinfo": "True",
   "FFlagLuaChatReceiveUsersPresenceResultNilCheckEnabled": "True",
+  "FFlagUserShowVerifiedBadgeInLegacyChat": "False",
+  "FFlagCoreScriptShowTeleportPrompt": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4694,8 +4696,8 @@
   "FFlagReportSentPageV2Enabled": "True",
   "FFlagLuaAppEnableStudioCTATest2": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
-  "FStringFlagRepoGitHashFastString": "355b18c7f4345b653ed31d54050990f3dcdd026d",
-  "DFStringFlagRepoGitHashDynamicString": "355b18c7f4345b653ed31d54050990f3dcdd026d",
-  "FStringFlipTimeStampFastString": "2022-10-13T21:16:07.983Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-13T21:16:07.983Z"
+  "FStringFlagRepoGitHashFastString": "e79424ab4e7827a111dcc0ac8aa973017833a690",
+  "DFStringFlagRepoGitHashDynamicString": "e79424ab4e7827a111dcc0ac8aa973017833a690",
+  "FStringFlipTimeStampFastString": "2022-10-13T21:19:35.424Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-13T21:19:35.424Z"
 }
