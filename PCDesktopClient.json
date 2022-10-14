@@ -4480,6 +4480,7 @@
   "DFIntStreamingReportPerformanceStatsPercentHundredeths_PlaceFilter": "10000;7027922660",
   "FIntApolloClientRollout": "10",
   "FFlagCallMacCrashPadUpdateDebugInfoOnInitialize": "True",
+  "FFlagStudioSendThemeTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4732,8 +4733,8 @@
   "FFlagLuaAppEnableStudioCTATest2": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
-  "FStringFlagRepoGitHashFastString": "7f0d2850b73b7f34752d45bcaff67e825c8a7d99",
-  "DFStringFlagRepoGitHashDynamicString": "7f0d2850b73b7f34752d45bcaff67e825c8a7d99",
-  "FStringFlipTimeStampFastString": "2022-10-14T17:04:10.000Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-14T17:04:10.000Z"
+  "FStringFlagRepoGitHashFastString": "c503d84919c7189a9f28a8c81610427af53a20cb",
+  "DFStringFlagRepoGitHashDynamicString": "c503d84919c7189a9f28a8c81610427af53a20cb",
+  "FStringFlipTimeStampFastString": "2022-10-14T17:05:29.413Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-14T17:05:29.413Z"
 }
