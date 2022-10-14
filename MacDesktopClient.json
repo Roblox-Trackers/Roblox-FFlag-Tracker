@@ -4483,6 +4483,8 @@
   "DFFlagAnimatorHideCoreScriptTracks": "True",
   "FFlagEnableAndroidSMSProtocol": "True",
   "FIntScriptEditorApiV1BetaFeatureRolloutPercent": "10",
+  "FFlagInitifyScriptsInLoadingScript": "True",
+  "FFlagInitifyScriptsInServerStarterScript": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4723,8 +4725,8 @@
   "FFlagLuaAppEnableStudioCTATest2": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
-  "FStringFlagRepoGitHashFastString": "ef711b724d82da76693362f60aebe5d11e281762",
-  "DFStringFlagRepoGitHashDynamicString": "ef711b724d82da76693362f60aebe5d11e281762",
-  "FStringFlipTimeStampFastString": "2022-10-14T18:44:46.684Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-14T18:44:46.684Z"
+  "FStringFlagRepoGitHashFastString": "cd7ec59c701ed0d21bc7def6a085783455b92d68",
+  "DFStringFlagRepoGitHashDynamicString": "cd7ec59c701ed0d21bc7def6a085783455b92d68",
+  "FStringFlipTimeStampFastString": "2022-10-14T18:45:52.490Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-14T18:45:52.490Z"
 }
