@@ -4476,6 +4476,8 @@
   "FFlagShrinkSpatialVoiceBuffers": "True",
   "FFlagVoiceChatLockFreeBuffering2": "True",
   "FFlagAdGuiTextLabelEnabled": "True",
+  "DFIntStreamingReportPerformanceStatsPercentHundredeths": "100",
+  "DFIntStreamingReportPerformanceStatsPercentHundredeths_PlaceFilter": "10000;7027922660",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4716,8 +4718,8 @@
   "FFlagLuaAppEnableStudioCTATest2": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
-  "FStringFlagRepoGitHashFastString": "eb4c58c57e37bdde11f0fe777c01f0a4d61c6da7",
-  "DFStringFlagRepoGitHashDynamicString": "eb4c58c57e37bdde11f0fe777c01f0a4d61c6da7",
-  "FStringFlipTimeStampFastString": "2022-10-14T16:25:35.916Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-14T16:25:35.916Z"
+  "FStringFlagRepoGitHashFastString": "12336f8d1db468ff1f15afdc3f5cb3de4bec0368",
+  "DFStringFlagRepoGitHashDynamicString": "12336f8d1db468ff1f15afdc3f5cb3de4bec0368",
+  "FStringFlipTimeStampFastString": "2022-10-14T16:27:54.521Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-14T16:27:54.521Z"
 }
