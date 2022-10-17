@@ -4497,6 +4497,9 @@
   "FFlagEnableBacktraceAttachments": "True",
   "FFlagStudioAddClonedReplicatedScriptstoScriptCloneWatcher": "True",
   "FStringAdGuiHorizontalPlaceHolderImageAssetId": "11305330319",
+  "FFlagCOLLAB2335RedirectCreatePlaceAsync": "True",
+  "FIntCOLLAB2335RedirectCreatePlaceAsyncHundredthPercent": "10000",
+  "FFlagLuaAppFixGameListSize": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4707,8 +4710,8 @@
   "FFlagLuaAppEnableStudioCTATest2": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
-  "FStringFlagRepoGitHashFastString": "9413f88e927003a8fef653736c45900761dfa093",
-  "DFStringFlagRepoGitHashDynamicString": "9413f88e927003a8fef653736c45900761dfa093",
-  "FStringFlipTimeStampFastString": "2022-10-17T16:39:11.027Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-17T16:39:11.027Z"
+  "FStringFlagRepoGitHashFastString": "1cbdac7294ddf9ab4844b49c78893ca57b6da4ce",
+  "DFStringFlagRepoGitHashDynamicString": "1cbdac7294ddf9ab4844b49c78893ca57b6da4ce",
+  "FStringFlipTimeStampFastString": "2022-10-17T16:40:52.339Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-17T16:40:52.339Z"
 }
