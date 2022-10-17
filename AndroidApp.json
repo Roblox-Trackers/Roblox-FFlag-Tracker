@@ -4516,6 +4516,7 @@
   "DFFlagGuardFmodManagerStartupShutdown": "True",
   "FFlagOnlyResumeMixerIfAudioSessionReactivated": "True",
   "FStringAdGuiHorizontalHouseImageAssetId": "11305330319",
+  "FFlagCheckOrRequestPermissions": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -4921,8 +4922,9 @@
   "DisableSplashForVR": "True",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FFlagFriendInvitesEnabledForSoothsayers_v1": "True",
-  "FStringFlagRepoGitHashFastString": "b069f8225bbf1cb63afa702fe71b40714c967d82",
-  "DFStringFlagRepoGitHashDynamicString": "b069f8225bbf1cb63afa702fe71b40714c967d82",
-  "FStringFlipTimeStampFastString": "2022-10-17T18:05:51.106Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-17T18:05:51.106Z"
+  "FStringFriendInviteVariantForSoothsayers": "invitesOnly",
+  "FStringFlagRepoGitHashFastString": "5dbd4dba34cd748630f16dc1da08286162535944",
+  "DFStringFlagRepoGitHashDynamicString": "5dbd4dba34cd748630f16dc1da08286162535944",
+  "FStringFlipTimeStampFastString": "2022-10-17T18:09:58.698Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-17T18:09:58.698Z"
 }
