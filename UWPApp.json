@@ -4513,6 +4513,8 @@
   "DFIntMaxAudibleSoundChannels": "128",
   "FFlagMakeMutedSoundChannelsVirtual3": "True",
   "FFlagGameSearchShowPeopleSearch": "True",
+  "DFFlagGuardFmodManagerStartupShutdown": "True",
+  "FFlagOnlyResumeMixerIfAudioSessionReactivated": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4723,8 +4725,8 @@
   "FFlagLuaAppEnableStudioCTATest2": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
-  "FStringFlagRepoGitHashFastString": "b723e90abbed23c8075e17cdbd5466ed76b609da",
-  "DFStringFlagRepoGitHashDynamicString": "b723e90abbed23c8075e17cdbd5466ed76b609da",
-  "FStringFlipTimeStampFastString": "2022-10-17T17:34:50.601Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-17T17:34:50.601Z"
+  "FStringFlagRepoGitHashFastString": "6741f60628f9ca22dd92b16e003a4715a1a70433",
+  "DFStringFlagRepoGitHashDynamicString": "6741f60628f9ca22dd92b16e003a4715a1a70433",
+  "FStringFlipTimeStampFastString": "2022-10-17T17:36:01.255Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-17T17:36:01.255Z"
 }
