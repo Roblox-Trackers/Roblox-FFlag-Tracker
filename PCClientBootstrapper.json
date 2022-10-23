@@ -7,7 +7,7 @@
   "FFlagWindowsLaunchTypeAnalytics": "True",
   "FFlagBootstrapperQuitOnDirectXExpiration": "False",
   "FFlagEnableCheckingOnDisabledChannels": "True",
-  "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4",
+  "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4,zflag",
   "FFlagBootstrapperSaveOptOutDUAR": "True",
   "FFlagBootstrapperAutoOptIn": "True",
   "FIntBootstrapperInfluxReportHundredthPercentage": "100",
@@ -25,6 +25,7 @@
   "FFlagPassStudioLaunchConfigArgsToStudio": "True",
   "FFlagDisableLegacyChannelSelection": "True",
   "FFlagMacBootstrapperUniqueDownloadDir": "True",
+  "FFlagDeprecateCloseCaptcha": "True",
   "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
   "FFlagBootstrapperEnableOptOutDUAR": "True",
   "FFlagRegisterStudioProtocolHandler": "True",
@@ -39,9 +40,9 @@
   "InfluxInstallHundredthsPercentage": "10000",
   "ShowInstallSuccessPrompt": "True",
   "FFlagEnableRandomRobloxChannelSelection": "True",
-  "FStringClientChannelProbabilityString": "1000;ZFlag=50",
-  "FStringFlagRepoGitHashFastString": "aea04a9bf216f611731cd979393a0bd0147efd1e",
-  "DFStringFlagRepoGitHashDynamicString": "aea04a9bf216f611731cd979393a0bd0147efd1e",
-  "FStringFlipTimeStampFastString": "2022-10-17T19:01:56.667Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-17T19:01:56.667Z"
+  "FStringClientChannelProbabilityString": "1000;ZFlag=50,ZLive2=10",
+  "FStringFlagRepoGitHashFastString": "434468b588d89a2abcca11821f22f29d4f54552e",
+  "DFStringFlagRepoGitHashDynamicString": "434468b588d89a2abcca11821f22f29d4f54552e",
+  "FStringFlipTimeStampFastString": "2022-10-22T04:21:04.381Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-22T04:21:04.381Z"
 }
