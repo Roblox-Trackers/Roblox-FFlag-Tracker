@@ -4477,7 +4477,7 @@
   "FFlagStudioSendThemeTelemetry": "True",
   "DFFlagAnimatorHideCoreScriptTracks": "True",
   "FFlagEnableAndroidSMSProtocol": "True",
-  "FIntScriptEditorApiV1BetaFeatureRolloutPercent": "25",
+  "FIntScriptEditorApiV1BetaFeatureRolloutPercent": "50",
   "FFlagInitifyScriptsInLoadingScript": "True",
   "FFlagInitifyScriptsInServerStarterScript": "True",
   "FFlagCSGRemoveUvstudsCall": "True",
@@ -4667,7 +4667,6 @@
   "FFlagSimCSGAllowLocalOperations_PlaceFilter": "True;5819143869",
   "FFlagReflectanceNewLogic": "True",
   "FFlagLuauFunctionReturnStringificationFixup": "True",
-  "FFlagLuauFindFirstChildOfClassOnIntersection": "True",
   "FFlagStudioDoNotSaveAndRestoreStartPage2": "True",
   "FFlagOnlyLoadStrafingAnimsWhenR15": "True",
   "FFlagAssetImporterRemoveFilteringAttempt3": "True",
@@ -4891,8 +4890,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FFlagReportFirstGameInteractive": "True",
-  "FStringFlagRepoGitHashFastString": "44f17c1f6889b7918ecb2db7810033fd9bc65c8a",
-  "DFStringFlagRepoGitHashDynamicString": "44f17c1f6889b7918ecb2db7810033fd9bc65c8a",
-  "FStringFlipTimeStampFastString": "2022-10-24T17:27:06.455Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-24T17:27:06.455Z"
+  "FStringFlagRepoGitHashFastString": "22f226e4f94d91b993486df1e5cf4bd3e2a735db",
+  "DFStringFlagRepoGitHashDynamicString": "22f226e4f94d91b993486df1e5cf4bd3e2a735db",
+  "FStringFlipTimeStampFastString": "2022-10-24T17:43:17.658Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-24T17:43:17.658Z"
 }
