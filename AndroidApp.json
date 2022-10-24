@@ -2354,7 +2354,7 @@
   "FFlagCollectCollisionGroupInfo": "True",
   "FFlagSendTelemetryForStudioVitals": "True",
   "FFlagSimModelLodFixSphericalVoxelization": "True",
-  "FStringSponsoredItemsIXPLayer": "AvatarMarketplace.RecommendationsAndSearch.Mobile",
+  "FStringSponsoredItemsIXPLayer": "AvatarMarketplace.Ads",
   "FFlagSocialTabWrapperRefactorIsEnabled": "True",
   "FFlagCheckHSRImportInProcess": "True",
   "DFFlagRakNetCleanupTimeSet": "True",
@@ -4471,7 +4471,7 @@
   "FFlagAdGuiTextLabelEnabled": "True",
   "DFIntStreamingReportPerformanceStatsPercentHundredeths": "100",
   "DFIntStreamingReportPerformanceStatsPercentHundredeths_PlaceFilter": "10000;7027922660",
-  "FIntApolloClientRollout": "10",
+  "FIntApolloClientRollout": "100",
   "FFlagCallMacCrashPadUpdateDebugInfoOnInitialize": "True",
   "FFlagStudioSendThemeTelemetry": "True",
   "DFFlagAnimatorHideCoreScriptTracks": "True",
@@ -5092,8 +5092,8 @@
   "QuerySKUOnPurchase": "True",
   "FFlagIABottomBarSequencingTest": "True",
   "FFlagFriendsCarouselEnabled_v2": "True",
-  "FStringFlagRepoGitHashFastString": "b318e929229e12c8b5bef146e2a4881597764f45",
-  "DFStringFlagRepoGitHashDynamicString": "b318e929229e12c8b5bef146e2a4881597764f45",
-  "FStringFlipTimeStampFastString": "2022-10-24T18:27:20.886Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-24T18:27:20.886Z"
+  "FStringFlagRepoGitHashFastString": "8db31d62ee1899847ef71fe075bcce7d6090968a",
+  "DFStringFlagRepoGitHashDynamicString": "8db31d62ee1899847ef71fe075bcce7d6090968a",
+  "FStringFlipTimeStampFastString": "2022-10-24T18:43:55.126Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-24T18:43:55.126Z"
 }
