@@ -2962,7 +2962,7 @@
   "DFFlagTMFixOutstandingCounter": "True",
   "FFlagStudioTreeWidgetSecondColumnReadOnly": "True",
   "FFlagReplaceLegacyLockOnSaveToFile": "True",
-  "FFlagScriptEditorApiV1BetaFeature": "True",
+  "FFlagScriptEditorApiV1BetaFeature": "False",
   "FFlagRenderMaterialThumbnail": "True",
   "FFlagCodeSnippet_Alpha2": "False",
   "FFlagCorrectLineNumbersForTextEdits2": "True",
@@ -4708,6 +4708,7 @@
   "FFlagEnableShareUrlUWP": "True",
   "EnableShareUrlAndroid": "True",
   "FFlagCatalogMenuOptimizationIXPEnabledV3": "True",
+  "FFlagScriptEditorBasicAPI": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5014,8 +5015,8 @@
   "FFlagIABottomBarSequencingTest": "True",
   "FFlagFriendsCarouselEnabled_v2": "True",
   "FFlagFixPushNotificationLoggedCategoryV2": "True",
-  "FStringFlagRepoGitHashFastString": "96b1e5fdad8cd7234b9c61aab6e7ce2fcffdee48",
-  "DFStringFlagRepoGitHashDynamicString": "96b1e5fdad8cd7234b9c61aab6e7ce2fcffdee48",
-  "FStringFlipTimeStampFastString": "2022-10-24T23:37:32.386Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-24T23:37:32.386Z"
+  "FStringFlagRepoGitHashFastString": "fdd0d0914a37a2556bdd11669e01e9fa8a84d061",
+  "DFStringFlagRepoGitHashDynamicString": "fdd0d0914a37a2556bdd11669e01e9fa8a84d061",
+  "FStringFlipTimeStampFastString": "2022-10-24T23:47:47.198Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-24T23:47:47.198Z"
 }
