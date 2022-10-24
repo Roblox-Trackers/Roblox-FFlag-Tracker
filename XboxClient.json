@@ -4696,6 +4696,7 @@
   "FFlagEnableBacktraceConnectionDidFailHandler": "True",
   "FFlagLoadingScreenRevamp4": "True",
   "DFFlagCGNNeverEmpty": "True",
+  "DFFlagIgnoreEmptyLegacyCollisionGroups": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4906,8 +4907,8 @@
   "FFlagUpdateAppShellBalance": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
-  "FStringFlagRepoGitHashFastString": "d9e75fbd48ac5f52829918938143bce9cec84d8c",
-  "DFStringFlagRepoGitHashDynamicString": "d9e75fbd48ac5f52829918938143bce9cec84d8c",
-  "FStringFlipTimeStampFastString": "2022-10-24T21:52:23.664Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-24T21:52:23.664Z"
+  "FStringFlagRepoGitHashFastString": "24c17372690ad888ad1055a5e228c9294db58d9d",
+  "DFStringFlagRepoGitHashDynamicString": "24c17372690ad888ad1055a5e228c9294db58d9d",
+  "FStringFlipTimeStampFastString": "2022-10-24T21:53:26.254Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-24T21:53:26.254Z"
 }
