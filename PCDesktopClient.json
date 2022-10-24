@@ -4663,6 +4663,8 @@
   "FFlagDevFrameworkInitializeState2": "True",
   "FFlagMigrateSponsoredEventsNetworking2": "True",
   "DFIntLogAllTeleportErrrorsPerTenThousand": "10000",
+  "FFlagSimCSGAllowLocalOperations": "False",
+  "FFlagSimCSGAllowLocalOperations_PlaceFilter": "True;5819143869",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4916,8 +4918,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FFlagReportFirstGameInteractive": "True",
-  "FStringFlagRepoGitHashFastString": "78487a6907a1dc90e948f76bc171c05fdd101948",
-  "DFStringFlagRepoGitHashDynamicString": "78487a6907a1dc90e948f76bc171c05fdd101948",
-  "FStringFlipTimeStampFastString": "2022-10-24T16:21:59.416Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-24T16:21:59.416Z"
+  "FStringFlagRepoGitHashFastString": "0b47b3ac74ad74440aac37b38cac7648da6818ee",
+  "DFStringFlagRepoGitHashDynamicString": "0b47b3ac74ad74440aac37b38cac7648da6818ee",
+  "FStringFlipTimeStampFastString": "2022-10-24T16:46:08.418Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-24T16:46:08.418Z"
 }
