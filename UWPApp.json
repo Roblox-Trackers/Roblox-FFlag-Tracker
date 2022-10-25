@@ -4730,6 +4730,7 @@
   "FLogStudioCookieManager": "6",
   "FLogStudioCookieManagerDiagnostics": "6",
   "FFlagChatMessageUseAutomaticSize": "True",
+  "FFlagReportFirstGameInteractive": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4940,9 +4941,8 @@
   "FFlagLuaAppEnableStudioCTATest2": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
-  "FFlagReportFirstGameInteractive": "True",
-  "FStringFlagRepoGitHashFastString": "b85d41d2bfd711c718d3f936498ed88d2786140b",
-  "DFStringFlagRepoGitHashDynamicString": "b85d41d2bfd711c718d3f936498ed88d2786140b",
-  "FStringFlipTimeStampFastString": "2022-10-25T22:04:11.001Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-25T22:04:11.001Z"
+  "FStringFlagRepoGitHashFastString": "ebc0314d8fc47121a0985f45c574ef8125d86a45",
+  "DFStringFlagRepoGitHashDynamicString": "ebc0314d8fc47121a0985f45c574ef8125d86a45",
+  "FStringFlipTimeStampFastString": "2022-10-25T22:08:56.856Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-25T22:08:56.856Z"
 }
