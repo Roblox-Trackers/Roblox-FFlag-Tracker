@@ -122,7 +122,7 @@
   "DFFlagVisualEngineTrackHeadless": "True",
   "DFIntAnalyticsForXBoxCrash_JoinInfluxHundredthsPercentage": "1",
   "DFIntAnalyticsMaxSendWaitTimeMs": "1500",
-  "DFIntBatchThumbnailMaxRetries": "3",
+  "DFIntBatchThumbnailMaxRetries": "5",
   "DFIntBulletContactBreakOrthogonalThresholdPercent": "200",
   "DFIntBulletContactBreakThresholdPercent": "200",
   "DFIntCSGLevelOfDetailSwitchingDistanceL12_PlaceFilter": "500;2434889832;2568147212",
@@ -5017,8 +5017,8 @@
   "FFlagUpdateAppShellBalance": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
-  "FStringFlagRepoGitHashFastString": "f417c97838229d5cffb9dbba0345fecf1b2e5c3a",
-  "DFStringFlagRepoGitHashDynamicString": "f417c97838229d5cffb9dbba0345fecf1b2e5c3a",
-  "FStringFlipTimeStampFastString": "2022-10-27T21:11:57.070Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-27T21:11:57.070Z"
+  "FStringFlagRepoGitHashFastString": "b0396f1e2e323bc8782492286c9e44f640a8bac4",
+  "DFStringFlagRepoGitHashDynamicString": "b0396f1e2e323bc8782492286c9e44f640a8bac4",
+  "FStringFlipTimeStampFastString": "2022-10-27T21:23:49.100Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-27T21:23:49.100Z"
 }
