@@ -4830,6 +4830,11 @@
   "FFlagStudioDisableMouseLagFixOnWindows": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "10",
   "FFlagIosDisableNativeAudioQueue": "True",
+  "DFFlagExposeCFrameAttribute": "True",
+  "DFFlagExposeCFrameGui1PartModel": "True",
+  "DFFlagExposeCFrameGui2AttBone": "True",
+  "DFFlagExposeCFrameGui3": "True",
+  "DFFlagExposeCFramePropertyShowInspector": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5242,8 +5247,8 @@
   "FFlagOffPlatformFriendRequestsExperimentEnabled_v2": "True",
   "FFlagContactImporterOnFriendsCarousel_v1": "True",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
-  "FStringFlagRepoGitHashFastString": "67a8d3a68d7b3edca2158e38ee258ecc4d076e98",
-  "DFStringFlagRepoGitHashDynamicString": "67a8d3a68d7b3edca2158e38ee258ecc4d076e98",
-  "FStringFlipTimeStampFastString": "2022-10-31T17:04:52.432Z",
-  "DFStringFlipTimeStampDynamicString": "2022-10-31T17:04:52.432Z"
+  "FStringFlagRepoGitHashFastString": "502d8e157a4d87f8968ed73f8582c3f715ea7931",
+  "DFStringFlagRepoGitHashDynamicString": "502d8e157a4d87f8968ed73f8582c3f715ea7931",
+  "FStringFlipTimeStampFastString": "2022-10-31T17:13:59.435Z",
+  "DFStringFlipTimeStampDynamicString": "2022-10-31T17:13:59.435Z"
 }
