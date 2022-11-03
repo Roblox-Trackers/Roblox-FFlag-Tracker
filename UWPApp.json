@@ -2205,7 +2205,7 @@
   "FFlagToolboxAssetConfigurationFixPriceToggle": "True",
   "FFlagToolboxAssetConfigurationMatchPluginFlow": "True",
   "FFlagEnableLocaleLogging": "True",
-  "DFFlagResetChildrenOnNIIProcess2": "False",
+  "DFFlagResetChildrenOnNIIProcess2": "True",
   "FFlagStudioErrorReporterFilterJunkCallstacks": "True",
   "FFlagReportMeshIdChangeForLCItem": "True",
   "FStringFacialAnimation1BetaFeatureUrl": "https://devforum.roblox.com/t/updates-to-the-dynamic-heads-beta-feature/1812227",
@@ -4888,7 +4888,6 @@
   "FFlagSimplifyRotatedBoudingRectCalculation": "True",
   "FFlagEnableCatalogRecommendationsV2_2": "True",
   "DFFlagVoiceChatStatsEmptyInitialBatch": "True",
-  "DFFlagResetChildrenOnNIIProcess2_DataCenterFilter": "True;235",
   "FFlagMoreAppReducersOnXbox": "True",
   "FFlagVRLetRaycastsThroughUI": "True",
   "FFlagLuaAppAddExtraArgsForCheckForUpdate": "True",
@@ -5118,8 +5117,8 @@
   "FFlagReportFirstGameInteractive": "True",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
-  "FStringFlagRepoGitHashFastString": "4ad66240d5e81dd3f0d1fa8461c3b78bd3e840a0",
-  "DFStringFlagRepoGitHashDynamicString": "4ad66240d5e81dd3f0d1fa8461c3b78bd3e840a0",
-  "FStringFlipTimeStampFastString": "2022-11-03T16:43:46.757Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-03T16:43:46.757Z"
+  "FStringFlagRepoGitHashFastString": "fe10825430ae6cfd8ef6c7142e3acd6cc6efa7af",
+  "DFStringFlagRepoGitHashDynamicString": "fe10825430ae6cfd8ef6c7142e3acd6cc6efa7af",
+  "FStringFlipTimeStampFastString": "2022-11-03T16:50:44.870Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-03T16:50:44.870Z"
 }
