@@ -4631,7 +4631,7 @@
   "FFlagContactImporterRemoveFace": "True",
   "FFlagNewExperiencesEnableTeamCreateBetaFeature": "True",
   "FFlagEnablePauseOutsideLoadedArea": "True",
-  "FFlagPurchaseWithGamePausedFix": "False",
+  "FFlagPurchaseWithGamePausedFix": "True",
   "FFlagCloudsReflectOnWater": "True",
   "DFFlagTeleportPerUniverseErrorRateEnabled": "True",
   "DFStringTeleportPerUniverseErrorRateUniverseIdsCsv": "1230230722,985731078,994732206",
@@ -4889,7 +4889,6 @@
   "FFlagEnableCatalogRecommendationsV2_2": "True",
   "DFFlagVoiceChatStatsEmptyInitialBatch": "True",
   "FFlagMoreAppReducersOnXbox": "True",
-  "FFlagVRLetRaycastsThroughUI": "True",
   "FFlagLuaAppAddExtraArgsForCheckForUpdate": "True",
   "FFlagLuaAppGridHomeCheckForUpdate": "True",
   "DFFlagDataStore2AllScopeLengthFix": "True",
@@ -5118,8 +5117,8 @@
   "FFlagReportFirstGameInteractive": "True",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
-  "FStringFlagRepoGitHashFastString": "604084fc374936973cf358c3f0d95d1eb7796a2d",
-  "DFStringFlagRepoGitHashDynamicString": "604084fc374936973cf358c3f0d95d1eb7796a2d",
-  "FStringFlipTimeStampFastString": "2022-11-03T16:58:23.886Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-03T16:58:23.886Z"
+  "FStringFlagRepoGitHashFastString": "dcd253abc1a06630ac7bd11b5f2432007db4a4ee",
+  "DFStringFlagRepoGitHashDynamicString": "dcd253abc1a06630ac7bd11b5f2432007db4a4ee",
+  "FStringFlipTimeStampFastString": "2022-11-03T17:03:43.852Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-03T17:03:43.852Z"
 }
