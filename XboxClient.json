@@ -4245,8 +4245,8 @@
   "FFlagContactImporterModalFixEnabledV1": "True",
   "FFlagScriptProfilerFixes": "True",
   "FFlagLuauCompileBuiltinMT": "True",
-  "DFFlagThumbnailAvatarFetchOffApiProxy": "False",
-  "DFIntThumbnailAvatarFetchOffApiProxyRolloutPercent": "100",
+  "DFFlagThumbnailAvatarFetchOffApiProxy": "True",
+  "DFIntThumbnailAvatarFetchOffApiProxyRolloutPercent": "10",
   "FFlagShaderManagerPinMask": "True",
   "DFIntReportClientJoinRxStatsHundrethsPercentage_DataCenterFilter": "1000;332;362",
   "FFlagShaderManagerDeduplicate": "True",
@@ -5136,8 +5136,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
-  "FStringFlagRepoGitHashFastString": "1e9e40775b9b4e8f9cd265ca6d8c8b9dc91c0654",
-  "DFStringFlagRepoGitHashDynamicString": "1e9e40775b9b4e8f9cd265ca6d8c8b9dc91c0654",
-  "FStringFlipTimeStampFastString": "2022-11-03T18:19:00.433Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-03T18:19:00.433Z"
+  "FStringFlagRepoGitHashFastString": "5df6f467e41fe7dd705351e267492a0654d675f3",
+  "DFStringFlagRepoGitHashDynamicString": "5df6f467e41fe7dd705351e267492a0654d675f3",
+  "FStringFlipTimeStampFastString": "2022-11-03T18:28:59.562Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-03T18:28:59.562Z"
 }
