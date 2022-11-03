@@ -4588,9 +4588,9 @@
   "FFlagLuaAppEnablePeopleListGameDetailReferralEvents2": "True",
   "FFlagMaterialManagerAddAnalyticsCategories": "True",
   "FFlagDeeplinkNavDurationLog": "True",
-  "DFFlagResolvePackageHistoryIdCollisions": "False",
-  "FFlagInstanceHistoryId": "False",
-  "FFlagLoadContentForEdit": "False",
+  "DFFlagResolvePackageHistoryIdCollisions": "True",
+  "FFlagInstanceHistoryId": "True",
+  "FFlagLoadContentForEdit": "True",
   "FFlagSelfViewSettingsEnabled2": "False",
   "FFlagSelfViewSettingsEnabled2_PlaceFilter": "True;10787386927;10404927539;11452116982;11386744897;11444556552;11444068120",
   "FFlagSelfieViewFeature2": "False",
@@ -4900,6 +4900,7 @@
   "FFlagLuaAppUseGlobalCountersPolicy": "True",
   "DFFlagSendLuobuSpecificJoinTimeStats": "True",
   "FFlagRobloxTelemetryNameRegexFix": "True",
+  "FFlagSetNewUniqueId": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5113,8 +5114,8 @@
   "FFlagReportFirstGameInteractive": "True",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
-  "FStringFlagRepoGitHashFastString": "1d47e21406fbf716d0af70b51a45233486c4297b",
-  "DFStringFlagRepoGitHashDynamicString": "1d47e21406fbf716d0af70b51a45233486c4297b",
-  "FStringFlipTimeStampFastString": "2022-11-03T00:50:38.618Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-03T00:50:38.618Z"
+  "FStringFlagRepoGitHashFastString": "6c5c9d4b5390c6d985a5861660c036aa17a3d569",
+  "DFStringFlagRepoGitHashDynamicString": "6c5c9d4b5390c6d985a5861660c036aa17a3d569",
+  "FStringFlipTimeStampFastString": "2022-11-03T16:16:57.762Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-03T16:16:57.762Z"
 }
