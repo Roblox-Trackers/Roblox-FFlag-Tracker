@@ -4896,6 +4896,8 @@
   "DFFlagDataStore2AllScopeLengthFix": "True",
   "FFlagShouldMuteDMBeforeClosing": "True",
   "FFlagCacheDeviceName": "True",
+  "FFlagLuobuSpecificCrashCounters": "True",
+  "FFlagLuaAppUseGlobalCountersPolicy": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5139,8 +5141,8 @@
   "FFlagReportFirstGameInteractive": "True",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
-  "FStringFlagRepoGitHashFastString": "8bd27acbe800e74ca4c48bb7a249a7b9b0acc476",
-  "DFStringFlagRepoGitHashDynamicString": "8bd27acbe800e74ca4c48bb7a249a7b9b0acc476",
-  "FStringFlipTimeStampFastString": "2022-11-03T00:38:06.411Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-03T00:38:06.411Z"
+  "FStringFlagRepoGitHashFastString": "50a800a1e08847b0da487e4a79c946ed56d3421a",
+  "DFStringFlagRepoGitHashDynamicString": "50a800a1e08847b0da487e4a79c946ed56d3421a",
+  "FStringFlipTimeStampFastString": "2022-11-03T00:45:53.394Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-03T00:45:53.394Z"
 }
