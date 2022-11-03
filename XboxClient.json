@@ -1038,7 +1038,7 @@
   "FFlagOpenCreateGamesInExternalBrowser": "True",
   "FFlagLuaAppShowLicensingPage": "True",
   "FIntLockedBatchEditsIntervalTime": "300",
-  "DFFlagEnableNewAnimationRuntimeProperty": "True",
+  "DFFlagEnableNewAnimationRuntimeProperty": "False",
   "FFlagNewAnimationRuntimeDefaultIsEnabled": "True",
   "DFFlagVoiceChatEnableApiSecurityCheck": "True",
   "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "False;5064251723;5465723678;7017799672;7097215816;6985028626;7241827834;6937477528;7277614429;6873361605",
@@ -5135,8 +5135,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
-  "FStringFlagRepoGitHashFastString": "34d8e0e231d4e29ac6c61a424b683dd391129cdf",
-  "DFStringFlagRepoGitHashDynamicString": "34d8e0e231d4e29ac6c61a424b683dd391129cdf",
-  "FStringFlipTimeStampFastString": "2022-11-03T18:08:04.885Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-03T18:08:04.885Z"
+  "FStringFlagRepoGitHashFastString": "accb1d658ae41a574205a49d75ff93b61fa20de6",
+  "DFStringFlagRepoGitHashDynamicString": "accb1d658ae41a574205a49d75ff93b61fa20de6",
+  "FStringFlipTimeStampFastString": "2022-11-03T18:13:19.125Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-03T18:13:19.125Z"
 }
