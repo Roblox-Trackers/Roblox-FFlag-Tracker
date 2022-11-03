@@ -4913,6 +4913,7 @@
   "FFlagSignalRHubConnectionTimeAnalytics": "True",
   "FFlagACERetireUILibraryCompat": "True",
   "FFlagStudioDeprecatePrevCrashTelemetry": "True",
+  "FFlagStudioDeprecateBrowserTrackerLayer": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5167,8 +5168,8 @@
   "FFlagReportFirstGameInteractive": "True",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
-  "FStringFlagRepoGitHashFastString": "0f95a72aeb05d5f984b26c8cf7d14ed8760550da",
-  "DFStringFlagRepoGitHashDynamicString": "0f95a72aeb05d5f984b26c8cf7d14ed8760550da",
-  "FStringFlipTimeStampFastString": "2022-11-03T17:34:42.788Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-03T17:34:42.788Z"
+  "FStringFlagRepoGitHashFastString": "4ac2dbc684530544b12fa322646c176cb19b2279",
+  "DFStringFlagRepoGitHashDynamicString": "4ac2dbc684530544b12fa322646c176cb19b2279",
+  "FStringFlipTimeStampFastString": "2022-11-03T17:37:50.243Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-03T17:37:50.243Z"
 }
