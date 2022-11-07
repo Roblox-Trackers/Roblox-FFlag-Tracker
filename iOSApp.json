@@ -5033,6 +5033,8 @@
   "DFFlagTypesetterAllocs": "True",
   "FIntReportUserPluginByteCodeHundredthsPercentage": "100",
   "FFlagReportUserPluginByteCode": "True",
+  "FFlagPPUpsellEndpoint": "True",
+  "FFlagEnableXboxNativePurchase": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5343,10 +5345,9 @@
   "FFlagLuaAppAddBackPlaceIdToSearch": "True",
   "FFlagReportFirstGameInteractive": "True",
   "DFIntMetricsApiReportSessioniOSRolloutPercentage": "0",
-  "FFlagPPUpsellEndpoint": "True",
   "DFIntMetricsApiReportSessioniOSRolloutPercentage_DataCenterFilter": "1;180",
-  "FStringFlagRepoGitHashFastString": "1199f35bbf61b20dfb36324e8d58d484e964a29b",
-  "DFStringFlagRepoGitHashDynamicString": "1199f35bbf61b20dfb36324e8d58d484e964a29b",
-  "FStringFlipTimeStampFastString": "2022-11-07T21:34:53.711Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-07T21:34:53.711Z"
+  "FStringFlagRepoGitHashFastString": "846bfb5ebee62b37feddc8b4108344e7d83ce5c6",
+  "DFStringFlagRepoGitHashDynamicString": "846bfb5ebee62b37feddc8b4108344e7d83ce5c6",
+  "FStringFlipTimeStampFastString": "2022-11-07T21:38:00.933Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-07T21:38:00.933Z"
 }
