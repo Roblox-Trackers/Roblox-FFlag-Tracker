@@ -4753,7 +4753,7 @@
   "DFFlagReorderControllerManagerStep": "True",
   "DFFlagSimFixLevitationConstraint5": "True",
   "FFlagEnableTextChannelShouldDeliverCallback": "True",
-  "DFFlagAsyncStreamingNoBlockGC": "True",
+  "DFFlagAsyncStreamingNoBlockGC": "False",
   "FFlagLuaAppReportChannelToBacktrace": "True",
   "FFlagDisableUserPluginByteCode": "True",
   "FFlagUpgradeExpChatV3_2_0": "True",
@@ -4800,7 +4800,7 @@
   "FFlagParallelLuaSignalOptimization3": "True",
   "FFlagSelectionImprovementsBetaFeature": "False",
   "FFlagAssetManagerFixListSort": "True",
-  "DFFlagAsyncStreamingNoBlockGCVis": "True",
+  "DFFlagAsyncStreamingNoBlockGCVis": "False",
   "FFlagHighlightDOFFix": "True",
   "FFlagPlayerEmulatorMigratedCountryCodeCallEnabled": "True",
   "DFFlagPlayerConfigurerFallbackLocales": "True",
@@ -5239,8 +5239,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
-  "FStringFlagRepoGitHashFastString": "321f83af6efa009a8c30b13f0baf4bfe8a6d83c5",
-  "DFStringFlagRepoGitHashDynamicString": "321f83af6efa009a8c30b13f0baf4bfe8a6d83c5",
-  "FStringFlipTimeStampFastString": "2022-11-07T19:52:16.804Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-07T19:52:16.804Z"
+  "FStringFlagRepoGitHashFastString": "1f64c4a41d13fa4a19b2e5263f2f3630cb1a26cd",
+  "DFStringFlagRepoGitHashDynamicString": "1f64c4a41d13fa4a19b2e5263f2f3630cb1a26cd",
+  "FStringFlipTimeStampFastString": "2022-11-07T19:57:49.265Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-07T19:57:49.265Z"
 }
