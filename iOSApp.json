@@ -3819,7 +3819,7 @@
   "FFlagLuaAppErrorReportUseRobloxTelemetry": "True",
   "FFlagUpdateContactsCaptionText": "True",
   "FFlagContactsImporterUpdateSupportParamV2": "True",
-  "FFlagEnableRobuxUpsellExperimentV3": "False",
+  "FFlagEnableRobuxUpsellExperimentV3": "True",
   "FFlagNativePurchaseReducer": "True",
   "FFlagContactsImporterUpdateContactsFetching": "True",
   "FFlagContactsImporterFormattingAsIs": "True",
@@ -5029,6 +5029,7 @@
   "DFIntFmodStealingBehavior": "1",
   "DFIntGameStartInfoOffApiProxyRolloutPercent": "100",
   "FFlagRenderLoadMediumpByCaps2": "True",
+  "FFlagFixUAUpsellProductId": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5341,8 +5342,8 @@
   "DFIntMetricsApiReportSessioniOSRolloutPercentage": "0",
   "FFlagPPUpsellEndpoint": "True",
   "DFIntMetricsApiReportSessioniOSRolloutPercentage_DataCenterFilter": "1;180",
-  "FStringFlagRepoGitHashFastString": "58ebead4fb4a50de7137a6da7c6d974f0f1a18b5",
-  "DFStringFlagRepoGitHashDynamicString": "58ebead4fb4a50de7137a6da7c6d974f0f1a18b5",
-  "FStringFlipTimeStampFastString": "2022-11-07T21:08:14.090Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-07T21:08:14.090Z"
+  "FStringFlagRepoGitHashFastString": "f9342916d8f761aa73bcf7b4b3a703edf9dab13b",
+  "DFStringFlagRepoGitHashDynamicString": "f9342916d8f761aa73bcf7b4b3a703edf9dab13b",
+  "FStringFlipTimeStampFastString": "2022-11-07T21:08:32.875Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-07T21:08:32.875Z"
 }
