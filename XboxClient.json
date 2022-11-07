@@ -5014,6 +5014,8 @@
   "FFlagUseOpenXr2": "False",
   "FFlagPackageOverhaulPhaseOneFromLocal": "True",
   "SFFlagPackageOverhaulPhaseOneFromServer": "True",
+  "FFlagLuaAppPlayerSearchRelaunchPrep": "True",
+  "FFlagStudioReportProcessAvailableVirtualMemoryKey": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5226,8 +5228,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
-  "FStringFlagRepoGitHashFastString": "19a2a040308ae336ed605fbc386d07e2e753ed45",
-  "DFStringFlagRepoGitHashDynamicString": "19a2a040308ae336ed605fbc386d07e2e753ed45",
-  "FStringFlipTimeStampFastString": "2022-11-07T22:53:12.352Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-07T22:53:12.352Z"
+  "FStringFlagRepoGitHashFastString": "39c759a93600803ec1a47b1f059455e292ca1734",
+  "DFStringFlagRepoGitHashDynamicString": "39c759a93600803ec1a47b1f059455e292ca1734",
+  "FStringFlipTimeStampFastString": "2022-11-07T23:04:56.866Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-07T23:04:56.866Z"
 }
