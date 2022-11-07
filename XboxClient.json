@@ -5002,6 +5002,8 @@
   "FFlagScriptProfilerClearDataOnStart": "True",
   "FFlagScriptProfilerResetTicksWhenSettingTopLevelCategories": "True",
   "FFlagHlsSegmentUsesWeakThisPtr": "True",
+  "FFlagIsVRSkyboxStatic": "True",
+  "FFlagVRAppScreenSize": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5214,8 +5216,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
-  "FStringFlagRepoGitHashFastString": "37d40adfb9c8caf6437a8376bcc9466c86272718",
-  "DFStringFlagRepoGitHashDynamicString": "37d40adfb9c8caf6437a8376bcc9466c86272718",
-  "FStringFlipTimeStampFastString": "2022-11-07T18:13:01.379Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-07T18:13:01.379Z"
+  "FStringFlagRepoGitHashFastString": "252a67ef5dd25c115c4b542a501fea841219d779",
+  "DFStringFlagRepoGitHashDynamicString": "252a67ef5dd25c115c4b542a501fea841219d779",
+  "FStringFlipTimeStampFastString": "2022-11-07T18:13:43.591Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-07T18:13:43.591Z"
 }
