@@ -5019,6 +5019,8 @@
   "SFFlagPackageOverhaulPhaseOneFromServer": "True",
   "FFlagEnableVrServiceSessionState": "True",
   "FFlagEnableOpenXRSessionState": "True",
+  "DFFlagStreamingRegionRemovalStats": "True",
+  "DFIntReportStreamingRegionRemovalStatsHundredths": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5331,8 +5333,8 @@
   "DFIntMetricsApiReportSessioniOSRolloutPercentage": "0",
   "DFIntMetricsApiReportSessioniOSRolloutPercentage_PlaceFilter": "100;7162908798",
   "FFlagPPUpsellEndpoint": "True",
-  "FStringFlagRepoGitHashFastString": "7b8224aa3ab7f1c661474d3a88e6461a04ef15ea",
-  "DFStringFlagRepoGitHashDynamicString": "7b8224aa3ab7f1c661474d3a88e6461a04ef15ea",
-  "FStringFlipTimeStampFastString": "2022-11-07T19:00:26.914Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-07T19:00:26.914Z"
+  "FStringFlagRepoGitHashFastString": "9d5c26c8f8c6719b2042ee96e1b0001a5a84d460",
+  "DFStringFlagRepoGitHashDynamicString": "9d5c26c8f8c6719b2042ee96e1b0001a5a84d460",
+  "FStringFlipTimeStampFastString": "2022-11-07T19:01:32.478Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-07T19:01:32.478Z"
 }
