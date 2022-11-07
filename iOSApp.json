@@ -4935,7 +4935,7 @@
   "DFFlagFixSetPerfDataSampleTime": "True",
   "DFFlagSimAdaptiveTimesteppingUpdate": "True",
   "DFFlagSimAdaptiveIntegrationErrorModel": "True",
-  "FFlagAllowPerformanceControlInitialization3": "True",
+  "FFlagAllowPerformanceControlInitialization3": "False",
   "FFlagIntegrityCheckedProcessorDynamicMaxQueueSizes": "True",
   "FStringMultiTryOnPurchaseIXPLayer": "AvatarMarketplace.ShoppingCart",
   "FFlagLuauIceExceptionInheritanceChange": "True",
@@ -5335,8 +5335,8 @@
   "DFIntMetricsApiReportSessioniOSRolloutPercentage": "0",
   "FFlagPPUpsellEndpoint": "True",
   "DFIntMetricsApiReportSessioniOSRolloutPercentage_DataCenterFilter": "1;180",
-  "FStringFlagRepoGitHashFastString": "33a5a9e281e79e56b42e03088236ef707e897486",
-  "DFStringFlagRepoGitHashDynamicString": "33a5a9e281e79e56b42e03088236ef707e897486",
-  "FStringFlipTimeStampFastString": "2022-11-07T19:08:46.341Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-07T19:08:46.341Z"
+  "FStringFlagRepoGitHashFastString": "9f765270a7c93a3dc7591bbc48909add492b2e39",
+  "DFStringFlagRepoGitHashDynamicString": "9f765270a7c93a3dc7591bbc48909add492b2e39",
+  "FStringFlipTimeStampFastString": "2022-11-07T19:09:51.871Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-07T19:09:51.871Z"
 }
