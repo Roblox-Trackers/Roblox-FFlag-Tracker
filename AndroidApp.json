@@ -5014,10 +5014,10 @@
   "FFlagProfilePeekViewMutualFriendsIcon": "True",
   "DFFlagDebugReportFlagRollout_Rollout": "True;60;2022-11-07T18:35:49",
   "DFFlagKeyframeSequenceProviderMakeSharedFix": "True",
-  "FFlagPPUpsellEndpoint": "True",
   "FFlagPackageOverhaulPhaseOneFromLocal": "True",
   "FFlagReduceErrorsOnUnsupportedRigs": "True",
   "SFFlagPackageOverhaulPhaseOneFromServer": "True",
+  "FFlagEnableVrServiceSessionState": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5431,8 +5431,9 @@
   "FFlagLuaAppAddBackPlaceIdToSearch": "True",
   "FFlagReportFirstGameInteractive": "True",
   "DFFlagCLI59083": "True",
-  "FStringFlagRepoGitHashFastString": "8be1a01843fa136e6a1fde87037fbdd32c3d7934",
-  "DFStringFlagRepoGitHashDynamicString": "8be1a01843fa136e6a1fde87037fbdd32c3d7934",
-  "FStringFlipTimeStampFastString": "2022-11-07T18:58:52.585Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-07T18:58:52.585Z"
+  "FFlagPPUpsellEndpoint": "True",
+  "FStringFlagRepoGitHashFastString": "a75113e805b343b07b8c5fcc084d7a36b931cf50",
+  "DFStringFlagRepoGitHashDynamicString": "a75113e805b343b07b8c5fcc084d7a36b931cf50",
+  "FStringFlipTimeStampFastString": "2022-11-07T19:00:06.716Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-07T19:00:06.716Z"
 }
