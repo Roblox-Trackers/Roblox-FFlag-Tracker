@@ -5014,6 +5014,7 @@
   "FFlagProfilePeekViewMutualFriendsIcon": "True",
   "DFFlagDebugReportFlagRollout_Rollout": "True;60;2022-11-07T18:35:49",
   "DFFlagKeyframeSequenceProviderMakeSharedFix": "True",
+  "FFlagPPUpsellEndpoint": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5390,7 +5391,6 @@
   "FFlagOffNetworkFriendingEnabled_3": "True",
   "FFlagOutlineSelection": "True",
   "EnableVrModeForQuest3VrVariantV2": "True",
-  "FFlagPPUpsellEndpoint": "True",
   "AndroidIAPList": "com.roblox.client.robux40,com.roblox.robloxmobile.premium80robux,com.roblox.robloxmobile.premium160robux,com.roblox.robloxmobile.premium240robux,com.roblox.robloxmobile.premium320robux,com.roblox.robloxmobile.premium400robux,com.roblox.robloxmobile.premium800robux,com.roblox.robloxmobile.premium1700robux,com.roblox.robloxmobile.premium4500robux,com.roblox.robloxmobile.premium10000robux,com.roblox.client.robux22500,com.roblox.robloxmobile.premium88subscribed,com.roblox.robloxmobile.premium175subscribed,com.roblox.robloxmobile.premium265subscribed,com.roblox.robloxmobile.premium350subscribed,com.roblox.robloxmobile.premium440subscribed2,com.roblox.robloxmobile.premium880subscribed,com.roblox.robloxmobile.premium1870subscribed,com.roblox.robloxmobile.premium4950subscribed,com.roblox.robloxmobile.premium11000subscribed,com.roblox.client.robux25000,com.roblox.client.robux22500",
   "EnableDynamicIAPList": "True",
   "FIntMessageListVirtualizedRollout3": "100",
@@ -5428,8 +5428,8 @@
   "FFlagLuaAppAddBackPlaceIdToSearch": "True",
   "FFlagReportFirstGameInteractive": "True",
   "DFFlagCLI59083": "True",
-  "FStringFlagRepoGitHashFastString": "137bb9da7fb27f6923e3e9f7916e051d965de746",
-  "DFStringFlagRepoGitHashDynamicString": "137bb9da7fb27f6923e3e9f7916e051d965de746",
-  "FStringFlipTimeStampFastString": "2022-11-07T18:36:48.032Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-07T18:36:48.032Z"
+  "FStringFlagRepoGitHashFastString": "ba1bd1088372088ca8d57a7332bf9e53743f21da",
+  "DFStringFlagRepoGitHashDynamicString": "ba1bd1088372088ca8d57a7332bf9e53743f21da",
+  "FStringFlipTimeStampFastString": "2022-11-07T18:41:33.270Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-07T18:41:33.270Z"
 }
