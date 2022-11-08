@@ -3149,7 +3149,7 @@
   "FFlagEnableErrorIconFixV2": "True",
   "FFlagFilteredLocalSimulation4_DataCenterFilter": "True;324",
   "FFlagLuaGcParallelStates2": "True",
-  "FIntFMODSoundChannels": "400",
+  "FIntFMODSoundChannels": "600",
   "FIntFMODSoundChannels_PlaceFilter": "4095;10478003390",
   "FIntFmodSoftwareChannels": "128",
   "FIntFmodSoftwareChannels_PlaceFilter": "4095;10478003390",
@@ -5039,6 +5039,8 @@
   "DFFlagCrashpadManagerReportPlaySessionId3": "True",
   "FFlagLuaAppEnableStudioCTA": "True",
   "DFFlagPackageModCheckUseTreeDiff": "True",
+  "DFIntFmodStealingBehavior": "1",
+  "DFIntMinAudibleSoundChannels": "32",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5251,8 +5253,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
-  "FStringFlagRepoGitHashFastString": "03065f61ea36506bfb4ef8c3e9addf4aa01f6037",
-  "DFStringFlagRepoGitHashDynamicString": "03065f61ea36506bfb4ef8c3e9addf4aa01f6037",
-  "FStringFlipTimeStampFastString": "2022-11-08T21:47:39.897Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-08T21:47:39.897Z"
+  "FStringFlagRepoGitHashFastString": "fe2a053604b8946cf207009407e54e9a2fb1e26a",
+  "DFStringFlagRepoGitHashDynamicString": "fe2a053604b8946cf207009407e54e9a2fb1e26a",
+  "FStringFlipTimeStampFastString": "2022-11-08T21:52:46.022Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-08T21:52:46.022Z"
 }
