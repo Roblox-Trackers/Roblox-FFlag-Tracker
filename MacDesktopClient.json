@@ -5027,6 +5027,7 @@
   "FFlagEnableXboxNativePurchase": "True",
   "FFlagFixUAUpsellProductId": "True",
   "DFFlagUIQuadTreeAllocs": "True",
+  "DFFlagKeyframeSequenceProviderMakeSharedFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5271,8 +5272,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "a89d88215bacc55bf53a5fe50ece8b972a3a88aa",
-  "DFStringFlagRepoGitHashDynamicString": "a89d88215bacc55bf53a5fe50ece8b972a3a88aa",
-  "FStringFlipTimeStampFastString": "2022-11-08T00:47:52.985Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-08T00:47:52.985Z"
+  "FStringFlagRepoGitHashFastString": "358cb61ca16891e75133fb0b49d3d15194fae0c3",
+  "DFStringFlagRepoGitHashDynamicString": "358cb61ca16891e75133fb0b49d3d15194fae0c3",
+  "FStringFlipTimeStampFastString": "2022-11-08T00:56:14.043Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-08T00:56:14.043Z"
 }
