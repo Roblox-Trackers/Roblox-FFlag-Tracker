@@ -3819,7 +3819,7 @@
   "FFlagLuaAppErrorReportUseRobloxTelemetry": "True",
   "FFlagUpdateContactsCaptionText": "True",
   "FFlagContactsImporterUpdateSupportParamV2": "True",
-  "FFlagEnableRobuxUpsellExperimentV3": "True",
+  "FFlagEnableRobuxUpsellExperimentV3": "False",
   "FFlagNativePurchaseReducer": "True",
   "FFlagContactsImporterUpdateContactsFetching": "True",
   "FFlagContactsImporterFormattingAsIs": "True",
@@ -5023,6 +5023,9 @@
   "DFFlagTypesetterAllocs": "True",
   "FStringLuaAppOmniSearchLayer": "UserConnection.UserSearch",
   "FFlagGamesSearchPageCreationCenterPolicy": "True",
+  "FFlagPPUpsellEndpoint": "False",
+  "FFlagEnableXboxNativePurchase": "True",
+  "FFlagFixUAUpsellProductId": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5236,8 +5239,8 @@
   "FFlagReportFirstGameInteractive": "True",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
-  "FStringFlagRepoGitHashFastString": "d59143d0b916973c016615b2b041064be6f04d20",
-  "DFStringFlagRepoGitHashDynamicString": "d59143d0b916973c016615b2b041064be6f04d20",
-  "FStringFlipTimeStampFastString": "2022-11-08T00:40:13.859Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-08T00:40:13.859Z"
+  "FStringFlagRepoGitHashFastString": "2c19ba0becbfe4e9361d43ac5d7e69d5eb6dca0d",
+  "DFStringFlagRepoGitHashDynamicString": "2c19ba0becbfe4e9361d43ac5d7e69d5eb6dca0d",
+  "FStringFlipTimeStampFastString": "2022-11-08T00:41:57.597Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-08T00:41:57.597Z"
 }
