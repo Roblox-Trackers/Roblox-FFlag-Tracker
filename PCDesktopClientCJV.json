@@ -5067,6 +5067,7 @@
   "DFIntPingBackDisconnectTimeLimitSecondsTC": "6000",
   "DFIntPingBackDisconnectTimeLimitSecondsTC_DataCenterFilter": "600;235",
   "FFlagIncreaseLoadingScreenOrder": "True",
+  "DFStringCrashUploadToBacktraceBaseUrl": "https://upload.crashes.rbxinfra.com/post?format=minidump",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5322,8 +5323,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "8485fbb6af2190d241f17490cfcb9495c7918bf1",
-  "DFStringFlagRepoGitHashDynamicString": "8485fbb6af2190d241f17490cfcb9495c7918bf1",
-  "FStringFlipTimeStampFastString": "2022-11-10T02:18:22.729Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-10T02:18:22.729Z"
+  "FStringFlagRepoGitHashFastString": "7bb7f296deffbdbc81105c474d14cc57d9aa2479",
+  "DFStringFlagRepoGitHashDynamicString": "7bb7f296deffbdbc81105c474d14cc57d9aa2479",
+  "FStringFlipTimeStampFastString": "2022-11-10T02:39:27.284Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-10T02:39:27.284Z"
 }
