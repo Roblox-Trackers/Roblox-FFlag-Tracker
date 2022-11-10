@@ -5077,6 +5077,14 @@
   "FFlagIXPUseLayerNamesFString": "True",
   "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile",
   "FFlagTopicsIXPEnabled3": "True",
+  "DFFlagStudioReplaceIncrementalLexer3": "True",
+  "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent2": "1000",
+  "DFIntStudioReplaceIncrementalLexer3HundredthPercent": "5000",
+  "DFIntStudioSyntaxHighlightingOnChangeAnalyticsThrottleHundredthsPercent2": "1000",
+  "FFlagStudioLexMapChangeDocAnalytics2": "True",
+  "FFlagStudioSyntaxHighlightingOnChangeAnalytics2": "True",
+  "FIntStudioLexMapChangeDocAnalyticsPerKeystrokeThrottleHundredthsPercent": "100",
+  "FIntStudioSyntaxHighlightingOnChangeAnalyticsPerKeystrokeHundredthsPercent": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5288,8 +5296,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
-  "FStringFlagRepoGitHashFastString": "a68a4e7aaf971be0fbc9fe834525458493729eda",
-  "DFStringFlagRepoGitHashDynamicString": "a68a4e7aaf971be0fbc9fe834525458493729eda",
-  "FStringFlipTimeStampFastString": "2022-11-10T21:29:55.668Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-10T21:29:55.668Z"
+  "FStringFlagRepoGitHashFastString": "460da9f5c53cbe4969986ffc973332ed68dc7f06",
+  "DFStringFlagRepoGitHashDynamicString": "460da9f5c53cbe4969986ffc973332ed68dc7f06",
+  "FStringFlipTimeStampFastString": "2022-11-10T21:31:00.026Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-10T21:31:00.026Z"
 }
