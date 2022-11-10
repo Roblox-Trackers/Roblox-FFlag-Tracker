@@ -5074,6 +5074,8 @@
   "FFlagCleanUpIsSubjectToDesktopPolicies": "True",
   "FStringLuaTopicsIXPLayer": "AvatarMarketplace.GuidedFeatures.Mobile",
   "FFlagShowRatingsInAssetPreviewForAllPlugins": "True",
+  "FFlagIXPUseLayerNamesFString": "True",
+  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5328,8 +5330,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "01976ec08839c80d75050c257a3a78b1845959b4",
-  "DFStringFlagRepoGitHashDynamicString": "01976ec08839c80d75050c257a3a78b1845959b4",
-  "FStringFlipTimeStampFastString": "2022-11-10T21:26:48.703Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-10T21:26:48.703Z"
+  "FStringFlagRepoGitHashFastString": "1975cf46ed7d32846b8bf6d441707529b3d035ad",
+  "DFStringFlagRepoGitHashDynamicString": "1975cf46ed7d32846b8bf6d441707529b3d035ad",
+  "FStringFlipTimeStampFastString": "2022-11-10T21:28:32.152Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-10T21:28:32.152Z"
 }
