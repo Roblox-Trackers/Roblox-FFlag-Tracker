@@ -5113,6 +5113,7 @@
   "DFIntCLI59911MaxTimeMicro": "750000",
   "DFIntCLI59911ReportHundredths": "10000",
   "FFlagEnableUserFacingMessageToast": "True",
+  "DFFlagLTAnalyticsIgnoreCoreGui": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5324,8 +5325,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
-  "FStringFlagRepoGitHashFastString": "a5750e1dd702277acbee81db70417a476e068b5e",
-  "DFStringFlagRepoGitHashDynamicString": "a5750e1dd702277acbee81db70417a476e068b5e",
-  "FStringFlipTimeStampFastString": "2022-11-11T00:55:42.669Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-11T00:55:42.669Z"
+  "FStringFlagRepoGitHashFastString": "074b02f2199b712e2483316e84981dc339347060",
+  "DFStringFlagRepoGitHashDynamicString": "074b02f2199b712e2483316e84981dc339347060",
+  "FStringFlipTimeStampFastString": "2022-11-11T01:05:13.203Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-11T01:05:13.203Z"
 }
