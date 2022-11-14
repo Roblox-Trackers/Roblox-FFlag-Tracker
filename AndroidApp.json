@@ -1554,7 +1554,7 @@
   "DFIntReportPhysicsFPSStatsForInfluxHundredthsPercentage": "100",
   "FFlagAuthFailureRetryUI": "True",
   "DFFlagReportIncorrectlyPausedReplicationStat3": "True",
-  "FIntRakNetResendBufferArrayLength": "512",
+  "FIntRakNetResendBufferArrayLength": "1024",
   "FFlagCLI49303continuousTimeStamp": "True",
   "FFlagLuaAppResetSearchBarWhenPageSwitch": "True",
   "DFIntAdjustMixedPriorityFairlyMultiplicativeStepLowerBound": "5",
@@ -3324,7 +3324,6 @@
   "FFlagSkipToFrontEndOfLines": "True",
   "FFlagEnableVideoTextureDynamicResize": "False",
   "FFlagEnableSponsoredGamesHomeOmniFeedV4": "True",
-  "FIntRakNetResendBufferArrayLength_DataCenterFilter": "1024;295;283;362",
   "FFlagEnableBetaBadgeLearnMore": "True",
   "DFFlagXboxPartyRbxJson": "True",
   "FFlagFacsRigFasterPrepare": "True",
@@ -5554,8 +5553,8 @@
   "FFlagLuaAppAddBackPlaceIdToSearch": "True",
   "FFlagReportFirstGameInteractive": "True",
   "DFFlagCLI59083": "True",
-  "FStringFlagRepoGitHashFastString": "42666b276b14a857e8de4b37e5aa210a608f44d6",
-  "DFStringFlagRepoGitHashDynamicString": "42666b276b14a857e8de4b37e5aa210a608f44d6",
-  "FStringFlipTimeStampFastString": "2022-11-14T23:30:35.083Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-14T23:30:35.083Z"
+  "FStringFlagRepoGitHashFastString": "5efaf31dbde314f2a8c92c0637f9018cf64b5b59",
+  "DFStringFlagRepoGitHashDynamicString": "5efaf31dbde314f2a8c92c0637f9018cf64b5b59",
+  "FStringFlipTimeStampFastString": "2022-11-14T23:38:32.920Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-14T23:38:32.920Z"
 }
