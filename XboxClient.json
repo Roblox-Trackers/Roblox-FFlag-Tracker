@@ -5144,6 +5144,7 @@
   "MetricsApiReportSessionAndroidRolloutPercentage": "1",
   "FFlagUniversalAppMenuCsat2": "True",
   "DFFlagCaptureSafetyContext": "True",
+  "FFlagStudioUploadVideoAlwaysUseMp4Chunker": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5355,8 +5356,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
-  "FStringFlagRepoGitHashFastString": "1329a5628e0856d72c45a93e121f31de438ca8a5",
-  "DFStringFlagRepoGitHashDynamicString": "1329a5628e0856d72c45a93e121f31de438ca8a5",
-  "FStringFlipTimeStampFastString": "2022-11-14T23:49:54.439Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-14T23:49:54.439Z"
+  "FStringFlagRepoGitHashFastString": "9e96d29ff13273b8d1acec637751a139c9f4869b",
+  "DFStringFlagRepoGitHashDynamicString": "9e96d29ff13273b8d1acec637751a139c9f4869b",
+  "FStringFlipTimeStampFastString": "2022-11-14T23:55:09.872Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-14T23:55:09.872Z"
 }
