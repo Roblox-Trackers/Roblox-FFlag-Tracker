@@ -5158,6 +5158,7 @@
   "FFlagAXUseCommonItemCardMoreButton": "True",
   "FFlagReturnChildFromWrapper": "True",
   "FFlagShowVerifiedBadgeOnItemResellersCard2": "True",
+  "FFlagEnableAppLaunchInfoEndpoint": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5426,7 +5427,6 @@
   "FIntConversationListVirtualizedRollout2": "100",
   "FFlagDestorySurfaceBeforeDestroyUGCDM": "True",
   "FFlagFixMultipleAudioSessionInterruptCallbacks": "True",
-  "FFlagEnableAppLaunchInfoEndpoint": "True",
   "FFlagGraphicsDeviceEvents": "False",
   "FFlagEnableV3MenuABTest": "False",
   "FFlagEnableWebviewsInUGCExperience": "True",
@@ -5467,8 +5467,8 @@
   "FFlagLuaAppAddBackPlaceIdToSearch": "True",
   "FFlagReportFirstGameInteractive": "True",
   "FFlagShouldHandleWebviewJSCommandForDeepLinks": "True",
-  "FStringFlagRepoGitHashFastString": "0bb3d6941d2d4d61ede45ac69346afcf44d653e7",
-  "DFStringFlagRepoGitHashDynamicString": "0bb3d6941d2d4d61ede45ac69346afcf44d653e7",
-  "FStringFlipTimeStampFastString": "2022-11-15T21:53:59.838Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-15T21:53:59.838Z"
+  "FStringFlagRepoGitHashFastString": "87365d1a9a1f171f5cbe164812d6586c57f4c7bc",
+  "DFStringFlagRepoGitHashDynamicString": "87365d1a9a1f171f5cbe164812d6586c57f4c7bc",
+  "FStringFlipTimeStampFastString": "2022-11-15T21:58:52.704Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-15T21:58:52.704Z"
 }
