@@ -294,7 +294,6 @@
   "DFStringTelegrafAddress": "100.20.191.133",
   "EnableAndroidSetTagOnContactAcceptFriendRequest": "True",
   "EnableBackupCookie": "True",
-  "EnableLuaAppOnChrome": "True",
   "EnableManualFocusReleaseSupport": "True",
   "EnableTencentLinkingFeature": "False",
   "EnableTencentYZFSDKHelpCenter": "True",
@@ -5250,10 +5249,6 @@
   "EnableGetPriceForPurchaseOnAmazon": "True",
   "EnableGoogleSmartLockOnLua": "True",
   "EnableJoinGameInstanceAndroid": "True",
-  "EnableLuaGamesOnPhone": "True",
-  "EnableLuaGamesOnTablet": "True",
-  "EnableLuaHomeOnPhone": "True",
-  "EnableLuaHomeOnTablet": "True",
   "EnableMarshallerAsync": "False",
   "EnableNewPasswordValidationApi": "True",
   "EnableNewUsernameValidationApi": "True",
@@ -5570,8 +5565,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "FFlagReportFirstGameInteractive": "True",
   "DFFlagCLI59083": "True",
-  "FStringFlagRepoGitHashFastString": "bcc32021064e98a0d52eb5170df09d06584e6704",
-  "DFStringFlagRepoGitHashDynamicString": "bcc32021064e98a0d52eb5170df09d06584e6704",
-  "FStringFlipTimeStampFastString": "2022-11-15T22:35:31.733Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-15T22:35:31.733Z"
+  "FStringFlagRepoGitHashFastString": "8a30a1a51ced88d559de0cc37719b7a7885fe60f",
+  "DFStringFlagRepoGitHashDynamicString": "8a30a1a51ced88d559de0cc37719b7a7885fe60f",
+  "FStringFlipTimeStampFastString": "2022-11-15T22:46:24.128Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-15T22:46:24.128Z"
 }
