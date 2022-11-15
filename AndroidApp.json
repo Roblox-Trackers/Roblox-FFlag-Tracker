@@ -5126,8 +5126,6 @@
   "FFlagEnableLinkingProtocolOpenUrlForXbox": "True",
   "FFlagRegisterInstanceToCharacterSignal": "True",
   "FFlagFilterNoLayerGlyph": "True",
-  "FFlagDebugUseCustomUnfilteredChat": "False",
-  "FFlagDebugUseCustomUnfilteredChat_PlaceFilter": "True;9709838535",
   "DFFlagAESAddLimitToSearch": "True",
   "DFFlagAESOutfitTypeEnabled": "True",
   "FFlagStudioActivityTrackCountPerEvent": "True",
@@ -5166,6 +5164,8 @@
   "FFlagAXUpdateThumbnails": "True",
   "FFlagMultiTryOnPurchaseIXPEnabled2": "True",
   "DFFlagSimSolverConstraintServoMotorLimitFix4": "True",
+  "DFFlagUnfilteredChatEnrollment": "False",
+  "DFFlagUnfilteredChatEnrollment_PlaceFilter": "True;9709838535",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5565,8 +5565,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "FFlagReportFirstGameInteractive": "True",
   "DFFlagCLI59083": "True",
-  "FStringFlagRepoGitHashFastString": "8d58a013261771465139881eae2f04263c064f3d",
-  "DFStringFlagRepoGitHashDynamicString": "8d58a013261771465139881eae2f04263c064f3d",
-  "FStringFlipTimeStampFastString": "2022-11-15T23:41:42.701Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-15T23:41:42.701Z"
+  "FStringFlagRepoGitHashFastString": "838868c60e7fd9a313ea0ecef8110216aeb91aa8",
+  "DFStringFlagRepoGitHashDynamicString": "838868c60e7fd9a313ea0ecef8110216aeb91aa8",
+  "FStringFlipTimeStampFastString": "2022-11-15T23:47:37.771Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-15T23:47:37.771Z"
 }
