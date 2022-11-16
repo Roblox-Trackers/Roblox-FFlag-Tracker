@@ -5253,9 +5253,6 @@
   "DefaultTapFilterLevel": "0",
   "DeprecationNoticeActivated": "True",
   "EnableAppPolicyDefaultsFile": "True",
-  "EnableAppsFlyer": "True",
-  "EnableAppsFlyerDiagCounters": "True",
-  "EnableAppsFlyerEventStream": "True",
   "EnableAppsFlyerFacebookTracking": "False",
   "EnableAuthLoginWithEmail": "True",
   "EnableAuthLoginWithPhone": "True",
@@ -5269,8 +5266,6 @@
   "EnableMarshallerAsync": "False",
   "EnableNewPasswordValidationApi": "True",
   "EnableNewUsernameValidationApi": "True",
-  "EnableNotificationBadgeCountRobloxEvent": "True",
-  "EnableNotificationStreamOpenEvent": "True",
   "EnableOpenExternalUrlsInBrowser": "False",
   "EnableRemoteThemeCheckOnAndroidV3": "True",
   "EnableReportRejectionExecution": "True",
@@ -5574,8 +5569,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "FFlagReportFirstGameInteractive": "True",
   "DFFlagCLI59083": "True",
-  "FStringFlagRepoGitHashFastString": "555e7104d11d5da50ba49979a0ab8aa2da2ddc76",
-  "DFStringFlagRepoGitHashDynamicString": "555e7104d11d5da50ba49979a0ab8aa2da2ddc76",
-  "FStringFlipTimeStampFastString": "2022-11-16T20:36:28.087Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-16T20:36:28.087Z"
+  "FStringFlagRepoGitHashFastString": "2bf3411b5d44e5948c495a28d422141fc870440c",
+  "DFStringFlagRepoGitHashDynamicString": "2bf3411b5d44e5948c495a28d422141fc870440c",
+  "FStringFlipTimeStampFastString": "2022-11-16T21:04:16.397Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-16T21:04:16.397Z"
 }
