@@ -3888,7 +3888,7 @@
   "FFlagCLI57880ExposeThrottlingInRobloxTelemetry": "True",
   "FFlagLuauTypeAnnotationLocationChange": "True",
   "DFFlagSimHumanoidPhysics": "False",
-  "DFFlagSimHumanoidPhysics_PlaceFilter": "True;9863470458;10404927539;11453377229;11452116982;11444556552;11571326476",
+  "DFFlagSimHumanoidPhysics_PlaceFilter": "True;9863470458;10404927539;11453377229;11452116982;11444556552;11571326476;11379562275",
   "FFlagLuauUnionOfTypesFollow": "True",
   "DFFlagDynamicHeadFallback": "True",
   "DFFlagVoiceChatSubscribePauseRefactorV2": "True",
@@ -5212,6 +5212,7 @@
   "FFlagStudioMoveLoginManagerDialogs": "True",
   "DFIntLocalizationServiceSystemLocaleIdParseErrorThrottleHundrethsPercentage": "1",
   "FFlagPPPostUpsellRefactor": "True",
+  "FFlagStudioFixParseUserId": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5600,8 +5601,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "FFlagReportFirstGameInteractive": "True",
   "DFFlagCLI59083": "True",
-  "FStringFlagRepoGitHashFastString": "87e5599b30621467d3713c6ec8f4d8277b82f1a6",
-  "DFStringFlagRepoGitHashDynamicString": "87e5599b30621467d3713c6ec8f4d8277b82f1a6",
-  "FStringFlipTimeStampFastString": "2022-11-16T23:31:36.054Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-16T23:31:36.054Z"
+  "FStringFlagRepoGitHashFastString": "84cef9b2e5015806bdf7e0bdbc82a0bb848f9c93",
+  "DFStringFlagRepoGitHashDynamicString": "84cef9b2e5015806bdf7e0bdbc82a0bb848f9c93",
+  "FStringFlipTimeStampFastString": "2022-11-16T23:41:59.072Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-16T23:41:59.072Z"
 }
