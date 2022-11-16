@@ -5187,6 +5187,8 @@
   "FFlagStudioRestorePluginPanelAfterReload": "True",
   "FFlagPurchasePromptAnalytics": "True",
   "FFlagFriendsCarouselFixNullAnalyticsFields": "True",
+  "FFlagStudioSetQtAA_Use96DpiWhenDPIAwarenessOff": "True",
+  "FFlagPYMKCarouselFixNullAnalyticsFields": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5398,8 +5400,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
-  "FStringFlagRepoGitHashFastString": "de6c62f4e94ed05f9b59a4666e8b877fcf0683df",
-  "DFStringFlagRepoGitHashDynamicString": "de6c62f4e94ed05f9b59a4666e8b877fcf0683df",
-  "FStringFlipTimeStampFastString": "2022-11-16T21:25:21.118Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-16T21:25:21.118Z"
+  "FStringFlagRepoGitHashFastString": "df5e5968d42231cceb645c60afa969930443f1e5",
+  "DFStringFlagRepoGitHashDynamicString": "df5e5968d42231cceb645c60afa969930443f1e5",
+  "FStringFlipTimeStampFastString": "2022-11-16T21:29:52.914Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-16T21:29:52.914Z"
 }
