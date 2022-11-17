@@ -5261,6 +5261,10 @@
   "FFlagUseAvatarExperienceIXPDiagnostics": "True",
   "FFlagDynamicFlagRolloutEnrollment": "True",
   "FFlagAXUseIXPUtilsCommon3": "True",
+  "FFlagRemoveLuaChatOpenGameDetailsPageThunkDep": "True",
+  "FFlagAXUseIXPUtilsLCSort3": "True",
+  "FFlagAXUseIXPUtilsPPE3": "True",
+  "FFlagAXUseIXPUtilsAvatarEditor3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5505,8 +5509,8 @@
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "FFlagInGameLargerRobuxUpsellIXP": "True",
-  "FStringFlagRepoGitHashFastString": "2cc30ccddfcb795fc22b0e066e36b6d3b6d5d3b2",
-  "DFStringFlagRepoGitHashDynamicString": "2cc30ccddfcb795fc22b0e066e36b6d3b6d5d3b2",
-  "FStringFlipTimeStampFastString": "2022-11-17T23:09:48.738Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-17T23:09:48.738Z"
+  "FStringFlagRepoGitHashFastString": "9463dd5253a7e7a15425034523a5184d3911c3d6",
+  "DFStringFlagRepoGitHashDynamicString": "9463dd5253a7e7a15425034523a5184d3911c3d6",
+  "FStringFlipTimeStampFastString": "2022-11-17T23:11:09.935Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-17T23:11:09.935Z"
 }
