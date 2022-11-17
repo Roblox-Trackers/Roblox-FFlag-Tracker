@@ -5236,6 +5236,8 @@
   "FFlagLuaVoiceChatReconnectMissedSequence": "True",
   "FIntApolloClientRollout3": "100",
   "FFlagDynamicBytecodeReplication": "True",
+  "DFFlagSimCollectConstraintInfo2": "True",
+  "DFIntSimConstraintDataCollectionRate2": "10",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5447,8 +5449,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
-  "FStringFlagRepoGitHashFastString": "d0f5fa306bce31a02f3d43feec618821cfa5109f",
-  "DFStringFlagRepoGitHashDynamicString": "d0f5fa306bce31a02f3d43feec618821cfa5109f",
-  "FStringFlipTimeStampFastString": "2022-11-17T20:04:02.319Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-17T20:04:02.319Z"
+  "FStringFlagRepoGitHashFastString": "99ef1989285700130ede5faec4d5119c231d7900",
+  "DFStringFlagRepoGitHashDynamicString": "99ef1989285700130ede5faec4d5119c231d7900",
+  "FStringFlipTimeStampFastString": "2022-11-17T20:19:35.385Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-17T20:19:35.385Z"
 }
