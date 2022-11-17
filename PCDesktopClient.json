@@ -4836,7 +4836,6 @@
   "DFFlagViewportFrameEnableMirroring": "False",
   "DFFlagViewportFrameEnableMirroring_PlaceFilter": "True;10787386927;11444556552;10404927539;11453377229",
   "FFlagLuaAppGameCarouselOnlyAutoSize": "True",
-  "FFlagRenderEnableGlobalInstancing": "False",
   "FIntRenderEnableGlobalInstancingD3D11Percent": "10",
   "FIntV3MenuLanguageSelectionFeaturePerMillageRollout": "1001",
   "FFlagAXPPEFixBButton": "True",
@@ -5238,6 +5237,8 @@
   "FFlagDynamicBytecodeReplication": "True",
   "DFFlagSimCollectConstraintInfo2": "True",
   "DFIntSimConstraintDataCollectionRate2": "10",
+  "FFlagRenderEnableGlobalInstancing2": "True",
+  "FFlagAXUseIXPUtilsNavBar3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5493,8 +5494,8 @@
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "FFlagInGameLargerRobuxUpsellIXP": "True",
-  "FStringFlagRepoGitHashFastString": "99ef1989285700130ede5faec4d5119c231d7900",
-  "DFStringFlagRepoGitHashDynamicString": "99ef1989285700130ede5faec4d5119c231d7900",
-  "FStringFlipTimeStampFastString": "2022-11-17T20:19:35.385Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-17T20:19:35.385Z"
+  "FStringFlagRepoGitHashFastString": "6a3de4d7d8ace747fc934c493486841217ce2429",
+  "DFStringFlagRepoGitHashDynamicString": "6a3de4d7d8ace747fc934c493486841217ce2429",
+  "FStringFlipTimeStampFastString": "2022-11-17T20:28:11.099Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-17T20:28:11.099Z"
 }
