@@ -5240,6 +5240,8 @@
   "FFlagRenderEnableGlobalInstancing2": "True",
   "FFlagAXUseIXPUtilsNavBar3": "True",
   "FFlagStudioFixSameVersionChannelUpdateProblem": "True",
+  "FFlagAddLogTreeLogsToBackTrace": "True",
+  "FStringBacktraceLogTags": "ax.init:info ax.ixp:info ax.loadtime:info",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5484,8 +5486,8 @@
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "FFlagInGameLargerRobuxUpsellIXP": "True",
-  "FStringFlagRepoGitHashFastString": "855048b72d31a7d8198d807c1381bcc055e0e575",
-  "DFStringFlagRepoGitHashDynamicString": "855048b72d31a7d8198d807c1381bcc055e0e575",
-  "FStringFlipTimeStampFastString": "2022-11-17T20:32:43.134Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-17T20:32:43.134Z"
+  "FStringFlagRepoGitHashFastString": "b2db2a984d5166b2fd73fff3be10967536982a72",
+  "DFStringFlagRepoGitHashDynamicString": "b2db2a984d5166b2fd73fff3be10967536982a72",
+  "FStringFlipTimeStampFastString": "2022-11-17T20:39:29.315Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-17T20:39:29.315Z"
 }
