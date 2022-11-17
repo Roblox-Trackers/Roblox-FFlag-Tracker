@@ -5260,6 +5260,8 @@
   "FFlagAXLuaLogAllTopics": "True",
   "FFlagUseAvatarExperienceIXPDiagnostics": "True",
   "FFlagDynamicFlagRolloutEnrollment": "True",
+  "FFlagAXUseIXPUtilsCommon3": "True",
+  "FFlagRemoveLuaChatOpenGameDetailsPageThunkDep": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5472,8 +5474,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FFlagReportFirstGameInteractive": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
-  "FStringFlagRepoGitHashFastString": "0190b6655f01ff4e0d21b036b3d267001516bcd0",
-  "DFStringFlagRepoGitHashDynamicString": "0190b6655f01ff4e0d21b036b3d267001516bcd0",
-  "FStringFlipTimeStampFastString": "2022-11-17T23:04:12.228Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-17T23:04:12.228Z"
+  "FStringFlagRepoGitHashFastString": "5f40e14df52f96988d72b361ffdb7cfead74bab9",
+  "DFStringFlagRepoGitHashDynamicString": "5f40e14df52f96988d72b361ffdb7cfead74bab9",
+  "FStringFlipTimeStampFastString": "2022-11-17T23:10:12.694Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-17T23:10:12.694Z"
 }
