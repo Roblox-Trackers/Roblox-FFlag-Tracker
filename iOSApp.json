@@ -5279,6 +5279,8 @@
   "FFlagStudioFixSecondaryScreenMaxSizeBug": "True",
   "FIntLuaAppFetchDataOnGameExitRollout": "0",
   "FFlagPlayersUseStrafingAnimations": "True",
+  "FFlagScriptsRunAnywhere": "False",
+  "FFlagScriptsRunAnywhere_PlaceFilter": "True;1818;11598455452;10725597487",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5590,8 +5592,8 @@
   "FFlagIABottomBarHomeOmniBottomPaddingFix": "True",
   "FFlagLuaAppEnableIABarAndroidSize": "True",
   "FFlagIAExperimentation3": "True",
-  "FStringFlagRepoGitHashFastString": "85355681b23f1214d8eb45bb83c7c2a8facf546f",
-  "DFStringFlagRepoGitHashDynamicString": "85355681b23f1214d8eb45bb83c7c2a8facf546f",
-  "FStringFlipTimeStampFastString": "2022-11-18T20:38:35.367Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-18T20:38:35.367Z"
+  "FStringFlagRepoGitHashFastString": "88a4b37bc8549605aad2c797553906127abdc62e",
+  "DFStringFlagRepoGitHashDynamicString": "88a4b37bc8549605aad2c797553906127abdc62e",
+  "FStringFlipTimeStampFastString": "2022-11-18T20:55:32.039Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-18T20:55:32.039Z"
 }
