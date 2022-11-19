@@ -5233,7 +5233,7 @@
   "FFlagXboxRemoveWindowActivated": "True",
   "FFlagLuaVoiceChatReconnectMissedSequence": "True",
   "FIntApolloClientRollout3": "100",
-  "FFlagDynamicBytecodeReplication": "True",
+  "FFlagDynamicBytecodeReplication": "False",
   "DFFlagSimCollectConstraintInfo2": "True",
   "DFIntSimConstraintDataCollectionRate2": "10",
   "FFlagRenderEnableGlobalInstancing2": "True",
@@ -5282,6 +5282,7 @@
   "FFlagScriptsRunAnywhere": "False",
   "FFlagScriptsRunAnywhere_PlaceFilter": "True;1818;11598455452;10725597487",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;60;2022-11-19T00:22:09",
+  "FFlagDynamicBytecodeReplication_PlaceFilter": "True;11598455452;10725597487",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5497,8 +5498,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "FFlagLuaAppUseUIBloxColorPalettes": "True",
-  "FStringFlagRepoGitHashFastString": "44ab73a42a601225d9240613d1359c9fbc5cf7f8",
-  "DFStringFlagRepoGitHashDynamicString": "44ab73a42a601225d9240613d1359c9fbc5cf7f8",
-  "FStringFlipTimeStampFastString": "2022-11-19T00:22:51.677Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-19T00:22:51.677Z"
+  "FStringFlagRepoGitHashFastString": "6a32d84ab8485b4b2817c860f14c1cffc49d64c1",
+  "DFStringFlagRepoGitHashDynamicString": "6a32d84ab8485b4b2817c860f14c1cffc49d64c1",
+  "FStringFlipTimeStampFastString": "2022-11-19T01:38:57.373Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-19T01:38:57.373Z"
 }
