@@ -5282,8 +5282,8 @@
   "FFlagFixDeserializeDecodeInstances": "true",
   "FFlagShareInviteLinkContextMenuV3FriendsTextWrapFixEnabled": "True",
   "FFlagStudioNoTCConnectDialog": "True",
-  "FFlagEnablePrefetchProtocol": "True",
-  "FFlagEnablePrefetchTimeout": "True",
+  "FFlagEnablePrefetchProtocol": "False",
+  "FFlagEnablePrefetchTimeout": "False",
   "FFlagFACSPacketCompressionV1": "False",
   "FFlagFACSPacketCompressionV1_PlaceFilter": "True;10787386927;10404927539;11444556552",
   "FFlagFacsCodecEnabled": "False",
@@ -5510,8 +5510,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "FFlagLuaAppUseUIBloxColorPalettes": "True",
-  "FStringFlagRepoGitHashFastString": "1d4f473ab56add7e6c7cfff65921c978ed5f7ad8",
-  "DFStringFlagRepoGitHashDynamicString": "1d4f473ab56add7e6c7cfff65921c978ed5f7ad8",
-  "FStringFlipTimeStampFastString": "2022-11-21T20:14:35.083Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-21T20:14:35.083Z"
+  "FStringFlagRepoGitHashFastString": "1db6d6c6853a89185184a3364c1d3632338b6377",
+  "DFStringFlagRepoGitHashDynamicString": "1db6d6c6853a89185184a3364c1d3632338b6377",
+  "FStringFlipTimeStampFastString": "2022-11-21T20:25:12.180Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-21T20:25:12.180Z"
 }
