@@ -5321,6 +5321,8 @@
   "FFlagIGMDisableGamepadHighlightVR": "True",
   "DFFlagDisconnectPlayerOnRemove": "True",
   "FFlagLuauFixNamedFunctionParse": "True",
+  "FFlagExemptionForReplicationFocusWhenIntegrityModeIsDisabled": "True",
+  "FFlagGamepassRobuxUpsellIXP": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5532,8 +5534,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
-  "FStringFlagRepoGitHashFastString": "6efd9d8b7c045b6301201f5484c76a29678d1504",
-  "DFStringFlagRepoGitHashDynamicString": "6efd9d8b7c045b6301201f5484c76a29678d1504",
-  "FStringFlipTimeStampFastString": "2022-11-28T19:19:07.210Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-28T19:19:07.210Z"
+  "FStringFlagRepoGitHashFastString": "816f6be11fcf9661ecac4dc420386faa83459cf5",
+  "DFStringFlagRepoGitHashDynamicString": "816f6be11fcf9661ecac4dc420386faa83459cf5",
+  "FStringFlipTimeStampFastString": "2022-11-28T19:19:46.512Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-28T19:19:46.512Z"
 }
