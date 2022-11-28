@@ -5310,7 +5310,7 @@
   "FFlagFixAutocompleteAPIMemoryLeak": "True",
   "FFlagUseVideoCaptureServiceEvents_PlaceFilter": "True;9299262749;9793123004;9799263270;9872815406;10001271232;10001514317;10057672346;10358747927;10548862903;10713392009;10787386927;10404927539;11453377229;11452116982;11444707414;11444556552;11116995134;11253464533;11386744897;11393894962;11402255591;11444068120;11460402982;11597947993;11599481611",
   "DFFlagCleanUpTriangleMesh": "True",
-  "FIntUAQueryBalanceOnStartRollout": "50",
+  "FIntUAQueryBalanceOnStartRollout": "100",
   "FFlagLuauNilIterator": "True",
   "FFlagLuauOptionalNextKey": "True",
   "FFlagLuauScalarShapeUnifyToMtOwner": "True",
@@ -5320,6 +5320,7 @@
   "FFlagLuauTryhardAnd": "True",
   "FFlagLaunchAppClearLocalStorageForWebLaunch": "True",
   "FFlagIGMDisableGamepadHighlightVR": "True",
+  "DFFlagDisconnectPlayerOnRemove": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5534,8 +5535,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "9f4436052df049f2c72c2826b4c056c819018cf1",
-  "DFStringFlagRepoGitHashDynamicString": "9f4436052df049f2c72c2826b4c056c819018cf1",
-  "FStringFlipTimeStampFastString": "2022-11-28T18:55:25.165Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-28T18:55:25.165Z"
+  "FStringFlagRepoGitHashFastString": "560a87a3a3ea26cec16bd26ace78808ebb5936d5",
+  "DFStringFlagRepoGitHashDynamicString": "560a87a3a3ea26cec16bd26ace78808ebb5936d5",
+  "FStringFlipTimeStampFastString": "2022-11-28T18:59:18.883Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-28T18:59:18.883Z"
 }
