@@ -5325,6 +5325,8 @@
   "FFlagGamepassRobuxUpsellIXP": "True",
   "FFlagCoExperienceJoinTelemetryImprovementFix1": "True",
   "FFlagEnableHotStartOnMacOS": "True",
+  "DFFlagValidateFreeOsMemAndUsedOsMemAllocationValues": "False",
+  "DFIntValidateFreeOsMemAndUsedOsMemHundredthPercentageSent": "21",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5571,8 +5573,8 @@
   "FFlagInGameLargerRobuxUpsellIXP": "True",
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "9d87647d7042348ab3b39bfe35157719def55faa",
-  "DFStringFlagRepoGitHashDynamicString": "9d87647d7042348ab3b39bfe35157719def55faa",
-  "FStringFlipTimeStampFastString": "2022-11-28T19:25:46.533Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-28T19:25:46.533Z"
+  "FStringFlagRepoGitHashFastString": "8cb6fe6e97fdbb924c2d47f63d05e0052174a3d3",
+  "DFStringFlagRepoGitHashDynamicString": "8cb6fe6e97fdbb924c2d47f63d05e0052174a3d3",
+  "FStringFlipTimeStampFastString": "2022-11-28T19:32:31.538Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-28T19:32:31.538Z"
 }
