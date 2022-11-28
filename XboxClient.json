@@ -5164,7 +5164,7 @@
   "FFlagGCJobRenderStreamedRegions": "True",
   "FFlagLuauFixEnumItemsType": "True",
   "FFlagLuauTableConstructorRecovery": "True",
-  "FFlagUseVideoCaptureServiceEvents": "True",
+  "FFlagUseVideoCaptureServiceEvents": "False",
   "FFlagNoBoostFlyweight2": "True",
   "FFlagUseShadowDataModel4": "True",
   "FFlagLuaAppAddBottomBarClickEventToInfiniteRSF": "True",
@@ -5310,6 +5310,7 @@
   "FFlagDisableTouchForVRHeadset": "True",
   "FFlagSimSolverGeometricStiffness3": "True",
   "FFlagFixAutocompleteAPIMemoryLeak": "True",
+  "FFlagUseVideoCaptureServiceEvents_PlaceFilter": "True;9299262749;9793123004;9799263270;9872815406;10001271232;10001514317;10057672346;10358747927;10548862903;10713392009;10787386927;10404927539;11453377229;11452116982;11444707414;11444556552;11116995134;11253464533;11386744897;11393894962;11402255591;11444068120;11460402982;11597947993;11599481611",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5521,8 +5522,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
-  "FStringFlagRepoGitHashFastString": "6129f37f5c813a1187c16ed9f7ede4837d0dba36",
-  "DFStringFlagRepoGitHashDynamicString": "6129f37f5c813a1187c16ed9f7ede4837d0dba36",
-  "FStringFlipTimeStampFastString": "2022-11-28T17:53:58.387Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-28T17:53:58.387Z"
+  "FStringFlagRepoGitHashFastString": "c134ce25a92387c0c576881eee46317f991390fb",
+  "DFStringFlagRepoGitHashDynamicString": "c134ce25a92387c0c576881eee46317f991390fb",
+  "FStringFlipTimeStampFastString": "2022-11-28T17:54:34.191Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-28T17:54:34.191Z"
 }
