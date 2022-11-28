@@ -5327,6 +5327,7 @@
   "FFlagEnableHotStartOnMacOS": "True",
   "DFFlagValidateFreeOsMemAndUsedOsMemAllocationValues": "True",
   "DFIntValidateFreeOsMemAndUsedOsMemHundredthPercentageSent": "21",
+  "DFFlagVideoFixNegativeBufferLevel": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5722,8 +5723,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP": "True",
-  "FStringFlagRepoGitHashFastString": "f9560295ae6e9da23669145304944a68f906335c",
-  "DFStringFlagRepoGitHashDynamicString": "f9560295ae6e9da23669145304944a68f906335c",
-  "FStringFlipTimeStampFastString": "2022-11-28T19:44:05.842Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-28T19:44:05.842Z"
+  "FStringFlagRepoGitHashFastString": "c5b33c6c87809ba687495dad766a1691c76b46e5",
+  "DFStringFlagRepoGitHashDynamicString": "c5b33c6c87809ba687495dad766a1691c76b46e5",
+  "FStringFlipTimeStampFastString": "2022-11-28T19:58:07.448Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-28T19:58:07.448Z"
 }
