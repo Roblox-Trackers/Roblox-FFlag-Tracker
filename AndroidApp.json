@@ -3781,7 +3781,7 @@
   "FFlagSimSolverGeometricStiffness_PlaceFilter": "True;10758120910;9111590546;3633505977;6158369151;9952774534;5758131327;9086372482;11089813469;1289502488;4377035371;6988254659;966642236;4805655531;10561244387;915545262;250724380;5974747216;8557081135;5710730536;10760024537;7708751418;9376792433;5459365973;4805544631;1333478699",
   "FFlagReturnEarlyForNewUniverse": "True",
   "FFlagStudioBlockOnWebView2Unavailable2": "True",
-  "FFlagRenderEnableHalfsMali": "False",
+  "FFlagRenderEnableHalfsMali": "True",
   "FFlagIncompleteDragShouldCancel": "True",
   "DFFlagSimNewMaterialProperties": "True",
   "FFlagRenderTC2_FixViewportFrame": "True",
@@ -5322,6 +5322,7 @@
   "DFFlagHlsAbrFixedVariantCompatible": "True",
   "DFFlagValidateFreeOsMemAndUsedOsMemAllocationValues": "True",
   "DFIntValidateFreeOsMemAndUsedOsMemHundredthPercentageSent": "21",
+  "FFlagRoundedCornersVR": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5717,8 +5718,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP": "True",
-  "FStringFlagRepoGitHashFastString": "c8439d2c5c1c59eee35ba8b1efca153195ebe282",
-  "DFStringFlagRepoGitHashDynamicString": "c8439d2c5c1c59eee35ba8b1efca153195ebe282",
-  "FStringFlipTimeStampFastString": "2022-11-29T17:12:12.423Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-29T17:12:12.423Z"
+  "FStringFlagRepoGitHashFastString": "933c096587edabf4858a82c8bd389b68254173ac",
+  "DFStringFlagRepoGitHashDynamicString": "933c096587edabf4858a82c8bd389b68254173ac",
+  "FStringFlipTimeStampFastString": "2022-11-29T17:18:13.207Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-29T17:18:13.207Z"
 }
