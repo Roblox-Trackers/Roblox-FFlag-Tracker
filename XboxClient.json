@@ -5315,6 +5315,8 @@
   "FFlagLuauOptionalNextKey": "True",
   "FFlagLuauNewLibraryTypeNames": "True",
   "FFlagXboxLuaPageHeartbeatTracking": "True",
+  "DFFlagIfNotRequiresHandleThenDontRequireArm": "True",
+  "DFFlagErrorForFailedRequestsInThumbnailLogic": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5526,8 +5528,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
-  "FStringFlagRepoGitHashFastString": "e1356d7d66303a4de56e95231919f8f9afb92c03",
-  "DFStringFlagRepoGitHashDynamicString": "e1356d7d66303a4de56e95231919f8f9afb92c03",
-  "FStringFlipTimeStampFastString": "2022-11-29T00:31:37.359Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-29T00:31:37.359Z"
+  "FStringFlagRepoGitHashFastString": "8e3eb703733d957645d9c828bd2953fcf8b643d3",
+  "DFStringFlagRepoGitHashDynamicString": "8e3eb703733d957645d9c828bd2953fcf8b643d3",
+  "FStringFlipTimeStampFastString": "2022-11-29T00:40:13.667Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-29T00:40:13.667Z"
 }
