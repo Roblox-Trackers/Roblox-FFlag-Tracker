@@ -5320,6 +5320,8 @@
   "FFlagScreenGuiFireIgnoreGuiInsetChangedSignalFromScreenInsetsChange": "True",
   "FFlagGamepassRobuxUpsellIXP": "True",
   "DFFlagHlsAbrFixedVariantCompatible": "True",
+  "DFFlagValidateFreeOsMemAndUsedOsMemAllocationValues": "False",
+  "DFIntValidateFreeOsMemAndUsedOsMemHundredthPercentageSent": "21",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5531,8 +5533,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
-  "FStringFlagRepoGitHashFastString": "d5f62e6b19c86c7b3f11c127ba13968d3c4127ac",
-  "DFStringFlagRepoGitHashDynamicString": "d5f62e6b19c86c7b3f11c127ba13968d3c4127ac",
-  "FStringFlipTimeStampFastString": "2022-11-29T16:59:51.311Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-29T16:59:51.311Z"
+  "FStringFlagRepoGitHashFastString": "c8439d2c5c1c59eee35ba8b1efca153195ebe282",
+  "DFStringFlagRepoGitHashDynamicString": "c8439d2c5c1c59eee35ba8b1efca153195ebe282",
+  "FStringFlipTimeStampFastString": "2022-11-29T17:12:12.423Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-29T17:12:12.423Z"
 }
