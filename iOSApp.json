@@ -4355,10 +4355,10 @@
   "FFlagSimCSGV3ReallocateVertexMap": "True",
   "FFlagRobloxTelemetryAddFieldsWriteToFLog": "True",
   "FFlagStudioAddLaunchIntentToTelemetry": "True",
-  "DFIntCloudLocalizationTableUnexpectedLoadingErrorHundrethsPercentage": "1000",
-  "DFIntLocalizationInvalidLocaleIdSetEntryThrottleHundrethsPercentage": "1000",
+  "DFIntCloudLocalizationTableUnexpectedLoadingErrorHundrethsPercentage": "10000",
+  "DFIntLocalizationInvalidLocaleIdSetEntryThrottleHundrethsPercentage": "10000",
   "DFIntReportManifestParseLoadingErrorHundrethsPercentage": "1",
-  "DFIntTranslationLocaleIdParseErrorThrottleHundrethsPercentage": "1000",
+  "DFIntTranslationLocaleIdParseErrorThrottleHundrethsPercentage": "10000",
   "FFlagDataModelCheckReleaseVersion": "True",
   "FFlagLuaAppAddNativePassesPage3": "True",
   "DFFlagFixCurveNotPlayingOnNonHumanoid2": "True",
@@ -5650,8 +5650,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP": "True",
-  "FStringFlagRepoGitHashFastString": "8aab91f4a361f4d2c4e3401b796b7eba675d4338",
-  "DFStringFlagRepoGitHashDynamicString": "8aab91f4a361f4d2c4e3401b796b7eba675d4338",
-  "FStringFlipTimeStampFastString": "2022-11-29T22:46:20.213Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-29T22:46:20.213Z"
+  "FStringFlagRepoGitHashFastString": "370712c979dd190127725a6a09cd84ee0a3f2883",
+  "DFStringFlagRepoGitHashDynamicString": "370712c979dd190127725a6a09cd84ee0a3f2883",
+  "FStringFlipTimeStampFastString": "2022-11-29T22:46:49.659Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-29T22:46:49.659Z"
 }
