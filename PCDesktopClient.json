@@ -3990,7 +3990,7 @@
   "FFlagFaceAnimatorEnableTrackerModeAPI": "True",
   "FFlagEnableSyncAudioWithVoiceChatMuteState": "True",
   "FFlagDisableLegacyCodecFallback": "False",
-  "FFlagRobuxUpsellIXPV2": "True",
+  "FFlagRobuxUpsellIXPV2": "False",
   "FFlagFixSignalDefinitions": "True",
   "FFlagStudioRemoveRestrictedMachineValidateUtil": "True",
   "FFlagLuauFunctionArgMismatchDetails": "True",
@@ -5318,7 +5318,7 @@
   "DFFlagIfNotRequiresHandleThenDontRequireArm": "True",
   "DFFlagErrorForFailedRequestsInThumbnailLogic": "True",
   "FFlagScreenGuiFireIgnoreGuiInsetChangedSignalFromScreenInsetsChange": "True",
-  "FFlagGamepassRobuxUpsellIXP": "False",
+  "FFlagGamepassRobuxUpsellIXP": "True",
   "DFFlagHlsAbrFixedVariantCompatible": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -5577,8 +5577,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "FFlagLaunchAppClearLocalStorageForWebLaunch": "True",
-  "FStringFlagRepoGitHashFastString": "9639d69d5a8c69afe173a902defebf5cbcebd7cc",
-  "DFStringFlagRepoGitHashDynamicString": "9639d69d5a8c69afe173a902defebf5cbcebd7cc",
-  "FStringFlipTimeStampFastString": "2022-11-29T16:56:53.897Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-29T16:56:53.897Z"
+  "FStringFlagRepoGitHashFastString": "d5f62e6b19c86c7b3f11c127ba13968d3c4127ac",
+  "DFStringFlagRepoGitHashDynamicString": "d5f62e6b19c86c7b3f11c127ba13968d3c4127ac",
+  "FStringFlipTimeStampFastString": "2022-11-29T16:59:51.311Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-29T16:59:51.311Z"
 }
