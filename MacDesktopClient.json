@@ -4461,7 +4461,7 @@
   "FFlagRenderDepthPrepassAdaptive": "True",
   "FFlagUsePageSearchAnimation": "True",
   "FFlagSearchBarHidesSuggestions": "True",
-  "FFlagScriptProfilerBetaFeature": "True",
+  "FFlagScriptProfilerBetaFeature": "False",
   "FFlagRenderEnableMSAAMali": "True",
   "FFlagLuaAppFixIxpFetchWithServices": "True",
   "FStringScriptProfilerBetaFeatureUrl": "https://devforum.roblox.com/t/scriptprofiler-beta/2025360",
@@ -5372,6 +5372,7 @@
   "FIntCorruptPanelDetectionLeeway": "4",
   "FFlagLuaAppCatalogToShopText": "True",
   "FFlagPackageInplaceUpdate": "True",
+  "FFlagScriptProfilerEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5617,8 +5618,8 @@
   "FFlagInGameLargerRobuxUpsellIXP": "True",
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "e8364c03dab33726fe783b26a4147eacf29b368b",
-  "DFStringFlagRepoGitHashDynamicString": "e8364c03dab33726fe783b26a4147eacf29b368b",
-  "FStringFlipTimeStampFastString": "2022-11-30T22:03:09.054Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-30T22:03:09.054Z"
+  "FStringFlagRepoGitHashFastString": "9b93eff036aca1ab178753365f314fc871cfea2c",
+  "DFStringFlagRepoGitHashDynamicString": "9b93eff036aca1ab178753365f314fc871cfea2c",
+  "FStringFlipTimeStampFastString": "2022-11-30T22:08:58.685Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-30T22:08:58.685Z"
 }
