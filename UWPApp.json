@@ -5049,7 +5049,7 @@
   "FStringLuaTopicsIXPLayer": "AvatarMarketplace.GuidedFeatures",
   "FFlagShowRatingsInAssetPreviewForAllPlugins": "True",
   "FFlagIXPUseLayerNamesFString": "True",
-  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile",
+  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell",
   "FFlagTopicsIXPEnabled3": "True",
   "DFFlagStudioReplaceIncrementalLexer3": "True",
   "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent2": "1000",
@@ -5573,8 +5573,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "abe7fc161adbdbef4f7f76e31bdb3436ce02a466",
-  "DFStringFlagRepoGitHashDynamicString": "abe7fc161adbdbef4f7f76e31bdb3436ce02a466",
-  "FStringFlipTimeStampFastString": "2022-11-30T21:06:47.576Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-30T21:06:47.576Z"
+  "FStringFlagRepoGitHashFastString": "26d69e75c73552f22936b9872e762d211cba9fe0",
+  "DFStringFlagRepoGitHashDynamicString": "26d69e75c73552f22936b9872e762d211cba9fe0",
+  "FStringFlipTimeStampFastString": "2022-11-30T21:18:29.250Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-30T21:18:29.250Z"
 }
