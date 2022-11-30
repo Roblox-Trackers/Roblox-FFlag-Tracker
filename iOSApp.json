@@ -5350,6 +5350,8 @@
   "FFlagStudioSendWebLaunchAndDefaultBrowserTelemetry": "True",
   "FFlagStudioLaunchExternalLoginUrlWithWebPassedBrowser": "True",
   "DFFlagLoadStreamAnimationForceUpdateHumanoidUserId_PlaceFilter": "True;11444556552;10787386927;10404927539;11701806268",
+  "DFFlagEventIngestInstrument": "False",
+  "DFIntEventIngestInstrumentThrottleHundrethsPercent": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5664,8 +5666,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP": "True",
-  "FStringFlagRepoGitHashFastString": "601452f9f63dc08a8fa065a185b284d41f68cbe8",
-  "DFStringFlagRepoGitHashDynamicString": "601452f9f63dc08a8fa065a185b284d41f68cbe8",
-  "FStringFlipTimeStampFastString": "2022-11-30T19:38:56.903Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-30T19:38:56.903Z"
+  "FStringFlagRepoGitHashFastString": "fee4239366055f9cb62179ebde02efd7724ea6aa",
+  "DFStringFlagRepoGitHashDynamicString": "fee4239366055f9cb62179ebde02efd7724ea6aa",
+  "FStringFlipTimeStampFastString": "2022-11-30T19:57:28.682Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-30T19:57:28.682Z"
 }
