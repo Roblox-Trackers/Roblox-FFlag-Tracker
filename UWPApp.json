@@ -5129,7 +5129,7 @@
   "DFIntCaptureSafetyContextHundredthsPercentage": "10000",
   "FFlagRemoveQMLFromWhatsNew": "True",
   "FFlagShareModalRemoveUnusedCode": "True",
-  "FFlagVideoStreamMonitorThreadEnabled": "True",
+  "FFlagVideoStreamMonitorThreadEnabled": "False",
   "FFlagCheckForStudioRestart": "True",
   "FFlagStudioUseOpenGLES": "True",
   "FFlagUniversalAppMenuCsat2": "True",
@@ -5368,6 +5368,7 @@
   "DFFlagSubsystemScopedHandleCorrectMove": "True",
   "FFlagEnableStudioNewUserLoginFlows": "True",
   "FIntReportTagEditorEventsThrottleHundrethsPercent2": "5",
+  "FFlagForceExternalPKCEForFirstTimeOpeningStudio": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5581,8 +5582,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "a9e765e101d4225d6c3dfddb98b6433b519673ca",
-  "DFStringFlagRepoGitHashDynamicString": "a9e765e101d4225d6c3dfddb98b6433b519673ca",
-  "FStringFlipTimeStampFastString": "2022-11-30T21:53:12.383Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-30T21:53:12.383Z"
+  "FStringFlagRepoGitHashFastString": "46d4e006993c9dbed7b865ccf4275feea7f0cba4",
+  "DFStringFlagRepoGitHashDynamicString": "46d4e006993c9dbed7b865ccf4275feea7f0cba4",
+  "FStringFlipTimeStampFastString": "2022-11-30T21:56:38.547Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-30T21:56:38.547Z"
 }
