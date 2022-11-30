@@ -5344,6 +5344,9 @@
   "DFFlagFixEmptyFolderContributesToTrackweight": "True",
   "FFlagCLI61773": "True",
   "FFlagStudioDetectCorruptLayout": "True",
+  "DFFlagSimAdaptiveBodyMoverBugfix": "True",
+  "DFFlagSimAdaptiveFuzzyExtentFix": "True",
+  "FFlagSimBodyPositionTweaks": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5558,8 +5561,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "c375fa11f9f6fbaf85daf894562595dd5e27a8fa",
-  "DFStringFlagRepoGitHashDynamicString": "c375fa11f9f6fbaf85daf894562595dd5e27a8fa",
-  "FStringFlipTimeStampFastString": "2022-11-30T19:24:05.895Z",
-  "DFStringFlipTimeStampDynamicString": "2022-11-30T19:24:05.895Z"
+  "FStringFlagRepoGitHashFastString": "a75d96edac5262cd10c47b213ae7c7bbfe5eda16",
+  "DFStringFlagRepoGitHashDynamicString": "a75d96edac5262cd10c47b213ae7c7bbfe5eda16",
+  "FStringFlipTimeStampFastString": "2022-11-30T19:30:07.374Z",
+  "DFStringFlipTimeStampDynamicString": "2022-11-30T19:30:07.374Z"
 }
