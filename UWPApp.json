@@ -5417,6 +5417,7 @@
   "FIntPluginOTADeploymentAnalyticsHundredthsPercentage": "10000",
   "FIntPluginOTAErrorAnalyticsHundredthsPercentage": "10000",
   "FFlagMultiTryOnPurchaseUITweaks": "True",
+  "FFlagEnablePrefetchProtocol": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5630,8 +5631,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "dd47e7f4e49a1f2e231ef84b9c6d724c850ea0d2",
-  "DFStringFlagRepoGitHashDynamicString": "dd47e7f4e49a1f2e231ef84b9c6d724c850ea0d2",
-  "FStringFlipTimeStampFastString": "2022-12-01T22:51:50.056Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-01T22:51:50.056Z"
+  "FStringFlagRepoGitHashFastString": "6b1250b0ee70484eb2c07ffa12295abef5fa124f",
+  "DFStringFlagRepoGitHashDynamicString": "6b1250b0ee70484eb2c07ffa12295abef5fa124f",
+  "FStringFlipTimeStampFastString": "2022-12-01T22:52:56.128Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-01T22:52:56.128Z"
 }
