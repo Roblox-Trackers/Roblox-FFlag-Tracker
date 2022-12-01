@@ -5418,6 +5418,7 @@
   "FIntPluginOTAErrorAnalyticsHundredthsPercentage": "10000",
   "FFlagMultiTryOnPurchaseUITweaks": "True",
   "FFlagEnablePrefetchProtocol": "True",
+  "FFlagRateLimiterRespectsSuccessfulLoads": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5819,8 +5820,8 @@
   "FFlagIAExperimentation4": "True",
   "FFlagEnablePrefetchTimeout": "True",
   "EnableUnwindBackStackAndRestartAfterProcDeath": "True",
-  "FStringFlagRepoGitHashFastString": "6b1250b0ee70484eb2c07ffa12295abef5fa124f",
-  "DFStringFlagRepoGitHashDynamicString": "6b1250b0ee70484eb2c07ffa12295abef5fa124f",
-  "FStringFlipTimeStampFastString": "2022-12-01T22:52:56.128Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-01T22:52:56.128Z"
+  "FStringFlagRepoGitHashFastString": "404c44d7d96793e1db3e10dcbdd5cfac78c5777c",
+  "DFStringFlagRepoGitHashDynamicString": "404c44d7d96793e1db3e10dcbdd5cfac78c5777c",
+  "FStringFlipTimeStampFastString": "2022-12-01T22:53:15.679Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-01T22:53:15.679Z"
 }
