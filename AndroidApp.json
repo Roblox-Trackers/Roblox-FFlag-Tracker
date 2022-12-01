@@ -5414,6 +5414,8 @@
   "FFlagEnableKeyboardUINavigation3": "True",
   "FFlagAssetPreviewDetailsKeepPositionWhenAlone": "True",
   "FIntPluginOTAAnalyticsHundredthsPercentage": "10000",
+  "FIntPluginOTADeploymentAnalyticsHundredthsPercentage": "10000",
+  "FIntPluginOTAErrorAnalyticsHundredthsPercentage": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5815,8 +5817,8 @@
   "FFlagIAExperimentation4": "True",
   "FFlagEnablePrefetchProtocol": "True",
   "FFlagEnablePrefetchTimeout": "True",
-  "FStringFlagRepoGitHashFastString": "0021c906b3710967d70548afc4cef8cfb093f9b2",
-  "DFStringFlagRepoGitHashDynamicString": "0021c906b3710967d70548afc4cef8cfb093f9b2",
-  "FStringFlipTimeStampFastString": "2022-12-01T22:27:55.684Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-01T22:27:55.684Z"
+  "FStringFlagRepoGitHashFastString": "8fb86602d2156974a75627e831dbeebbd4e861b1",
+  "DFStringFlagRepoGitHashDynamicString": "8fb86602d2156974a75627e831dbeebbd4e861b1",
+  "FStringFlipTimeStampFastString": "2022-12-01T22:28:35.171Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-01T22:28:35.171Z"
 }
