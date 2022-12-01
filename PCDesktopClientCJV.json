@@ -5417,7 +5417,7 @@
   "FIntPluginOTADeploymentAnalyticsHundredthsPercentage": "10000",
   "FIntPluginOTAErrorAnalyticsHundredthsPercentage": "10000",
   "FFlagMultiTryOnPurchaseUITweaks": "True",
-  "FFlagEnablePrefetchProtocol": "True",
+  "FFlagEnablePrefetchProtocol": "False",
   "FFlagRateLimiterRespectsSuccessfulLoads": "True",
   "FFlagMigrateToUseHttpRequest": "True",
   "AllowVideoPreRoll": "True",
@@ -5675,8 +5675,8 @@
   "FFlagInGameLargerRobuxUpsellIXP": "True",
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "feeabd61ab7cffdb3d288c1480243f4df7a3f734",
-  "DFStringFlagRepoGitHashDynamicString": "feeabd61ab7cffdb3d288c1480243f4df7a3f734",
-  "FStringFlipTimeStampFastString": "2022-12-01T23:42:45.992Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-01T23:42:45.992Z"
+  "FStringFlagRepoGitHashFastString": "0d0b102f2acbcca5e510938c1c5014ba699621d6",
+  "DFStringFlagRepoGitHashDynamicString": "0d0b102f2acbcca5e510938c1c5014ba699621d6",
+  "FStringFlipTimeStampFastString": "2022-12-01T23:50:53.731Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-01T23:50:53.731Z"
 }
