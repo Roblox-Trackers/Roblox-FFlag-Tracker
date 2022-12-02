@@ -4943,7 +4943,7 @@
   "FFlagTextureManagerMutex": "True",
   "FFlagTextureQualityLevels3": "False",
   "DFIntDebugSimPhysicsSteppingMethodOverride": "0",
-  "DFIntDebugSimPhysicsSteppingMethodOverride_PlaceFilter": "2;6269446951;2768379856;9682240267;920587237;370731277",
+  "DFIntDebugSimPhysicsSteppingMethodOverride_PlaceFilter": "1;6269446951",
   "FFlagRobuxUpsellPaymentProviderCounters": "True",
   "FFlagRobuxUpsellGenericModal": "True",
   "DFFlagFunctionCurveAllowButIgnoreEmptySegments": "True",
@@ -5438,6 +5438,8 @@
   "DFIntVirtualSoundVolumeThresholdNumerator": "-1",
   "FFlagDecoupleContactImporterDiscoverability": "True",
   "FFlagWin32CrashUploadRobloxTelemetry": "True",
+  "DFFlagDebugSimTurnOnAdaptivePhysicsSteppingWithFlag2": "False",
+  "DFFlagDebugSimTurnOnAdaptivePhysicsSteppingWithFlag2_PlaceFilter": "True;6269446951",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5649,8 +5651,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
-  "FStringFlagRepoGitHashFastString": "dc291caa8f11aeb74ee7b6998d332a9fea122505",
-  "DFStringFlagRepoGitHashDynamicString": "dc291caa8f11aeb74ee7b6998d332a9fea122505",
-  "FStringFlipTimeStampFastString": "2022-12-02T18:21:07.448Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-02T18:21:07.448Z"
+  "FStringFlagRepoGitHashFastString": "b62297e731ed35390edb00e83d08aacea7aa330a",
+  "DFStringFlagRepoGitHashDynamicString": "b62297e731ed35390edb00e83d08aacea7aa330a",
+  "FStringFlipTimeStampFastString": "2022-12-02T19:07:21.663Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-02T19:07:21.663Z"
 }
