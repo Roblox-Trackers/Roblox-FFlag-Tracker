@@ -5411,7 +5411,7 @@
   "FFlagLuauNoMoreGlobalSingletonTypes": "True",
   "FFlagCoExperienceTelemXbox": "True",
   "FFlagLuaAppMigrateUnreadMessages": "True",
-  "FFlagEnableKeyboardUINavigation3": "False",
+  "FFlagEnableKeyboardUINavigation3": "True",
   "FFlagAssetPreviewDetailsKeepPositionWhenAlone": "True",
   "FIntPluginOTAAnalyticsHundredthsPercentage": "10000",
   "FIntPluginOTADeploymentAnalyticsHundredthsPercentage": "10000",
@@ -5431,6 +5431,8 @@
   "FIntStudioPluginOTATimerIntervalSeconds": "600",
   "FFlagHandleFrameSize1Velocity": "True",
   "DFFlagIkControlVersion3": "True",
+  "DFFlagCFramePropertyFix": "True",
+  "DFFlagExposeCFramePVInstanceFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5676,8 +5678,8 @@
   "FFlagInGameLargerRobuxUpsellIXP": "True",
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "b5c287dbe354752743729d6c7e278887e884af0b",
-  "DFStringFlagRepoGitHashDynamicString": "b5c287dbe354752743729d6c7e278887e884af0b",
-  "FStringFlipTimeStampFastString": "2022-12-02T17:07:23.556Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-02T17:07:23.556Z"
+  "FStringFlagRepoGitHashFastString": "02be3bbd2913432740d5cd3a0ee1050965a64d60",
+  "DFStringFlagRepoGitHashDynamicString": "02be3bbd2913432740d5cd3a0ee1050965a64d60",
+  "FStringFlipTimeStampFastString": "2022-12-02T17:08:03.928Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-02T17:08:03.928Z"
 }
