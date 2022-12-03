@@ -942,7 +942,6 @@
   "DFIntSimDefaultTimestepMultiplier": "1",
   "DFFlagDebugForceDefaultTimestepMultiplier": "False",
   "FFlagDebugSimTurnOnAdaptivePhysicsSteppingWithFlag": "False",
-  "FFlagDebugSimTurnOnAdaptivePhysicsSteppingWithFlag_PlaceFilter": "True;6269446951;2768379856;9682240267;920587237;370731277",
   "FFlagMicroProfilePlatformInfo4": "True",
   "DFFlagReluctantlyFixInnerBox": "True",
   "DFIntHttpMaxRetries": "1",
@@ -4943,7 +4942,6 @@
   "FFlagTextureManagerMutex": "True",
   "FFlagTextureQualityLevels3": "False",
   "DFIntDebugSimPhysicsSteppingMethodOverride": "0",
-  "DFIntDebugSimPhysicsSteppingMethodOverride_PlaceFilter": "1;6269446951",
   "FFlagRobuxUpsellPaymentProviderCounters": "True",
   "FFlagRobuxUpsellGenericModal": "True",
   "DFFlagFunctionCurveAllowButIgnoreEmptySegments": "True",
@@ -5439,7 +5437,6 @@
   "FFlagDecoupleContactImporterDiscoverability": "True",
   "FFlagWin32CrashUploadRobloxTelemetry": "True",
   "DFFlagDebugSimTurnOnAdaptivePhysicsSteppingWithFlag2": "False",
-  "DFFlagDebugSimTurnOnAdaptivePhysicsSteppingWithFlag2_PlaceFilter": "True;6269446951",
   "DFFlagTeleportMenuOpenTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -5652,8 +5649,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
-  "FStringFlagRepoGitHashFastString": "49a8c2b7cb59ac3caf7ea1471f2ed990e857291e",
-  "DFStringFlagRepoGitHashDynamicString": "49a8c2b7cb59ac3caf7ea1471f2ed990e857291e",
-  "FStringFlipTimeStampFastString": "2022-12-03T00:22:29.596Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-03T00:22:29.596Z"
+  "FStringFlagRepoGitHashFastString": "ddd64e7a402df01cfd8df9410be5f45d8c54b60a",
+  "DFStringFlagRepoGitHashDynamicString": "ddd64e7a402df01cfd8df9410be5f45d8c54b60a",
+  "FStringFlipTimeStampFastString": "2022-12-03T00:48:20.383Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-03T00:48:20.383Z"
 }
