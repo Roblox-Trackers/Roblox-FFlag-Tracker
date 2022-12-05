@@ -23,5 +23,7 @@
   "enablePlacePermissionsMigration": "true",
   "enableDevProductDetailsMigration": "false",
   "disableMonthlyReportDownload": "true",
-  "enablePassesMigration": "true"
+  "enablePassesMigration": "true",
+  "enableItemConfigurationInAssetUploadForAvatarAssetTypes": "true",
+  "enableDecalAssetUpload": "true"
 }
