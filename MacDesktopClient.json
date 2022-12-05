@@ -5396,8 +5396,8 @@
   "FFlagFixRaycastResultCompare": "true",
   "FFlagLuaProfileOnHomeIXPEnabled": "True",
   "DFFlagHttpFixNetworkAuditLog": "True",
-  "DFIntListDevProductsRollout": "1",
-  "FIntListDevProductsUniverseRollout": "1",
+  "DFIntListDevProductsRollout": "50",
+  "FIntListDevProductsUniverseRollout": "50",
   "FFlagRefactorMoonbeamDownloader": "True",
   "FFlagStudioFontConsistency": "True",
   "DFFlagCLI52064UseIxp2": "True",
@@ -5439,6 +5439,8 @@
   "DFFlagDebugSimTurnOnAdaptivePhysicsSteppingWithFlag2": "False",
   "DFFlagTeleportMenuOpenTelemetry": "True",
   "DFFlagHttpCacheReduceStatic2": "False",
+  "DFIntDevProductsDetailsRollout": "1",
+  "DFIntPassGetProductRollout": "1",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5684,8 +5686,8 @@
   "FFlagInGameLargerRobuxUpsellIXP": "True",
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "0d2b666fd95e5845a20a7934fb8db43a3c736fa4",
-  "DFStringFlagRepoGitHashDynamicString": "0d2b666fd95e5845a20a7934fb8db43a3c736fa4",
-  "FStringFlipTimeStampFastString": "2022-12-05T18:34:15.505Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-05T18:34:15.505Z"
+  "FStringFlagRepoGitHashFastString": "0ce27f5e206ffd82b22efb21e2102048874eda86",
+  "DFStringFlagRepoGitHashDynamicString": "0ce27f5e206ffd82b22efb21e2102048874eda86",
+  "FStringFlipTimeStampFastString": "2022-12-05T19:01:35.553Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-05T19:01:35.553Z"
 }
