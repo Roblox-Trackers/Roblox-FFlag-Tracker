@@ -772,7 +772,7 @@
   "DFIntCloseReplicationDataAliveForAllHundredthsPercentage": "1000",
   "FIntAutomaticSizingListPickerHotfix": "15",
   "FFlagSimRodLimits": "True",
-  "FFlagExecuteDynInitTests": "True",
+  "FFlagExecuteDynInitTests": "False",
   "FFlagBypassThirdPartySettingForRobloxPurchase": "True",
   "FFlagXboxAppBridgePercentRollouts": "True",
   "FIntClientCompressionFormatRequestMobile3": "3",
@@ -824,7 +824,7 @@
   "FFlagPackInGameJoinDataEnabledClient": "True",
   "FFlagLuaAppPremiumUpsellDisclosureCatalog": "True",
   "DFFlagHttpClientOptimizeReqQueuing": "False",
-  "FFlagExecuteDynInitTestsIos": "True",
+  "FFlagExecuteDynInitTestsIos": "False",
   "FFlagLocalizationToolsAllowUploadZhCjv": "True",
   "FFlagParameterizeHandlerTextLenghtLimitEnabled": "True",
   "FFlagParameterizeHandlerTextLenghtLimitWarningMessageEnabled": "True",
@@ -5851,8 +5851,8 @@
   "DFFlagCLI61776b": "True",
   "DFIntCLI61776a": "10000",
   "DFFlagCLI61776": "True",
-  "FStringFlagRepoGitHashFastString": "dc7a49d6cca48a1b116daba5bc34131107bab1fc",
-  "DFStringFlagRepoGitHashDynamicString": "dc7a49d6cca48a1b116daba5bc34131107bab1fc",
-  "FStringFlipTimeStampFastString": "2022-12-06T00:46:08.738Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-06T00:46:08.738Z"
+  "FStringFlagRepoGitHashFastString": "93254b5a0fed6e62d3e39f7bb56222b203856568",
+  "DFStringFlagRepoGitHashDynamicString": "93254b5a0fed6e62d3e39f7bb56222b203856568",
+  "FStringFlipTimeStampFastString": "2022-12-06T00:49:06.047Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-06T00:49:06.047Z"
 }
