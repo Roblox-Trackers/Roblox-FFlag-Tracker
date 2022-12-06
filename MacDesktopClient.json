@@ -2010,7 +2010,7 @@
   "DFFlagReplicatorStopProducingTooMuchJDIToProcess3": "True",
   "FFlagSwapMyBalanceCallsV2": "True",
   "DFIntCrashReportingHundredthsPercentage": "10000",
-  "FIntNavigationServiceInfluxDbPercentStatsReported": "1",
+  "FIntNavigationServiceInfluxDbPercentStatsReported": "0",
   "FFlagRigBuilderDeduplicatePackages": "True",
   "FFlagVerifyBlockListContentsV2": "True",
   "DFIntLuauGcStepMul": "250",
@@ -5259,7 +5259,7 @@
   "FFlagStudioMoveSetAppVersionEarlier": "True",
   "FFlagSignalRHubConnectionKeepAliveTimeout2MetricsOnly": "True",
   "DFFlagPathfindingEventIngestReport": "True",
-  "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEI": "1",
+  "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEI": "0",
   "FFlagPathfindingRemoveTrackEvent": "True",
   "DFFlagVoiceChatEnablePlayerModeratedSignal": "True",
   "FFlagStudioFixSecondaryScreenMaxSizeBug": "True",
@@ -5698,8 +5698,8 @@
   "FFlagInGameLargerRobuxUpsellIXP": "True",
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "6a99f478d2a464e3d00ab55b249468de41686b34",
-  "DFStringFlagRepoGitHashDynamicString": "6a99f478d2a464e3d00ab55b249468de41686b34",
-  "FStringFlipTimeStampFastString": "2022-12-06T22:08:47.416Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-06T22:08:47.416Z"
+  "FStringFlagRepoGitHashFastString": "2ada60cf9d005e41c93339ec13e5852b99b0b3b3",
+  "DFStringFlagRepoGitHashDynamicString": "2ada60cf9d005e41c93339ec13e5852b99b0b3b3",
+  "FStringFlipTimeStampFastString": "2022-12-06T22:14:00.858Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-06T22:14:00.858Z"
 }
