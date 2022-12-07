@@ -5209,7 +5209,7 @@
   "FFlagEnableApolloLocalServer": "True",
   "FFlagImproveAppSessionDataQuality": "True",
   "DFFlagReportMemoryStatsInAppSession": "True",
-  "FFlagEnableAEInfiniteScrollRecommendationsIXP3": "True",
+  "FFlagEnableAEInfiniteScrollRecommendationsIXP3": "False",
   "FIntHighDpiAndIconsBetaFeatureRolloutPercent": "100",
   "FFlagLuaAppFixMissingExperienceDetailsBannerImage": "True",
   "FFlagXboxNoHelp": "True",
@@ -5876,8 +5876,8 @@
   "DFIntCLI61776a": "10000",
   "DFFlagCLI61776": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "2244ed462082fdbbe04bf6ef693905801324a536",
-  "DFStringFlagRepoGitHashDynamicString": "2244ed462082fdbbe04bf6ef693905801324a536",
-  "FStringFlipTimeStampFastString": "2022-12-07T23:12:24.177Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-07T23:12:24.177Z"
+  "FStringFlagRepoGitHashFastString": "09e6a6da1e7414f82ad2d2d2f52d122ff9d764b1",
+  "DFStringFlagRepoGitHashDynamicString": "09e6a6da1e7414f82ad2d2d2f52d122ff9d764b1",
+  "FStringFlipTimeStampFastString": "2022-12-07T23:14:15.893Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-07T23:14:15.893Z"
 }
