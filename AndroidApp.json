@@ -5548,6 +5548,7 @@
   "FFlagOptimizeEPAInitialization": "True",
   "FFlagAdGuiLoadedTimestamp": "True",
   "FFlagSignalRHubConnectionKeepAliveTimeout2CounterFix": "True",
+  "FFlagSimCSG3ReportingCleanup": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -5952,8 +5953,8 @@
   "DFIntCLI61776a": "10000",
   "DFFlagCLI61776": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "8c61d8965f19571b328dca3b60dcb1dc4a895d69",
-  "DFStringFlagRepoGitHashDynamicString": "8c61d8965f19571b328dca3b60dcb1dc4a895d69",
-  "FStringFlipTimeStampFastString": "2022-12-08T22:51:53.462Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-08T22:51:53.462Z"
+  "FStringFlagRepoGitHashFastString": "1fc0decf4dae06e7f5189e5e28f710aab3eb4d5c",
+  "DFStringFlagRepoGitHashDynamicString": "1fc0decf4dae06e7f5189e5e28f710aab3eb4d5c",
+  "FStringFlipTimeStampFastString": "2022-12-08T22:55:45.816Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-08T22:55:45.816Z"
 }
