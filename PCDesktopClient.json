@@ -5494,7 +5494,7 @@
   "FFlagAssetImportReplaceForLoops": "True",
   "FIntCorruptPanelDetectionUpperbound": "30000",
   "FFlagUpgradeExpChatV3_3_3": "True",
-  "DFIntReportVREnabledEventThrottleHundrethsPercent": "500",
+  "DFIntReportVREnabledEventThrottleHundrethsPercent": "10000",
   "FFlagStudioUpdateShareModal": "True",
   "FFlagSelfViewFixesThree": "True",
   "FFlagClearVoiceStateOnRejoin": "True",
@@ -5771,8 +5771,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "886e58d4a459bc8b2dc48197f79df7ad3f4e5c8c",
-  "DFStringFlagRepoGitHashDynamicString": "886e58d4a459bc8b2dc48197f79df7ad3f4e5c8c",
-  "FStringFlipTimeStampFastString": "2022-12-08T21:04:33.163Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-08T21:04:33.163Z"
+  "FStringFlagRepoGitHashFastString": "7fdb3ee43fcf5d9d71045c8776be731746d10d6e",
+  "DFStringFlagRepoGitHashDynamicString": "7fdb3ee43fcf5d9d71045c8776be731746d10d6e",
+  "FStringFlipTimeStampFastString": "2022-12-08T21:11:39.331Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-08T21:11:39.331Z"
 }
