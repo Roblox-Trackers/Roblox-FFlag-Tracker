@@ -5515,6 +5515,7 @@
   "DFFlagFFlagRolloutDuplicateRobloxTelemetryCountersEnabled": "True",
   "DFFlagFixRobloxTelemetryEphemeralCountersAndStatsCategory": "True",
   "DFIntFFlagRolloutDuplicateRobloxTelemetryCountersThrottleHundredthsPercent": "10000",
+  "FFlagAinRetryOn500": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5727,8 +5728,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "7fdb3ee43fcf5d9d71045c8776be731746d10d6e",
-  "DFStringFlagRepoGitHashDynamicString": "7fdb3ee43fcf5d9d71045c8776be731746d10d6e",
-  "FStringFlipTimeStampFastString": "2022-12-08T21:11:39.331Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-08T21:11:39.331Z"
+  "FStringFlagRepoGitHashFastString": "750948f34df726533778b739758c03a711bd7ea7",
+  "DFStringFlagRepoGitHashDynamicString": "750948f34df726533778b739758c03a711bd7ea7",
+  "FStringFlipTimeStampFastString": "2022-12-08T21:14:01.553Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-08T21:14:01.553Z"
 }
