@@ -5523,6 +5523,8 @@
   "DFFlagSimTimestepArbiterUpdates": "True",
   "FFlagSimAdaptiveIslandizerThrottlingFix": "True",
   "FFlagLuaAppOmniTopicIdString": "True",
+  "FFlagSignalROOOSequenceNumberAnalytics": "True",
+  "FFlagSignalRTotalSequenceNumberAnalytics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5735,8 +5737,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "c61b1b6970e5b17d18523e542bddacabf70a09cc",
-  "DFStringFlagRepoGitHashDynamicString": "c61b1b6970e5b17d18523e542bddacabf70a09cc",
-  "FStringFlipTimeStampFastString": "2022-12-08T21:36:46.335Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-08T21:36:46.335Z"
+  "FStringFlagRepoGitHashFastString": "586fa9b3b2903dc4f10e1d749546609d62cb1f9e",
+  "DFStringFlagRepoGitHashDynamicString": "586fa9b3b2903dc4f10e1d749546609d62cb1f9e",
+  "FStringFlipTimeStampFastString": "2022-12-08T21:40:59.685Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-08T21:40:59.685Z"
 }
