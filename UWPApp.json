@@ -5504,7 +5504,7 @@
   "DFFlagFFlagRolloutDuplicateTelemetryCountersEnabled": "True",
   "DFIntFFlagRolloutDuplicateTelemetryCountersThrottleHundredthsPercent": "10000",
   "FFlagUASetVREnableBeforeGameLoadingV2": "True",
-  "DFIntIgnoreCustomEventReceiverSourceReportPermyriad2": "1",
+  "DFIntIgnoreCustomEventReceiverSourceReportPermyriad2": "100",
   "FFlagAddFriendsContextInfoStyling": "True",
   "FFlagVoiceChatSignalRTimingCounterToStat": "True",
   "DFFlagSignalRReconnectionFailureMetrics": "True",
@@ -5723,8 +5723,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "89d6908cc07557cfd915689ff125e4e6697ed906",
-  "DFStringFlagRepoGitHashDynamicString": "89d6908cc07557cfd915689ff125e4e6697ed906",
-  "FStringFlipTimeStampFastString": "2022-12-08T20:36:26.457Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-08T20:36:26.457Z"
+  "FStringFlagRepoGitHashFastString": "382374ad093d53d5bce7a40268f7ed29fe3153ad",
+  "DFStringFlagRepoGitHashDynamicString": "382374ad093d53d5bce7a40268f7ed29fe3153ad",
+  "FStringFlipTimeStampFastString": "2022-12-08T20:37:07.592Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-08T20:37:07.592Z"
 }
