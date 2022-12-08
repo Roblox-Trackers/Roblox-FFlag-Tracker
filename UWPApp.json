@@ -5520,6 +5520,8 @@
   "FFlagFixTrussClimbingNavInEncloseSpace": "True",
   "FFlagNavigationMaxAgnetHeightCeilingIsnotWall": "True",
   "FFlagAddModelToInventory": "True",
+  "DFFlagSimTimestepArbiterUpdates": "True",
+  "FFlagSimAdaptiveIslandizerThrottlingFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5734,8 +5736,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "024baa27139ca1986df03de4c48f3b1ea435e1be",
-  "DFStringFlagRepoGitHashDynamicString": "024baa27139ca1986df03de4c48f3b1ea435e1be",
-  "FStringFlipTimeStampFastString": "2022-12-08T21:19:09.424Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-08T21:19:09.424Z"
+  "FStringFlagRepoGitHashFastString": "b0aa6830f5a7daf3112308ca28be3c1f0c64ae59",
+  "DFStringFlagRepoGitHashDynamicString": "b0aa6830f5a7daf3112308ca28be3c1f0c64ae59",
+  "FStringFlipTimeStampFastString": "2022-12-08T21:21:43.418Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-08T21:21:43.418Z"
 }
