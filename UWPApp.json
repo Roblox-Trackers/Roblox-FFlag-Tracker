@@ -5510,6 +5510,11 @@
   "DFFlagSignalRReconnectionFailureMetrics": "True",
   "FFlagFixSignalRConnectionTimeMetricDouble": "True",
   "DFFlagSignalRAbortUnconditionally": "True",
+  "DFFlagLogTotalPlayersOnJoinFix": "False",
+  "DFFlagLogTotalPlayersOnJoinFix_DataCenterFilter": "True;246",
+  "DFFlagFFlagRolloutDuplicateRobloxTelemetryCountersEnabled": "True",
+  "DFFlagFixRobloxTelemetryEphemeralCountersAndStatsCategory": "True",
+  "DFIntFFlagRolloutDuplicateRobloxTelemetryCountersThrottleHundredthsPercent": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5724,8 +5729,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "51baba12a240fbd95e289231ba149aebfdfea563",
-  "DFStringFlagRepoGitHashDynamicString": "51baba12a240fbd95e289231ba149aebfdfea563",
-  "FStringFlipTimeStampFastString": "2022-12-08T20:48:33.702Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-08T20:48:33.702Z"
+  "FStringFlagRepoGitHashFastString": "c0e4dd492bffde6893e33176f9b0effe93502219",
+  "DFStringFlagRepoGitHashDynamicString": "c0e4dd492bffde6893e33176f9b0effe93502219",
+  "FStringFlipTimeStampFastString": "2022-12-08T20:55:57.947Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-08T20:55:57.947Z"
 }
