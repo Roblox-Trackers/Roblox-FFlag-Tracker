@@ -5504,7 +5504,7 @@
   "DFFlagFFlagRolloutDuplicateTelemetryCountersEnabled": "True",
   "DFIntFFlagRolloutDuplicateTelemetryCountersThrottleHundredthsPercent": "10000",
   "FFlagUASetVREnableBeforeGameLoadingV2": "True",
-  "DFIntIgnoreCustomEventReceiverSourceReportPermyriad2": "1000",
+  "DFIntIgnoreCustomEventReceiverSourceReportPermyriad2": "10000",
   "FFlagAddFriendsContextInfoStyling": "True",
   "FFlagVoiceChatSignalRTimingCounterToStat": "True",
   "DFFlagSignalRReconnectionFailureMetrics": "True",
@@ -5836,8 +5836,8 @@
   "FFlagEnablePrefetchTimeout": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "FFlagiOSCopyEntryIndex": "True",
-  "FStringFlagRepoGitHashFastString": "c0e4dd492bffde6893e33176f9b0effe93502219",
-  "DFStringFlagRepoGitHashDynamicString": "c0e4dd492bffde6893e33176f9b0effe93502219",
-  "FStringFlipTimeStampFastString": "2022-12-08T20:55:57.947Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-08T20:55:57.947Z"
+  "FStringFlagRepoGitHashFastString": "c2f5209dcb60bc8261c18b596073e1192fe70b50",
+  "DFStringFlagRepoGitHashDynamicString": "c2f5209dcb60bc8261c18b596073e1192fe70b50",
+  "FStringFlipTimeStampFastString": "2022-12-08T21:03:27.850Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-08T21:03:27.850Z"
 }
