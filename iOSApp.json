@@ -5487,6 +5487,7 @@
   "DFFlagFixAttachmentCrashCleanUpConstraint": "True",
   "FFlagUseGUIDForDummyEvent": "True",
   "FFlagEnableLayoutResetStudioForceRestartOnCorruptLayout": "True",
+  "DFFlagFixExtentsSizeCrash": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5808,8 +5809,8 @@
   "FFlagEnablePrefetchTimeout": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "FFlagiOSCopyEntryIndex": "True",
-  "FStringFlagRepoGitHashFastString": "813a37dc82404a322332c02e2044c88e8632cecb",
-  "DFStringFlagRepoGitHashDynamicString": "813a37dc82404a322332c02e2044c88e8632cecb",
-  "FStringFlipTimeStampFastString": "2022-12-08T19:18:37.566Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-08T19:18:37.566Z"
+  "FStringFlagRepoGitHashFastString": "bceb78d06bfeb7d7fa312fc6f83e3ea3ddf5e095",
+  "DFStringFlagRepoGitHashDynamicString": "bceb78d06bfeb7d7fa312fc6f83e3ea3ddf5e095",
+  "FStringFlipTimeStampFastString": "2022-12-08T19:20:26.694Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-08T19:20:26.694Z"
 }
