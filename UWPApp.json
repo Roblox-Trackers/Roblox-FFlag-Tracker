@@ -2349,7 +2349,7 @@
   "FFlagCollectCollisionGroupInfo": "True",
   "FFlagSendTelemetryForStudioVitals": "True",
   "FFlagSimModelLodFixSphericalVoxelization": "True",
-  "FStringSponsoredItemsIXPLayer": "AvatarMarketplace.Ads",
+  "FStringSponsoredItemsIXPLayer": "Ads.AdBlock",
   "FFlagSocialTabWrapperRefactorIsEnabled": "True",
   "FFlagCheckHSRImportInProcess": "True",
   "DFFlagRakNetCleanupTimeSet": "True",
@@ -5044,7 +5044,7 @@
   "FStringLuaTopicsIXPLayer": "AvatarMarketplace.GuidedFeatures",
   "FFlagShowRatingsInAssetPreviewForAllPlugins": "True",
   "FFlagIXPUseLayerNamesFString": "True",
-  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell",
+  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock",
   "FFlagTopicsIXPEnabled3": "True",
   "DFFlagStudioReplaceIncrementalLexer3": "True",
   "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent2": "1000",
@@ -5790,8 +5790,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "400d64551d5e800e0ebb55262c81acff7bda6824",
-  "DFStringFlagRepoGitHashDynamicString": "400d64551d5e800e0ebb55262c81acff7bda6824",
-  "FStringFlipTimeStampFastString": "2022-12-09T17:59:08.215Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-09T17:59:08.215Z"
+  "FStringFlagRepoGitHashFastString": "6f7d0047173be06ad20fbfed7b30036eb404fee4",
+  "DFStringFlagRepoGitHashDynamicString": "6f7d0047173be06ad20fbfed7b30036eb404fee4",
+  "FStringFlipTimeStampFastString": "2022-12-09T18:10:42.462Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-09T18:10:42.462Z"
 }
