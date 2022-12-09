@@ -5449,7 +5449,7 @@
   "FFlagDisableStudioForceRestartOnCorruptLayoutForMultiMonitor": "True",
   "FFlagEnableBacktraceAttachmentsV3": "True",
   "FFlagSimCSGV3CleanupBSP3KernelPlanes": "True",
-  "FFlagDynamicBytecodeReplication": "True",
+  "FFlagDynamicBytecodeReplication": "False",
   "FFlagTerrainBrushRaycastFix": "True",
   "FFlagScriptContextLoadInternalPackages": "True",
   "FFlagUGCErrorTest": "True",
@@ -5466,7 +5466,6 @@
   "FFlagLuaAppPersistentSearchBar3": "True",
   "FFlagLuaAppStickySearchTypeSelector2": "True",
   "FFlagNestedAttachment": "True",
-  "FFlagDynamicLinkedSourceReplication": "True",
   "DFStringRollout20221207Test2_Rollout": "newvalue;5;2022-12-07T23:07:06",
   "DFFlagMarshallLowMemoryWarning": "True",
   "DFIntjoinGameAttemptEventThrottleHundrethsPercent": "1000",
@@ -5575,6 +5574,7 @@
   "FFlagUIBloxPillGroupAutomaticSize": "True",
   "FFlagEnableLocalizationForAdPortalInvalidReasons": "True",
   "FFlagSetUseMarginsToFalse": "True",
+  "FFlagDynamicBytecodeReplication_PlaceFilter": "True;11598455452;10725597487",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5787,8 +5787,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "0e210eebc2b2301de7a1d6812ef430b1aa2c687f",
-  "DFStringFlagRepoGitHashDynamicString": "0e210eebc2b2301de7a1d6812ef430b1aa2c687f",
-  "FStringFlipTimeStampFastString": "2022-12-09T01:58:15.311Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-09T01:58:15.311Z"
+  "FStringFlagRepoGitHashFastString": "d3544e113faf16dbf0ea03de1a24a30985eeca29",
+  "DFStringFlagRepoGitHashDynamicString": "d3544e113faf16dbf0ea03de1a24a30985eeca29",
+  "FStringFlipTimeStampFastString": "2022-12-09T02:55:38.854Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-09T02:55:38.854Z"
 }
