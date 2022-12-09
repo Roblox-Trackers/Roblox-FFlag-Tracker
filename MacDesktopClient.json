@@ -5570,6 +5570,7 @@
   "DFIntAdGuiRandomizedRaycastLaunchPercentage": "10",
   "FFlagEnableFixAdGuiValidationBeforeFetch": "True",
   "FFlagUseActualSizeToCalculateListMinSize3": "True",
+  "DFFlagAddImpactChangesBasedOnTunableDeltasTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5816,8 +5817,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "d99beddb9ed227e088225d16b723f5c5a9d92598",
-  "DFStringFlagRepoGitHashDynamicString": "d99beddb9ed227e088225d16b723f5c5a9d92598",
-  "FStringFlipTimeStampFastString": "2022-12-09T00:41:52.841Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-09T00:41:52.841Z"
+  "FStringFlagRepoGitHashFastString": "7250c48e952ae98eeb90422819c751fe5e19ac38",
+  "DFStringFlagRepoGitHashDynamicString": "7250c48e952ae98eeb90422819c751fe5e19ac38",
+  "FStringFlipTimeStampFastString": "2022-12-09T00:44:24.699Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-09T00:44:24.699Z"
 }
