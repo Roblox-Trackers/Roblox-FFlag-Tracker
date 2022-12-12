@@ -5517,7 +5517,7 @@
   "FFlagNavigationMaxAgnetHeightCeilingIsnotWall": "True",
   "FFlagAddModelToInventory": "True",
   "DFFlagSimTimestepArbiterUpdates": "True",
-  "FFlagSimAdaptiveIslandizerThrottlingFix": "True",
+  "FFlagSimAdaptiveIslandizerThrottlingFix": "False",
   "FFlagLuaAppOmniTopicIdString": "True",
   "FFlagSignalROOOSequenceNumberAnalytics": "True",
   "FFlagSignalRTotalSequenceNumberAnalytics": "True",
@@ -5788,8 +5788,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "95d843b8f6462ec7e56c43db7ab215a70ad7484e",
-  "DFStringFlagRepoGitHashDynamicString": "95d843b8f6462ec7e56c43db7ab215a70ad7484e",
-  "FStringFlipTimeStampFastString": "2022-12-10T00:16:02.532Z",
-  "DFStringFlipTimeStampDynamicString": "2022-12-10T00:16:02.532Z"
+  "FStringFlagRepoGitHashFastString": "ec1b52fb36dff82d25db5860bbd5ef94724d7f2c",
+  "DFStringFlagRepoGitHashDynamicString": "ec1b52fb36dff82d25db5860bbd5ef94724d7f2c",
+  "FStringFlipTimeStampFastString": "2022-12-12T18:05:17.126Z",
+  "DFStringFlipTimeStampDynamicString": "2022-12-12T18:05:17.126Z"
 }
