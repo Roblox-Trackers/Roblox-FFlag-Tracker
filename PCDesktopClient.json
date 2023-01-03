@@ -5558,9 +5558,9 @@
   "DFFlagIgnoreCustomEventReceiverSource": "True",
   "DFFlagIgnoreCustomEventReceiverSource_PlaceFilter": "False;8357261047;5002210114;1107356201;5672467276;2897155393;5180811071;253431746;11122108967;2998650659",
   "FLogAudio": "6",
-  "DFFlagDisplayAdMajorityCriteriaEnabled": "False",
-  "DFFlagDisplayAdRandomizedRaycastEnabled": "False",
-  "DFIntAdGuiRandomizedRaycastLaunchPercentage": "0",
+  "DFFlagDisplayAdMajorityCriteriaEnabled": "True",
+  "DFFlagDisplayAdRandomizedRaycastEnabled": "True",
+  "DFIntAdGuiRandomizedRaycastLaunchPercentage": "10",
   "FFlagEnableFixAdGuiValidationBeforeFetch": "True",
   "DFFlagAddImpactChangesBasedOnTunableDeltasTelemetry": "True",
   "FFlagAXLuaLogPreviousTopics": "True",
@@ -5844,8 +5844,8 @@
   "FFlagLuaAppColorSystem1_1TestCache": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "c0879df57110fada533d423c975bf30fab62bcc1",
-  "DFStringFlagRepoGitHashDynamicString": "c0879df57110fada533d423c975bf30fab62bcc1",
-  "FStringFlipTimeStampFastString": "2023-01-03T20:38:47.871Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-03T20:38:47.871Z"
+  "FStringFlagRepoGitHashFastString": "3c877f6087658febc4391570783fbf784751f0da",
+  "DFStringFlagRepoGitHashDynamicString": "3c877f6087658febc4391570783fbf784751f0da",
+  "FStringFlipTimeStampFastString": "2023-01-03T20:39:06.558Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-03T20:39:06.558Z"
 }
