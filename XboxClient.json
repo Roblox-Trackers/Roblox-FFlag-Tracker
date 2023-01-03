@@ -5581,6 +5581,8 @@
   "DFFlagAndroidApplicationExitReasonMultipleTaggingEnabled": "True",
   "FFlagFileDeployerPathLimitFix": "True",
   "FFlagReduceR15Criteria": "True",
+  "FFlagUseAtomicPoolAllocatorInCollisionDispatcher": "True",
+  "FFlagUseOptimizedEPACalls": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5793,8 +5795,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "c98694db693f62edd662e8c78ade2f880aa78978",
-  "DFStringFlagRepoGitHashDynamicString": "c98694db693f62edd662e8c78ade2f880aa78978",
-  "FStringFlipTimeStampFastString": "2023-01-03T19:17:07.399Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-03T19:17:07.399Z"
+  "FStringFlagRepoGitHashFastString": "60918da84f86fbf81751d48fb9d7f503cc223f4c",
+  "DFStringFlagRepoGitHashDynamicString": "60918da84f86fbf81751d48fb9d7f503cc223f4c",
+  "FStringFlipTimeStampFastString": "2023-01-03T19:19:02.297Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-03T19:19:02.297Z"
 }
