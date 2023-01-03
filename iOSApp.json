@@ -5596,6 +5596,8 @@
   "DFFlagXboxAppBridgeTelemetryFix": "True",
   "FFlagScreenGuiReplicateScreenInsets": "True",
   "FFlagParallelLuaUseParallelLuaWorkQueue": "True",
+  "FFlagMaterialManagerMaterialDropdownRemove": "True",
+  "FFlagHideTopbarWebviewItemsForVR": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5913,8 +5915,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "FFlagiOSCopyEntryIndex": "False",
   "FFlagShouldTrackPNMetadataRetrievedAppState": "True",
-  "FStringFlagRepoGitHashFastString": "dd1c26cff202909bf9fa62a14ace71fc9ee515b9",
-  "DFStringFlagRepoGitHashDynamicString": "dd1c26cff202909bf9fa62a14ace71fc9ee515b9",
-  "FStringFlipTimeStampFastString": "2023-01-03T21:42:06.113Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-03T21:42:06.113Z"
+  "FStringFlagRepoGitHashFastString": "ce60c28e64a26475707c94d654f7fae73f78ab25",
+  "DFStringFlagRepoGitHashDynamicString": "ce60c28e64a26475707c94d654f7fae73f78ab25",
+  "FStringFlipTimeStampFastString": "2023-01-03T21:51:25.415Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-03T21:51:25.415Z"
 }
