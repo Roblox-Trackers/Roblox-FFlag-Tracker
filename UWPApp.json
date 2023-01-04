@@ -1588,7 +1588,7 @@
   "FFlagStudioScriptVersionHistoryOutOfOrderAnalytics": "True",
   "FFlagLuaAppExpandedSearchBarPositionBugfix": "True",
   "FFlagSubscriptionFailureUX": "True",
-  "DFIntOldSslInfluxHundredthsPercentage": "10000",
+  "DFIntOldSslInfluxHundredthsPercentage": "0",
   "FFlagLuaAppSendSearchUuidToBackend": "True",
   "DFFlagLocalizationTableCreationImprovement": "True",
   "DFFlagBetterPlatform": "True",
@@ -5645,6 +5645,7 @@
   "FFlagEnableVrServiceSessionState": "True",
   "FFlagEnableVRReadyToast": "True",
   "FFlagStudioRemoveInvalidBreakpoint": "True",
+  "DFFlagCleanupSomeHttpTelem": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5860,8 +5861,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "FFlagTeleportCallbacksAsLamda": "True",
-  "FStringFlagRepoGitHashFastString": "aad18d55bb962d8c8a2566bdc5e32c4fd7489413",
-  "DFStringFlagRepoGitHashDynamicString": "aad18d55bb962d8c8a2566bdc5e32c4fd7489413",
-  "FStringFlipTimeStampFastString": "2023-01-04T22:38:23.199Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-04T22:38:23.199Z"
+  "FStringFlagRepoGitHashFastString": "cc879dc39420f7c259fed33aee60771ca8c725ba",
+  "DFStringFlagRepoGitHashDynamicString": "cc879dc39420f7c259fed33aee60771ca8c725ba",
+  "FStringFlipTimeStampFastString": "2023-01-04T22:42:16.156Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-04T22:42:16.156Z"
 }
