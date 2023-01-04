@@ -5650,6 +5650,8 @@
   "FFlagScriptProfilerRawSet": "True",
   "FFlagLuauNegatedFunctionTypes": "True",
   "FFlagStudioDebuggerAddCoreScriptDebuggingManager": "True",
+  "FFlagStudioQtitanSendCloseEventToPanelWhenClosedByUser": "True",
+  "FFlagStringInterpolationBetaFeature": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5907,8 +5909,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "FFlagTeleportCallbacksAsLamda": "False",
-  "FStringFlagRepoGitHashFastString": "6309739eb36ff310a92992673856566b1cb89e4c",
-  "DFStringFlagRepoGitHashDynamicString": "6309739eb36ff310a92992673856566b1cb89e4c",
-  "FStringFlipTimeStampFastString": "2023-01-04T23:01:02.322Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-04T23:01:02.322Z"
+  "FStringFlagRepoGitHashFastString": "10b0671b2ff4f5357a5ddaaf108c8562a0211c68",
+  "DFStringFlagRepoGitHashDynamicString": "10b0671b2ff4f5357a5ddaaf108c8562a0211c68",
+  "FStringFlipTimeStampFastString": "2023-01-04T23:07:36.810Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-04T23:07:36.810Z"
 }
