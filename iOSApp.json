@@ -4734,7 +4734,7 @@
   "FFlagRenderPreventNansInBBox": "True",
   "DFFlagIKControlTransformFixes": "True",
   "FFlagCheckDebuggerConnectionAfterBuffer": "True",
-  "FFlagSessionTelemetryApp": "False",
+  "FFlagSessionTelemetryApp": "True",
   "FFlagLuaAppDuarOptOut3": "False",
   "FFlagContactImporterCatchErrorWithGetUserSettings": "True",
   "FFlagStudioHandleDockWindowCloseEvent2": "True",
@@ -5618,6 +5618,7 @@
   "FFlagDeprecateCGIWarning1": "True",
   "DFFlagEnablePlacementInformation": "True",
   "DFFlagFixCGNCrash": "True",
+  "DFFlagFixAddAppSessionCommonPoints": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5935,8 +5936,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "FFlagiOSCopyEntryIndex": "False",
   "FFlagShouldTrackPNMetadataRetrievedAppState": "True",
-  "FStringFlagRepoGitHashFastString": "15fd7535a03810d6565b1d5b68419f2ba5462f51",
-  "DFStringFlagRepoGitHashDynamicString": "15fd7535a03810d6565b1d5b68419f2ba5462f51",
-  "FStringFlipTimeStampFastString": "2023-01-04T20:17:49.439Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-04T20:17:49.439Z"
+  "FStringFlagRepoGitHashFastString": "41271cd069d4ebfaed7d033088449177bb16a15b",
+  "DFStringFlagRepoGitHashDynamicString": "41271cd069d4ebfaed7d033088449177bb16a15b",
+  "FStringFlipTimeStampFastString": "2023-01-04T20:21:43.855Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-04T20:21:43.855Z"
 }
