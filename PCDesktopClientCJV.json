@@ -5632,6 +5632,7 @@
   "FFlagEnable32BitArchSunset": "True",
   "FFlagDisableRegularLoginForVRAppV2": "True",
   "FFlagDisableAttachmentPropChangeSignalIfNotChanged": "True",
+  "DFFlagEnableRefactorGetRenderingTarget": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5889,8 +5890,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "FFlagTeleportCallbacksAsLamda": "False",
-  "FStringFlagRepoGitHashFastString": "5e8ebc9e7e93c5bdefc0da53de759fb15ea24fde",
-  "DFStringFlagRepoGitHashDynamicString": "5e8ebc9e7e93c5bdefc0da53de759fb15ea24fde",
-  "FStringFlipTimeStampFastString": "2023-01-04T22:09:48.616Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-04T22:09:48.616Z"
+  "FStringFlagRepoGitHashFastString": "9142c258d37811effb01f68e04b048860248eae3",
+  "DFStringFlagRepoGitHashDynamicString": "9142c258d37811effb01f68e04b048860248eae3",
+  "FStringFlipTimeStampFastString": "2023-01-04T22:15:05.921Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-04T22:15:05.921Z"
 }
