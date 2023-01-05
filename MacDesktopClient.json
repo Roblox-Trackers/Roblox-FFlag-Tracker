@@ -5682,6 +5682,7 @@
   "DFFlagMicroprofilerOutputsToLogDir": "True",
   "DFFlagReplicatorNoStdIgnore": "True",
   "FFlagEarlyLgridUpdate": "True",
+  "FFlagFixOldHomeFlashWhenAsyncOn": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5929,8 +5930,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "FFlagTeleportCallbacksAsLamda": "False",
-  "FStringFlagRepoGitHashFastString": "f486228ce1279a19d9c8693aa683c8cd18ce6a33",
-  "DFStringFlagRepoGitHashDynamicString": "f486228ce1279a19d9c8693aa683c8cd18ce6a33",
-  "FStringFlipTimeStampFastString": "2023-01-05T19:09:31.850Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-05T19:09:31.850Z"
+  "FStringFlagRepoGitHashFastString": "da66ec7f21c33738394f303aed45c5d08821971f",
+  "DFStringFlagRepoGitHashDynamicString": "da66ec7f21c33738394f303aed45c5d08821971f",
+  "FStringFlipTimeStampFastString": "2023-01-05T19:11:23.440Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-05T19:11:23.440Z"
 }
