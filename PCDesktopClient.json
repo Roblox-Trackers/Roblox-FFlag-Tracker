@@ -4539,7 +4539,7 @@
   "FIntContactImporterHttpRetryCount": "0",
   "FFlagRoactGamepadFixDelayedRefFocusLost": "True",
   "DFFlagFixR6AppearanceLoadTracking2": "True",
-  "FFlagUserVRApplyHeadScaleToHandPositions": "False",
+  "FFlagUserVRApplyHeadScaleToHandPositions": "True",
   "FFlagAdGuiEnabled2": "True",
   "FFlagLuauNoTopRestoreInFastCall": "True",
   "FFlagStudioMacAutoFillViewWidgetBackgrounds": "True",
@@ -5657,6 +5657,8 @@
   "FFlagLuauCompleteTableKeysBetter": "True",
   "FFlagUpdateUICachesWithQuadTree2": "True",
   "FFlagEnableAdPortalTimerService2": "True",
+  "FFlagUIBloxVRApplyHeadScale": "True",
+  "FFlagVRApplyHeadScaleToHandPositions": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5914,8 +5916,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "FFlagTeleportCallbacksAsLamda": "False",
-  "FStringFlagRepoGitHashFastString": "6b5e23260912ed001293fe94308f0359dff19aef",
-  "DFStringFlagRepoGitHashDynamicString": "6b5e23260912ed001293fe94308f0359dff19aef",
-  "FStringFlipTimeStampFastString": "2023-01-05T00:12:04.705Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-05T00:12:04.705Z"
+  "FStringFlagRepoGitHashFastString": "5c8e91f5e380bd8edadc802381a3ae4511cab634",
+  "DFStringFlagRepoGitHashDynamicString": "5c8e91f5e380bd8edadc802381a3ae4511cab634",
+  "FStringFlipTimeStampFastString": "2023-01-05T00:14:56.446Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-05T00:14:56.446Z"
 }
