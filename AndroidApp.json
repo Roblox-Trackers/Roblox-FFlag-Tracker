@@ -5607,7 +5607,6 @@
   "FFlagFixLCClothesNotReset": "True",
   "FFlagEnableNewInviteSendEndpointIXP": "True",
   "DFFlagTeleportTimeClientTeleportType": "True",
-  "FFlagShoeSkipCage": "True",
   "DFFlagGranularDeserializeTestingFixture": "True",
   "FFlagDisableTouchForAndroidVR": "True",
   "FFlagFakeMouseInputForVR": "True",
@@ -5705,6 +5704,7 @@
   "FFlagSkipLandingPageWhenMissingWebViewSupport": "True",
   "FFlagFixUICornerUIStrokeGroupScale": "True",
   "FFlagDevFrameworkFixAssetPreviewHeaderSize": "True",
+  "FFlagShoeSkipRight": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "Bedev2CaptchaEnabledForNativeLogin": "True",
@@ -6105,8 +6105,8 @@
   "DFFlagCLI61776": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "FFlagTeleportCallbacksAsLamda": "False",
-  "FStringFlagRepoGitHashFastString": "55d45eb7c3061d7db6184b7e757d76033b6fb251",
-  "DFStringFlagRepoGitHashDynamicString": "55d45eb7c3061d7db6184b7e757d76033b6fb251",
-  "FStringFlipTimeStampFastString": "2023-01-06T19:15:02.888Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-06T19:15:02.888Z"
+  "FStringFlagRepoGitHashFastString": "e8c944d753ff8d7ffddc720b33122398bfc71610",
+  "DFStringFlagRepoGitHashDynamicString": "e8c944d753ff8d7ffddc720b33122398bfc71610",
+  "FStringFlipTimeStampFastString": "2023-01-06T19:16:21.044Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-06T19:16:21.044Z"
 }
