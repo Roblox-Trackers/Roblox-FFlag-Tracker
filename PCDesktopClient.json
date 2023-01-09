@@ -5713,6 +5713,7 @@
   "FFlagStudioUpdateActiveSessionTrackerTelemetry": "True",
   "FFlagRemoveJoinScriptURLFieldClient": "True",
   "FFlagRemoveUADesktopCounters": "True",
+  "FFlagFixUndoRedoStateOnInitialScriptOpen": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5979,8 +5980,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "c1579e0d1926fbe760c53f2ff0e5b2d82f0f2eef",
-  "DFStringFlagRepoGitHashDynamicString": "c1579e0d1926fbe760c53f2ff0e5b2d82f0f2eef",
-  "FStringFlipTimeStampFastString": "2023-01-09T18:40:31.540Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-09T18:40:31.540Z"
+  "FStringFlagRepoGitHashFastString": "9e4122d17f5474d879ca90e67634dad5c865c674",
+  "DFStringFlagRepoGitHashDynamicString": "9e4122d17f5474d879ca90e67634dad5c865c674",
+  "FStringFlipTimeStampFastString": "2023-01-09T18:42:37.506Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-09T18:42:37.506Z"
 }
