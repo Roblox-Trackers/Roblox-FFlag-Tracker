@@ -5751,6 +5751,8 @@
   "FFlagFixNestedViewportFrame": "True",
   "FFlagFixPluginRibbonIconScaling": "True",
   "DFFlagRaknetNewSocketBind": "True",
+  "DFFlagTeleportMenuOpenTelemetry2": "True",
+  "DFIntTeleportInGameMenuOpenEventThrottleHundredthPercent": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5963,8 +5965,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "d5d68778545b85ced9ba06fc4f8e58bebdefd438",
-  "DFStringFlagRepoGitHashDynamicString": "d5d68778545b85ced9ba06fc4f8e58bebdefd438",
-  "FStringFlipTimeStampFastString": "2023-01-10T23:19:39.085Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-10T23:19:39.085Z"
+  "FStringFlagRepoGitHashFastString": "f36dc15de049b17cb18375d5303f41a8e68336ea",
+  "DFStringFlagRepoGitHashDynamicString": "f36dc15de049b17cb18375d5303f41a8e68336ea",
+  "FStringFlipTimeStampFastString": "2023-01-10T23:29:20.915Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-10T23:29:20.915Z"
 }
