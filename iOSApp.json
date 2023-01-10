@@ -5752,7 +5752,7 @@
   "FFlagFixPluginRibbonIconScaling": "True",
   "DFFlagRaknetNewSocketBind": "True",
   "DFFlagTeleportMenuOpenTelemetry2": "True",
-  "DFIntTeleportInGameMenuOpenEventThrottleHundredthPercent": "100",
+  "DFIntTeleportInGameMenuOpenEventThrottleHundredthPercent": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6074,8 +6074,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "f36dc15de049b17cb18375d5303f41a8e68336ea",
-  "DFStringFlagRepoGitHashDynamicString": "f36dc15de049b17cb18375d5303f41a8e68336ea",
-  "FStringFlipTimeStampFastString": "2023-01-10T23:29:20.915Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-10T23:29:20.915Z"
+  "FStringFlagRepoGitHashFastString": "394d51589f3b3168817ec566503c9c87cf511811",
+  "DFStringFlagRepoGitHashDynamicString": "394d51589f3b3168817ec566503c9c87cf511811",
+  "FStringFlipTimeStampFastString": "2023-01-10T23:39:12.213Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-10T23:39:12.213Z"
 }
