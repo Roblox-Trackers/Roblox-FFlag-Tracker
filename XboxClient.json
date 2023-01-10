@@ -5738,6 +5738,7 @@
   "FFlagStudioMoveEventLoopAfterFlagLoading": "True",
   "FFlagAllOrNoneExtra": "True",
   "FFlagValidationBinaryFormatOnly": "True",
+  "FFlagEnableDynamicApplicationNameForReloader": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5950,8 +5951,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "f2528c922ff18dc83c9902b7e7bd15f4be9efa02",
-  "DFStringFlagRepoGitHashDynamicString": "f2528c922ff18dc83c9902b7e7bd15f4be9efa02",
-  "FStringFlipTimeStampFastString": "2023-01-10T17:54:44.289Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-10T17:54:44.289Z"
+  "FStringFlagRepoGitHashFastString": "8d437c362fba5356f9d582944b5859ced365ca32",
+  "DFStringFlagRepoGitHashDynamicString": "8d437c362fba5356f9d582944b5859ced365ca32",
+  "FStringFlipTimeStampFastString": "2023-01-10T17:58:45.436Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-10T17:58:45.436Z"
 }
