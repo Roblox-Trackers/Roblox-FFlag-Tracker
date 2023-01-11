@@ -5758,7 +5758,7 @@
   "FFlagPackageAttributeUnlinkFix": "True",
   "FFlagPackageScriptModificationCannotUndo": "True",
   "FFlagReportVRAnalytics2": "True",
-  "DFFlagFixAttachmentCrashCleanUpConstraint1": "True",
+  "DFFlagFixAttachmentCrashCleanUpConstraint1": "False",
   "DFIntReportVREnabledEventThrottleHundrethsPercent2": "10000",
   "FFlagLuaAppInjectGameEventsService": "True",
   "FFlagLocalizeCoordinatesToMonitor": "False",
@@ -5771,6 +5771,7 @@
   "FFlagHideSliceScaleForNonSlicedImageMixins": "True",
   "FFlagAssetImportPassLocalizationAllContextMixins": "True",
   "DFIntReportVirtualCursorEventThrottleHundrethsPercent3": "10000",
+  "DFFlagStreamingObserverAvoidClusterEmplace": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5983,8 +5984,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "374407e29449198ff94c6deb153cb8ba57537e53",
-  "DFStringFlagRepoGitHashDynamicString": "374407e29449198ff94c6deb153cb8ba57537e53",
-  "FStringFlipTimeStampFastString": "2023-01-11T22:10:40.272Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-11T22:10:40.272Z"
+  "FStringFlagRepoGitHashFastString": "e27e8e2402ac96fb07832a84e48366ff91faedde",
+  "DFStringFlagRepoGitHashDynamicString": "e27e8e2402ac96fb07832a84e48366ff91faedde",
+  "FStringFlipTimeStampFastString": "2023-01-11T22:11:24.319Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-11T22:11:24.319Z"
 }
