@@ -5754,7 +5754,7 @@
   "DFFlagTeleportMenuOpenTelemetry2": "True",
   "DFIntTeleportInGameMenuOpenEventThrottleHundredthPercent": "10000",
   "DFIntLocalizationTableAnalyticsSenderMaxBytesPerSecondClient": "2000",
-  "DFIntLocalizationTableAnalyticsSenderMaxBytesPerSecondServer": "5000",
+  "DFIntLocalizationTableAnalyticsSenderMaxBytesPerSecondServer": "2000",
   "DFFlagSwitchToSignedIntegerForValidateOsMemDelta": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -5968,8 +5968,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "44ad23a0569e88074073209e8f552d99ceae28ee",
-  "DFStringFlagRepoGitHashDynamicString": "44ad23a0569e88074073209e8f552d99ceae28ee",
-  "FStringFlipTimeStampFastString": "2023-01-11T00:14:41.180Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-11T00:14:41.180Z"
+  "FStringFlagRepoGitHashFastString": "c1cbbaf1a192ab8b25775b66a5130deb42cb56b5",
+  "DFStringFlagRepoGitHashDynamicString": "c1cbbaf1a192ab8b25775b66a5130deb42cb56b5",
+  "FStringFlipTimeStampFastString": "2023-01-11T00:19:13.151Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-11T00:19:13.151Z"
 }
