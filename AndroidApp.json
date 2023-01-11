@@ -4731,7 +4731,7 @@
   "FFlagRenderPreventNansInBBox": "True",
   "DFFlagIKControlTransformFixes": "True",
   "FFlagCheckDebuggerConnectionAfterBuffer": "True",
-  "FFlagSessionTelemetryApp": "True",
+  "FFlagSessionTelemetryApp": "False",
   "FFlagLuaAppDuarOptOut3": "False",
   "FFlagContactImporterCatchErrorWithGetUserSettings": "True",
   "FFlagStudioHandleDockWindowCloseEvent2": "True",
@@ -5772,7 +5772,6 @@
   "FFlagAssetImportPassLocalizationAllContextMixins": "True",
   "DFIntReportVirtualCursorEventThrottleHundrethsPercent3": "10000",
   "DFFlagStreamingObserverAvoidClusterEmplace": "True",
-  "DFFlagFixAddAppSessionCommonPoints": "True",
   "FFlagStudioDebuggerCheckContextOnAdd": "True",
   "FFlagRoactChatConversationActionsAll": "True",
   "AllowVideoPreRoll": "True",
@@ -6178,8 +6177,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "41d1bc1b0cae0f4a99b923b44875c0cd0189f456",
-  "DFStringFlagRepoGitHashDynamicString": "41d1bc1b0cae0f4a99b923b44875c0cd0189f456",
-  "FStringFlipTimeStampFastString": "2023-01-11T22:34:38.363Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-11T22:34:38.363Z"
+  "FStringFlagRepoGitHashFastString": "306a3dbc4d3e02f10cb92dfa5d15230b86c98dc7",
+  "DFStringFlagRepoGitHashDynamicString": "306a3dbc4d3e02f10cb92dfa5d15230b86c98dc7",
+  "FStringFlipTimeStampFastString": "2023-01-11T22:42:11.305Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-11T22:42:11.305Z"
 }
