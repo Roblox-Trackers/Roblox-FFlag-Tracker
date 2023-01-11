@@ -5428,7 +5428,7 @@
   "DFFlagTeleportMenuOpenTelemetry": "True",
   "DFFlagHttpCacheReduceStatic2": "True",
   "DFIntDevProductsDetailsRollout": "10",
-  "DFIntPassGetProductRollout": "0",
+  "DFIntPassGetProductRollout": "1",
   "FFlagCOLLAB2602ReportNonLostConnectionDisconnects": "True",
   "FFlagLuaFetchUpdatedUserAgreementsUsingWebEndpoint": "True",
   "DFFlagSignalRHubConnectionConnectTimeoutCounter": "True",
@@ -5988,8 +5988,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "1f1437cb1870a5a9a6a156650497bce09f84e00f",
-  "DFStringFlagRepoGitHashDynamicString": "1f1437cb1870a5a9a6a156650497bce09f84e00f",
-  "FStringFlipTimeStampFastString": "2023-01-11T22:59:00.024Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-11T22:59:00.024Z"
+  "FStringFlagRepoGitHashFastString": "95c508a09e50b1872bfbbef35927f449f166890e",
+  "DFStringFlagRepoGitHashDynamicString": "95c508a09e50b1872bfbbef35927f449f166890e",
+  "FStringFlipTimeStampFastString": "2023-01-11T23:00:19.853Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-11T23:00:19.853Z"
 }
