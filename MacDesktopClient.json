@@ -5792,7 +5792,7 @@
   "DFIntLocalizationTableAnalyticsSenderMaxEntriesPerRemoteEvent": "5",
   "FIntStudioMemoryThresholdAllocationDivisor": "3",
   "FIntBacktraceUseSyncPercentage": "1",
-  "FFlagFixOldHomeFlashWhenAsyncOn": "True",
+  "FFlagFixOldHomeFlashWhenAsyncOn": "False",
   "FFlagLuaAppFixAddGamesOnExit": "True",
   "FFlagEnableServerSideReportToAdsApi3": "True",
   "DFFlagCLI64534": "True",
@@ -6052,8 +6052,8 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "DFFlagFixAddAppSessionCommonPoints": "True",
   "FFlagSessionTelemetryApp": "True",
-  "FStringFlagRepoGitHashFastString": "4d2912cfcef42b994a29b93b1896d292fc09f4e7",
-  "DFStringFlagRepoGitHashDynamicString": "4d2912cfcef42b994a29b93b1896d292fc09f4e7",
-  "FStringFlipTimeStampFastString": "2023-01-12T22:32:40.249Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-12T22:32:40.249Z"
+  "FStringFlagRepoGitHashFastString": "de46722df11351c6dc7dd3c1c993fcbc2ae47493",
+  "DFStringFlagRepoGitHashDynamicString": "de46722df11351c6dc7dd3c1c993fcbc2ae47493",
+  "FStringFlipTimeStampFastString": "2023-01-12T22:34:06.567Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-12T22:34:06.567Z"
 }
