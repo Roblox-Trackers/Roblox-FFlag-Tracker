@@ -5785,6 +5785,10 @@
   "FFlagFixedVRAppQualityLevel": "True",
   "DFFlagRemoveGetContainingSegmentForFunctionCurve": "True",
   "DFFlagTransformNullptrChecks": "True",
+  "FIntMotionBuffers": "10",
+  "FIntMultiview2": "10",
+  "FIntOpenXrASW": "10",
+  "FIntUseOpenXr3": "10",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5997,8 +6001,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "9d19154cf7df85903d4671bfce38d6bbba50f837",
-  "DFStringFlagRepoGitHashDynamicString": "9d19154cf7df85903d4671bfce38d6bbba50f837",
-  "FStringFlipTimeStampFastString": "2023-01-12T18:38:43.620Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-12T18:38:43.620Z"
+  "FStringFlagRepoGitHashFastString": "e36f21bc2b393713e417f1ac2f7f1dc58e00b511",
+  "DFStringFlagRepoGitHashDynamicString": "e36f21bc2b393713e417f1ac2f7f1dc58e00b511",
+  "FStringFlipTimeStampFastString": "2023-01-12T19:07:02.671Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-12T19:07:02.671Z"
 }
