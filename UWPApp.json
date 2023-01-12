@@ -5402,7 +5402,7 @@
   "FIntPluginOTADeploymentAnalyticsHundredthsPercentage": "10000",
   "FIntPluginOTAErrorAnalyticsHundredthsPercentage": "10000",
   "FFlagMultiTryOnPurchaseUITweaks": "True",
-  "FFlagEnablePrefetchProtocol": "True",
+  "FFlagEnablePrefetchProtocol": "False",
   "FFlagRateLimiterRespectsSuccessfulLoads": "True",
   "FFlagMigrateToUseHttpRequest": "True",
   "FFlagMultiTryOnPurchaseBugFixes": "True",
@@ -6000,8 +6000,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "54063dfcfc5382ef82e33105600a0b6e410161e8",
-  "DFStringFlagRepoGitHashDynamicString": "54063dfcfc5382ef82e33105600a0b6e410161e8",
-  "FStringFlipTimeStampFastString": "2023-01-12T17:59:06.337Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-12T17:59:06.337Z"
+  "FStringFlagRepoGitHashFastString": "78fda53abbe901dd1a30c4066795022db763666a",
+  "DFStringFlagRepoGitHashDynamicString": "78fda53abbe901dd1a30c4066795022db763666a",
+  "FStringFlipTimeStampFastString": "2023-01-12T18:04:22.242Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-12T18:04:22.242Z"
 }
