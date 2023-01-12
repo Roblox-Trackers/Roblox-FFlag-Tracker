@@ -1550,7 +1550,7 @@
   "DFIntReportPhysicsFPSStatsForInfluxHundredthsPercentage": "100",
   "FFlagAuthFailureRetryUI": "True",
   "DFFlagReportIncorrectlyPausedReplicationStat3": "True",
-  "FIntRakNetResendBufferArrayLength": "1024",
+  "FIntRakNetResendBufferArrayLength": "512",
   "FFlagCLI49303continuousTimeStamp": "True",
   "FFlagLuaAppResetSearchBarWhenPageSwitch": "True",
   "DFIntAdjustMixedPriorityFairlyMultiplicativeStepLowerBound": "5",
@@ -6199,8 +6199,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "c3d164264579fa9ce680d0f74f3d4e78925d2fa6",
-  "DFStringFlagRepoGitHashDynamicString": "c3d164264579fa9ce680d0f74f3d4e78925d2fa6",
-  "FStringFlipTimeStampFastString": "2023-01-12T21:34:22.777Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-12T21:34:22.777Z"
+  "FStringFlagRepoGitHashFastString": "2911bb513249515a1d96eeedcf31bce71714459c",
+  "DFStringFlagRepoGitHashDynamicString": "2911bb513249515a1d96eeedcf31bce71714459c",
+  "FStringFlipTimeStampFastString": "2023-01-12T21:35:55.403Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-12T21:35:55.403Z"
 }
