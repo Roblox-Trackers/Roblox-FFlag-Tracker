@@ -5027,7 +5027,7 @@
   "FFlagRenderLoadMediumpByCaps2": "True",
   "FFlagSignalRClientHealthAnalytics": "True",
   "FFlagRemoveOldInitialize2": "True",
-  "DFStringCrashUploadToBacktraceBaseUrl": "https://upload.crashes.rbxinfra.com/post",
+  "DFStringCrashUploadToBacktraceBaseUrl": "https://upload.crashes.rbxinfra.com/post?format=minidump",
   "FLogDataModelPatchConfigurer": "0",
   "FFlagShouldMarkDMAsShuttingDownWhenClosing": "True",
   "DFIntMetricsApiReportSessioniOSRolloutPercentage": "100",
@@ -5988,8 +5988,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "4a2aecce3c51e8585e4b637b2c4a1b9352ff8bbb",
-  "DFStringFlagRepoGitHashDynamicString": "4a2aecce3c51e8585e4b637b2c4a1b9352ff8bbb",
-  "FStringFlipTimeStampFastString": "2023-01-11T23:40:46.938Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-11T23:40:46.938Z"
+  "FStringFlagRepoGitHashFastString": "a0f127dd4dcfbf0cb956e2fef2aac6b0721611b8",
+  "DFStringFlagRepoGitHashDynamicString": "a0f127dd4dcfbf0cb956e2fef2aac6b0721611b8",
+  "FStringFlipTimeStampFastString": "2023-01-12T00:02:51.084Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-12T00:02:51.084Z"
 }
