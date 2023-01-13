@@ -5783,9 +5783,9 @@
   "FFlagFixedVRAppQualityLevel": "True",
   "DFFlagRemoveGetContainingSegmentForFunctionCurve": "True",
   "DFFlagTransformNullptrChecks": "True",
-  "FIntMotionBuffers": "10",
+  "FIntMotionBuffers": "0",
   "FIntMultiview2": "10",
-  "FIntOpenXrASW": "10",
+  "FIntOpenXrASW": "0",
   "FIntUseOpenXr3": "10",
   "FFlagServerIsPresentToDM": "True",
   "FFlagUpdateInitialPoses": "True",
@@ -6213,8 +6213,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "774b55bef4b76b6c9aeb7fc8bd46e6cea867f4fa",
-  "DFStringFlagRepoGitHashDynamicString": "774b55bef4b76b6c9aeb7fc8bd46e6cea867f4fa",
-  "FStringFlipTimeStampFastString": "2023-01-13T17:56:10.154Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-13T17:56:10.154Z"
+  "FStringFlagRepoGitHashFastString": "1d8ca300a3159b8f44b7b29611c8c9a32a80c94a",
+  "DFStringFlagRepoGitHashDynamicString": "1d8ca300a3159b8f44b7b29611c8c9a32a80c94a",
+  "FStringFlipTimeStampFastString": "2023-01-13T18:13:35.975Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-13T18:13:35.975Z"
 }
