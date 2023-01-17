@@ -1628,7 +1628,7 @@
   "FFlagSocialProfileShareAnalyticsEnabled": "True",
   "FFlagFastClusterFetchResourcesEarlyForSkel2": "True",
   "DFFlagCSGv2UseMegaAssetFetcher_PlaceFilter": "False;8793627382;8793618616",
-  "FStringGameLaunchLinkURL": "(?:(?:https?://\\w+\\.roblox(?:labs)?\\.com/games/start\\?)|(?:roblox(?:mobile)?://(?:experiences/start\\?)?))(?:(?:(?:(?:id=\\d+)|(?:placeid=\\d+)|(?:userID=\\d+)|(?:gameInstanceId=(?:\\w|\\-)+)|(?:linkCode=(?:\\w|\\-)+)|(?:accessCode=(?:\\w|\\-)+)|(?:launchData=(?:.+)))&?)+)/?",
+  "FStringGameLaunchLinkURL": "(?:(?:https?://\\w+\\.roblox(?:labs)?\\.com/games/start\\?)|(?:roblox(?:mobile)?://(?:experiences/start\\?)?))(?:(?:(?:(?:id=\\d+)|(?:placeid=\\d+)|(?:userID=\\d+)|(?:gameInstanceId=(?:\\w|\\-)+)|(?:linkCode=(?:\\w|\\-)+)|(?:accessCode=(?:\\w|\\-)+)|(?:launchData=(?:.+))|(?:joinAttemptId=(?:[0-9a-fA-F]{8}-([0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12})+)|(?:joinAttemptOrigin=(?:\\w|\\-)+))&?)+)/?",
   "FFlagSimCSGV3OptimizedFaceUVNormalTransform": "True",
   "FFlagLuaProfileShareExperimentEnabled": "True",
   "FFlagSimCSG3AsyncWarmv2": "False",
@@ -5824,6 +5824,7 @@
   "FFlagNewCoexperienceTelemetryiOSV2": "True",
   "EnableNewCoexperienceTelemetryAndroidV2": "True",
   "DFIntJoinAllInfluxHundredthsPercentage": "100",
+  "FFlagFixAvatarEditorPromptsSelectedObjectReset": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6036,8 +6037,8 @@
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
-  "FStringFlagRepoGitHashFastString": "8bcaec3e3373db117fc084fa33a58d125571f1af",
-  "DFStringFlagRepoGitHashDynamicString": "8bcaec3e3373db117fc084fa33a58d125571f1af",
-  "FStringFlipTimeStampFastString": "2023-01-17T22:22:55.826Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-17T22:22:55.826Z"
+  "FStringFlagRepoGitHashFastString": "050acee474af0630c244f9dca937754de160ebde",
+  "DFStringFlagRepoGitHashDynamicString": "050acee474af0630c244f9dca937754de160ebde",
+  "FStringFlipTimeStampFastString": "2023-01-17T22:34:14.468Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-17T22:34:14.468Z"
 }
