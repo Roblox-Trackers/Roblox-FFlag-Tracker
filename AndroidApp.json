@@ -1183,7 +1183,7 @@
   "FFlagLuaAddMetricsForFetchUpdatedUserAgreements": "True",
   "DFFlagEnablePlayerNetworkPing2": "True",
   "DFFlagChatBotFloodCheck2": "True",
-  "DFIntChatFloodCheckExpirySeconds": "120",
+  "DFIntChatFloodCheckExpirySeconds": "60",
   "DFIntChatFloodCheckLimit": "3",
   "FLogLuobuStudioInternetZone": "6",
   "DFFlagChatFloodCheckEnableEventCounters": "True",
@@ -6233,8 +6233,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "3f2caefcd6eac1df809fabf8d4fb5e3bb872b96f",
-  "DFStringFlagRepoGitHashDynamicString": "3f2caefcd6eac1df809fabf8d4fb5e3bb872b96f",
-  "FStringFlipTimeStampFastString": "2023-01-17T23:19:40.679Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-17T23:19:40.679Z"
+  "FStringFlagRepoGitHashFastString": "f93d9ac72d68bca354f829472da6507567fe5505",
+  "DFStringFlagRepoGitHashDynamicString": "f93d9ac72d68bca354f829472da6507567fe5505",
+  "FStringFlipTimeStampFastString": "2023-01-17T23:30:21.497Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-17T23:30:21.497Z"
 }
