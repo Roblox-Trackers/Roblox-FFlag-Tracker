@@ -5277,7 +5277,6 @@
   "DFFlagPerformanceControlSessionTrackingReportImpactAverage": "True",
   "FFlagGetLowMemoryThresholdsForAndroid": "True",
   "FFlagSignalRHubConnectionKeepAliveTimeout2": "True",
-  "FFlagExperienceJoinAttemptId_v2": "True",
   "FFlagDisplayContactsInviterSearchBar_v2": "True",
   "DFFlagIncludeFreeOsMemAndOtherTelemetryForHarmony": "True",
   "FFlagPerfControlCLI60085Fixes": "True",
@@ -5834,6 +5833,7 @@
   "DFFlagFixAccoutrementWeldCreationForCloudEdit": "False",
   "DFFlagFixAccoutrementWeldCreationForCloudEdit_PlaceFilter": "True;12196304423",
   "FFlagStudioDeprecateDisableTeamCreateSetting": "True",
+  "FFlagExperienceJoinAttemptId_v3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6155,8 +6155,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "00c275a2ae3bc26102a2f31542577dbd7fde6c40",
-  "DFStringFlagRepoGitHashDynamicString": "00c275a2ae3bc26102a2f31542577dbd7fde6c40",
-  "FStringFlipTimeStampFastString": "2023-01-18T19:29:35.337Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-18T19:29:35.337Z"
+  "FStringFlagRepoGitHashFastString": "96f4f327d83ec4e61bd8ebe55ec63d5a039ece28",
+  "DFStringFlagRepoGitHashDynamicString": "96f4f327d83ec4e61bd8ebe55ec63d5a039ece28",
+  "FStringFlipTimeStampFastString": "2023-01-18T19:33:35.004Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-18T19:33:35.004Z"
 }
