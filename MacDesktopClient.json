@@ -4988,7 +4988,6 @@
   "DFFlagKeyframeSequenceProviderMakeSharedFix": "True",
   "FFlagReduceErrorsOnUnsupportedRigs": "True",
   "FFlagNoBoostForLookup": "True",
-  "DFFlagDebugReportFlagRollout_Rollout": "True;60;2022-11-08T17:18:22",
   "FFlagLuauLvaluelessPath": "True",
   "FFlagClipboardCopyHistoryIds": "True",
   "DFFlagTreeDiffWorldCFrameEpsilonFastInt": "True",
@@ -5852,6 +5851,7 @@
   "FFlagReportAbuseThankYouPageSizeFix": "True",
   "FFlagUAFixSteamVRLaunching": "True",
   "FFlagLuauMultiAssignmentConflictFix": "True",
+  "DFFlagDebugReportFlagRollout": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6102,8 +6102,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "ff820f8422a36669fa081ea48efe45f1efd2d3cd",
-  "DFStringFlagRepoGitHashDynamicString": "ff820f8422a36669fa081ea48efe45f1efd2d3cd",
-  "FStringFlipTimeStampFastString": "2023-01-18T21:24:14.189Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-18T21:24:14.189Z"
+  "FStringFlagRepoGitHashFastString": "2f2848f2e16af50c4e984e3be184d23ed67ca465",
+  "DFStringFlagRepoGitHashDynamicString": "2f2848f2e16af50c4e984e3be184d23ed67ca465",
+  "FStringFlipTimeStampFastString": "2023-01-18T21:25:59.337Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-18T21:25:59.337Z"
 }
