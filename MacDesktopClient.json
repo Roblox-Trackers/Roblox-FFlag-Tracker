@@ -5885,6 +5885,12 @@
   "FFlagEnableLodStreamRadius": "True",
   "FFlagStreamTerrainLod": "True",
   "FFlagUseStreamingTerrainLodCaches": "True",
+  "DFIntStudioConnectionIndicatorConditionalTelemetryThrottleHundrethsPercent": "100",
+  "DFIntStudioConnectionIndicatorTelemetryThrottleHundrethsPercent": "10",
+  "FFlagCOLLAB2194ConnectionMonitor": "True",
+  "FFlagReplicatorAddPingBackSignal": "True",
+  "FFlagSTUDIOPLAT29763RepositionRBXCalloutOffset": "True",
+  "FIntConnectionTelemetryPollIntervalMS": "1000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6135,8 +6141,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "9f71750b290820f57d684ea73b2739e455f4980c",
-  "DFStringFlagRepoGitHashDynamicString": "9f71750b290820f57d684ea73b2739e455f4980c",
-  "FStringFlipTimeStampFastString": "2023-01-19T17:28:23.259Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-19T17:28:23.259Z"
+  "FStringFlagRepoGitHashFastString": "5e20cec0e3e028dae9f250bf1d5001c9188d2d1a",
+  "DFStringFlagRepoGitHashDynamicString": "5e20cec0e3e028dae9f250bf1d5001c9188d2d1a",
+  "FStringFlipTimeStampFastString": "2023-01-19T17:40:00.080Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-19T17:40:00.080Z"
 }
