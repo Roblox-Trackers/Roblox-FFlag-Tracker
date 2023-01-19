@@ -2741,7 +2741,6 @@
   "DFFlagReportGamepadUsageAnalytics2": "True",
   "DFFlagVirtualCursorReportEnabledFromAPI2": "True",
   "DFFlagVirtualCursorReportManuallyEnabled2": "True",
-  "DFFlagVirtualCursorReportUserCount2": "True",
   "FFlagRenderTerrainNewShaders2Fix": "True",
   "FFlagRenderTerrainNewShaders2EnvMapFix": "True",
   "DFFlagStreamingReportPerformanceStatsAddDeferredGCCount": "True",
@@ -5937,6 +5936,7 @@
   "DFFlagFixPlaceSizeReporting": "True",
   "FFlagStudioCheckDiskSizeWithMemoryInfo": "True",
   "DFFlagStreamingSolverHandleOutOfOrderChangedEvents2": "True",
+  "DFFlagVirtualCursorReportUserCount3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6150,8 +6150,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "54963ddf8decb0501532a08e42197e2ed28338e6",
-  "DFStringFlagRepoGitHashDynamicString": "54963ddf8decb0501532a08e42197e2ed28338e6",
-  "FStringFlipTimeStampFastString": "2023-01-19T23:49:07.834Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-19T23:49:07.834Z"
+  "FStringFlagRepoGitHashFastString": "6f7dd0ba2f1b55dd2f911a940ba529d06b52a372",
+  "DFStringFlagRepoGitHashDynamicString": "6f7dd0ba2f1b55dd2f911a940ba529d06b52a372",
+  "FStringFlipTimeStampFastString": "2023-01-19T23:50:20.404Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-19T23:50:20.404Z"
 }
