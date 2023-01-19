@@ -5421,7 +5421,7 @@
   "DFFlagTeleportMenuOpenTelemetry": "True",
   "DFFlagHttpCacheReduceStatic2": "True",
   "DFIntDevProductsDetailsRollout": "10",
-  "DFIntPassGetProductRollout": "20",
+  "DFIntPassGetProductRollout": "0",
   "FFlagCOLLAB2602ReportNonLostConnectionDisconnects": "True",
   "FFlagLuaFetchUpdatedUserAgreementsUsingWebEndpoint": "True",
   "DFFlagSignalRHubConnectionConnectTimeoutCounter": "True",
@@ -6084,8 +6084,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "32e6438daa32e8141ac2350076d3dfe3b46b73a5",
-  "DFStringFlagRepoGitHashDynamicString": "32e6438daa32e8141ac2350076d3dfe3b46b73a5",
-  "FStringFlipTimeStampFastString": "2023-01-19T01:18:53.293Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-19T01:18:53.293Z"
+  "FStringFlagRepoGitHashFastString": "1db12dafa1784e9e159732a1268fee36b58a9fd3",
+  "DFStringFlagRepoGitHashDynamicString": "1db12dafa1784e9e159732a1268fee36b58a9fd3",
+  "FStringFlipTimeStampFastString": "2023-01-19T01:51:24.638Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-19T01:51:24.638Z"
 }
