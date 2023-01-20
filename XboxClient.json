@@ -3070,7 +3070,7 @@
   "FFlagImprovedDeferredReentrancyErrorMessages": "True",
   "FFlagOnlyQueueThreadsWithAcceptableReentrancyDepth": "True",
   "FFlagLCDimToleranceFix": "True",
-  "FFlagUserResetTouchStateOnMenuOpen": "False",
+  "FFlagUserResetTouchStateOnMenuOpen": "True",
   "DFFlagSessionTelemetryStartTime": "True",
   "FFlagParallelLuaAnalytics2": "True",
   "FFlagStopCheckingServerPropsInClientDMInVariantToString": "True",
@@ -6154,8 +6154,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "6e14da72f4791b22cbc121243f09397481076d45",
-  "DFStringFlagRepoGitHashDynamicString": "6e14da72f4791b22cbc121243f09397481076d45",
-  "FStringFlipTimeStampFastString": "2023-01-20T00:44:04.904Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-20T00:44:04.904Z"
+  "FStringFlagRepoGitHashFastString": "6cc62e178a690ace5066d617a6786b47460a4934",
+  "DFStringFlagRepoGitHashDynamicString": "6cc62e178a690ace5066d617a6786b47460a4934",
+  "FStringFlipTimeStampFastString": "2023-01-20T00:46:51.655Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-20T00:46:51.655Z"
 }
