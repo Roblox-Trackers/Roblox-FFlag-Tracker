@@ -2739,7 +2739,6 @@
   "FFlagStudioHandleWebViewLoadFail": "True",
   "DFIntScreenshotTakenEventThrottleHundrethsPercent": "10",
   "DFFlagReportGamepadUsageAnalytics2": "True",
-  "DFFlagVirtualCursorReportEnabledFromAPI2": "True",
   "DFFlagVirtualCursorReportManuallyEnabled2": "True",
   "FFlagRenderTerrainNewShaders2Fix": "True",
   "FFlagRenderTerrainNewShaders2EnvMapFix": "True",
@@ -5941,6 +5940,7 @@
   "DFFlagStreamingClearDescendantsOnInstanceGC": "True",
   "DFIntReportVREnabledEventThrottleHundrethsPercent3": "10000",
   "FIntExplorerSearchResultsBetaFeatureRolloutPercent": "10",
+  "DFFlagVirtualCursorReportEnabledFromAPI3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6201,8 +6201,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "6cc62e178a690ace5066d617a6786b47460a4934",
-  "DFStringFlagRepoGitHashDynamicString": "6cc62e178a690ace5066d617a6786b47460a4934",
-  "FStringFlipTimeStampFastString": "2023-01-20T00:46:51.655Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-20T00:46:51.655Z"
+  "FStringFlagRepoGitHashFastString": "6d33173d39dfa43acb6b0ba959df97d954676222",
+  "DFStringFlagRepoGitHashDynamicString": "6d33173d39dfa43acb6b0ba959df97d954676222",
+  "FStringFlipTimeStampFastString": "2023-01-20T01:03:05.758Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-20T01:03:05.758Z"
 }
