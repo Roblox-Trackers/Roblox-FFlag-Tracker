@@ -5750,7 +5750,6 @@
   "FFlagPackageScriptModificationCannotUndo": "True",
   "FFlagReportVRAnalytics2": "True",
   "DFFlagFixAttachmentCrashCleanUpConstraint1": "False",
-  "DFIntReportVREnabledEventThrottleHundrethsPercent2": "10000",
   "FFlagLuaAppInjectGameEventsService": "True",
   "FFlagLocalizeCoordinatesToMonitor": "False",
   "FStringResetLayoutWhenPreviousResetPriorToDate": "2022-01-10T04:37:35.11Z",
@@ -5920,7 +5919,7 @@
   "FFlagViewCollisionFadeToBlackInVR": "True",
   "FFlagFontProviderMmapSyncLoadedFonts": "True",
   "DFIntStreamingLodWorkMaxPercent": "25",
-  "FFlagProfileQRCodeReducerEnabled": "true",
+  "FFlagProfileQRCodeReducerEnabled": "false",
   "FFlagProfileAddQRCodeEventLogging": "true",
   "FFlagSmoothClusterChunkGenRefactor2": "True",
   "FFlagCLI56725": "True",
@@ -5940,6 +5939,7 @@
   "FFlagXboxCleanerPointerSwitch": "True",
   "FFlagStudioCheckDiskSpaceIsLow": "True",
   "DFFlagStreamingClearDescendantsOnInstanceGC": "True",
+  "DFIntReportVREnabledEventThrottleHundrethsPercent3": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6260,8 +6260,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "7ddfff55f0e9d5cc8dd0ddf98ca41264e5e00025",
-  "DFStringFlagRepoGitHashDynamicString": "7ddfff55f0e9d5cc8dd0ddf98ca41264e5e00025",
-  "FStringFlipTimeStampFastString": "2023-01-20T00:07:17.255Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-20T00:07:17.255Z"
+  "FStringFlagRepoGitHashFastString": "20e931608c15d4a3d762c22499ea82ee79cce16a",
+  "DFStringFlagRepoGitHashDynamicString": "20e931608c15d4a3d762c22499ea82ee79cce16a",
+  "FStringFlipTimeStampFastString": "2023-01-20T00:08:40.207Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-20T00:08:40.207Z"
 }
