@@ -5959,6 +5959,8 @@
   "FFlagPersistentPerPlayer_PlaceFilter": "True;12197944070",
   "FFlagUserEnableCameraToggleNotification": "False",
   "FIntLuaAppCredentialsProtocolTimeout": "30",
+  "FFlagDeprecateOldScriptCommandHandler2": "True",
+  "FFlagStudioOldCommandBarRemoveOldDebuggerDependency": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6172,8 +6174,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "e4718a274c35f4a813dc73edac48c3195ab346b7",
-  "DFStringFlagRepoGitHashDynamicString": "e4718a274c35f4a813dc73edac48c3195ab346b7",
-  "FStringFlipTimeStampFastString": "2023-01-23T17:46:53.977Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-23T17:46:53.977Z"
+  "FStringFlagRepoGitHashFastString": "a2541e85355766f7df7fe2a8d8f534c1395fa7b4",
+  "DFStringFlagRepoGitHashDynamicString": "a2541e85355766f7df7fe2a8d8f534c1395fa7b4",
+  "FStringFlipTimeStampFastString": "2023-01-23T17:51:08.450Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-23T17:51:08.450Z"
 }
