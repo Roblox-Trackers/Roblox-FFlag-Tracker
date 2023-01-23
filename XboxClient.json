@@ -5957,7 +5957,7 @@
   "FFlagStudioUseLaunchIntentForPSC2": "True",
   "FFlagXboxCrossPlayStatusEndPoint": "True",
   "FFlagXboxGetLoginConsecutiveDaysEndPoint2": "True",
-  "FFlagXboxTranslateNewEndPoint2": "True",
+  "FFlagXboxTranslateNewEndPoint2": "False",
   "FFlagStudioNotificationManagerRefactor": "True",
   "FFlagPPFixGamepadIcons": "True",
   "DFIntLatencyLoggingThresholdMs_DataCenterFilter": "30;254",
@@ -6186,8 +6186,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "8646a8c76a656f9b7417ec512e96c846b441489f",
-  "DFStringFlagRepoGitHashDynamicString": "8646a8c76a656f9b7417ec512e96c846b441489f",
-  "FStringFlipTimeStampFastString": "2023-01-23T21:42:59.735Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-23T21:42:59.735Z"
+  "FStringFlagRepoGitHashFastString": "c08da0fedef3e44e26368e06d94e9f5f214c1757",
+  "DFStringFlagRepoGitHashDynamicString": "c08da0fedef3e44e26368e06d94e9f5f214c1757",
+  "FStringFlipTimeStampFastString": "2023-01-23T21:59:43.062Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-23T21:59:43.062Z"
 }
