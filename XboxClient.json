@@ -2183,7 +2183,7 @@
   "FFlagInsertObjectWindowMultiMonitorFix": "True",
   "DFIntFontProvider_FaceLoadFailed_HundredthsPercent": "1000",
   "DFIntFontProvider_FamilyLoadFailed_HundredthsPercent": "1000",
-  "FFlagDebuggerV2BetaFeature": "False",
+  "FFlagDebuggerV2BetaFeature": "True",
   "FFlagPreloadMinimalFonts": "True",
   "FFlagRemoveOldABTestSystemIOS": "True",
   "FFlagFixIncorrectUsageOfContentProviderGetContent": "True",
@@ -5956,7 +5956,6 @@
   "FFlagStudioNotificationManagerRefactor": "True",
   "FFlagPPFixGamepadIcons": "True",
   "DFIntLatencyLoggingThresholdMs_DataCenterFilter": "30;254",
-  "FFlagStudioDebuggerOverhaul_Dev": "True",
   "FFlagAnimationRefactorForAISDK": "True",
   "FFlagShowVerifiedBadgeInNewChat": "True",
   "FFlagFixEmojiWrapperSizeFlickering": "True",
@@ -6193,8 +6192,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "b00e94679c5cd0f2425573c9eba329463fcb2d76",
-  "DFStringFlagRepoGitHashDynamicString": "b00e94679c5cd0f2425573c9eba329463fcb2d76",
-  "FStringFlipTimeStampFastString": "2023-01-24T00:12:35.502Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-24T00:12:35.502Z"
+  "FStringFlagRepoGitHashFastString": "7c740c5db892d8026bd678b0b9da1f6bdcb87b6d",
+  "DFStringFlagRepoGitHashDynamicString": "7c740c5db892d8026bd678b0b9da1f6bdcb87b6d",
+  "FStringFlipTimeStampFastString": "2023-01-24T00:15:36.426Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-24T00:15:36.426Z"
 }
