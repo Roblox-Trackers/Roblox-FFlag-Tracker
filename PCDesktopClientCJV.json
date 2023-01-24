@@ -5287,7 +5287,6 @@
   "DFFlagIfNotRequiresHandleThenDontRequireArm": "True",
   "DFFlagErrorForFailedRequestsInThumbnailLogic": "True",
   "FFlagScreenGuiFireIgnoreGuiInsetChangedSignalFromScreenInsetsChange": "True",
-  "FFlagGamepassRobuxUpsellIXP": "True",
   "DFFlagHlsAbrFixedVariantCompatible": "True",
   "DFFlagValidateFreeOsMemAndUsedOsMemAllocationValues": "False",
   "DFIntValidateFreeOsMemAndUsedOsMemHundredthPercentageSent": "21",
@@ -5984,6 +5983,7 @@
   "FFlagEnableNotificationExperienceInvite": "True",
   "FFlagShowVerifiedBadgeOnPlayerList": "True",
   "FFlagLuaAppFeaturedGameTileProps": "True",
+  "FFlagGamepassRobuxUpsellIXPV2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6246,8 +6246,8 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FFlagModelStreamingMode4": "True",
   "FFlagPersistentModels": "True",
-  "FStringFlagRepoGitHashFastString": "8f1cd87d80b5a111dca44c38e5651ca039b46336",
-  "DFStringFlagRepoGitHashDynamicString": "8f1cd87d80b5a111dca44c38e5651ca039b46336",
-  "FStringFlipTimeStampFastString": "2023-01-24T23:15:40.988Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-24T23:15:40.988Z"
+  "FStringFlagRepoGitHashFastString": "0c74b3a18fee2816cd356795a86a24324d7fa4f2",
+  "DFStringFlagRepoGitHashDynamicString": "0c74b3a18fee2816cd356795a86a24324d7fa4f2",
+  "FStringFlipTimeStampFastString": "2023-01-24T23:29:49.245Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-24T23:29:49.245Z"
 }
