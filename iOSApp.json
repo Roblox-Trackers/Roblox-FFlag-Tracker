@@ -5422,7 +5422,7 @@
   "FFlagStudioUpdateLanguageDisplayName": "True",
   "FFlagCoExperienceJoinTelemetryImprovementFix1": "True",
   "FFlagAnimationFromVideoCreatorServiceAnalytics2": "True",
-  "FFlagDisableStudioForceRestartOnCorruptLayoutForMultiMonitor": "False",
+  "FFlagDisableStudioForceRestartOnCorruptLayoutForMultiMonitor": "True",
   "FFlagEnableBacktraceAttachmentsV3": "True",
   "FFlagSimCSGV3CleanupBSP3KernelPlanes": "True",
   "FFlagDynamicBytecodeReplication": "True",
@@ -5982,6 +5982,9 @@
   "FFlagShowVerifiedBadgeOnPlayerList": "True",
   "FFlagLuaAppFeaturedGameTileProps": "True",
   "FFlagGamepassRobuxUpsellIXPV2": "True",
+  "FFlagStudioRestoreLayoutBeforeAddingIDEDoc": "True",
+  "FFlagResolveTabifyPluginCorruption": "True",
+  "FFlagStudioFixPluginCorruptionOnListenChangeVisibility": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6303,8 +6306,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FFlagEnableLaunchDataForAllJoins": "True",
-  "FStringFlagRepoGitHashFastString": "e9f9d92b0950a34ad6b1e8249da88de1e59f63a9",
-  "DFStringFlagRepoGitHashDynamicString": "e9f9d92b0950a34ad6b1e8249da88de1e59f63a9",
-  "FStringFlipTimeStampFastString": "2023-01-25T19:33:10.454Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-25T19:33:10.454Z"
+  "FStringFlagRepoGitHashFastString": "4c4fd74c308b12c02af805c7baca42181b0aa33d",
+  "DFStringFlagRepoGitHashDynamicString": "4c4fd74c308b12c02af805c7baca42181b0aa33d",
+  "FStringFlipTimeStampFastString": "2023-01-25T19:35:50.959Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-25T19:35:50.959Z"
 }
