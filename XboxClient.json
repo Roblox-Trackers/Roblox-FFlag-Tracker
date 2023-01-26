@@ -5429,8 +5429,8 @@
   "FFlagLuaAppStickySearchTypeSelector2": "True",
   "FFlagNestedAttachment": "True",
   "DFFlagMarshallLowMemoryWarning": "True",
-  "DFIntjoinGameAttemptEventThrottleHundrethsPercent": "1000",
-  "DFIntjoinGameSuccessEventThrottleHundrethsPercent": "1000",
+  "DFIntjoinGameAttemptEventThrottleHundrethsPercent": "5000",
+  "DFIntjoinGameSuccessEventThrottleHundrethsPercent": "5000",
   "FFlagFriendsCarouselIncomingFriendRequestAnalytics": "True",
   "FFlagPYMKCarouselIncomingFriendRequestAnalytics": "True",
   "DFFlagRemoveInvalidPlacementRequest": "True",
@@ -6205,8 +6205,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "3e4df8de8f372cfc7b8dda075dfd135b600c2e8f",
-  "DFStringFlagRepoGitHashDynamicString": "3e4df8de8f372cfc7b8dda075dfd135b600c2e8f",
-  "FStringFlipTimeStampFastString": "2023-01-26T18:15:28.269Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-26T18:15:28.269Z"
+  "FStringFlagRepoGitHashFastString": "593cd7eb92f8924f59fd2d033cf311dcee59cb12",
+  "DFStringFlagRepoGitHashDynamicString": "593cd7eb92f8924f59fd2d033cf311dcee59cb12",
+  "FStringFlipTimeStampFastString": "2023-01-26T18:33:16.124Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-26T18:33:16.124Z"
 }
