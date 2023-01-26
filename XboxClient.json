@@ -5138,7 +5138,7 @@
   "FFlagSignalRMissedSequenceNumberAnalytics": "True",
   "FFlagAndroidCameraCaptureSupportYV12": "True",
   "DFFlagAddPlaceSizeToTCSaveReporting": "False",
-  "FFlagLuaAppHPVerticalScroll3": "False",
+  "FFlagLuaAppHPVerticalScroll3": "True",
   "DFFlagVoiceChatMultistreamCloseSubsOnLeave": "True",
   "FFlagLuaAppFixGameTileImpressions": "True",
   "DFFlagSessionTrackingLessFlush": "True",
@@ -6000,6 +6000,7 @@
   "DFFlagQuatDeprecatedSunset": "True",
   "DFFlagQuaternionFromDirections": "True",
   "DFFlagTransformCtorDispatch": "True",
+  "FFlagHPVerticalScrollCachedIXP": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6213,8 +6214,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "bd32939949893bcb891567fbdc2c69a2688a8ad4",
-  "DFStringFlagRepoGitHashDynamicString": "bd32939949893bcb891567fbdc2c69a2688a8ad4",
-  "FStringFlipTimeStampFastString": "2023-01-26T18:42:35.915Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-26T18:42:35.915Z"
+  "FStringFlagRepoGitHashFastString": "b30bf3a4d00b05671164f630db8f22179c67e148",
+  "DFStringFlagRepoGitHashDynamicString": "b30bf3a4d00b05671164f630db8f22179c67e148",
+  "FStringFlipTimeStampFastString": "2023-01-26T18:46:27.928Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-26T18:46:27.928Z"
 }
