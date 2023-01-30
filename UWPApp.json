@@ -5746,9 +5746,8 @@
   "FFlagFixedVRAppQualityLevel": "True",
   "DFFlagRemoveGetContainingSegmentForFunctionCurve": "True",
   "DFFlagTransformNullptrChecks": "True",
-  "FIntMotionBuffers": "0",
   "FIntMultiview2": "10",
-  "FIntOpenXrASW": "0",
+  "FIntOpenXrASW": "10",
   "FIntUseOpenXr3": "10",
   "FFlagServerIsPresentToDM": "True",
   "FFlagUpdateInitialPoses": "True",
@@ -6029,6 +6028,7 @@
   "EnableUnwindBackStackAndRestartAfterProcDeathV2": "True",
   "FFlagRenderNoUnroll": "True",
   "FFlagLuaAppEndOfScrollPadding": "True",
+  "FIntMotionBuffers2": "10",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6247,8 +6247,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "6ccd5cebf9366c4b1499e12ca766aa98bd984346",
-  "DFStringFlagRepoGitHashDynamicString": "6ccd5cebf9366c4b1499e12ca766aa98bd984346",
-  "FStringFlipTimeStampFastString": "2023-01-30T20:50:46.209Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-30T20:50:46.209Z"
+  "FStringFlagRepoGitHashFastString": "326a66127eac6fcedf99bc363259521d0bca664e",
+  "DFStringFlagRepoGitHashDynamicString": "326a66127eac6fcedf99bc363259521d0bca664e",
+  "FStringFlipTimeStampFastString": "2023-01-30T20:54:42.164Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-30T20:54:42.164Z"
 }
