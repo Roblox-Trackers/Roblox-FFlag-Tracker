@@ -6038,9 +6038,9 @@
   "FFlagCOLLAB2609AddIsReconnectAndLaunchTaskToStudioopenplacemetricv2": "True",
   "FFlagCheckAppVersionRequestUse200": "True",
   "FFlagGuiObjectBackgroundExtensionIncludeBorders": "True",
-  "DFFlagAudioGraphLogging2": "True",
-  "DFFlagAudioGraphThrottling": "True",
-  "DFFlagAudioGraphUpload": "True",
+  "DFFlagAudioGraphLogging2": "False",
+  "DFFlagAudioGraphThrottling": "False",
+  "DFFlagAudioGraphUpload": "False",
   "DFIntAudioGraphLoggingRateLimitCapacity": "1",
   "DFIntAudioGraphLoggingRateLimitDuration": "10",
   "FFlagRegisterSignalRNotifierInManager": "True",
@@ -6458,8 +6458,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "84efcf10e140dfb0d19ec35f6865fdc4cbddddab",
-  "DFStringFlagRepoGitHashDynamicString": "84efcf10e140dfb0d19ec35f6865fdc4cbddddab",
-  "FStringFlipTimeStampFastString": "2023-01-31T00:31:56.709Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-31T00:31:56.709Z"
+  "FStringFlagRepoGitHashFastString": "af4d9fd9475aafb316aaab617056b38b3209db92",
+  "DFStringFlagRepoGitHashDynamicString": "af4d9fd9475aafb316aaab617056b38b3209db92",
+  "FStringFlipTimeStampFastString": "2023-01-31T00:38:22.266Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-31T00:38:22.266Z"
 }
