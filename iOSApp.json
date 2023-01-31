@@ -3037,7 +3037,6 @@
   "FFlagFixContentProviderOrphanedMemory": "True",
   "FFlagUITextureRespectDpiScale": "True",
   "FFlagLuaAppDisableACSessionRestartOnSearchCleared": "True",
-  "FFlagLuaAppPlayButtonOnTile2": "True",
   "FFlagLuauCompileNoIpairs": "True",
   "FFlagWaveEmoteOnAvatarContextMenuWithExpChat": "True",
   "FFlagInertiaAndVolumeFixEnabledForce": "True",
@@ -6094,6 +6093,8 @@
   "FFlagSupportGenericHapticsOnVR": "True",
   "FFlagHideTopBarRobuxButton": "True",
   "FFlagUIBloxEnableAutoHidingPointerOverlay": "True",
+  "FFlagHideGameDetailsWebViewItemsForVR": "True",
+  "FFlagDisableNativeTextRenderingStateForMaquettes": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6419,8 +6420,9 @@
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailediOS",
   "FFlagProfileQRCodeReducerEnabled_v1": "True",
   "FFlagProfileQRCodePageSoothsayerAccessEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "76c6ebb8148abb5d35664bd9945c791776375f1c",
-  "DFStringFlagRepoGitHashDynamicString": "76c6ebb8148abb5d35664bd9945c791776375f1c",
-  "FStringFlipTimeStampFastString": "2023-01-31T23:47:43.520Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-31T23:47:43.520Z"
+  "FFlagProfileQRCodeEnableExperiment": "True",
+  "FStringFlagRepoGitHashFastString": "75a5962867a2a5a58421529fb196cde4118b6d42",
+  "DFStringFlagRepoGitHashDynamicString": "75a5962867a2a5a58421529fb196cde4118b6d42",
+  "FStringFlipTimeStampFastString": "2023-01-31T23:50:32.434Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-31T23:50:32.434Z"
 }

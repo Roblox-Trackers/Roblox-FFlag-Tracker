@@ -3037,7 +3037,6 @@
   "FFlagFixContentProviderOrphanedMemory": "True",
   "FFlagUITextureRespectDpiScale": "True",
   "FFlagLuaAppDisableACSessionRestartOnSearchCleared": "True",
-  "FFlagLuaAppPlayButtonOnTile2": "False",
   "FFlagLuauCompileNoIpairs": "True",
   "FFlagWaveEmoteOnAvatarContextMenuWithExpChat": "True",
   "FFlagInertiaAndVolumeFixEnabledForce": "True",
@@ -6094,6 +6093,8 @@
   "FFlagSupportGenericHapticsOnVR": "True",
   "FFlagHideTopBarRobuxButton": "True",
   "FFlagUIBloxEnableAutoHidingPointerOverlay": "True",
+  "FFlagHideGameDetailsWebViewItemsForVR": "True",
+  "FFlagDisableNativeTextRenderingStateForMaquettes": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6312,8 +6313,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "215175b852f0384119ad05ea1b174c170d217c7d",
-  "DFStringFlagRepoGitHashDynamicString": "215175b852f0384119ad05ea1b174c170d217c7d",
-  "FStringFlipTimeStampFastString": "2023-01-31T23:49:33.334Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-31T23:49:33.334Z"
+  "FStringFlagRepoGitHashFastString": "75a5962867a2a5a58421529fb196cde4118b6d42",
+  "DFStringFlagRepoGitHashDynamicString": "75a5962867a2a5a58421529fb196cde4118b6d42",
+  "FStringFlipTimeStampFastString": "2023-01-31T23:50:32.434Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-31T23:50:32.434Z"
 }
