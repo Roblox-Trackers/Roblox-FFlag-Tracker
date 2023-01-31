@@ -6064,6 +6064,9 @@
   "FFlagSupportTypeAliasGoToDeclaration": "True",
   "FFlagGuiObjectSafeAreaBackgroundExtensionAncestorChangeBugFix": "True",
   "FFlagLuauFixAutocompleteInFor": "True",
+  "FFlagLuauFixAutocompleteInWhile": "True",
+  "DFIntHttpChatThrottleHundredthsPercentage": "1",
+  "DFIntHttpInfluxReportsPerMillion": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6277,8 +6280,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "8c218c1be2bc7390ca037025abbeda6ca4bc070a",
-  "DFStringFlagRepoGitHashDynamicString": "8c218c1be2bc7390ca037025abbeda6ca4bc070a",
-  "FStringFlipTimeStampFastString": "2023-01-31T19:00:11.467Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-31T19:00:11.467Z"
+  "FStringFlagRepoGitHashFastString": "9b487f1ba892557f14bd5b47a972aa890344044f",
+  "DFStringFlagRepoGitHashDynamicString": "9b487f1ba892557f14bd5b47a972aa890344044f",
+  "FStringFlipTimeStampFastString": "2023-01-31T19:05:56.303Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-31T19:05:56.303Z"
 }
