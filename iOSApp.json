@@ -6089,6 +6089,9 @@
   "FIntSmoothClusterTaskQueueMsPerCycle": "2",
   "FFlagEnableHistoryBasedTopButtonHiding": "True",
   "FFlagHideMorePageContentWithNoWebViewForVRV2": "True",
+  "FFlagEnableTopBarVRPolicyOverride": "True",
+  "FFlagDisableRobuxUpsellPromptWithoutWebview": "True",
+  "FFlagSupportGenericHapticsOnVR": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6414,8 +6417,8 @@
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailediOS",
   "FFlagProfileQRCodeReducerEnabled_v1": "True",
   "FFlagProfileQRCodePageSoothsayerAccessEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "9e32a6a0f06e37a0243e81734e5f8e5ca6bebfb2",
-  "DFStringFlagRepoGitHashDynamicString": "9e32a6a0f06e37a0243e81734e5f8e5ca6bebfb2",
-  "FStringFlipTimeStampFastString": "2023-01-31T23:45:38.527Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-31T23:45:38.527Z"
+  "FStringFlagRepoGitHashFastString": "ddc2b635b047746ecbb800ba36b6e26a5710ce32",
+  "DFStringFlagRepoGitHashDynamicString": "ddc2b635b047746ecbb800ba36b6e26a5710ce32",
+  "FStringFlipTimeStampFastString": "2023-01-31T23:46:36.725Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-31T23:46:36.725Z"
 }
