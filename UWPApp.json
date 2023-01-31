@@ -6081,6 +6081,12 @@
   "DFFlagHttpUsePerMillionThrottle_Rollout": "True;45;2023-01-31T22:49:11",
   "FFlagLuaAppGridHomeRbxThumbAvatar": "True",
   "FFlagEnableLuaProfileOnRoactChat": "True",
+  "FFlagSmoothClusterAsyncUpload": "True",
+  "FFlagSmoothClusterGrassTasks": "True",
+  "FFlagSmoothClusterTasks3": "True",
+  "FFlagSmoothClusterTasksFix": "True",
+  "FIntSmoothClusterTaskQueueMaxParallelTasks": "3",
+  "FIntSmoothClusterTaskQueueMsPerCycle": "2",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6299,8 +6305,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "369f330dc3b93683674701a038a536e8ed0d0ec5",
-  "DFStringFlagRepoGitHashDynamicString": "369f330dc3b93683674701a038a536e8ed0d0ec5",
-  "FStringFlipTimeStampFastString": "2023-01-31T23:26:44.441Z",
-  "DFStringFlipTimeStampDynamicString": "2023-01-31T23:26:44.441Z"
+  "FStringFlagRepoGitHashFastString": "85482a4aafa90f7bfca3d97c3ee0e2a9f0b24354",
+  "DFStringFlagRepoGitHashDynamicString": "85482a4aafa90f7bfca3d97c3ee0e2a9f0b24354",
+  "FStringFlipTimeStampFastString": "2023-01-31T23:37:32.195Z",
+  "DFStringFlipTimeStampDynamicString": "2023-01-31T23:37:32.195Z"
 }
