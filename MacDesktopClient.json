@@ -6126,6 +6126,8 @@
   "FFlagLuaAppOmniFeedPropsRefactor": "True",
   "FFlagXboxFactorSetGameProgress": "True",
   "FFlagLuaAppGamesListNilFixes": "True",
+  "FFlagJsonRpcTcpConnectionSync": "True",
+  "FFlagTcpServerMessageStreamListenSignal": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6378,8 +6380,8 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FStringProfileQRPageLoad": "ProfileQRPageLoadMacClient",
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedMacClient",
-  "FStringFlagRepoGitHashFastString": "a86935425d3925fbb07a1f70e27763153f3bc589",
-  "DFStringFlagRepoGitHashDynamicString": "a86935425d3925fbb07a1f70e27763153f3bc589",
-  "FStringFlipTimeStampFastString": "2023-02-02T00:40:46.118Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-02T00:40:46.118Z"
+  "FStringFlagRepoGitHashFastString": "41625695856592f841477c2db32d0910b864cba7",
+  "DFStringFlagRepoGitHashDynamicString": "41625695856592f841477c2db32d0910b864cba7",
+  "FStringFlipTimeStampFastString": "2023-02-02T01:04:14.302Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-02T01:04:14.302Z"
 }
