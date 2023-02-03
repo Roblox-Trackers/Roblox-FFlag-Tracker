@@ -3274,6 +3274,10 @@
   "DFFlagSimCollectConstraintInfo3": "True",
   "DFIntSimConstraintDataCollectionRate3": "10000",
   "FFlagStudioExternalPKCEWithNoWebView": "True",
+  "FFlagCollisionGroupsSelectionLagFixes": "True",
+  "FFlagDraggerShouldBufferSelectionSignals": "True",
+  "FFlagInsertObjectSetParentInstanceWhenEnabled": "True",
+  "FFlagTagEditorSelectionEnabledCheck": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3579,8 +3583,8 @@
   "FFlagProfileQRCodeReducerEnabled_v1": "True",
   "FFlagProfileQRCodeEnableExperiment": "True",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
-  "FStringFlagRepoGitHashFastString": "cef999e181a517d29e02dd3b62a58178080a9ba1",
-  "DFStringFlagRepoGitHashDynamicString": "cef999e181a517d29e02dd3b62a58178080a9ba1",
-  "FStringFlipTimeStampFastString": "2023-02-03T19:09:01.323Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-03T19:09:01.323Z"
+  "FStringFlagRepoGitHashFastString": "dfbee0852f34bc5858e2a8bb2d4e078513d23afd",
+  "DFStringFlagRepoGitHashDynamicString": "dfbee0852f34bc5858e2a8bb2d4e078513d23afd",
+  "FStringFlipTimeStampFastString": "2023-02-03T19:10:07.228Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-03T19:10:07.228Z"
 }
