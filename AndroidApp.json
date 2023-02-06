@@ -1649,7 +1649,7 @@
   "FFlagFacialAnimationRecordingBetaFeature": "True",
   "FFlagContactImporterAndPYMKEnabled_v1": "True",
   "FFlagLuaGetContactsAccessPreTest": "True",
-  "FFlagAXUseCheckApplyDefaultClothing": "False",
+  "FFlagAXUseCheckApplyDefaultClothing": "True",
   "DFFlagReportPacketQueueSizeStats": "True",
   "DFFlagReportLargePacketQueueSizeStats": "True",
   "FFlagStudioUpdateViewportOnEmulatedDeviceChange": "True",
@@ -3310,6 +3310,8 @@
   "FFlagFixGameDetailsAutomaticSize": "True",
   "FFlagUserFixCameraPanAfterShiftLock": "False",
   "FFlagBootcampADS1937": "True",
+  "FFlagLuaProfileHideInvalidAssets": "True",
+  "FFlagTempAXTopicsLayoutOnFocus": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3654,8 +3656,8 @@
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedAndroid",
   "FFlagProfileQRCodeReducerEnabled_v1": "True",
   "FFlagProfileQRCodeEnableExperiment": "True",
-  "FStringFlagRepoGitHashFastString": "4a03dfc7206d85befecdf632026ef6495d9f6d3f",
-  "DFStringFlagRepoGitHashDynamicString": "4a03dfc7206d85befecdf632026ef6495d9f6d3f",
-  "FStringFlipTimeStampFastString": "2023-02-06T23:11:42.797Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-06T23:11:42.797Z"
+  "FStringFlagRepoGitHashFastString": "892866e7087ae49f0ddf4a2ed7d46349343ae0c2",
+  "DFStringFlagRepoGitHashDynamicString": "892866e7087ae49f0ddf4a2ed7d46349343ae0c2",
+  "FStringFlipTimeStampFastString": "2023-02-06T23:21:07.329Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-06T23:21:07.329Z"
 }
