@@ -2830,7 +2830,7 @@
   "FFlagDraggerNormalizePivot": "True",
   "FFlagAXAnimationOrderFix": "True",
   "DFIntCLI64234Hundredths": "500",
-  "DFIntCLI64234Max": "0",
+  "DFIntCLI64234Max": "100000000",
   "FFlagStudioTransformToolPivotTo": "True",
   "DFFlagExposeSessionToContentProvider": "True",
   "DFFlagTerrain_UnpackOnDemand_FastLoad": "True",
@@ -3292,9 +3292,7 @@
   "FFlagUpdateProximityPromptXboxButtonImages": "True",
   "FFlagDevFrameworkSelector": "True",
   "FFlagSocialAddGameJoinSource": "True",
-  "FFlagRemoveBtManifoldArray": "True",
-  "FFlagUserFixCameraPanAfterShiftLock": "False",
-  "FFlagAvatarEditorServiceRecommendationsV2API2": "True",
+  "FFlagDraggerShouldBufferSelectionSignals": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3500,8 +3498,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "015d1995c2625f741a745ff5a6caccd48ffdfad7",
-  "DFStringFlagRepoGitHashDynamicString": "015d1995c2625f741a745ff5a6caccd48ffdfad7",
-  "FStringFlipTimeStampFastString": "2023-02-06T19:56:11.806Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-06T19:56:11.806Z"
+  "FStringFlagRepoGitHashFastString": "5e567862d453d3fb1e9ae813d06eb574d7872d9e",
+  "DFStringFlagRepoGitHashDynamicString": "5e567862d453d3fb1e9ae813d06eb574d7872d9e",
+  "FStringFlipTimeStampFastString": "2023-02-06T20:14:26.592Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-06T20:14:26.592Z"
 }
