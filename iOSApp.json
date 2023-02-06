@@ -2727,7 +2727,7 @@
   "DFIntStudioReportLuauTypeErrorsInfluxHundredthsPercentage": "100",
   "FFlagStudioReportLuauTypeErrors": "True",
   "FFlagPackageInplaceUpdateRemovalFix": "True",
-  "FFlagEnable32BitArchSunset": "True",
+  "FFlagEnable32BitArchSunset": "False",
   "FFlagDisableRegularLoginForVRAppV2": "True",
   "FFlagDisableAttachmentPropChangeSignalIfNotChanged": "True",
   "DFFlagEnableRefactorGetRenderingTarget": "True",
@@ -3296,6 +3296,7 @@
   "FFlagFixVirtualEventsChannelCasing": "True",
   "FFlagHardcodeChannelForVirtualEventVisits": "True",
   "FFlagShowClientFirstInFacePile": "True",
+  "FFlagAvatarEditorServiceRecommendationsV2API2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3601,8 +3602,8 @@
   "FFlagProfileQRCodeReducerEnabled_v1": "True",
   "FFlagProfileQRCodeEnableExperiment": "True",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
-  "FStringFlagRepoGitHashFastString": "0fd9d2fb533000799cc07b1bcb7497f36e987740",
-  "DFStringFlagRepoGitHashDynamicString": "0fd9d2fb533000799cc07b1bcb7497f36e987740",
-  "FStringFlipTimeStampFastString": "2023-02-06T20:54:26.210Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-06T20:54:26.210Z"
+  "FStringFlagRepoGitHashFastString": "157dbeb164bf7664c674adff901256f35ff8f12c",
+  "DFStringFlagRepoGitHashDynamicString": "157dbeb164bf7664c674adff901256f35ff8f12c",
+  "FStringFlipTimeStampFastString": "2023-02-06T21:02:19.583Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-06T21:02:19.583Z"
 }
