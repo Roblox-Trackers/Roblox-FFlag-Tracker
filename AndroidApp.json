@@ -3294,6 +3294,7 @@
   "FFlagSocialAddGameJoinSource": "True",
   "FFlagDraggerShouldBufferSelectionSignals": "True",
   "FFlagFixVirtualEventsChannelCasing": "True",
+  "FFlagHardcodeChannelForVirtualEventVisits": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3638,8 +3639,8 @@
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedAndroid",
   "FFlagProfileQRCodeReducerEnabled_v1": "True",
   "FFlagProfileQRCodeEnableExperiment": "True",
-  "FStringFlagRepoGitHashFastString": "1f0f8d3588594fbd77433b8f845fe190467b0605",
-  "DFStringFlagRepoGitHashDynamicString": "1f0f8d3588594fbd77433b8f845fe190467b0605",
-  "FStringFlipTimeStampFastString": "2023-02-06T20:52:19.080Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-06T20:52:19.080Z"
+  "FStringFlagRepoGitHashFastString": "53a70c36fc59234916a15ba4e7467fdc56dfa73d",
+  "DFStringFlagRepoGitHashDynamicString": "53a70c36fc59234916a15ba4e7467fdc56dfa73d",
+  "FStringFlipTimeStampFastString": "2023-02-06T20:54:07.595Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-06T20:54:07.595Z"
 }
