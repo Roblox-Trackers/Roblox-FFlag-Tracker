@@ -3287,6 +3287,9 @@
   "DFIntDevMovementChangedThrottleHundrethsPercent": "50",
   "FFlagEnableClickToMoveUsageTelemetry": "True",
   "FFlagLuaAppRefactorOmniRecsSortContents": "True",
+  "FFlagModelStreamingMode4": "True",
+  "FFlagPersistentModels": "True",
+  "FFlagPersistentPerPlayer2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3531,13 +3534,10 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FFlagModelStreamingMode4": "True",
-  "FFlagPersistentModels": "True",
-  "FFlagPersistentPerPlayer2": "True",
   "FStringProfileQRPageLoad": "ProfileQRPageLoadWindowsClient",
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "05c4ac37062a821e7699b18d628b80448d5c585a",
-  "DFStringFlagRepoGitHashDynamicString": "05c4ac37062a821e7699b18d628b80448d5c585a",
-  "FStringFlipTimeStampFastString": "2023-02-06T18:22:34.834Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-06T18:22:34.834Z"
+  "FStringFlagRepoGitHashFastString": "392ba75ffacb77826dd0457d21531503baf5e890",
+  "DFStringFlagRepoGitHashDynamicString": "392ba75ffacb77826dd0457d21531503baf5e890",
+  "FStringFlipTimeStampFastString": "2023-02-06T18:43:36.252Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-06T18:43:36.252Z"
 }
