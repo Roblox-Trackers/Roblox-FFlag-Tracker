@@ -3267,7 +3267,7 @@
   "FFlagOnlyRecordRegistryResetWhenReset": "True",
   "DFFlagPathfindingStatsPerRequestThrottlePerRequest": "True",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerRequest": "1",
-  "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerSession": "1",
+  "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerSession": "10000",
   "DFFlagSimCollectConstraintInfo3": "True",
   "DFIntSimConstraintDataCollectionRate3": "10000",
   "FFlagStudioExternalPKCEWithNoWebView": "True",
@@ -3542,8 +3542,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "058d2910ca89313ea16eceb2d90b71773b371db4",
-  "DFStringFlagRepoGitHashDynamicString": "058d2910ca89313ea16eceb2d90b71773b371db4",
-  "FStringFlipTimeStampFastString": "2023-02-07T22:58:46.692Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-07T22:58:46.692Z"
+  "FStringFlagRepoGitHashFastString": "cd902c1b8e6e2421f3912a911060e83eb8ca7802",
+  "DFStringFlagRepoGitHashDynamicString": "cd902c1b8e6e2421f3912a911060e83eb8ca7802",
+  "FStringFlipTimeStampFastString": "2023-02-07T23:16:52.128Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-07T23:16:52.128Z"
 }
