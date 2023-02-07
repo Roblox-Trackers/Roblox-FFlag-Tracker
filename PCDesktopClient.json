@@ -3335,6 +3335,8 @@
   "FFlagSupportGameJoinQueue": "True",
   "FFlagAXAlternateLandingPageIXPEnabledV2": "True",
   "FFlagCleanupRoactChatLoader": "True",
+  "DFFlagReportPrefetchRequestAbandon": "True",
+  "DFIntReportPrefetchRequestAbandonHundredths": "1000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3581,8 +3583,8 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FStringProfileQRPageLoad": "ProfileQRPageLoadWindowsClient",
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "c0851b47d28d7af800f75de13484df475b393072",
-  "DFStringFlagRepoGitHashDynamicString": "c0851b47d28d7af800f75de13484df475b393072",
-  "FStringFlipTimeStampFastString": "2023-02-07T22:34:59.517Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-07T22:34:59.517Z"
+  "FStringFlagRepoGitHashFastString": "058df78225c95e74a7793646e1c7c81d2faff07b",
+  "DFStringFlagRepoGitHashDynamicString": "058df78225c95e74a7793646e1c7c81d2faff07b",
+  "FStringFlipTimeStampFastString": "2023-02-07T22:44:36.011Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-07T22:44:36.011Z"
 }
