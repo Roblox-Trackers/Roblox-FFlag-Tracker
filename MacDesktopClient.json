@@ -3326,6 +3326,8 @@
   "FFlagAvatarEditorServiceSupportsATCData": "True",
   "FFlagReworkFileWatcherWin32": "True",
   "FFlagLocalizationTableCustomDiff": "True",
+  "FFlagTrackMacWebLaunchFlow": "True",
+  "FFlagTrackWinWebLaunchFlow": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3564,8 +3566,8 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FStringProfileQRPageLoad": "ProfileQRPageLoadMacClient",
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedMacClient",
-  "FStringFlagRepoGitHashFastString": "c4a5cb387af6748c61a8b2586d79d86888063972",
-  "DFStringFlagRepoGitHashDynamicString": "c4a5cb387af6748c61a8b2586d79d86888063972",
-  "FStringFlipTimeStampFastString": "2023-02-07T20:17:26.389Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-07T20:17:26.389Z"
+  "FStringFlagRepoGitHashFastString": "130f28b2c054bcbd62736463d96f52b95d049d1f",
+  "DFStringFlagRepoGitHashDynamicString": "130f28b2c054bcbd62736463d96f52b95d049d1f",
+  "FStringFlipTimeStampFastString": "2023-02-07T20:24:14.643Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-07T20:24:14.643Z"
 }
