@@ -1689,8 +1689,6 @@
   "DFFlagEnableDynamicHeadByDefault": "True",
   "DFIntDynamicHeadsEnablingChoiceEventThrottleHundrethsPercent": "10000",
   "FFlagHasSkinnedMeshOverrideFeature": "True",
-  "DFFlagReportDataPing2ByIP": "True",
-  "DFFlagReportDataPing2ByRPR": "True",
   "DFIntDataPing2ReportByIPInfluxHundredthsPercentage": "10000",
   "DFIntRemotePopToReadTimeReportingThresholdMS": "100",
   "DFIntServerIPAddressDataPingSelectionModuloValue": "1000",
@@ -3621,7 +3619,6 @@
   "FFlagOffNetworkFriendingEnabled_3": "True",
   "FIntLuaAppGameExperienceGuidelinesRollout6": "100",
   "FFlagEnableHomePageUpsellCardRelease6": "True",
-  "DFFlagReportDataPing2": "True",
   "FFlagReportSentPageV2Enabled": "False",
   "FFlagUseMediumpMetal": "True",
   "FFlagPYMKExperimentSetup_v6": "True",
@@ -3654,8 +3651,8 @@
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailediOS",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
   "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "true",
-  "FStringFlagRepoGitHashFastString": "f77424228de4c39e023e5a140eb2d567fcfcc454",
-  "DFStringFlagRepoGitHashDynamicString": "f77424228de4c39e023e5a140eb2d567fcfcc454",
-  "FStringFlipTimeStampFastString": "2023-02-08T18:12:34.272Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-08T18:12:34.272Z"
+  "FStringFlagRepoGitHashFastString": "911faea6e8c1beba520dd20929ff4e9d9a8fb0e6",
+  "DFStringFlagRepoGitHashDynamicString": "911faea6e8c1beba520dd20929ff4e9d9a8fb0e6",
+  "FStringFlipTimeStampFastString": "2023-02-08T18:19:50.936Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-08T18:19:50.936Z"
 }

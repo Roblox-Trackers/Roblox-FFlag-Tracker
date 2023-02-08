@@ -1689,8 +1689,6 @@
   "DFFlagEnableDynamicHeadByDefault": "True",
   "DFIntDynamicHeadsEnablingChoiceEventThrottleHundrethsPercent": "10000",
   "FFlagHasSkinnedMeshOverrideFeature": "True",
-  "DFFlagReportDataPing2ByIP": "True",
-  "DFFlagReportDataPing2ByRPR": "True",
   "DFIntDataPing2ReportByIPInfluxHundredthsPercentage": "10000",
   "DFIntRemotePopToReadTimeReportingThresholdMS": "100",
   "DFIntServerIPAddressDataPingSelectionModuloValue": "1000",
@@ -3544,15 +3542,14 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "DFIntDataPing2ReportThresholdMs": "10000",
   "DFIntDataPing2ReportThrottleSeconds": "2",
-  "DFFlagReportDataPing2": "True",
   "FFlagUpdateAppShellBalance": "True",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage": "50",
   "DFFlagReportDataPing2ByRPRAndIPPointFix": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "f77424228de4c39e023e5a140eb2d567fcfcc454",
-  "DFStringFlagRepoGitHashDynamicString": "f77424228de4c39e023e5a140eb2d567fcfcc454",
-  "FStringFlipTimeStampFastString": "2023-02-08T18:12:34.272Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-08T18:12:34.272Z"
+  "FStringFlagRepoGitHashFastString": "911faea6e8c1beba520dd20929ff4e9d9a8fb0e6",
+  "DFStringFlagRepoGitHashDynamicString": "911faea6e8c1beba520dd20929ff4e9d9a8fb0e6",
+  "FStringFlipTimeStampFastString": "2023-02-08T18:19:50.936Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-08T18:19:50.936Z"
 }

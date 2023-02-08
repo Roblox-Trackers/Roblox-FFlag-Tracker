@@ -1689,8 +1689,6 @@
   "DFFlagEnableDynamicHeadByDefault": "True",
   "DFIntDynamicHeadsEnablingChoiceEventThrottleHundrethsPercent": "10000",
   "FFlagHasSkinnedMeshOverrideFeature": "True",
-  "DFFlagReportDataPing2ByIP": "True",
-  "DFFlagReportDataPing2ByRPR": "True",
   "DFIntDataPing2ReportByIPInfluxHundredthsPercentage": "10000",
   "DFIntRemotePopToReadTimeReportingThresholdMS": "100",
   "DFIntServerIPAddressDataPingSelectionModuloValue": "1000",
@@ -3654,7 +3652,6 @@
   "FFlagEnableRandomRobloxChannelSelection": "True",
   "FStringClientChannelProbabilityString": "1000;ZFlag=50",
   "FFlagEnableHomePageUpsellCardRelease6": "True",
-  "DFFlagReportDataPing2": "True",
   "DFFlagAlternateMemoryPrioritizationThresholdSubset": "False",
   "DFIntAlternateMemoryPressureTriggerCriticalMB": "150",
   "DFIntAlternateMemoryPressureTriggerLowMB": "250",
@@ -3693,8 +3690,8 @@
   "FStringProfileQRPageLoad": "ProfileQRPageLoadAndroid",
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedAndroid",
   "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "true",
-  "FStringFlagRepoGitHashFastString": "f77424228de4c39e023e5a140eb2d567fcfcc454",
-  "DFStringFlagRepoGitHashDynamicString": "f77424228de4c39e023e5a140eb2d567fcfcc454",
-  "FStringFlipTimeStampFastString": "2023-02-08T18:12:34.272Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-08T18:12:34.272Z"
+  "FStringFlagRepoGitHashFastString": "911faea6e8c1beba520dd20929ff4e9d9a8fb0e6",
+  "DFStringFlagRepoGitHashDynamicString": "911faea6e8c1beba520dd20929ff4e9d9a8fb0e6",
+  "FStringFlipTimeStampFastString": "2023-02-08T18:19:50.936Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-08T18:19:50.936Z"
 }
