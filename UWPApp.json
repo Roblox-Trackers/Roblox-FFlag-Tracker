@@ -1453,7 +1453,7 @@
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "FFlagSharedStringsDistribute": "True",
   "DFFlagFixReplicatedFirstMetrics": "True",
-  "FFlagSimModelLodFixSpottyColor": "True",
+  "FFlagSimModelLodFixSpottyColor": "False",
   "DFIntOAuth2TokenHttpRequestTelemetryHundredthsPercent": "10000",
   "DFFlagReportHumanoidRigAndModelTypeIfDifferent": "True",
   "DFFlagReportHumanoidRigUpdate": "True",
@@ -3346,6 +3346,8 @@
   "FFlagStudioRefactorShareModalController": "True",
   "FFlagEnableInvitePromptLoadingState": "True",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;60;2023-02-08T00:25:33",
+  "DFIntSimModelLodVoxelNumPerAxis": "16",
+  "FFlagSimModelLodFixMarchingCubeColor": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3551,8 +3553,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "101b7aa01f617559b2ff79e98933075b7ad269dc",
-  "DFStringFlagRepoGitHashDynamicString": "101b7aa01f617559b2ff79e98933075b7ad269dc",
-  "FStringFlipTimeStampFastString": "2023-02-08T00:33:18.116Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-08T00:33:18.116Z"
+  "FStringFlagRepoGitHashFastString": "c58341b338bf754f5a594e4763a82b1b58eec706",
+  "DFStringFlagRepoGitHashDynamicString": "c58341b338bf754f5a594e4763a82b1b58eec706",
+  "FStringFlipTimeStampFastString": "2023-02-08T00:59:01.626Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-08T00:59:01.626Z"
 }
