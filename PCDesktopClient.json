@@ -2892,7 +2892,7 @@
   "FFlagEmotesSelectedCoreObjectError": "True",
   "FFlagSimSolverGeometricStiffness3_PlaceFilter": "False;8130047126",
   "DFFlagFixAddAppSessionCommonPoints": "True",
-  "FFlagSessionTelemetryApp": "True",
+  "FFlagSessionTelemetryApp": "False",
   "FFlagDisconnectLuaPropagationDuringClearSelection": "True",
   "FFlagGameSettingsFixNumberInputRow": "True",
   "FFlagBrowserServiceBridgeURLFormattingChange": "True",
@@ -3190,8 +3190,8 @@
   "FFlagStudioRemoveTeamCreateOffSetting": "True",
   "FFlagEnableSharedInviteStore": "True",
   "FFlagScreenGuiDontInsetClipRectByPadding": "True",
-  "FFlagReportInferredTelemetryWithoutBlocking": "False",
-  "FFlagReportSessionTrackingWithoutBlocking": "False",
+  "FFlagReportInferredTelemetryWithoutBlocking": "True",
+  "FFlagReportSessionTrackingWithoutBlocking": "True",
   "FFlagStreamModelLod2": "True",
   "FFlagUseAtomicPoolAllocatorInCollisionDispatcher": "True",
   "FFlagCreateHumanoidBillboardGuiIfDoesNotExist": "True",
@@ -3596,8 +3596,8 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FStringProfileQRPageLoad": "ProfileQRPageLoadWindowsClient",
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "0e439979de26acf4e01276da5939c682a641bc06",
-  "DFStringFlagRepoGitHashDynamicString": "0e439979de26acf4e01276da5939c682a641bc06",
-  "FStringFlipTimeStampFastString": "2023-02-08T19:24:28.777Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-08T19:24:28.777Z"
+  "FStringFlagRepoGitHashFastString": "4dd5e595930914f1312fba9f62783f93e20d44c6",
+  "DFStringFlagRepoGitHashDynamicString": "4dd5e595930914f1312fba9f62783f93e20d44c6",
+  "FStringFlipTimeStampFastString": "2023-02-08T19:38:40.937Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-08T19:38:40.937Z"
 }
