@@ -1453,7 +1453,6 @@
   "FFlagLuaProfileIXPEnabled_v3": "True",
   "FFlagSharedStringsDistribute": "True",
   "DFFlagFixReplicatedFirstMetrics": "True",
-  "FFlagSimModelLodFixSpottyColor": "False",
   "DFIntOAuth2TokenHttpRequestTelemetryHundredthsPercent": "10000",
   "DFFlagReportHumanoidRigAndModelTypeIfDifferent": "True",
   "DFFlagReportHumanoidRigUpdate": "True",
@@ -3345,7 +3344,6 @@
   "FFlagEnableInvitePromptLoadingState": "True",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;60;2023-02-08T00:25:33",
   "DFIntSimModelLodVoxelNumPerAxis": "16",
-  "FFlagSimModelLodFixMarchingCubeColor": "True",
   "DFFlagAESMoreOutfitMethods2": "True",
   "FFlagAvatarEditorServiceOutfitMethodsInApp": "True",
   "FFlagAvoidManualTableClone2": "True",
@@ -3654,8 +3652,8 @@
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailediOS",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
   "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "true",
-  "FStringFlagRepoGitHashFastString": "4dd5e595930914f1312fba9f62783f93e20d44c6",
-  "DFStringFlagRepoGitHashDynamicString": "4dd5e595930914f1312fba9f62783f93e20d44c6",
-  "FStringFlipTimeStampFastString": "2023-02-08T19:38:40.937Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-08T19:38:40.937Z"
+  "FStringFlagRepoGitHashFastString": "42dc38cc7f78ccbc38f3af0c2fbafd1de376a404",
+  "DFStringFlagRepoGitHashDynamicString": "42dc38cc7f78ccbc38f3af0c2fbafd1de376a404",
+  "FStringFlipTimeStampFastString": "2023-02-08T19:47:19.036Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-08T19:47:19.036Z"
 }
