@@ -3154,7 +3154,6 @@
   "FFlagGuiObjectBackgroundExtensionIncludeBorders": "True",
   "DFFlagAudioGraphLogging2": "False",
   "DFFlagAudioGraphThrottling": "False",
-  "DFFlagAudioGraphUpload": "False",
   "DFIntAudioGraphLoggingRateLimitCapacity": "1",
   "DFIntAudioGraphLoggingRateLimitDuration": "10",
   "FFlagRegisterSignalRNotifierInManager": "True",
@@ -3206,7 +3205,6 @@
   "FFlagHideGameDetailsWebViewItemsForVR": "True",
   "FFlagDisableNativeTextRenderingStateForMaquettes": "True",
   "DFFlagAudioGraphLogging2_PlaceFilter": "True;10490962267",
-  "DFFlagAudioGraphUpload_PlaceFilter": "True;10490962267",
   "FLogAudioGraph": "0",
   "FLogAudioGraph_PlaceFilter": "6;10490962267",
   "FFlagTelemetryClientCheckToClientStates": "True",
@@ -3349,6 +3347,8 @@
   "FFlagVoiceChatExposeVoiceExperienceId": "True",
   "FFlagVoiceChatExposeSessionId": "True",
   "FFlagFriendsCarouselRemoveVariant": "True",
+  "DFFlagAudioGraphUpload2": "False",
+  "DFFlagAudioGraphUpload2_PlaceFilter": "True;10490962267",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3553,8 +3553,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "0459fd262670bca6ba95c4de1d13789b970fdf4e",
-  "DFStringFlagRepoGitHashDynamicString": "0459fd262670bca6ba95c4de1d13789b970fdf4e",
-  "FStringFlipTimeStampFastString": "2023-02-08T23:33:05.610Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-08T23:33:05.610Z"
+  "FStringFlagRepoGitHashFastString": "fd92e01731457428b1c4e31142c5af909a4d555b",
+  "DFStringFlagRepoGitHashDynamicString": "fd92e01731457428b1c4e31142c5af909a4d555b",
+  "FStringFlipTimeStampFastString": "2023-02-08T23:35:54.456Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-08T23:35:54.456Z"
 }
