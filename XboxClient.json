@@ -3365,6 +3365,8 @@
   "FFlagLuauTableUnifyInstantiationFix": "True",
   "FFlagAXIXPUtilsRecordExposure": "True",
   "FFlagAXTopicsLogExposureOnFocus": "True",
+  "FFlagStudioTestInstanceSkipSaveLayout": "True",
+  "FFlagStudioInMemoryLayoutSavingLoadingUponGSTChange": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3566,8 +3568,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FFlagTeleportCallbacksAsLamda": "True",
-  "FStringFlagRepoGitHashFastString": "d7e6c6b308d9ffb941d492cf701cd91c793d10b8",
-  "DFStringFlagRepoGitHashDynamicString": "d7e6c6b308d9ffb941d492cf701cd91c793d10b8",
-  "FStringFlipTimeStampFastString": "2023-02-09T18:27:55.385Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-09T18:27:55.385Z"
+  "FStringFlagRepoGitHashFastString": "e9c6afd864425833d64ce0fbf70accecac76d88d",
+  "DFStringFlagRepoGitHashDynamicString": "e9c6afd864425833d64ce0fbf70accecac76d88d",
+  "FStringFlipTimeStampFastString": "2023-02-09T18:33:22.074Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-09T18:33:22.074Z"
 }
