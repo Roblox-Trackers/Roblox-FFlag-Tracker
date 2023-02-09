@@ -2563,7 +2563,7 @@
   "FFlagWin32CrashUploadRobloxTelemetry": "True",
   "DFFlagDebugSimTurnOnAdaptivePhysicsSteppingWithFlag2": "False",
   "DFFlagHttpCacheReduceStatic2": "True",
-  "DFIntDevProductsDetailsRollout": "40",
+  "DFIntDevProductsDetailsRollout": "60",
   "DFIntPassGetProductRollout": "40",
   "FFlagCOLLAB2602ReportNonLostConnectionDisconnects": "True",
   "FFlagLuaFetchUpdatedUserAgreementsUsingWebEndpoint": "True",
@@ -3395,6 +3395,7 @@
   "FFlagXboxCallActivateOnCoreWindow": "True",
   "FFlagRenderEnableGlobalInstancing3": "True",
   "FFlagLuaAppInfiniteHomePageFixElastic": "True",
+  "FFlagAddFriendsStatefulMoreButton": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3595,8 +3596,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "71b2e4ae60c196e4b2c83cf3638c4382fb2bb8b3",
-  "DFStringFlagRepoGitHashDynamicString": "71b2e4ae60c196e4b2c83cf3638c4382fb2bb8b3",
-  "FStringFlipTimeStampFastString": "2023-02-09T23:00:58.523Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-09T23:00:58.523Z"
+  "FStringFlagRepoGitHashFastString": "353c812c0748306b3b72c773a27ab20f3b324a1f",
+  "DFStringFlagRepoGitHashDynamicString": "353c812c0748306b3b72c773a27ab20f3b324a1f",
+  "FStringFlipTimeStampFastString": "2023-02-09T23:11:02.091Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-09T23:11:02.091Z"
 }
