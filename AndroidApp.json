@@ -3378,6 +3378,7 @@
   "FFlagSmoothClusterShorelineBorderFix": "True",
   "FFlagFixPurchasePromptInVR": "True",
   "FFlagStudioMoveFetchUserSettingsToAfterLogin2": "True",
+  "FFlagStudioUseVmallocInsteadOfMallocForOom": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3721,8 +3722,8 @@
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedAndroid",
   "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "true",
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
-  "FStringFlagRepoGitHashFastString": "89baef7b6dd7e284d5cf4d11ad13121764e3a156",
-  "DFStringFlagRepoGitHashDynamicString": "89baef7b6dd7e284d5cf4d11ad13121764e3a156",
-  "FStringFlipTimeStampFastString": "2023-02-09T20:14:51.717Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-09T20:14:51.717Z"
+  "FStringFlagRepoGitHashFastString": "5946eceff2883281e1297c574af9132b6d97db30",
+  "DFStringFlagRepoGitHashDynamicString": "5946eceff2883281e1297c574af9132b6d97db30",
+  "FStringFlipTimeStampFastString": "2023-02-09T20:16:34.754Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-09T20:16:34.754Z"
 }
