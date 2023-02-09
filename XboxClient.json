@@ -3368,6 +3368,15 @@
   "FFlagStudioTestInstanceSkipSaveLayout": "True",
   "FFlagStudioInMemoryLayoutSavingLoadingUponGSTChange": "True",
   "FFlagGetVoiceRecordingIndicatorsCameraFix": "True",
+  "DFFlagDeserializeTrackerDataOnRCC_PlaceFilter": "True;11597947993",
+  "DFFlagFacsTagInRepAndServStats_PlaceFilter": "True;11597947993",
+  "DFFlagPhysicsReceiveReportPerfData2_PlaceFilter": "True;11597947993",
+  "DFFlagTrackFacsRepInPhy_PlaceFilter": "True;11597947993",
+  "DFIntClientStatsWithFacsBWPerHundPercent_PlaceFilter": "10000;11597947993",
+  "DFIntSendReplicatorStatsFacsOverrideES_PlaceFilter": "10000;11597947993",
+  "DFIntServerStatsWithFacsReportingPerHundPercent_PlaceFilter": "10000;11597947993",
+  "FFlagFacialAnimationUsePhysicsTransport_PlaceFilter": "True;11597947993",
+  "FFlagReplicateTrackerData_Dev_PlaceFilter": "True;11597947993",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3569,8 +3578,8 @@
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FFlagTeleportCallbacksAsLamda": "True",
-  "FStringFlagRepoGitHashFastString": "e2f69c33b34a04612076ef6318cb3f639bb69cb9",
-  "DFStringFlagRepoGitHashDynamicString": "e2f69c33b34a04612076ef6318cb3f639bb69cb9",
-  "FStringFlipTimeStampFastString": "2023-02-09T18:44:49.186Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-09T18:44:49.186Z"
+  "FStringFlagRepoGitHashFastString": "46f7e5cee3166a762d8af3fde1c54a05fa88d5cd",
+  "DFStringFlagRepoGitHashDynamicString": "46f7e5cee3166a762d8af3fde1c54a05fa88d5cd",
+  "FStringFlipTimeStampFastString": "2023-02-09T19:16:22.859Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-09T19:16:22.859Z"
 }
