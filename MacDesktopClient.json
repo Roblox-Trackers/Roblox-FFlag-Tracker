@@ -3427,6 +3427,8 @@
   "FIntOpenXrMultiLayerProjectionPercent": "100",
   "FFlagMacMouseScrollingDirection": "True",
   "FFlagFixQtEventProfiling": "True",
+  "DFIntLogLaunchDataDeepLinksThrottleHundredthsPercentage": "10000",
+  "FFlagLogLaunchDataDeeplinks": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3664,8 +3666,8 @@
   "FStringProfileQRPageLoad": "ProfileQRPageLoadMacClient",
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedMacClient",
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
-  "FStringFlagRepoGitHashFastString": "4c3d3e30bd7ba7c56813688bb1841176b57fcc50",
-  "DFStringFlagRepoGitHashDynamicString": "4c3d3e30bd7ba7c56813688bb1841176b57fcc50",
-  "FStringFlipTimeStampFastString": "2023-02-13T22:04:44.649Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-13T22:04:44.649Z"
+  "FStringFlagRepoGitHashFastString": "a9a49a052562f3871bd27d900753c23f8ba8a726",
+  "DFStringFlagRepoGitHashDynamicString": "a9a49a052562f3871bd27d900753c23f8ba8a726",
+  "FStringFlipTimeStampFastString": "2023-02-13T22:18:15.252Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-13T22:18:15.252Z"
 }
