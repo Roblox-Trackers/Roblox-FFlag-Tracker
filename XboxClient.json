@@ -3447,6 +3447,7 @@
   "DFFlagDeserializeTrackerDataOnRCC": "True",
   "FFlagEnableStringListRobloxTelemetry": "True",
   "FFlagRefactorGetProgram": "True",
+  "DFFlagCheckForExpiringPrefetchRequests_Rollout": "True;60;2023-02-14T22:24:47",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3647,8 +3648,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFIntDataPing2ReportByRPRInfluxHundredthsPercentage_PlaceFilter": "10000;9588998913",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
-  "FStringFlagRepoGitHashFastString": "dff5ea7631b039188f05060576e0e00a84fa1666",
-  "DFStringFlagRepoGitHashDynamicString": "dff5ea7631b039188f05060576e0e00a84fa1666",
-  "FStringFlipTimeStampFastString": "2023-02-14T22:09:04.816Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-14T22:09:04.816Z"
+  "FStringFlagRepoGitHashFastString": "76bd5c3ba0b2d9720721accce586335a1a0aad0b",
+  "DFStringFlagRepoGitHashDynamicString": "76bd5c3ba0b2d9720721accce586335a1a0aad0b",
+  "FStringFlipTimeStampFastString": "2023-02-14T22:25:32.056Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-14T22:25:32.056Z"
 }
