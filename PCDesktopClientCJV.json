@@ -3533,6 +3533,7 @@
   "FIntConnectionIndicatorBadConnectionPingThreshold": "999999999",
   "FIntConnectionIndicatorBetaFeatureRolloutPercent": "1",
   "FIntConnectionIndicatorTryingToSaveThresholdMS": "300000",
+  "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3764,7 +3765,6 @@
   "FFlagReportSentPageV2Enabled": "True",
   "FFlagReportFirstGameInteractive": "True",
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "100",
-  "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "FFlagInGameLargerRobuxUpsellIXP": "True",
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
@@ -3773,8 +3773,8 @@
   "FStringProfileQRPageLoad": "ProfileQRPageLoadWindowsClient",
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedWindowsClient",
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
-  "FStringFlagRepoGitHashFastString": "9649a4b8e3fbdbf5f976506f1f18591088d7e85d",
-  "DFStringFlagRepoGitHashDynamicString": "9649a4b8e3fbdbf5f976506f1f18591088d7e85d",
-  "FStringFlipTimeStampFastString": "2023-02-22T23:11:45.534Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-22T23:11:45.534Z"
+  "FStringFlagRepoGitHashFastString": "0d4b2eceb20c8196f8ecd680113b0e286a7fefbb",
+  "DFStringFlagRepoGitHashDynamicString": "0d4b2eceb20c8196f8ecd680113b0e286a7fefbb",
+  "FStringFlipTimeStampFastString": "2023-02-22T23:12:38.720Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-22T23:12:38.720Z"
 }
