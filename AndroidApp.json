@@ -3538,6 +3538,8 @@
   "FFlagOffNetworkAnalytics": "True",
   "FFlagBottomBarInitialStateFixVR": "True",
   "FFlagVRCollapseUIEndsSelection": "True",
+  "FFlagEnableChildrenLockFromLua": "True",
+  "FFlagFixVRMenuAccess": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3874,8 +3876,8 @@
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagPhoneVerificationWebviewShouldBeFullscreen1": "True",
-  "FStringFlagRepoGitHashFastString": "666b96910c32489fe218fe8266b8bdbc4278d24b",
-  "DFStringFlagRepoGitHashDynamicString": "666b96910c32489fe218fe8266b8bdbc4278d24b",
-  "FStringFlipTimeStampFastString": "2023-02-22T23:44:33.863Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-22T23:44:33.863Z"
+  "FStringFlagRepoGitHashFastString": "8dfd726b2db1f542f18dc2019633a9a5633e442a",
+  "DFStringFlagRepoGitHashDynamicString": "8dfd726b2db1f542f18dc2019633a9a5633e442a",
+  "FStringFlipTimeStampFastString": "2023-02-22T23:44:49.557Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-22T23:44:49.557Z"
 }
