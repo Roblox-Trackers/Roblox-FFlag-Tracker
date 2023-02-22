@@ -3278,7 +3278,6 @@
   "FFlagProfileStatefulMoreButton": "True",
   "DFFlagReportPackageModCheckAnalytics": "True",
   "FFlagFixGameDetailsAutomaticSize": "True",
-  "FFlagUserFixCameraPanAfterShiftLock": "False",
   "FFlagBootcampADS1937": "True",
   "FFlagLuaProfileHideInvalidAssets": "True",
   "FFlagTempAXTopicsLayoutOnFocus": "True",
@@ -3521,6 +3520,12 @@
   "DFFlagCOLLAB2767UseUntranslatedErr": "True",
   "DFIntCOLLAB2632UpdatePlaceLauncherRequestStatusEnumHundredthPercent": "10000",
   "DFIntCOLLAB2767UseUntranslatedErrHundredthPercent": "10000",
+  "FFlagEnableNewMouseIconAPI": "True",
+  "FFlagCollectionServiceRemoveInstanceCrashFix": "True",
+  "DFFlagRolloutUpdateTask": "True",
+  "DFFlagTeleportAbuseDashboard": "True",
+  "DFIntTeleportAbuseEventThrottleHundredthPercent": "10000",
+  "FFlagUserVRPlaySeatedStanding": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3753,8 +3758,8 @@
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedMacClient",
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "DFFlagHttpClientCookieStoreMetrics": "True",
-  "FStringFlagRepoGitHashFastString": "59ed7c6103f482e8a9d843a5fb16eba29d8ee67e",
-  "DFStringFlagRepoGitHashDynamicString": "59ed7c6103f482e8a9d843a5fb16eba29d8ee67e",
-  "FStringFlipTimeStampFastString": "2023-02-22T22:37:17.951Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-22T22:37:17.951Z"
+  "FStringFlagRepoGitHashFastString": "051ee9f1d754b882f89adef62d6be0e99373e46c",
+  "DFStringFlagRepoGitHashDynamicString": "051ee9f1d754b882f89adef62d6be0e99373e46c",
+  "FStringFlipTimeStampFastString": "2023-02-22T22:55:59.270Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-22T22:55:59.270Z"
 }
