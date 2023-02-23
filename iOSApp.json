@@ -3283,7 +3283,7 @@
   "FFlagTempAXTopicsLayoutOnFocus": "True",
   "FFlagPredictedOOMKeepPlayingLeave": "True",
   "FFlagVideoUseThreadPool": "False",
-  "FFlagTextChatServiceIncludesColon": "True",
+  "FFlagTextChatServiceIncludesColon": "False",
   "FFlagProfileQRCodeEnableExperiment": "true",
   "FFlagProfileQRCodeReducerEnabled_v1": "true",
   "FFlagXboxExperienceJoinAttemptId": "True",
@@ -3568,6 +3568,7 @@
   "DFFlagThumbnailerFixGuiRendering": "True",
   "DFFlagStreamingSolverProperlyRefCountAncestorModels": "True",
   "FFlagLuaAppThrottleInviteSendEndpoint": "True",
+  "FFlagTextChatServiceIncludesColon_PlaceFilter": "True;9709838535",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3865,8 +3866,8 @@
   "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "true",
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "FFlagPhoneVerificationWebviewShouldBeFullscreen1": "True",
-  "FStringFlagRepoGitHashFastString": "cd410bd3aa88075e5c9bf8377d0a090efaa3b0fb",
-  "DFStringFlagRepoGitHashDynamicString": "cd410bd3aa88075e5c9bf8377d0a090efaa3b0fb",
-  "FStringFlipTimeStampFastString": "2023-02-23T17:16:12.402Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-23T17:16:12.402Z"
+  "FStringFlagRepoGitHashFastString": "d2d5ae1bdd9b5308ebf1c439fb427ccabcdeb623",
+  "DFStringFlagRepoGitHashDynamicString": "d2d5ae1bdd9b5308ebf1c439fb427ccabcdeb623",
+  "FStringFlipTimeStampFastString": "2023-02-23T17:18:37.893Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-23T17:18:37.893Z"
 }
