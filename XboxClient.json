@@ -3454,7 +3454,7 @@
   "FFlagVoiceChatAddSidToServiceInit": "True",
   "FFlagVoiceChatStatsJoinSubsOnUsersError": "True",
   "FFlagUseWeakRefForVRContext": "True",
-  "FFlagAICOInverseTrigger": "True",
+  "FFlagAICOInverseTrigger": "False",
   "FFlagPrintClientInfoOnStartup": "True",
   "FFlagFixServerInfoLocalization": "True",
   "FFlagLuaAppSaveThemeForCachedUser": "False",
@@ -3609,6 +3609,7 @@
   "DFIntImmersiveAdServingRequestEventThrottleHundrethsPercent": "10000",
   "DFIntImmersiveAdServingEventThrottleHundrethsPercent": "10000",
   "FFlagRemoveXboxPlaceLauncherEnum": "True",
+  "FFlagAICOInverseTrigger2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3805,8 +3806,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "2dbca666cb0c04e4f6762d92e23ba9e0306d32a6",
-  "DFStringFlagRepoGitHashDynamicString": "2dbca666cb0c04e4f6762d92e23ba9e0306d32a6",
-  "FStringFlipTimeStampFastString": "2023-02-23T22:43:20.819Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-23T22:43:20.819Z"
+  "FStringFlagRepoGitHashFastString": "226d73031477aeae22bf5e2f3f614a36d7a0018f",
+  "DFStringFlagRepoGitHashDynamicString": "226d73031477aeae22bf5e2f3f614a36d7a0018f",
+  "FStringFlipTimeStampFastString": "2023-02-23T22:51:45.428Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-23T22:51:45.428Z"
 }
