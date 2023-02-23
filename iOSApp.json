@@ -3388,7 +3388,6 @@
   "FFlagLuauCheckGetInfoIndex": "True",
   "DFFlagTeleportTimeClientLoaded": "True",
   "DFIntDataSenderMaxBandwidthBps_DataCenterFilter": "426360;374",
-  "DFFlagFixVector3Slerp_PlaceFilter": "True;11253464533;10404927539;11591468533",
   "FFlagFixOmniDefaultPolicy": "True",
   "FFlagAinCorrectExpectedRequestCount": "True",
   "FFlagTerrainToolsSliderTheme": "True",
@@ -3568,6 +3567,12 @@
   "DFFlagStreamingSolverProperlyRefCountAncestorModels": "True",
   "FFlagLuaAppThrottleInviteSendEndpoint": "True",
   "FFlagTextChatServiceIncludesColon_PlaceFilter": "True;9709838535",
+  "DFFlagFixVector3Slerp": "True",
+  "DFFlagIkControlTelemetryEnabled": "True",
+  "DFFlagSmoothDampImprovements": "True",
+  "DFIntIkControlTelemetryEventsThrottleHundrethsPercent": "10000",
+  "DFFlagFinalizeDeformerImplNonUnitFix": "True",
+  "DFFlagQuaternionFromDirections": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3865,8 +3870,8 @@
   "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "true",
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "FFlagPhoneVerificationWebviewShouldBeFullscreen1": "True",
-  "FStringFlagRepoGitHashFastString": "f7fc7efd5e76ca0859bd57fd4e814c31930a2e9e",
-  "DFStringFlagRepoGitHashDynamicString": "f7fc7efd5e76ca0859bd57fd4e814c31930a2e9e",
-  "FStringFlipTimeStampFastString": "2023-02-23T17:27:53.740Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-23T17:27:53.740Z"
+  "FStringFlagRepoGitHashFastString": "27ad8bee91075ae371a56de8ea71f854fce0c2ac",
+  "DFStringFlagRepoGitHashDynamicString": "27ad8bee91075ae371a56de8ea71f854fce0c2ac",
+  "FStringFlipTimeStampFastString": "2023-02-23T17:34:04.957Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-23T17:34:04.957Z"
 }
