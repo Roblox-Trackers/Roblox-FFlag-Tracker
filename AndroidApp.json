@@ -2545,7 +2545,7 @@
   "DFIntAnimationRateLimiterSeconds": "20",
   "FFlagLuaAppAddLoggingParams": "True",
   "FStringLuaIXPLayersSuppressMutedError": "AvatarMarketplace.RecommendationsAndSearch.Mobile",
-  "FIntStudioPluginOTATimerIntervalSeconds": "600",
+  "FIntStudioPluginOTATimerIntervalSeconds": "10",
   "FFlagHandleFrameSize1Velocity": "True",
   "DFFlagCFramePropertyFix": "True",
   "DFFlagExposeCFramePVInstanceFix": "True",
@@ -3947,8 +3947,8 @@
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagPhoneVerificationWebviewShouldBeFullscreen1": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "8c53d43c1c382965379053d2fa5f6316d0bc98ce",
-  "DFStringFlagRepoGitHashDynamicString": "8c53d43c1c382965379053d2fa5f6316d0bc98ce",
-  "FStringFlipTimeStampFastString": "2023-02-24T00:59:19.749Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-24T00:59:19.749Z"
+  "FStringFlagRepoGitHashFastString": "aa557d0fa85346d31f47f4975d96db9d69d6d529",
+  "DFStringFlagRepoGitHashDynamicString": "aa557d0fa85346d31f47f4975d96db9d69d6d529",
+  "FStringFlipTimeStampFastString": "2023-02-24T01:05:54.251Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-24T01:05:54.251Z"
 }
