@@ -5,7 +5,7 @@
   "UseCdn": "True",
   "FFlagWindowsLaunchTypeAnalytics": "True",
   "FFlagBootstrapperQuitOnDirectXExpiration": "False",
-  "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4,zqtcanary,Zfeatureupgrade-libyuv-bento4",
+  "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4,zqtcanary,Zfeatureupgrade-libyuv-bento4,ZfeatureLUATOOLS-121-rbxpMoonbeamReleaseTest",
   "FFlagBootstrapperSaveOptOutDUAR": "True",
   "FFlagBootstrapperAutoOptIn": "True",
   "FIntBootstrapperInfluxReportHundredthPercentage": "100",
@@ -37,8 +37,8 @@
   "FStringClientChannelProbabilityString": "1000;ZFlag=50",
   "FFlagBootstrapperCheckOSBitPreReq": "True",
   "FIntWin32BitClientDeprecationLevel": "1",
-  "FStringFlagRepoGitHashFastString": "aa557d0fa85346d31f47f4975d96db9d69d6d529",
-  "DFStringFlagRepoGitHashDynamicString": "aa557d0fa85346d31f47f4975d96db9d69d6d529",
-  "FStringFlipTimeStampFastString": "2023-02-24T01:05:54.251Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-24T01:05:54.251Z"
+  "FStringFlagRepoGitHashFastString": "6fb1ec10536b143e3563cb89182a7193d00e16e9",
+  "DFStringFlagRepoGitHashDynamicString": "6fb1ec10536b143e3563cb89182a7193d00e16e9",
+  "FStringFlipTimeStampFastString": "2023-02-24T01:09:18.166Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-24T01:09:18.166Z"
 }
