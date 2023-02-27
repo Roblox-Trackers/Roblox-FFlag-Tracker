@@ -2698,7 +2698,7 @@
   "DFFlagGranularDeserializeTestingFixture": "True",
   "FFlagDisableTouchForAndroidVR": "True",
   "FFlagFakeMouseInputForVR": "True",
-  "FFlagExplorerSearchResultsBetaFeature": "True",
+  "FFlagExplorerSearchResultsBetaFeature": "False",
   "DFFlagProperlyIgnoreStalePrefetchTerrain": "True",
   "FFlagDeprecateCGIWarning1": "True",
   "DFFlagEnablePlacementInformation": "True",
@@ -3625,6 +3625,9 @@
   "FFlagBootcampCLI67212": "True",
   "FFlagSelectionOutlineCleanUpOnServiceProviderChange": "True",
   "FFlagACEMigrateContextMenu2": "True",
+  "FFlagDisableHierarchyItemBulkSelectOnFilter": "True",
+  "FFlagEnableSelectItemsInExplorerCommand": "True",
+  "FFlagExpandAllEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3824,8 +3827,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "8b5fad78332bcea495913951c3be4c7a5fa24968",
-  "DFStringFlagRepoGitHashDynamicString": "8b5fad78332bcea495913951c3be4c7a5fa24968",
-  "FStringFlipTimeStampFastString": "2023-02-27T17:51:19.425Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-27T17:51:19.425Z"
+  "FStringFlagRepoGitHashFastString": "c89eb0daa66ff40f2e32053c71e82ba3d5c53c10",
+  "DFStringFlagRepoGitHashDynamicString": "c89eb0daa66ff40f2e32053c71e82ba3d5c53c10",
+  "FStringFlipTimeStampFastString": "2023-02-27T17:59:23.606Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-27T17:59:23.606Z"
 }
