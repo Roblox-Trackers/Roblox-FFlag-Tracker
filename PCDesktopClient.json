@@ -3196,7 +3196,7 @@
   "DFIntAbuseReportV1Percentage": "0",
   "FFlagReportThemeData": "True",
   "FFlagStudioDetectCorruptRefactorAndNewAlgorithm": "True",
-  "FIntCorruptPanelTopLeftLeeway": "30",
+  "FIntCorruptPanelTopLeftLeeway": "45",
   "FFlagSelectionOutlineIncludeFolderInstance": "True",
   "FFlagBulkPropertyEditTelemetry": "False",
   "FFlagServiceInstanceInsertTelemetry": "True",
@@ -3655,6 +3655,7 @@
   "DFFlagShouldMuteDMBeforeClosing2": "True",
   "FFlagEnableClickToMoveUsageTelemetry2": "True",
   "FFlagNavigationAnalyticsSessionId": "True",
+  "FFlagDetectBothTopLeftStudioAndWindows": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3895,8 +3896,8 @@
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedWindowsClient",
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222",
-  "FStringFlagRepoGitHashFastString": "f0537bacdaa19fdfcd3479f7868d7b002cc69790",
-  "DFStringFlagRepoGitHashDynamicString": "f0537bacdaa19fdfcd3479f7868d7b002cc69790",
-  "FStringFlipTimeStampFastString": "2023-02-27T21:24:22.259Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-27T21:24:22.259Z"
+  "FStringFlagRepoGitHashFastString": "d6b28d4d2b38c1af4c89eb4571fc9d8f436d9a71",
+  "DFStringFlagRepoGitHashDynamicString": "d6b28d4d2b38c1af4c89eb4571fc9d8f436d9a71",
+  "FStringFlipTimeStampFastString": "2023-02-27T21:26:06.739Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-27T21:26:06.739Z"
 }
