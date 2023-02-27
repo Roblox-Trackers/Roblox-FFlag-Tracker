@@ -3508,9 +3508,9 @@
   "DFFlagEnableUniverseIdInServingRequest": "True",
   "FFlagToolboxFixPluginCreatorEarningsPrice": "True",
   "DFFlagCOLLAB2632UpdatePlaceLauncherRequestStatusEnum": "True",
-  "DFFlagCOLLAB2767UseUntranslatedErr": "True",
+  "DFFlagCOLLAB2767UseUntranslatedErr": "False",
   "DFIntCOLLAB2632UpdatePlaceLauncherRequestStatusEnumHundredthPercent": "10000",
-  "DFIntCOLLAB2767UseUntranslatedErrHundredthPercent": "10000",
+  "DFIntCOLLAB2767UseUntranslatedErrHundredthPercent": "0",
   "FFlagEnableNewMouseIconAPI": "True",
   "FFlagCollectionServiceRemoveInstanceCrashFix": "True",
   "DFFlagRolloutUpdateTask": "True",
@@ -3878,8 +3878,8 @@
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedWindowsClient",
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222",
-  "FStringFlagRepoGitHashFastString": "93f5a71af57a8024557df7bc43f10eba4956aa47",
-  "DFStringFlagRepoGitHashDynamicString": "93f5a71af57a8024557df7bc43f10eba4956aa47",
-  "FStringFlipTimeStampFastString": "2023-02-27T18:56:30.496Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-27T18:56:30.496Z"
+  "FStringFlagRepoGitHashFastString": "eb8e55833f000963e5a16a32259624f5776ec8e1",
+  "DFStringFlagRepoGitHashDynamicString": "eb8e55833f000963e5a16a32259624f5776ec8e1",
+  "FStringFlipTimeStampFastString": "2023-02-27T19:08:51.429Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-27T19:08:51.429Z"
 }
