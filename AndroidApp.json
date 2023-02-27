@@ -3656,6 +3656,7 @@
   "FFlagEnableClickToMoveUsageTelemetry2": "True",
   "FFlagNavigationAnalyticsSessionId": "True",
   "FFlagDetectBothTopLeftStudioAndWindows": "True",
+  "FFlagStudioStopQueryingAudioServiceStatusOnStartup": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3993,8 +3994,8 @@
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagPhoneVerificationWebviewShouldBeFullscreen1": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "73699fb16791517adc26e69b2b71432437a5c8fb",
-  "DFStringFlagRepoGitHashDynamicString": "73699fb16791517adc26e69b2b71432437a5c8fb",
-  "FStringFlipTimeStampFastString": "2023-02-27T21:33:35.455Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-27T21:33:35.455Z"
+  "FStringFlagRepoGitHashFastString": "b0f4f22af8cb7b84dbbdf3f34608c36449083088",
+  "DFStringFlagRepoGitHashDynamicString": "b0f4f22af8cb7b84dbbdf3f34608c36449083088",
+  "FStringFlipTimeStampFastString": "2023-02-27T21:39:58.992Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-27T21:39:58.992Z"
 }
