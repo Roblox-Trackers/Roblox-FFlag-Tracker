@@ -2531,7 +2531,7 @@
   "FFlagEnableStudioPluginOTAForInternalUsers": "True",
   "FFlagCoExperienceTelemXbox": "True",
   "FFlagLuaAppMigrateUnreadMessages": "True",
-  "FIntPluginOTAAnalyticsHundredthsPercentage": "10000",
+  "FIntPluginOTAAnalyticsHundredthsPercentage": "2000",
   "FIntPluginOTADeploymentAnalyticsHundredthsPercentage": "10000",
   "FIntPluginOTAErrorAnalyticsHundredthsPercentage": "10000",
   "FFlagEnablePrefetchProtocol": "True",
@@ -3889,8 +3889,8 @@
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "DFFlagHttpClientCookieStoreMetrics": "True",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222",
-  "FStringFlagRepoGitHashFastString": "b0f4f22af8cb7b84dbbdf3f34608c36449083088",
-  "DFStringFlagRepoGitHashDynamicString": "b0f4f22af8cb7b84dbbdf3f34608c36449083088",
-  "FStringFlipTimeStampFastString": "2023-02-27T21:39:58.992Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-27T21:39:58.992Z"
+  "FStringFlagRepoGitHashFastString": "1e41a8c73243b18193b76469ee348cc37a224b81",
+  "DFStringFlagRepoGitHashDynamicString": "1e41a8c73243b18193b76469ee348cc37a224b81",
+  "FStringFlipTimeStampFastString": "2023-02-27T21:41:12.459Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-27T21:41:12.459Z"
 }
