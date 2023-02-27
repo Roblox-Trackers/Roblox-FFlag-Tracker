@@ -3661,6 +3661,7 @@
   "DFFlagContentProviderFontFamilyNotInWaitingQueue": "True",
   "FFlagGuiServiceUseAspectRatioForSafeAreaInsetModification": "True",
   "FFlagLuaAppGridPageLayoutPolicy": "True",
+  "FFlagSimRefactorPhysicalConfigDataHeaderSerialization": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3893,8 +3894,9 @@
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "DFFlagHttpClientCookieStoreMetrics": "True",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;5289509545",
-  "FStringFlagRepoGitHashFastString": "5d802d688af5c8e7b112c8ae63350914ab7f6dcf",
-  "DFStringFlagRepoGitHashDynamicString": "5d802d688af5c8e7b112c8ae63350914ab7f6dcf",
-  "FStringFlipTimeStampFastString": "2023-02-27T23:20:42.469Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-27T23:20:42.469Z"
+  "DFFlagCookieStoreEnabledMac": "True",
+  "FStringFlagRepoGitHashFastString": "0d11d80cd0b6c0179d669da0005e15ccc3ea944f",
+  "DFStringFlagRepoGitHashDynamicString": "0d11d80cd0b6c0179d669da0005e15ccc3ea944f",
+  "FStringFlipTimeStampFastString": "2023-02-27T23:21:43.731Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-27T23:21:43.731Z"
 }
