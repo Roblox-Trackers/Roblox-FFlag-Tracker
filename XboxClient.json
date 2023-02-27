@@ -3444,7 +3444,7 @@
   "FFlagLoadMetalLibFromiOSFramework": "True",
   "DFFlagDataStore2IfNoneMatchHeaderFix": "True",
   "FFlagSimModelLodUseSmallerMesh": "True",
-  "FIntPromiseMigrateTo0_3_4Rollout": "75",
+  "FIntPromiseMigrateTo0_3_4Rollout": "100",
   "FFlagStudioMoveFetchUserSettingsToAfterLogin2": "True",
   "FFlagUserDynamicThumbstickSafeAreaUpdate": "False",
   "FFlagVoiceChatAddSidToServiceInit": "True",
@@ -3640,6 +3640,7 @@
   "EnableMaquettesUserAgent": "True",
   "EnableGamePurchaseManager": "True",
   "FFlagSocialOnboardingExperimentEnabled_v2": "True",
+  "FFlagProfileQRCodeCoreFeaturesEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3836,8 +3837,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "1ee6f32f06880a5cf8dd971dcf3e1a10b28a69de",
-  "DFStringFlagRepoGitHashDynamicString": "1ee6f32f06880a5cf8dd971dcf3e1a10b28a69de",
-  "FStringFlipTimeStampFastString": "2023-02-27T19:25:44.578Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-27T19:25:44.578Z"
+  "FStringFlagRepoGitHashFastString": "1b77670d19f063803a1be4aff05409f00b3739be",
+  "DFStringFlagRepoGitHashDynamicString": "1b77670d19f063803a1be4aff05409f00b3739be",
+  "FStringFlipTimeStampFastString": "2023-02-27T19:28:24.967Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-27T19:28:24.967Z"
 }
