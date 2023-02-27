@@ -1714,7 +1714,7 @@
   "DFFlagPredictedOOMMessageKeepPlayingExit": "True",
   "DFIntPredictedOOMExitContinuePercent": "10",
   "DFIntFaceTrackingLod": "-1",
-  "FFlagRenderVulkanResizeFix": "False",
+  "FFlagRenderVulkanResizeFix": "True",
   "DFFlagDynamicHeadsLoading2": "True",
   "FFlagExperienceChatTopBarVisibilityFix": "True",
   "FFlagExperienceChatShowChatOnFocusKeybind": "True",
@@ -3633,7 +3633,7 @@
   "FFlagStopRequestingExistingPermission": "True",
   "FFlagSimModelLodFixSpottyColor": "False",
   "FFlagSimCSGV3SeparateDetachedCoplanarGraphs": "True",
-  "FFlagXBoxMutexPeopleEntryArray": "True",
+  "FFlagXBoxMutexPeopleEntryArray": "False",
   "DFFlagReportJoinStructureMismatchOnly_Rollout": "True;60;2023-02-27T18:54:19",
   "DFFlagSetStreamingEnabledTag_Rollout": "True;60;2023-02-27T18:54:49",
   "EnableMaquettesUserAgent": "True",
@@ -3967,8 +3967,8 @@
   "FFlagPhoneVerificationWebviewShouldBeFullscreen1": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222",
-  "FStringFlagRepoGitHashFastString": "fa1e4ec0b6cfa6946e05abadeca489106c5819f4",
-  "DFStringFlagRepoGitHashDynamicString": "fa1e4ec0b6cfa6946e05abadeca489106c5819f4",
-  "FStringFlipTimeStampFastString": "2023-02-27T23:39:39.817Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-27T23:39:39.817Z"
+  "FStringFlagRepoGitHashFastString": "db5ab2416821da604971448cb65b2a64f89462d7",
+  "DFStringFlagRepoGitHashDynamicString": "db5ab2416821da604971448cb65b2a64f89462d7",
+  "FStringFlipTimeStampFastString": "2023-02-27T23:48:15.186Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-27T23:48:15.186Z"
 }
