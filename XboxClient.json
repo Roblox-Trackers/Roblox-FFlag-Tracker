@@ -3695,6 +3695,7 @@
   "FFlagIncrementalPatchBuilderSerializationDuration": "True",
   "FFlagPipelineParseFilesystemStepRulesFix": "True",
   "FFlagFixScreenGuiUIScaleClipping": "True",
+  "FFlagFirstGuiLayerCollectorAncestorControlsClipping": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3891,8 +3892,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "674c2b131ce0bd7f4cb3e403cf582f4162a257e2",
-  "DFStringFlagRepoGitHashDynamicString": "674c2b131ce0bd7f4cb3e403cf582f4162a257e2",
-  "FStringFlipTimeStampFastString": "2023-02-28T22:07:19.354Z",
-  "DFStringFlipTimeStampDynamicString": "2023-02-28T22:07:19.354Z"
+  "FStringFlagRepoGitHashFastString": "c520086be2e307f83179bbe8d42a749845e17972",
+  "DFStringFlagRepoGitHashDynamicString": "c520086be2e307f83179bbe8d42a749845e17972",
+  "FStringFlipTimeStampFastString": "2023-02-28T22:08:21.793Z",
+  "DFStringFlipTimeStampDynamicString": "2023-02-28T22:08:21.793Z"
 }
