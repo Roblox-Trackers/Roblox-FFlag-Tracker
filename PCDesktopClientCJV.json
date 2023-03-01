@@ -1266,7 +1266,7 @@
   "FFlagHSRVisualization": "True",
   "FFlagUserAtomicCharacterSounds2": "True",
   "FFlagVoiceServiceEnableDefaultVoice": "True",
-  "DFFlagReportStreamingPauseStatsWhenPauseIsDisabled": "True",
+  "DFFlagReportStreamingPauseStatsWhenPauseIsDisabled": "False",
   "FFlagCSGMeshDisableWriteHash": "False",
   "FFlagCSGMeshDisableWriteHash_PlaceFilter": "True;8793627382;8793618616;9185091595",
   "FFlagWhitelistFollowingsAndBadgesEndpoints": "True",
@@ -3350,7 +3350,7 @@
   "FFlagFixPurchasePromptInVR": "True",
   "FFlagStudioUseVmallocInsteadOfMallocForOom": "True",
   "FFlagAXRefactorGetCategoryInfo": "True",
-  "FFlagInvestigateNOUCrash": "False",
+  "FFlagInvestigateNOUCrash": "True",
   "FFlagSmoothClusterAsyncUpload": "True",
   "FFlagSmoothClusterGrassTasks": "True",
   "FFlagSmoothClusterTasks4": "True",
@@ -3721,6 +3721,7 @@
   "DFFlagPersistentJoinNoCharacter": "True",
   "DFFlagHttpTraceErrorCurrentUrl": "True",
   "FFlagAnimationRetargetOnImport": "True",
+  "FFlagFixAttachmentCrashCleanUpConstraint2_PlaceFilter": "False;537413528",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3960,8 +3961,8 @@
   "FStringProfileQRPageLoad": "ProfileQRPageLoadWindowsClient",
   "FStringProfileQRPageLoadFailed": "ProfileQRPageLoadFailedWindowsClient",
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
-  "FStringFlagRepoGitHashFastString": "c97c061a154f428eb87b25568a794bc95f3ec7d5",
-  "DFStringFlagRepoGitHashDynamicString": "c97c061a154f428eb87b25568a794bc95f3ec7d5",
-  "FStringFlipTimeStampFastString": "2023-03-01T23:27:54.168Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-01T23:27:54.168Z"
+  "FStringFlagRepoGitHashFastString": "f6d4f518895abcbb404b8f890d26cd442b51628c",
+  "DFStringFlagRepoGitHashDynamicString": "f6d4f518895abcbb404b8f890d26cd442b51628c",
+  "FStringFlipTimeStampFastString": "2023-03-01T23:56:19.911Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-01T23:56:19.911Z"
 }

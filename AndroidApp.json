@@ -3350,7 +3350,7 @@
   "FFlagFixPurchasePromptInVR": "True",
   "FFlagStudioUseVmallocInsteadOfMallocForOom": "True",
   "FFlagAXRefactorGetCategoryInfo": "True",
-  "FFlagInvestigateNOUCrash": "False",
+  "FFlagInvestigateNOUCrash": "True",
   "FFlagSmoothClusterAsyncUpload": "True",
   "FFlagSmoothClusterGrassTasks": "True",
   "FFlagSmoothClusterTasks4": "True",
@@ -4062,8 +4062,8 @@
   "FIntEnableContactInvitesForNonPhoneVerifiedRollout_v2": "100",
   "FFlagEnableContactInvitesForNonPhoneVerifiedForAll_v2": "True",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;5289509545;6516141723;2753915549",
-  "FStringFlagRepoGitHashFastString": "ecdc1d645e02a37d99d13811b4ade833ac1a4afe",
-  "DFStringFlagRepoGitHashDynamicString": "ecdc1d645e02a37d99d13811b4ade833ac1a4afe",
-  "FStringFlipTimeStampFastString": "2023-03-01T23:55:17.031Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-01T23:55:17.031Z"
+  "FStringFlagRepoGitHashFastString": "f6d4f518895abcbb404b8f890d26cd442b51628c",
+  "DFStringFlagRepoGitHashDynamicString": "f6d4f518895abcbb404b8f890d26cd442b51628c",
+  "FStringFlipTimeStampFastString": "2023-03-01T23:56:19.911Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-01T23:56:19.911Z"
 }
