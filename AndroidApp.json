@@ -1266,7 +1266,7 @@
   "FFlagHSRVisualization": "True",
   "FFlagUserAtomicCharacterSounds2": "True",
   "FFlagVoiceServiceEnableDefaultVoice": "True",
-  "DFFlagReportStreamingPauseStatsWhenPauseIsDisabled": "True",
+  "DFFlagReportStreamingPauseStatsWhenPauseIsDisabled": "False",
   "FFlagCSGMeshDisableWriteHash": "False",
   "FFlagCSGMeshDisableWriteHash_PlaceFilter": "True;8793627382;8793618616;9185091595",
   "FFlagWhitelistFollowingsAndBadgesEndpoints": "True",
@@ -3721,6 +3721,7 @@
   "DFFlagPersistentJoinNoCharacter": "True",
   "DFFlagHttpTraceErrorCurrentUrl": "True",
   "FFlagAnimationRetargetOnImport": "True",
+  "FFlagFixAttachmentCrashCleanUpConstraint2_PlaceFilter": "False;537413528",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4061,8 +4062,8 @@
   "FIntEnableContactInvitesForNonPhoneVerifiedRollout_v2": "100",
   "FFlagEnableContactInvitesForNonPhoneVerifiedForAll_v2": "True",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;5289509545;6516141723;2753915549",
-  "FStringFlagRepoGitHashFastString": "c97c061a154f428eb87b25568a794bc95f3ec7d5",
-  "DFStringFlagRepoGitHashDynamicString": "c97c061a154f428eb87b25568a794bc95f3ec7d5",
-  "FStringFlipTimeStampFastString": "2023-03-01T23:27:54.168Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-01T23:27:54.168Z"
+  "FStringFlagRepoGitHashFastString": "ecdc1d645e02a37d99d13811b4ade833ac1a4afe",
+  "DFStringFlagRepoGitHashDynamicString": "ecdc1d645e02a37d99d13811b4ade833ac1a4afe",
+  "FStringFlipTimeStampFastString": "2023-03-01T23:55:17.031Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-01T23:55:17.031Z"
 }
