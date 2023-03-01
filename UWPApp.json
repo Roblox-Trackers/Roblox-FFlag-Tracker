@@ -2590,7 +2590,7 @@
   "DFFlagThumbnailingUseAssetIds": "True",
   "FFlagConsistentThumbnailBackground": "True",
   "FFlagUseGUIDForDummyEvent": "True",
-  "FFlagEnableLayoutResetStudioForceRestartOnCorruptLayout": "False",
+  "FFlagEnableLayoutResetStudioForceRestartOnCorruptLayout": "True",
   "FFlagUseCGNApi": "True",
   "FFlagAssetImportReplaceForLoops": "True",
   "FIntCorruptPanelDetectionUpperbound": "30000",
@@ -3217,8 +3217,8 @@
   "FFlagLuaAppFixMessageBusUnsubscribe": "True",
   "FFlagLuaAppOmniFeedBetterTypeFilter": "True",
   "DFFlagSmoothDampQuaternionAngularVelocity": "True",
-  "FFlagOnlySaveWhenNotCorrupt": "False",
-  "FFlagStudioResetLayoutWhenMarkedAsCorruptPreviously": "False",
+  "FFlagOnlySaveWhenNotCorrupt": "True",
+  "FFlagStudioResetLayoutWhenMarkedAsCorruptPreviously": "True",
   "DFFlagQuaternionToAxisAnglePrecision": "True",
   "FFlagLuaAppOmniFeedPropsRefactor": "True",
   "FFlagXboxFactorSetGameProgress": "True",
@@ -3913,8 +3913,8 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;5289509545",
-  "FStringFlagRepoGitHashFastString": "0bd68c16cfc19f451095b3d504f6252420bcb6ac",
-  "DFStringFlagRepoGitHashDynamicString": "0bd68c16cfc19f451095b3d504f6252420bcb6ac",
-  "FStringFlipTimeStampFastString": "2023-03-01T21:29:55.551Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-01T21:29:55.551Z"
+  "FStringFlagRepoGitHashFastString": "29f7f055d1ea917175e1cac6a66bd03a58250389",
+  "DFStringFlagRepoGitHashDynamicString": "29f7f055d1ea917175e1cac6a66bd03a58250389",
+  "FStringFlipTimeStampFastString": "2023-03-01T21:34:26.024Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-01T21:34:26.024Z"
 }
