@@ -35,5 +35,6 @@
   "enableEventCreation": "true",
   "enableDeveloperProductsApiMigration": "true",
   "enableGameUpdateNotificationsApiMigration": "true",
-  "enableLocalizationCsvManagement": "false"
+  "enableLocalizationCsvManagement": "false",
+  "enableFilterArchivedGamesFix": "true"
 }
