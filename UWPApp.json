@@ -3715,6 +3715,8 @@
   "FFlagScreenGuiAddHardwareSafeAreaInset2": "True",
   "FFlagSTUDIOPLAT28275AddArchitectureTelemetry": "True",
   "FFlagAllocateSimplexOnStack": "True",
+  "FFlagEnableSmoothingGroupVertexAveraging": "True",
+  "FIntVertexSmoothingGroupTolerance": "5000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3915,8 +3917,8 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;5289509545",
-  "FStringFlagRepoGitHashFastString": "3bb843d896e15453cb4f5038a8aa67671bd16f09",
-  "DFStringFlagRepoGitHashDynamicString": "3bb843d896e15453cb4f5038a8aa67671bd16f09",
-  "FStringFlipTimeStampFastString": "2023-03-01T21:44:44.446Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-01T21:44:44.446Z"
+  "FStringFlagRepoGitHashFastString": "6324ed0613fe7279ee7ac97136834dabce4fa925",
+  "DFStringFlagRepoGitHashDynamicString": "6324ed0613fe7279ee7ac97136834dabce4fa925",
+  "FStringFlipTimeStampFastString": "2023-03-01T21:58:33.179Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-01T21:58:33.179Z"
 }
