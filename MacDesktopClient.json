@@ -3645,7 +3645,7 @@
   "FFlagUseAXTransitionManagerV2": "True",
   "FFlagAXCheckKeywordLen": "True",
   "FFlagTempAXFiltersUseManualSize": "True",
-  "DFFlagAESAddNewSortFiltersToSearch": "True",
+  "DFFlagAESAddNewSortFiltersToSearch": "False",
   "DFFlagShouldMuteDMBeforeClosing2": "True",
   "FFlagEnableClickToMoveUsageTelemetry2": "True",
   "FFlagNavigationAnalyticsSessionId": "True",
@@ -3941,8 +3941,8 @@
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;5289509545",
   "DFFlagCookieStoreEnabledMac": "True",
   "FStringFeature_CookieStoreMacStickyEnabled": "564;10",
-  "FStringFlagRepoGitHashFastString": "5bfeb5cdf439774b2d139f8dadcc32b415804923",
-  "DFStringFlagRepoGitHashDynamicString": "5bfeb5cdf439774b2d139f8dadcc32b415804923",
-  "FStringFlipTimeStampFastString": "2023-03-01T20:09:39.141Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-01T20:09:39.141Z"
+  "FStringFlagRepoGitHashFastString": "082a68658f298a2896120d739e14d4956508ddfd",
+  "DFStringFlagRepoGitHashDynamicString": "082a68658f298a2896120d739e14d4956508ddfd",
+  "FStringFlipTimeStampFastString": "2023-03-01T20:10:22.343Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-01T20:10:22.343Z"
 }
