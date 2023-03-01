@@ -3194,7 +3194,7 @@
   "FFlagLuaAppEnableCredentialsProtocol": "True",
   "DFIntAbuseReportV1Percentage": "0",
   "FFlagReportThemeData": "True",
-  "FFlagStudioDetectCorruptRefactorAndNewAlgorithm": "True",
+  "FFlagStudioDetectCorruptRefactorAndNewAlgorithm": "False",
   "FIntCorruptPanelTopLeftLeeway": "45",
   "FFlagSelectionOutlineIncludeFolderInstance": "True",
   "FFlagBulkPropertyEditTelemetry": "False",
@@ -3705,6 +3705,8 @@
   "DFIntScriptEditorMultiCursorEventThrottleHundredthPercent": "10000",
   "FFlagScriptEditorMultiCursorBetaFeature": "True",
   "FStringScriptEditorMultiCursorBetaFeatureUrl": "https://devforum.roblox.com/t/multi-cursor-script-editing-now-in-beta/2203941",
+  "FFlagCheckObjectCorruptedOnParentChange": "True",
+  "FFlagCheckParentWinIDToDetectCorruption": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4007,8 +4009,8 @@
   "FIntEnableContactInvitesForNonPhoneVerifiedRollout_v2": "100",
   "FFlagEnableContactInvitesForNonPhoneVerifiedForAll_v2": "True",
   "FFlagRealtimeEventDataManagerUseNewCountFetches": "True",
-  "FStringFlagRepoGitHashFastString": "868588e8521484e2fb6aecd9e971a03a631ade63",
-  "DFStringFlagRepoGitHashDynamicString": "868588e8521484e2fb6aecd9e971a03a631ade63",
-  "FStringFlipTimeStampFastString": "2023-03-01T19:43:04.171Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-01T19:43:04.171Z"
+  "FStringFlagRepoGitHashFastString": "1848a76eebff5e9ede774ffad41ff97f8d35e80e",
+  "DFStringFlagRepoGitHashDynamicString": "1848a76eebff5e9ede774ffad41ff97f8d35e80e",
+  "FStringFlipTimeStampFastString": "2023-03-01T19:53:44.736Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-01T19:53:44.736Z"
 }
