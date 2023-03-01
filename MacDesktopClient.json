@@ -3633,8 +3633,6 @@
   "FFlagSimModelLodFixSpottyColor": "False",
   "FFlagSimCSGV3SeparateDetachedCoplanarGraphs": "True",
   "FFlagXBoxMutexPeopleEntryArray": "False",
-  "DFFlagReportJoinStructureMismatchOnly_Rollout": "True;60;2023-02-27T18:54:19",
-  "DFFlagSetStreamingEnabledTag_Rollout": "True;60;2023-02-27T18:54:49",
   "EnableMaquettesUserAgent": "True",
   "EnableGamePurchaseManager": "True",
   "FFlagSocialOnboardingExperimentEnabled_v2": "True",
@@ -3699,6 +3697,8 @@
   "DFFlagRemoveReportAbuseIfCheck": "True",
   "FFlagToolboxUnifyModelPackageInsertion2": "True",
   "FFlagPackageUnlinkUseDiffFilter": "True",
+  "DFFlagReportJoinStructureMismatchOnly": "True",
+  "DFFlagSetStreamingEnabledTag": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3933,8 +3933,8 @@
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;5289509545",
   "DFFlagCookieStoreEnabledMac": "True",
   "FStringFeature_CookieStoreMacStickyEnabled": "564;10",
-  "FStringFlagRepoGitHashFastString": "637989f1d5ac34f5940bad52f080b69972383f35",
-  "DFStringFlagRepoGitHashDynamicString": "637989f1d5ac34f5940bad52f080b69972383f35",
-  "FStringFlipTimeStampFastString": "2023-03-01T00:51:21.206Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-01T00:51:21.206Z"
+  "FStringFlagRepoGitHashFastString": "519625890465ca2148d3cbead96ce822a047bf58",
+  "DFStringFlagRepoGitHashDynamicString": "519625890465ca2148d3cbead96ce822a047bf58",
+  "FStringFlipTimeStampFastString": "2023-03-01T01:32:12.939Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-01T01:32:12.939Z"
 }
