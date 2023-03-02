@@ -3643,7 +3643,7 @@
   "FFlagUseAXTransitionManagerV2": "True",
   "FFlagAXCheckKeywordLen": "True",
   "FFlagTempAXFiltersUseManualSize": "True",
-  "DFFlagAESAddNewSortFiltersToSearch": "False",
+  "DFFlagAESAddNewSortFiltersToSearch": "True",
   "DFFlagShouldMuteDMBeforeClosing2": "True",
   "FFlagEnableClickToMoveUsageTelemetry2": "True",
   "FFlagNavigationAnalyticsSessionId": "True",
@@ -4080,8 +4080,8 @@
   "FIntEnableContactInvitesForNonPhoneVerifiedRollout_v2": "100",
   "FFlagEnableContactInvitesForNonPhoneVerifiedForAll_v2": "True",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;5289509545;6516141723;2753915549",
-  "FStringFlagRepoGitHashFastString": "4b755cd3cd5dee6b449802cb256ce030824dcbf9",
-  "DFStringFlagRepoGitHashDynamicString": "4b755cd3cd5dee6b449802cb256ce030824dcbf9",
-  "FStringFlipTimeStampFastString": "2023-03-02T18:24:39.989Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-02T18:24:39.989Z"
+  "FStringFlagRepoGitHashFastString": "d003300a1cef9be654e593d1299f44bf725d6955",
+  "DFStringFlagRepoGitHashDynamicString": "d003300a1cef9be654e593d1299f44bf725d6955",
+  "FStringFlipTimeStampFastString": "2023-03-02T18:43:09.809Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-02T18:43:09.809Z"
 }
