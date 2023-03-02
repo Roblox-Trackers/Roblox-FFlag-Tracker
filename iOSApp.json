@@ -3740,6 +3740,7 @@
   "DFIntVoiceChatReportTaskStatsIntervalMs": "300000",
   "DFIntVoiceChatTaskStatsTelemetryThrottleHundrethsPercent": "100",
   "FFlagVoiceChatReportTaskStats": "True",
+  "FFlagFixJumpLinkAcrossCeilingAndWall": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4043,8 +4044,8 @@
   "FFlagEnableContactInvitesForNonPhoneVerifiedForAll_v2": "True",
   "FFlagRealtimeEventDataManagerUseNewCountFetches": "True",
   "FFlagEnableAppReceiptsOnValidate": "True",
-  "FStringFlagRepoGitHashFastString": "165fbe1398a104760ad743814c8ac6dbe4d309ec",
-  "DFStringFlagRepoGitHashDynamicString": "165fbe1398a104760ad743814c8ac6dbe4d309ec",
-  "FStringFlipTimeStampFastString": "2023-03-02T18:43:51.590Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-02T18:43:51.590Z"
+  "FStringFlagRepoGitHashFastString": "93052c5408400ab7bdebf0af575452ab810390d1",
+  "DFStringFlagRepoGitHashDynamicString": "93052c5408400ab7bdebf0af575452ab810390d1",
+  "FStringFlipTimeStampFastString": "2023-03-02T18:46:48.372Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-02T18:46:48.372Z"
 }
