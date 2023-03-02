@@ -3752,6 +3752,14 @@
   "FFlagTextChatServiceFixYieldingOnIncomingMessage": "True",
   "DFFlagHttpServiceUniverseBlacklistEnabled": "True",
   "DFFlagEnableAdUnitName": "True",
+  "FFlagFacialAnimationStreamingServiceUniverseSettingsEnableAudio": "True",
+  "FFlagFacialAnimationStreamingServiceUniverseSettingsEnableVideo": "True",
+  "FFlagFacialAnimationStreamingServiceUniverseSettingsMock": "True",
+  "FFlagFacialAnimationStreamingServiceUseV2": "False",
+  "FFlagFacialAnimationStreamingServiceUseV2_PlaceFilter": "True;9299262749;9793123004;9799263270;9872815406;10001271232;10001514317;10724942847;10057672346;10358747927;10442917528;10548862903;10713392009;10787386927;10404927539;11453377229;11452116982;11444707414;11444556552;11116995134;11253464533;11386744897;11393894962;11402255591;11444068120;11460402982;11597947993;11599481611;11701806268;11766336272;12019849317;12117075688;12117237410;12339044345",
+  "FFlagFacialAnimationStreamingServiceUserSettingsMock": "True",
+  "FFlagFacialAnimationStreamingServiceUserSettingsOptInAudio": "True",
+  "FFlagFacialAnimationStreamingServiceUserSettingsOptInVideo": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4092,8 +4100,8 @@
   "FIntEnableContactInvitesForNonPhoneVerifiedRollout_v2": "100",
   "FFlagEnableContactInvitesForNonPhoneVerifiedForAll_v2": "True",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;5289509545;6516141723;2753915549",
-  "FStringFlagRepoGitHashFastString": "6dff85918c1be00ea0a12214f99c0147cc00fde3",
-  "DFStringFlagRepoGitHashDynamicString": "6dff85918c1be00ea0a12214f99c0147cc00fde3",
-  "FStringFlipTimeStampFastString": "2023-03-02T22:43:38.205Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-02T22:43:38.205Z"
+  "FStringFlagRepoGitHashFastString": "e6f7632c61aabe2c7918412e452bf1eb66361ebe",
+  "DFStringFlagRepoGitHashDynamicString": "e6f7632c61aabe2c7918412e452bf1eb66361ebe",
+  "FStringFlipTimeStampFastString": "2023-03-02T22:56:37.844Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-02T22:56:37.844Z"
 }
