@@ -3790,6 +3790,15 @@
   "FFlagAFTFixAutomaticScaling": "True",
   "FFlagAFTSelectLegacyAccessories": "True",
   "FFlagLuaAppRenderSettingsAsModal": "True",
+  "FFlagIntegrityCheckedProcessorPerfControlIxpIntegration": "True",
+  "FFlagPerfControlFireCallbacks": "True",
+  "FFlagPerformanceControlChangeTunableEagerly": "True",
+  "FFlagPerformanceControlFixBugForMPExit": "True",
+  "FFlagPerformanceControlFixTextureManagerUnregisterIxpCallback": "True",
+  "FFlagPerformanceControlIXPIntegrationEnabled": "True",
+  "FFlagPerformanceControlMimicMemoryPrioritization": "True",
+  "FFlagPerformanceControlSimpleMPLogic": "True",
+  "FFlagSingleAndDualSurfaceAppUsePerfControlProtocol": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3986,8 +3995,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "41f0089aa347e7574012ad8cb7b1d57b69b617cb",
-  "DFStringFlagRepoGitHashDynamicString": "41f0089aa347e7574012ad8cb7b1d57b69b617cb",
-  "FStringFlipTimeStampFastString": "2023-03-03T18:54:24.899Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-03T18:54:24.899Z"
+  "FStringFlagRepoGitHashFastString": "45d6ded2b1ce208f9c4666da339caad03ce5a295",
+  "DFStringFlagRepoGitHashDynamicString": "45d6ded2b1ce208f9c4666da339caad03ce5a295",
+  "FStringFlipTimeStampFastString": "2023-03-03T19:31:16.539Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-03T19:31:16.539Z"
 }
