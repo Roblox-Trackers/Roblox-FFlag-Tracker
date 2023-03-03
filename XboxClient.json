@@ -3705,7 +3705,6 @@
   "FFlagLuaAppFixOnScreenKeyboardLoginPageScrolling": "True",
   "FFlagReportAbuseThankYouPageSizeFixV2": "True",
   "FFlagRemoveWaitForLongProcessInUnion": "True",
-  "FFlagScreenGuiAddHardwareSafeAreaInset2": "True",
   "FFlagSTUDIOPLAT28275AddArchitectureTelemetry": "True",
   "FFlagAllocateSimplexOnStack": "True",
   "FFlagEnableSmoothingGroupVertexAveraging": "True",
@@ -3737,7 +3736,6 @@
   "DFIntVoiceChatReportTaskStatsIntervalMs": "300000",
   "DFIntVoiceChatTaskStatsTelemetryThrottleHundrethsPercent": "100",
   "FFlagVoiceChatReportTaskStats": "True",
-  "FFlagScreenGuiPreventSettingInsetViewportDirectly": "True",
   "FFlagParallelLuaResumeAnyWork": "True",
   "FFlagLuaAppInviteEventsIncludePlaceId": "True",
   "DFFlagRbxtempForBuffer": "True",
@@ -3994,8 +3992,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "c44953ae66abc9ae879f485d9de735b548304924",
-  "DFStringFlagRepoGitHashDynamicString": "c44953ae66abc9ae879f485d9de735b548304924",
-  "FStringFlipTimeStampFastString": "2023-03-03T20:33:55.164Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-03T20:33:55.164Z"
+  "FStringFlagRepoGitHashFastString": "b29efdfbd630809d3be204484459baf73adc5c49",
+  "DFStringFlagRepoGitHashDynamicString": "b29efdfbd630809d3be204484459baf73adc5c49",
+  "FStringFlipTimeStampFastString": "2023-03-03T20:36:38.475Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-03T20:36:38.475Z"
 }
