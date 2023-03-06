@@ -3783,12 +3783,12 @@
   "FFlagLuaAppRenderSettingsAsModal": "True",
   "FFlagIntegrityCheckedProcessorPerfControlIxpIntegration": "True",
   "FFlagPerfControlFireCallbacks": "False",
-  "FFlagPerformanceControlChangeTunableEagerly": "False",
+  "FFlagPerformanceControlChangeTunableEagerly": "True",
   "FFlagPerformanceControlFixBugForMPExit": "True",
   "FFlagPerformanceControlFixTextureManagerUnregisterIxpCallback": "True",
   "FFlagPerformanceControlIXPIntegrationEnabled": "True",
-  "FFlagPerformanceControlMimicMemoryPrioritization": "False",
-  "FFlagPerformanceControlSimpleMPLogic": "False",
+  "FFlagPerformanceControlMimicMemoryPrioritization": "True",
+  "FFlagPerformanceControlSimpleMPLogic": "True",
   "FFlagSingleAndDualSurfaceAppUsePerfControlProtocol": "True",
   "FFlagLuaAppAccountRestoresPolicyUpsellPopUpEnabled": "True",
   "FFlagModelScale": "false",
@@ -4116,8 +4116,8 @@
   "FFlagEnableAppReceiptsOnValidate": "True",
   "FStringShareLinkAppOpen": "ShareLinkAppOpeniOS",
   "FStringShareLinkResolved": "ShareLinkResolvediOS",
-  "FStringFlagRepoGitHashFastString": "ccf3fe739208da46d07ba1300760730be01dfc8c",
-  "DFStringFlagRepoGitHashDynamicString": "ccf3fe739208da46d07ba1300760730be01dfc8c",
-  "FStringFlipTimeStampFastString": "2023-03-06T19:10:01.173Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-06T19:10:01.173Z"
+  "FStringFlagRepoGitHashFastString": "dc8a5911d252a1819d461efd10aa4a82590b0858",
+  "DFStringFlagRepoGitHashDynamicString": "dc8a5911d252a1819d461efd10aa4a82590b0858",
+  "FStringFlipTimeStampFastString": "2023-03-06T19:12:50.813Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-06T19:12:50.813Z"
 }
