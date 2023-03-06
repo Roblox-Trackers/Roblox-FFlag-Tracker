@@ -1413,7 +1413,7 @@
   "DFIntLocalizationTableAnalyticsSenderServerToHttpSampleRateHundrethsPercent": "1000",
   "DFIntLocalizationTableAnalyticsSenderServerToHttpSampleRateHundrethsPercent_PlaceFilter": "10000;7731036362",
   "FFlagSessionEventStringUnderscores": "True",
-  "DFIntParallelLuaAnalyticsRate": "125",
+  "DFIntParallelLuaAnalyticsRate": "60",
   "FFlagVulkanAlwaysLogLayersAndExtensions": "True",
   "DFFlagProtectLuaPushValues": "True",
   "DFFlagResetCallbackThreadTop": "True",
@@ -4068,8 +4068,8 @@
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenWindowsClient",
   "FStringShareLinkResolved": "ShareLinkResolvedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "680cc6bd7e986eeb909b7a83a6600c0279a71f9a",
-  "DFStringFlagRepoGitHashDynamicString": "680cc6bd7e986eeb909b7a83a6600c0279a71f9a",
-  "FStringFlipTimeStampFastString": "2023-03-06T22:37:18.838Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-06T22:37:18.838Z"
+  "FStringFlagRepoGitHashFastString": "41504b640aadd8895f54138116920bf6583363a4",
+  "DFStringFlagRepoGitHashDynamicString": "41504b640aadd8895f54138116920bf6583363a4",
+  "FStringFlipTimeStampFastString": "2023-03-06T22:40:47.743Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-06T22:40:47.743Z"
 }
