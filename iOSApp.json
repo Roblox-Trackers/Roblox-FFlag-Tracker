@@ -3807,7 +3807,7 @@
   "DFFlagTeleportEnableTrustedTeleportFlow": "True",
   "FStringFlagRolloutTestStaticString2_Rollout": "XYZ;60;2023-03-06T19:01:12",
   "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled": "True",
-  "FFlagEnableResponsiveThumbnails": "True",
+  "FFlagEnableResponsiveThumbnails": "False",
   "DFFlagCheckForExpiringPrefetchRequestsNoBudget_Rollout": "True;60;2023-03-06T19:06:04",
   "DFStringFlagRolloutTestDynamicString2_Rollout": "XYZ;60;2023-03-06T19:07:03",
   "FFlagXboxInitFriendsInDataModelTask": "True",
@@ -4118,8 +4118,8 @@
   "FFlagEnableAppReceiptsOnValidate": "True",
   "FStringShareLinkAppOpen": "ShareLinkAppOpeniOS",
   "FStringShareLinkResolved": "ShareLinkResolvediOS",
-  "FStringFlagRepoGitHashFastString": "771efc33084f3e6cd4ab3ce902bc3a2960f6a163",
-  "DFStringFlagRepoGitHashDynamicString": "771efc33084f3e6cd4ab3ce902bc3a2960f6a163",
-  "FStringFlipTimeStampFastString": "2023-03-06T19:58:32.454Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-06T19:58:32.454Z"
+  "FStringFlagRepoGitHashFastString": "84c57fd65966ed81128e1b9b330bb663edf0d217",
+  "DFStringFlagRepoGitHashDynamicString": "84c57fd65966ed81128e1b9b330bb663edf0d217",
+  "FStringFlipTimeStampFastString": "2023-03-06T19:59:30.683Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-06T19:59:30.683Z"
 }
