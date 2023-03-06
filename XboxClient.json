@@ -3511,10 +3511,10 @@
   "FFlagCOLLAB2609AddIsReconnectAndLaunchTaskToStudioopenplacemetricv2CrashFixed": "True",
   "DFFlagVoiceChatVerifyUserUpdatesByMatchingV2": "True",
   "FFlagConnectionIndicatorBetaFeature": "True",
-  "FIntConnectionIndicatorBadConnectionPacketLossPercentThreshold": "20",
+  "FIntConnectionIndicatorBadConnectionPacketLossPercentThreshold": "1000",
   "FIntConnectionIndicatorBadConnectionPingThreshold": "999999999",
   "FIntConnectionIndicatorBetaFeatureRolloutPercent": "10",
-  "FIntConnectionIndicatorTryingToSaveThresholdMS": "9999999999999999",
+  "FIntConnectionIndicatorTryingToSaveThresholdMS": "300000",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagBottomBarButtonBehaviorFixVR": "True",
   "FFlagOffNetworkAnalytics": "True",
@@ -3989,8 +3989,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "4b69718c1651e4b2ae284681db3a3420889cec5a",
-  "DFStringFlagRepoGitHashDynamicString": "4b69718c1651e4b2ae284681db3a3420889cec5a",
-  "FStringFlipTimeStampFastString": "2023-03-06T17:04:30.227Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-06T17:04:30.227Z"
+  "FStringFlagRepoGitHashFastString": "510c435f109706e65e4d28670caa8f423c8b0924",
+  "DFStringFlagRepoGitHashDynamicString": "510c435f109706e65e4d28670caa8f423c8b0924",
+  "FStringFlipTimeStampFastString": "2023-03-06T17:15:54.528Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-06T17:15:54.528Z"
 }
