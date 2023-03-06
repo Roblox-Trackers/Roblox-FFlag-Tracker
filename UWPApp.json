@@ -3670,7 +3670,7 @@
   "FFlagGraphicsRenderPrepareApsOptA": "True",
   "FFlagAddFriendsQRCodeAnalytics": "True",
   "FFlagGraphicsRenderPrepareApsOptB": "True",
-  "FFlagGuiObjectSafeAreaBackgroundExtension": "False",
+  "FFlagGuiObjectSafeAreaBackgroundExtension": "True",
   "FFlagTextChatServiceIncludesColon_PlaceFilter": "True;9709838535",
   "FFlagGraphicsRenderPrepareApsOptC": "True",
   "FFlagDevFrameworkFixDropdownMenuPosition": "True",
@@ -3796,6 +3796,10 @@
   "FFlagValidateBeforeInitScreenSize": "True",
   "DFFlagIkControlLookAtSmoothFix": "True",
   "DFFlagHttpUsePerMillionThrottle_Rollout": "True;30;2023-03-06T18:17:52",
+  "FFlagFirstGuiLayerCollectorAncestorControlsClipping": "True",
+  "FFlagFixScreenGuiUIScaleClipping": "True",
+  "FFlagInset3DViewportAPIsByHardwareSafeAreaInsets2": "True",
+  "FFlagScreenGuiPreventSettingInsetViewportDirectly": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -3996,8 +4000,8 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;5289509545",
-  "FStringFlagRepoGitHashFastString": "4eb57cc79491df7569a3e75e3d2676ec1772d03a",
-  "DFStringFlagRepoGitHashDynamicString": "4eb57cc79491df7569a3e75e3d2676ec1772d03a",
-  "FStringFlipTimeStampFastString": "2023-03-06T18:26:39.628Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-06T18:26:39.628Z"
+  "FStringFlagRepoGitHashFastString": "eea31dcaa87cefd5e0276efe87432fa30f068d2a",
+  "DFStringFlagRepoGitHashDynamicString": "eea31dcaa87cefd5e0276efe87432fa30f068d2a",
+  "FStringFlipTimeStampFastString": "2023-03-06T18:37:00.330Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-06T18:37:00.330Z"
 }
