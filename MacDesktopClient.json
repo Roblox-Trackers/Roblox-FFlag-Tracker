@@ -3703,7 +3703,7 @@
   "FFlagSTUDIOPLAT28275AddArchitectureTelemetry": "True",
   "FFlagAllocateSimplexOnStack": "True",
   "FFlagEnableSmoothingGroupVertexAveraging": "True",
-  "FIntVertexSmoothingGroupTolerance": "2000",
+  "FIntVertexSmoothingGroupTolerance": "1000",
   "FFlagFixAttachmentConstraintNOUCrash": "True",
   "FFlagFixBoneCrash2": "True",
   "FFlagSimulatorAddressToPlayers": "True",
@@ -4032,8 +4032,8 @@
   "FStringFeature_CookieStoreMacStickyEnabled": "564;50",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenMacClient",
   "FStringShareLinkResolved": "ShareLinkResolvedMacClient",
-  "FStringFlagRepoGitHashFastString": "dad20a109a2fe9bb02f3e78eb873de19be946c98",
-  "DFStringFlagRepoGitHashDynamicString": "dad20a109a2fe9bb02f3e78eb873de19be946c98",
-  "FStringFlipTimeStampFastString": "2023-03-06T18:18:55.906Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-06T18:18:55.906Z"
+  "FStringFlagRepoGitHashFastString": "ee7153e3184aaec8aa35b0ce84ec53b04c4a7dba",
+  "DFStringFlagRepoGitHashDynamicString": "ee7153e3184aaec8aa35b0ce84ec53b04c4a7dba",
+  "FStringFlipTimeStampFastString": "2023-03-06T18:22:08.233Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-06T18:22:08.233Z"
 }
