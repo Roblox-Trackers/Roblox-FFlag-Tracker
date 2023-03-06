@@ -3811,6 +3811,7 @@
   "DFFlagCheckForExpiringPrefetchRequestsNoBudget_Rollout": "True;60;2023-03-06T19:06:04",
   "DFStringFlagRolloutTestDynamicString2_Rollout": "XYZ;60;2023-03-06T19:07:03",
   "FFlagXboxInitFriendsInDataModelTask": "True",
+  "EnableJavaCrashDeobfuscateSupport": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4046,8 +4047,8 @@
   "FStringFeature_CookieStoreMacStickyEnabled": "564;50",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenMacClient",
   "FStringShareLinkResolved": "ShareLinkResolvedMacClient",
-  "FStringFlagRepoGitHashFastString": "127a1f272c69d4b9ac133635246def91c20eabf4",
-  "DFStringFlagRepoGitHashDynamicString": "127a1f272c69d4b9ac133635246def91c20eabf4",
-  "FStringFlipTimeStampFastString": "2023-03-06T19:29:36.499Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-06T19:29:36.499Z"
+  "FStringFlagRepoGitHashFastString": "845ede87f3829f2f2b743e9d23fd6f44f5945dd0",
+  "DFStringFlagRepoGitHashDynamicString": "845ede87f3829f2f2b743e9d23fd6f44f5945dd0",
+  "FStringFlipTimeStampFastString": "2023-03-06T19:53:03.029Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-06T19:53:03.029Z"
 }
