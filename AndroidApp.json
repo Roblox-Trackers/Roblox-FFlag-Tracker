@@ -3808,6 +3808,9 @@
   "FStringFlagRolloutTestStaticString2_Rollout": "XYZ;60;2023-03-06T19:01:12",
   "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled": "True",
   "FFlagEnableResponsiveThumbnails": "True",
+  "DFFlagCheckForExpiringPrefetchRequestsNoBudget_Rollout": "True;60;2023-03-06T19:06:04",
+  "DFStringFlagRolloutTestDynamicString2_Rollout": "XYZ;60;2023-03-06T19:07:03",
+  "FFlagHttpRemovePlatformImpl2_Rollout": "True;30;2023-03-06T19:09:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4150,8 +4153,8 @@
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;5289509545;6516141723;2753915549",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenAndroid",
   "FStringShareLinkResolved": "ShareLinkResolvedAndroid",
-  "FStringFlagRepoGitHashFastString": "7bf35f1c7c3cb1edf6e501997f03ffa7b6ce242b",
-  "DFStringFlagRepoGitHashDynamicString": "7bf35f1c7c3cb1edf6e501997f03ffa7b6ce242b",
-  "FStringFlipTimeStampFastString": "2023-03-06T19:03:29.320Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-06T19:03:29.320Z"
+  "FStringFlagRepoGitHashFastString": "ccf3fe739208da46d07ba1300760730be01dfc8c",
+  "DFStringFlagRepoGitHashDynamicString": "ccf3fe739208da46d07ba1300760730be01dfc8c",
+  "FStringFlipTimeStampFastString": "2023-03-06T19:10:01.173Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-06T19:10:01.173Z"
 }
