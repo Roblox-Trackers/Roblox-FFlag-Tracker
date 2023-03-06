@@ -3814,6 +3814,8 @@
   "EnableJavaCrashDeobfuscateSupport": "True",
   "FFlagStudioWatchWindowChildrenLoadOnDemand": "True",
   "FFlagHttpRemovePlatformImpl2_Rollout": "True;30;2023-03-06T21:11:18",
+  "FFlagGuiServiceUseScreenInsetsModel": "True",
+  "FFlagScreenGuiAddHardwareSafeAreaInset2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4055,8 +4057,8 @@
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenWindowsClient",
   "FStringShareLinkResolved": "ShareLinkResolvedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "738041fb6b2a8de6de37399cfcc9ae761ddc675b",
-  "DFStringFlagRepoGitHashDynamicString": "738041fb6b2a8de6de37399cfcc9ae761ddc675b",
-  "FStringFlipTimeStampFastString": "2023-03-06T21:11:55.467Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-06T21:11:55.467Z"
+  "FStringFlagRepoGitHashFastString": "83e8b7daa40de6874a5e460318acd637512c2dc5",
+  "DFStringFlagRepoGitHashDynamicString": "83e8b7daa40de6874a5e460318acd637512c2dc5",
+  "FStringFlipTimeStampFastString": "2023-03-06T21:15:26.979Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-06T21:15:26.979Z"
 }
