@@ -3824,6 +3824,8 @@
   "FFlagAddSafeAreaAnalytics": "True",
   "DFIntGuiServiceSafeAreaInsetsAnalytics_ReportHundredthsPercent": "1",
   "FFlagParallelLuaExecuteAtResumptionPoints": "True",
+  "FFlagApiProxyGetUserByIdSwitchToUsersApiEnabled": "True",
+  "FFlagFixOffCenterOriginSelectionBox": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4129,8 +4131,8 @@
   "FFlagEnableAppReceiptsOnValidate": "True",
   "FStringShareLinkAppOpen": "ShareLinkAppOpeniOS",
   "FStringShareLinkResolved": "ShareLinkResolvediOS",
-  "FStringFlagRepoGitHashFastString": "1f7fc636e1d64c03b0f7390e550939f6723985d1",
-  "DFStringFlagRepoGitHashDynamicString": "1f7fc636e1d64c03b0f7390e550939f6723985d1",
-  "FStringFlipTimeStampFastString": "2023-03-06T22:22:05.969Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-06T22:22:05.969Z"
+  "FStringFlagRepoGitHashFastString": "2f8cc4152a92a1ab90d91ad1ab5826d91d2796bf",
+  "DFStringFlagRepoGitHashDynamicString": "2f8cc4152a92a1ab90d91ad1ab5826d91d2796bf",
+  "FStringFlipTimeStampFastString": "2023-03-06T22:23:49.772Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-06T22:23:49.772Z"
 }
