@@ -3833,6 +3833,7 @@
   "FFlagRequireUIThreadCommandFramework": "True",
   "RemoveFriendshipSignalRReceiver": "True",
   "FFlagReportSentPageV2Enabled": "True",
+  "FFlagDeferUpdateSelectionsUntilAfterChange": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4174,8 +4175,8 @@
   "FFlagMovePrerender_PlaceFilter": "True;4924922222;6516141723;2753915549;920587237",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenAndroid",
   "FStringShareLinkResolved": "ShareLinkResolvedAndroid",
-  "FStringFlagRepoGitHashFastString": "223c7724e5fd88c9bae86cecd2336160eceda129",
-  "DFStringFlagRepoGitHashDynamicString": "223c7724e5fd88c9bae86cecd2336160eceda129",
-  "FStringFlipTimeStampFastString": "2023-03-07T00:19:14.650Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-07T00:19:14.650Z"
+  "FStringFlagRepoGitHashFastString": "169b5bf8ff25584dce027fa9d7ebc3525d21414a",
+  "DFStringFlagRepoGitHashDynamicString": "169b5bf8ff25584dce027fa9d7ebc3525d21414a",
+  "FStringFlipTimeStampFastString": "2023-03-07T00:19:58.210Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-07T00:19:58.210Z"
 }
