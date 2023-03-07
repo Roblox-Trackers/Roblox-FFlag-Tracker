@@ -3832,6 +3832,7 @@
   "FFlagReportMenuCellToUseAutomaticSize": "True",
   "FFlagRequireUIThreadCommandFramework": "True",
   "RemoveFriendshipSignalRReceiver": "True",
+  "FFlagReportSentPageV2Enabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4099,7 +4100,6 @@
   "FFlagOffNetworkFriendingEnabled_3": "True",
   "FIntLuaAppGameExperienceGuidelinesRollout6": "100",
   "FFlagEnableHomePageUpsellCardRelease6": "True",
-  "FFlagReportSentPageV2Enabled": "False",
   "FFlagUseMediumpMetal": "True",
   "FFlagPYMKExperimentSetup_v6": "True",
   "FFlagFriendInvitesEnabledForSoothsayers_v1": "True",
@@ -4137,8 +4137,8 @@
   "FFlagEnableAppReceiptsOnValidate": "True",
   "FStringShareLinkAppOpen": "ShareLinkAppOpeniOS",
   "FStringShareLinkResolved": "ShareLinkResolvediOS",
-  "FStringFlagRepoGitHashFastString": "b45ffa4dd78f426ff70eddcb9baeb6dd92d13a4c",
-  "DFStringFlagRepoGitHashDynamicString": "b45ffa4dd78f426ff70eddcb9baeb6dd92d13a4c",
-  "FStringFlipTimeStampFastString": "2023-03-07T00:13:07.299Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-07T00:13:07.299Z"
+  "FStringFlagRepoGitHashFastString": "223c7724e5fd88c9bae86cecd2336160eceda129",
+  "DFStringFlagRepoGitHashDynamicString": "223c7724e5fd88c9bae86cecd2336160eceda129",
+  "FStringFlipTimeStampFastString": "2023-03-07T00:19:14.650Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-07T00:19:14.650Z"
 }
