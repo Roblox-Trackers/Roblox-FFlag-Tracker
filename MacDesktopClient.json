@@ -3875,6 +3875,8 @@
   "FFlagEnableChildrenLockFromLua2": "True",
   "FIntLocalizationTableUploadRowMax": "10",
   "FIntIGMv1ARFlowCSBasisPoints": "10",
+  "FFlagACEHasMovedAnalytics": "True",
+  "FFlagACERotationFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4109,8 +4111,8 @@
   "FStringFeature_CookieStoreMacStickyEnabled": "564;100",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenMacClient",
   "FStringShareLinkResolved": "ShareLinkResolvedMacClient",
-  "FStringFlagRepoGitHashFastString": "9baa764eff5768f55476fcb552c2dad75e974f7b",
-  "DFStringFlagRepoGitHashDynamicString": "9baa764eff5768f55476fcb552c2dad75e974f7b",
-  "FStringFlipTimeStampFastString": "2023-03-08T23:40:31.602Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-08T23:40:31.602Z"
+  "FStringFlagRepoGitHashFastString": "adab750b14b568ff73c33e3aca259468126fa92b",
+  "DFStringFlagRepoGitHashDynamicString": "adab750b14b568ff73c33e3aca259468126fa92b",
+  "FStringFlipTimeStampFastString": "2023-03-08T23:46:23.860Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-08T23:46:23.860Z"
 }
