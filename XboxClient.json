@@ -3822,7 +3822,7 @@
   "DFIntGuiServiceSafeAreaInsetsAnalytics_ReportHundredthsPercent": "5",
   "FFlagParallelLuaExecuteAtResumptionPoints": "True",
   "FFlagApiProxyGetUserByIdSwitchToUsersApiEnabled": "True",
-  "FFlagFixOffCenterOriginSelectionBox": "True",
+  "FFlagFixOffCenterOriginSelectionBox": "False",
   "FFlagApiProxyToUsersApiGetUserByUsernamesEnabled": "True",
   "EnableInGameFullScreen3": "True",
   "AndroidNotchScreenSupportIXPExperiment": "True",
@@ -4044,8 +4044,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "2d7a52d06f58aab6e4dfb16993cfa92170115828",
-  "DFStringFlagRepoGitHashDynamicString": "2d7a52d06f58aab6e4dfb16993cfa92170115828",
-  "FStringFlipTimeStampFastString": "2023-03-07T21:16:04.373Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-07T21:16:04.373Z"
+  "FStringFlagRepoGitHashFastString": "7d70849a297f7bdd536707e1f148739fb7c5fb9d",
+  "DFStringFlagRepoGitHashDynamicString": "7d70849a297f7bdd536707e1f148739fb7c5fb9d",
+  "FStringFlipTimeStampFastString": "2023-03-08T01:16:28.819Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-08T01:16:28.819Z"
 }
