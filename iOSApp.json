@@ -3443,7 +3443,6 @@
   "FFlagAICOInverseTrigger": "False",
   "FFlagPrintClientInfoOnStartup": "True",
   "FFlagFixServerInfoLocalization": "True",
-  "FFlagLuaAppSaveThemeForCachedUser": "False",
   "FFlagAFTParentAccessoryInDM": "True",
   "FFlagAccessoryFittingToolAnalytics2": "True",
   "FFlagAccessoryToolRefactor3": "True",
@@ -3885,6 +3884,7 @@
   "FFlagScriptEditorMultiCursorBetaFeature": "True",
   "FStringFeature_AccessCookiesWithUrlEnabledSticky": "566;100",
   "FFlagAndroidSuspendAudioFromUnfocusedDataModels": "True",
+  "FFlagLuaAppSaveThemeForCachedUser2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4189,8 +4189,8 @@
   "FFlagEnableAppReceiptsOnValidate": "True",
   "FStringShareLinkAppOpen": "ShareLinkAppOpeniOS",
   "FStringShareLinkResolved": "ShareLinkResolvediOS",
-  "FStringFlagRepoGitHashFastString": "66df0db1c9d4605754f41427f0f4d061bcd4c6cb",
-  "DFStringFlagRepoGitHashDynamicString": "66df0db1c9d4605754f41427f0f4d061bcd4c6cb",
-  "FStringFlipTimeStampFastString": "2023-03-09T18:56:06.296Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-09T18:56:06.296Z"
+  "FStringFlagRepoGitHashFastString": "7d451297a7e1913099e7d832d0d65f8c0dfe96ab",
+  "DFStringFlagRepoGitHashDynamicString": "7d451297a7e1913099e7d832d0d65f8c0dfe96ab",
+  "FStringFlipTimeStampFastString": "2023-03-09T18:58:18.705Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-09T18:58:18.705Z"
 }
