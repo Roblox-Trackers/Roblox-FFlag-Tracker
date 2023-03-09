@@ -3901,6 +3901,10 @@
   "DFFlagVoiceChatLatencyStatsRccMute": "True",
   "DFFlagVoiceChatStatsRccMute": "True",
   "FFlagLuaAppRefactorOmniRecsSortContents3": "True",
+  "FFlagIOSEnableNotchSupportIXPExperiment": "True",
+  "FFlagIOSSendSafeAreaInsetsWithScreenProtocol2": "True",
+  "FFlagNotchSpaceSupportIOS2": "True",
+  "FFlagStudioReportHadMemAllocExceptionToTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4242,8 +4246,8 @@
   "FFlagMovePrerender_PlaceFilter": "True;6516141723;2753915549;6284583030;920587237",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenAndroid",
   "FStringShareLinkResolved": "ShareLinkResolvedAndroid",
-  "FStringFlagRepoGitHashFastString": "acd57b4cf308a4735f21b6b7b11cbf3fb24aae4c",
-  "DFStringFlagRepoGitHashDynamicString": "acd57b4cf308a4735f21b6b7b11cbf3fb24aae4c",
-  "FStringFlipTimeStampFastString": "2023-03-09T22:16:05.551Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-09T22:16:05.551Z"
+  "FStringFlagRepoGitHashFastString": "b2c1621db3fe287080438385421418c7a7469d27",
+  "DFStringFlagRepoGitHashDynamicString": "b2c1621db3fe287080438385421418c7a7469d27",
+  "FStringFlipTimeStampFastString": "2023-03-09T22:17:50.041Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-09T22:17:50.041Z"
 }
