@@ -3354,7 +3354,6 @@
   "FIntSmoothClusterTaskQueueMsPerCycle": "2",
   "FFlagTeleportCallbacksAsLamda": "True",
   "FFlagLuaReorderAttributeCheck": "True",
-  "FFlagLuaAppUpdateAppGameTile": "False",
   "FFlagLuaAppOmniFeedBetterTypeFilterRefactor": "True",
   "FFlagXboxCallActivateOnCoreWindow": "True",
   "FFlagRenderEnableGlobalInstancing3": "False",
@@ -4189,15 +4188,15 @@
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "FFlagPhoneVerificationWebviewShouldBeFullscreen1": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FFlagMovePrerender_PlaceFilter": "True;4924922222;6516141723;2753915549;6284583030;5289509545;8146731988;6299805723;920587237",
+  "FFlagMovePrerender_PlaceFilter": "True;6516141723;2753915549;6284583030;8146731988;6299805723;920587237",
   "FIntEnableContactInvitesForNonPhoneVerifiedRollout_v2": "100",
   "FFlagEnableContactInvitesForNonPhoneVerifiedForAll_v2": "True",
   "FFlagRealtimeEventDataManagerUseNewCountFetches": "True",
   "FFlagEnableAppReceiptsOnValidate": "True",
   "FStringShareLinkAppOpen": "ShareLinkAppOpeniOS",
   "FStringShareLinkResolved": "ShareLinkResolvediOS",
-  "FStringFlagRepoGitHashFastString": "76cf8e88609e656ca85c914c9338394bfc3a318b",
-  "DFStringFlagRepoGitHashDynamicString": "76cf8e88609e656ca85c914c9338394bfc3a318b",
-  "FStringFlipTimeStampFastString": "2023-03-09T20:59:34.237Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-09T20:59:34.237Z"
+  "FStringFlagRepoGitHashFastString": "5122237acd4ce64fce811fdd714726596e7c3c3c",
+  "DFStringFlagRepoGitHashDynamicString": "5122237acd4ce64fce811fdd714726596e7c3c3c",
+  "FStringFlipTimeStampFastString": "2023-03-09T21:05:43.359Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-09T21:05:43.359Z"
 }
