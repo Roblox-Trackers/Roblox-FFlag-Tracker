@@ -3874,7 +3874,6 @@
   "FIntLocalizationTableUploadRowMax": "10",
   "FIntIGMv1ARFlowCSBasisPoints": "10",
   "FFlagACEHasMovedAnalytics": "True",
-  "FFlagACERotationFix": "True",
   "DFFlagHttpTraceErrorProxy": "True",
   "EnableGameCallbackAdapter": "True",
   "FFlagLuaAppShipExpTileV2": "True",
@@ -3890,6 +3889,7 @@
   "FFlagMoveLeaveTeleportEventToTeleportStart": "True",
   "FStringScriptEditorMultiCursorBetaFeatureUrl": "https://devforum.roblox.com/t/multi-cursor-script-editing-now-in-beta/2213004",
   "DFFlagFix67576": "True",
+  "FFlagEnableAXTransitionManager": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4124,8 +4124,8 @@
   "FStringFeature_CookieStoreMacStickyEnabled": "564;100",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenMacClient",
   "FStringShareLinkResolved": "ShareLinkResolvedMacClient",
-  "FStringFlagRepoGitHashFastString": "779e73984e811ccc51ee4f709a6dd477606406ab",
-  "DFStringFlagRepoGitHashDynamicString": "779e73984e811ccc51ee4f709a6dd477606406ab",
-  "FStringFlipTimeStampFastString": "2023-03-09T20:47:30.288Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-09T20:47:30.288Z"
+  "FStringFlagRepoGitHashFastString": "4ae623db6b8c50605b5fcbb8b8ea5f2cbe6a6947",
+  "DFStringFlagRepoGitHashDynamicString": "4ae623db6b8c50605b5fcbb8b8ea5f2cbe6a6947",
+  "FStringFlipTimeStampFastString": "2023-03-09T20:54:20.784Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-09T20:54:20.784Z"
 }
