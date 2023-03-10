@@ -2243,7 +2243,7 @@
   "FIntStudioPlaceOpenLowMemoryThresholdMB": "400",
   "FIntStudioPlaySoloLowMemoryThresholdMB": "100",
   "FIntStudioMainWindowLowMemoryThresholdMB": "100",
-  "FIntStudioStartupLowMemoryThresholdMB": "2000",
+  "FIntStudioStartupLowMemoryThresholdMB": "200",
   "DFFlagVideoStreamPortraitModeResolutionCheck": "True",
   "FFlagACERetireWillUpdate": "True",
   "FFlagLuauOverloadedFunctionSubtypingPerf": "True",
@@ -4284,8 +4284,8 @@
   "FFlagMovePrerender_PlaceFilter": "True;6516141723;2753915549;6284583030;920587237",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenAndroid",
   "FStringShareLinkResolved": "ShareLinkResolvedAndroid",
-  "FStringFlagRepoGitHashFastString": "ea717f8d431163741ceb3057833981010e53dda2",
-  "DFStringFlagRepoGitHashDynamicString": "ea717f8d431163741ceb3057833981010e53dda2",
-  "FStringFlipTimeStampFastString": "2023-03-10T18:19:00.028Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-10T18:19:00.028Z"
+  "FStringFlagRepoGitHashFastString": "c8b03cf792943bc91b4b53442631d3a95884940d",
+  "DFStringFlagRepoGitHashDynamicString": "c8b03cf792943bc91b4b53442631d3a95884940d",
+  "FStringFlipTimeStampFastString": "2023-03-10T18:33:57.195Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-10T18:33:57.195Z"
 }
