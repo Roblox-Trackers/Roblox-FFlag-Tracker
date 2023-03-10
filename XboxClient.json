@@ -3361,7 +3361,6 @@
   "FFlagXboxEnableDisconnectPrompt": "True",
   "FFlagGameInfoRowVoiceExitBetaBugFix": "True",
   "DFFlagControllerManagetBetterMovementSignals": "True",
-  "FFlagSelectionHighlightManagerIncorrectSelectionTelemetry": "False",
   "FFlagStudioReportLuauTypeErrors2": "True",
   "DFFlagAvatarEditorServiceDisableForSpecificExperiences": "True",
   "FFlagDevFrameworkEditableTreeTable": "True",
@@ -3929,6 +3928,7 @@
   "FFlagRemoveRoduxLastInputType": "True",
   "FFlagBadgeNotificationHttpFix2": "True",
   "FFlagAXAnimateFiltersClose": "True",
+  "FFlagSelectionHighlightManagerIncorrectSelectionTelemetry1": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4125,8 +4125,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "fd8b64df70218d7b5014af44c927f533a9a7e090",
-  "DFStringFlagRepoGitHashDynamicString": "fd8b64df70218d7b5014af44c927f533a9a7e090",
-  "FStringFlipTimeStampFastString": "2023-03-10T00:00:52.110Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-10T00:00:52.110Z"
+  "FStringFlagRepoGitHashFastString": "6f65aaf3208ee3001a877114a0289ef45c5eee16",
+  "DFStringFlagRepoGitHashDynamicString": "6f65aaf3208ee3001a877114a0289ef45c5eee16",
+  "FStringFlipTimeStampFastString": "2023-03-10T00:03:35.253Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-10T00:03:35.253Z"
 }
