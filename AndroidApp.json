@@ -3973,6 +3973,9 @@
   "XboxAnnotateNewAppBridge": "True",
   "DFFlagQueuePersistenceChange": "True",
   "FFlagFaceAnimatorAudioThreadMinimumLatency": "True",
+  "FFlagIOSEnableNotchSupportIXPExperiment": "True",
+  "FFlagIOSSendSafeAreaInsetsWithScreenProtocol2": "True",
+  "FFlagNotchSpaceSupportIOS2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4313,8 +4316,8 @@
   "FFlagEnableContactInvitesForNonPhoneVerifiedForAll_v2": "True",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenAndroid",
   "FStringShareLinkResolved": "ShareLinkResolvedAndroid",
-  "FStringFlagRepoGitHashFastString": "4d0a193043f8ccc13b67f3064767f806b42f1d36",
-  "DFStringFlagRepoGitHashDynamicString": "4d0a193043f8ccc13b67f3064767f806b42f1d36",
-  "FStringFlipTimeStampFastString": "2023-03-13T20:50:23.399Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-13T20:50:23.399Z"
+  "FStringFlagRepoGitHashFastString": "15befb1cfc3cd17eee9e5d7ad3cd6bf200f7e342",
+  "DFStringFlagRepoGitHashDynamicString": "15befb1cfc3cd17eee9e5d7ad3cd6bf200f7e342",
+  "FStringFlipTimeStampFastString": "2023-03-13T21:00:05.209Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-13T21:00:05.209Z"
 }
