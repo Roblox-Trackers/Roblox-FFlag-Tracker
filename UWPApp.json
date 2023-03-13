@@ -3653,7 +3653,6 @@
   "FFlagEnableItemOwnershipButton2": "True",
   "FFlagEnableItemOwnershipPage2": "True",
   "FFlagEnableResaleFeePolicyPrompt": "True",
-  "FFlagCollectibleItemDiscovery2": "True",
   "FFlagEnableCollectibleItems2": "True",
   "FFlagUIBloxEnableCollectibleItemRestriction2": "True",
   "FFlagVideoUseThreadPool2": "False",
@@ -3983,6 +3982,8 @@
   "FFlagBootcampCLI66753": "True",
   "FFlagCSGMeshSerializationVer5": "True",
   "FIntFlagRolloutTestStaticInt2_Rollout": "19;5256000;2022-09-13T00:00:00",
+  "FFlagCollectibleItemDiscovery3": "True",
+  "FFlagDisableWearAfterPurchaseForCollectibles": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4181,8 +4182,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "ee7d64b8178bf31a145e0a738669bcf732d559b2",
-  "DFStringFlagRepoGitHashDynamicString": "ee7d64b8178bf31a145e0a738669bcf732d559b2",
-  "FStringFlipTimeStampFastString": "2023-03-13T22:15:40.242Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-13T22:15:40.242Z"
+  "FStringFlagRepoGitHashFastString": "69ecbffb7082192a3c50c858bfcfb3aa4eb1b363",
+  "DFStringFlagRepoGitHashDynamicString": "69ecbffb7082192a3c50c858bfcfb3aa4eb1b363",
+  "FStringFlipTimeStampFastString": "2023-03-13T22:23:47.939Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-13T22:23:47.939Z"
 }
