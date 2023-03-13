@@ -3900,7 +3900,7 @@
   "FFlagLuaAppRefactorOmniRecsSortContents3": "True",
   "FFlagStudioReportHadMemAllocExceptionToTelemetry": "True",
   "DFFlagVoiceChatRccMute": "False",
-  "DFFlagVoiceChatRccMute_PlaceFilter": "True;9872472334;6284583030",
+  "DFFlagVoiceChatRccMute_PlaceFilter": "True;9872472334;6284583030;11116930529",
   "FFlagVoiceChatRccMuteSignalConnection": "True",
   "FFlagXboxMigrateUsernamePasswordValidation": "True",
   "FFlagStudioLogWinIdChanges": "True",
@@ -3950,6 +3950,9 @@
   "FFlagAnimationStreamTrackPlayedSignal": "True",
   "FFlagAudioAssetsInResizableCache": "True",
   "DFFlagTaskLibReportNonSuspended": "True",
+  "DFFlagVoiceChatDisableOriginalMuteSignal": "False",
+  "DFFlagVoiceChatDisableOriginalMuteSignal_PlaceFilter": "True;11116930529",
+  "DFFlagUpdateLatestTimeForNoPhys": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4184,8 +4187,8 @@
   "FStringFeature_CookieStoreMacStickyEnabled": "564;100",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenMacClient",
   "FStringShareLinkResolved": "ShareLinkResolvedMacClient",
-  "FStringFlagRepoGitHashFastString": "34ce3ac5b41bb1e037548442bbaf5eff217a6217",
-  "DFStringFlagRepoGitHashDynamicString": "34ce3ac5b41bb1e037548442bbaf5eff217a6217",
-  "FStringFlipTimeStampFastString": "2023-03-13T16:42:30.580Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-13T16:42:30.580Z"
+  "FStringFlagRepoGitHashFastString": "58b4a5c72cb72ac06d47854c43a5025db1e0c3ea",
+  "DFStringFlagRepoGitHashDynamicString": "58b4a5c72cb72ac06d47854c43a5025db1e0c3ea",
+  "FStringFlipTimeStampFastString": "2023-03-13T17:44:12.877Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-13T17:44:12.877Z"
 }
