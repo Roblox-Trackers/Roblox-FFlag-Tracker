@@ -3954,6 +3954,8 @@
   "DFFlagVoiceChatDisableOriginalMuteSignal_PlaceFilter": "True;11116930529",
   "DFFlagUpdateLatestTimeForNoPhys": "True",
   "FFlagLuauDeprecateTableGetnForeach": "True",
+  "FFlagLuauImproveDeprecatedApiLint": "True",
+  "FFlagLuauFixInterpStringMid": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4150,8 +4152,8 @@
   "FIntShareInviteLinkContextMenuV1RolloutPercentage": "0",
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "e70488cb82aa8e1d50385e4e7f96aa244509beea",
-  "DFStringFlagRepoGitHashDynamicString": "e70488cb82aa8e1d50385e4e7f96aa244509beea",
-  "FStringFlipTimeStampFastString": "2023-03-13T17:45:35.347Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-13T17:45:35.347Z"
+  "FStringFlagRepoGitHashFastString": "2d481f41e3207309d98ba3b3197afae27abdfab8",
+  "DFStringFlagRepoGitHashDynamicString": "2d481f41e3207309d98ba3b3197afae27abdfab8",
+  "FStringFlipTimeStampFastString": "2023-03-13T17:46:25.263Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-13T17:46:25.263Z"
 }
