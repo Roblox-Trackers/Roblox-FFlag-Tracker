@@ -3976,6 +3976,7 @@
   "FFlagIOSEnableNotchSupportIXPExperiment": "True",
   "FFlagIOSSendSafeAreaInsetsWithScreenProtocol2": "True",
   "FFlagNotchSpaceSupportIOS2": "True",
+  "DFFlagRCCIncludeHTTPErrorInitTelmetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4216,8 +4217,8 @@
   "DFFlagRenderTC2_6_PlaceFilter": "False;11781792372",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenWindowsClient",
   "FStringShareLinkResolved": "ShareLinkResolvedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "15befb1cfc3cd17eee9e5d7ad3cd6bf200f7e342",
-  "DFStringFlagRepoGitHashDynamicString": "15befb1cfc3cd17eee9e5d7ad3cd6bf200f7e342",
-  "FStringFlipTimeStampFastString": "2023-03-13T21:00:05.209Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-13T21:00:05.209Z"
+  "FStringFlagRepoGitHashFastString": "2a3e929dcec176e2ba6687e205393c81502e78ce",
+  "DFStringFlagRepoGitHashDynamicString": "2a3e929dcec176e2ba6687e205393c81502e78ce",
+  "FStringFlipTimeStampFastString": "2023-03-13T21:30:33.961Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-13T21:30:33.961Z"
 }
