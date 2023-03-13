@@ -3968,6 +3968,8 @@
   "DFFlagShorelines_FixWriteVoxels_Rollout": "True;30;2023-03-13T19:19:38",
   "FFlagUseExperienceDetailsPageSelector": "True",
   "FFlagMotionBuffersSkipNullVertexLayout_Rollout": "True;60;2023-03-13T19:51:59",
+  "FFlagLuaAppExperienceDetailsPageFixLoadingScreen": "True",
+  "DFFlagHandleImmersiveAdSetImageFailure": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4166,8 +4168,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "DFFlagIkControlEnabled_PlaceFilter": "False;8481844229;2965497514;9185104864",
-  "FStringFlagRepoGitHashFastString": "dbe2b67becb0ac4535ccd34985a89f5979a9743d",
-  "DFStringFlagRepoGitHashDynamicString": "dbe2b67becb0ac4535ccd34985a89f5979a9743d",
-  "FStringFlipTimeStampFastString": "2023-03-13T19:52:44.842Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-13T19:52:44.842Z"
+  "FStringFlagRepoGitHashFastString": "3ce24822558524e37220a50a58ac2bde8c84fae6",
+  "DFStringFlagRepoGitHashDynamicString": "3ce24822558524e37220a50a58ac2bde8c84fae6",
+  "FStringFlipTimeStampFastString": "2023-03-13T20:03:50.472Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-13T20:03:50.472Z"
 }
