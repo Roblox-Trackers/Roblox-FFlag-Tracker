@@ -3505,7 +3505,7 @@
   "FIntConnectionIndicatorBadConnectionPacketLossPercentThreshold": "1000",
   "FIntConnectionIndicatorBadConnectionPingThreshold": "999999999",
   "FIntConnectionIndicatorBetaFeatureRolloutPercent": "10",
-  "FIntConnectionIndicatorTryingToSaveThresholdMS": "300000",
+  "FIntConnectionIndicatorTryingToSaveThresholdMS": "180000",
   "DFFlagPreventRewriteApiToAssetDelivery": "True",
   "FFlagBottomBarButtonBehaviorFixVR": "True",
   "FFlagOffNetworkAnalytics": "True",
@@ -4331,8 +4331,8 @@
   "FFlagEnableContactInvitesForNonPhoneVerifiedForAll_v2": "True",
   "FStringShareLinkAppOpen": "ShareLinkAppOpenAndroid",
   "FStringShareLinkResolved": "ShareLinkResolvedAndroid",
-  "FStringFlagRepoGitHashFastString": "f3a158439f8258ef5180a9e871e23c76e0286f4d",
-  "DFStringFlagRepoGitHashDynamicString": "f3a158439f8258ef5180a9e871e23c76e0286f4d",
-  "FStringFlipTimeStampFastString": "2023-03-14T16:49:09.351Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-14T16:49:09.351Z"
+  "FStringFlagRepoGitHashFastString": "238d20c8dc5be0aeb1a783b945264cda5633ca19",
+  "DFStringFlagRepoGitHashDynamicString": "238d20c8dc5be0aeb1a783b945264cda5633ca19",
+  "FStringFlipTimeStampFastString": "2023-03-14T16:52:30.040Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-14T16:52:30.040Z"
 }
