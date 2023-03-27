@@ -3796,7 +3796,6 @@
   "FFlagDeferUpdateSelectionsUntilAfterChange": "True",
   "FFlagGameInviteShortUrlEnabled": "True",
   "FFlagDevFrameworkForm": "True",
-  "FFlagSelfViewProfileDiscoverabilityUpsellIXPSetupEnabled": "False",
   "FFlagExperienceTileV2AppUpdate": "True",
   "FFlagStudioUseNewAssetImporterIcon": "True",
   "DFFlagVoiceChatStreamingFix": "True",
@@ -4196,6 +4195,7 @@
   "DFIntVelocityAwareStreamingThreshold2_PlaceFilter": "0;2337102976",
   "FFlagFixFriendActivityFooterHeight": "True",
   "FFlagUseCacheAutolist": "True",
+  "FFlagSelfViewProfileDiscoverabilityUpsellIXPSetupEnabled_v1": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4439,8 +4439,8 @@
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedWindowsClient",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "798804574d21d36fb0c12a65aebea64450f86fb1",
-  "DFStringFlagRepoGitHashDynamicString": "798804574d21d36fb0c12a65aebea64450f86fb1",
-  "FStringFlipTimeStampFastString": "2023-03-27T20:51:40.928Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-27T20:51:40.928Z"
+  "FStringFlagRepoGitHashFastString": "1e34f148e799fe6344449b64fba99a46c86664b7",
+  "DFStringFlagRepoGitHashDynamicString": "1e34f148e799fe6344449b64fba99a46c86664b7",
+  "FStringFlipTimeStampFastString": "2023-03-27T20:55:57.973Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-27T20:55:57.973Z"
 }
