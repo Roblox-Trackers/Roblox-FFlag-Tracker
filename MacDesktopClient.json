@@ -4102,7 +4102,6 @@
   "DFIntFlagRolloutTestDynamicInt1": "111",
   "DFIntFlagRolloutTestDynamicInt2": "223",
   "DFStringFlagRolloutTestDynamicString1": "Mar10Test",
-  "FFlagFlagRolloutTestStaticBool1": "true",
   "FFlagMotionBuffersSkipNullVertexLayout": "True",
   "DFFlagAbuseReportSignalThroughEvent": "True",
   "FFlagRenderSunShadowCacheCopyTile": "True",
@@ -4193,6 +4192,7 @@
   "FFlagPYMKExperimentSetup_v6": "False",
   "DFFlagDoesNotExistAtAll_Rollout": "False;60;2023-03-27T19:39:02",
   "FFlagPassPhoneVerificationIntoContactsListFromFindFriendsModal_v1": "True",
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2023-03-27T20:42:24",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4433,8 +4433,8 @@
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedMacClient",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedMacClient",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "f8bf89b66d691b9b4951abe41f25ac7c68ad6f00",
-  "DFStringFlagRepoGitHashDynamicString": "f8bf89b66d691b9b4951abe41f25ac7c68ad6f00",
-  "FStringFlipTimeStampFastString": "2023-03-27T20:40:02.904Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-27T20:40:02.904Z"
+  "FStringFlagRepoGitHashFastString": "8ba9219ec088cc07356038a6288741fb23134e9e",
+  "DFStringFlagRepoGitHashDynamicString": "8ba9219ec088cc07356038a6288741fb23134e9e",
+  "FStringFlipTimeStampFastString": "2023-03-27T20:43:18.377Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-27T20:43:18.377Z"
 }
