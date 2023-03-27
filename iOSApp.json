@@ -4170,9 +4170,9 @@
   "FFlagFlagAPICaching_Rollout": "False;60;2023-03-23T23:50:00",
   "AppRatingsNumberOfFriendsForLaunch": "0",
   "DFFlagStreamingAnimationPauseWhileEmotingRemoteFix": "False",
-  "DFFlagStreamingAnimationPauseWhileEmotingRemoteFix_PlaceFilter": "True;11597947993;10787386927",
+  "DFFlagStreamingAnimationPauseWhileEmotingRemoteFix_PlaceFilter": "True;11597947993;10787386927;10057672346",
   "FFlagStreamingAnimationPauseWhileEmoting": "False",
-  "FFlagStreamingAnimationPauseWhileEmoting_PlaceFilter": "True;11597947993;10787386927",
+  "FFlagStreamingAnimationPauseWhileEmoting_PlaceFilter": "True;11597947993;10787386927;10057672346",
   "FFlagLuaAppExperienceDetailsPageUseDeviceType": "True",
   "FFlagLuaAppFixExperienceGuidelineTextAlignment": "True",
   "DFFlagLogServiceRSC": "True",
@@ -4187,6 +4187,7 @@
   "FFlagPromoteSandboxedSourceToApp": "True",
   "FFlagRegisterTeamCreateSharedAPIs": "True",
   "FFlagGraphicsEnableInstancedStream2": "True",
+  "FFlagUseNewRigGenerator2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4491,8 +4492,8 @@
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptediOS",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissediOS",
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
-  "FStringFlagRepoGitHashFastString": "f9439a3ff98bb12fbbcc1f76823c82a4c21a9e2c",
-  "DFStringFlagRepoGitHashDynamicString": "f9439a3ff98bb12fbbcc1f76823c82a4c21a9e2c",
-  "FStringFlipTimeStampFastString": "2023-03-27T17:57:20.954Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-27T17:57:20.954Z"
+  "FStringFlagRepoGitHashFastString": "73f94dbf049ae1d62254e4b73bb40055b3385e4c",
+  "DFStringFlagRepoGitHashDynamicString": "73f94dbf049ae1d62254e4b73bb40055b3385e4c",
+  "FStringFlipTimeStampFastString": "2023-03-27T18:02:15.106Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-27T18:02:15.106Z"
 }
