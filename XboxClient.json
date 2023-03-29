@@ -4193,12 +4193,12 @@
   "FFlagFixFriendActivityFooterHeight": "True",
   "FFlagUseCacheAutolist": "True",
   "FFlagSelfViewProfileDiscoverabilityUpsellIXPSetupEnabled_v1": "True",
-  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2023-03-27T21:32:29",
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2023-03-29T21:43:31",
   "DFIntMinimumTerrainStreamingRadiusRegions": "4",
   "DFFlagAsyncStreamingNoBlockGC3": "True",
   "FFlagAnimationManagerRefactorTrackHandling": "True",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2023-03-27T22:19:53",
-  "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2023-03-27T22:19:53",
+  "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2023-03-29T21:43:31",
   "FFlagCSGMeshDeserializationTelemetry": "True",
   "FFlagProfileQRCodeEnableAlerts_v5": "True",
   "FFlagProfileQRCodeFixDistanceFromTop": "True",
@@ -4467,8 +4467,8 @@
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FFlagRestrictLimited2ToSoothsayers": "True",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "ce2ead747ec1107ed5c34f7eb4aa485845faf122",
-  "DFStringFlagRepoGitHashDynamicString": "ce2ead747ec1107ed5c34f7eb4aa485845faf122",
-  "FStringFlipTimeStampFastString": "2023-03-29T21:42:55.940Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-29T21:42:55.940Z"
+  "FStringFlagRepoGitHashFastString": "035b5e4e5e7c33f5aa0f0920fe3ef2c39ab61c2f",
+  "DFStringFlagRepoGitHashDynamicString": "035b5e4e5e7c33f5aa0f0920fe3ef2c39ab61c2f",
+  "FStringFlipTimeStampFastString": "2023-03-29T21:44:14.019Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-29T21:44:14.019Z"
 }
