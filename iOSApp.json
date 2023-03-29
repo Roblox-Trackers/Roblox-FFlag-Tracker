@@ -4227,6 +4227,8 @@
   "DFFlagEnableSearchAudioApi": "True",
   "FFlagLuaAppChallengeShouldIgnoreBackNavigationDisabled": "True",
   "DFFlagAddStreamingEnabledTagEventIngest_Rollout": "True;60;2023-03-29T19:58:33",
+  "FFlagMultiCursorDoubleClickBugfix": "True",
+  "FFlagMultiCursorDragDropBugfix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4531,8 +4533,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissediOS",
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "70470e6c1b17a5a2f20dbac9a184c0f796983a5c",
-  "DFStringFlagRepoGitHashDynamicString": "70470e6c1b17a5a2f20dbac9a184c0f796983a5c",
-  "FStringFlipTimeStampFastString": "2023-03-29T19:59:13.622Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-29T19:59:13.622Z"
+  "FStringFlagRepoGitHashFastString": "d9d73e2d4ef59898bdcce7627c369f7485c02893",
+  "DFStringFlagRepoGitHashDynamicString": "d9d73e2d4ef59898bdcce7627c369f7485c02893",
+  "FStringFlipTimeStampFastString": "2023-03-29T20:00:57.154Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-29T20:00:57.154Z"
 }
