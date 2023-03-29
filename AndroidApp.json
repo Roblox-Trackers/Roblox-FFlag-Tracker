@@ -4226,6 +4226,7 @@
   "FFlagAvatarChatSubsessionAnalyticsV2Lua3": "True",
   "DFFlagEnableSearchAudioApi": "True",
   "FFlagLuaAppChallengeShouldIgnoreBackNavigationDisabled": "True",
+  "DFFlagAddStreamingEnabledTagEventIngest_Rollout": "True;60;2023-03-29T19:58:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4566,8 +4567,8 @@
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedAndroid",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedAndroid",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "199b9361ebdbf67ef6bfba8ac6a230733a71d04c",
-  "DFStringFlagRepoGitHashDynamicString": "199b9361ebdbf67ef6bfba8ac6a230733a71d04c",
-  "FStringFlipTimeStampFastString": "2023-03-29T19:57:52.706Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-29T19:57:52.706Z"
+  "FStringFlagRepoGitHashFastString": "70470e6c1b17a5a2f20dbac9a184c0f796983a5c",
+  "DFStringFlagRepoGitHashDynamicString": "70470e6c1b17a5a2f20dbac9a184c0f796983a5c",
+  "FStringFlipTimeStampFastString": "2023-03-29T19:59:13.622Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-29T19:59:13.622Z"
 }
