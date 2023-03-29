@@ -4228,6 +4228,8 @@
   "FFlagLuaAppChallengeShouldIgnoreBackNavigationDisabled": "True",
   "DFFlagAddStreamingEnabledTagEventIngest_Rollout": "True;60;2023-03-29T19:58:33",
   "FFlagMultiCursorDoubleClickBugfix": "True",
+  "FFlagMultiCursorDragDropBugfix": "True",
+  "FFlagImmersiveAdsUseNewStatusProp": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4468,8 +4470,8 @@
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedMacClient",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedMacClient",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "70470e6c1b17a5a2f20dbac9a184c0f796983a5c",
-  "DFStringFlagRepoGitHashDynamicString": "70470e6c1b17a5a2f20dbac9a184c0f796983a5c",
-  "FStringFlipTimeStampFastString": "2023-03-29T19:59:13.622Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-29T19:59:13.622Z"
+  "FStringFlagRepoGitHashFastString": "3c0e09b5db55f06888d85a39ce942c13001274ea",
+  "DFStringFlagRepoGitHashDynamicString": "3c0e09b5db55f06888d85a39ce942c13001274ea",
+  "FStringFlipTimeStampFastString": "2023-03-29T20:02:11.710Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-29T20:02:11.710Z"
 }
