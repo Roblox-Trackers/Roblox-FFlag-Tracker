@@ -4257,6 +4257,8 @@
   "FFlagLuaAppFixHomeGameGridImpressions": "True",
   "DFFlagLocalizationNoSprintf": "True",
   "DFFlagBaseNoSprintf": "True",
+  "DFFlagAppNoSprintf": "True",
+  "DFFlagBulletPhysicsNoSprintf": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4453,8 +4455,8 @@
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FFlagRestrictLimited2ToSoothsayers": "True",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "d6142b318819f04f4a33d8b642b2257360d6405d",
-  "DFStringFlagRepoGitHashDynamicString": "d6142b318819f04f4a33d8b642b2257360d6405d",
-  "FStringFlipTimeStampFastString": "2023-03-29T20:59:05.623Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-29T20:59:05.623Z"
+  "FStringFlagRepoGitHashFastString": "0fb81fdfcf5f4742ce9836f1ead9030e7cc73075",
+  "DFStringFlagRepoGitHashDynamicString": "0fb81fdfcf5f4742ce9836f1ead9030e7cc73075",
+  "FStringFlipTimeStampFastString": "2023-03-29T21:00:01.180Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-29T21:00:01.180Z"
 }
