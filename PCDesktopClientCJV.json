@@ -1306,7 +1306,7 @@
   "DFIntSkipReadDiskCacheRedirectsHundrethsPercentage": "0",
   "FFlagDisableUgcTerrainTintMask": "True",
   "DFIntStudioReportStreamingEnabledChangeHundredths": "10000",
-  "FFlagStudioReportStreamingEnabledChange": "True",
+  "FFlagStudioReportStreamingEnabledChange": "False",
   "FIntRbfMinDistance": "1000",
   "FFlagLaunchData": "True",
   "FFlagSessionL0ChangeEvents": "True",
@@ -4514,8 +4514,8 @@
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedWindowsClient",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "035b5e4e5e7c33f5aa0f0920fe3ef2c39ab61c2f",
-  "DFStringFlagRepoGitHashDynamicString": "035b5e4e5e7c33f5aa0f0920fe3ef2c39ab61c2f",
-  "FStringFlipTimeStampFastString": "2023-03-29T21:44:14.019Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-29T21:44:14.019Z"
+  "FStringFlagRepoGitHashFastString": "6d7f94552fe8df794a2a3244e47eac8b2e5a22dc",
+  "DFStringFlagRepoGitHashDynamicString": "6d7f94552fe8df794a2a3244e47eac8b2e5a22dc",
+  "FStringFlipTimeStampFastString": "2023-03-29T21:50:11.694Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-29T21:50:11.694Z"
 }
