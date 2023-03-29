@@ -4141,9 +4141,9 @@
   "FFlagFaceAnimatorNotifyLODRecommendCameraInputDisable": "False",
   "FFlagTrackerLodControllerThermalState": "True",
   "FIntAvatarChatSubsessionInputEventThrottleHundrethsPercent": "0",
-  "FIntAvatarChatSubsessionInputEventThrottleHundrethsPercent_PlaceFilter": "10000;11701806268",
+  "FIntAvatarChatSubsessionInputEventThrottleHundrethsPercent_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;10001514317;11597947993",
   "FIntAvatarChatSubsessionStatsEventThrottleHundrethsPercent": "0",
-  "FIntAvatarChatSubsessionStatsEventThrottleHundrethsPercent_PlaceFilter": "10000;11701806268",
+  "FIntAvatarChatSubsessionStatsEventThrottleHundrethsPercent_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;10001514317;11597947993",
   "FFlagIntegrityCheckedProcessorServerIgnoresOldEvent": "True",
   "FStringIKControlJointLimitBetaFeatureUrl": "https://devforum.roblox.com/t/ikcontrol-joint-constraint-beta/2227050",
   "FFlagOffCenterOriginSupportAudio1": "True",
@@ -4223,6 +4223,8 @@
   "FFlagRenderStudioMultiSelect": "True",
   "FIntSelectionImprovementsBetaFeatureRolloutPercent": "10",
   "DFFlagAdPortalUseFlagForAxisValidation": "True",
+  "FFlagAvatarChatSubsessionAnalyticsV2Lua3": "True",
+  "DFFlagEnableSearchAudioApi": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4527,8 +4529,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissediOS",
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "988e43f49512a57ae51660a2de9b71b3da80c720",
-  "DFStringFlagRepoGitHashDynamicString": "988e43f49512a57ae51660a2de9b71b3da80c720",
-  "FStringFlipTimeStampFastString": "2023-03-29T19:54:46.909Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-29T19:54:46.909Z"
+  "FStringFlagRepoGitHashFastString": "3d5394df35651a61810ee63b7c9a8f29d0d45367",
+  "DFStringFlagRepoGitHashDynamicString": "3d5394df35651a61810ee63b7c9a8f29d0d45367",
+  "FStringFlipTimeStampFastString": "2023-03-29T19:56:45.937Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-29T19:56:45.937Z"
 }
