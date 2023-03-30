@@ -4157,7 +4157,6 @@
   "FFlagLuaAppExperienceDetailsPageFixScreenOffset": "True",
   "FFlagDelayResizingTextureUntilProcessed": "True",
   "FFlagFaceAnimatorDisableVideoByDefault": "True",
-  "AllowVideoPreRoll": "True",
   "AppRatingsNumberOfFriendsForLaunch": "0",
   "DFFlagStreamingAnimationPauseWhileEmotingRemoteFix": "False",
   "DFFlagStreamingAnimationPauseWhileEmotingRemoteFix_PlaceFilter": "True;11597947993;10787386927;10057672346;10001514317;12867047376;12867089300;11402255591;12796376276;11460402982;12500012844",
@@ -4301,6 +4300,7 @@
   "DFFlagEnableADS2468": "True",
   "FFlagUncheckBetaWhenLegalDisclaimerClosed": "True",
   "FFlagBetaFeaturesLegalDisclaimer": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -4640,8 +4640,8 @@
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedAndroid",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedAndroid",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "36c68d5aa638690651e1f25faa8d593d50a1fae1",
-  "DFStringFlagRepoGitHashDynamicString": "36c68d5aa638690651e1f25faa8d593d50a1fae1",
-  "FStringFlipTimeStampFastString": "2023-03-30T17:23:15.421Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-30T17:23:15.421Z"
+  "FStringFlagRepoGitHashFastString": "3dc322ea0335b0d55c6d7a561ff4e6685475c9ec",
+  "DFStringFlagRepoGitHashDynamicString": "3dc322ea0335b0d55c6d7a561ff4e6685475c9ec",
+  "FStringFlipTimeStampFastString": "2023-03-30T17:39:26.649Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-30T17:39:26.649Z"
 }
