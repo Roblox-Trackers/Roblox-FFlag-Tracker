@@ -4290,6 +4290,7 @@
   "DFFlagSessionTrackingRecordHasLocation_Rollout": "True;60;2023-03-30T16:42:57",
   "DFIntImpressionCriteriaCounterThrottleHundrethsPercent": "10000",
   "FFlagSimCSG3TreeEnableColorSerialization": "True",
+  "DFFlagDataStoreEnableLocalWriteThrottleEvent": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4486,8 +4487,8 @@
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FFlagRestrictLimited2ToSoothsayers": "True",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "b448f01ee425aa97eb74693e0c98c5a25ff4454a",
-  "DFStringFlagRepoGitHashDynamicString": "b448f01ee425aa97eb74693e0c98c5a25ff4454a",
-  "FStringFlipTimeStampFastString": "2023-03-30T16:46:45.535Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-30T16:46:45.535Z"
+  "FStringFlagRepoGitHashFastString": "a59feda00761d3f97a91df32ed95fed021afd050",
+  "DFStringFlagRepoGitHashDynamicString": "a59feda00761d3f97a91df32ed95fed021afd050",
+  "FStringFlipTimeStampFastString": "2023-03-30T16:47:10.764Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-30T16:47:10.764Z"
 }
