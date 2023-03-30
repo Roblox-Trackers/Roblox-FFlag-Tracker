@@ -4313,6 +4313,8 @@
   "DFStringBouncingScriptHashes": "afba4c7f78f0d3ba21eecad014d577,a56973785c92e2cf53c23d3727bc56,234aeb653563acdf5e00d02fb8da6d,b5762641ed134a4bee3a4cc855a76e,ee97967c358708cf1184c44c2b6923,ad00a5ce2136cdfe263cb89c74e184,09da36bdc79db4be4bfc91e8640a64",
   "DFFlagPerformanceControlFixDeadlockBetweenScopedTunableIdAndTaskScheduler": "True",
   "DFFlagFixBuoyancySensorUpdate": "True",
+  "DFFlagSimHumanoidLevitationUpdates": "true",
+  "FFlagSimNewLevitationInterface": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4617,8 +4619,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissediOS",
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "1b51a195d055ca6892c275054e7eac36e78a02c9",
-  "DFStringFlagRepoGitHashDynamicString": "1b51a195d055ca6892c275054e7eac36e78a02c9",
-  "FStringFlipTimeStampFastString": "2023-03-30T18:53:50.301Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-30T18:53:50.301Z"
+  "FStringFlagRepoGitHashFastString": "da6dcf3e3bb65b7608f9ca3c3bde534eec5b59e4",
+  "DFStringFlagRepoGitHashDynamicString": "da6dcf3e3bb65b7608f9ca3c3bde534eec5b59e4",
+  "FStringFlipTimeStampFastString": "2023-03-30T18:58:41.497Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-30T18:58:41.497Z"
 }
