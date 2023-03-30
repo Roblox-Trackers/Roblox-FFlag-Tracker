@@ -4135,7 +4135,7 @@
   "DFIntTrackerLODFrameRateLimitVoteAmount": "1",
   "DFIntTrackerLowCameraFPSDetectedThrottleHundrethsPercent": "0",
   "DFIntTrackerLowCameraFPSDetectedThrottleHundrethsPercent_PlaceFilter": "10000;10001514317",
-  "FFlagFaceAnimatorNotifyLODRecommendCameraInputDisable": "False",
+  "FFlagFaceAnimatorNotifyLODRecommendCameraInputDisable": "True",
   "FFlagTrackerLodControllerThermalState": "True",
   "FIntAvatarChatSubsessionInputEventThrottleHundrethsPercent": "0",
   "FIntAvatarChatSubsessionInputEventThrottleHundrethsPercent_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;10001514317;11597947993",
@@ -4292,6 +4292,9 @@
   "FFlagSimCSG3TreeEnableColorSerialization": "True",
   "DFFlagDataStoreEnableLocalWriteThrottleEvent": "True",
   "DFIntDatastoreLocalWriteThrottleHundredthsPercent": "50",
+  "FFlagDisableInitialArmLODBasedOnArm82Capabilities": "True",
+  "FFlagFaceAnimatorIncludeDisableToastEventPrompt": "True",
+  "FFlagFaceAnimatorIncludeFPSAndV2CInCamToastEvent": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4536,8 +4539,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "11;20;2023-03-30T00:44:21",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "3a4f9d2f8e3891c7530fd12ae09618217729bff5",
-  "DFStringFlagRepoGitHashDynamicString": "3a4f9d2f8e3891c7530fd12ae09618217729bff5",
-  "FStringFlipTimeStampFastString": "2023-03-30T16:54:23.347Z",
-  "DFStringFlipTimeStampDynamicString": "2023-03-30T16:54:23.347Z"
+  "FStringFlagRepoGitHashFastString": "c11b6e2599991bc9b389a24505562ad4b5bf09c5",
+  "DFStringFlagRepoGitHashDynamicString": "c11b6e2599991bc9b389a24505562ad4b5bf09c5",
+  "FStringFlipTimeStampFastString": "2023-03-30T16:59:49.435Z",
+  "DFStringFlipTimeStampDynamicString": "2023-03-30T16:59:49.435Z"
 }
