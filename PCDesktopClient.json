@@ -4352,6 +4352,8 @@
   "DFFlagRbxtempForBuffer2": "True",
   "FFlagCastEventGameTypeIdToString": "True",
   "FFlagRemoveMandatoryFiveSecondWait_DataCenterFilter": "True;367",
+  "FFlagFacialAnimationShowcaseFacsMirroringFix": "True",
+  "FFlagLookForPlayerAndStreamSource": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4596,8 +4598,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "11;30;2023-03-30T22:24:44",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "fcb7bd78fabccdbb9a4a62b1a6c92c334f2f35a3",
-  "DFStringFlagRepoGitHashDynamicString": "fcb7bd78fabccdbb9a4a62b1a6c92c334f2f35a3",
-  "FStringFlipTimeStampFastString": "2023-04-03T16:50:00.077Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-03T16:50:00.077Z"
+  "FStringFlagRepoGitHashFastString": "bb43d05cbe69b638fb358878a52c5e5bb7229106",
+  "DFStringFlagRepoGitHashDynamicString": "bb43d05cbe69b638fb358878a52c5e5bb7229106",
+  "FStringFlipTimeStampFastString": "2023-04-03T16:50:39.006Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-03T16:50:39.006Z"
 }
