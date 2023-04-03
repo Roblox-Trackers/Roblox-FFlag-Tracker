@@ -2846,7 +2846,7 @@
   "FIntBacktraceUseSyncPercentage": "100",
   "FFlagFixOldHomeFlashWhenAsyncOn": "True",
   "FFlagLuaAppFixAddGamesOnExit": "True",
-  "FFlagEnableServerSideReportToAdsApi3": "True",
+  "FFlagEnableServerSideReportToAdsApi3": "False",
   "DFFlagCLI64534": "True",
   "DFIntFontProvider_FamilyLoadSucceeded_HundredthsPercent": "1",
   "FFlagAXUseIXPUtilsOther": "True",
@@ -4592,8 +4592,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "11;30;2023-03-30T22:24:44",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "52b3e745989b32ed326e8f0db22dff6e3ce3bd57",
-  "DFStringFlagRepoGitHashDynamicString": "52b3e745989b32ed326e8f0db22dff6e3ce3bd57",
-  "FStringFlipTimeStampFastString": "2023-04-03T16:10:38.076Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-03T16:10:38.076Z"
+  "FStringFlagRepoGitHashFastString": "3778847994889e7cb4de78197bfc4a3fa39047f2",
+  "DFStringFlagRepoGitHashDynamicString": "3778847994889e7cb4de78197bfc4a3fa39047f2",
+  "FStringFlipTimeStampFastString": "2023-04-03T16:34:56.725Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-03T16:34:56.725Z"
 }
