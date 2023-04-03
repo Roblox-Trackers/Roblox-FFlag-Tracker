@@ -4354,6 +4354,8 @@
   "FFlagFacialAnimationShowcaseFacsMirroringFix": "True",
   "FFlagLookForPlayerAndStreamSource": "True",
   "FFlagRemoveMandatoryFiveSecondWait_DataCenterFilter": "True;367",
+  "FFlagStudioUpdateUserActionTelemetry": "True",
+  "FFlagStudioUpdateScriptEditorTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4550,8 +4552,8 @@
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FFlagRestrictLimited2ToSoothsayers": "True",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "c64fca29cf83f0ba815f991b7dc6cac8336083c8",
-  "DFStringFlagRepoGitHashDynamicString": "c64fca29cf83f0ba815f991b7dc6cac8336083c8",
-  "FStringFlipTimeStampFastString": "2023-04-03T18:46:02.396Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-03T18:46:02.396Z"
+  "FStringFlagRepoGitHashFastString": "5a60b642991fead17de87d27eb8556ade1daefa6",
+  "DFStringFlagRepoGitHashDynamicString": "5a60b642991fead17de87d27eb8556ade1daefa6",
+  "FStringFlipTimeStampFastString": "2023-04-03T18:47:29.777Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-03T18:47:29.777Z"
 }
