@@ -4203,7 +4203,7 @@
   "FFlagTextureManagerOnlySizeIfLoaded": "True",
   "FStringLuaAppUnifiedHomeLayer": "PlayerApp.HomePage.UX",
   "DFIntScreenGuiSafeAreaPropertiesAnalytics_ReportHundredthsPercent": "1",
-  "FFlagRemoveMandatoryFiveSecondWait": "False",
+  "FFlagRemoveMandatoryFiveSecondWait": "True",
   "FFlagRCCUseFlagsEndpoint": "True",
   "FFlagAvatarChatCoreScriptSupport": "False",
   "FFlagAvatarChatCoreScriptSupport_PlaceFilter": "True;10404927539;11444556552;11701806268;11766336272;10057672346;12806190892;12806247258;12806262789;12806270326;12806279894;10787386927;12867018908;10001514317;12867047376;12867089300;11460402982;12500012844;11402255591;12796376276;12991298352",
@@ -4353,7 +4353,6 @@
   "FFlagCastEventGameTypeIdToString": "True",
   "FFlagFacialAnimationShowcaseFacsMirroringFix": "True",
   "FFlagLookForPlayerAndStreamSource": "True",
-  "FFlagRemoveMandatoryFiveSecondWait_DataCenterFilter": "True;367",
   "FFlagStudioUpdateUserActionTelemetry": "True",
   "FFlagStudioUpdateScriptEditorTelemetry": "True",
   "AllowVideoPreRoll": "True",
@@ -4660,8 +4659,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissediOS",
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "ddb2af9ee92b858023c2c94d66df1c7f2d70970f",
-  "DFStringFlagRepoGitHashDynamicString": "ddb2af9ee92b858023c2c94d66df1c7f2d70970f",
-  "FStringFlipTimeStampFastString": "2023-04-03T19:20:01.272Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-03T19:20:01.272Z"
+  "FStringFlagRepoGitHashFastString": "ac3b47a8e6e21f6ebb1b1f2b72f49960c90b955e",
+  "DFStringFlagRepoGitHashDynamicString": "ac3b47a8e6e21f6ebb1b1f2b72f49960c90b955e",
+  "FStringFlipTimeStampFastString": "2023-04-03T20:01:16.338Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-03T20:01:16.338Z"
 }
