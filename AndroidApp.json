@@ -4130,7 +4130,7 @@
   "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "0",
   "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent_PlaceFilter": "10000;10001514317;12991298352",
   "DFIntAvatarFacechatReplicationOverRCCTelemetryThrottleHundrethsPercent": "0",
-  "DFIntAvatarFacechatReplicationOverRCCTelemetryThrottleHundrethsPercent_PlaceFilter": "10000;10001514317;12991298352",
+  "DFIntAvatarFacechatReplicationOverRCCTelemetryThrottleHundrethsPercent_PlaceFilter": "10000;11597947993;10787386927;12867018908;10057672346;10001514317;12806190892;12806247258;12806270326;12806279894;12806262789;12991298352",
   "DFIntTrackerLODFrameRateLimitVoteAmount": "1",
   "DFIntTrackerLowCameraFPSDetectedThrottleHundrethsPercent": "0",
   "DFIntTrackerLowCameraFPSDetectedThrottleHundrethsPercent_PlaceFilter": "10000;10001514317;12991298352",
@@ -4358,6 +4358,10 @@
   "FFlagLuaAppHoverTileUseLaunchConnector": "True",
   "FFlagMergeGameStateWithNewData": "True",
   "DFFlagAbuseLuaV3toDMCheck": "True",
+  "FFlagEnableAvatarFacechatReplOverRCCTelemetry": "True",
+  "FIntAvatarChatHeartbeatStatsEventThrottleHundrethsPercent": "0",
+  "FIntAvatarChatHeartbeatStatsEventThrottleHundrethsPercent_PlaceFilter": "10000;11597947993;10787386927;12867018908;10057672346;10001514317;12806190892;12806247258;12806270326;12806279894;12806262789;12991298352",
+  "FIntFacialAnimationStreamingHeartbeatStatsIntervalSec": "60",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4698,8 +4702,8 @@
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedAndroid",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedAndroid",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "c6d49a4d72b5355f3d8a499dbc57534e87d71b78",
-  "DFStringFlagRepoGitHashDynamicString": "c6d49a4d72b5355f3d8a499dbc57534e87d71b78",
-  "FStringFlipTimeStampFastString": "2023-04-03T20:26:54.580Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-03T20:26:54.580Z"
+  "FStringFlagRepoGitHashFastString": "439df389f49b38d8c2e9571b40c57d527dd05d85",
+  "DFStringFlagRepoGitHashDynamicString": "439df389f49b38d8c2e9571b40c57d527dd05d85",
+  "FStringFlipTimeStampFastString": "2023-04-03T20:28:17.745Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-03T20:28:17.745Z"
 }
