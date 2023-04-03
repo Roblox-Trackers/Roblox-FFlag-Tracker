@@ -4372,6 +4372,7 @@
   "FFlagFlagRolloutTestStaticBool9_Rollout": "False;60;2023-04-03T20:41:46",
   "DFFlagFlagRolloutTestDynamicBool9_Rollout": "False;60;2023-04-03T20:41:51",
   "FFlagExperienceTileV2ShowAgeRatingOnHover": "True",
+  "DFFlagStablePDControlFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4616,8 +4617,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "11;30;2023-03-30T22:24:44",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "518b60ab0684d54d4ca874aff8f094b8a94669cd",
-  "DFStringFlagRepoGitHashDynamicString": "518b60ab0684d54d4ca874aff8f094b8a94669cd",
-  "FStringFlipTimeStampFastString": "2023-04-03T21:01:41.784Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-03T21:01:41.784Z"
+  "FStringFlagRepoGitHashFastString": "b0817545e67e8e2e5a526b528fccbf21c81a8662",
+  "DFStringFlagRepoGitHashDynamicString": "b0817545e67e8e2e5a526b528fccbf21c81a8662",
+  "FStringFlipTimeStampFastString": "2023-04-03T21:04:45.712Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-03T21:04:45.712Z"
 }
