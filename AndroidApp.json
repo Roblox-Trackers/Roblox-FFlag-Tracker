@@ -2527,7 +2527,7 @@
   "DFIntAnimationRateLimiterMaxAmount": "21",
   "DFIntAnimationRateLimiterSeconds": "20",
   "FFlagLuaAppAddLoggingParams": "True",
-  "FStringLuaIXPLayersSuppressMutedError": "AvatarMarketplace.RecommendationsAndSearch.Mobile",
+  "FStringLuaIXPLayersSuppressMutedError": "AvatarMarketplace.RecommendationsAndSearch.Mobile,AvatarMarketplace.UI",
   "FIntStudioPluginOTATimerIntervalSeconds": "10",
   "FFlagHandleFrameSize1Velocity": "True",
   "DFFlagCFramePropertyFix": "True",
@@ -4688,8 +4688,8 @@
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedAndroid",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedAndroid",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "3778847994889e7cb4de78197bfc4a3fa39047f2",
-  "DFStringFlagRepoGitHashDynamicString": "3778847994889e7cb4de78197bfc4a3fa39047f2",
-  "FStringFlipTimeStampFastString": "2023-04-03T16:34:56.725Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-03T16:34:56.725Z"
+  "FStringFlagRepoGitHashFastString": "b30dcbc74f74c37ae6283016b2b9328816971bd5",
+  "DFStringFlagRepoGitHashDynamicString": "b30dcbc74f74c37ae6283016b2b9328816971bd5",
+  "FStringFlipTimeStampFastString": "2023-04-03T16:36:19.466Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-03T16:36:19.466Z"
 }
