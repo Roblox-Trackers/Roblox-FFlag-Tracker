@@ -4040,7 +4040,7 @@
   "DFFlagCleanUpTrackerDataTimestamps": "True",
   "FFlagLuaAppFixHomeGameGridGameDetailReferral": "True",
   "FFlagRenderEnableHalfsAdreno": "True",
-  "DFFlagCLI66862LocalServerRandomPort3": "True",
+  "DFFlagCLI66862LocalServerRandomPort3": "False",
   "DFFlagSubTopNWhenFacsPresent": "True",
   "AndroidBatteryStatistics": "True",
   "FFlagEnableBatteryStateLogger": "True",
@@ -4366,6 +4366,9 @@
   "DFFlagFacsTagInRepAndServStats": "True",
   "DFIntClientStatsWithFacsBWPerHundPercent": "50",
   "DFFlagTrackFacsRepInPhy2": "True",
+  "FFlagGameServerReportEnricherToRCCMonitoring": "True",
+  "DFIntSessionReportCrashErrorEventIngestThrottleHundredthsPercent": "10000",
+  "DFIntSessionReportSuccessEventIngestThrottleHundredthsPercent": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4670,8 +4673,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissediOS",
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
-  "FStringFlagRepoGitHashFastString": "c9f29a4553589612ba3ff13c569821ce77865beb",
-  "DFStringFlagRepoGitHashDynamicString": "c9f29a4553589612ba3ff13c569821ce77865beb",
-  "FStringFlipTimeStampFastString": "2023-04-03T20:34:23.919Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-03T20:34:23.919Z"
+  "FStringFlagRepoGitHashFastString": "af1fe1b822e97aa4ae6f839e244826ff55944441",
+  "DFStringFlagRepoGitHashDynamicString": "af1fe1b822e97aa4ae6f839e244826ff55944441",
+  "FStringFlipTimeStampFastString": "2023-04-03T20:36:52.898Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-03T20:36:52.898Z"
 }
