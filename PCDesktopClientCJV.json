@@ -4391,6 +4391,7 @@
   "FFlagUpdateSnapControlsInMultipleTabsFix": "True",
   "FFlagRunCoreScriptsViaPatch": "True",
   "FFlagGuiServiceFiresViewportChangedSignal": "True",
+  "FFlagLuaAppUsePageSessionManager": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4636,8 +4637,8 @@
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "33;30;2023-04-04T22:00:06",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "cd58d4e0cb12c5cae39821705a717f2c7ed6889d",
-  "DFStringFlagRepoGitHashDynamicString": "cd58d4e0cb12c5cae39821705a717f2c7ed6889d",
-  "FStringFlipTimeStampFastString": "2023-04-04T22:02:13.838Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-04T22:02:13.838Z"
+  "FStringFlagRepoGitHashFastString": "864b8dfada4ba5dacda6f497d8f6251cd1e3ffe5",
+  "DFStringFlagRepoGitHashDynamicString": "864b8dfada4ba5dacda6f497d8f6251cd1e3ffe5",
+  "FStringFlipTimeStampFastString": "2023-04-04T22:08:37.278Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-04T22:08:37.278Z"
 }
