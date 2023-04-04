@@ -4385,6 +4385,7 @@
   "FFlagNewHeaderBarForFriendsLandingEnabled": "True",
   "DFFlagSeparatelyThrottleSessionTrackingToEventIngest": "True",
   "DFFlagShorelines_FixWriteVoxels2_Rollout": "True;30;2023-04-04T17:44:02",
+  "FFlagTrimContactsEarlierOnContactImporter": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4690,8 +4691,8 @@
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;1",
-  "FStringFlagRepoGitHashFastString": "ffd9ee7c2da600ac13cbc498a6bdd424cf76a27c",
-  "DFStringFlagRepoGitHashDynamicString": "ffd9ee7c2da600ac13cbc498a6bdd424cf76a27c",
-  "FStringFlipTimeStampFastString": "2023-04-04T17:44:43.116Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-04T17:44:43.116Z"
+  "FStringFlagRepoGitHashFastString": "3593bb4b7e38a72e710284c38e1a926449d481ef",
+  "DFStringFlagRepoGitHashDynamicString": "3593bb4b7e38a72e710284c38e1a926449d481ef",
+  "FStringFlipTimeStampFastString": "2023-04-04T17:48:10.128Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-04T17:48:10.128Z"
 }
