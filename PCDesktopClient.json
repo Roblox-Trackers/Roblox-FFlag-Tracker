@@ -4388,6 +4388,8 @@
   "FFlagTrimContactsEarlierOnContactImporter": "True",
   "DFFlagStreamingInstanceQuotaWhenNoTerrainFix_Rollout": "True;60;2023-04-04T18:04:00",
   "DFFlagMemoryStoreServiceDisableHttpRetry": "True",
+  "DFFlagStudioReportGetPlaceInfo": "True",
+  "DFIntStudioReportGetPlaceInfoHundredthsPercentage": "2000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4632,8 +4634,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "11;30;2023-03-30T22:24:44",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "8ad1640eb097bf6d51f9aceb86ae0ae4a89e42a0",
-  "DFStringFlagRepoGitHashDynamicString": "8ad1640eb097bf6d51f9aceb86ae0ae4a89e42a0",
-  "FStringFlipTimeStampFastString": "2023-04-04T18:37:16.061Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-04T18:37:16.061Z"
+  "FStringFlagRepoGitHashFastString": "e5bdce2b2a2f9f4b77795f7a55ce73440a7288de",
+  "DFStringFlagRepoGitHashDynamicString": "e5bdce2b2a2f9f4b77795f7a55ce73440a7288de",
+  "FStringFlipTimeStampFastString": "2023-04-04T18:45:31.391Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-04T18:45:31.391Z"
 }
