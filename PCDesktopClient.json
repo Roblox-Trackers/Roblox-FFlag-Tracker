@@ -3314,7 +3314,7 @@
   "FFlagLuauTableUnifyInstantiationFix": "True",
   "FFlagAXIXPUtilsRecordExposure": "True",
   "FFlagStudioTestInstanceSkipSaveLayout": "True",
-  "FFlagStudioInMemoryLayoutSavingLoadingUponGSTChange": "False",
+  "FFlagStudioInMemoryLayoutSavingLoadingUponGSTChange": "True",
   "FFlagGetVoiceRecordingIndicatorsCameraFix": "True",
   "DFFlagPhysicsReceiveReportPerfData2_PlaceFilter": "True;11597947993",
   "DFFlagTrackFacsRepInPhy_PlaceFilter": "True;11597947993",
@@ -4624,8 +4624,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "11;30;2023-03-30T22:24:44",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "7f8c56cc4a963ce451b73f049f525a97e1ba1480",
-  "DFStringFlagRepoGitHashDynamicString": "7f8c56cc4a963ce451b73f049f525a97e1ba1480",
-  "FStringFlipTimeStampFastString": "2023-04-04T00:15:01.567Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-04T00:15:01.567Z"
+  "FStringFlagRepoGitHashFastString": "259c8419ebe5db3cfb90a2ad9f6b8f4d78c779b3",
+  "DFStringFlagRepoGitHashDynamicString": "259c8419ebe5db3cfb90a2ad9f6b8f4d78c779b3",
+  "FStringFlipTimeStampFastString": "2023-04-04T00:17:45.929Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-04T00:17:45.929Z"
 }
