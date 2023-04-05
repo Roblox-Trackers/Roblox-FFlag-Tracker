@@ -3887,7 +3887,6 @@
   "FFlagAinNonModalDialog": "True",
   "FFlagRemoveRoduxLastInputType": "True",
   "FFlagBadgeNotificationHttpFix2": "True",
-  "FFlagSelectionHighlightManagerIncorrectSelectionTelemetry1": "False",
   "DFFlagLodEntityScale": "True",
   "DFFlagEnableRolloutFlagCrashDataRcc": "True",
   "DFFlagEnableFlagCrashDataAndroid": "True",
@@ -4403,6 +4402,7 @@
   "FFlagLuaNativeUtilProtocol": "True",
   "FFlagNativeUtilProtocolForNoSupport": "True",
   "FFlagNativeUtilProtocolForNoSupportOSX": "True",
+  "FFlagStudioIncorrectSelectionTelemetry": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4647,8 +4647,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "33;30;2023-04-04T22:00:06",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "3397a15cc3314bf924702e884766cf9558b8f055",
-  "DFStringFlagRepoGitHashDynamicString": "3397a15cc3314bf924702e884766cf9558b8f055",
-  "FStringFlipTimeStampFastString": "2023-04-05T18:28:16.327Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-05T18:28:16.327Z"
+  "FStringFlagRepoGitHashFastString": "383ce27bf0572c94d41649337d10c6018a62faea",
+  "DFStringFlagRepoGitHashDynamicString": "383ce27bf0572c94d41649337d10c6018a62faea",
+  "FStringFlipTimeStampFastString": "2023-04-05T18:38:01.435Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-05T18:38:01.435Z"
 }
