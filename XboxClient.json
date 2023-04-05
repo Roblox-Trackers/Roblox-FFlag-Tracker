@@ -4397,6 +4397,12 @@
   "FIntRenderD3D11UncleanShutdownPercent": "50",
   "FFlagBubbleChatWithControlButtons4_PlaceFilter": "True;10404927539;11444556552;11701806268;11766336272;10057672346;12806190892;12806247258;12806262789;12806270326;12806279894;10787386927;12867018908;10001514317;12867047376;12867089300;11460402982;12500012844;11402255591;12796376276;12991298352",
   "DFFlagDisplayAdRaycastBruteForceAllSlowEnabled": "True",
+  "FFlagEnableAndroidNativeUtilProtocol": "True",
+  "FFlagEnableNativeUtilProtocol": "True",
+  "FFlagLuaNativeUtilEnableSMSHandling": "True",
+  "FFlagLuaNativeUtilProtocol": "True",
+  "FFlagNativeUtilProtocolForNoSupport": "True",
+  "FFlagNativeUtilProtocolForNoSupportOSX": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4593,8 +4599,8 @@
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FFlagRestrictLimited2ToSoothsayers": "True",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "c783aae5a4bbf3569ac061738f886069f572fd76",
-  "DFStringFlagRepoGitHashDynamicString": "c783aae5a4bbf3569ac061738f886069f572fd76",
-  "FStringFlipTimeStampFastString": "2023-04-05T15:59:08.077Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-05T15:59:08.077Z"
+  "FStringFlagRepoGitHashFastString": "84f73abad408ae8d0bb76c5f870d097f7ee9c89a",
+  "DFStringFlagRepoGitHashDynamicString": "84f73abad408ae8d0bb76c5f870d097f7ee9c89a",
+  "FStringFlipTimeStampFastString": "2023-04-05T16:18:58.031Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-05T16:18:58.031Z"
 }
