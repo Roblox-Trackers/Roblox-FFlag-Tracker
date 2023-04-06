@@ -4317,7 +4317,7 @@
   "FFlagLuaAppHandlePlayerCountFormatInExpFooter": "True",
   "FFlagFixScrollbarHiddenInitiallyOnPC": "True",
   "FFlagUpdateRsvpButtonText": "True",
-  "FFlagVirtualEventsGraphQLV3": "True",
+  "FFlagVirtualEventsGraphQLV3": "False",
   "FIntToolboxV3PurchasingPluginsRollout": "5",
   "FFlagFetchEventsFromWrapper": "True",
   "FFlagContentProviderAFSImprovements": "True",
@@ -4451,6 +4451,7 @@
   "FFlagVoiceChatUseTaskManager3": "True",
   "FFlagLuaAppChallengeUseGenericTypeEnum": "True",
   "DFFlagEnableTelemetryTickCounter": "True",
+  "FFlagLuaAppChallengeForceWebViewVisibleForSomeTypes": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4756,8 +4757,8 @@
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;1",
-  "FStringFlagRepoGitHashFastString": "524dbd64c1c6db26eefa2ea8dbeb3b732ddff632",
-  "DFStringFlagRepoGitHashDynamicString": "524dbd64c1c6db26eefa2ea8dbeb3b732ddff632",
-  "FStringFlipTimeStampFastString": "2023-04-06T20:31:18.211Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T20:31:18.211Z"
+  "FStringFlagRepoGitHashFastString": "4be99dd705f87847f19edcb7081099939db6b5bb",
+  "DFStringFlagRepoGitHashDynamicString": "4be99dd705f87847f19edcb7081099939db6b5bb",
+  "FStringFlipTimeStampFastString": "2023-04-06T20:32:32.239Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T20:32:32.239Z"
 }
