@@ -4455,6 +4455,7 @@
   "FFlagMessageBusMessageUUID": "True",
   "FFlagMessageBusNewRequestResponse": "True",
   "DFFlagNoOpTeamChatAPI": "True",
+  "DFFlagStreamingPrefetchTimerInitialization": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4699,8 +4700,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "33;30;2023-04-04T22:00:06",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "8565fd9603745111050fb4be49b12955376a6810",
-  "DFStringFlagRepoGitHashDynamicString": "8565fd9603745111050fb4be49b12955376a6810",
-  "FStringFlipTimeStampFastString": "2023-04-06T20:47:44.923Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T20:47:44.923Z"
+  "FStringFlagRepoGitHashFastString": "08767da07759c7baa7a219f438b7b15960784d23",
+  "DFStringFlagRepoGitHashDynamicString": "08767da07759c7baa7a219f438b7b15960784d23",
+  "FStringFlipTimeStampFastString": "2023-04-06T20:49:39.659Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T20:49:39.659Z"
 }
