@@ -4418,8 +4418,8 @@
   "FFlagStudioUpdate3DViewOnPlaySoloFinished": "True",
   "FFlagStudioUpdate3DViewOnPlaySoloFinishedLogging": "True",
   "FLogStudioUpdate3DView": "6",
-  "DFIntReportOutputDeviceInfoRateHundredthsPercentage": "1",
-  "DFIntReportRecordingDeviceInfoRateHundredthsPercentage": "1",
+  "DFIntReportOutputDeviceInfoRateHundredthsPercentage": "100",
+  "DFIntReportRecordingDeviceInfoRateHundredthsPercentage": "100",
   "FFlagContextualServiceVisibilityBetaFeature": "True",
   "FFlagReportBottomBarEventInVR": "True",
   "EnableMaquettesSpecificInitFailureUI": "True",
@@ -4688,8 +4688,8 @@
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "33;30;2023-04-04T22:00:06",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "a0c4d41ba43509385af950ee61d755f4939e88ad",
-  "DFStringFlagRepoGitHashDynamicString": "a0c4d41ba43509385af950ee61d755f4939e88ad",
-  "FStringFlipTimeStampFastString": "2023-04-06T18:19:54.946Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T18:19:54.946Z"
+  "FStringFlagRepoGitHashFastString": "9475c471732d81436643cb949e72727b52ec77ca",
+  "DFStringFlagRepoGitHashDynamicString": "9475c471732d81436643cb949e72727b52ec77ca",
+  "FStringFlipTimeStampFastString": "2023-04-06T18:28:32.471Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T18:28:32.471Z"
 }
