@@ -4450,6 +4450,7 @@
   "DFIntTelemetryTraceCounterThresholdHundredthsPercent": "1000",
   "FFlagVoiceChatUseTaskManager3": "True",
   "FFlagLuaAppChallengeUseGenericTypeEnum": "True",
+  "DFFlagEnableTelemetryTickCounter": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4695,8 +4696,8 @@
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "33;30;2023-04-04T22:00:06",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "26c8f9ae5bd00ff82a9fe1db495be6274034d49d",
-  "DFStringFlagRepoGitHashDynamicString": "26c8f9ae5bd00ff82a9fe1db495be6274034d49d",
-  "FStringFlipTimeStampFastString": "2023-04-06T20:25:19.736Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T20:25:19.736Z"
+  "FStringFlagRepoGitHashFastString": "524dbd64c1c6db26eefa2ea8dbeb3b732ddff632",
+  "DFStringFlagRepoGitHashDynamicString": "524dbd64c1c6db26eefa2ea8dbeb3b732ddff632",
+  "FStringFlipTimeStampFastString": "2023-04-06T20:31:18.211Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T20:31:18.211Z"
 }
