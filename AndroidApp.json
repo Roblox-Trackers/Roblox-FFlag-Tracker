@@ -3632,7 +3632,7 @@
   "FFlagEnableResaleFeePolicyPrompt": "True",
   "FFlagEnableCollectibleItems2": "True",
   "FFlagUIBloxEnableCollectibleItemRestriction2": "True",
-  "FFlagVideoUseThreadPool2": "False",
+  "FFlagVideoUseThreadPool2": "True",
   "FFlagCallServerStopToSignal": "True",
   "FFlagGraphicsRenderPrepareApsOptA": "True",
   "FFlagAddFriendsQRCodeAnalytics": "True",
@@ -4791,8 +4791,8 @@
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
   "DFFlagDeferInferredCrashEvaluation": "True",
   "DFFlagStoreUniqueIdInferredCrashSystem": "True",
-  "FStringFlagRepoGitHashFastString": "51d104442753e332e397825bc1c8ba6a922d402e",
-  "DFStringFlagRepoGitHashDynamicString": "51d104442753e332e397825bc1c8ba6a922d402e",
-  "FStringFlipTimeStampFastString": "2023-04-06T20:22:46.467Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T20:22:46.467Z"
+  "FStringFlagRepoGitHashFastString": "d6c6dbb1c2f39813f3e08358476e292ba22af8ca",
+  "DFStringFlagRepoGitHashDynamicString": "d6c6dbb1c2f39813f3e08358476e292ba22af8ca",
+  "FStringFlipTimeStampFastString": "2023-04-06T20:24:35.223Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T20:24:35.223Z"
 }
