@@ -4185,7 +4185,6 @@
   "DFFlagAsyncStreamingNoBlockGC3": "True",
   "FFlagAnimationManagerRefactorTrackHandling": "True",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2023-03-27T22:19:53",
-  "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2023-03-29T21:43:31",
   "FFlagCSGMeshDeserializationTelemetry": "True",
   "FFlagProfileQRCodeEnableAlerts_v5": "True",
   "FFlagProfileQRCodeFixDistanceFromTop": "True",
@@ -4439,6 +4438,7 @@
   "FFlagSimInitializeConstraintStreamData": "True",
   "DFFlagTextBoxServiceCheckVisibility": "True",
   "FFlagFixTeamChannelReferenceTextChat": "True",
+  "FFlagFlagRolloutTestStaticBool2": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4681,8 +4681,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "33;30;2023-04-04T22:00:06",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "0e6c6258d93049ec83d85fa6546d116aa3bd6dbb",
-  "DFStringFlagRepoGitHashDynamicString": "0e6c6258d93049ec83d85fa6546d116aa3bd6dbb",
-  "FStringFlipTimeStampFastString": "2023-04-06T17:37:44.142Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T17:37:44.142Z"
+  "FStringFlagRepoGitHashFastString": "7316bb5d52da38061a0924daa5b16a1c5ab09838",
+  "DFStringFlagRepoGitHashDynamicString": "7316bb5d52da38061a0924daa5b16a1c5ab09838",
+  "FStringFlipTimeStampFastString": "2023-04-06T17:49:31.796Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T17:49:31.796Z"
 }
