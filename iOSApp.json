@@ -4305,7 +4305,7 @@
   "DFFlagFixBuoyancySensorUpdate": "True",
   "DFFlagSimHumanoidLevitationUpdates": "true",
   "FFlagSimNewLevitationInterface": "True",
-  "DFIntExplorerFilterThrottleHundredthsPercent": "100",
+  "DFIntExplorerFilterThrottleHundredthsPercent": "10000",
   "FFlagLuaAppFeedItemAutomaticSizeHack": "True",
   "DFFlagPerformanceControlAllowEffectsToHaveSpacesInName": "True",
   "DFFlagUsePredictedOOMAbsLimitForMemoryCurve": "True",
@@ -4763,8 +4763,8 @@
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;1",
-  "FStringFlagRepoGitHashFastString": "cb50a7f10d09ca1ce38377a906273c1041ad7855",
-  "DFStringFlagRepoGitHashDynamicString": "cb50a7f10d09ca1ce38377a906273c1041ad7855",
-  "FStringFlipTimeStampFastString": "2023-04-06T20:55:24.937Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T20:55:24.937Z"
+  "FStringFlagRepoGitHashFastString": "7979030dca4b47bd30829338b9acf4ef7d200dba",
+  "DFStringFlagRepoGitHashDynamicString": "7979030dca4b47bd30829338b9acf4ef7d200dba",
+  "FStringFlipTimeStampFastString": "2023-04-06T20:58:37.085Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T20:58:37.085Z"
 }
