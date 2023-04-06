@@ -4100,8 +4100,8 @@
   "FFlagSlotEmoteLimit": "True",
   "FFlagEnableForceUpdateOSFilter": "True",
   "FFlagEventNotificationsModal": "True",
-  "FFlagUpsellModalOnEventDetailsPage": "False",
-  "FFlagShowEventsOnExperienceDetailsPagesV2": "False",
+  "FFlagUpsellModalOnEventDetailsPage": "True",
+  "FFlagShowEventsOnExperienceDetailsPagesV2": "True",
   "FFlagAddSafeAreaAnalytics2": "True",
   "FFlagVRCoreGuiDefaultOff": "True",
   "FStringMinOSVersionForForceUpgrade": "11.0",
@@ -4447,6 +4447,7 @@
   "FFlagCOLLAB2928StudioInternalDebugWidget": "True",
   "DFFlagEnableNewJoinCounter": "True",
   "FFlagSupportOffCenterOriginCameraCleanUp": "True",
+  "DFFlagControllerManagerUseSensorInstance": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4752,8 +4753,8 @@
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;1",
-  "FStringFlagRepoGitHashFastString": "5a04c7a23c834f8e84742ee3f227ec27181b9a4e",
-  "DFStringFlagRepoGitHashDynamicString": "5a04c7a23c834f8e84742ee3f227ec27181b9a4e",
-  "FStringFlipTimeStampFastString": "2023-04-06T18:36:04.668Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T18:36:04.668Z"
+  "FStringFlagRepoGitHashFastString": "9141a8a2e3c05317f59ec721c8c9cb4def55136f",
+  "DFStringFlagRepoGitHashDynamicString": "9141a8a2e3c05317f59ec721c8c9cb4def55136f",
+  "FStringFlipTimeStampFastString": "2023-04-06T18:40:00.635Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T18:40:00.635Z"
 }
