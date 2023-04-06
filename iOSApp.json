@@ -4415,6 +4415,7 @@
   "FFlagSimCSGV3EnableOperatorBodyPruning": "True",
   "FFlagFixSettingsCameraButtonUpdating": "True",
   "FFlagFixBoundInputsUpdaterPageSwitching": "True",
+  "FFlagFixVehicleHudMemoryLeak": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4720,8 +4721,8 @@
   "FFlagLuaAppChallengeDisableForceWebViewVisible": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;1",
-  "FStringFlagRepoGitHashFastString": "6c85df084fa5105b2a2ad31b815a62fbc7395762",
-  "DFStringFlagRepoGitHashDynamicString": "6c85df084fa5105b2a2ad31b815a62fbc7395762",
-  "FStringFlipTimeStampFastString": "2023-04-06T16:24:42.084Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T16:24:42.084Z"
+  "FStringFlagRepoGitHashFastString": "5359efe5fe69db427a2eb85d7eef41702853854f",
+  "DFStringFlagRepoGitHashDynamicString": "5359efe5fe69db427a2eb85d7eef41702853854f",
+  "FStringFlipTimeStampFastString": "2023-04-06T16:25:49.358Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T16:25:49.358Z"
 }
