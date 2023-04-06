@@ -4317,7 +4317,7 @@
   "FFlagLuaAppHandlePlayerCountFormatInExpFooter": "True",
   "FFlagFixScrollbarHiddenInitiallyOnPC": "True",
   "FFlagUpdateRsvpButtonText": "True",
-  "FFlagVirtualEventsGraphQLV3": "True",
+  "FFlagVirtualEventsGraphQLV3": "False",
   "FIntToolboxV3PurchasingPluginsRollout": "5",
   "FFlagFetchEventsFromWrapper": "True",
   "FFlagContentProviderAFSImprovements": "True",
@@ -4691,8 +4691,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "33;30;2023-04-04T22:00:06",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "aa42fd4a48131e193bf160052d4b2dfc1f735db4",
-  "DFStringFlagRepoGitHashDynamicString": "aa42fd4a48131e193bf160052d4b2dfc1f735db4",
-  "FStringFlipTimeStampFastString": "2023-04-06T18:43:51.489Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T18:43:51.489Z"
+  "FStringFlagRepoGitHashFastString": "30147ba9cb49205e4258a1a99fea107efbf7ea81",
+  "DFStringFlagRepoGitHashDynamicString": "30147ba9cb49205e4258a1a99fea107efbf7ea81",
+  "FStringFlipTimeStampFastString": "2023-04-06T18:58:00.156Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T18:58:00.156Z"
 }
