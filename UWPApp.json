@@ -4475,7 +4475,6 @@
   "DFIntUniverseSearchMaxRetries": "1",
   "FFlagStudioLocalizeFontDialog": "True",
   "DFFlagCustomMemoryMapDumps": "True",
-  "FFlagStreamingStopReasonsEnumMap_Rollout": "True;60;2023-04-06T22:12:43",
   "FFlagFlagRolloutTestStaticBool7_Rollout": "False;60;2023-04-06T22:14:02",
   "DFIntTelemetryTraceCounterThresholdHundredthsPercent_Rollout": "1500;60;2023-04-06T22:14:19",
   "FFlagSupportOffCenterOriginFasterExtentCFrame1": "True",
@@ -4490,6 +4489,7 @@
   "FFlagEnableNetworkChangeTelemtry2": "True",
   "FFlagUserVRFirstPersonRecenter": "False",
   "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentPoints": "1",
+  "FFlagFixAutoButtonColorWithUIRT": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4686,8 +4686,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "8509013e835e23dfc3309a681fc08d3186f99f20",
-  "DFStringFlagRepoGitHashDynamicString": "8509013e835e23dfc3309a681fc08d3186f99f20",
-  "FStringFlipTimeStampFastString": "2023-04-06T23:24:58.573Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T23:24:58.573Z"
+  "FStringFlagRepoGitHashFastString": "e9c607d88afabe0b2ef39af1e115416b3173fd58",
+  "DFStringFlagRepoGitHashDynamicString": "e9c607d88afabe0b2ef39af1e115416b3173fd58",
+  "FStringFlipTimeStampFastString": "2023-04-06T23:43:30.289Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T23:43:30.289Z"
 }
