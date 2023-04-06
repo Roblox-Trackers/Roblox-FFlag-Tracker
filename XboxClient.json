@@ -4361,7 +4361,7 @@
   "DFFlagTrackFacsRepInPhy2": "True",
   "FFlagGameServerReportEnricherToRCCMonitoring": "True",
   "DFIntSessionReportCrashErrorEventIngestThrottleHundredthsPercent": "10000",
-  "DFIntSessionReportSuccessEventIngestThrottleHundredthsPercent": "2500",
+  "DFIntSessionReportSuccessEventIngestThrottleHundredthsPercent": "5000",
   "FFlagFlagRolloutTestStaticBool9_Rollout": "False;60;2023-04-03T20:41:46",
   "DFFlagFlagRolloutTestDynamicBool9_Rollout": "False;60;2023-04-03T20:41:51",
   "FFlagExperienceTileV2ShowAgeRatingOnHover": "True",
@@ -4424,6 +4424,7 @@
   "FFlagContextualServiceVisibilityBetaFeature": "True",
   "FFlagReportBottomBarEventInVR": "True",
   "EnableMaquettesSpecificInitFailureUI": "True",
+  "DFIntDataStoreSameKeyPerMinute": "15",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4620,8 +4621,8 @@
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FFlagRestrictLimited2ToSoothsayers": "True",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "a7d3844620f857c420ff04cbb3505678588eb1f4",
-  "DFStringFlagRepoGitHashDynamicString": "a7d3844620f857c420ff04cbb3505678588eb1f4",
-  "FStringFlipTimeStampFastString": "2023-04-06T16:47:47.743Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-06T16:47:47.743Z"
+  "FStringFlagRepoGitHashFastString": "a4061ff359533f31c0a5fa4cb2c58047f50a7055",
+  "DFStringFlagRepoGitHashDynamicString": "a4061ff359533f31c0a5fa4cb2c58047f50a7055",
+  "FStringFlipTimeStampFastString": "2023-04-06T16:49:59.643Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-06T16:49:59.643Z"
 }
