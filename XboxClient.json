@@ -4439,7 +4439,7 @@
   "DFIntTelemetryTraceCounterThresholdHundredthsPercent": "1000",
   "FFlagVoiceChatUseTaskManager3": "True",
   "FFlagLuaAppChallengeUseGenericTypeEnum": "True",
-  "DFFlagEnableTelemetryTickCounter": "True",
+  "DFFlagEnableTelemetryTickCounter": "False",
   "FFlagLuaAppChallengeForceWebViewVisibleForSomeTypes": "True",
   "FFlagMessageBusMessageUUID": "True",
   "FFlagMessageBusNewRequestResponse": "True",
@@ -4691,8 +4691,8 @@
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FFlagRestrictLimited2ToSoothsayers": "True",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "858ba108189276c75668c96b530034f4c08c1f63",
-  "DFStringFlagRepoGitHashDynamicString": "858ba108189276c75668c96b530034f4c08c1f63",
-  "FStringFlipTimeStampFastString": "2023-04-07T22:37:50.055Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-07T22:37:50.055Z"
+  "FStringFlagRepoGitHashFastString": "ad3a71c886940275b403e413669b950a4f65da89",
+  "DFStringFlagRepoGitHashDynamicString": "ad3a71c886940275b403e413669b950a4f65da89",
+  "FStringFlipTimeStampFastString": "2023-04-07T23:50:51.776Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-07T23:50:51.776Z"
 }
