@@ -1421,7 +1421,7 @@
   "DFIntPerformanceMeasurementEventMismatchesThrottleHundredthsPercent": "10",
   "FFlagLocalizationServiceSendLocalizationTableAnalytics2": "True",
   "FFlagFixDismissWithNoNavigationController": "True",
-  "DFIntLocalizationTableAnalyticsSenderClientToHttpMinHundrethsPercent": "25",
+  "DFIntLocalizationTableAnalyticsSenderClientToHttpMinHundrethsPercent": "10",
   "DFIntLocalizationTableAnalyticsSenderClientToHttpMinHundrethsPercent_PlaceFilter": "10000;7731036362",
   "DFIntLocalizationTableAnalyticsSenderClientToServerSampleRateHundrethsPercent": "7500",
   "DFIntLocalizationTableAnalyticsSenderClientToServerSampleRateHundrethsPercent_PlaceFilter": "10000;7731036362",
@@ -4735,8 +4735,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "33;30;2023-04-04T22:00:06",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "d5c5943ba89def0ea03e7eb23bdc395af1a5be45",
-  "DFStringFlagRepoGitHashDynamicString": "d5c5943ba89def0ea03e7eb23bdc395af1a5be45",
-  "FStringFlipTimeStampFastString": "2023-04-07T17:50:51.767Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-07T17:50:51.767Z"
+  "FStringFlagRepoGitHashFastString": "2d78be000c8787f4279af1f83a0670ab33b82c70",
+  "DFStringFlagRepoGitHashDynamicString": "2d78be000c8787f4279af1f83a0670ab33b82c70",
+  "FStringFlipTimeStampFastString": "2023-04-07T18:14:53.200Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-07T18:14:53.200Z"
 }
