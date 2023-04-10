@@ -4513,6 +4513,8 @@
   "FFlagIncrementalPatchBuilderConfigurableRebuildPeriod": "True",
   "FFlagUseNewErrorDescriptionFunction": "True",
   "FFlagReportFpsAndGfxQualityPercentiles_Rollout": "True;60;2023-04-10T20:13:28",
+  "FFlagRenderVulkanFixMinimizeWindow": "True",
+  "FFlagDisableSalesPageForAvatarCreations2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4758,8 +4760,8 @@
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "33;30;2023-04-04T22:00:06",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "c5a62185428e8e1c39a8613e4a297e2496bd6a5a",
-  "DFStringFlagRepoGitHashDynamicString": "c5a62185428e8e1c39a8613e4a297e2496bd6a5a",
-  "FStringFlipTimeStampFastString": "2023-04-10T20:20:49.985Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-10T20:20:49.985Z"
+  "FStringFlagRepoGitHashFastString": "7895ee21cacde8dac5d8d2c890258ad574d487fb",
+  "DFStringFlagRepoGitHashDynamicString": "7895ee21cacde8dac5d8d2c890258ad574d487fb",
+  "FStringFlipTimeStampFastString": "2023-04-10T20:22:02.500Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-10T20:22:02.500Z"
 }
