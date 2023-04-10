@@ -4504,6 +4504,8 @@
   "DisableIntentClearOnPauseV2": "True",
   "DFFlagTaskLibReportBadDeferDelayWaitCall": "True",
   "FFlagPrefetchOnEveryPlatform": "True",
+  "DFFlagFixTDigestTinyWeightIssue_Rollout": "True;60;2023-04-10T18:32:25",
+  "DFFlagRemoveTDigstLogSpamming_Rollout": "True;60;2023-04-10T18:32:44",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4700,8 +4702,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "21205c10bf9da425cfefcd79ba525f38fdb3539a",
-  "DFStringFlagRepoGitHashDynamicString": "21205c10bf9da425cfefcd79ba525f38fdb3539a",
-  "FStringFlipTimeStampFastString": "2023-04-10T18:29:11.294Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-10T18:29:11.294Z"
+  "FStringFlagRepoGitHashFastString": "eea8422561823dff79ee32541a07fcd7c945e549",
+  "DFStringFlagRepoGitHashDynamicString": "eea8422561823dff79ee32541a07fcd7c945e549",
+  "FStringFlipTimeStampFastString": "2023-04-10T18:34:03.844Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-10T18:34:03.844Z"
 }
