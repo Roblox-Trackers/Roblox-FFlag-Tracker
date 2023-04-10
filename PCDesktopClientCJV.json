@@ -4497,7 +4497,7 @@
   "FFlagDevFrameworkFixDimmedTextContrast": "True",
   "FFlagStudioUpdate3DViewOnLiveDMPluginWidgetsLoaded": "True",
   "FFlagStudioUpdate3DViewOnLiveDMPluginWidgetsLoadedLogging": "True",
-  "DFFlagPerformanceControlUseSeparateTelemetryEventsForPointsAndEventIngest_DataCenterFilter": "True;299;352",
+  "DFFlagPerformanceControlUseSeparateTelemetryEventsForPointsAndEventIngest_DataCenterFilter": "False;299;352",
   "DFIntPerformanceControlEventIngestHundredthPercentageSent_DataCenterFilter": "21;299;352",
   "DFIntPerformanceControlPointsHundredthPercentageSent_DataCenterFilter": "21;299;352",
   "FFlagEnableAdLabelVisualChanges": "True",
@@ -4761,8 +4761,8 @@
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "33;30;2023-04-04T22:00:06",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "7d788b2f528f73a5a514f817294ee3bc3d3ea010",
-  "DFStringFlagRepoGitHashDynamicString": "7d788b2f528f73a5a514f817294ee3bc3d3ea010",
-  "FStringFlipTimeStampFastString": "2023-04-10T20:22:59.428Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-10T20:22:59.428Z"
+  "FStringFlagRepoGitHashFastString": "fad8ae75e3703b14aff3640341908f95ef9e05d3",
+  "DFStringFlagRepoGitHashDynamicString": "fad8ae75e3703b14aff3640341908f95ef9e05d3",
+  "FStringFlipTimeStampFastString": "2023-04-10T20:26:49.224Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-10T20:26:49.224Z"
 }
