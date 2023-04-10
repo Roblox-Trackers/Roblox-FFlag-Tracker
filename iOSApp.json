@@ -3849,7 +3849,7 @@
   "FFlagRemoveMultiTryOnPrompts": "True",
   "FFlagDevFrameworkFixDropdownRightAlign": "True",
   "FFlagSimCSGV3AddDiscardedFacesForLastTry": "True",
-  "FFlagSimCSGV3InitializeVertexMapFix": "False",
+  "FFlagSimCSGV3InitializeVertexMapFix": "True",
   "FFlagLuaAppUpdateAppGameTile2": "True",
   "FFlagEnableStudioPluginOTA3": "True",
   "DFFlagVoiceChatLatencyStatsRccMute": "True",
@@ -4519,6 +4519,7 @@
   "FFlagFixRichTextIntendation": "True",
   "DFFlagCollectCoreScriptsPoints": "True",
   "DFIntCoreScriptsAnalyticsHundredthsPercentage": "10000",
+  "FFlagAddSortPosToSortlessGridImpresssions": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4826,8 +4827,8 @@
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;1",
   "DFFlagHttpClientCookieProtocolMetrics": "True",
   "DFFlagUnifiedCookieProtocolEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "49d4900a3730f9a628865e0b14defc105e4cf547",
-  "DFStringFlagRepoGitHashDynamicString": "49d4900a3730f9a628865e0b14defc105e4cf547",
-  "FStringFlipTimeStampFastString": "2023-04-10T20:58:08.982Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-10T20:58:08.982Z"
+  "FStringFlagRepoGitHashFastString": "660e2d47ed59e45805bc1c0e665dc6287ecdc389",
+  "DFStringFlagRepoGitHashDynamicString": "660e2d47ed59e45805bc1c0e665dc6287ecdc389",
+  "FStringFlipTimeStampFastString": "2023-04-10T21:07:30.235Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-10T21:07:30.235Z"
 }
