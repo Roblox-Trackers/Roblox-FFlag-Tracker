@@ -2693,7 +2693,7 @@
   "FFlagStudioFixLaunchUrlWithBrowserCrash": "True",
   "DFIntStudioReportLuauTypeErrorsHundredthsPercentage": "500",
   "DFIntStudioReportLuauTypeErrorsInfluxHundredthsPercentage": "1000",
-  "FFlagStudioReportLuauTypeErrors": "True",
+  "FFlagStudioReportLuauTypeErrors": "False",
   "FFlagPackageInplaceUpdateRemovalFix": "True",
   "FFlagEnable32BitArchSunset": "True",
   "FFlagDisableRegularLoginForVRAppV2": "True",
@@ -3339,7 +3339,7 @@
   "FFlagXboxEnableDisconnectPrompt": "True",
   "FFlagGameInfoRowVoiceExitBetaBugFix": "True",
   "DFFlagControllerManagetBetterMovementSignals": "True",
-  "FFlagStudioReportLuauTypeErrors2": "True",
+  "FFlagStudioReportLuauTypeErrors2": "False",
   "DFFlagAvatarEditorServiceDisableForSpecificExperiences": "True",
   "FFlagDevFrameworkEditableTreeTable": "True",
   "FStringExperienceGuidelinesExplainedPageUrl": "https://en.help.roblox.com/hc/articles/8862768451604",
@@ -4758,8 +4758,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "DFIntDynamicFastVariableReloaderTest3_Rollout": "33;30;2023-04-04T22:00:06",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "bbf7faf82482e08a3dee4da22d6f399b71b2b1b2",
-  "DFStringFlagRepoGitHashDynamicString": "bbf7faf82482e08a3dee4da22d6f399b71b2b1b2",
-  "FStringFlipTimeStampFastString": "2023-04-10T20:32:16.872Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-10T20:32:16.872Z"
+  "FStringFlagRepoGitHashFastString": "092bfdc1eef1e1e06d1ddef4022cf777970051b5",
+  "DFStringFlagRepoGitHashDynamicString": "092bfdc1eef1e1e06d1ddef4022cf777970051b5",
+  "FStringFlipTimeStampFastString": "2023-04-10T20:34:25.177Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-10T20:34:25.177Z"
 }
