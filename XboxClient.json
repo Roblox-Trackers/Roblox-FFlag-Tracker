@@ -4498,9 +4498,9 @@
   "FFlagDevFrameworkFixDimmedTextContrast": "True",
   "FFlagStudioUpdate3DViewOnLiveDMPluginWidgetsLoaded": "True",
   "FFlagStudioUpdate3DViewOnLiveDMPluginWidgetsLoadedLogging": "True",
-  "DFFlagPerformanceControlUseSeparateTelemetryEventsForPointsAndEventIngest_DataCenterFilter": "True;299",
-  "DFIntPerformanceControlEventIngestHundredthPercentageSent_DataCenterFilter": "21;299",
-  "DFIntPerformanceControlPointsHundredthPercentageSent_DataCenterFilter": "21;299",
+  "DFFlagPerformanceControlUseSeparateTelemetryEventsForPointsAndEventIngest_DataCenterFilter": "True;299;352",
+  "DFIntPerformanceControlEventIngestHundredthPercentageSent_DataCenterFilter": "21;299;352",
+  "DFIntPerformanceControlPointsHundredthPercentageSent_DataCenterFilter": "21;299;352",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4697,8 +4697,8 @@
   "DFFlagFixMissingLocaleIdOnMacStartup": "True",
   "FFlagRestrictLimited2ToSoothsayers": "True",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "034a365dc11b4ad34208a47f24c8d2f85ac4c116",
-  "DFStringFlagRepoGitHashDynamicString": "034a365dc11b4ad34208a47f24c8d2f85ac4c116",
-  "FStringFlipTimeStampFastString": "2023-04-10T16:36:49.539Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-10T16:36:49.539Z"
+  "FStringFlagRepoGitHashFastString": "d55e130ec5a7114a4800da64bc174680dbc57e06",
+  "DFStringFlagRepoGitHashDynamicString": "d55e130ec5a7114a4800da64bc174680dbc57e06",
+  "FStringFlipTimeStampFastString": "2023-04-10T16:50:07.277Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-10T16:50:07.277Z"
 }
