@@ -4515,14 +4515,8 @@
   "FFlagEnableAssetUploadCreatorDashboardMessage": "True",
   "FFlagEnableShortShareLinks": "True",
   "FFlagShareLinksFixAnalytics_v1": "True",
-  "FFlagFixRichTextIntendation": "True",
-  "DFIntCoreScriptsAnalyticsHundredthsPercentage": "10000",
-  "FFlagAddSortPosToSortlessGridImpresssions": "True",
-  "FFlagStudioAssetPublishAPI2": "True",
-  "FFlagToolboxMigrateModelPublish2": "True",
-  "FFlagToolboxSetMarketplaceModelsAsPackagesForIXP3": "True",
-  "DFFlagPauseSurfaceControllerOnLuaAppDestroy2": "True",
   "DFIntLatencyLoggingThresholdMs_PlaceFilter": "30;8137333410;11115764361;8328351891;6284583030;5580097107;9588998913;1730877806;6839171747;292628125;606849621;2788229376;292439477;10569605393;10569586062;46955756;49707852;45146873;7137212917;166986752;844929123;735030788;1765700510;4709927839;2033617613",
+  "FFlagRenderVulkanFixMinimizeWindow": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4830,8 +4824,8 @@
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;1",
   "DFFlagHttpClientCookieProtocolMetrics": "True",
   "DFFlagUnifiedCookieProtocolEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "d4762d676822ace4c8c96917901d0eccbe603730",
-  "DFStringFlagRepoGitHashDynamicString": "d4762d676822ace4c8c96917901d0eccbe603730",
-  "FStringFlipTimeStampFastString": "2023-04-10T21:22:18.237Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-10T21:22:18.237Z"
+  "FStringFlagRepoGitHashFastString": "bb1eb850d2bc54139fb65552f62f2798a01efbef",
+  "DFStringFlagRepoGitHashDynamicString": "bb1eb850d2bc54139fb65552f62f2798a01efbef",
+  "FStringFlipTimeStampFastString": "2023-04-10T21:29:26.441Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-10T21:29:26.441Z"
 }
