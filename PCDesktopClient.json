@@ -3818,7 +3818,7 @@
   "FFlagSimplifyProjectionMatrixBuilding": "True",
   "FFlagFilterByButtonZeroStateFixEnabled": "True",
   "FIntSoundTelemetryThrottlingPercentage": "1",
-  "FFlagEnableSoundTelemetry": "False",
+  "FFlagEnableSoundTelemetry": "True",
   "DFFlagCOLLAB3148AddRetriesPlaceLauncherHttpRequest": "True",
   "FFlagCOLLAB2781FixTeamCreateStatusChildPlaces": "True",
   "FFlagEnableTrimCookieForPortHandling": "True",
@@ -4303,7 +4303,7 @@
   "FFlagDoEventFireImmediateRefactor": "True",
   "FFlagTerrainSmoothToolFix": "True",
   "FFlagWrapReadVoxelLuaIntoFunction": "True",
-  "FIntRoact17Rollout11": "0",
+  "FIntRoact17Rollout11": "25",
   "FFlagProjectFilesSupportPlaceId3": "True",
   "FFlagLuaAppHandlePlayerCountFormatInExpFooter": "True",
   "FFlagFixScrollbarHiddenInitiallyOnPC": "True",
@@ -4775,8 +4775,8 @@
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedWindowsClient",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;30;2023-03-30T00:46:22",
-  "FStringFlagRepoGitHashFastString": "7e7bfdcfe70a979ff316c8f0f4496aaf3e7e2f2d",
-  "DFStringFlagRepoGitHashDynamicString": "7e7bfdcfe70a979ff316c8f0f4496aaf3e7e2f2d",
-  "FStringFlipTimeStampFastString": "2023-04-11T20:49:47.904Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-11T20:49:47.904Z"
+  "FStringFlagRepoGitHashFastString": "33dcb90fe2360402e07d5707927458270e15bc0f",
+  "DFStringFlagRepoGitHashDynamicString": "33dcb90fe2360402e07d5707927458270e15bc0f",
+  "FStringFlipTimeStampFastString": "2023-04-11T20:51:30.830Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-11T20:51:30.830Z"
 }
