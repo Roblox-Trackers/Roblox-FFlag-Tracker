@@ -4516,7 +4516,7 @@
   "FFlagEnableShortShareLinks": "True",
   "FFlagShareLinksFixAnalytics_v1": "True",
   "DFIntLatencyLoggingThresholdMs_PlaceFilter": "30;8137333410;11115764361;8328351891;6284583030;5580097107;9588998913;1730877806;6839171747;292628125;606849621;2788229376;292439477;10569605393;10569586062;46955756;49707852;45146873;7137212917;166986752;844929123;735030788;1765700510;4709927839;2033617613",
-  "FFlagRenderVulkanFixMinimizeWindow": "True",
+  "FFlagRenderVulkanFixMinimizeWindow": "False",
   "FFlagSimCSG3UseMovedBuilders": "True",
   "DFFlagCollectCoreScriptsPoints": "True",
   "DFIntCoreScriptsAnalyticsHundredthsPercentage": "10000",
@@ -4827,8 +4827,8 @@
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;1",
   "DFFlagHttpClientCookieProtocolMetrics": "True",
   "DFFlagUnifiedCookieProtocolEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "2fdba10f0d5be9c14623ede73c39dda9b3d01c33",
-  "DFStringFlagRepoGitHashDynamicString": "2fdba10f0d5be9c14623ede73c39dda9b3d01c33",
-  "FStringFlipTimeStampFastString": "2023-04-11T00:21:51.954Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-11T00:21:51.954Z"
+  "FStringFlagRepoGitHashFastString": "ff08316fad118580e675e1733b4be84c9f4d8c05",
+  "DFStringFlagRepoGitHashDynamicString": "ff08316fad118580e675e1733b4be84c9f4d8c05",
+  "FStringFlipTimeStampFastString": "2023-04-11T00:29:06.116Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-11T00:29:06.116Z"
 }
