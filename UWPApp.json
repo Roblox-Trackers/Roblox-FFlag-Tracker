@@ -4529,6 +4529,8 @@
   "DFFlagPauseSurfaceControllerOnLuaAppDestroy2": "True",
   "FFlagRemoteAddressFromServer": "True",
   "FFlagMaterialAnnotationIncludeArtifactType": "True",
+  "DFFlagEnableHumanoidStateChangeTelemtry": "True",
+  "DFIntHumanoidStateChangeEventIngestThrottleHundrethsPercent": "1",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4725,8 +4727,8 @@
   "FFlagLuaAppColorSystem1_1TestCache1": "True",
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FStringFlagRepoGitHashFastString": "19ce50a04ecb064f6cda55eab3b607a3545a41b5",
-  "DFStringFlagRepoGitHashDynamicString": "19ce50a04ecb064f6cda55eab3b607a3545a41b5",
-  "FStringFlipTimeStampFastString": "2023-04-11T20:34:38.153Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-11T20:34:38.153Z"
+  "FStringFlagRepoGitHashFastString": "e3db8d570cd2fc6b6d274f07c82de402fcc3862c",
+  "DFStringFlagRepoGitHashDynamicString": "e3db8d570cd2fc6b6d274f07c82de402fcc3862c",
+  "FStringFlipTimeStampFastString": "2023-04-11T20:35:24.276Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-11T20:35:24.276Z"
 }
