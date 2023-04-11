@@ -4518,6 +4518,8 @@
   "DFIntLatencyLoggingThresholdMs_PlaceFilter": "30;8137333410;11115764361;8328351891;6284583030;5580097107;9588998913;1730877806;6839171747;292628125;606849621;2788229376;292439477;10569605393;10569586062;46955756;49707852;45146873;7137212917;166986752;844929123;735030788;1765700510;4709927839;2033617613",
   "FFlagRenderVulkanFixMinimizeWindow": "True",
   "FFlagSimCSG3UseMovedBuilders": "True",
+  "DFFlagCollectCoreScriptsPoints": "True",
+  "DFIntCoreScriptsAnalyticsHundredthsPercentage": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -4859,8 +4861,8 @@
   "FFlagLuaAppEnableExperienceDetailsPageTabletIXP2": "True",
   "DFFlagDeferInferredCrashEvaluation": "True",
   "DFFlagStoreUniqueIdInferredCrashSystem": "True",
-  "FStringFlagRepoGitHashFastString": "e8b2e7aecc8f97fa971bc8e5b8c66dd78b536f55",
-  "DFStringFlagRepoGitHashDynamicString": "e8b2e7aecc8f97fa971bc8e5b8c66dd78b536f55",
-  "FStringFlipTimeStampFastString": "2023-04-11T00:03:00.041Z",
-  "DFStringFlipTimeStampDynamicString": "2023-04-11T00:03:00.041Z"
+  "FStringFlagRepoGitHashFastString": "2fdba10f0d5be9c14623ede73c39dda9b3d01c33",
+  "DFStringFlagRepoGitHashDynamicString": "2fdba10f0d5be9c14623ede73c39dda9b3d01c33",
+  "FStringFlipTimeStampFastString": "2023-04-11T00:21:51.954Z",
+  "DFStringFlipTimeStampDynamicString": "2023-04-11T00:21:51.954Z"
 }
