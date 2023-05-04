@@ -1,4 +1,5 @@
 {
+  "enableLimitSocialSlotAllowedRange": "false",
   "enableQuestionnaireRestrictionViewingMode": "true",
   "enableNewChartsForAnalytics": "true",
   "enableExperienceGuidelinesView": "true",
@@ -40,5 +41,6 @@
   "enableDashboardRedirect": "true",
   "enableItemConfigFor3DAssets": "true",
   "enableItemConfigForL2Collectibles": "true",
-  "enableNewCopyLockText": "true"
+  "enableNewCopyLockText": "true",
+  "enableCreatedPlaces": "true"
 }
