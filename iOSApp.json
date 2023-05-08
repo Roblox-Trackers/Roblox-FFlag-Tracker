@@ -5105,6 +5105,7 @@
   "FIntVideoSchedulerMaxTaskSize": "300",
   "FStringUserActionTrackerEventTrackingList": "3,",
   "DFFlagFlagRolloutTestDynamicBool4_Rollout": "False;60;2023-05-08T22:56:30",
+  "DFFlagSimTouchDebounceEntryLimitEnabled_Rollout": "True;60;2023-05-08T23:27:34",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5418,8 +5419,8 @@
   "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4": "True",
   "FFlagPerfControlFireCallbacks3": "True",
   "FStringFeature_DisableOldCookieManagementSticky": "573;1",
-  "FStringFlagRepoGitHashFastString": "1639244a2e215be94e36af99b8c70fa22242ace9",
-  "DFStringFlagRepoGitHashDynamicString": "1639244a2e215be94e36af99b8c70fa22242ace9",
-  "FStringFlipTimeStampFastString": "2023-05-08T23:01:29.622Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-08T23:01:29.622Z"
+  "FStringFlagRepoGitHashFastString": "be61c3ecfb89e075e97867e5806b24314e35d915",
+  "DFStringFlagRepoGitHashDynamicString": "be61c3ecfb89e075e97867e5806b24314e35d915",
+  "FStringFlipTimeStampFastString": "2023-05-08T23:28:11.791Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-08T23:28:11.791Z"
 }
