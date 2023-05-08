@@ -4980,7 +4980,7 @@
   "FFlagLuaAppHomeContentAutomaticSize": "True",
   "FFlagReflectionNullType": "True",
   "EnableCorrectStatusBarState": "True",
-  "FFlagVideoUseThreadPool3": "False",
+  "FFlagVideoUseThreadPool3": "True",
   "DFFlagAMPVerified": "False",
   "DFFlagAMPVerified_PlaceFilter": "True;11571709055",
   "FFlagBootcampCLI70541": "True",
@@ -5104,6 +5104,7 @@
   "DFIntSOAPRequestDataInfluxHundredthsPercentage": "1000",
   "FFlagSVH_AnonymizeAssetNameStage_1": "True",
   "FFlagSVH_AnonymizeAssetNameStage_2": "True",
+  "FIntVideoSchedulerMaxTaskSize": "300",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5350,8 +5351,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "3fa0c40dc20b6932bb931378546d83175dfb7bdc",
-  "DFStringFlagRepoGitHashDynamicString": "3fa0c40dc20b6932bb931378546d83175dfb7bdc",
-  "FStringFlipTimeStampFastString": "2023-05-08T22:37:05.076Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-08T22:37:05.076Z"
+  "FStringFlagRepoGitHashFastString": "845a0d0bc9085aa40dfae89cc5b746523997b614",
+  "DFStringFlagRepoGitHashDynamicString": "845a0d0bc9085aa40dfae89cc5b746523997b614",
+  "FStringFlipTimeStampFastString": "2023-05-08T22:56:13.342Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-08T22:56:13.342Z"
 }
