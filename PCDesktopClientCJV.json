@@ -5071,6 +5071,7 @@
   "DFFlagShapecastFixRayAABB": "True",
   "DFFlagEnableRolloutFlagCrashDataUWP": "True",
   "FFlagNewDetectPaymentFunction": "True",
+  "FFlagThreadSafeTextureInvalidation2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5317,8 +5318,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "4fc2f3f12fbfda9fd62bfb0071ead6ce15196214",
-  "DFStringFlagRepoGitHashDynamicString": "4fc2f3f12fbfda9fd62bfb0071ead6ce15196214",
-  "FStringFlipTimeStampFastString": "2023-05-08T16:55:36.586Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-08T16:55:36.586Z"
+  "FStringFlagRepoGitHashFastString": "c41aa2ca9dfd2c8bdbe7d6f7dc6848b988769101",
+  "DFStringFlagRepoGitHashDynamicString": "c41aa2ca9dfd2c8bdbe7d6f7dc6848b988769101",
+  "FStringFlipTimeStampFastString": "2023-05-08T17:08:17.993Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-08T17:08:17.993Z"
 }
