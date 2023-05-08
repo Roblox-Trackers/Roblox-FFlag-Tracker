@@ -3902,7 +3902,6 @@
   "DFFlagRCCIncludeHTTPErrorInitTelmetry": "True",
   "DFIntReportRTLSupportThrottleHundrethsPercent": "100",
   "FFlagUIBloxUseDetailsPageTemplateConfig": "True",
-  "FFlagBootcampCLI66753": "True",
   "FFlagCSGMeshSerializationVer5": "True",
   "FFlagCollectibleItemDiscovery3": "True",
   "FFlagDisableWearAfterPurchaseForCollectibles": "True",
@@ -5103,6 +5102,8 @@
   "FFlagMultiCursorFoldToggle": "True",
   "DFFlagReportSoapStatsNewAPI": "True",
   "DFIntSOAPRequestDataInfluxHundredthsPercentage": "1000",
+  "FFlagSVH_AnonymizeAssetNameStage_1": "True",
+  "FFlagSVH_AnonymizeAssetNameStage_2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5445,8 +5446,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadAndroid",
   "FFlagNativePurchaseWithLocalPlayer": "True",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadAndroid",
-  "FStringFlagRepoGitHashFastString": "6519d4a1cf27dd9eebebb8af0e7f717605e5f77a",
-  "DFStringFlagRepoGitHashDynamicString": "6519d4a1cf27dd9eebebb8af0e7f717605e5f77a",
-  "FStringFlipTimeStampFastString": "2023-05-08T22:14:32.163Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-08T22:14:32.163Z"
+  "FStringFlagRepoGitHashFastString": "3d423dd8568be987de122c2919fc256de84046f2",
+  "DFStringFlagRepoGitHashDynamicString": "3d423dd8568be987de122c2919fc256de84046f2",
+  "FStringFlipTimeStampFastString": "2023-05-08T22:18:51.636Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-08T22:18:51.636Z"
 }
