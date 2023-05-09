@@ -4030,7 +4030,7 @@
   "FFlagPrerenderJobStop": "True",
   "DFFlagUseCrashReportLogGroup": "True",
   "FFlagModelLodIxpExperimentation": "False",
-  "FFlagModelLodIxpExperimentation_PlaceFilter": "True;5813911804;7442772872;6279686336;8956286630;8314038172;4966734445",
+  "FFlagModelLodIxpExperimentation_PlaceFilter": "True;5813911804;7442772872;6279686336;8956286630;8314038172;4966734445;5912313358",
   "FFlagRoactUtilsSimplifyIsGamepad": "True",
   "FFlagLuaCatalogMenuOptV2IXPEnabled5": "True",
   "FFlagEnableBrowserTrackerApiDeviceInitializeIOS": "True",
@@ -5110,6 +5110,7 @@
   "FFlagBatchAssetApiRollout": "True",
   "FIntBatchAssetApiRolloutHundredthPercent": "10000",
   "FFlagTrackAllDeviceMemory6": "True",
+  "FFlagAinFixMaterialRealAssetId": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5356,8 +5357,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "091c17239a75d0e28c534c0dfee9d26d16346468",
-  "DFStringFlagRepoGitHashDynamicString": "091c17239a75d0e28c534c0dfee9d26d16346468",
-  "FStringFlipTimeStampFastString": "2023-05-09T17:40:55.256Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-09T17:40:55.256Z"
+  "FStringFlagRepoGitHashFastString": "dce037e2baa9f5b5b48c1d39dc044517c134526d",
+  "DFStringFlagRepoGitHashDynamicString": "dce037e2baa9f5b5b48c1d39dc044517c134526d",
+  "FStringFlipTimeStampFastString": "2023-05-09T17:54:09.407Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-09T17:54:09.407Z"
 }
