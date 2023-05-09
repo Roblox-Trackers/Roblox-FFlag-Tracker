@@ -5114,6 +5114,8 @@
   "FFlagSimCSG3KeepConsistentCFrame": "True",
   "DFFlagNoPastRollout_Rollout": "True;60;2023-05-09T22:01:35",
   "FFlagAnchorPointNotSetBeforeCalling": "True",
+  "FFlagToolboxFixHomeViewScrollingVisualGlitch": "True",
+  "FFlagToolboxMigrateModelPublish3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5360,8 +5362,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "62e0e8cfa7b4ded62e5329cbddf2f0ebd48eec55",
-  "DFStringFlagRepoGitHashDynamicString": "62e0e8cfa7b4ded62e5329cbddf2f0ebd48eec55",
-  "FStringFlipTimeStampFastString": "2023-05-09T22:11:29.292Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-09T22:11:29.292Z"
+  "FStringFlagRepoGitHashFastString": "57fec8d92e8f1c2a07005ff796493629bb378189",
+  "DFStringFlagRepoGitHashDynamicString": "57fec8d92e8f1c2a07005ff796493629bb378189",
+  "FStringFlipTimeStampFastString": "2023-05-09T22:13:29.298Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-09T22:13:29.298Z"
 }
