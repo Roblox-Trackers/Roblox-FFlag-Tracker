@@ -5107,6 +5107,8 @@
   "FFlagSupportOffCenterOriginInvestigateExtentsCFrameCrash": "True",
   "FFlagSupportOffCenterOriginInvestigateExtentsSizeCrash": "True",
   "DFFlagFlagRolloutTestDynamicBool4": "False",
+  "FFlagBatchAssetApiRollout": "True",
+  "FIntBatchAssetApiRolloutHundredthPercent": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5348,8 +5350,8 @@
   "FStringFeature_DisableOldCookieManagementSticky": "569;100",
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadMacClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadMacClient",
-  "FStringFlagRepoGitHashFastString": "bb6d5d4e36baeff3d4a67503a280f16bd2a5644a",
-  "DFStringFlagRepoGitHashDynamicString": "bb6d5d4e36baeff3d4a67503a280f16bd2a5644a",
-  "FStringFlipTimeStampFastString": "2023-05-09T17:33:37.518Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-09T17:33:37.518Z"
+  "FStringFlagRepoGitHashFastString": "e813ab8c5f5b10b67a383344d34c35623b69c219",
+  "DFStringFlagRepoGitHashDynamicString": "e813ab8c5f5b10b67a383344d34c35623b69c219",
+  "FStringFlipTimeStampFastString": "2023-05-09T17:34:37.774Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-09T17:34:37.774Z"
 }
