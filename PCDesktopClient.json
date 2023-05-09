@@ -5106,6 +5106,7 @@
   "FStringUserActionTrackerEventTrackingList": "3,",
   "DFFlagFlagRolloutTestDynamicBool4_Rollout": "False;60;2023-05-08T22:56:30",
   "DFFlagSimTouchDebounceEntryLimitEnabled_Rollout": "True;60;2023-05-08T23:27:34",
+  "FFlagSanityCheckMultithreadedTextureManagerAccess": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5351,8 +5352,8 @@
   "DFIntReportBadGlyphProviderIdHundredthsPercent": "10000",
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
-  "FStringFlagRepoGitHashFastString": "95f0f4a70edbe26a174dbe6dc541182b868724ae",
-  "DFStringFlagRepoGitHashDynamicString": "95f0f4a70edbe26a174dbe6dc541182b868724ae",
-  "FStringFlipTimeStampFastString": "2023-05-08T23:36:45.798Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-08T23:36:45.798Z"
+  "FStringFlagRepoGitHashFastString": "1a0eeac2b50dbce08802ad151c04d9b4cc7569cc",
+  "DFStringFlagRepoGitHashDynamicString": "1a0eeac2b50dbce08802ad151c04d9b4cc7569cc",
+  "FStringFlipTimeStampFastString": "2023-05-09T00:25:37.624Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-09T00:25:37.624Z"
 }
