@@ -4155,7 +4155,7 @@
   "FFlagXboxProvideLocaleOnSignup": "True",
   "FFlagUseFallbackTextureStatusLoaded": "False",
   "FFlagRenderStudioMultiSelect": "True",
-  "FIntSelectionImprovementsBetaFeatureRolloutPercent": "50",
+  "FIntSelectionImprovementsBetaFeatureRolloutPercent": "100",
   "DFFlagAdPortalUseFlagForAxisValidation": "True",
   "DFFlagEnableSearchAudioApi": "True",
   "FFlagLuaAppChallengeShouldIgnoreBackNavigationDisabled": "True",
@@ -5139,6 +5139,8 @@
   "FFlagPlayersGetUserThumbnailAsyncReportsStatus2": "True",
   "DFFlagServerSettingsTimestampsFallback_Rollout": "False;60;2023-05-10T19:13:45",
   "DFFlagEnableHttpCacheForceRevalidate_Rollout": "False;60;2023-05-10T19:24:30",
+  "FFlagSelectionImprovementsCalloutFix": "True",
+  "FIntRenderStudioOccludedOutlineOpacity": "20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5334,8 +5336,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "5fc8e24e03637a58c2ecae813bbae1786f489127",
-  "DFStringFlagRepoGitHashDynamicString": "5fc8e24e03637a58c2ecae813bbae1786f489127",
-  "FStringFlipTimeStampFastString": "2023-05-10T19:57:55.446Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-10T19:57:55.446Z"
+  "FStringFlagRepoGitHashFastString": "ec791d0fee18ac67b47c4a86a9a294dc988210b4",
+  "DFStringFlagRepoGitHashDynamicString": "ec791d0fee18ac67b47c4a86a9a294dc988210b4",
+  "FStringFlipTimeStampFastString": "2023-05-10T20:06:43.094Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-10T20:06:43.094Z"
 }
