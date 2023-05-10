@@ -5135,7 +5135,7 @@
   "FFlagUseImportNameForRoot": "True",
   "FFlagAICOCompletionContentsMinutesSinceCommit": "True",
   "FFlagContentProviderAFSImprovements2": "True",
-  "DFFlagServerSettingsTimestampsFallback_Rollout": "False;60;2023-05-10T19:13:45",
+  "DFFlagServerSettingsTimestampsFallback_Rollout": "True;30;2023-05-10T21:59:27",
   "DFFlagEnableHttpCacheForceRevalidate_Rollout": "False;60;2023-05-10T19:24:30",
   "FFlagSelectionImprovementsCalloutFix": "True",
   "FIntRenderStudioOccludedOutlineOpacity": "20",
@@ -5149,6 +5149,7 @@
   "DFFlagWedgesAreEnums": "True",
   "DFFlagEnumAttributes2": "True",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2023-05-10T21:40:29",
+  "DFFlagCountOldChatAPIUsageV2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5395,8 +5396,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "a9844c19557af9f627ade0db0cd2cd4660c30ae9",
-  "DFStringFlagRepoGitHashDynamicString": "a9844c19557af9f627ade0db0cd2cd4660c30ae9",
-  "FStringFlipTimeStampFastString": "2023-05-10T21:45:55.423Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-10T21:45:55.423Z"
+  "FStringFlagRepoGitHashFastString": "d39852513f75254096942f740b87fac00150cce8",
+  "DFStringFlagRepoGitHashDynamicString": "d39852513f75254096942f740b87fac00150cce8",
+  "FStringFlipTimeStampFastString": "2023-05-10T22:00:13.914Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-10T22:00:13.914Z"
 }
