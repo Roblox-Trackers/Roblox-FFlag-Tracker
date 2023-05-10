@@ -5138,6 +5138,7 @@
   "FFlagContentProviderAFSImprovements2": "True",
   "FFlagPlayersGetUserThumbnailAsyncReportsStatus2": "True",
   "DFFlagServerSettingsTimestampsFallback_Rollout": "False;60;2023-05-10T19:13:45",
+  "DFFlagEnableHttpCacheForceRevalidate_Rollout": "False;60;2023-05-10T19:24:30",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5480,8 +5481,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadAndroid",
   "FFlagNativePurchaseWithLocalPlayer": "True",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadAndroid",
-  "FStringFlagRepoGitHashFastString": "afea42a296f46ad72b5c883187fd399498e61458",
-  "DFStringFlagRepoGitHashDynamicString": "afea42a296f46ad72b5c883187fd399498e61458",
-  "FStringFlipTimeStampFastString": "2023-05-10T19:23:58.047Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-10T19:23:58.047Z"
+  "FStringFlagRepoGitHashFastString": "4a4027358d12a878f91e0cd7b58c5d5a8f996cc0",
+  "DFStringFlagRepoGitHashDynamicString": "4a4027358d12a878f91e0cd7b58c5d5a8f996cc0",
+  "FStringFlipTimeStampFastString": "2023-05-10T19:25:16.767Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-10T19:25:16.767Z"
 }
