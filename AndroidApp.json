@@ -2574,7 +2574,7 @@
   "DFFlagFFlagRolloutDuplicateTelemetryCountersEnabled": "True",
   "DFIntFFlagRolloutDuplicateTelemetryCountersThrottleHundredthsPercent": "1000",
   "FFlagUASetVREnableBeforeGameLoadingV2": "True",
-  "DFIntIgnoreCustomEventReceiverSourceReportPermyriad2": "10000",
+  "DFIntIgnoreCustomEventReceiverSourceReportPermyriad2": "100",
   "FFlagAddFriendsContextInfoStyling": "True",
   "FFlagVoiceChatSignalRTimingCounterToStat": "True",
   "DFFlagSignalRReconnectionFailureMetrics": "True",
@@ -5171,6 +5171,7 @@
   "DFIntStudioOAuthV1UserInfoTelemetryHundredthsPercent_Rollout": "10000;30;2023-05-11T21:00:02",
   "FFlagDevFrameworkTreeCellError": "True",
   "FFlagGamepadCursorDotDisappearsCorrectly_Rollout": "True;60;2023-05-11T21:23:41",
+  "DFIntCustomEventReceiverSourceClonedHundredthsPercentage": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5515,8 +5516,8 @@
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadAndroid",
   "FStringFeature_SingleSurfaceEnabled": "574;25",
   "FFlagReportFpsAndGfxQualityPercentiles_Rollout": "True;60;2023-05-11T18:25:13",
-  "FStringFlagRepoGitHashFastString": "12a497c51c3b0eb1290a0310747ee9b926046c64",
-  "DFStringFlagRepoGitHashDynamicString": "12a497c51c3b0eb1290a0310747ee9b926046c64",
-  "FStringFlipTimeStampFastString": "2023-05-11T21:24:28.412Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-11T21:24:28.412Z"
+  "FStringFlagRepoGitHashFastString": "736ef9c3a8b4a9543ca8ddae88e01f1114615dec",
+  "DFStringFlagRepoGitHashDynamicString": "736ef9c3a8b4a9543ca8ddae88e01f1114615dec",
+  "FStringFlipTimeStampFastString": "2023-05-11T21:36:33.546Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-11T21:36:33.546Z"
 }
