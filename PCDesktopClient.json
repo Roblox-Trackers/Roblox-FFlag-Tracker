@@ -5197,6 +5197,10 @@
   "FFlagAXFixSearchBackFilters": "True",
   "FFlagIXPUtilsRemoveLocalCache": "True",
   "FFlagRenderStudioSelectConstraintFix2": "True",
+  "FFlagParticleFlipbookNotifyFix": "True",
+  "FFlagParticleFlipbookResetLayout": "True",
+  "DFIntVRPointerFilterMinCutoffMillionth": "7000000",
+  "FFlagVRNewLaserFilter": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5442,8 +5446,8 @@
   "DFIntReportBadGlyphProviderIdHundredthsPercent": "10000",
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
-  "FStringFlagRepoGitHashFastString": "1f3f72abf9823577ca35c256c94b2d8e209a2aa5",
-  "DFStringFlagRepoGitHashDynamicString": "1f3f72abf9823577ca35c256c94b2d8e209a2aa5",
-  "FStringFlipTimeStampFastString": "2023-05-15T16:57:53.035Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-15T16:57:53.035Z"
+  "FStringFlagRepoGitHashFastString": "e5f06a05dfc918c609a314b2c76cc557d628c0ef",
+  "DFStringFlagRepoGitHashDynamicString": "e5f06a05dfc918c609a314b2c76cc557d628c0ef",
+  "FStringFlipTimeStampFastString": "2023-05-15T17:09:37.112Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-15T17:09:37.112Z"
 }
