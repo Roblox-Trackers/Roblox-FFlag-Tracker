@@ -5191,6 +5191,9 @@
   "FFlagAXAvatarManualExposureLogging": "True",
   "FFlagAXUseFullViewSetter": "True",
   "FFlagAXFixSearchMissingFilters2": "True",
+  "FFlagGraphicsEnableInstancedStreams": "True",
+  "FFlagGraphicsEnable32Textures": "True",
+  "FFlagRenderEnableHalfsAdreno": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5437,8 +5440,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d7ea1a9266400b2523c63ff0152f2ddea63fa504",
-  "DFStringFlagRepoGitHashDynamicString": "d7ea1a9266400b2523c63ff0152f2ddea63fa504",
-  "FStringFlipTimeStampFastString": "2023-05-15T16:37:13.686Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-15T16:37:13.686Z"
+  "FStringFlagRepoGitHashFastString": "43de755a291e7b5270851cc806dfd8cbdd0bb6b0",
+  "DFStringFlagRepoGitHashDynamicString": "43de755a291e7b5270851cc806dfd8cbdd0bb6b0",
+  "FStringFlipTimeStampFastString": "2023-05-15T16:42:03.501Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-15T16:42:03.501Z"
 }
