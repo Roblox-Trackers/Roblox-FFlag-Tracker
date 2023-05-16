@@ -5220,6 +5220,10 @@
   "DFFlagEnableAdUnitNameWhitelist": "True",
   "FFlagSimSolverMoveConstraintCategory_Rollout": "True;60;2023-05-16T20:42:55",
   "FFlagAinBuildSkinSubsetsAfterSimplify": "True",
+  "DFIntPerformanceControlSoundReloadLatencyMaxValue": "200",
+  "DFIntPerformanceControlSoundReloadLatencyTargetUtility": "-10000",
+  "DFIntPerformanceControlSoundReloadThrashingMaxValue": "200",
+  "DFIntPerformanceControlSoundReloadThrashingTargetUtility": "-10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5415,8 +5419,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "244426f0dc2e77f4624401ab43f0a252993452e6",
-  "DFStringFlagRepoGitHashDynamicString": "244426f0dc2e77f4624401ab43f0a252993452e6",
-  "FStringFlipTimeStampFastString": "2023-05-16T20:44:42.707Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-16T20:44:42.707Z"
+  "FStringFlagRepoGitHashFastString": "d62599145f023d2093a4b2abd63e62e3bc82e00c",
+  "DFStringFlagRepoGitHashDynamicString": "d62599145f023d2093a4b2abd63e62e3bc82e00c",
+  "FStringFlipTimeStampFastString": "2023-05-16T20:47:55.467Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-16T20:47:55.467Z"
 }
