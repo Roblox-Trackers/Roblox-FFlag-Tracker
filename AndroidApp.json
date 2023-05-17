@@ -5245,6 +5245,10 @@
   "FFlagLuauThreadsafeInstanceTypes": "True",
   "FFlagTerrainToolsDialogEditMode3": "True",
   "DFFlagTextureManagerFixPerformanceControlNoMemoryDeltaForMipLevels": "True",
+  "FFlagEnableChatInputBarConfigurationPropertyIsFocused": "True",
+  "FFlagEnableChatInputBarConfigurationPropertyKeyboardKeyCode": "True",
+  "FFlagUpgradeExpChatV3_4_5": "True",
+  "FFlagStudio9SliceEditorValueRevertFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5588,8 +5592,8 @@
   "FFlagNativePurchaseWithLocalPlayer": "True",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadAndroid",
   "FStringFeature_SingleSurfaceEnabled": "574;10",
-  "FStringFlagRepoGitHashFastString": "676f4339f403f61b78d6e250e92a9dca0a1248d6",
-  "DFStringFlagRepoGitHashDynamicString": "676f4339f403f61b78d6e250e92a9dca0a1248d6",
-  "FStringFlipTimeStampFastString": "2023-05-17T19:30:22.610Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-17T19:30:22.610Z"
+  "FStringFlagRepoGitHashFastString": "daa6e7d31e05d17dd53d5801ca497d6789413573",
+  "DFStringFlagRepoGitHashDynamicString": "daa6e7d31e05d17dd53d5801ca497d6789413573",
+  "FStringFlipTimeStampFastString": "2023-05-17T19:31:51.522Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-17T19:31:51.522Z"
 }
