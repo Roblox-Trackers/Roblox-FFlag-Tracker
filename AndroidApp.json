@@ -5238,6 +5238,9 @@
   "DFFlagAMPVerified_Rollout": "True;60;2023-05-17T17:15:32",
   "FFlagLockedParentUneditable2_Rollout": "True;60;2023-05-17T17:46:15",
   "DFFlagSimAdaptiveCofmCleanupFix_Rollout": "True;1;2023-05-17T18:54:24",
+  "FFlagQtitanDumpVisualHierarchyToLog": "True",
+  "FFlagQtitanPanelsDeterministicNames": "True",
+  "FLogLogQtitanDumpVisualHierarchy": "6",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5581,8 +5584,8 @@
   "FFlagNativePurchaseWithLocalPlayer": "True",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadAndroid",
   "FStringFeature_SingleSurfaceEnabled": "574;10",
-  "FStringFlagRepoGitHashFastString": "668c2e6b68ba8412dcef21f6882f608510928ac9",
-  "DFStringFlagRepoGitHashDynamicString": "668c2e6b68ba8412dcef21f6882f608510928ac9",
-  "FStringFlipTimeStampFastString": "2023-05-17T18:55:16.587Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-17T18:55:16.587Z"
+  "FStringFlagRepoGitHashFastString": "60c23619bc0cc0afbf6898d2c3f628ff62dcdcfa",
+  "DFStringFlagRepoGitHashDynamicString": "60c23619bc0cc0afbf6898d2c3f628ff62dcdcfa",
+  "FStringFlipTimeStampFastString": "2023-05-17T18:56:42.611Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-17T18:56:42.611Z"
 }
