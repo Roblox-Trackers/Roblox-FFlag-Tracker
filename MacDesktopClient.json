@@ -5263,9 +5263,11 @@
   "FFlagSimCSGV3SeparateDetachedCoplanarGraphs2_Rollout": "True;60;2023-05-17T20:30:22",
   "FFlagPerformanceControlDisableTelemetryAfterShutdown2": "True",
   "DFFlagEnableRobloxTelemetryThrottleOverrides": "True",
-  "DFIntImmersiveAdImpressionEventPointsThrottleHundrethsPercent": "10000",
-  "DFIntImmersiveAdTeleportEventPointsThrottleHundrethsPercent": "10000",
+  "DFIntImmersiveAdImpressionEventPointsThrottleHundrethsPercent": "5000",
+  "DFIntImmersiveAdTeleportEventPointsThrottleHundrethsPercent": "5000",
   "FFlagWarnScriptRuntime": "True",
+  "DFIntImmersiveAdServingEventPointsThrottleHundrethsPercent": "5000",
+  "DFIntImpressionCriteriaCounterPointsThrottleHundrethsPercent": "5000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5508,8 +5510,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadMacClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadMacClient",
   "FFlagSimAdaptiveTimesteppingUpdate3_Rollout": "True;30;2023-05-17T18:57:44",
-  "FStringFlagRepoGitHashFastString": "c19291b6ce3048790c5ff144aaec6659ad08a40b",
-  "DFStringFlagRepoGitHashDynamicString": "c19291b6ce3048790c5ff144aaec6659ad08a40b",
-  "FStringFlipTimeStampFastString": "2023-05-17T20:44:37.639Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-17T20:44:37.639Z"
+  "FStringFlagRepoGitHashFastString": "9598ff697a4f50005941dd63501bc9bed64683e8",
+  "DFStringFlagRepoGitHashDynamicString": "9598ff697a4f50005941dd63501bc9bed64683e8",
+  "FStringFlipTimeStampFastString": "2023-05-17T20:54:56.169Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-17T20:54:56.169Z"
 }
