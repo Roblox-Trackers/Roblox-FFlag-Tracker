@@ -5283,6 +5283,8 @@
   "FFlagEnableSurveyImprovements2": "True",
   "FFlagCOLLAB2928StudioInternalDebugWidget2": "True",
   "FFlagCOLLAB3580RedoChatWidgetDockOwnership2": "True",
+  "FFlagAESspeculativePlaceIdMissingFix": "True",
+  "FFlagAESReportEventsWithZeroPlaceId": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5529,8 +5531,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "214cd137a40c76c394eb1fc8143a68701c2e1666",
-  "DFStringFlagRepoGitHashDynamicString": "214cd137a40c76c394eb1fc8143a68701c2e1666",
-  "FStringFlipTimeStampFastString": "2023-05-18T21:18:24.492Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-18T21:18:24.492Z"
+  "FStringFlagRepoGitHashFastString": "a0484eaf87a6472c773237931e110502ae7af8cd",
+  "DFStringFlagRepoGitHashDynamicString": "a0484eaf87a6472c773237931e110502ae7af8cd",
+  "FStringFlipTimeStampFastString": "2023-05-18T21:49:07.982Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-18T21:49:07.982Z"
 }
