@@ -5265,7 +5265,7 @@
   "FFlagFacialAnimationStreamingServiceRequireVoiceChat_PlaceFilter": "False;12806190892",
   "FFlagAddFriendsPYMKExperimentEnabled_v3": "True",
   "DFFlagSimAdaptiveCofmCleanupFix": "True",
-  "FFlagSimCSGV3SeparateDetachedCoplanarGraphs2": "True",
+  "FFlagSimCSGV3SeparateDetachedCoplanarGraphs2": "False",
   "FFlagLockedParentUneditable2": "True",
   "FFlagTerrainEditorOverhaulBetaFeature": "True",
   "FFlagStudioImproveRenderPerf": "True",
@@ -5279,6 +5279,7 @@
   "FFlagMaquettesAvatarTopBar3": "True",
   "FFlagRemoveScriptAnalysisWidgetFromRouterInDtor": "True",
   "FFlagFixManageCostumeButton": "True",
+  "FFlagCOLLAB3467FixBlockingPermissionCheckOnDisconnect": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5525,8 +5526,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
-  "FStringFlagRepoGitHashFastString": "5c6b3dabad2699bc774a77da13859d3c0357d723",
-  "DFStringFlagRepoGitHashDynamicString": "5c6b3dabad2699bc774a77da13859d3c0357d723",
-  "FStringFlipTimeStampFastString": "2023-05-18T18:37:47.528Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-18T18:37:47.528Z"
+  "FStringFlagRepoGitHashFastString": "6ad787b0624699d89af2ae53777a43081bbf1b09",
+  "DFStringFlagRepoGitHashDynamicString": "6ad787b0624699d89af2ae53777a43081bbf1b09",
+  "FStringFlipTimeStampFastString": "2023-05-18T18:47:19.048Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-18T18:47:19.048Z"
 }
