@@ -5287,10 +5287,11 @@
   "FFlagAESReportEventsWithZeroPlaceId": "True",
   "FIntContextualServiceVisibilityBetaFeatureRolloutPercent": "10000",
   "FFlagDragDetectorsBetaFeature": "True",
-  "DFIntDragDetectorDragAnalyticsThrottleHundredthsPercent": "100",
+  "DFIntDragDetectorDragAnalyticsThrottleHundredthsPercent": "1000",
   "DFFlagDragDetectorDragAnalyticsEnabled": "True",
   "FIntUseNewInvitePermissionsForSocialServiceRollout": "10",
   "FFlagEnumAttributeDisplayFix": "True",
+  "DFFlagIsAModelUsage_Rollout": "False;30;2023-05-22T16:07:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5537,8 +5538,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f8388ebe76c114f41543e4778b60ae8e79a3b0fe",
-  "DFStringFlagRepoGitHashDynamicString": "f8388ebe76c114f41543e4778b60ae8e79a3b0fe",
-  "FStringFlipTimeStampFastString": "2023-05-22T16:06:54.096Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-22T16:06:54.096Z"
+  "FStringFlagRepoGitHashFastString": "f3d8c750c55c10eb87d470333ad375f1e6016029",
+  "DFStringFlagRepoGitHashDynamicString": "f3d8c750c55c10eb87d470333ad375f1e6016029",
+  "FStringFlipTimeStampFastString": "2023-05-22T16:09:00.061Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-22T16:09:00.061Z"
 }
