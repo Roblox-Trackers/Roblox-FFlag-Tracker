@@ -376,7 +376,7 @@
   "FFlagWhitelistThumbnailsAPI": "True",
   "FFlagWindowsReportAbuseNotification": "True",
   "FFlagWindowsTouchEnabled": "False",
-  "FFlagXboxAppBridgeRewrite5": "False",
+  "FFlagXboxAppBridgeRewrite5": "True",
   "FIntAntiSpamSpamLimit": "1000",
   "FIntAppConfigurationExpiry": "86400",
   "FIntAppShellFPSReportPeriod": "120",
@@ -5639,8 +5639,8 @@
   "FFlagNativePurchaseWithLocalPlayer": "True",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadAndroid",
   "FStringFeature_SingleSurfaceEnabled": "574;10",
-  "FStringFlagRepoGitHashFastString": "ec2907053cda1060ef193c4b321d315e97646197",
-  "DFStringFlagRepoGitHashDynamicString": "ec2907053cda1060ef193c4b321d315e97646197",
-  "FStringFlipTimeStampFastString": "2023-05-22T18:02:41.133Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-22T18:02:41.133Z"
+  "FStringFlagRepoGitHashFastString": "1f60845896a7acce1b0cfc3ab852ac399f03d61c",
+  "DFStringFlagRepoGitHashDynamicString": "1f60845896a7acce1b0cfc3ab852ac399f03d61c",
+  "FStringFlipTimeStampFastString": "2023-05-22T18:23:27.755Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-22T18:23:27.755Z"
 }
