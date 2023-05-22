@@ -5297,6 +5297,7 @@
   "FFlagEnableQuestPaymentPlatformType": "True",
   "DFFlagRCCEvictPlayerWithReason_Rollout": "True;60;2023-05-22T20:55:42",
   "DFFlagVoiceChatRccMuteCheckDescFirst_Rollout": "True;60;2023-05-22T20:56:46",
+  "FFlagAddFriendsPYMKAnalytics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5538,8 +5539,8 @@
   "FStringFeature_DisableOldCookieManagementSticky": "569;100",
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadMacClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadMacClient",
-  "FStringFlagRepoGitHashFastString": "b3e139c55f6bc1c52fccdf796a8f6807867faa22",
-  "DFStringFlagRepoGitHashDynamicString": "b3e139c55f6bc1c52fccdf796a8f6807867faa22",
-  "FStringFlipTimeStampFastString": "2023-05-22T21:40:50.714Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-22T21:40:50.714Z"
+  "FStringFlagRepoGitHashFastString": "0b773fd4ce73fea0b33c098c669779124bb5b608",
+  "DFStringFlagRepoGitHashDynamicString": "0b773fd4ce73fea0b33c098c669779124bb5b608",
+  "FStringFlipTimeStampFastString": "2023-05-22T22:13:37.786Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-22T22:13:37.786Z"
 }
