@@ -101,7 +101,7 @@
   "DFIntDynamicReloaderFailureInfluxHundrethsPercentage": "10000",
   "DFIntDynamicReloaderFileFailureInfluxHundrethsPercentage": "10000",
   "DFIntESGamePerfMonitorDelayBeforeFirstReportInSeconds": "60",
-  "DFIntESGamePerfMonitorHundredthsPercentage": "200",
+  "DFIntESGamePerfMonitorHundredthsPercentage": "500",
   "DFIntESGamePerfMonitorReportTimerInSeconds": "30",
   "DFIntEphemeralCounterInfluxReportingPriorityHundredthsPercent": "10000",
   "DFIntEphemeralCounterInfluxReportingThrottleHundredthsPercent": "10000",
@@ -5640,8 +5640,8 @@
   "FFlagNativePurchaseWithLocalPlayer": "True",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadAndroid",
   "FStringFeature_SingleSurfaceEnabled": "574;10",
-  "FStringFlagRepoGitHashFastString": "fefb9c89311cdf7b7e88148efae2190209067c0d",
-  "DFStringFlagRepoGitHashDynamicString": "fefb9c89311cdf7b7e88148efae2190209067c0d",
-  "FStringFlipTimeStampFastString": "2023-05-22T23:47:34.696Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-22T23:47:34.696Z"
+  "FStringFlagRepoGitHashFastString": "575ee09f4ea7e35744d3298ca6ddd987871b73a3",
+  "DFStringFlagRepoGitHashDynamicString": "575ee09f4ea7e35744d3298ca6ddd987871b73a3",
+  "FStringFlipTimeStampFastString": "2023-05-22T23:57:11.234Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-22T23:57:11.234Z"
 }
