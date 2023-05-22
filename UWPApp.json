@@ -5287,7 +5287,7 @@
   "FFlagAESReportEventsWithZeroPlaceId": "True",
   "FIntContextualServiceVisibilityBetaFeatureRolloutPercent": "10000",
   "FFlagDragDetectorsBetaFeature": "True",
-  "DFIntDragDetectorDragAnalyticsThrottleHundredthsPercent": "1000",
+  "DFIntDragDetectorDragAnalyticsThrottleHundredthsPercent": "10000",
   "DFFlagDragDetectorDragAnalyticsEnabled": "True",
   "FIntUseNewInvitePermissionsForSocialServiceRollout": "10",
   "FFlagEnumAttributeDisplayFix": "True",
@@ -5491,8 +5491,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "4ec1a34ef3dc17b94a8c6575914a7bf295d1b13d",
-  "DFStringFlagRepoGitHashDynamicString": "4ec1a34ef3dc17b94a8c6575914a7bf295d1b13d",
-  "FStringFlipTimeStampFastString": "2023-05-22T19:41:25.911Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-22T19:41:25.911Z"
+  "FStringFlagRepoGitHashFastString": "759b1d7eb657c196d16a437c99596a463bc62e4f",
+  "DFStringFlagRepoGitHashDynamicString": "759b1d7eb657c196d16a437c99596a463bc62e4f",
+  "FStringFlipTimeStampFastString": "2023-05-22T19:52:31.684Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-22T19:52:31.684Z"
 }
