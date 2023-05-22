@@ -376,7 +376,7 @@
   "FFlagWhitelistThumbnailsAPI": "True",
   "FFlagWindowsReportAbuseNotification": "True",
   "FFlagWindowsTouchEnabled": "False",
-  "FFlagXboxAppBridgeRewrite5": "True",
+  "FFlagXboxAppBridgeRewrite5": "False",
   "FIntAntiSpamSpamLimit": "1000",
   "FIntAppConfigurationExpiry": "86400",
   "FIntAppShellFPSReportPeriod": "120",
@@ -5294,9 +5294,6 @@
   "DFFlagIsAModelUsage_Rollout": "False;30;2023-05-22T16:07:01",
   "FFlagFixSearchBarCancelRefocus": "True",
   "FFlagLuaAppEnableSearchBarIconActivated": "True",
-  "FFlagInitialOnScreenChanged": "True",
-  "FFlagStudioLocalizePropertyCategory": "True",
-  "FFlagAddFriendsPYMKAnalytics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5494,8 +5491,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "77e496a69d76a008c93836f92ece38f72b7e8879",
-  "DFStringFlagRepoGitHashDynamicString": "77e496a69d76a008c93836f92ece38f72b7e8879",
-  "FStringFlipTimeStampFastString": "2023-05-22T18:24:37.464Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-22T18:24:37.464Z"
+  "FStringFlagRepoGitHashFastString": "ae2a71d5675cc79ada3155b19e2a5a341fdd2010",
+  "DFStringFlagRepoGitHashDynamicString": "ae2a71d5675cc79ada3155b19e2a5a341fdd2010",
+  "FStringFlipTimeStampFastString": "2023-05-22T18:39:52.630Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-22T18:39:52.630Z"
 }
