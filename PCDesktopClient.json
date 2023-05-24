@@ -5366,6 +5366,7 @@
   "FFlagAutoReconnectBetaFeature": "True",
   "FIntAutoReconnectGameJoinFailureMaxRetryCount": "2",
   "FIntAutoReconnectRequestTimeout": "10000",
+  "FFlagStudioFixServerDataModelLeak": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5612,8 +5613,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagPassKeyValuesToSessionTrackingWithMap": "True",
-  "FStringFlagRepoGitHashFastString": "48c8205682672d65bb8fe29647127b4b267397b3",
-  "DFStringFlagRepoGitHashDynamicString": "48c8205682672d65bb8fe29647127b4b267397b3",
-  "FStringFlipTimeStampFastString": "2023-05-24T21:44:32.696Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-24T21:44:32.696Z"
+  "FStringFlagRepoGitHashFastString": "b3cacee606a153aae1fd5ff96dd52ec4e25cbc0e",
+  "DFStringFlagRepoGitHashDynamicString": "b3cacee606a153aae1fd5ff96dd52ec4e25cbc0e",
+  "FStringFlipTimeStampFastString": "2023-05-24T21:46:19.941Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-24T21:46:19.941Z"
 }
