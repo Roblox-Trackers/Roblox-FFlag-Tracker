@@ -5356,6 +5356,8 @@
   "FFlagUIBloxVRFixUIJitter": "True",
   "FFlagVRFixCursorJitter": "True",
   "FFlagVRFixCursorJitterLua": "True",
+  "FFlagModelGetPersistentPlayersApi_Rollout": "True;60;2023-05-24T21:28:42",
+  "FFlagVRRemoveCameraRollAndTilt": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5700,8 +5702,8 @@
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadAndroid",
   "FStringFeature_SingleSurfaceEnabled": "574;10",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
-  "FStringFlagRepoGitHashFastString": "4c7572746d7cd719eb2b3b989c0558f189093468",
-  "DFStringFlagRepoGitHashDynamicString": "4c7572746d7cd719eb2b3b989c0558f189093468",
-  "FStringFlipTimeStampFastString": "2023-05-24T21:27:30.640Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-24T21:27:30.640Z"
+  "FStringFlagRepoGitHashFastString": "aa73e728f1030689873deaac7932482680b52873",
+  "DFStringFlagRepoGitHashDynamicString": "aa73e728f1030689873deaac7932482680b52873",
+  "FStringFlipTimeStampFastString": "2023-05-24T21:30:28.979Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-24T21:30:28.979Z"
 }
