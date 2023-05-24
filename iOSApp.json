@@ -5377,6 +5377,7 @@
   "FFlagRemoveDeployBootstrapper2": "True",
   "DFIntBatchLogMessageEventHundredthsPercent": "10000",
   "DFFlagThumbnailWriteVideoToFile_Rollout": "False;60;2023-05-24T22:52:31",
+  "FFlagPerfControlFireCallbacks3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5685,7 +5686,6 @@
   "FFlagDoNotInitializeLuaAppIfAlreadyInitialized": "True",
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadiOS",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadiOS",
-  "FFlagPerfControlFireCallbacks3": "True",
   "FStringFeature_DisableOldCookieManagementSticky": "573;1",
   "FStringFeature_SingleSurfaceEnabled": "574;10",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -5694,8 +5694,8 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagEnableReceiptIdOnValidation_Rollout": "True;60;2023-05-24T21:07:17",
-  "FStringFlagRepoGitHashFastString": "189fc6c70f7d9dd1691478d7b44facfa3defbb07",
-  "DFStringFlagRepoGitHashDynamicString": "189fc6c70f7d9dd1691478d7b44facfa3defbb07",
-  "FStringFlipTimeStampFastString": "2023-05-24T22:56:13.410Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-24T22:56:13.410Z"
+  "FStringFlagRepoGitHashFastString": "636cefc1f17741b02408909defce3ff259ea507f",
+  "DFStringFlagRepoGitHashDynamicString": "636cefc1f17741b02408909defce3ff259ea507f",
+  "FStringFlipTimeStampFastString": "2023-05-24T23:15:50.469Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-24T23:15:50.469Z"
 }
