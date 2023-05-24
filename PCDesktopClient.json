@@ -5313,6 +5313,8 @@
   "FFlagSelfViewDontHideOnSwapCharacter": "True",
   "FFlagLuauTypecheckClassTypeIndexers_Rollout": "True;60;2023-05-24T19:02:47",
   "FFlagSharedTableSupport_Rollout": "True;60;2023-05-24T19:03:01",
+  "FFlagPrettyPrintSharedTable_Rollout": "True;60;2023-05-24T19:06:15",
+  "FFlagSharedTableWatchWindow_Rollout": "True;60;2023-05-24T19:06:23",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5559,8 +5561,8 @@
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
   "FFlagPassKeyValuesToSessionTrackingWithMap": "True",
-  "FStringFlagRepoGitHashFastString": "94192f456c8282fd16819a26c67cca2d4654bbf1",
-  "DFStringFlagRepoGitHashDynamicString": "94192f456c8282fd16819a26c67cca2d4654bbf1",
-  "FStringFlipTimeStampFastString": "2023-05-24T19:04:56.482Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-24T19:04:56.482Z"
+  "FStringFlagRepoGitHashFastString": "a0987d5ee3a6966ae1dc3c93d1900ca2d073294a",
+  "DFStringFlagRepoGitHashDynamicString": "a0987d5ee3a6966ae1dc3c93d1900ca2d073294a",
+  "FStringFlipTimeStampFastString": "2023-05-24T19:07:47.060Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-24T19:07:47.060Z"
 }
