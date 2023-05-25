@@ -5068,7 +5068,7 @@
   "FFlagReturnToLuaAppFromNone": "True",
   "DFFlagAdditionalUWPCrashReportData": "True",
   "FFlagFontProviderAlwaysReturns": "True",
-  "FFlagEnqueueTextureGarbageCollection": "True",
+  "FFlagEnqueueTextureGarbageCollection": "False",
   "FFlagAICOSendIdHttpRequest": "True",
   "FFlagEnableMaquettesU13Block": "True",
   "FFlagSetOrientationWhenRequested": "True",
@@ -5717,8 +5717,8 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagEnableReceiptIdOnValidation": "True",
-  "FStringFlagRepoGitHashFastString": "aadf929131e498d5190e1ee92acbbaae7817ea27",
-  "DFStringFlagRepoGitHashDynamicString": "aadf929131e498d5190e1ee92acbbaae7817ea27",
-  "FStringFlipTimeStampFastString": "2023-05-25T21:06:54.375Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-25T21:06:54.375Z"
+  "FStringFlagRepoGitHashFastString": "9808cf64a79379a78244af88c20a6595fdffb713",
+  "DFStringFlagRepoGitHashDynamicString": "9808cf64a79379a78244af88c20a6595fdffb713",
+  "FStringFlipTimeStampFastString": "2023-05-25T21:54:13.803Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-25T21:54:13.803Z"
 }
