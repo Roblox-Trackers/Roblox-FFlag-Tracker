@@ -5400,6 +5400,7 @@
   "FFlagDevFrameworkMaterialGenerationMocks": "True",
   "FFlagCLI71317_Rollout": "True;60;2023-05-25T18:00:49",
   "FFlagSimAdaptiveTimesteppingUpdate3_Rollout": "False;60;2023-05-25T16:50:29",
+  "FFlagDeactivateTransformToolCorrectly": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5653,8 +5654,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "79c0c992778a8c12ecb8f98587b00018f4860c5e",
-  "DFStringFlagRepoGitHashDynamicString": "79c0c992778a8c12ecb8f98587b00018f4860c5e",
-  "FStringFlipTimeStampFastString": "2023-05-25T18:03:30.100Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-25T18:03:30.100Z"
+  "FStringFlagRepoGitHashFastString": "26368f39f99e0a886c0d3910c9c58c359769e14e",
+  "DFStringFlagRepoGitHashDynamicString": "26368f39f99e0a886c0d3910c9c58c359769e14e",
+  "FStringFlipTimeStampFastString": "2023-05-25T18:09:12.919Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-25T18:09:12.919Z"
 }
