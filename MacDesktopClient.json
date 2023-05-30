@@ -5382,7 +5382,7 @@
   "FFlagDevFrameworkMaterialGenerationMocks": "True",
   "FFlagDeactivateTransformToolCorrectly": "True",
   "FFlagMaterialGeneratorGlobalSession": "True",
-  "FIntEnableCullableScene2HundredthPercent2": "1000",
+  "FIntEnableCullableScene2HundredthPercent2": "5000",
   "FFlagLuaAppSendCreatorQueryParams": "True",
   "FFlagCLI71317": "True",
   "FFlagFixMissingVRToggle": "True",
@@ -5434,6 +5434,7 @@
   "FFlagPackageLinkVersionSetModelDataCheckSelectionEmpty": "True",
   "FStringUserProfileBaseUrl": "https://apis.roblox.com/",
   "FFlagFixLocaleIdNotSetInAppStorageIssue": "True",
+  "DFFlagRrqRemoval": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5681,8 +5682,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FStringFlagRepoGitHashFastString": "801647ccddd26cbde6a28ca73bd59741584deceb",
-  "DFStringFlagRepoGitHashDynamicString": "801647ccddd26cbde6a28ca73bd59741584deceb",
-  "FStringFlipTimeStampFastString": "2023-05-30T22:57:16.342Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-30T22:57:16.342Z"
+  "FStringFlagRepoGitHashFastString": "0429375dee7ba639e49490b12a3bffc09c38a842",
+  "DFStringFlagRepoGitHashDynamicString": "0429375dee7ba639e49490b12a3bffc09c38a842",
+  "FStringFlipTimeStampFastString": "2023-05-30T22:59:45.537Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-30T22:59:45.537Z"
 }
