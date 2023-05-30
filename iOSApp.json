@@ -2415,7 +2415,6 @@
   "FFlagLCQualityCheck": "True",
   "FFlagLCQualityCheckDisplay": "True",
   "FFlagShowAvatarImportDeprecation": "True",
-  "FFlagAsyncFetchHomePageData": "True",
   "FFlagFixTextFieldNilCrash": "True",
   "FFlagUIBloxHorizontalCarouselSetState": "True",
   "FFlagShowContactImporterTooltipOnce": "True",
@@ -2834,7 +2833,6 @@
   "DFIntLocalizationTableAnalyticsSenderMaxEntriesPerRemoteEvent": "5",
   "FIntStudioMemoryThresholdAllocationDivisor": "1",
   "FIntBacktraceUseSyncPercentage": "100",
-  "FFlagFixOldHomeFlashWhenAsyncOn": "True",
   "FFlagLuaAppFixAddGamesOnExit": "True",
   "FFlagEnableServerSideReportToAdsApi3": "False",
   "DFFlagCLI64534": "True",
@@ -5029,7 +5027,6 @@
   "FFlagExperienceTileAgeRatingEGS1": "True",
   "DFFlagPublishAssetPrompt2": "False",
   "DFFlagPublishAssetPrompt2_PlaceFilter": "True;12334418042;12992503026",
-  "DFFlagEnableHttpCacheForceRevalidate": "False",
   "FFlagTileCoplayFriendActivity1": "True",
   "FFlagDoNotSubmitSmallRectVerts": "True",
   "FFlagCheckAllWidgetCorruptedOnParentChange": "True",
@@ -5725,8 +5722,8 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagEnableReceiptIdOnValidation": "True",
-  "FStringFlagRepoGitHashFastString": "53a735cbecfe74acce83e9ac26e2d5d4ad79856b",
-  "DFStringFlagRepoGitHashDynamicString": "53a735cbecfe74acce83e9ac26e2d5d4ad79856b",
-  "FStringFlipTimeStampFastString": "2023-05-30T18:09:16.271Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-30T18:09:16.271Z"
+  "FStringFlagRepoGitHashFastString": "a4d1f713fe7728d6221308712f1a649f7a888d15",
+  "DFStringFlagRepoGitHashDynamicString": "a4d1f713fe7728d6221308712f1a649f7a888d15",
+  "FStringFlipTimeStampFastString": "2023-05-30T18:12:21.141Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-30T18:12:21.141Z"
 }
