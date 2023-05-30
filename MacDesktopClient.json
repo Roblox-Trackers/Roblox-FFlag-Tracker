@@ -3469,7 +3469,7 @@
   "FFlagUserVRPlaySeatedStanding": "False",
   "FFlagCOLLAB2609AddIsReconnectAndLaunchTaskToStudioopenplacemetricv2CrashFixed": "True",
   "DFFlagVoiceChatVerifyUserUpdatesByMatchingV2": "True",
-  "FFlagConnectionIndicatorBetaFeature": "True",
+  "FFlagConnectionIndicatorBetaFeature": "False",
   "FIntConnectionIndicatorBadConnectionPacketLossPercentThreshold": "1000",
   "FIntConnectionIndicatorBadConnectionPingThreshold": "999999999",
   "FIntConnectionIndicatorBetaFeatureRolloutPercent": "100",
@@ -5407,6 +5407,7 @@
   "FFlagMultiCursorFoldToggle2": "True",
   "FFlagSimCSG3LoadTreeFromSerialized2": "True",
   "DFFlagSeparateCrashpadManagerFromApp_Rollout": "True;60;2023-05-30T17:53:51",
+  "FFlagSimModelLodFixModelScale": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5654,8 +5655,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FStringFlagRepoGitHashFastString": "cb08b68b7564525ab87faab808198ca36e47ec98",
-  "DFStringFlagRepoGitHashDynamicString": "cb08b68b7564525ab87faab808198ca36e47ec98",
-  "FStringFlipTimeStampFastString": "2023-05-30T17:54:40.408Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-30T17:54:40.408Z"
+  "FStringFlagRepoGitHashFastString": "293e0dfe13617d09308c01ebbef8a4d2d034a374",
+  "DFStringFlagRepoGitHashDynamicString": "293e0dfe13617d09308c01ebbef8a4d2d034a374",
+  "FStringFlipTimeStampFastString": "2023-05-30T18:02:55.406Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-30T18:02:55.406Z"
 }
