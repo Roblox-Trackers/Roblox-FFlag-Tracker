@@ -4712,7 +4712,7 @@
   "FFlagFlagRolloutTestStaticBool7": "True",
   "FFlagFlagRolloutTestStaticBool8": "True",
   "FFlagTestExampleNotInCode": "True",
-  "DFIntDynamicFastVariableReloaderTest2": "1",
+  "DFIntDynamicFastVariableReloaderTest2": "2",
   "FFlagStudioAddNotoSansSupport2": "True",
   "FFlagRenderStudioModelMultiSelectFix": "True",
   "FFlagStudioFixInsertModelLocalization": "True",
@@ -5431,7 +5431,7 @@
   "FStringUserProfileBaseUrl": "https://apis.roblox.com/",
   "FFlagFixLocaleIdNotSetInAppStorageIssue": "True",
   "DFFlagRrqRemoval": "True",
-  "DFIntDynamicFastVariableReloaderTest2_Rollout": "2;1;2023-05-30T22:59:03",
+  "DFIntDynamicFastVariableReloaderTest2_Rollout": "3;60;2023-05-30T23:46:14",
   "MoveInputStatusUpdate": "True",
   "FFlagDidNotReturnOneValueError": "True",
   "DFFlagSeparateCrashpadManagerFromApp": "True",
@@ -5443,6 +5443,7 @@
   "FFlagTopicsIXPEnabled6": "True",
   "FFlagAXTopicsInSearch": "True",
   "FFlagToolboxRefactorAudioRow": "True",
+  "DFFlagDynamicFastVariableReloaderTest1_PlaceFilter": "True;929926749",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5638,8 +5639,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "acd379d68a8076f987b5299fcecfc845df0e74a8",
-  "DFStringFlagRepoGitHashDynamicString": "acd379d68a8076f987b5299fcecfc845df0e74a8",
-  "FStringFlipTimeStampFastString": "2023-05-30T23:40:02.174Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-30T23:40:02.174Z"
+  "FStringFlagRepoGitHashFastString": "804a7e61ecb4ef37f18254eb172a19819746c8e0",
+  "DFStringFlagRepoGitHashDynamicString": "804a7e61ecb4ef37f18254eb172a19819746c8e0",
+  "FStringFlipTimeStampFastString": "2023-05-30T23:46:56.190Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-30T23:46:56.190Z"
 }
