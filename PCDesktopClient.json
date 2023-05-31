@@ -5471,6 +5471,8 @@
   "DFIntClientFSRequestsTriggeredThrottleHundredthsPercent_Rollout": "10000;60;2023-05-31T22:08:21",
   "DFIntClientFSRequestsReceivedThrottleHundredthsPercent_Rollout": "10000;60;2023-05-31T22:08:35",
   "DFIntRCCRecordPlaceRuntimeRequestsBadThrottleHundredthsPercent_Rollout": "10000;60;2023-05-31T22:08:47",
+  "DFIntRCCForcedScreenshotRequestsSentThrottleHundredthsPercent_Rollout": "10000;60;2023-05-31T22:08:57",
+  "DFIntRCCRecordPlaceRuntimeRequestsReceivedThrottleHundredthsPercent_Rollout": "10000;60;2023-05-31T22:09:04",
   "FFlagEnableRefreshAvatarThumbnails3": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -5724,8 +5726,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FStringFlagRepoGitHashFastString": "675bc4663a947d3b1cb9c788fec4daec612742ec",
-  "DFStringFlagRepoGitHashDynamicString": "675bc4663a947d3b1cb9c788fec4daec612742ec",
-  "FStringFlipTimeStampFastString": "2023-05-31T22:10:26.477Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-31T22:10:26.477Z"
+  "FStringFlagRepoGitHashFastString": "89bc13c65b50ab6efbe168e9c4e5abff6002c055",
+  "DFStringFlagRepoGitHashDynamicString": "89bc13c65b50ab6efbe168e9c4e5abff6002c055",
+  "FStringFlipTimeStampFastString": "2023-05-31T22:11:54.557Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-31T22:11:54.557Z"
 }
