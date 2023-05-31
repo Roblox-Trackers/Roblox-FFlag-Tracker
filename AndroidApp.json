@@ -5446,7 +5446,6 @@
   "DFFlagSimSolverCollectForceForSleepingBodyOfActiveConstraint": "True",
   "DFFlagRCCRecordPlaceRuntimeUseKeyRing": "True",
   "FFlagAgeVerificationUpsellSeventeenPlus3": "True",
-  "FFlagNullCheckBeforeReferencingOrphanedHead_Rollout": "True;60;2023-05-31T18:47:38",
   "FFlagDoNotCallProcessCollisionParallel": "True",
   "DFIntTattletaleRecordUnfilteredTextThrottleHundredthsPercent": "10000",
   "DFFlagOptimizePartsInPart": "True",
@@ -5460,6 +5459,7 @@
   "FFlagParticleWindAffectsDragProp": "True",
   "FFlagRenderGlobalWindParticles": "True",
   "FFlagChangeBulletConvexHullMargin2": "True",
+  "FFlagNullCheckBeforeReferencingOrphanedHead": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5804,8 +5804,8 @@
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadAndroid",
   "FStringFeature_SingleSurfaceEnabled": "577;25",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
-  "FStringFlagRepoGitHashFastString": "d7c061794296306b7ecc2d1adc7ff853820e2a84",
-  "DFStringFlagRepoGitHashDynamicString": "d7c061794296306b7ecc2d1adc7ff853820e2a84",
-  "FStringFlipTimeStampFastString": "2023-05-31T20:48:05.100Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-31T20:48:05.100Z"
+  "FStringFlagRepoGitHashFastString": "0e757b48a01a16fdeafa78ed806ac8c24c0b4151",
+  "DFStringFlagRepoGitHashDynamicString": "0e757b48a01a16fdeafa78ed806ac8c24c0b4151",
+  "FStringFlipTimeStampFastString": "2023-05-31T21:02:40.535Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-31T21:02:40.535Z"
 }
