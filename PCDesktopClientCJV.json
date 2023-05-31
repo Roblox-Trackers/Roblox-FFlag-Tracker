@@ -5438,8 +5438,6 @@
   "FFlagTopicsIXPEnabled6": "True",
   "FFlagAXTopicsInSearch": "True",
   "FFlagToolboxRefactorAudioRow": "True",
-  "DFFlagSimSolverCollectForceForSleepingBodyOfActiveConstraint_Rollout": "True;60;2023-05-30T23:47:53",
-  "DFFlagRCCRecordPlaceRuntimeUseKeyRing_Rollout": "True;60;2023-05-30T23:49:09",
   "FFlagStudioReportChangeAnalytics": "True",
   "FFlagTPoseBlockyDetectionUseLocalTransform": "True",
   "FFlagAXUseLocalWidgets": "True",
@@ -5447,7 +5445,9 @@
   "DFFlagEnableHttpCacheForceRevalidate2": "True",
   "FFlagSimAnimationConstraintRig": "True",
   "DFFlagSafetyServiceScreenshotMetadata": "True",
-  "FFlagEnableRefreshAvatarThumbnails3_Rollout": "True;60;2023-05-30T23:19:11",
+  "DFFlagSimSolverCollectForceForSleepingBodyOfActiveConstraint": "True",
+  "DFFlagRCCRecordPlaceRuntimeUseKeyRing": "True",
+  "FFlagEnableRefreshAvatarThumbnails3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5701,8 +5701,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "ac304b8bee23dfd2fae27d25151c048813733d29",
-  "DFStringFlagRepoGitHashDynamicString": "ac304b8bee23dfd2fae27d25151c048813733d29",
-  "FStringFlipTimeStampFastString": "2023-05-31T01:02:56.079Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-31T01:02:56.079Z"
+  "FStringFlagRepoGitHashFastString": "87c4d746eb843acc99ff9750d7e0e7d6fb57e85d",
+  "DFStringFlagRepoGitHashDynamicString": "87c4d746eb843acc99ff9750d7e0e7d6fb57e85d",
+  "FStringFlipTimeStampFastString": "2023-05-31T02:12:12.272Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-31T02:12:12.272Z"
 }
