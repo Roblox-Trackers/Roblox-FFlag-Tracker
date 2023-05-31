@@ -5424,7 +5424,6 @@
   "FFlagBetterIgnoreQtBufferError": "True",
   "FFlagCollectionServiceMethodsOnInstance": "True",
   "FFlagAddBasePartCountToOnPlacePublishPackage": "True",
-  "DFFlagSafetyServiceScreenshotMetadata_Rollout": "True;60;2023-05-30T22:06:26",
   "FFlagPackageLinkVersionSetModelDataCheckSelectionEmpty": "True",
   "FStringUserProfileBaseUrl": "https://apis.roblox.com/",
   "FFlagFixLocaleIdNotSetInAppStorageIssue": "True",
@@ -5434,7 +5433,6 @@
   "DFFlagSeparateCrashpadManagerFromApp": "True",
   "FFlagShorelinesEmptyRegions": "True",
   "FFlagSafetyServiceRecordPlaceRuntime": "True",
-  "FFlagSimAnimationConstraintRig_Rollout": "True;30;2023-05-30T23:07:55",
   "FFlagUIBloxPillGroupUseSelectedPills": "True",
   "FFlagAXTopicsCapInitialItems": "True",
   "FFlagTopicsIXPEnabled6": "True",
@@ -5447,6 +5445,8 @@
   "FFlagAXUseLocalWidgets": "True",
   "FFlagTopBarFixHeightUpdate": "True",
   "DFFlagEnableHttpCacheForceRevalidate2": "True",
+  "FFlagSimAnimationConstraintRig": "True",
+  "DFFlagSafetyServiceScreenshotMetadata": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5644,8 +5644,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "0c27e50d0910a07186bdb023a854703bfc43ab92",
-  "DFStringFlagRepoGitHashDynamicString": "0c27e50d0910a07186bdb023a854703bfc43ab92",
-  "FStringFlipTimeStampFastString": "2023-05-31T00:47:51.657Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-31T00:47:51.657Z"
+  "FStringFlagRepoGitHashFastString": "ac304b8bee23dfd2fae27d25151c048813733d29",
+  "DFStringFlagRepoGitHashDynamicString": "ac304b8bee23dfd2fae27d25151c048813733d29",
+  "FStringFlipTimeStampFastString": "2023-05-31T01:02:56.079Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-31T01:02:56.079Z"
 }
