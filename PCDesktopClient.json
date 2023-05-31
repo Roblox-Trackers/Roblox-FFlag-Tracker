@@ -5135,7 +5135,6 @@
   "FFlagReturnNotForSaleOnInvalidBundleId": "True",
   "FFlagSimCSGEnableCSGMeshSerializationVer5": "True",
   "FFlagTextureManagerMaySkipBlackReloadFallback2": "True",
-  "FFlagAgeVerificationUpsellSeventeenPlus2": "True",
   "DFFlagCountOldChatAPIUsageV2": "True",
   "FFlagLuauRequirePathTrueModuleName": "True",
   "FFlagSimAlignPositionUseLDL": "True",
@@ -5446,6 +5445,7 @@
   "DFFlagSafetyServiceScreenshotMetadata": "True",
   "DFFlagSimSolverCollectForceForSleepingBodyOfActiveConstraint": "True",
   "DFFlagRCCRecordPlaceRuntimeUseKeyRing": "True",
+  "FFlagAgeVerificationUpsellSeventeenPlus3": "True",
   "FFlagEnableRefreshAvatarThumbnails3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -5699,8 +5699,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FStringFlagRepoGitHashFastString": "654b9e917a76fc93cc078b7d79464bfd40344f87",
-  "DFStringFlagRepoGitHashDynamicString": "654b9e917a76fc93cc078b7d79464bfd40344f87",
-  "FStringFlipTimeStampFastString": "2023-05-31T18:22:02.716Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-31T18:22:02.716Z"
+  "FStringFlagRepoGitHashFastString": "2a7283ee0a906edb1bcf9c7b7042cba429bf4f74",
+  "DFStringFlagRepoGitHashDynamicString": "2a7283ee0a906edb1bcf9c7b7042cba429bf4f74",
+  "FStringFlipTimeStampFastString": "2023-05-31T18:37:33.457Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-31T18:37:33.457Z"
 }
