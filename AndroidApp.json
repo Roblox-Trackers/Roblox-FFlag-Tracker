@@ -5473,6 +5473,11 @@
   "DFIntRCCRecordPlaceRuntimeRequestsBadThrottleHundredthsPercent_Rollout": "10000;60;2023-05-31T22:08:47",
   "DFIntRCCForcedScreenshotRequestsSentThrottleHundredthsPercent_Rollout": "10000;60;2023-05-31T22:08:57",
   "DFIntRCCRecordPlaceRuntimeRequestsReceivedThrottleHundredthsPercent_Rollout": "10000;60;2023-05-31T22:09:04",
+  "FFlagRenderStudioEnableTeamCreateOccludedOutlineOpacity": "True",
+  "FFlagSelectionOutlineFixedTCThickness": "True",
+  "FIntRenderStudioTeamCreateOccludedOutlineOpacity": "20",
+  "FIntSelectionOutlineTCFillTransparency": "50",
+  "FFlagRBXPExtendPropertySupport2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5817,8 +5822,8 @@
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadAndroid",
   "FStringFeature_SingleSurfaceEnabled": "577;25",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
-  "FStringFlagRepoGitHashFastString": "89bc13c65b50ab6efbe168e9c4e5abff6002c055",
-  "DFStringFlagRepoGitHashDynamicString": "89bc13c65b50ab6efbe168e9c4e5abff6002c055",
-  "FStringFlipTimeStampFastString": "2023-05-31T22:11:54.557Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-31T22:11:54.557Z"
+  "FStringFlagRepoGitHashFastString": "0dee88edfedb51d6bfb9de15b944ce4b39e1f899",
+  "DFStringFlagRepoGitHashDynamicString": "0dee88edfedb51d6bfb9de15b944ce4b39e1f899",
+  "FStringFlipTimeStampFastString": "2023-05-31T22:12:56.453Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-31T22:12:56.453Z"
 }
