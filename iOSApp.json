@@ -5493,6 +5493,8 @@
   "FFlagSaveDataModelToBackupCache": "True",
   "DFFlagContentProviderSupportsSymlinks_Rollout": "True;60;2023-05-31T23:21:59",
   "FFlagEnableRefreshAvatarThumbnails3": "True",
+  "FFlagExtraSelectionUnnecessaryMutex": "True",
+  "FFlagScriptEditorSkipEmptyUndoItem": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5809,8 +5811,8 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagEnableReceiptIdOnValidation": "True",
-  "FStringFlagRepoGitHashFastString": "a8010c08d5c24850d6bb763f8272605fde06ccb3",
-  "DFStringFlagRepoGitHashDynamicString": "a8010c08d5c24850d6bb763f8272605fde06ccb3",
-  "FStringFlipTimeStampFastString": "2023-05-31T23:30:57.321Z",
-  "DFStringFlipTimeStampDynamicString": "2023-05-31T23:30:57.321Z"
+  "FStringFlagRepoGitHashFastString": "cf94add003066a665421c22176baa88ecbf675e4",
+  "DFStringFlagRepoGitHashDynamicString": "cf94add003066a665421c22176baa88ecbf675e4",
+  "FStringFlipTimeStampFastString": "2023-05-31T23:33:53.340Z",
+  "DFStringFlipTimeStampDynamicString": "2023-05-31T23:33:53.340Z"
 }
