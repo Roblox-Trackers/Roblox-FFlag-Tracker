@@ -5503,7 +5503,7 @@
   "FFlagContextualServiceVisibility2": "True",
   "FFlagLuaAppGameImpressionCounts": "True",
   "DFFlagEnableHumanoidStateChangeTelemtryOldStateDuration": "True",
-  "DFIntImmersiveAdDeveloperFallbackImageUsedEventThrottleHundrethsPercent": "5",
+  "DFIntImmersiveAdDeveloperFallbackImageUsedEventThrottleHundrethsPercent": "50",
   "FFlagFix3DAvatarExperimentExposurePoint": "True",
   "FFlagProfileQRCodeEnable3DAvatarExperiment_v4": "True",
   "FFlagMultiCursorFormatting1_Rollout": "True;60;2023-06-01T17:10:20",
@@ -5846,8 +5846,9 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagEnableReceiptIdOnValidation": "True",
-  "FStringFlagRepoGitHashFastString": "5bbace576e8837733f1ea06d72302c243005189e",
-  "DFStringFlagRepoGitHashDynamicString": "5bbace576e8837733f1ea06d72302c243005189e",
-  "FStringFlipTimeStampFastString": "2023-06-01T19:02:20.480Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-01T19:02:20.480Z"
+  "FFlagPerformanceControlEnableIXPHoldoutExperiment_Rollout": "True;30;2023-06-01T19:08:15",
+  "FStringFlagRepoGitHashFastString": "6c96f0799c549a394163787fc50ac010ebd70826",
+  "DFStringFlagRepoGitHashDynamicString": "6c96f0799c549a394163787fc50ac010ebd70826",
+  "FStringFlipTimeStampFastString": "2023-06-01T19:10:08.615Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-01T19:10:08.615Z"
 }
