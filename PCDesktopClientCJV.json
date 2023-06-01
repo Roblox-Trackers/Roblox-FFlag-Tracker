@@ -5355,7 +5355,7 @@
   "DFIntBatchLogMessageEventHundredthsPercent": "10000",
   "FFlagPerfControlFireCallbacks3": "True",
   "DFIntBatchLogEntryMapMaxSize": "750",
-  "DFIntBatchLogMaxEntryValue": "15000",
+  "DFIntBatchLogMaxEntryValue": "30000",
   "FFlagEnableScriptOpenedEvent": "True",
   "FFlagEnableScriptOpenedEventForLiveScripting": "True",
   "FFlagEnableScriptErrorEvent": "True",
@@ -5809,8 +5809,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "04bf8aa2fef2fda1c66ceae398d22d591664c2b8",
-  "DFStringFlagRepoGitHashDynamicString": "04bf8aa2fef2fda1c66ceae398d22d591664c2b8",
-  "FStringFlipTimeStampFastString": "2023-06-01T23:17:02.209Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-01T23:17:02.209Z"
+  "FStringFlagRepoGitHashFastString": "2540b9155560ac059736b7033e9853cb9214531d",
+  "DFStringFlagRepoGitHashDynamicString": "2540b9155560ac059736b7033e9853cb9214531d",
+  "FStringFlipTimeStampFastString": "2023-06-01T23:52:02.536Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-01T23:52:02.536Z"
 }
