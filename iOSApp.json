@@ -5297,9 +5297,9 @@
   "FFlagSelfViewCleanupOnClosing": "True",
   "DFLogSignalRCoreError": "6",
   "FFlagFCIgnoreDeformersNotReady2": "False",
-  "FFlagIntegrityCheckedProcessorPerfControlIxpIntegration4": "True",
-  "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
-  "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4": "True",
+  "FFlagIntegrityCheckedProcessorPerfControlIxpIntegration4": "False",
+  "FFlagPerformanceControlIXPIntegrationEnabled4": "False",
+  "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4": "False",
   "DFIntAdGuiRandomizedRaycastLaunchPercentage2": "10000",
   "DFFlagEnableBatchLogEvents": "True",
   "FFlagSelfViewDontHideOnSwapCharacter": "True",
@@ -5508,6 +5508,7 @@
   "DFFlagEnableHumanoidStateChangeTelemtryOldStateDuration": "True",
   "DFIntImmersiveAdDeveloperFallbackImageUsedEventThrottleHundrethsPercent": "5",
   "FFlagFix3DAvatarExperimentExposurePoint": "True",
+  "FFlagProfileQRCodeEnable3DAvatarExperiment_v4": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5824,8 +5825,8 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagEnableReceiptIdOnValidation": "True",
-  "FStringFlagRepoGitHashFastString": "205768d17ac69dd5b4a52573671526881e30395b",
-  "DFStringFlagRepoGitHashDynamicString": "205768d17ac69dd5b4a52573671526881e30395b",
-  "FStringFlipTimeStampFastString": "2023-06-01T16:52:33.851Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-01T16:52:33.851Z"
+  "FStringFlagRepoGitHashFastString": "1ab69753682cbed554704df93757a62efa125f9f",
+  "DFStringFlagRepoGitHashDynamicString": "1ab69753682cbed554704df93757a62efa125f9f",
+  "FStringFlipTimeStampFastString": "2023-06-01T16:53:41.459Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-01T16:53:41.459Z"
 }
