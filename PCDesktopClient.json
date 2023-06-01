@@ -5503,6 +5503,7 @@
   "DFFlagDataStoreThrottleInflightSameKeyRequest": "True",
   "FFlagImproveNextMatchAndSelectAllOccurrences": "True",
   "DFFlagWorldAnalyticsRefactor_Rollout": "True;60;2023-06-01T00:04:52",
+  "DFFlagTouchedEventInvestigation_Rollout": "True;60;2023-06-01T00:09:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5755,8 +5756,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FStringFlagRepoGitHashFastString": "faee499db28db26418e12852bbf7170c6d0b9cea",
-  "DFStringFlagRepoGitHashDynamicString": "faee499db28db26418e12852bbf7170c6d0b9cea",
-  "FStringFlipTimeStampFastString": "2023-06-01T00:05:41.339Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-01T00:05:41.339Z"
+  "FStringFlagRepoGitHashFastString": "cf487df6d61c599e9d431dfeb9ad30319b5b26e7",
+  "DFStringFlagRepoGitHashDynamicString": "cf487df6d61c599e9d431dfeb9ad30319b5b26e7",
+  "FStringFlipTimeStampFastString": "2023-06-01T00:10:06.708Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-01T00:10:06.708Z"
 }
