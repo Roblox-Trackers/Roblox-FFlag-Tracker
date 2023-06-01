@@ -5346,7 +5346,7 @@
   "FIntAutoReconnectRequestTimeout": "10000",
   "FFlagStudioFixServerDataModelLeak": "True",
   "FFlagStudioFixStartPageQmlControllerSingleton": "True",
-  "DFIntBatchLogMessagePointsHundredthsPercent": "100",
+  "DFIntBatchLogMessagePointsHundredthsPercent": "50",
   "FFlagStudioStartPageComponent": "True",
   "FFlagLuauUniformTopHandling": "True",
   "FFlagStudioFixOtherStartPageSingletons": "True",
@@ -5869,8 +5869,8 @@
   "FStringFeature_SingleSurfaceEnabled": "577;50",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "DFFlagEnableBatchLogEvents_Rollout": "True;30;2023-06-01T17:26:39",
-  "FStringFlagRepoGitHashFastString": "33c63d532e77e8582654e0536b02620616e1a79f",
-  "DFStringFlagRepoGitHashDynamicString": "33c63d532e77e8582654e0536b02620616e1a79f",
-  "FStringFlipTimeStampFastString": "2023-06-01T18:29:13.170Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-01T18:29:13.170Z"
+  "FStringFlagRepoGitHashFastString": "5d9d8484ddeb6317b7807b1d65d212eb0794b19d",
+  "DFStringFlagRepoGitHashDynamicString": "5d9d8484ddeb6317b7807b1d65d212eb0794b19d",
+  "FStringFlipTimeStampFastString": "2023-06-01T18:33:10.576Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-01T18:33:10.576Z"
 }
