@@ -5295,9 +5295,9 @@
   "FFlagSelfViewCleanupOnClosing": "True",
   "DFLogSignalRCoreError": "6",
   "FFlagFCIgnoreDeformersNotReady2": "False",
-  "FFlagIntegrityCheckedProcessorPerfControlIxpIntegration4": "True",
-  "FFlagPerformanceControlIXPIntegrationEnabled4": "True",
-  "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4": "True",
+  "FFlagIntegrityCheckedProcessorPerfControlIxpIntegration4": "False",
+  "FFlagPerformanceControlIXPIntegrationEnabled4": "False",
+  "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4": "False",
   "DFIntAdGuiRandomizedRaycastLaunchPercentage2": "10000",
   "DFFlagEnableBatchLogEvents": "True",
   "FFlagSelfViewDontHideOnSwapCharacter": "True",
@@ -5519,6 +5519,7 @@
   "AndroidStartExperimentProtocolListeningAtStartup": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "500;60;2023-06-01T17:55:33",
   "FIntIGMv1ARFlowScreenshotDelayFrames": "1",
+  "AttachAndroidLogWhenCrash": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5716,8 +5717,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "bc25d89c2d81f4e987a8239b0a9730b4f1c4dc98",
-  "DFStringFlagRepoGitHashDynamicString": "bc25d89c2d81f4e987a8239b0a9730b4f1c4dc98",
-  "FStringFlipTimeStampFastString": "2023-06-01T18:03:52.892Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-01T18:03:52.892Z"
+  "FStringFlagRepoGitHashFastString": "d430a80552046b666eba6ec36931cc454b7b3b73",
+  "DFStringFlagRepoGitHashDynamicString": "d430a80552046b666eba6ec36931cc454b7b3b73",
+  "FStringFlipTimeStampFastString": "2023-06-01T18:09:17.085Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-01T18:09:17.085Z"
 }
