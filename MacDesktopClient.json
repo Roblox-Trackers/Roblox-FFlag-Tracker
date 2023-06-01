@@ -4849,7 +4849,6 @@
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": "1000",
   "FFlagSIMReportLegacyCSGToggle": "True",
   "FFlagLuaAppHomeOmniFeedRefactor": "True",
-  "FFlagContextualServiceVisibilityBetaFeature": "True",
   "DFIntWindowsNewWebBrowserTelemetryThrottleHundredthsPercent": "10000",
   "FFlagMaterialGeneratorAnalytics": "True",
   "FFlagTrackQMenus": "True",
@@ -5504,6 +5503,7 @@
   "FFlagCOLLAB3777LostEditAccessMsg": "True",
   "DFFlagTouchedEventInvestigation": "True",
   "DFFlagWorldAnalyticsRefactor": "True",
+  "FFlagContextualServiceVisibility2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5751,8 +5751,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FStringFlagRepoGitHashFastString": "678a5fff8cacfe85d8477875deae3bf6eca115b9",
-  "DFStringFlagRepoGitHashDynamicString": "678a5fff8cacfe85d8477875deae3bf6eca115b9",
-  "FStringFlipTimeStampFastString": "2023-06-01T16:28:08.925Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-01T16:28:08.925Z"
+  "FStringFlagRepoGitHashFastString": "3c3380a1780477a8937d2f834a555d1f2a9bd1e4",
+  "DFStringFlagRepoGitHashDynamicString": "3c3380a1780477a8937d2f834a555d1f2a9bd1e4",
+  "FStringFlipTimeStampFastString": "2023-06-01T16:29:42.421Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-01T16:29:42.421Z"
 }
