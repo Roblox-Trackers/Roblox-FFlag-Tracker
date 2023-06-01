@@ -5531,6 +5531,8 @@
   "FFlagSVH_AnonymizeAssetNameStage_3_Rollout": "True;60;2023-06-01T20:28:04",
   "DFFlagHttpDisableLocalThrottleRetries_Rollout": "True;60;2023-06-01T20:34:44",
   "FFlagShowSearchBarOnDiscoverIXP": "True",
+  "FFlagSearchDiscoverTopRightEntryIXP": "True",
+  "FFlagSearchDiscoverBottomBarEntryIXP": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5726,8 +5728,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "f3edcb0abfcb8bfdc22edcae3bd8936bcb64fcac",
-  "DFStringFlagRepoGitHashDynamicString": "f3edcb0abfcb8bfdc22edcae3bd8936bcb64fcac",
-  "FStringFlipTimeStampFastString": "2023-06-01T20:40:40.940Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-01T20:40:40.940Z"
+  "FStringFlagRepoGitHashFastString": "96316eaa1e6dcedd82b33994b4ceeaeb7be7211e",
+  "DFStringFlagRepoGitHashDynamicString": "96316eaa1e6dcedd82b33994b4ceeaeb7be7211e",
+  "FStringFlipTimeStampFastString": "2023-06-01T20:41:37.238Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-01T20:41:37.238Z"
 }
