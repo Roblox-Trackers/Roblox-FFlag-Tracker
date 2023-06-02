@@ -5560,6 +5560,7 @@
   "DFFlagMemoryStoreHttpErrorToStdout": "True",
   "FFlagGuiServiceUpdateModifiedSafeAreaInsetsOnlyWhenViewportSizeChanges": "True",
   "FFlagVRMouseMoveOptimization_Rollout": "True;60;2023-06-02T17:32:40",
+  "FFlagLuauCloneSkipNonInternalVisit_Rollout": "True;60;2023-06-02T17:42:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5905,8 +5906,8 @@
   "FStringFeature_SingleSurfaceEnabled": "577;50",
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagTrackDeeplinkLaunchFlow": "True",
-  "FStringFlagRepoGitHashFastString": "11073148654e0e8c64e2847946456219a7a48e0d",
-  "DFStringFlagRepoGitHashDynamicString": "11073148654e0e8c64e2847946456219a7a48e0d",
-  "FStringFlipTimeStampFastString": "2023-06-02T17:33:30.473Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-02T17:33:30.473Z"
+  "FStringFlagRepoGitHashFastString": "decef18d104838d6b93f7ceda8afbb7ea5ceda61",
+  "DFStringFlagRepoGitHashDynamicString": "decef18d104838d6b93f7ceda8afbb7ea5ceda61",
+  "FStringFlipTimeStampFastString": "2023-06-02T17:43:26.883Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-02T17:43:26.883Z"
 }
