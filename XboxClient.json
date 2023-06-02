@@ -5557,13 +5557,9 @@
   "FFlagTrackerStreamAnimationApplyNeckOnlyIfVideo": "True",
   "DFFlagMemoryStoreHttpErrorToStdout": "True",
   "FFlagGuiServiceUpdateModifiedSafeAreaInsetsOnlyWhenViewportSizeChanges": "True",
-  "FFlagVRMouseMoveOptimization_Rollout": "True;60;2023-06-02T17:32:40",
-  "FFlagLuauCloneSkipNonInternalVisit_Rollout": "True;60;2023-06-02T17:42:18",
-  "DFFlagUserAnimateScaleRun_Rollout": "True;60;2023-06-02T17:47:29",
   "FFlagLuaAppRedBadgeEnabled": "True",
-  "FFlagVRLaserPointerOptimization": "True",
-  "FFlagVRShowUIOnGuiSelection": "True",
-  "DFFlagAMPVerifiedTC_Rollout": "True;60;2023-06-02T18:03:09",
+  "FFlagLuaAppSendBtidInCreatorQueryParams": "True",
+  "FFlagLuaAppSendCreatorQueryParams": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5761,8 +5757,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "1b75cbc4ef6a1752bd8de32f3f26a1bd236cf4e9",
-  "DFStringFlagRepoGitHashDynamicString": "1b75cbc4ef6a1752bd8de32f3f26a1bd236cf4e9",
-  "FStringFlipTimeStampFastString": "2023-06-02T19:24:17.165Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-02T19:24:17.165Z"
+  "FStringFlagRepoGitHashFastString": "c67019503ab3ae1561b852f8e4cb3b5e00262f5b",
+  "DFStringFlagRepoGitHashDynamicString": "c67019503ab3ae1561b852f8e4cb3b5e00262f5b",
+  "FStringFlipTimeStampFastString": "2023-06-02T19:35:57.264Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-02T19:35:57.264Z"
 }
