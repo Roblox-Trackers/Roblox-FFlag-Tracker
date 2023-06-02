@@ -5872,8 +5872,9 @@
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagEnableReceiptIdOnValidation": "True",
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
-  "FStringFlagRepoGitHashFastString": "0bb98cb9764dd31057709d1f123fba58c00b9c5d",
-  "DFStringFlagRepoGitHashDynamicString": "0bb98cb9764dd31057709d1f123fba58c00b9c5d",
-  "FStringFlipTimeStampFastString": "2023-06-02T16:48:41.764Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-02T16:48:41.764Z"
+  "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "500;30;2023-06-02T16:55:55",
+  "FStringFlagRepoGitHashFastString": "0faa84ffef6ebc880d575e5d74af54429ff6e8f6",
+  "DFStringFlagRepoGitHashDynamicString": "0faa84ffef6ebc880d575e5d74af54429ff6e8f6",
+  "FStringFlipTimeStampFastString": "2023-06-02T16:56:26.873Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-02T16:56:26.873Z"
 }
