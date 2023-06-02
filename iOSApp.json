@@ -5331,7 +5331,7 @@
   "FIntCloudEditErrorWaitTimeMs": "100",
   "FFlagThumbnailerUseNearPlaneZ": "True",
   "DFFlagRakNetRemoveSprintf2": "True",
-  "DFIntBatchLogMessageIngestHundredthsPercent": "2000",
+  "DFIntBatchLogMessageIngestHundredthsPercent": "500",
   "FFlagScreenGuiRaycastsFixLag": "True",
   "FFlagUIBloxVRFixUIJitter": "True",
   "FFlagVRFixCursorJitter": "True",
@@ -5876,9 +5876,8 @@
   "FFlagEnableReceiptIdOnValidation": "True",
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
   "FFlagTrackDeeplinkLaunchFlow": "True",
-  "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "500;30;2023-06-02T19:35:15",
-  "FStringFlagRepoGitHashFastString": "8518d76da0f79217f49af5ee4727e1affb825e3e",
-  "DFStringFlagRepoGitHashDynamicString": "8518d76da0f79217f49af5ee4727e1affb825e3e",
-  "FStringFlipTimeStampFastString": "2023-06-02T20:56:17.506Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-02T20:56:17.506Z"
+  "FStringFlagRepoGitHashFastString": "0e2eace52220d26b79255a74fa8248ac461599e4",
+  "DFStringFlagRepoGitHashDynamicString": "0e2eace52220d26b79255a74fa8248ac461599e4",
+  "FStringFlipTimeStampFastString": "2023-06-02T21:03:25.025Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-02T21:03:25.025Z"
 }
