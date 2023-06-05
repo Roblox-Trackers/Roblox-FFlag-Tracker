@@ -5573,7 +5573,6 @@
   "FFlagIOSDelaySendCurrentScreenOrientation": "True",
   "FFlagRenderHardwareSafeInsetScreenCoverForExperiment": "True",
   "FFlagPYMKFallbackToObject": "True",
-  "DFFlagCentralFilter_Rollout": "True;60;2023-06-05T18:28:16",
   "FFlagVRMouseMoveOptimization": "True",
   "DFFlagFixWireframeHandleAdornment": "True",
   "FFlagOnlySendSelectionChangedOnceForIterator": "True",
@@ -5588,6 +5587,7 @@
   "FFlagVRLaserPointerOptimization": "True",
   "DFFlagCLI72418_Rollout": "True;45;2023-06-05T20:38:35",
   "DFFlagDFFlagHumanoidScaleSwimSpeed_Rollout": "True;60;2023-06-05T20:47:24",
+  "DFFlagCentralFilter": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5841,8 +5841,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "44396963809ba27806f25b459252c075838f2f21",
-  "DFStringFlagRepoGitHashDynamicString": "44396963809ba27806f25b459252c075838f2f21",
-  "FStringFlipTimeStampFastString": "2023-06-05T20:59:11.093Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-05T20:59:11.093Z"
+  "FStringFlagRepoGitHashFastString": "4b26ce0f3e1505e24066aa6e0a266e1a4f680e6f",
+  "DFStringFlagRepoGitHashDynamicString": "4b26ce0f3e1505e24066aa6e0a266e1a4f680e6f",
+  "FStringFlipTimeStampFastString": "2023-06-05T21:02:33.412Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-05T21:02:33.412Z"
 }
