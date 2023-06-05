@@ -5574,6 +5574,7 @@
   "FFlagLuauGetImportDirect": "True",
   "DFIntRASDMeasurementHundredths_Rollout": "1000;5;2023-06-05T17:44:12",
   "DFFlagRedefineAirControllerVectorForce": "True",
+  "FFlagSimSolverGeometricStiffnessClamping": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5826,8 +5827,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FStringFlagRepoGitHashFastString": "68abca39b1f9bee91bd6d0306f40d907bb90bccd",
-  "DFStringFlagRepoGitHashDynamicString": "68abca39b1f9bee91bd6d0306f40d907bb90bccd",
-  "FStringFlipTimeStampFastString": "2023-06-05T17:45:22.840Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-05T17:45:22.840Z"
+  "FStringFlagRepoGitHashFastString": "efa5499736f1eebd871506289913649df77e27b5",
+  "DFStringFlagRepoGitHashDynamicString": "efa5499736f1eebd871506289913649df77e27b5",
+  "FStringFlipTimeStampFastString": "2023-06-05T17:45:48.502Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-05T17:45:48.502Z"
 }
