@@ -5562,6 +5562,7 @@
   "DFFlagFixWireframeHandleAdornment_Rollout": "True;60;2023-06-05T16:19:24",
   "FFlagTerrainEditorMaxRegion": "True",
   "FFlagFaceAnimatorFixSignalRaceConditions": "True",
+  "FFlagFaceAnimatorWorkerThreadUseMutexInTerminate": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5809,8 +5810,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FStringFlagRepoGitHashFastString": "db5efd27f159c58525f9e37672bf84366d1fc1b8",
-  "DFStringFlagRepoGitHashDynamicString": "db5efd27f159c58525f9e37672bf84366d1fc1b8",
-  "FStringFlipTimeStampFastString": "2023-06-05T16:37:57.329Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-05T16:37:57.329Z"
+  "FStringFlagRepoGitHashFastString": "ccc096c2085e14850626495b5597393102615786",
+  "DFStringFlagRepoGitHashDynamicString": "ccc096c2085e14850626495b5597393102615786",
+  "FStringFlipTimeStampFastString": "2023-06-05T16:38:25.728Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-05T16:38:25.728Z"
 }
