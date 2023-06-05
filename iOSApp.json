@@ -5584,8 +5584,6 @@
   "DFFlagSkipSomePropertiesSkip": "True",
   "DFFlagSkipSomePropertiesSkip_PlaceFilter": "False;7449423635;4442272183;2753915549",
   "FFlagVRLaserPointerOptimization": "True",
-  "DFFlagCLI72418_Rollout": "True;45;2023-06-05T20:38:35",
-  "DFFlagDFFlagHumanoidScaleSwimSpeed_Rollout": "True;60;2023-06-05T20:47:24",
   "DFFlagCentralFilter": "True",
   "DFIntAvatarChatSubsessionInputEventThrottleHundrethsPercentV2": "2000",
   "DFIntAvatarChatSubsessionInputEventThrottleHundrethsPercentV2_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;12867018908;10001514317;11597947993;12991298352;9793123004;5064251723;13117700215;13178556380;12867047376;11460402982;12500012844;11402255591;12796376276;12867089300",
@@ -5601,6 +5599,8 @@
   "FIntStudioTeamCreateGamejoinRequestTimeoutMs": "10000",
   "DFIntReportNewInstancetemsItemsHundredths_Rollout": "2000;60;2023-06-05T22:52:59",
   "FIntModelScaleBetaFeatureRolloutPercent_Rollout": "100;30;2023-06-05T23:00:22",
+  "DFFlagCLI72418": "True",
+  "DFFlagDFFlagHumanoidScaleSwimSpeed": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5919,8 +5919,8 @@
   "FFlagEnableReceiptIdOnValidation": "True",
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
   "FFlagTrackDeeplinkLaunchFlow": "True",
-  "FStringFlagRepoGitHashFastString": "d26eb0985943f2102d294344f6eb61298f0f8459",
-  "DFStringFlagRepoGitHashDynamicString": "d26eb0985943f2102d294344f6eb61298f0f8459",
-  "FStringFlipTimeStampFastString": "2023-06-05T23:01:12.121Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-05T23:01:12.121Z"
+  "FStringFlagRepoGitHashFastString": "0e5fc176756ee2ec5eb4b2ebbd4a006c60a81d89",
+  "DFStringFlagRepoGitHashDynamicString": "0e5fc176756ee2ec5eb4b2ebbd4a006c60a81d89",
+  "FStringFlipTimeStampFastString": "2023-06-05T23:02:29.364Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-05T23:02:29.364Z"
 }
