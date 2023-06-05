@@ -5358,7 +5358,7 @@
   "FFlagEnableScriptOpenedEvent": "True",
   "FFlagEnableScriptOpenedEventForLiveScripting": "True",
   "FFlagEnableScriptErrorEvent": "True",
-  "DFIntScriptErrorThrottleHundredthsPercent": "5000",
+  "DFIntScriptErrorThrottleHundredthsPercent": "10000",
   "FFlagSimAdaptiveTimesteppingUpdate3": "True",
   "FFlagLuauTypecheckClassTypeIndexers": "True",
   "FFlagSharedTableSupport": "True",
@@ -5775,8 +5775,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "499e7f72abc9c13722dd25980282f2c5d2c20e4e",
-  "DFStringFlagRepoGitHashDynamicString": "499e7f72abc9c13722dd25980282f2c5d2c20e4e",
-  "FStringFlipTimeStampFastString": "2023-06-05T18:01:57.001Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-05T18:01:57.001Z"
+  "FStringFlagRepoGitHashFastString": "cb2302732c6e900d3ee97fcb12c67530f44ff60f",
+  "DFStringFlagRepoGitHashDynamicString": "cb2302732c6e900d3ee97fcb12c67530f44ff60f",
+  "FStringFlipTimeStampFastString": "2023-06-05T18:12:40.999Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-05T18:12:40.999Z"
 }
