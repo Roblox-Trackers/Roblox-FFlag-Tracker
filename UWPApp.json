@@ -5592,13 +5592,10 @@
   "DFIntAvatarChatSubsessionStatsEventThrottleHundrethsPercentV2": "2000",
   "DFIntAvatarChatSubsessionStatsEventThrottleHundrethsPercentV2_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;12867018908;10001514317;11597947993;12991298352;9793123004;5064251723;13117700215;13178556380;12867047376;11460402982;12500012844;11402255591;12796376276;12867089300",
   "FFlagAvatarChatSubsessionAnalyticsV3": "True",
-  "FFlagEnumAttributeWritabilityFix_Rollout": "True;60;2023-06-05T21:16:57",
   "FFlagTempFixInfiniteHomePYMK": "True",
   "FFlagIOSUseAsymmetricSafeAreaInsets": "True",
   "FFlagVideoFixTeamCreateSave": "True",
   "DFFlagUserAnimateScaleRun": "True",
-  "FIntStudioTeamCreateGamejoinRequestTimeoutMs": "10000",
-  "DFFlagSignalRCoreMetrics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5794,8 +5791,8 @@
   "FFlagLuaAppColorSystem1_1TestEnabled1": "True",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "ee48ba845690c0d24c98b1e032f08bc6be45d121",
-  "DFStringFlagRepoGitHashDynamicString": "ee48ba845690c0d24c98b1e032f08bc6be45d121",
-  "FStringFlipTimeStampFastString": "2023-06-05T22:12:38.884Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-05T22:12:38.884Z"
+  "FStringFlagRepoGitHashFastString": "bd5b9e0448dceb8d03cd9801e2b0b6bd2b6a875a",
+  "DFStringFlagRepoGitHashDynamicString": "bd5b9e0448dceb8d03cd9801e2b0b6bd2b6a875a",
+  "FStringFlipTimeStampFastString": "2023-06-05T22:38:14.939Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-05T22:38:14.939Z"
 }
