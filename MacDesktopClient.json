@@ -5593,6 +5593,8 @@
   "DFIntAvatarChatSubsessionStatsEventThrottleHundrethsPercentV2": "2000",
   "DFIntAvatarChatSubsessionStatsEventThrottleHundrethsPercentV2_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;12867018908;10001514317;11597947993;12991298352;9793123004;5064251723;13117700215;13178556380;12867047376;11460402982;12500012844;11402255591;12796376276;12867089300",
   "FFlagAvatarChatSubsessionAnalyticsV3": "True",
+  "DFFlagVoiceChatCacheIsVoiceEnabledCalls_Rollout": "True;60;2023-06-05T21:16:50",
+  "FFlagEnumAttributeWritabilityFix_Rollout": "True;60;2023-06-05T21:16:57",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5840,8 +5842,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FStringFlagRepoGitHashFastString": "1bc05cd49c275f53d3359c58932089ad53ca05c2",
-  "DFStringFlagRepoGitHashDynamicString": "1bc05cd49c275f53d3359c58932089ad53ca05c2",
-  "FStringFlipTimeStampFastString": "2023-06-05T21:04:13.346Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-05T21:04:13.346Z"
+  "FStringFlagRepoGitHashFastString": "6ac0c1647c9b959b6072397e80579b36819fd578",
+  "DFStringFlagRepoGitHashDynamicString": "6ac0c1647c9b959b6072397e80579b36819fd578",
+  "FStringFlipTimeStampFastString": "2023-06-05T21:18:11.355Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-05T21:18:11.355Z"
 }
