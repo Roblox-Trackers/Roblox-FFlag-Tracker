@@ -5598,12 +5598,12 @@
   "FFlagBootcampCLI70541_Rollout": "False;60;2023-06-05T22:51:12",
   "FIntStudioTeamCreateGamejoinRequestTimeoutMs": "10000",
   "DFIntReportNewInstancetemsItemsHundredths_Rollout": "2000;60;2023-06-05T22:52:59",
-  "FIntModelScaleBetaFeatureRolloutPercent_Rollout": "100;30;2023-06-05T23:00:22",
   "DFFlagCLI72418": "True",
   "DFFlagDFFlagHumanoidScaleSwimSpeed": "True",
   "FFlagLimitedV1ItemHoldsEnabled": "True",
   "FIntUseNewInvitePermissionsForSocialServiceRollout": "10",
   "FFlagEnableUseShowTopBar": "True",
+  "FIntModelScaleBetaFeatureRolloutPercent": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5857,8 +5857,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "64ad03ca33120c2c2d5ec433583c52908f944bfb",
-  "DFStringFlagRepoGitHashDynamicString": "64ad03ca33120c2c2d5ec433583c52908f944bfb",
-  "FStringFlipTimeStampFastString": "2023-06-05T23:45:50.035Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-05T23:45:50.035Z"
+  "FStringFlagRepoGitHashFastString": "f19648fe90458fae7158d3013b6ecc7b184e324c",
+  "DFStringFlagRepoGitHashDynamicString": "f19648fe90458fae7158d3013b6ecc7b184e324c",
+  "FStringFlipTimeStampFastString": "2023-06-06T00:02:50.643Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-06T00:02:50.643Z"
 }
