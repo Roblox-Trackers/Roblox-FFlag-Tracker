@@ -45,6 +45,6 @@
   "enableOAuthAgeVerificationCheck": "true",
   "enablePackageContentAttribution": "true",
   "enableOAuthAppPublish": "true",
-  "addDelayBeforeL2PublishCall": "false",
+  "addDelayBeforeL2PublishCall": "true",
   "enablePlaceThumbnailNonRootPlace": "true"
 }
