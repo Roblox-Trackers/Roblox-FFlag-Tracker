@@ -5490,7 +5490,7 @@
   "DFIntRCCRecordPlaceRuntimeRequestsBadThrottleHundredthsPercent": "10000",
   "DFIntRCCRecordPlaceRuntimeRequestsReceivedThrottleHundredthsPercent": "10000",
   "DFFlagContentProviderSupportsSymlinks": "True",
-  "DFFlagSimReportAveWorldstepTimeEventIngest": "False",
+  "DFFlagSimReportAveWorldstepTimeEventIngest": "True",
   "FFlagCOLLAB3777LostEditAccessMsg": "True",
   "DFFlagTouchedEventInvestigation": "True",
   "DFFlagWorldAnalyticsRefactor": "True",
@@ -5646,9 +5646,8 @@
   "FIntMLCodeCompleteRequestTrailingTokens": "500",
   "FFlagStudioRemoveSelectionCache": "True",
   "FFlagPatchTeamCreatePresencePagination": "True",
-  "DFIntSimReportAveWorldstepTimeEventIngestPercent_Rollout": "1;60;2023-06-12T18:56:46",
-  "DFFlagSimReportAveWorldstepTimeEventIngest_Rollout": "True;60;2023-06-12T18:58:43",
   "DFFlagNetworkOwnershipDistributionNoOpFix": "True",
+  "DFIntSimReportAveWorldstepTimeEventIngestPercent": "1",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5995,8 +5994,8 @@
   "FFlagEnableHomePageUpsellCardRelease7": "True",
   "FFlagTrackDeeplinkLaunchFlow": "True",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
-  "FStringFlagRepoGitHashFastString": "f8e5b6b621093ea991a69fdc2ef28792af1eae2e",
-  "DFStringFlagRepoGitHashDynamicString": "f8e5b6b621093ea991a69fdc2ef28792af1eae2e",
-  "FStringFlipTimeStampFastString": "2023-06-12T20:55:33.023Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-12T20:55:33.023Z"
+  "FStringFlagRepoGitHashFastString": "c26e65d0ac9c13e2e14f44d2ae5f0ebaefde49e4",
+  "DFStringFlagRepoGitHashDynamicString": "c26e65d0ac9c13e2e14f44d2ae5f0ebaefde49e4",
+  "FStringFlipTimeStampFastString": "2023-06-12T21:03:23.014Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-12T21:03:23.014Z"
 }
