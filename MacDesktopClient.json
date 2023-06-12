@@ -2562,7 +2562,7 @@
   "DFFlagThumbnailingUseAssetIds": "True",
   "FFlagConsistentThumbnailBackground": "True",
   "FFlagUseGUIDForDummyEvent": "True",
-  "FFlagEnableLayoutResetStudioForceRestartOnCorruptLayout": "True",
+  "FFlagEnableLayoutResetStudioForceRestartOnCorruptLayout": "False",
   "FFlagUseCGNApi": "True",
   "FFlagAssetImportReplaceForLoops": "True",
   "FIntCorruptPanelDetectionUpperbound": "30000",
@@ -5903,8 +5903,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FStringFlagRepoGitHashFastString": "5e14b4e0ddbe320e1945d6de657b7f62af8a28f5",
-  "DFStringFlagRepoGitHashDynamicString": "5e14b4e0ddbe320e1945d6de657b7f62af8a28f5",
-  "FStringFlipTimeStampFastString": "2023-06-12T22:28:02.846Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-12T22:28:02.846Z"
+  "FStringFlagRepoGitHashFastString": "68c5d127e1e1f7fd70836f9460b1c19db7747dfa",
+  "DFStringFlagRepoGitHashDynamicString": "68c5d127e1e1f7fd70836f9460b1c19db7747dfa",
+  "FStringFlipTimeStampFastString": "2023-06-12T22:57:35.851Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-12T22:57:35.851Z"
 }
