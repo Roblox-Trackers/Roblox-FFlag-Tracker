@@ -5650,6 +5650,7 @@
   "DFIntSimReportAveWorldstepTimeEventIngestPercent": "1",
   "FFlagLuaAppCredentialLoginRefactor": "True",
   "DFIntSimReportAveWorldstepTimeEventIngestPercent_Rollout": "100;60;2023-06-12T21:16:22",
+  "FFlagSupportOffCenterOriginInvestigateExtentsCFrameCrash_Rollout": "False;60;2023-06-12T21:32:17",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5969,8 +5970,8 @@
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "True",
   "FFlagTrackDeeplinkLaunchFlow": "True",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
-  "FStringFlagRepoGitHashFastString": "e7f6c6eb257a58cdc3979923802dd67c0e145e4f",
-  "DFStringFlagRepoGitHashDynamicString": "e7f6c6eb257a58cdc3979923802dd67c0e145e4f",
-  "FStringFlipTimeStampFastString": "2023-06-12T21:17:12.083Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-12T21:17:12.083Z"
+  "FStringFlagRepoGitHashFastString": "4660cfbf0070a50626c6cb37468f0011d5fe0c42",
+  "DFStringFlagRepoGitHashDynamicString": "4660cfbf0070a50626c6cb37468f0011d5fe0c42",
+  "FStringFlipTimeStampFastString": "2023-06-12T21:33:48.192Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-12T21:33:48.192Z"
 }
