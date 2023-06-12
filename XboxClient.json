@@ -101,7 +101,7 @@
   "DFIntDynamicReloaderFailureInfluxHundrethsPercentage": "10000",
   "DFIntDynamicReloaderFileFailureInfluxHundrethsPercentage": "10000",
   "DFIntESGamePerfMonitorDelayBeforeFirstReportInSeconds": "60",
-  "DFIntESGamePerfMonitorHundredthsPercentage": "2000",
+  "DFIntESGamePerfMonitorHundredthsPercentage": "5000",
   "DFIntESGamePerfMonitorReportTimerInSeconds": "30",
   "DFIntEphemeralCounterInfluxReportingPriorityHundredthsPercent": "10000",
   "DFIntEphemeralCounterInfluxReportingThrottleHundredthsPercent": "10000",
@@ -5843,8 +5843,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "147343a85d3372f8171be16c3c15b079129d43a3",
-  "DFStringFlagRepoGitHashDynamicString": "147343a85d3372f8171be16c3c15b079129d43a3",
-  "FStringFlipTimeStampFastString": "2023-06-12T17:26:48.279Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-12T17:26:48.279Z"
+  "FStringFlagRepoGitHashFastString": "8f75ae18b3c984cc1fd0c529f1a7f19e029c1abc",
+  "DFStringFlagRepoGitHashDynamicString": "8f75ae18b3c984cc1fd0c529f1a7f19e029c1abc",
+  "FStringFlipTimeStampFastString": "2023-06-12T17:28:37.287Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-12T17:28:37.287Z"
 }
