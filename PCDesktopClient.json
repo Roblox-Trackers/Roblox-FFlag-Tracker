@@ -101,7 +101,7 @@
   "DFIntDynamicReloaderFailureInfluxHundrethsPercentage": "10000",
   "DFIntDynamicReloaderFileFailureInfluxHundrethsPercentage": "10000",
   "DFIntESGamePerfMonitorDelayBeforeFirstReportInSeconds": "60",
-  "DFIntESGamePerfMonitorHundredthsPercentage": "5000",
+  "DFIntESGamePerfMonitorHundredthsPercentage": "10000",
   "DFIntESGamePerfMonitorReportTimerInSeconds": "30",
   "DFIntEphemeralCounterInfluxReportingPriorityHundredthsPercent": "10000",
   "DFIntEphemeralCounterInfluxReportingThrottleHundredthsPercent": "10000",
@@ -5913,8 +5913,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
-  "FStringFlagRepoGitHashFastString": "a10aac917df97b3a66490b2f888853c33d84788f",
-  "DFStringFlagRepoGitHashDynamicString": "a10aac917df97b3a66490b2f888853c33d84788f",
-  "FStringFlipTimeStampFastString": "2023-06-13T16:29:14.188Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-13T16:29:14.188Z"
+  "FStringFlagRepoGitHashFastString": "a5ae93b88d35654b70eb0060af1c5402985d2867",
+  "DFStringFlagRepoGitHashDynamicString": "a5ae93b88d35654b70eb0060af1c5402985d2867",
+  "FStringFlipTimeStampFastString": "2023-06-13T16:32:57.856Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-13T16:32:57.856Z"
 }
