@@ -628,7 +628,7 @@
   "DFIntRakNetApplicationFeedbackMaxSpeedBPS": "50000000",
   "DFFlagDeprecatableBroadcasts2": "True",
   "FIntEnableBacktraceIOSV2": "100",
-  "FIntCrashUploadToBacktraceIOSPercentage": "1",
+  "FIntCrashUploadToBacktraceIOSPercentage": "5",
   "FFlagUserChatDisplayNamesEnabledByDefault": "True",
   "DFIntLmsPingExpBackoffMaxBackoffSeconds": "120",
   "DFIntLmsPingExpBackoffMaxElapsedTimeSeconds": "3600",
@@ -6044,9 +6044,10 @@
   "FFlagTrackDeeplinkLaunchFlow": "False",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FLogDataModelPatchAnalytics": "6",
-  "FIntDataModelPatcherForceLocalPercentage": "100",
-  "FStringFlagRepoGitHashFastString": "a0e7e698a9f48f90bda000adef0a2a91778ecb4d",
-  "DFStringFlagRepoGitHashDynamicString": "a0e7e698a9f48f90bda000adef0a2a91778ecb4d",
-  "FStringFlipTimeStampFastString": "2023-06-20T17:07:38.085Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-20T17:07:38.085Z"
+  "DFFlagNotifyUnderLock": "True",
+  "DFFlagNotifyUnderLockAdditional": "True",
+  "FStringFlagRepoGitHashFastString": "e125db2ee56afe01218fc92c3cc20e2517de708b",
+  "DFStringFlagRepoGitHashDynamicString": "e125db2ee56afe01218fc92c3cc20e2517de708b",
+  "FStringFlipTimeStampFastString": "2023-06-20T19:20:56.154Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-20T19:20:56.154Z"
 }
