@@ -2426,7 +2426,7 @@
   "FFlagFixDeserializeDecodeInstances": "true",
   "FFlagStudioNoTCConnectDialog": "True",
   "FFlagFACSPacketCompressionV1": "True",
-  "FFlagFacsCodecEnabled": "True",
+  "FFlagFacsCodecEnabled": "False",
   "FFlagAllowPerformanceControlInitialization4": "True",
   "DFFlagGetInventoryShorterQueryParams": "True",
   "DFFlagVideoUseMemoryAndCpuMetrics": "True",
@@ -6068,8 +6068,8 @@
   "FLogDataModelPatchAnalytics": "6",
   "DFFlagNotifyUnderLock": "True",
   "DFFlagNotifyUnderLockAdditional": "True",
-  "FStringFlagRepoGitHashFastString": "8c90fff744682be243fd770f88b33a8674af27e2",
-  "DFStringFlagRepoGitHashDynamicString": "8c90fff744682be243fd770f88b33a8674af27e2",
-  "FStringFlipTimeStampFastString": "2023-06-21T20:00:01.138Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-21T20:00:01.138Z"
+  "FStringFlagRepoGitHashFastString": "6c2f7f782a19250084a4770abdad8ba6ef914120",
+  "DFStringFlagRepoGitHashDynamicString": "6c2f7f782a19250084a4770abdad8ba6ef914120",
+  "FStringFlipTimeStampFastString": "2023-06-21T20:05:36.781Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-21T20:05:36.781Z"
 }
