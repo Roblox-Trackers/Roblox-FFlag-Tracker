@@ -2426,7 +2426,7 @@
   "FFlagFixDeserializeDecodeInstances": "true",
   "FFlagStudioNoTCConnectDialog": "True",
   "FFlagFACSPacketCompressionV1": "True",
-  "FFlagFacsCodecEnabled": "True",
+  "FFlagFacsCodecEnabled": "False",
   "FFlagAllowPerformanceControlInitialization4": "True",
   "DFFlagGetInventoryShorterQueryParams": "True",
   "DFFlagVideoUseMemoryAndCpuMetrics": "True",
@@ -6089,8 +6089,8 @@
   "FFlagTrackDeeplinkLaunchFlow": "True",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FStringClientChannelProbabilityString": "1000;zflag=50",
-  "FStringFlagRepoGitHashFastString": "883b42063b870a6ddadfa1023c23657352d3bf7c",
-  "DFStringFlagRepoGitHashDynamicString": "883b42063b870a6ddadfa1023c23657352d3bf7c",
-  "FStringFlipTimeStampFastString": "2023-06-21T17:30:02.650Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-21T17:30:02.650Z"
+  "FStringFlagRepoGitHashFastString": "4e901ceb29c9b0eae7a9ca7f80b51d153f5673ce",
+  "DFStringFlagRepoGitHashDynamicString": "4e901ceb29c9b0eae7a9ca7f80b51d153f5673ce",
+  "FStringFlipTimeStampFastString": "2023-06-21T17:39:27.534Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-21T17:39:27.534Z"
 }
