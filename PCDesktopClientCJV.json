@@ -5842,6 +5842,12 @@
   "FFlagEnableIAPEntryPointDisablePolicyV2": "True",
   "FFlagVRAvatarEditorBugFixes": "True",
   "FLogStudioQtCategoryLog_qtitan_docking": "Debug",
+  "FFlagLuaAppMigrateHomeGameGridImpressions2": "True",
+  "DFFlagTeleportServiceV2MetricsPart3": "True",
+  "DFIntTeleportV2InvocationsAnalyticsInfluxHundredthsPercentage": "10000",
+  "DFIntTeleportV2InvocationsInfluxHundredthsPercentage": "5",
+  "DFIntTeleportV2InvocationsInfluxHundredthsPercentage_PlaceFilter": "5;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
+  "DFIntTeleportV2TeleportSuccessInfluxHundredthsPercentage": "10000",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6100,8 +6106,8 @@
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "125108b3156f77bd6af7f874e588e3f1884c8ab4",
-  "DFStringFlagRepoGitHashDynamicString": "125108b3156f77bd6af7f874e588e3f1884c8ab4",
-  "FStringFlipTimeStampFastString": "2023-06-22T22:06:17.963Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-22T22:06:17.963Z"
+  "FStringFlagRepoGitHashFastString": "5ecfbf5c19db5ec9d982b72f158f353e27d256a0",
+  "DFStringFlagRepoGitHashDynamicString": "5ecfbf5c19db5ec9d982b72f158f353e27d256a0",
+  "FStringFlipTimeStampFastString": "2023-06-22T22:07:59.469Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-22T22:07:59.469Z"
 }
