@@ -5735,6 +5735,11 @@
   "DFFlagEnableLuobuCDNDomain": "True",
   "DFIntAvatarChatSubsessionInputEventThrottleHundrethsPercentV2_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;12867018908;10001514317;11597947993;12991298352;9793123004;5064251723;13117700215;13178556380;12867047376;11460402982;12500012844;11402255591;12796376276;12867089300;13621732500;13621737323;13621742117;13621746770",
   "DFIntAvatarChatSubsessionStatsEventThrottleHundrethsPercentV2_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;12867018908;10001514317;11597947993;12991298352;9793123004;5064251723;13117700215;13178556380;12867047376;11460402982;12500012844;11402255591;12796376276;12867089300;13621732500;13621737323;13621742117;13621746770",
+  "FFlagStudioImproveFontLoading": "True",
+  "FFlagRemoveHighlightOnModelToolOff": "True",
+  "FFlagSelectionOutlineAddNestedPartRecurse": "True",
+  "FFlagSelectionOutlineRemoveToolRecurse": "True",
+  "FFlagSelectionOutlinesToggleTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5936,8 +5941,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "d34cddfaf54fc461ba29c8dafdcd79d6d556fa04",
-  "DFStringFlagRepoGitHashDynamicString": "d34cddfaf54fc461ba29c8dafdcd79d6d556fa04",
-  "FStringFlipTimeStampFastString": "2023-06-21T22:24:24.135Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-21T22:24:24.135Z"
+  "FStringFlagRepoGitHashFastString": "cdd3f94bffd028098e9b9e0835cff3dc1e483be6",
+  "DFStringFlagRepoGitHashDynamicString": "cdd3f94bffd028098e9b9e0835cff3dc1e483be6",
+  "FStringFlipTimeStampFastString": "2023-06-22T17:04:46.614Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-22T17:04:46.614Z"
 }
