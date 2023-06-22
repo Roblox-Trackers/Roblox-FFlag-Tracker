@@ -5843,7 +5843,7 @@
   "FFlagVRAvatarEditorBugFixes": "True",
   "FLogStudioQtCategoryLog_qtitan_docking": "Debug",
   "FFlagLuaAppMigrateHomeGameGridImpressions2": "True",
-  "DFFlagTeleportServiceV2MetricsPart3": "True",
+  "DFFlagTeleportServiceV2MetricsPart3": "False",
   "DFIntTeleportV2InvocationsAnalyticsInfluxHundredthsPercentage": "100",
   "DFIntTeleportV2InvocationsInfluxHundredthsPercentage": "5",
   "DFIntTeleportV2InvocationsInfluxHundredthsPercentage_PlaceFilter": "5;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
@@ -5852,6 +5852,8 @@
   "FFlagTextureAtlasPromoteDebugName_Rollout": "True;60;2023-06-22T22:09:39",
   "FFlagBootcampCLI72730": "True",
   "FFlagCOLLAB1234TeamCreateJoinConsoleLog_Rollout": "True;60;2023-06-22T22:19:29",
+  "FFlagChangeDefaultBorder_Rollout": "True;60;2023-06-22T22:19:33",
+  "FFlagCOLLAB3829AddPSCPlaceNameToFileRecentGameOpen_Rollout": "True;30;2023-06-22T22:19:44",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6110,8 +6112,8 @@
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d29319b30a596f97721e4241f69521e46a971300",
-  "DFStringFlagRepoGitHashDynamicString": "d29319b30a596f97721e4241f69521e46a971300",
-  "FStringFlipTimeStampFastString": "2023-06-22T22:20:08.951Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-22T22:20:08.951Z"
+  "FStringFlagRepoGitHashFastString": "f207715ff627ae38518db0388eb928d66dd12e68",
+  "DFStringFlagRepoGitHashDynamicString": "f207715ff627ae38518db0388eb928d66dd12e68",
+  "FStringFlipTimeStampFastString": "2023-06-22T22:21:32.806Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-22T22:21:32.806Z"
 }
