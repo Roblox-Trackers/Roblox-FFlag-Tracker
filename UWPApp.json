@@ -5858,6 +5858,8 @@
   "DFFlagSimLevitationChangingFloorNormals_Rollout": "True;2;2023-06-22T22:21:44",
   "DFFlagSimGroundControllerDesiredVelOscillationFix_Rollout": "True;2;2023-06-22T22:22:37",
   "FFlagEnableWinGetManuf": "True",
+  "FFlagEnableMacOSNetworkMonitoring": "True",
+  "FFlagEnableWinGetNetworkType": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6059,8 +6061,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "6a8bc0adf0386454949d5695ec35546c2451700c",
-  "DFStringFlagRepoGitHashDynamicString": "6a8bc0adf0386454949d5695ec35546c2451700c",
-  "FStringFlipTimeStampFastString": "2023-06-22T22:29:24.191Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-22T22:29:24.191Z"
+  "FStringFlagRepoGitHashFastString": "e79a1e7eaf982ac60ce0bef39662fde21994cca4",
+  "DFStringFlagRepoGitHashDynamicString": "e79a1e7eaf982ac60ce0bef39662fde21994cca4",
+  "FStringFlipTimeStampFastString": "2023-06-22T22:30:40.653Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-22T22:30:40.653Z"
 }
