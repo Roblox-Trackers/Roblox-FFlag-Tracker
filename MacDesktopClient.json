@@ -5838,6 +5838,7 @@
   "DFFlagHttpIncludeRetryCount_Rollout": "True;30;2023-06-22T21:26:21",
   "FFlagAssetManagerUseEventIngest": "True",
   "DFFlagChangeSortShadowsToFocusFromCamera_Rollout": "True;60;2023-06-22T21:29:33",
+  "DFFlagCollectibleItemPurchaseAuthTokenEnabled": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6090,8 +6091,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "bcf0b76aff11a3cc5182272249ae61a636644ec8",
-  "DFStringFlagRepoGitHashDynamicString": "bcf0b76aff11a3cc5182272249ae61a636644ec8",
-  "FStringFlipTimeStampFastString": "2023-06-22T21:39:55.572Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-22T21:39:55.572Z"
+  "FStringFlagRepoGitHashFastString": "b37e0eef9db4af054cd5a4fa1eaf590d9c71ab78",
+  "DFStringFlagRepoGitHashDynamicString": "b37e0eef9db4af054cd5a4fa1eaf590d9c71ab78",
+  "FStringFlipTimeStampFastString": "2023-06-22T21:46:08.468Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-22T21:46:08.468Z"
 }
