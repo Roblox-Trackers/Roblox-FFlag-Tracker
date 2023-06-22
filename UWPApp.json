@@ -5817,7 +5817,6 @@
   "FFlagAddAudibilityExposureMeasurementV3_Rollout": "True;29;2023-06-22T20:45:01",
   "FFlagVoiceChatLogAudibilityChanges_Rollout": "True;60;2023-06-22T20:45:18",
   "FFlagNewUserOnboardingABTest": "True",
-  "FFlagUIBloxUseNewGenericTextLabelProps": "True",
   "DFFlagTeleportServiceV2MetricsPart1": "True",
   "DFFlagParallelLuaAlwaysSendFinalStats_Rollout": "True;60;2023-06-22T21:01:13",
   "DFFlagTaskLibWarnBadDeferDelayWaitCallMessageFix_Rollout": "True;60;2023-06-22T21:01:32",
@@ -6040,8 +6039,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "647bd7f05eb21d1fa691677d61de90d1cdd0128d",
-  "DFStringFlagRepoGitHashDynamicString": "647bd7f05eb21d1fa691677d61de90d1cdd0128d",
-  "FStringFlipTimeStampFastString": "2023-06-22T21:30:18.937Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-22T21:30:18.937Z"
+  "FStringFlagRepoGitHashFastString": "bcf0b76aff11a3cc5182272249ae61a636644ec8",
+  "DFStringFlagRepoGitHashDynamicString": "bcf0b76aff11a3cc5182272249ae61a636644ec8",
+  "FStringFlipTimeStampFastString": "2023-06-22T21:39:55.572Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-22T21:39:55.572Z"
 }
