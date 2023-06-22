@@ -5823,6 +5823,8 @@
   "FFlagUserProfilesDataLoaderUpdateFieldsEnabled": "True",
   "DFFlagInitializeForceVAS_Rollout": "True;60;2023-06-22T20:39:16",
   "DFFlagLastPlayerPositionInit_Rollout": "True;60;2023-06-22T20:41:27",
+  "FFlagAddAudibilityExposureMeasurementV3_Rollout": "True;29;2023-06-22T20:45:01",
+  "FFlagVoiceChatLogAudibilityChanges_Rollout": "True;60;2023-06-22T20:45:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6169,8 +6171,8 @@
   "FFlagTrackDeeplinkLaunchFlow": "True",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FStringClientChannelProbabilityString": "1000;zflag=50",
-  "FStringFlagRepoGitHashFastString": "b2dad96f2d1fba6c77435d9657c1f00c29d6197c",
-  "DFStringFlagRepoGitHashDynamicString": "b2dad96f2d1fba6c77435d9657c1f00c29d6197c",
-  "FStringFlipTimeStampFastString": "2023-06-22T20:41:59.806Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-22T20:41:59.806Z"
+  "FStringFlagRepoGitHashFastString": "457f1dc431cdfea1102dacdda12a0efa82bb18df",
+  "DFStringFlagRepoGitHashDynamicString": "457f1dc431cdfea1102dacdda12a0efa82bb18df",
+  "FStringFlipTimeStampFastString": "2023-06-22T20:46:34.464Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-22T20:46:34.464Z"
 }
