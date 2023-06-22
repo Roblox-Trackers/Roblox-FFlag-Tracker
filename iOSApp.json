@@ -5516,7 +5516,7 @@
   "DFFlagSimLinearVelocityUseConsistentJacobianFrame": "True",
   "FFlagMultiCursorFormatting1": "True",
   "FFlagRichTextUIScaleStroke": "True",
-  "FFlagShowSearchBarOnDiscoverIXP": "True",
+  "FFlagShowSearchBarOnDiscoverIXP": "False",
   "FFlagSearchDiscoverTopRightEntryIXP": "False",
   "FFlagSearchDiscoverBottomBarEntryIXP": "False",
   "FFlagStudioConsolidateBaseUrlCall": "True",
@@ -5812,6 +5812,7 @@
   "FFlagSoundClientsUseDenseSet_Rollout": "True;60;2023-06-22T19:38:26",
   "FFlagFriendsPageAllowMultipleUIStates_v1": "True",
   "FFlagLuaAppImpressionDetectorFixes": "True",
+  "FFlagScriptEditorMultiCursorBetaFeature_Rollout": "False;60;2023-06-22T19:55:42",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6134,8 +6135,8 @@
   "FLogDataModelPatchAnalytics": "6",
   "DFFlagNotifyUnderLock": "True",
   "DFFlagNotifyUnderLockAdditional": "True",
-  "FStringFlagRepoGitHashFastString": "407e5d9018502d49bf73cc42d18dab20fc7572f9",
-  "DFStringFlagRepoGitHashDynamicString": "407e5d9018502d49bf73cc42d18dab20fc7572f9",
-  "FStringFlipTimeStampFastString": "2023-06-22T19:55:44.235Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-22T19:55:44.235Z"
+  "FStringFlagRepoGitHashFastString": "d01213f551d9b4d708688def96fa457721125341",
+  "DFStringFlagRepoGitHashDynamicString": "d01213f551d9b4d708688def96fa457721125341",
+  "FStringFlipTimeStampFastString": "2023-06-22T19:56:42.044Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-22T19:56:42.044Z"
 }
