@@ -5298,7 +5298,7 @@
   "DFIntAdGuiRandomizedRaycastLaunchPercentage2": "10000",
   "FFlagSelfViewDontHideOnSwapCharacter": "True",
   "FFlagDragDetectors1": "False",
-  "FFlagDragDetectors1_PlaceFilter": "True;12981782010;10135698219;11314555671;13503219415;13049142488;12909041133;13477165541;13477146301;12445163038;13351825906;11814430535",
+  "FFlagDragDetectors1_PlaceFilter": "True;13638384763;12981782010;10135698219;11314555671;13503219415;13049142488;12909041133;13477165541;13477146301;12445163038;13351825906;11814430535",
   "FFlagCOLLAB3629EnableCloudEditControllerOnWakeTelemetry": "True",
   "FFlagStudioRemoveEmptySplitters": "True",
   "FFlagStudioRemoveEmptySplittersTopological": "True",
@@ -5793,6 +5793,8 @@
   "FFlagFloorTrackingAPI2": "True",
   "DFFlagMemoryStoreNewCountersReporting": "True",
   "FFlagGeometricDragShouldAnchorAllParts_Rollout": "True;60;2023-06-22T18:54:27",
+  "FFlagMouseCommandDragDetectorSupport3_Rollout": "True;60;2023-06-22T18:55:05",
+  "FFlagMultilayerWrapFixBetaFeature": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -5994,8 +5996,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "2c996e2ae7b4edb46b0ebbe443a6dd691b3752f4",
-  "DFStringFlagRepoGitHashDynamicString": "2c996e2ae7b4edb46b0ebbe443a6dd691b3752f4",
-  "FStringFlipTimeStampFastString": "2023-06-22T18:55:38.552Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-22T18:55:38.552Z"
+  "FStringFlagRepoGitHashFastString": "7053c2a4ac64210b7e144c58a6fb3224db8d6086",
+  "DFStringFlagRepoGitHashDynamicString": "7053c2a4ac64210b7e144c58a6fb3224db8d6086",
+  "FStringFlipTimeStampFastString": "2023-06-22T18:56:58.974Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-22T18:56:58.974Z"
 }
