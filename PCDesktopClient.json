@@ -5774,6 +5774,8 @@
   "FFlagImprovePluginSpeed_EventEmulator": "True",
   "FFlagImprovePluginSpeed_Debugger": "True",
   "EnableMaquettesDeviceSuffix": "True",
+  "DFFlagVideoUseSystemClockForTimePosition": "True",
+  "FFlagMotionBuffersSkipNullGeometry": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6031,8 +6033,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "e00318bfa5f4742c5d2f176c55ad2a4bcdc45ebe",
-  "DFStringFlagRepoGitHashDynamicString": "e00318bfa5f4742c5d2f176c55ad2a4bcdc45ebe",
-  "FStringFlipTimeStampFastString": "2023-06-22T18:16:21.072Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-22T18:16:21.072Z"
+  "FStringFlagRepoGitHashFastString": "8b7554a20ee9df4012490a42337fb33c35510eec",
+  "DFStringFlagRepoGitHashDynamicString": "8b7554a20ee9df4012490a42337fb33c35510eec",
+  "FStringFlipTimeStampFastString": "2023-06-22T18:18:00.577Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-22T18:18:00.577Z"
 }
