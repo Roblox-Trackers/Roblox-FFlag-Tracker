@@ -5799,6 +5799,9 @@
   "DFIntMemoryStoreErrorHundredthsPercent": "1",
   "DFFlagMemoryStoreUseNewErrorReporting": "True",
   "DFFlagAddGlobalWindToPlaceStats_Rollout": "True;60;2023-06-22T19:07:42",
+  "FFlagDragDetectorsReturnCursorOnDisable_Rollout": "True;60;2023-06-22T19:07:47",
+  "FFlagDragDetectorsCustomIconAndCursor_Rollout": "True;60;2023-06-22T19:08:07",
+  "FFlagDragDetectorAllowMouseScrollForZoom_Rollout": "True;60;2023-06-22T19:08:47",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6121,8 +6124,8 @@
   "FLogDataModelPatchAnalytics": "6",
   "DFFlagNotifyUnderLock": "True",
   "DFFlagNotifyUnderLockAdditional": "True",
-  "FStringFlagRepoGitHashFastString": "98f54cdf75ca79fcc522cb4cfb0676870ee9f94c",
-  "DFStringFlagRepoGitHashDynamicString": "98f54cdf75ca79fcc522cb4cfb0676870ee9f94c",
-  "FStringFlipTimeStampFastString": "2023-06-22T19:08:18.490Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-22T19:08:18.490Z"
+  "FStringFlagRepoGitHashFastString": "6c058614151a0c5829d3d87651d9dd16835dd986",
+  "DFStringFlagRepoGitHashDynamicString": "6c058614151a0c5829d3d87651d9dd16835dd986",
+  "FStringFlipTimeStampFastString": "2023-06-22T19:09:40.891Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-22T19:09:40.891Z"
 }
