@@ -5864,6 +5864,8 @@
   "FFlagPackageModifiedOnOpenFixForPrimaryPart": "True",
   "FFlagCOLLAB3829AddPSCPlaceNameToFileRecentGameOpen": "True",
   "DFFlagNotifyUnderLock_Rollout": "True;60;2023-06-23T00:13:00",
+  "FFlagAlwaysMountVoicePrompt": "True",
+  "FFlagAXFixFilterFontColor": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6210,8 +6212,8 @@
   "FFlagTrackDeeplinkLaunchFlow": "True",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FStringClientChannelProbabilityString": "1000;zflag=50",
-  "FStringFlagRepoGitHashFastString": "6c6cdf96ac672246c7e712efa7858fa1e192e38a",
-  "DFStringFlagRepoGitHashDynamicString": "6c6cdf96ac672246c7e712efa7858fa1e192e38a",
-  "FStringFlipTimeStampFastString": "2023-06-23T00:13:46.580Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-23T00:13:46.580Z"
+  "FStringFlagRepoGitHashFastString": "8a9a75bccd894721433b88ea258157989dad1d9a",
+  "DFStringFlagRepoGitHashDynamicString": "8a9a75bccd894721433b88ea258157989dad1d9a",
+  "FStringFlipTimeStampFastString": "2023-06-23T00:16:49.076Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-23T00:16:49.076Z"
 }
