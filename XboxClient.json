@@ -391,7 +391,7 @@
   "FIntEnableFriendFooterOnHomePageV369": "100",
   "FIntEnableTencentSignupCleanup": "100",
   "FIntHttpCacheRedirectsTimeoutMs": "14400000",
-  "FIntLuaAppBacktraceErrorReportPercentage": "100",
+  "FIntLuaAppBacktraceErrorReportPercentage": "5",
   "FIntLuaAppNonFinalThumbnailMaxRetries": "1",
   "FIntLuaAppPercentRollOutNewThumbnailsApiV3": "100",
   "FIntLuaAppPercentRolloutGameDetailShareButtonUseAppsflyer": "100",
@@ -6089,8 +6089,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "b42f29da120189b3a338e690ae0812a423a3d94e",
-  "DFStringFlagRepoGitHashDynamicString": "b42f29da120189b3a338e690ae0812a423a3d94e",
-  "FStringFlipTimeStampFastString": "2023-06-23T20:11:00.096Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-23T20:11:00.096Z"
+  "FStringFlagRepoGitHashFastString": "2f4c1f10b9644f1dcef3541989c77dd1d22dad7b",
+  "DFStringFlagRepoGitHashDynamicString": "2f4c1f10b9644f1dcef3541989c77dd1d22dad7b",
+  "FStringFlipTimeStampFastString": "2023-06-23T20:18:40.131Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-23T20:18:40.131Z"
 }
