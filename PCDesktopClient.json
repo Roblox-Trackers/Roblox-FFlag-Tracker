@@ -5577,8 +5577,8 @@
   "DFFlagSkipSomePropertiesSkip_PlaceFilter": "False;7449423635;4442272183;2753915549",
   "FFlagVRLaserPointerOptimization": "True",
   "DFFlagCentralFilter": "True",
-  "DFIntAvatarChatSubsessionInputEventThrottleHundrethsPercentV2": "5000",
-  "DFIntAvatarChatSubsessionStatsEventThrottleHundrethsPercentV2": "5000",
+  "DFIntAvatarChatSubsessionInputEventThrottleHundrethsPercentV2": "10000",
+  "DFIntAvatarChatSubsessionStatsEventThrottleHundrethsPercentV2": "10000",
   "FFlagAvatarChatSubsessionAnalyticsV3": "True",
   "FFlagTempFixInfiniteHomePYMK": "True",
   "FFlagIOSUseAsymmetricSafeAreaInsets": "True",
@@ -5730,8 +5730,6 @@
   "DFFlagIkControlWeightPoleWeight": "True",
   "DFFlagDisplayAdRandomizedRaycastEnabled2": "True",
   "DFFlagEnableLuobuCDNDomain": "True",
-  "DFIntAvatarChatSubsessionInputEventThrottleHundrethsPercentV2_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;12867018908;10001514317;11597947993;12991298352;9793123004;5064251723;13117700215;13178556380;12867047376;11460402982;12500012844;11402255591;12796376276;12867089300;13621732500;13621737323;13621742117;13621746770",
-  "DFIntAvatarChatSubsessionStatsEventThrottleHundrethsPercentV2_PlaceFilter": "10000;11701806268;12806190892;12806247258;12806270326;12806279894;12806262789;10787386927;12867018908;10001514317;11597947993;12991298352;9793123004;5064251723;13117700215;13178556380;12867047376;11460402982;12500012844;11402255591;12796376276;12867089300;13621732500;13621737323;13621742117;13621746770",
   "FFlagStudioImproveFontLoading": "True",
   "FFlagRemoveHighlightOnModelToolOff": "True",
   "FFlagSelectionOutlineAddNestedPartRecurse": "True",
@@ -6144,8 +6142,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "209088beec102289dee330b1123fb43dbc7de5a2",
-  "DFStringFlagRepoGitHashDynamicString": "209088beec102289dee330b1123fb43dbc7de5a2",
-  "FStringFlipTimeStampFastString": "2023-06-23T17:22:40.254Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-23T17:22:40.254Z"
+  "FStringFlagRepoGitHashFastString": "27445f207df759155b22d118476e345b092885ac",
+  "DFStringFlagRepoGitHashDynamicString": "27445f207df759155b22d118476e345b092885ac",
+  "FStringFlipTimeStampFastString": "2023-06-23T17:26:45.382Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-23T17:26:45.382Z"
 }
