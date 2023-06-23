@@ -5874,6 +5874,15 @@
   "FFlagAllowClearCommand": "False",
   "FFlagAllowClearCommand_PlaceFilter": "True;9709838535",
   "FFlagEnableBubbleChatConfigurationMaxBubbles": "False",
+  "FFlagEnableBubbleChatConfigurationMaxBubbles_PlaceFilter": "True;9709838535",
+  "FFlagEnableBubbleChatConfigurationTailVisible": "False",
+  "FFlagEnableBubbleChatConfigurationTailVisible_PlaceFilter": "True;9709838535",
+  "FFlagFixDisappearingBubbleChat2": "False",
+  "FFlagFixDisappearingBubbleChat2_PlaceFilter": "True;9709838535",
+  "FFlagFixInvalidMessagesShowingOnSenderSide": "False",
+  "FFlagFixInvalidMessagesShowingOnSenderSide_PlaceFilter": "True;9709838535",
+  "FFlagUpgradeExpChatV3_4_8": "False",
+  "FFlagUpgradeExpChatV3_4_8_PlaceFilter": "True;9709838535",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6075,8 +6084,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "8e173add230f19a423f663e6901ac3a6ecd6d331",
-  "DFStringFlagRepoGitHashDynamicString": "8e173add230f19a423f663e6901ac3a6ecd6d331",
-  "FStringFlipTimeStampFastString": "2023-06-23T16:29:45.460Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-23T16:29:45.460Z"
+  "FStringFlagRepoGitHashFastString": "f9b3d2faf9cedcde057e84d12bc15498a4978efd",
+  "DFStringFlagRepoGitHashDynamicString": "f9b3d2faf9cedcde057e84d12bc15498a4978efd",
+  "FStringFlipTimeStampFastString": "2023-06-23T16:39:34.103Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-23T16:39:34.103Z"
 }
