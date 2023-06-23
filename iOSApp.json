@@ -5675,7 +5675,7 @@
   "FFlagRefreshWidgets2": "True",
   "FFlagAddPublishAssetPrompt5": "True",
   "FFlagUpgradeExpChatV3_4_7": "True",
-  "FIntFriendsCarouselUserProfileApiRollout": "5",
+  "FIntFriendsCarouselUserProfileApiRollout": "15",
   "FFlagExplorerChangeSelectionAddRemove1": "True",
   "FFlagRenderHighlightParentingFix": "False",
   "FFlagLuaAppFixGamesListFetch": "True",
@@ -5885,6 +5885,7 @@
   "FFlagUpgradeExpChatV3_4_8_PlaceFilter": "True;9709838535",
   "FFlagAvatarChatHuffmanDecompressionReduceCopies": "True",
   "FFlagSafeDataModelDestroy_Rollout": "True;60;2023-06-23T17:09:39",
+  "FFlagLuaAppEmail2SVUpsellPopUpEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6206,8 +6207,8 @@
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FLogDataModelPatchAnalytics": "6",
   "DFFlagNotifyUnderLockAdditional": "True",
-  "FStringFlagRepoGitHashFastString": "ac0e2ab3d3219d822806a1162c9cfac7341e4bc5",
-  "DFStringFlagRepoGitHashDynamicString": "ac0e2ab3d3219d822806a1162c9cfac7341e4bc5",
-  "FStringFlipTimeStampFastString": "2023-06-23T17:11:15.541Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-23T17:11:15.541Z"
+  "FStringFlagRepoGitHashFastString": "a9b9a9e6186893621e244acf950630981afb012b",
+  "DFStringFlagRepoGitHashDynamicString": "a9b9a9e6186893621e244acf950630981afb012b",
+  "FStringFlipTimeStampFastString": "2023-06-23T17:17:10.300Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-23T17:17:10.300Z"
 }
