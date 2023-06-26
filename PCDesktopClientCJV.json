@@ -5955,6 +5955,10 @@
   "FFlagMaterialFrameworkFixes": "True",
   "FFlagAvatarChatSettingsAudioLinkEnabled": "True",
   "FFlagAvatarChatSettingsVideoLinkEnabled": "True",
+  "FFlagLuaAppRefactorSendGameImpressions": "True",
+  "FFlagAXDefaultAvatarToShopEnabled2": "True",
+  "FFlagAXDefaultAvatarToShopWidgetEnabled2": "True",
+  "FStringAXDefaultAvatarToShopLayer2": "AvatarMarketplace.ShoppingCart",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6212,8 +6216,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "02d2bb409138afa13dbb9c5293227ca7d318f893",
-  "DFStringFlagRepoGitHashDynamicString": "02d2bb409138afa13dbb9c5293227ca7d318f893",
-  "FStringFlipTimeStampFastString": "2023-06-26T23:09:37.244Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-26T23:09:37.244Z"
+  "FStringFlagRepoGitHashFastString": "9725895beda383de476f680480efc7680dca1e5b",
+  "DFStringFlagRepoGitHashDynamicString": "9725895beda383de476f680480efc7680dca1e5b",
+  "FStringFlipTimeStampFastString": "2023-06-26T23:16:08.450Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-26T23:16:08.450Z"
 }
