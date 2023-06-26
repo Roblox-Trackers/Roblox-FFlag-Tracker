@@ -5960,6 +5960,8 @@
   "FFlagAXDefaultAvatarToShopWidgetEnabled2": "True",
   "FStringAXDefaultAvatarToShopLayer2": "AvatarMarketplace.ShoppingCart",
   "FFlagSimSolverRemoveIslandBatchSolverStartUnreachableCode_Rollout": "True;60;2023-06-26T23:27:05",
+  "FFlagSimExtendContactForceVisualizationToBulletContacts2_Rollout": "True;60;2023-06-26T23:27:46",
+  "FFlagSimShowAttachmentParentFrame2_Rollout": "True;60;2023-06-26T23:28:08",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6279,8 +6281,8 @@
   "FFlagTrackDeeplinkLaunchFlow": "False",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FLogDataModelPatchAnalytics": "6",
-  "FStringFlagRepoGitHashFastString": "9dbc864c3a6efde007905243e754236e7b7edba8",
-  "DFStringFlagRepoGitHashDynamicString": "9dbc864c3a6efde007905243e754236e7b7edba8",
-  "FStringFlipTimeStampFastString": "2023-06-26T23:27:49.044Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-26T23:27:49.044Z"
+  "FStringFlagRepoGitHashFastString": "b3df36bc08691e5601870e1bc6fd1f5a953e82db",
+  "DFStringFlagRepoGitHashDynamicString": "b3df36bc08691e5601870e1bc6fd1f5a953e82db",
+  "FStringFlipTimeStampFastString": "2023-06-26T23:29:22.334Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-26T23:29:22.334Z"
 }
