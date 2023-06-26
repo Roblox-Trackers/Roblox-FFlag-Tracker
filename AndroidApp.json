@@ -5949,6 +5949,7 @@
   "FFlagToolboxRefactorAudioConstantsForItemRow2": "True",
   "DFFlagAMPTelemetryPoints_Rollout": "True;60;2023-06-26T22:45:34",
   "DFIntAMPVerifiedTelemetryPointsHundredthsPercentage": "2500",
+  "DFFlagFixWeakPtrIssueInGetNextRegionFunction_Rollout": "True;60;2023-06-26T22:55:56",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6295,8 +6296,16 @@
   "FFlagTrackDeeplinkLaunchFlow": "True",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FStringClientChannelProbabilityString": "1000;zflag=50",
-  "FStringFlagRepoGitHashFastString": "b15e366ee200472cd869d16697bae4758cecc03a",
-  "DFStringFlagRepoGitHashDynamicString": "b15e366ee200472cd869d16697bae4758cecc03a",
-  "FStringFlipTimeStampFastString": "2023-06-26T22:46:32.977Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-26T22:46:32.977Z"
+  "EnableAndroidAutofillPhoneNumber": "True",
+  "EnableAndroidAutofillSMSOTP": "True",
+  "FFlagAndroidPhoneAutofillShouldApplySanitizationRelease1": "True",
+  "FFlagEnableAndroidAutofillPhoneVerificationRelease1": "True",
+  "FFlagLuaIdentityGetPhoneNumber": "True",
+  "FFlagLuaIdentityGetSMSOTP": "True",
+  "FFlagLuaIdentityProtocol": "True",
+  "FFlagLuaUseIdentityProtocolForPhoneUpsell": "True",
+  "FStringFlagRepoGitHashFastString": "5a28d0d0b6e40d1a75d2692a8df8d0e259c6fdab",
+  "DFStringFlagRepoGitHashDynamicString": "5a28d0d0b6e40d1a75d2692a8df8d0e259c6fdab",
+  "FStringFlipTimeStampFastString": "2023-06-26T22:55:57.777Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-26T22:55:57.777Z"
 }
