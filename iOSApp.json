@@ -5933,6 +5933,8 @@
   "FFlagEnableEvaluateAtCursorCmd_Rollout": "True;60;2023-06-26T18:14:23",
   "AndroidFixSingleSurfaceAppNotchScreenSupportDisabled": "True",
   "FFlagUIPageLayoutKeepNeighborOffscreenPagesIfCircular_Rollout": "True;60;2023-06-26T18:41:45",
+  "FFlagAtomicPlayerRespawnFix": "False",
+  "FFlagAtomicPlayerRespawnFix_PlaceFilter": "True;6011220700;6962533927",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6253,8 +6255,8 @@
   "FFlagTrackDeeplinkLaunchFlow": "False",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FLogDataModelPatchAnalytics": "6",
-  "FStringFlagRepoGitHashFastString": "1bb8ffef67f19da440a90aff6364456b04f5fec4",
-  "DFStringFlagRepoGitHashDynamicString": "1bb8ffef67f19da440a90aff6364456b04f5fec4",
-  "FStringFlipTimeStampFastString": "2023-06-26T18:42:32.596Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-26T18:42:32.596Z"
+  "FStringFlagRepoGitHashFastString": "a86468e320b0e6971ff0adcb8af29dc824bea10a",
+  "DFStringFlagRepoGitHashDynamicString": "a86468e320b0e6971ff0adcb8af29dc824bea10a",
+  "FStringFlipTimeStampFastString": "2023-06-26T18:48:33.558Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-26T18:48:33.558Z"
 }
