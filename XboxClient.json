@@ -5915,6 +5915,9 @@
   "DFIntDevMovementChangedThrottleHundrethsPercent": "10000",
   "FFlagDeprecateProfileModule": "True",
   "DFFlagCollectibleItemPurchaseAuthTokenEnabled": "True",
+  "DFFlagAnalyticsGlobalPointsUseMutex": "True",
+  "DFFlagAvatarChatServiceTelemetryIncludeServerFeatures": "True",
+  "DFFlagFaceAnimatorServiceTelemetryIncludeTrackerMode": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6112,8 +6115,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "4fcdeab56f095d44ee20e0fbefffb9151add9da3",
-  "DFStringFlagRepoGitHashDynamicString": "4fcdeab56f095d44ee20e0fbefffb9151add9da3",
-  "FStringFlipTimeStampFastString": "2023-06-26T17:41:58.755Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-26T17:41:58.755Z"
+  "FStringFlagRepoGitHashFastString": "21a7e6ec06e7f192bbb95437a01659b7bcd14285",
+  "DFStringFlagRepoGitHashDynamicString": "21a7e6ec06e7f192bbb95437a01659b7bcd14285",
+  "FStringFlipTimeStampFastString": "2023-06-26T17:42:31.685Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-26T17:42:31.685Z"
 }
