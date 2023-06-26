@@ -5922,7 +5922,6 @@
   "FFlagBootcampCLI73466": "True",
   "FFlagFixSphereSizing": "True",
   "FFlagEnableDetailsPageLoadingState": "True",
-  "DFFlagMoreConsistentPhysicsFiltering_Rollout": "True;60;2023-06-26T19:31:02",
   "EnableSingleSurfaceFlagCacheWorkaround": "True",
   "FFlagFriendsCarouselUserProfileApiEnabledForAll": "True",
   "DFFlagSimAdaptiveHumanoidsWithConstraintsDefaultTo1Dt": "True",
@@ -5940,6 +5939,7 @@
   "FFlagLuaAppMigrateGameCarouselImpressions": "True",
   "FFlagLuaAppFixGameGridTableImpressions": "True",
   "DFFlagLocalCharacterConnectDiedEventAnalytic_Rollout": "True;60;2023-06-26T22:01:16",
+  "DFFlagMoreConsistentPhysicsFiltering": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6259,8 +6259,8 @@
   "FFlagTrackDeeplinkLaunchFlow": "False",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FLogDataModelPatchAnalytics": "6",
-  "FStringFlagRepoGitHashFastString": "4010c9fc11103d29912b4a636b3da2270861142b",
-  "DFStringFlagRepoGitHashDynamicString": "4010c9fc11103d29912b4a636b3da2270861142b",
-  "FStringFlipTimeStampFastString": "2023-06-26T22:02:38.584Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-26T22:02:38.584Z"
+  "FStringFlagRepoGitHashFastString": "7b501522b09a1b062c03aaeed0b334d690411a5e",
+  "DFStringFlagRepoGitHashDynamicString": "7b501522b09a1b062c03aaeed0b334d690411a5e",
+  "FStringFlipTimeStampFastString": "2023-06-26T22:03:36.372Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-26T22:03:36.372Z"
 }
