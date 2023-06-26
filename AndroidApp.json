@@ -5944,6 +5944,7 @@
   "DFIntFilterAndTranslateServerPartitionId": "1",
   "FFlagUserIsChatTranslationEnabled": "True",
   "FStringChatTranslationLayerName": "Matchmaking.Algorithm.UserId",
+  "FFlagAddMemoryCategoryToTaskQueue": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6290,8 +6291,8 @@
   "FFlagTrackDeeplinkLaunchFlow": "True",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FStringClientChannelProbabilityString": "1000;zflag=50",
-  "FStringFlagRepoGitHashFastString": "270eac61de7b7a263f23176d33eeb2f9132732d9",
-  "DFStringFlagRepoGitHashDynamicString": "270eac61de7b7a263f23176d33eeb2f9132732d9",
-  "FStringFlipTimeStampFastString": "2023-06-26T22:05:00.951Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-26T22:05:00.951Z"
+  "FStringFlagRepoGitHashFastString": "5cdc301d729101ed03644cdd705657ddf4b22996",
+  "DFStringFlagRepoGitHashDynamicString": "5cdc301d729101ed03644cdd705657ddf4b22996",
+  "FStringFlipTimeStampFastString": "2023-06-26T22:17:15.823Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-26T22:17:15.823Z"
 }
