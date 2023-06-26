@@ -5903,6 +5903,8 @@
   "DFIntPhysicsNOUCountHundredth_Rollout": "100;60;2023-06-26T16:54:21",
   "FFlagFixUIEditorScalingZeroSizedObjects": "True",
   "FFlagLuauParseDeclareClassIndexer": "True",
+  "FFlagTurnOffOldSimTouchCollector": "False",
+  "FFlagTurnOffOldSimTouchCollector_PlaceFilter": "True;13603694404;5614144350;12461605266;13689224216;13683300119",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6160,8 +6162,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "5ebb99434576542d258dd6834d067ebdc9fcc3b9",
-  "DFStringFlagRepoGitHashDynamicString": "5ebb99434576542d258dd6834d067ebdc9fcc3b9",
-  "FStringFlipTimeStampFastString": "2023-06-26T17:14:51.651Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-26T17:14:51.651Z"
+  "FStringFlagRepoGitHashFastString": "876c0959187a23d6bd5b8bea0eff6b23c9ab66c8",
+  "DFStringFlagRepoGitHashDynamicString": "876c0959187a23d6bd5b8bea0eff6b23c9ab66c8",
+  "FStringFlipTimeStampFastString": "2023-06-26T17:16:34.958Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-26T17:16:34.958Z"
 }
