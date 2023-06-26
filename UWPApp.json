@@ -5325,7 +5325,7 @@
   "FIntCloudEditErrorWaitTimeMs": "100",
   "FFlagThumbnailerUseNearPlaneZ": "True",
   "DFFlagRakNetRemoveSprintf2": "True",
-  "DFIntBatchLogMessageIngestHundredthsPercent": "500",
+  "DFIntBatchLogMessageIngestHundredthsPercent": "3000",
   "FFlagScreenGuiRaycastsFixLag": "True",
   "FFlagUIBloxVRFixUIJitter": "True",
   "FFlagVRFixCursorJitter": "True",
@@ -5931,7 +5931,6 @@
   "FFlagLuauCleanPoisonedDebugContext": "True",
   "DFFlagSimTerrainRespectsCollisionGroups": "True",
   "FIntSocialTabUserProfileApiRollout": "0",
-  "DFFlagCLI71353D_Rollout": "True;60;2023-06-26T20:59:37",
   "FFlagEnableSingleSurfaceFlagCacheWorkaround": "True",
   "FFlagUIPageLayoutKeepNeighborOffscreenPagesIfCircular": "True",
   "FFlagEnableEvaluateAtCursorCmd": "True",
@@ -5952,6 +5951,7 @@
   "DFFlagFixWeakPtrIssueInGetNextRegionFunction_Rollout": "True;60;2023-06-26T22:55:56",
   "FFlagAXQuickButtonsInList": "True",
   "FFlagFixAESPromptEscapeHang": "True",
+  "DFFlagCLI71353D": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6153,9 +6153,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "3000;30;2023-06-26T21:49:39",
-  "FStringFlagRepoGitHashFastString": "1dcba6b648fe113af97d855ef6386779cef457bd",
-  "DFStringFlagRepoGitHashDynamicString": "1dcba6b648fe113af97d855ef6386779cef457bd",
-  "FStringFlipTimeStampFastString": "2023-06-26T22:58:50.149Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-26T22:58:50.149Z"
+  "FStringFlagRepoGitHashFastString": "41b8212cf9adc66bdd85cc991839bc042b85f0c2",
+  "DFStringFlagRepoGitHashDynamicString": "41b8212cf9adc66bdd85cc991839bc042b85f0c2",
+  "FStringFlipTimeStampFastString": "2023-06-26T23:03:11.409Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-26T23:03:11.409Z"
 }
