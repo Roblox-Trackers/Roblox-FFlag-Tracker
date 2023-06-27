@@ -5968,6 +5968,7 @@
   "FFlagEnablePlatformChatMessageAnalytics": "True",
   "DFFlagSimTouchProtocol2_Rollout": "True;60;2023-06-27T18:06:01",
   "FFlagDragDetectorsUseInternalConstraints1": "True",
+  "FFlagDragDetectorFixParentStartFrameSideEffects": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6287,8 +6288,8 @@
   "FFlagTrackDeeplinkLaunchFlow": "False",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FLogDataModelPatchAnalytics": "6",
-  "FStringFlagRepoGitHashFastString": "fec8d7e45accd524a5be75a887090a486d374763",
-  "DFStringFlagRepoGitHashDynamicString": "fec8d7e45accd524a5be75a887090a486d374763",
-  "FStringFlipTimeStampFastString": "2023-06-27T18:07:32.145Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-27T18:07:32.145Z"
+  "FStringFlagRepoGitHashFastString": "e39bbbfd9b1ea08de37ef84fba05f4878b295617",
+  "DFStringFlagRepoGitHashDynamicString": "e39bbbfd9b1ea08de37ef84fba05f4878b295617",
+  "FStringFlipTimeStampFastString": "2023-06-27T18:08:02.577Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-27T18:08:02.577Z"
 }
