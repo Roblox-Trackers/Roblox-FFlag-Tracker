@@ -5956,6 +5956,8 @@
   "DFIntPerformanceControlPointsHundredthPercentageSent": "21",
   "DFFlagPerformanceControlUseSeparateTelemetryEventsForPointsAndEventIngest3": "False",
   "DFFlagSoundLoopPointApi3": "True",
+  "FFlagDragDetectorsTrackballUpdatePlane_Rollout": "True;60;2023-06-27T19:03:04",
+  "FFlagDragDetectorsTrackballErrorRecovery_Rollout": "True;60;2023-06-27T19:04:05",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6213,8 +6215,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d052abb100a1f3832b1bd2c2afed6aeb3fceea4d",
-  "DFStringFlagRepoGitHashDynamicString": "d052abb100a1f3832b1bd2c2afed6aeb3fceea4d",
-  "FStringFlipTimeStampFastString": "2023-06-27T19:03:10.080Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-27T19:03:10.080Z"
+  "FStringFlagRepoGitHashFastString": "3b61091aeba98aa7b71f58e8f2d0aedd568a19d0",
+  "DFStringFlagRepoGitHashDynamicString": "3b61091aeba98aa7b71f58e8f2d0aedd568a19d0",
+  "FStringFlipTimeStampFastString": "2023-06-27T19:04:47.987Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-27T19:04:47.987Z"
 }
