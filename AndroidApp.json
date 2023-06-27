@@ -5949,8 +5949,6 @@
   "FFlagToolboxUpgradeRoactNavigationForReact2": "True",
   "FFlagDragDetectorTouchIndicator": "True",
   "FFlagEnablePlatformChatMessageAnalytics": "True",
-  "DFFlagSimTouchProtocol2": "False",
-  "DFFlagSimTouchProtocol2_PlaceFilter": "True;2534724415;3016661674;4111023553;5614144350;6032399813;8204899140;8668476218;10358456664;10969803296;12461605266;12978466944;13603694404;13683300119;13689224216",
   "DFIntPerformanceControlEventIngestHundredthPercentageSent": "21",
   "DFIntPerformanceControlPointsHundredthPercentageSent": "21",
   "DFFlagPerformanceControlUseSeparateTelemetryEventsForPointsAndEventIngest3": "False",
@@ -5970,6 +5968,7 @@
   "DFFlagPerformanceControlUseSeparateTelemetryEventsForPointsAndEventIngest3_Rollout": "True;60;2023-06-27T20:26:18",
   "FFlagFriendsLandingUpdateSortForAll": "True",
   "FFlagDevFrameworkInferRoact17": "True",
+  "DFFlagSimTouchProtocol2_Rollout": "True;60;2023-06-27T21:02:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6325,8 +6324,8 @@
   "FFlagLuaIdentityProtocol": "True",
   "FFlagLuaUseIdentityProtocolForPhoneUpsell": "True",
   "FIntFriendsCarouselUserProfileApiRollout": "10",
-  "FStringFlagRepoGitHashFastString": "634feb8f479b8a678e0cdac7ac83efba3827a606",
-  "DFStringFlagRepoGitHashDynamicString": "634feb8f479b8a678e0cdac7ac83efba3827a606",
-  "FStringFlipTimeStampFastString": "2023-06-27T20:51:09.274Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-27T20:51:09.274Z"
+  "FStringFlagRepoGitHashFastString": "50c22d23baea53d2d2578046dac3cde0a1583021",
+  "DFStringFlagRepoGitHashDynamicString": "50c22d23baea53d2d2578046dac3cde0a1583021",
+  "FStringFlipTimeStampFastString": "2023-06-27T21:02:57.354Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-27T21:02:57.354Z"
 }
