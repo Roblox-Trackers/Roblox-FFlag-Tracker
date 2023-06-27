@@ -5952,9 +5952,6 @@
   "DFIntPerformanceControlPointsHundredthPercentageSent": "21",
   "DFFlagPerformanceControlUseSeparateTelemetryEventsForPointsAndEventIngest3": "False",
   "DFFlagSoundLoopPointApi3": "True",
-  "FFlagDragDetectorsTrackballUpdatePlane_Rollout": "True;60;2023-06-27T19:03:04",
-  "FFlagDragDetectorsTrackballErrorRecovery_Rollout": "True;60;2023-06-27T19:04:05",
-  "FFlagCatchCursorExceptions_Rollout": "True;60;2023-06-27T19:05:59",
   "FFlagJsonRpcNoPromises": "True",
   "FFlagDragDetectorsUseInternalConstraints1": "True",
   "FFlagScopedFlagOverriderAllowUnknownForLua": "True",
@@ -5969,6 +5966,9 @@
   "DFFlagTerrain_FastClear": "True",
   "FFlagFixConvertToPackageAssert": "True",
   "FFlagCOLLAB3625TCPermissionFilterOnRecentGames2_Rollout": "True;60;2023-06-27T21:52:40",
+  "FFlagCatchCursorExceptions": "True",
+  "FFlagDragDetectorsTrackballErrorRecovery": "True",
+  "FFlagDragDetectorsTrackballUpdatePlane": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6166,8 +6166,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "dafd7167b7a1a796c33d8403bbdd7bd432890562",
-  "DFStringFlagRepoGitHashDynamicString": "dafd7167b7a1a796c33d8403bbdd7bd432890562",
-  "FStringFlipTimeStampFastString": "2023-06-27T21:53:33.614Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-27T21:53:33.614Z"
+  "FStringFlagRepoGitHashFastString": "9794e959c30597f0924db111bd777d0e62f9ca09",
+  "DFStringFlagRepoGitHashDynamicString": "9794e959c30597f0924db111bd777d0e62f9ca09",
+  "FStringFlipTimeStampFastString": "2023-06-27T22:04:07.447Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-27T22:04:07.447Z"
 }
