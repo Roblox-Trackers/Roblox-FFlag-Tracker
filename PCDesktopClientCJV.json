@@ -5956,12 +5956,12 @@
   "FFlagAXDefaultAvatarToShopEnabled2": "True",
   "FFlagAXDefaultAvatarToShopWidgetEnabled2": "True",
   "FStringAXDefaultAvatarToShopLayer2": "AvatarMarketplace.ShoppingCart",
-  "FFlagSimSolverRemoveIslandBatchSolverStartUnreachableCode_Rollout": "True;60;2023-06-26T23:27:05",
-  "FFlagSimExtendContactForceVisualizationToBulletContacts2_Rollout": "True;60;2023-06-26T23:27:46",
-  "FFlagSimShowAttachmentParentFrame2_Rollout": "True;60;2023-06-26T23:28:08",
   "DFFlagAMPTelemetryPoints": "True",
   "DFFlagFixWeakPtrIssueInGetNextRegionFunction": "True",
   "DFFlagLocalCharacterConnectDiedEventAnalytic": "True",
+  "FFlagSimExtendContactForceVisualizationToBulletContacts2": "True",
+  "FFlagSimShowAttachmentParentFrame2": "True",
+  "FFlagSimSolverRemoveIslandBatchSolverStartUnreachableCode": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6219,8 +6219,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f3467bb569a21a82fa6929b92b99ea548b2a2d39",
-  "DFStringFlagRepoGitHashDynamicString": "f3467bb569a21a82fa6929b92b99ea548b2a2d39",
-  "FStringFlipTimeStampFastString": "2023-06-27T01:02:18.930Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-27T01:02:18.930Z"
+  "FStringFlagRepoGitHashFastString": "c50b240c244fb74f5cd91afe6b82117363fa4c2b",
+  "DFStringFlagRepoGitHashDynamicString": "c50b240c244fb74f5cd91afe6b82117363fa4c2b",
+  "FStringFlipTimeStampFastString": "2023-06-27T02:02:32.477Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-27T02:02:32.477Z"
 }
