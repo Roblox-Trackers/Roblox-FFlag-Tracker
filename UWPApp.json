@@ -5692,8 +5692,6 @@
   "FFlagLuaAppRefactorImpressionsTagging": "True",
   "FFlagDataModelPatchBackgroundLoad": "False",
   "FFlagLazyLoadStudioDeviceEmulatorQImage": "True",
-  "DFFlagSimTouchProtocol2": "False",
-  "DFFlagSimTouchProtocol2_PlaceFilter": "True;2534724415;3016661674;4111023553;5614144350;6032399813;8204899140;8668476218;10358456664;10969803296;12461605266;12978466944;13603694404;13683300119;13689224216",
   "DFFlagEnableBatchLogFix": "True",
   "FFlagLuauOccursIsntAlwaysFailure": "True",
   "FFlagLuauNormalizeBlockedTypes": "True",
@@ -5968,6 +5966,8 @@
   "FFlagDragDetectorsTrackballErrorRecovery_Rollout": "True;60;2023-06-27T17:31:09",
   "FFlagDragDetectorsTrackballUpdatePlane_Rollout": "True;60;2023-06-27T17:31:31",
   "FFlagEnablePlatformChatMessageAnalytics": "True",
+  "DFFlagSimTouchProtocol2_Rollout": "True;60;2023-06-27T18:06:01",
+  "FFlagDragDetectorsUseInternalConstraints1": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6169,8 +6169,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "7ac24be09c362cb74fb74e6fc56a4245ec8619cc",
-  "DFStringFlagRepoGitHashDynamicString": "7ac24be09c362cb74fb74e6fc56a4245ec8619cc",
-  "FStringFlipTimeStampFastString": "2023-06-27T18:05:28.377Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-27T18:05:28.377Z"
+  "FStringFlagRepoGitHashFastString": "fec8d7e45accd524a5be75a887090a486d374763",
+  "DFStringFlagRepoGitHashDynamicString": "fec8d7e45accd524a5be75a887090a486d374763",
+  "FStringFlipTimeStampFastString": "2023-06-27T18:07:32.145Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-27T18:07:32.145Z"
 }
