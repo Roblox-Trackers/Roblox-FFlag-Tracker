@@ -5993,6 +5993,7 @@
   "DFIntFlagRolloutTestDynamicInt0": "-6",
   "DFFlagTaskLibWarnSoftNonSuspended": "True",
   "DFFlagTerrainGCFixes_Rollout": "False;60;2023-06-28T19:47:08",
+  "DFFlagSessionTrackingResetOldSessionFirstMinRadius_Rollout": "True;60;2023-06-28T19:50:20",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6250,8 +6251,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "2c4fb03dd494ac319904576453c5362f4b58242c",
-  "DFStringFlagRepoGitHashDynamicString": "2c4fb03dd494ac319904576453c5362f4b58242c",
-  "FStringFlipTimeStampFastString": "2023-06-28T19:48:12.572Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-28T19:48:12.572Z"
+  "FStringFlagRepoGitHashFastString": "f690e12ea5b130d36574014c313c5485a2dfe129",
+  "DFStringFlagRepoGitHashDynamicString": "f690e12ea5b130d36574014c313c5485a2dfe129",
+  "FStringFlipTimeStampFastString": "2023-06-28T19:51:22.125Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-28T19:51:22.125Z"
 }
