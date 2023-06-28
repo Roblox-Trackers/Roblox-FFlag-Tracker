@@ -527,8 +527,6 @@
   "DFFlagAvoidDivisionByZeroForZeroComponentSize": "True",
   "FFlagEmailUpsellAtLogout": "True",
   "DFIntStartupTracingInfluxRollout": "100",
-  "FLogWrapLogChannel_PlaceFilter": "7;6283882559;2431195974;6337871940;6337872921;6337877104;6336591565;6382608640;5064251723;5100919959;7263004204;6959329418;189707;7208091524",
-  "FLogWrapLogChannel": "0",
   "FFlagTestDeveloperEventIngestVerifyFeature_PlaceFilter": "True;5972791689",
   "DFIntPlayerConfigurerLMSTestDelayMs": "10000",
   "FFlagSwitchFormatRequestHeader2": "False",
@@ -6312,8 +6310,8 @@
   "FFlagTrackDeeplinkLaunchFlow": "False",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FLogDataModelPatchAnalytics": "6",
-  "FStringFlagRepoGitHashFastString": "acf18707db9d08e41cabff46bc0c74c3cdaa2549",
-  "DFStringFlagRepoGitHashDynamicString": "acf18707db9d08e41cabff46bc0c74c3cdaa2549",
-  "FStringFlipTimeStampFastString": "2023-06-28T17:59:14.695Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-28T17:59:14.695Z"
+  "FStringFlagRepoGitHashFastString": "114669c15c5c1e8c8da7f6b46c010237de7481e1",
+  "DFStringFlagRepoGitHashDynamicString": "114669c15c5c1e8c8da7f6b46c010237de7481e1",
+  "FStringFlipTimeStampFastString": "2023-06-28T18:10:22.444Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-28T18:10:22.444Z"
 }
