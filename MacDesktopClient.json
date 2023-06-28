@@ -5165,7 +5165,7 @@
   "DFFlagIgnoreCERSourceClone": "True",
   "DFFlagVoiceChatUnderrunErrorsTelemetry": "True",
   "DFIntFlagRolloutTestDynamicInt3": "42",
-  "DFFlagTerrainGCFixes": "True",
+  "DFFlagTerrainGCFixes": "False",
   "FFlagParallelLuaCallbackScope": "True",
   "FFlagGamepadCursorDotDisappearsCorrectly": "True",
   "FFlagUseMinSizeWithoutUIScale": "True",
@@ -5990,8 +5990,6 @@
   "FFlagStudioPhysicsSettingsHandler2": "True",
   "DFIntFlagRolloutTestDynamicInt0": "-6",
   "DFFlagTaskLibWarnSoftNonSuspended": "True",
-  "DFFlagTerrainGCFixes_Rollout": "False;60;2023-06-28T19:47:08",
-  "DFFlagSessionTrackingResetOldSessionFirstMinRadius_Rollout": "True;60;2023-06-28T19:50:20",
   "DFFlagCLI57133DFix": "True",
   "FFlagAssetConfigPreviewLimitDescendants": "True",
   "FFlagFixMinSizeLessThanOffsetSize": "True",
@@ -6000,6 +5998,7 @@
   "DFFlagReportSignalRHttpErrors": "True",
   "FFlagGamesDataBatchPromise": "True",
   "DFFlagUndanglePlayerPointerButBetter_Rollout": "True;60;2023-06-28T21:25:55",
+  "DFFlagSessionTrackingResetOldSessionFirstMinRadius": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6251,8 +6250,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "89321cc6ecac56a47194198e302c4fe839711976",
-  "DFStringFlagRepoGitHashDynamicString": "89321cc6ecac56a47194198e302c4fe839711976",
-  "FStringFlipTimeStampFastString": "2023-06-28T21:27:40.162Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-28T21:27:40.162Z"
+  "FStringFlagRepoGitHashFastString": "f76a5e0fc8aa176bd1b9b8eb753a21fe47aaeeb1",
+  "DFStringFlagRepoGitHashDynamicString": "f76a5e0fc8aa176bd1b9b8eb753a21fe47aaeeb1",
+  "FStringFlipTimeStampFastString": "2023-06-28T22:02:44.830Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-28T22:02:44.830Z"
 }
