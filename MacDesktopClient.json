@@ -6006,6 +6006,8 @@
   "DFFlagSimTouchProtocol2_PlaceFilter": "False;574407221;7234652571;7346416636;6104994594;5275822877;6554355181",
   "FFlagRIDE5913FindReplaceWidgetFocusFix": "True",
   "DFFlagHttpReportAnalyticsTelem": "True",
+  "DFFlagSimAdaptiveRestPastPvBugFix_PlaceFilter": "False;4924922222",
+  "FFlagSimAdaptiveTimesteppingUpdate3_PlaceFilter": "False;4924922222",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6257,8 +6259,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "9abb3f92616afbd7be9ebe7f0ff7aea7c6a46ef2",
-  "DFStringFlagRepoGitHashDynamicString": "9abb3f92616afbd7be9ebe7f0ff7aea7c6a46ef2",
-  "FStringFlipTimeStampFastString": "2023-06-29T18:07:48.334Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-29T18:07:48.334Z"
+  "FStringFlagRepoGitHashFastString": "5074f5f09d9e940e2459f79cbf79bad056432faf",
+  "DFStringFlagRepoGitHashDynamicString": "5074f5f09d9e940e2459f79cbf79bad056432faf",
+  "FStringFlipTimeStampFastString": "2023-06-29T18:12:00.481Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-29T18:12:00.481Z"
 }
