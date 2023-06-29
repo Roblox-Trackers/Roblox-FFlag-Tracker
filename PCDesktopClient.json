@@ -6013,12 +6013,13 @@
   "FFlagFixSurfaceGuiTouchScrollingOutsideBounds": "True",
   "FFlagStudioReloadLocalPlugins_Rollout": "True;30;2023-06-29T22:29:21",
   "FFlagScrollingFrameFixRotatedHorizontalScrollbarPixelAlignment": "True",
-  "FFlagRenderHighlightParentingFix1": "False",
+  "FFlagRenderHighlightParentingFix1": "True",
   "FFlagSelectionOutlineUngroupUndoFix1": "True",
   "FFlagStudioPrioritizeMouseCommand": "True",
   "FFlagAllowExtraMeshesForR15": "True",
   "FFlagTextWrapAnimationSettings": "True",
   "FIntVoiceUsersInteractionExpiryTimeSeconds": "180",
+  "FFlagOpenXRLaunchingSteamVRFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6275,8 +6276,8 @@
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
-  "FStringFlagRepoGitHashFastString": "9ee3d386f1b601ee8157e413aa19d32169a3c01e",
-  "DFStringFlagRepoGitHashDynamicString": "9ee3d386f1b601ee8157e413aa19d32169a3c01e",
-  "FStringFlipTimeStampFastString": "2023-06-29T22:57:33.948Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-29T22:57:33.948Z"
+  "FStringFlagRepoGitHashFastString": "c0b9d80734d1010133d8e533f52869736e2d6c14",
+  "DFStringFlagRepoGitHashDynamicString": "c0b9d80734d1010133d8e533f52869736e2d6c14",
+  "FStringFlipTimeStampFastString": "2023-06-29T23:00:43.349Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-29T23:00:43.349Z"
 }
