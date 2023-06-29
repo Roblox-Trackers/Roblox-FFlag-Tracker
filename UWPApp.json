@@ -5902,7 +5902,7 @@
   "FFlagBootcampCLI73466": "True",
   "FFlagFixSphereSizing": "True",
   "FFlagEnableDetailsPageLoadingState": "True",
-  "EnableSingleSurfaceFlagCacheWorkaround": "True",
+  "EnableSingleSurfaceFlagCacheWorkaround": "False",
   "FFlagFriendsCarouselUserProfileApiEnabledForAll": "False",
   "DFFlagSimAdaptiveHumanoidsWithConstraintsDefaultTo1Dt": "True",
   "DFFlagSimIncorrectHumanoidCountFix2": "True",
@@ -5910,7 +5910,7 @@
   "FFlagClearVisibleShadowObjectsDuringEarlyOut": "True",
   "FFlagLuauCleanPoisonedDebugContext": "True",
   "DFFlagSimTerrainRespectsCollisionGroups": "True",
-  "FFlagEnableSingleSurfaceFlagCacheWorkaround": "True",
+  "FFlagEnableSingleSurfaceFlagCacheWorkaround": "False",
   "FFlagUIPageLayoutKeepNeighborOffscreenPagesIfCircular": "True",
   "FFlagEnableEvaluateAtCursorCmd": "True",
   "FFlagPerformanceControlEnableIXPHoldoutExperiment": "False",
@@ -6210,8 +6210,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "7fa9bc24992df992e7bed3cb41aacf8a9c583ac9",
-  "DFStringFlagRepoGitHashDynamicString": "7fa9bc24992df992e7bed3cb41aacf8a9c583ac9",
-  "FStringFlipTimeStampFastString": "2023-06-29T20:04:25.043Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-29T20:04:25.043Z"
+  "FStringFlagRepoGitHashFastString": "6bf44b41b24d13b3c9b1d20888bb7f71570b9720",
+  "DFStringFlagRepoGitHashDynamicString": "6bf44b41b24d13b3c9b1d20888bb7f71570b9720",
+  "FStringFlipTimeStampFastString": "2023-06-29T20:06:54.822Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-29T20:06:54.822Z"
 }
