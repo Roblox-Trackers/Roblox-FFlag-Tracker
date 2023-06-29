@@ -5658,7 +5658,6 @@
   "FFlagAddPublishAssetPrompt5": "True",
   "FFlagUpgradeExpChatV3_4_7": "True",
   "FFlagExplorerChangeSelectionAddRemove1": "False",
-  "FFlagRenderHighlightParentingFix": "False",
   "FFlagLuaAppFixGamesListFetch": "True",
   "FFlagTenFootForceTheme": "True",
   "DFFlagEnableLuobuServiceDomain": "True",
@@ -6014,6 +6013,9 @@
   "FFlagFixSurfaceGuiTouchScrollingOutsideBounds": "True",
   "FFlagStudioReloadLocalPlugins_Rollout": "True;30;2023-06-29T22:29:21",
   "FFlagScrollingFrameFixRotatedHorizontalScrollbarPixelAlignment": "True",
+  "FFlagRenderHighlightParentingFix1": "False",
+  "FFlagSelectionOutlineUngroupUndoFix1": "True",
+  "FFlagStudioPrioritizeMouseCommand": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6211,8 +6213,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "172dce01837dd075e488c51260d6363becb52cc9",
-  "DFStringFlagRepoGitHashDynamicString": "172dce01837dd075e488c51260d6363becb52cc9",
-  "FStringFlipTimeStampFastString": "2023-06-29T22:48:59.555Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-29T22:48:59.555Z"
+  "FStringFlagRepoGitHashFastString": "ad6f4e73279ee981e3dbee2d61151097541dfb9d",
+  "DFStringFlagRepoGitHashDynamicString": "ad6f4e73279ee981e3dbee2d61151097541dfb9d",
+  "FStringFlipTimeStampFastString": "2023-06-29T22:50:20.373Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-29T22:50:20.373Z"
 }
