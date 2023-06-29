@@ -6026,6 +6026,7 @@
   "DFFlagStreamingVelocityAwareMissingRegionsFix_Rollout": "True;30;2023-06-29T23:33:25",
   "FFlagBootcampCLI73758": "True",
   "FFlagUserVRRotationUpdate": "False",
+  "FFlagDraggerBetterRigidConstraints": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6382,8 +6383,8 @@
   "FFlagLuaUseIdentityProtocolForPhoneUpsell": "True",
   "FIntFriendsCarouselUserProfileApiRollout": "100",
   "FIntSocialTabUserProfileApiRollout": "100",
-  "FStringFlagRepoGitHashFastString": "bd66c5ab993958ca656b47ddb6c340460c43f942",
-  "DFStringFlagRepoGitHashDynamicString": "bd66c5ab993958ca656b47ddb6c340460c43f942",
-  "FStringFlipTimeStampFastString": "2023-06-29T23:37:16.348Z",
-  "DFStringFlipTimeStampDynamicString": "2023-06-29T23:37:16.348Z"
+  "FStringFlagRepoGitHashFastString": "0ab8d9db71beae90d78311e5c4009afd4133d06a",
+  "DFStringFlagRepoGitHashDynamicString": "0ab8d9db71beae90d78311e5c4009afd4133d06a",
+  "FStringFlipTimeStampFastString": "2023-06-29T23:44:11.514Z",
+  "DFStringFlipTimeStampDynamicString": "2023-06-29T23:44:11.514Z"
 }
