@@ -6053,6 +6053,7 @@
   "FFlagCOLLAB3906ReconnectNonDefaultWhenDisabled2": "True",
   "FFlagCOLLAB4044AddAlreadyReconnectedBeforeFieldToDisconnectTelemetry": "True",
   "DFIntSimFluidSessionStatsHundredthsPercentage_Rollout": "1000;60;2023-07-05T23:38:17",
+  "FFlagSimCSGV3UtilsInstanceTransform": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6372,8 +6373,8 @@
   "FFlagTrackDeeplinkLaunchFlow": "False",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FLogDataModelPatchAnalytics": "6",
-  "FStringFlagRepoGitHashFastString": "10991c8df8aa2c6d4c75554efaaf54825ce8cf7d",
-  "DFStringFlagRepoGitHashDynamicString": "10991c8df8aa2c6d4c75554efaaf54825ce8cf7d",
-  "FStringFlipTimeStampFastString": "2023-07-05T23:39:00.007Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-05T23:39:00.007Z"
+  "FStringFlagRepoGitHashFastString": "2b1cef1c7ea5a8a98fd1b1427053054080b58108",
+  "DFStringFlagRepoGitHashDynamicString": "2b1cef1c7ea5a8a98fd1b1427053054080b58108",
+  "FStringFlipTimeStampFastString": "2023-07-05T23:50:01.626Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-05T23:50:01.626Z"
 }
