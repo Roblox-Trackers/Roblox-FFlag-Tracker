@@ -5106,7 +5106,7 @@
   "FFlagFixPathsPropagationFromPatch": "True",
   "FFlagAssetConfigLayeredClothingBoxCollisions": "True",
   "FFlagAvatarBackgroundOverlayTransparencyFix": "True",
-  "FStringInGameMenuControlsForcedUserIds": "2585422222;3831379140;3851853258;2818205338;3573390774;3897391625;3897391625;3795310081;2570103006;166540505;531670163;3747048826;959520514;",
+  "FStringInGameMenuControlsForcedUserIds": "2585422222;2818205338;3573390774;3795310081;2570103006;166540505;531670163;3747048826;959520514;",
   "DFFlagEnumAttributes2": "True",
   "FFlagPlayersGetUserThumbnailAsyncReportsStatus2": "True",
   "FFlagReturnNotForSaleOnInvalidBundleId": "True",
@@ -6055,6 +6055,7 @@
   "DFIntSimFluidSessionStatsHundredthsPercentage": "1000",
   "FFlagPopupPluginQWidget": "True",
   "FFlagMaterialBindingPerfFix2": "True",
+  "FStringInGameMenuChromeForcedUserIds": "2585422222;3831379140;3851853258;2818205338;3573390774;3795310081;2570103006;166540505;531670163;3747048826;959520514;",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6311,8 +6312,8 @@
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
-  "FStringFlagRepoGitHashFastString": "c258e1bdfe028e0f56d24f046902cf9d3a5d2a24",
-  "DFStringFlagRepoGitHashDynamicString": "c258e1bdfe028e0f56d24f046902cf9d3a5d2a24",
-  "FStringFlipTimeStampFastString": "2023-07-06T02:02:25.710Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-06T02:02:25.710Z"
+  "FStringFlagRepoGitHashFastString": "d8d146479725d4a641abd262d420ae694f0383b6",
+  "DFStringFlagRepoGitHashDynamicString": "d8d146479725d4a641abd262d420ae694f0383b6",
+  "FStringFlipTimeStampFastString": "2023-07-06T16:31:59.139Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-06T16:31:59.139Z"
 }
