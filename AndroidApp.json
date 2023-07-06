@@ -6056,6 +6056,8 @@
   "FFlagSimCSGV3TriangleMeshPartGetConvexes": "True",
   "FFlagSimCSG3TreeEnableNewNormalize": "True",
   "FFlagSimAdaptiveTimesteppingDefault2_Rollout": "True;60;2023-07-06T17:05:04",
+  "FFlagSimLinearVelocitySpanningTreeFix_Rollout": "True;60;2023-07-06T17:27:41",
+  "FFlagPerformanceControlRemoveUseOfSetCurrentValue_Rollout": "True;30;2023-07-06T17:27:54",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6413,8 +6415,8 @@
   "FIntFriendsCarouselUserProfileApiRollout": "100",
   "FIntSocialTabUserProfileApiRollout": "100",
   "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "2000;30;2023-07-06T16:55:37",
-  "FStringFlagRepoGitHashFastString": "0e633ea2b24d79af8a782c941f2285be862cffb2",
-  "DFStringFlagRepoGitHashDynamicString": "0e633ea2b24d79af8a782c941f2285be862cffb2",
-  "FStringFlipTimeStampFastString": "2023-07-06T17:06:56.021Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-06T17:06:56.021Z"
+  "FStringFlagRepoGitHashFastString": "c2f635df00ac0d43a0a258091d2445d5a990ed67",
+  "DFStringFlagRepoGitHashDynamicString": "c2f635df00ac0d43a0a258091d2445d5a990ed67",
+  "FStringFlipTimeStampFastString": "2023-07-06T17:29:38.180Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-06T17:29:38.180Z"
 }
