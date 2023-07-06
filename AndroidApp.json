@@ -6069,9 +6069,6 @@
   "FFlagEnableWinAppCapabilityAcccessCheck_Rollout": "True;60;2023-07-06T22:34:40",
   "DFFlagGjkSatMargins": "True",
   "FFlagAssertDeletedTextureDataSane3": "True",
-  "DFFlagDebugSendTDigestDebugInfo": "True",
-  "FFlagEarlyCreateProfileTelemetry": "True",
-  "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6428,8 +6425,11 @@
   "FFlagLuaUseIdentityProtocolForPhoneUpsell": "True",
   "FIntFriendsCarouselUserProfileApiRollout": "100",
   "FIntSocialTabUserProfileApiRollout": "100",
-  "FStringFlagRepoGitHashFastString": "650e4a2960445f52af60deae1fda52ad6bb01225",
-  "DFStringFlagRepoGitHashDynamicString": "650e4a2960445f52af60deae1fda52ad6bb01225",
-  "FStringFlipTimeStampFastString": "2023-07-06T23:16:30.857Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-06T23:16:30.857Z"
+  "DFFlagDebugSendTDigestDebugInfo": "True",
+  "FFlagEarlyCreateProfileTelemetry": "True",
+  "FFlagReportFpsAndGfxQualityPercentiles": "True",
+  "FStringFlagRepoGitHashFastString": "1bde84d23231eb8cee5be73a5f5a81e2c5d80008",
+  "DFStringFlagRepoGitHashDynamicString": "1bde84d23231eb8cee5be73a5f5a81e2c5d80008",
+  "FStringFlipTimeStampFastString": "2023-07-06T23:21:14.305Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-06T23:21:14.305Z"
 }
