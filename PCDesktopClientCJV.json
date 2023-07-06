@@ -6069,6 +6069,9 @@
   "FFlagEnableWinAppCapabilityAcccessCheck_Rollout": "True;60;2023-07-06T22:34:40",
   "DFFlagGjkSatMargins": "True",
   "FFlagAssertDeletedTextureDataSane3": "True",
+  "DFFlagDebugSendTDigestDebugInfo": "True",
+  "FFlagEarlyCreateProfileTelemetry": "True",
+  "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6314,7 +6317,6 @@
   "FStringProfileQRPageFriendRequestBannerAccepted": "ProfileQRPageFriendRequestBannerAcceptedWindowsClient",
   "FStringProfileQRPageFriendRequestBannerDismissed": "ProfileQRPageFriendRequestBannerDismissedWindowsClient",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFIntReportBadGlyphProviderIdHundredthsPercent": "10000",
   "FStringDiscoverabilityModalLoadCounter": "DiscoverabilityModalLoadWindowsClient",
   "FStringProfileQR3DAvatarPageLoad": "ProfileQR3DAvatarPageLoadWindowsClient",
@@ -6326,8 +6328,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "3132e283a5c297dd12cdda26854a107c6c1a893d",
-  "DFStringFlagRepoGitHashDynamicString": "3132e283a5c297dd12cdda26854a107c6c1a893d",
-  "FStringFlipTimeStampFastString": "2023-07-06T23:08:59.646Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-06T23:08:59.646Z"
+  "FStringFlagRepoGitHashFastString": "bd59559d3e137b76c0483c6fd0d9ef8a52802306",
+  "DFStringFlagRepoGitHashDynamicString": "bd59559d3e137b76c0483c6fd0d9ef8a52802306",
+  "FStringFlipTimeStampFastString": "2023-07-06T23:14:44.280Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-06T23:14:44.280Z"
 }
