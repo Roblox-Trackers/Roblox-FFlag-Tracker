@@ -1340,7 +1340,7 @@
   "FIntStudioCookieMigrationVersion": "2",
   "DFFlagHaveToBeSure": "True",
   "FFlagUnanchorAccessoryOnGeneration": "True",
-  "FFlagACESaveRigWithAnimationBetaFeature": "True",
+  "FFlagACESaveRigWithAnimationBetaFeature": "False",
   "DFFlagExtraReadInstanceChecks": "True",
   "DFFlagLegacyRedundantPlayerCheckAnalytics": "True",
   "DFFlagAllowInboundConnectionToSoap": "True",
@@ -6079,6 +6079,7 @@
   "FFlagAvatarChatSubsessionAnalyticsV4": "True",
   "DFFlagExtraLoggingForCLI36936_2": "False",
   "AllowVideoPreRoll": "True",
+  "FFlagACESaveRigWithAnimation": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6329,8 +6330,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "9ae21d959afec5346770cb2d288fa2b48baf2440",
-  "DFStringFlagRepoGitHashDynamicString": "9ae21d959afec5346770cb2d288fa2b48baf2440",
-  "FStringFlipTimeStampFastString": "2023-07-07T18:45:49.715Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-07T18:45:49.715Z"
+  "FStringFlagRepoGitHashFastString": "beecee93e0658f86cbce2893d1298ea1a5e3705b",
+  "DFStringFlagRepoGitHashDynamicString": "beecee93e0658f86cbce2893d1298ea1a5e3705b",
+  "FStringFlipTimeStampFastString": "2023-07-07T18:46:59.411Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-07T18:46:59.411Z"
 }
