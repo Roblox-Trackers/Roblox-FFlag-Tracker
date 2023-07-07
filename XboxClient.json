@@ -6072,6 +6072,8 @@
   "FFlagEnableClientEventFields": "True",
   "FFlagTickProfileTelemetrySTOnlyInSessions": "True",
   "FFlagDeprecateProfileModule": "True",
+  "FFlagEnableDynamicHeadCostumeExtraAssets": "True",
+  "FStringDynamicHeadCostumeExtraAssets": "[{\"id\":11714033534,\"assetTypeId\":29},{\"id\":11714035598,\"assetTypeId\":30},{\"id\":11714037276,\"assetTypeId\":28},{\"id\":11714039415,\"assetTypeId\":31},{\"id\":11714041015,\"assetTypeId\":27}]",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6269,8 +6271,8 @@
   "FFlagMovePrerender_PlaceFilter": "False;7117492592",
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
-  "FStringFlagRepoGitHashFastString": "5ad88f1b88c8b56db50a6d3edd7b95881ef027bb",
-  "DFStringFlagRepoGitHashDynamicString": "5ad88f1b88c8b56db50a6d3edd7b95881ef027bb",
-  "FStringFlipTimeStampFastString": "2023-07-07T17:20:03.127Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-07T17:20:03.127Z"
+  "FStringFlagRepoGitHashFastString": "4c31820addefe7cfc15b539f8b4a9ed7a5acc866",
+  "DFStringFlagRepoGitHashDynamicString": "4c31820addefe7cfc15b539f8b4a9ed7a5acc866",
+  "FStringFlipTimeStampFastString": "2023-07-07T17:36:18.666Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-07T17:36:18.666Z"
 }
