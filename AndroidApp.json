@@ -687,7 +687,7 @@
   "FFlagLuauNonStrictByDefaultBetaFeature": "True",
   "FFlagLuaAppEnablePlayerSearchIXP2": "False",
   "DFIntInfluxReportingPackageAnalyticsHundrethsPercent": "10000",
-  "DFLogHttpTraceLight": "0",
+  "DFLogHttpTraceLight": "6",
   "DFLogHttpTraceLight_PlaceFilter": "12;4310476380;6847035264;6847034886;4465989351;4646472003;4310463616;6510868181;6510862058;6075083204;6075085184;2978696440;4050468028;5703355191;3885726701;4465989998;3994953548;4646475342;4646475570;6386112652;4465987684;4310464656;3383444582;4310478830;4646473427;5703353651;4465988196;3165900886;2727067538;4310463940",
   "FIntStudioPackagesPublishAnalyticsNumOfTopClassName": "10",
   "FFlagHumanoidSimulateNullptrCheck": "True",
@@ -6423,8 +6423,8 @@
   "FFlagEarlyCreateProfileTelemetry": "True",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFFlagPotentialFixToTDigestMutexCrash2": "True",
-  "FStringFlagRepoGitHashFastString": "2fb8339438b8a2889e11f766f9e70917795c8a11",
-  "DFStringFlagRepoGitHashDynamicString": "2fb8339438b8a2889e11f766f9e70917795c8a11",
-  "FStringFlipTimeStampFastString": "2023-07-07T19:04:50.603Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-07T19:04:50.603Z"
+  "FStringFlagRepoGitHashFastString": "e28f7beb944cd6f55b3e5ef0d3a8d187f782c4d5",
+  "DFStringFlagRepoGitHashDynamicString": "e28f7beb944cd6f55b3e5ef0d3a8d187f782c4d5",
+  "FStringFlipTimeStampFastString": "2023-07-07T20:59:49.962Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-07T20:59:49.962Z"
 }
