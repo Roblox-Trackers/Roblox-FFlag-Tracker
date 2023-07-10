@@ -5673,7 +5673,7 @@
   "FFlagVoiceChatServiceManagerUseAvatarChat": "False",
   "FFlagVoiceChatServiceManagerUseAvatarChat_PlaceFilter": "True;10404927539;11444556552;12117075688;11701806268;12117237410;10057672346;12806190892;12806247258;12806262789;12806270326;12806279894;10787386927;12867018908;10001514317;12867047376;12867089300;11460402982;12500012844;11402255591;12796376276;12991298352;9793123004;13178556380;12123120785;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626;5064251723;13978152178",
   "FFlagAddEGSAgeRatingsToExperienceTile": "True",
-  "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "600",
+  "FIntLuaAppThrottleRefreshPlayabilityIntervalSeconds": "300",
   "FFlagAgeVerificationUpsellSeventeenPlus4": "True",
   "FFlagLuaAppAlwaysTryRefetchPlayability": "True",
   "FFlagSignalRCoreMetrics2": "True",
@@ -6334,8 +6334,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
-  "FStringFlagRepoGitHashFastString": "0ddd402640cbc10694d65eec14dca59cfc22c0e4",
-  "DFStringFlagRepoGitHashDynamicString": "0ddd402640cbc10694d65eec14dca59cfc22c0e4",
-  "FStringFlipTimeStampFastString": "2023-07-10T22:02:35.208Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-10T22:02:35.208Z"
+  "FStringFlagRepoGitHashFastString": "4288a7c5e4eec86ce2c60142e771e9a1e9de355d",
+  "DFStringFlagRepoGitHashDynamicString": "4288a7c5e4eec86ce2c60142e771e9a1e9de355d",
+  "FStringFlipTimeStampFastString": "2023-07-10T22:32:43.361Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-10T22:32:43.361Z"
 }
