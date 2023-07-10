@@ -6072,7 +6072,6 @@
   "FFlagFacialAnimationStreamingClearTrackImprovementsV2_PlaceFilter": "True;7449423635",
   "FFlagAddApolloClientToExperienceChat": "True",
   "FFlagExploreApiSortContentsMigrationIXP2": "True",
-  "DFFlagLogSystemSinkSupport2_Rollout": "True;60;2023-07-10T19:01:35",
   "FFlagLuauCloneCyclicUnions": "True",
   "DFFlagPerformanceControlAddSecondaryMetricsToApi": "True",
   "DFFlagHumanoidSimWorld_Rollout": "True;60;2023-07-10T21:01:28",
@@ -6081,6 +6080,7 @@
   "FFlagEnableSurveyTextCustomization": "True",
   "FFlagAppShellMutedErrorOnBadUserThumbnail": "True",
   "DFFlagReportOSInRakNetHighwaterMark_Rollout": "True;60;2023-07-10T21:56:00",
+  "DFFlagLogSystemSinkSupport2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6334,8 +6334,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
-  "FStringFlagRepoGitHashFastString": "a00dac77b6780e10f41da97771eedca4160f5ec8",
-  "DFStringFlagRepoGitHashDynamicString": "a00dac77b6780e10f41da97771eedca4160f5ec8",
-  "FStringFlipTimeStampFastString": "2023-07-10T21:56:49.761Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-10T21:56:49.761Z"
+  "FStringFlagRepoGitHashFastString": "0ddd402640cbc10694d65eec14dca59cfc22c0e4",
+  "DFStringFlagRepoGitHashDynamicString": "0ddd402640cbc10694d65eec14dca59cfc22c0e4",
+  "FStringFlipTimeStampFastString": "2023-07-10T22:02:35.208Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-10T22:02:35.208Z"
 }
