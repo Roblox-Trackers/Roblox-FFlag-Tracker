@@ -5840,7 +5840,7 @@
   "DFFlagSkipNullItemsProcessing": "True",
   "DFFlagAddAdditionalTagsEventIngest2": "True",
   "FFlagVector2MinMaxDefinitions": "True",
-  "FFlagSafeDataModelDestroy": "False",
+  "FFlagSafeDataModelDestroy": "True",
   "DFFlagNotifyUnderLockAdditional": "True",
   "FFlagEnableBacktraceForXboxAppShell": "True",
   "FFlagSetFilterButtonDefaultChild": "True",
@@ -6062,7 +6062,6 @@
   "DFFlagExtraLoggingForCLI36936_2": "False",
   "FFlagACESaveRigWithAnimation": "True",
   "FFlagUserFixOverlappingRtlChatMessages": "False",
-  "FFlagSafeDataModelDestroy_Rollout": "True;1;2023-07-10T16:09:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6264,8 +6263,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "3c624dd2516fe67cc0ff60a9de2739dcc087fb09",
-  "DFStringFlagRepoGitHashDynamicString": "3c624dd2516fe67cc0ff60a9de2739dcc087fb09",
-  "FStringFlipTimeStampFastString": "2023-07-10T16:22:13.955Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-10T16:22:13.955Z"
+  "FStringFlagRepoGitHashFastString": "6573b655059bce41d5319e6673c141ebbd52015c",
+  "DFStringFlagRepoGitHashDynamicString": "6573b655059bce41d5319e6673c141ebbd52015c",
+  "FStringFlipTimeStampFastString": "2023-07-10T17:12:21.904Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-10T17:12:21.904Z"
 }
