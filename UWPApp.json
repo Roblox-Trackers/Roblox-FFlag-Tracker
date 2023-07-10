@@ -6068,6 +6068,9 @@
   "FFlagHumanoidParallelSafeUnseat": "True",
   "FFlagHumanoidParallelFasterWakeUp": "True",
   "DFFlagPotentialFixToTDigestMutexCrash2": "True",
+  "FFlagFacialAnimationStreamingClearTrackImprovementsV2": "False",
+  "FFlagFacialAnimationStreamingClearTrackImprovementsV2_PlaceFilter": "True;74494236353",
+  "FFlagAddApolloClientToExperienceChat": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6266,8 +6269,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "00ec80749b343ccda34ee478bee93c911dab9166",
-  "DFStringFlagRepoGitHashDynamicString": "00ec80749b343ccda34ee478bee93c911dab9166",
-  "FStringFlipTimeStampFastString": "2023-07-10T17:32:44.611Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-10T17:32:44.611Z"
+  "FStringFlagRepoGitHashFastString": "24fbb9867f42b1f208dd004b5bff5d39cf96cb10",
+  "DFStringFlagRepoGitHashDynamicString": "24fbb9867f42b1f208dd004b5bff5d39cf96cb10",
+  "FStringFlipTimeStampFastString": "2023-07-10T17:37:11.788Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-10T17:37:11.788Z"
 }
