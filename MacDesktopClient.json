@@ -6067,6 +6067,7 @@
   "FFlagHumanoidParallelSafeCofmUpdate": "True",
   "FFlagHumanoidParallelSafeUnseat": "True",
   "FFlagHumanoidParallelFasterWakeUp": "True",
+  "DFFlagPotentialFixToTDigestMutexCrash2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6315,8 +6316,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "e49a2a634b7c74a82f206eb5322434c4136ab7c9",
-  "DFStringFlagRepoGitHashDynamicString": "e49a2a634b7c74a82f206eb5322434c4136ab7c9",
-  "FStringFlipTimeStampFastString": "2023-07-10T17:28:59.613Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-10T17:28:59.613Z"
+  "FStringFlagRepoGitHashFastString": "00ec80749b343ccda34ee478bee93c911dab9166",
+  "DFStringFlagRepoGitHashDynamicString": "00ec80749b343ccda34ee478bee93c911dab9166",
+  "FStringFlipTimeStampFastString": "2023-07-10T17:32:44.611Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-10T17:32:44.611Z"
 }
