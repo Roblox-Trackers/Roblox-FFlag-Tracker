@@ -6084,7 +6084,6 @@
   "DFFlagHumanoidSimWorld": "True",
   "DFFlagReportOSInRakNetHighwaterMark": "True",
   "DFFlagInitDataModelLater2": "True",
-  "DFFlagSaferHandles_Rollout": "True;60;2023-07-11T20:01:04",
   "FFlagWin32EarlyInitWebProtocol": "True",
   "DFLogAnimationStreamTrackTrace": "6",
   "DFLogEmoteOverFacsAnimatorTrace": "6",
@@ -6093,6 +6092,7 @@
   "DFIntAndroidAdviceChohortHundredthsPercent": "1000",
   "FFlagExplorerSafeStudioPMAccess": "True",
   "FFlagLODFixTriangleNumberCheck": "True",
+  "DFFlagSaferHandles": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6448,8 +6448,8 @@
   "DFFlagDebugSendTDigestDebugInfo": "False",
   "FFlagEarlyCreateProfileTelemetry": "True",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
-  "FStringFlagRepoGitHashFastString": "783ae79675e85386270eafd20bf3672e7b4582f9",
-  "DFStringFlagRepoGitHashDynamicString": "783ae79675e85386270eafd20bf3672e7b4582f9",
-  "FStringFlipTimeStampFastString": "2023-07-11T23:02:22.497Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-11T23:02:22.497Z"
+  "FStringFlagRepoGitHashFastString": "eadf702882ac25f3851c96b3893f4b7560625efd",
+  "DFStringFlagRepoGitHashDynamicString": "eadf702882ac25f3851c96b3893f4b7560625efd",
+  "FStringFlipTimeStampFastString": "2023-07-11T23:04:14.855Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-11T23:04:14.855Z"
 }
