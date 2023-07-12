@@ -5263,7 +5263,7 @@
   "DFIntAdGuiRandomizedRaycastLaunchPercentage2": "10000",
   "FFlagSelfViewDontHideOnSwapCharacter": "True",
   "FFlagDragDetectors1": "False",
-  "FFlagDragDetectors1_PlaceFilter": "True;13813805995;13735376863;13638384763;12981782010;10135698219;11314555671;13503219415;13049142488;12909041133;13477165541;13477146301;12445163038;13351825906;11814430535",
+  "FFlagDragDetectors1_PlaceFilter": "True;462997381;13813805995;13735376863;13638384763;12981782010;10135698219;11314555671;13503219415;13049142488;12909041133;13477165541;13477146301;12445163038;13351825906;11814430535",
   "FFlagCOLLAB3629EnableCloudEditControllerOnWakeTelemetry": "True",
   "FFlagStudioRemoveEmptySplitters": "True",
   "FFlagStudioRemoveEmptySplittersTopological": "True",
@@ -6127,6 +6127,7 @@
   "FFlagSoundSessionTelemetryNewParams": "True",
   "DFFlagSimVisualizeExplicitForces_Rollout": "True;60;2023-07-12T22:07:36",
   "FFlagImplementRequiresRestart_Rollout": "True;30;2023-07-12T22:08:01",
+  "FFlagLuaAppValidateUserIdIxp": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6381,8 +6382,8 @@
   "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "c5ab8b70d2ee42479be4cdb28a09fcdd9cd97a52",
-  "DFStringFlagRepoGitHashDynamicString": "c5ab8b70d2ee42479be4cdb28a09fcdd9cd97a52",
-  "FStringFlipTimeStampFastString": "2023-07-12T22:13:56.094Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-12T22:13:56.094Z"
+  "FStringFlagRepoGitHashFastString": "ad9a05093d0ff56b0f04138bf7c084f5952e217f",
+  "DFStringFlagRepoGitHashDynamicString": "ad9a05093d0ff56b0f04138bf7c084f5952e217f",
+  "FStringFlipTimeStampFastString": "2023-07-12T22:25:09.637Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-12T22:25:09.637Z"
 }
