@@ -6102,6 +6102,8 @@
   "FFlagUIBloxEnableTileOverlayFix": "True",
   "FFlagContentProviderFixVideoPreload": "True",
   "DFLogFaceAnimatorThreadingTrace": "6",
+  "FFlagGuiStateTransitionFromPressedToHoverAfterButtonReleased2": "True",
+  "FFlagSelectedInputOnButtonsActivateStateChanges": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6423,8 +6425,8 @@
   "DFFlagDebugSendTDigestDebugInfo": "False",
   "FFlagEarlyCreateProfileTelemetry": "True",
   "FFlagReportFpsAndGfxQualityPercentiles": "False",
-  "FStringFlagRepoGitHashFastString": "b9d1223ece5063a5355060219d24c04d1f2aaf20",
-  "DFStringFlagRepoGitHashDynamicString": "b9d1223ece5063a5355060219d24c04d1f2aaf20",
-  "FStringFlipTimeStampFastString": "2023-07-12T21:08:33.791Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-12T21:08:33.791Z"
+  "FStringFlagRepoGitHashFastString": "c0eee3518499d1bf238f240a46e7e8c48d487740",
+  "DFStringFlagRepoGitHashDynamicString": "c0eee3518499d1bf238f240a46e7e8c48d487740",
+  "FStringFlipTimeStampFastString": "2023-07-12T21:12:32.767Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-12T21:12:32.767Z"
 }
