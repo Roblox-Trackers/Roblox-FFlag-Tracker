@@ -6133,6 +6133,8 @@
   "FFlagFixMultistreamVertexStride_Rollout": "True;60;2023-07-12T22:27:49",
   "FFlagBootcampCLI74247": "True",
   "FFlagDragDetectorCancelImprovements_Rollout": "True;60;2023-07-12T22:39:13",
+  "FFlagLuaAppSendCreatorQueryParams": "True",
+  "FFlagLuaAppSendBtidInCreatorQueryParams": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6331,8 +6333,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "923c56dde54d2db4a2631d6537a6466976a4fd5a",
-  "DFStringFlagRepoGitHashDynamicString": "923c56dde54d2db4a2631d6537a6466976a4fd5a",
-  "FStringFlipTimeStampFastString": "2023-07-12T22:40:00.945Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-12T22:40:00.945Z"
+  "FStringFlagRepoGitHashFastString": "2dbdb0f72296d6e577eeb8c0da67bd6e39ed497d",
+  "DFStringFlagRepoGitHashDynamicString": "2dbdb0f72296d6e577eeb8c0da67bd6e39ed497d",
+  "FStringFlipTimeStampFastString": "2023-07-12T22:40:51.738Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-12T22:40:51.738Z"
 }
