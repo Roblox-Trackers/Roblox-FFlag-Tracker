@@ -6115,6 +6115,7 @@
   "FIntSoundSessionTelemetryThrottle": "100",
   "FFlagComponentizeLoginManager": "True",
   "FFlagBootcampCLI72542_Rollout": "True;60;2023-07-12T21:31:50",
+  "FFlagReportAnythingFixDefaultAnalytics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6470,8 +6471,8 @@
   "DFFlagDebugSendTDigestDebugInfo": "False",
   "FFlagEarlyCreateProfileTelemetry": "True",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
-  "FStringFlagRepoGitHashFastString": "160f77878008e11ce54047ef2499c8e1859b2620",
-  "DFStringFlagRepoGitHashDynamicString": "160f77878008e11ce54047ef2499c8e1859b2620",
-  "FStringFlipTimeStampFastString": "2023-07-12T21:32:38.630Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-12T21:32:38.630Z"
+  "FStringFlagRepoGitHashFastString": "873e909f5ed51284d8364290c6f1eb311d55abf2",
+  "DFStringFlagRepoGitHashDynamicString": "873e909f5ed51284d8364290c6f1eb311d55abf2",
+  "FStringFlipTimeStampFastString": "2023-07-12T21:35:38.363Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-12T21:35:38.363Z"
 }
