@@ -6184,6 +6184,7 @@
   "DFFlagOverrideDefaultRCCJobHeartbeat": "True",
   "DFFlagCheckDeferredNOUValid": "True",
   "FFlagActivationDistanceCharacterFix": "True",
+  "FFlagSignalRNotificationManagerMaybeStart": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6438,8 +6439,8 @@
   "FFlagPassKeyValuesToSessionTrackingWithMap": "False",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "acdedc166f70569c2a2247e6fc9a5a2ae940b4a0",
-  "DFStringFlagRepoGitHashDynamicString": "acdedc166f70569c2a2247e6fc9a5a2ae940b4a0",
-  "FStringFlipTimeStampFastString": "2023-07-13T22:03:03.010Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-13T22:03:03.010Z"
+  "FStringFlagRepoGitHashFastString": "c17976b279b1198d135a7147438d25c5212b6943",
+  "DFStringFlagRepoGitHashDynamicString": "c17976b279b1198d135a7147438d25c5212b6943",
+  "FStringFlipTimeStampFastString": "2023-07-13T22:18:47.632Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-13T22:18:47.632Z"
 }
