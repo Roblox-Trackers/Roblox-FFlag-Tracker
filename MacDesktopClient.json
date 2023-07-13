@@ -6177,6 +6177,9 @@
   "DFFlagInferredMobileSuccess": "True",
   "FFlagDeprecateScriptingManagerSettingQSignal": "True",
   "FFlagPreloadAsyncAssetFormat": "True",
+  "FFlagMaquettesDisableScreenRotation": "True",
+  "FFlagVRFixMissingCursor": "True",
+  "FFlagVRDisableGamepadCursor": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6425,8 +6428,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "2919018e82cfd03ec6923558656424bc4d4e450f",
-  "DFStringFlagRepoGitHashDynamicString": "2919018e82cfd03ec6923558656424bc4d4e450f",
-  "FStringFlipTimeStampFastString": "2023-07-13T21:30:36.689Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-13T21:30:36.689Z"
+  "FStringFlagRepoGitHashFastString": "9ec823ae8dca638c1f812b01b1b9e28050b8b88a",
+  "DFStringFlagRepoGitHashDynamicString": "9ec823ae8dca638c1f812b01b1b9e28050b8b88a",
+  "FStringFlipTimeStampFastString": "2023-07-13T21:37:39.990Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-13T21:37:39.990Z"
 }
