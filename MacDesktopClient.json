@@ -6155,9 +6155,6 @@
   "FFlagStudioDebuggerEnableTemporaryBreakpoints": "True",
   "FFlagCOLLAB2847SelectGroupForPublish": "True",
   "FFlagAddFriendsRecRowsUseFInt": "True",
-  "DFFlagOverrideDefaultRCCJobHeartbeat_Rollout": "True;60;2023-07-13T19:24:05",
-  "FFlagActivationDistanceCharacterFix_Rollout": "True;60;2023-07-13T19:41:03",
-  "DFFlagCheckDeferredNOUValid_Rollout": "True;60;2023-07-13T19:52:34",
   "DFFlagPerformanceControlFixLastUpdatedField": "True",
   "FFlagBootcampCLI74431": "True",
   "DFFlagPopulateDurangoSystemRam": "False",
@@ -6184,6 +6181,9 @@
   "FFlagDFAddSpecialSizingIntoGrid": "True",
   "UseMaquettesForcedUpgradeFlow": "True",
   "DFFlagStreamingSolverDestructorRaw_Rollout": "True;60;2023-07-13T21:57:12",
+  "DFFlagOverrideDefaultRCCJobHeartbeat": "True",
+  "DFFlagCheckDeferredNOUValid": "True",
+  "FFlagActivationDistanceCharacterFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6432,8 +6432,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "a126a2f6a8ec4a2fa2b726a845e11952c065422a",
-  "DFStringFlagRepoGitHashDynamicString": "a126a2f6a8ec4a2fa2b726a845e11952c065422a",
-  "FStringFlipTimeStampFastString": "2023-07-13T21:57:47.265Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-13T21:57:47.265Z"
+  "FStringFlagRepoGitHashFastString": "acdedc166f70569c2a2247e6fc9a5a2ae940b4a0",
+  "DFStringFlagRepoGitHashDynamicString": "acdedc166f70569c2a2247e6fc9a5a2ae940b4a0",
+  "FStringFlipTimeStampFastString": "2023-07-13T22:03:03.010Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-13T22:03:03.010Z"
 }
