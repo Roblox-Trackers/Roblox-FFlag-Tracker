@@ -6169,6 +6169,8 @@
   "DFFlagPopulateDurangoSystemRam": "False",
   "FFlagFixRichTextUpdateFont": "True",
   "DFFlagVideoFixTimePositionNotSaved": "True",
+  "DFFlagVideoFixPlayingInEditMode": "True",
+  "FFlagEnableLuaPhoneVerificationExperimentRelease2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6528,8 +6530,8 @@
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4924922222",
   "DFFlagFixSessionTrackingSendSuccess": "False",
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4924922222",
-  "FStringFlagRepoGitHashFastString": "1c0405f43cfea190d99c391479c3320b030e0e83",
-  "DFStringFlagRepoGitHashDynamicString": "1c0405f43cfea190d99c391479c3320b030e0e83",
-  "FStringFlipTimeStampFastString": "2023-07-13T20:15:55.406Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-13T20:15:55.406Z"
+  "FStringFlagRepoGitHashFastString": "de1e83dd7b7d14c693cd7ca6c50b2f755f169136",
+  "DFStringFlagRepoGitHashDynamicString": "de1e83dd7b7d14c693cd7ca6c50b2f755f169136",
+  "FStringFlipTimeStampFastString": "2023-07-13T20:16:46.508Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-13T20:16:46.508Z"
 }
