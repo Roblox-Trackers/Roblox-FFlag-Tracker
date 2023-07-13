@@ -6084,8 +6084,8 @@
   "DFFlagReportOSInRakNetHighwaterMark": "True",
   "DFFlagInitDataModelLater2": "True",
   "FFlagWin32EarlyInitWebProtocol": "True",
-  "DFLogAnimationStreamTrackTrace": "6",
-  "DFLogEmoteOverFacsAnimatorTrace": "6",
+  "DFLogAnimationStreamTrackTrace": "0",
+  "DFLogEmoteOverFacsAnimatorTrace": "0",
   "DFFlagIncludeAndroidAdviceAPIFreeOsMemForComparisonForSessionTracking2": "True",
   "DFFlagUseAndroidMemoryAdviceLibrary2": "True",
   "DFIntAndroidAdviceChohortHundredthsPercent": "1000",
@@ -6143,6 +6143,8 @@
   "FFlagStudioAddPluginLogs": "True",
   "DFFlagPopulateDurangoSystemRam_Rollout": "True;60;2023-07-13T16:16:23",
   "FFlagAdFlagTowardConstants_Rollout": "True;60;2023-07-13T16:30:17",
+  "DFLogAnimationStreamTrackTrace_PlaceFilter": "6;2753915549",
+  "DFLogEmoteOverFacsAnimatorTrace_PlaceFilter": "6;2753915549",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6391,8 +6393,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "545da6da4bee233c0eaadd999da63c94c868abcc",
-  "DFStringFlagRepoGitHashDynamicString": "545da6da4bee233c0eaadd999da63c94c868abcc",
-  "FStringFlipTimeStampFastString": "2023-07-13T16:31:19.509Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-13T16:31:19.509Z"
+  "FStringFlagRepoGitHashFastString": "08b734c7d2dfbff9fc67709e4cd79b1b5304d3fe",
+  "DFStringFlagRepoGitHashDynamicString": "08b734c7d2dfbff9fc67709e4cd79b1b5304d3fe",
+  "FStringFlipTimeStampFastString": "2023-07-13T16:32:41.848Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-13T16:32:41.848Z"
 }
