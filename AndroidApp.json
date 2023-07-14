@@ -6179,7 +6179,7 @@
   "FFlagVRDisableGamepadCursor": "True",
   "FFlagDFAddSpecialSizingIntoGrid": "True",
   "UseMaquettesForcedUpgradeFlow": "True",
-  "DFFlagOverrideDefaultRCCJobHeartbeat": "True",
+  "DFFlagOverrideDefaultRCCJobHeartbeat": "False",
   "DFFlagCheckDeferredNOUValid": "True",
   "FFlagActivationDistanceCharacterFix": "True",
   "FFlagSignalRNotificationManagerMaybeStart": "True",
@@ -6546,8 +6546,8 @@
   "DFFlagDebugSendTDigestDebugInfo": "False",
   "FFlagEarlyCreateProfileTelemetry": "True",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
-  "FStringFlagRepoGitHashFastString": "6445f4d6c1ef2e32c9a489cf78dea43d044a96a4",
-  "DFStringFlagRepoGitHashDynamicString": "6445f4d6c1ef2e32c9a489cf78dea43d044a96a4",
-  "FStringFlipTimeStampFastString": "2023-07-14T16:44:12.568Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-14T16:44:12.568Z"
+  "FStringFlagRepoGitHashFastString": "92de9a7a1c61969b044a87587cc57b11a5f2ae91",
+  "DFStringFlagRepoGitHashDynamicString": "92de9a7a1c61969b044a87587cc57b11a5f2ae91",
+  "FStringFlipTimeStampFastString": "2023-07-14T16:50:30.257Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-14T16:50:30.257Z"
 }
