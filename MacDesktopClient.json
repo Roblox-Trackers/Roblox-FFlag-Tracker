@@ -6139,7 +6139,6 @@
   "FFlagDataModelPatchBackgroundLoad2": "True",
   "AndroidDetectDeadCode": "True",
   "FFlagEnableFullPageSafeSizeFix": "True",
-  "FFlagDevFrameworkShimmerImprovements": "True",
   "FFlagGetPrivateServerIdRemoteFunctionEnabled": "False",
   "FFlagGetPrivateServerIdRemoteFunctionEnabled_PlaceFilter": "True;11402255591;11460402982;12444504875;12796376276;13989579574;12500012844;14030887154",
   "FFlagDevFrameworkButtonRightClick": "True",
@@ -6186,6 +6185,7 @@
   "FFlagSimSolverGeometricStiffness3_PlaceFilter": "False;6214255393;7027922660;9133022367",
   "FFlagAddFriendsMoveExposureLayer": "True",
   "FFlagEnableMOAForNonVoiceUsers": "True",
+  "FFlagTerrainToolsFixDrag": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6434,8 +6434,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "7e078fa175cbcd407293ffdc14607afdc16adf8a",
-  "DFStringFlagRepoGitHashDynamicString": "7e078fa175cbcd407293ffdc14607afdc16adf8a",
-  "FStringFlipTimeStampFastString": "2023-07-14T17:44:29.990Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-14T17:44:29.990Z"
+  "FStringFlagRepoGitHashFastString": "63f613aca690162c4b366914c82d7746070a0487",
+  "DFStringFlagRepoGitHashDynamicString": "63f613aca690162c4b366914c82d7746070a0487",
+  "FStringFlipTimeStampFastString": "2023-07-14T18:11:39.251Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-14T18:11:39.251Z"
 }
