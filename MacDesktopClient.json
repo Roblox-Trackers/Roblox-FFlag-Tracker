@@ -4513,7 +4513,7 @@
   "FFlagDisableLodsForSkinnedMeshes": "True",
   "FFlagExtraProfileTelemetryStatisticsStoreInitialVal": "True",
   "FFlagFixListLayoutMinSizeCalc": "True",
-  "FFlagReportAnythingAnnotationIXP": "False",
+  "FFlagReportAnythingAnnotationIXP": "True",
   "FFlagFixFlaggingUseSingleLayoutForRichText5": "True",
   "FFlagRemoveMemoryApsGpu": "True",
   "FFlagUnifyGamePlayIntentEvent": "True",
@@ -6190,6 +6190,7 @@
   "DFFlagSimReportWorldEnableFluidForcesDuringStep": "True",
   "FFlagSimSolverGeometricStiffness3_PlaceFilter": "False;6214255393;7027922660;9133022367",
   "FFlagAddFriendsMoveExposureLayer": "True",
+  "FFlagEnableMOAForNonVoiceUsers": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6438,8 +6439,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "b2603dc01f73541673a9abb8421eabce83e71125",
-  "DFStringFlagRepoGitHashDynamicString": "b2603dc01f73541673a9abb8421eabce83e71125",
-  "FStringFlipTimeStampFastString": "2023-07-14T16:33:34.856Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-14T16:33:34.856Z"
+  "FStringFlagRepoGitHashFastString": "97c330f6ce6e259bed9bb16af635d65ac7a5ae06",
+  "DFStringFlagRepoGitHashDynamicString": "97c330f6ce6e259bed9bb16af635d65ac7a5ae06",
+  "FStringFlipTimeStampFastString": "2023-07-14T16:38:57.207Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-14T16:38:57.207Z"
 }
