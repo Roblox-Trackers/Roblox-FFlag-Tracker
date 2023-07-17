@@ -6194,6 +6194,7 @@
   "DFIntSimFluidSaveOrPublishStatsHundredthsPercentage": "10000",
   "FIntCoreScriptBacktraceRepeatedErrorRateLimitCount": "1",
   "FIntCoreScriptBacktraceRepeatedErrorRateLimitPeriod": "3600",
+  "FFlagStudioDebuggerCheckStackForTemporaryBreakpoint_Rollout": "True;60;2023-07-17T20:02:04",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6442,8 +6443,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "04ced4228d539201517277accb90ae89b18856aa",
-  "DFStringFlagRepoGitHashDynamicString": "04ced4228d539201517277accb90ae89b18856aa",
-  "FStringFlipTimeStampFastString": "2023-07-17T20:00:12.396Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-17T20:00:12.396Z"
+  "FStringFlagRepoGitHashFastString": "f41ea85343718e7d8897cf1d9a695dde7e722fce",
+  "DFStringFlagRepoGitHashDynamicString": "f41ea85343718e7d8897cf1d9a695dde7e722fce",
+  "FStringFlipTimeStampFastString": "2023-07-17T20:02:55.166Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-17T20:02:55.166Z"
 }
