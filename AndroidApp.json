@@ -6203,6 +6203,8 @@
   "FFlagEnableSocialServiceIrisInviteV2_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376",
   "DFFlagSimTouchCollector5_PlaceFilter": "False;574407221;7234652571;7346416636;6104994594;5275822877;6554355181",
   "DFFlagSimTouchProtocol2_PlaceFilter": "False;574407221;7234652571;7346416636;6104994594;5275822877;6554355181",
+  "DFFlagCleanUpFacsOwnedByReplicatorOnDisconnect": "False",
+  "DFFlagCleanUpFacsOwnedByReplicatorOnDisconnect_PlaceFilter": "True;8473959225",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6558,8 +6560,8 @@
   "DFFlagDebugSendTDigestDebugInfo": "False",
   "FFlagEarlyCreateProfileTelemetry": "True",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
-  "FStringFlagRepoGitHashFastString": "ed1d336a1deecffb5916de07c55b85849e611b9c",
-  "DFStringFlagRepoGitHashDynamicString": "ed1d336a1deecffb5916de07c55b85849e611b9c",
-  "FStringFlipTimeStampFastString": "2023-07-19T20:07:10.406Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-19T20:07:10.406Z"
+  "FStringFlagRepoGitHashFastString": "c4c62790e722ac2bc1fadc75228d715d377aea61",
+  "DFStringFlagRepoGitHashDynamicString": "c4c62790e722ac2bc1fadc75228d715d377aea61",
+  "FStringFlipTimeStampFastString": "2023-07-19T20:19:09.623Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-19T20:19:09.623Z"
 }
