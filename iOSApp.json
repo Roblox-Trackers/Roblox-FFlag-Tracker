@@ -6210,6 +6210,10 @@
   "FFlagFacialAnimationStreamingDisableLipsyncForVRUser_PlaceFilter": "False;1502435445;13546429058",
   "DFFlagAvatarChatServiceUserPermissionsAudioEligible_PlaceFilter": "False;14203104746",
   "DFFlagAvatarChatServiceUserPermissionsAudioOptIn_PlaceFilter": "False;14203104746",
+  "DFFlagSerializeAssetsForPublishPrompt2": "False",
+  "DFFlagSerializeAssetsForPublishPrompt2_PlaceFilter": "True;12334418042;12992503026",
+  "FFlagNewInExperienceSerializationFix": "False",
+  "FFlagNewInExperienceSerializationFix_PlaceFilter": "True;12334418042;12992503026",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6531,8 +6535,8 @@
   "DFFlagDebugSendTDigestDebugInfo": "False",
   "FFlagEarlyCreateProfileTelemetry": "True",
   "FFlagReportFpsAndGfxQualityPercentiles": "False",
-  "FStringFlagRepoGitHashFastString": "406ce5ab143ace7b4a1efdcd964e2f4666d59915",
-  "DFStringFlagRepoGitHashDynamicString": "406ce5ab143ace7b4a1efdcd964e2f4666d59915",
-  "FStringFlipTimeStampFastString": "2023-07-26T20:12:53.538Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-26T20:12:53.538Z"
+  "FStringFlagRepoGitHashFastString": "1245d1d6a29246950bb59bb4d3dd16f74766cd6b",
+  "DFStringFlagRepoGitHashDynamicString": "1245d1d6a29246950bb59bb4d3dd16f74766cd6b",
+  "FStringFlipTimeStampFastString": "2023-07-26T20:23:09.563Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-26T20:23:09.563Z"
 }
