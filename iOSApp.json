@@ -6239,6 +6239,7 @@
   "FFlagLuauTarjanSingleArr_Rollout": "True;60;2023-07-26T21:40:35",
   "MaquettesSpecificDiagCrashReporting": "True",
   "FFlagUpgradeExpChatV4_0_0": "True",
+  "DFFlagDetectMultipleJoinsForTheSamePlaceID_Rollout": "True;30;2023-07-26T21:50:30",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6562,8 +6563,9 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "False",
   "FFlagEnableDMInitMeasurement": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "10000;30;2023-07-26T21:07:34",
-  "FStringFlagRepoGitHashFastString": "6f3350cc8e5c94aec90c1b73270bd1689256fafc",
-  "DFStringFlagRepoGitHashDynamicString": "6f3350cc8e5c94aec90c1b73270bd1689256fafc",
-  "FStringFlipTimeStampFastString": "2023-07-26T21:51:10.560Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-26T21:51:10.560Z"
+  "DFFlagEnableBatchLogEvents_Rollout": "True;30;2023-07-26T21:50:34",
+  "FStringFlagRepoGitHashFastString": "b443f72fae8e4a0d7a2eb74f4a517b50b132e1b6",
+  "DFStringFlagRepoGitHashDynamicString": "b443f72fae8e4a0d7a2eb74f4a517b50b132e1b6",
+  "FStringFlipTimeStampFastString": "2023-07-26T21:52:22.244Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-26T21:52:22.244Z"
 }
