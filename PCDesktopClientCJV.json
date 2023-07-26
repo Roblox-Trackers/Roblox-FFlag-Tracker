@@ -6227,6 +6227,7 @@
   "FFlagFixFetchNextOmniWithoutPageToken3": "True",
   "FFlagOmniLoadMoreHeuristicMount2": "True",
   "FFlagEnablePhoneUseProvidedDefaultPrefixRelease1": "True",
+  "FFlagPerformanceControlIXPIntegrationEnabled5_Rollout": "True;30;2023-07-26T21:24:12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6483,8 +6484,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f04608e9f657de3d8ebaf6813ffd7bc2ef9b3731",
-  "DFStringFlagRepoGitHashDynamicString": "f04608e9f657de3d8ebaf6813ffd7bc2ef9b3731",
-  "FStringFlipTimeStampFastString": "2023-07-26T21:26:00.104Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-26T21:26:00.104Z"
+  "FStringFlagRepoGitHashFastString": "3a159ab0adbd5fb2ba1f62051d9b8e554a4e50ca",
+  "DFStringFlagRepoGitHashDynamicString": "3a159ab0adbd5fb2ba1f62051d9b8e554a4e50ca",
+  "FStringFlipTimeStampFastString": "2023-07-26T21:26:30.971Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-26T21:26:30.971Z"
 }
