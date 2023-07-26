@@ -77,7 +77,7 @@
   "DFIntChatTime": "10",
   "DFIntClientJoinProcessPositiveSamplesThousandths": "10",
   "DFIntClientJoinProcessPositiveSamplesThousandths_PlaceFilter": "1000;3027055174;3917136599;2291717546",
-  "DFIntClientNetworkInfluxHundredthsPercentage": "500",
+  "DFIntClientNetworkInfluxHundredthsPercentage": "250",
   "DFIntClientReportLuaConnectionSignalsInfluxHundrethsPercentage": "10000",
   "DFIntClientSendEventStringDataLimitBytes": "100000000",
   "DFIntClientSendEventVariantCountLimit": "5000000",
@@ -1342,7 +1342,6 @@
   "DFFlagExtraReadInstanceChecks": "True",
   "DFFlagLegacyRedundantPlayerCheckAnalytics": "True",
   "DFFlagAllowInboundConnectionToSoap": "True",
-  "DFIntClientNetworkInfluxHundredthsPercentage_PlaceFilter": "1000;9281971995;7665856814",
   "FFlagCloudsFixStereoProjection": "True",
   "FFlagLogCreateHumanoidModelFailures": "True",
   "FFlagAXInitializationMutedError": "False",
@@ -6233,6 +6232,7 @@
   "FFlagToolboxFixAssetPreviewsWithRoact17": "True",
   "FFlagToolboxMigrateToRoact17": "True",
   "FFlagToolboxPrepForRoact17Migration4": "True",
+  "DFFlagSplitDisconnectGraphForTC_Rollout": "True;60;2023-07-26T21:32:52",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6431,8 +6431,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "cb004326c88fc1e640b397383926e9a3ded8774a",
-  "DFStringFlagRepoGitHashDynamicString": "cb004326c88fc1e640b397383926e9a3ded8774a",
-  "FStringFlipTimeStampFastString": "2023-07-26T21:28:03.803Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-26T21:28:03.803Z"
+  "FStringFlagRepoGitHashFastString": "5f29e6e0455aaa1504a8c54c03c290627d38807f",
+  "DFStringFlagRepoGitHashDynamicString": "5f29e6e0455aaa1504a8c54c03c290627d38807f",
+  "FStringFlipTimeStampFastString": "2023-07-26T21:34:22.640Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-26T21:34:22.640Z"
 }
