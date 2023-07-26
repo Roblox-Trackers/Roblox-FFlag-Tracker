@@ -5584,8 +5584,8 @@
   "COLLAB3769FixStudioHang": "True",
   "FFlagEmoteUtilityDontUseC1ToPose2": "True",
   "FFlagACEUploadSuccessEvent": "True",
-  "FFlagLuaAppInfiniteHomePage3": "False",
-  "FFlagLuaAppInfiniteHomeSortlessGrid2": "False",
+  "FFlagLuaAppInfiniteHomePage3": "True",
+  "FFlagLuaAppInfiniteHomeSortlessGrid2": "True",
   "DFIntSpatialHashAllocCount": "1",
   "DFIntImmersiveAdInvalidTeleportPlaceIdEventThrottleHundrethsPercent": "10000",
   "EnableMaquettesKeyboardHeuristicFix": "True",
@@ -6224,6 +6224,9 @@
   "FFlagWidgetHydrationOptimization": "True",
   "FIntWidgetsNumItemsToHydrate": "30",
   "FFlagFixOomBoxForSingleAndDualSurfaceApp_Rollout": "True;30;2023-07-26T21:17:43",
+  "FFlagFixFetchNextOmniWithoutPageToken3": "True",
+  "FFlagOmniLoadMoreHeuristicMount2": "True",
+  "FFlagEnablePhoneUseProvidedDefaultPrefixRelease1": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6422,8 +6425,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "f4e0f72fcd75e4822f25a62d3e66cbf7682d62df",
-  "DFStringFlagRepoGitHashDynamicString": "f4e0f72fcd75e4822f25a62d3e66cbf7682d62df",
-  "FStringFlipTimeStampFastString": "2023-07-26T21:21:27.655Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-26T21:21:27.655Z"
+  "FStringFlagRepoGitHashFastString": "f04608e9f657de3d8ebaf6813ffd7bc2ef9b3731",
+  "DFStringFlagRepoGitHashDynamicString": "f04608e9f657de3d8ebaf6813ffd7bc2ef9b3731",
+  "FStringFlipTimeStampFastString": "2023-07-26T21:26:00.104Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-26T21:26:00.104Z"
 }
