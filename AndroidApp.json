@@ -4243,7 +4243,7 @@
   "FFlagLuaAppIntegrateGameGridTable3": "True",
   "FFlagUpdateFeaturedTile": "True",
   "FFlagPlayersGetUserThumbnailAsyncReportsStatus": "True",
-  "DFFlagRbxtempForBuffer2": "False",
+  "DFFlagRbxtempForBuffer2": "True",
   "FFlagCastEventGameTypeIdToString": "True",
   "FFlagFacialAnimationShowcaseFacsMirroringFix": "True",
   "FFlagLookForPlayerAndStreamSource": "True",
@@ -6245,6 +6245,8 @@
   "FFlagOmniLoadMoreHeuristicMount2": "True",
   "FFlagEnableShareImageIOS": "True",
   "FFlagGetReportAdInfo": "True",
+  "DFFlagEnableReportAnythingAdsApi": "True",
+  "FIntPlayerListUserProfileApiRollout": "50",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6602,8 +6604,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "5000;30;2023-07-27T16:36:04",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedAndroid",
-  "FStringFlagRepoGitHashFastString": "f67d4eaa33564b790aed09bcf610695534bd757b",
-  "DFStringFlagRepoGitHashDynamicString": "f67d4eaa33564b790aed09bcf610695534bd757b",
-  "FStringFlipTimeStampFastString": "2023-07-27T17:12:36.070Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T17:12:36.070Z"
+  "FStringFlagRepoGitHashFastString": "e7a666c38e0f4cac509d2a8febeddc4cfea5c5ab",
+  "DFStringFlagRepoGitHashDynamicString": "e7a666c38e0f4cac509d2a8febeddc4cfea5c5ab",
+  "FStringFlipTimeStampFastString": "2023-07-27T17:15:50.189Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T17:15:50.189Z"
 }
