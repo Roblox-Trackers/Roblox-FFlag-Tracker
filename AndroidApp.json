@@ -5582,8 +5582,8 @@
   "COLLAB3769FixStudioHang": "True",
   "FFlagEmoteUtilityDontUseC1ToPose2": "True",
   "FFlagACEUploadSuccessEvent": "True",
-  "FFlagLuaAppInfiniteHomePage3": "False",
-  "FFlagLuaAppInfiniteHomeSortlessGrid2": "False",
+  "FFlagLuaAppInfiniteHomePage3": "True",
+  "FFlagLuaAppInfiniteHomeSortlessGrid2": "True",
   "DFIntSpatialHashAllocCount": "1",
   "DFIntImmersiveAdInvalidTeleportPlaceIdEventThrottleHundrethsPercent": "10000",
   "EnableMaquettesKeyboardHeuristicFix": "True",
@@ -6241,6 +6241,8 @@
   "FFlagPlayerListApolloClientEnabled_v1": "True",
   "FFlagUpgradeExpChatV4_0_0": "True",
   "DFFlagSplitDisconnectGraphForTC_Rollout": "True;60;2023-07-27T17:00:35",
+  "FFlagFixFetchNextOmniWithoutPageToken3": "True",
+  "FFlagOmniLoadMoreHeuristicMount2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6598,8 +6600,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "5000;30;2023-07-27T16:36:04",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedAndroid",
-  "FStringFlagRepoGitHashFastString": "4953e54f130dc2ce7a1441993f8602ec003fa82b",
-  "DFStringFlagRepoGitHashDynamicString": "4953e54f130dc2ce7a1441993f8602ec003fa82b",
-  "FStringFlipTimeStampFastString": "2023-07-27T17:02:29.595Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T17:02:29.595Z"
+  "FStringFlagRepoGitHashFastString": "c548d297e3c2d3c74fe7071d02880a7d5b2d7962",
+  "DFStringFlagRepoGitHashDynamicString": "c548d297e3c2d3c74fe7071d02880a7d5b2d7962",
+  "FStringFlipTimeStampFastString": "2023-07-27T17:06:40.342Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T17:06:40.342Z"
 }

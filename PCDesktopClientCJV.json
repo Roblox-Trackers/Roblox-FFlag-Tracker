@@ -5582,8 +5582,8 @@
   "COLLAB3769FixStudioHang": "True",
   "FFlagEmoteUtilityDontUseC1ToPose2": "True",
   "FFlagACEUploadSuccessEvent": "True",
-  "FFlagLuaAppInfiniteHomePage3": "False",
-  "FFlagLuaAppInfiniteHomeSortlessGrid2": "False",
+  "FFlagLuaAppInfiniteHomePage3": "True",
+  "FFlagLuaAppInfiniteHomeSortlessGrid2": "True",
   "DFIntSpatialHashAllocCount": "1",
   "DFIntImmersiveAdInvalidTeleportPlaceIdEventThrottleHundrethsPercent": "10000",
   "EnableMaquettesKeyboardHeuristicFix": "True",
@@ -6241,6 +6241,8 @@
   "FFlagPlayerListApolloClientEnabled_v1": "True",
   "FFlagUpgradeExpChatV4_0_0": "True",
   "DFFlagSplitDisconnectGraphForTC_Rollout": "True;60;2023-07-27T17:00:35",
+  "FFlagFixFetchNextOmniWithoutPageToken3": "True",
+  "FFlagOmniLoadMoreHeuristicMount2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6498,8 +6500,8 @@
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "4953e54f130dc2ce7a1441993f8602ec003fa82b",
-  "DFStringFlagRepoGitHashDynamicString": "4953e54f130dc2ce7a1441993f8602ec003fa82b",
-  "FStringFlipTimeStampFastString": "2023-07-27T17:02:29.595Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T17:02:29.595Z"
+  "FStringFlagRepoGitHashFastString": "704275c6ffd59d982c0e39ad454f376497f2e1f1",
+  "DFStringFlagRepoGitHashDynamicString": "704275c6ffd59d982c0e39ad454f376497f2e1f1",
+  "FStringFlipTimeStampFastString": "2023-07-27T17:06:15.006Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T17:06:15.006Z"
 }
