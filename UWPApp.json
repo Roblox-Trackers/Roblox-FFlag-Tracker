@@ -6240,11 +6240,8 @@
   "FIntPlayerListUserProfileApiRollout": "0",
   "DFFlagSendAdCornersInWorldSpace": "True",
   "FFlagEnableGuiServiceToggleGuisForCaptures": "True",
-  "DFFlagSimVisualizeExplicitForces_Rollout": "True;60;2023-07-27T17:20:41",
   "DFFlagVoiceChatPeerConnectionPubFailureClassification": "True",
-  "FFlagLuauTarjanSingleArr_Rollout": "True;60;2023-07-27T17:27:20",
   "FFlagSimV1BallCheckValidity": "True",
-  "DFFlagFixStaticShutdownLeaks_Rollout": "True;60;2023-07-27T17:28:48",
   "FFlagVRAvatarEditorBugFixes2": "True",
   "FFlagBootcampCLI72704_Rollout": "True;60;2023-07-27T17:37:25",
   "FFlagAppChatRefactorContainers": "True",
@@ -6304,6 +6301,8 @@
   "FIntServerInGamePhysicsDataCollectionEveryNPlaySession": "500000",
   "FIntServerInGamePhysicsDataCollectionThrottleBasisPoint": "10",
   "FFlagChangeScopeOfPredictedOOMMessage_Rollout": "True;60;2023-07-27T19:31:00",
+  "DFFlagFixStaticShutdownLeaks": "True",
+  "FFlagLuauTarjanSingleArr": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6502,8 +6501,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "d35aac254c1daad11f1b323713a1deede2c744db",
-  "DFStringFlagRepoGitHashDynamicString": "d35aac254c1daad11f1b323713a1deede2c744db",
-  "FStringFlipTimeStampFastString": "2023-07-27T19:32:50.846Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T19:32:50.846Z"
+  "FStringFlagRepoGitHashFastString": "6bbd6c944fcbd0c5e457fbad7b26970f3a197450",
+  "DFStringFlagRepoGitHashDynamicString": "6bbd6c944fcbd0c5e457fbad7b26970f3a197450",
+  "FStringFlipTimeStampFastString": "2023-07-27T19:33:53.008Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T19:33:53.008Z"
 }
