@@ -4900,7 +4900,7 @@
   "FFlagBoostFilesystemShareAccessOnReadLink": "True",
   "FFlagFixUserIconOverlapsSearchBar": "True",
   "AndroidUseNewAppRtcAudioManager": "True",
-  "FIntSimCSGV3SphereType": "2",
+  "FIntSimCSGV3SphereType": "3",
   "FFlagToolboxDoNotTryInStudioPlayMode": "True",
   "DFFlagDebugAbuseReportSubmission": "True",
   "FFlagUnifySearchGameImpressionFlagsToNumber": "True",
@@ -6251,6 +6251,8 @@
   "FFlagEnableGuiServiceToggleGuisForCaptures": "True",
   "DFFlagSimVisualizeExplicitForces_Rollout": "True;60;2023-07-27T17:20:41",
   "DFFlagVoiceChatPeerConnectionPubFailureClassification": "True",
+  "FFlagLuauTarjanSingleArr_Rollout": "True;60;2023-07-27T17:27:20",
+  "FFlagSimV1BallCheckValidity": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6508,8 +6510,8 @@
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "636761bfadae41f10431242c9787b38e37283add",
-  "DFStringFlagRepoGitHashDynamicString": "636761bfadae41f10431242c9787b38e37283add",
-  "FStringFlipTimeStampFastString": "2023-07-27T17:26:30.543Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T17:26:30.543Z"
+  "FStringFlagRepoGitHashFastString": "2916e7058c0e6cdab5d5c0d96dd8015e478a1536",
+  "DFStringFlagRepoGitHashDynamicString": "2916e7058c0e6cdab5d5c0d96dd8015e478a1536",
+  "FStringFlipTimeStampFastString": "2023-07-27T17:30:17.429Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T17:30:17.429Z"
 }
