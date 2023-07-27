@@ -6294,6 +6294,8 @@
   "FFlagVerifyClickedPartOnDragStart_Rollout": "True;60;2023-07-27T18:47:57",
   "FFlagSimSolverCollectIslands2_Rollout": "True;60;2023-07-27T18:50:25",
   "DFFlagEnableAdPortalTouchCooldown": "True",
+  "FFlagEnableDataModelAnalysisService_Rollout": "True;60;2023-07-27T19:04:20",
+  "DFFlagSimAlignPositionUseVectorTargetVelocity_Rollout": "True;60;2023-07-27T19:04:28",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6550,8 +6552,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "167a0b6048a58aeb1955362324b2ba1d691f7a0d",
-  "DFStringFlagRepoGitHashDynamicString": "167a0b6048a58aeb1955362324b2ba1d691f7a0d",
-  "FStringFlipTimeStampFastString": "2023-07-27T19:03:25.379Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T19:03:25.379Z"
+  "FStringFlagRepoGitHashFastString": "36a35950b2f7ebe13cfd31bb70adace6396a7608",
+  "DFStringFlagRepoGitHashDynamicString": "36a35950b2f7ebe13cfd31bb70adace6396a7608",
+  "FStringFlipTimeStampFastString": "2023-07-27T19:05:52.935Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T19:05:52.935Z"
 }
