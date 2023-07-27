@@ -6335,6 +6335,7 @@
   "DFIntLogServiceBatchProcessMessageIntervalSeconds": "20",
   "DFIntSendReplicatorStatsFacsOverrideES_Rollout": "500;60;2023-07-27T21:39:25",
   "FFlagDUACarouselUserProfileApi": "True",
+  "FFlagLuaAppBatchFetchingStatus": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6592,8 +6593,8 @@
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "450637fac3477ca2600428b05301e109404faa59",
-  "DFStringFlagRepoGitHashDynamicString": "450637fac3477ca2600428b05301e109404faa59",
-  "FStringFlipTimeStampFastString": "2023-07-27T21:50:55.775Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T21:50:55.775Z"
+  "FStringFlagRepoGitHashFastString": "3e4ebaf8230e141cbd002a35ad3ce9f5f99c8967",
+  "DFStringFlagRepoGitHashDynamicString": "3e4ebaf8230e141cbd002a35ad3ce9f5f99c8967",
+  "FStringFlipTimeStampFastString": "2023-07-27T21:56:17.895Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T21:56:17.895Z"
 }
