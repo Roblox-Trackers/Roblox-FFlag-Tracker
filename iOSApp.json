@@ -6301,6 +6301,9 @@
   "FFlagExplorerChangeSelectionAddRemove3": "True",
   "FFlagFixUIVisibilityDisabledOnPlayerJoin": "True",
   "FFlagStudioMoveTransparentImage": "True",
+  "FIntServerInGamePhysicsDataCollectionEveryNPlaySession": "500000",
+  "FIntServerInGamePhysicsDataCollectionThrottleBasisPoint": "10",
+  "FFlagChangeScopeOfPredictedOOMMessage_Rollout": "True;60;2023-07-27T19:31:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6625,8 +6628,8 @@
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenediOS",
   "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "10000;30;2023-07-27T18:10:52",
   "FFlagFixOomBoxForSingleAndDualSurfaceApp": "True",
-  "FStringFlagRepoGitHashFastString": "f861c8d0916adbbe6383359a0c3db90135a0c674",
-  "DFStringFlagRepoGitHashDynamicString": "f861c8d0916adbbe6383359a0c3db90135a0c674",
-  "FStringFlipTimeStampFastString": "2023-07-27T19:15:35.456Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T19:15:35.456Z"
+  "FStringFlagRepoGitHashFastString": "d35aac254c1daad11f1b323713a1deede2c744db",
+  "DFStringFlagRepoGitHashDynamicString": "d35aac254c1daad11f1b323713a1deede2c744db",
+  "FStringFlipTimeStampFastString": "2023-07-27T19:32:50.846Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T19:32:50.846Z"
 }
