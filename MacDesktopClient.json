@@ -6314,6 +6314,7 @@
   "FIntExperienceChatUserProfileApiRollout": "10",
   "FFlagSimSolverMeasureDualConvergence2_Rollout": "True;60;2023-07-27T20:24:40",
   "DFIntLogServiceBatchProcessMessageIntervalSeconds_Rollout": "20;30;2023-07-27T20:26:04",
+  "FIntFmodAndroidCloseSleepTimeMs_Rollout": "10;60;2023-07-27T20:30:10",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -6563,8 +6564,8 @@
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedMacClient",
-  "FStringFlagRepoGitHashFastString": "510a7eff4abd2f5b959888d250847cf4e1c39e69",
-  "DFStringFlagRepoGitHashDynamicString": "510a7eff4abd2f5b959888d250847cf4e1c39e69",
-  "FStringFlipTimeStampFastString": "2023-07-27T20:28:04.897Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T20:28:04.897Z"
+  "FStringFlagRepoGitHashFastString": "d6bdbc3326775c67aeda34834de479003eb961f9",
+  "DFStringFlagRepoGitHashDynamicString": "d6bdbc3326775c67aeda34834de479003eb961f9",
+  "FStringFlipTimeStampFastString": "2023-07-27T20:32:08.547Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T20:32:08.547Z"
 }
