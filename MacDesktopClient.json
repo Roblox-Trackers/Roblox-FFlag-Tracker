@@ -77,7 +77,7 @@
   "DFIntChatTime": "10",
   "DFIntClientJoinProcessPositiveSamplesThousandths": "10",
   "DFIntClientJoinProcessPositiveSamplesThousandths_PlaceFilter": "1000;3027055174;3917136599;2291717546",
-  "DFIntClientNetworkInfluxHundredthsPercentage": "500",
+  "DFIntClientNetworkInfluxHundredthsPercentage": "250",
   "DFIntClientReportLuaConnectionSignalsInfluxHundrethsPercentage": "10000",
   "DFIntClientSendEventStringDataLimitBytes": "100000000",
   "DFIntClientSendEventVariantCountLimit": "5000000",
@@ -6211,7 +6211,6 @@
   "DFFlagAvatarChatServiceUserPermissionsAudioOptIn_PlaceFilter": "False;14203104746",
   "DFFlagSerializeAssetsForPublishPrompt2": "False",
   "FFlagNewInExperienceSerializationFix": "False",
-  "DFIntClientNetworkInfluxHundredthsPercentage_PlaceFilter": "1000;9281971995;7665856814",
   "DFFlagSerializeAssetsForPublishPrompt2_PlaceFilter": "True;12334418042;12992503026",
   "FFlagNewInExperienceSerializationFix_PlaceFilter": "True;12334418042;12992503026",
   "DFFlagSimTouchCollector5_PlaceFilter": "False;574407221;7234652571;7346416636;6104994594;5275822877;6554355181",
@@ -6467,8 +6466,8 @@
   "FFlagSignalRLogTotalMessageControlGroup": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "914dc350f6241cf4c144d94833babf22ebf947e4",
-  "DFStringFlagRepoGitHashDynamicString": "914dc350f6241cf4c144d94833babf22ebf947e4",
-  "FStringFlipTimeStampFastString": "2023-07-27T16:28:14.343Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T16:28:14.343Z"
+  "FStringFlagRepoGitHashFastString": "e9187cafe269b77aae7770f0542f5e9b94671dbd",
+  "DFStringFlagRepoGitHashDynamicString": "e9187cafe269b77aae7770f0542f5e9b94671dbd",
+  "FStringFlipTimeStampFastString": "2023-07-27T16:28:48.977Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T16:28:48.977Z"
 }
