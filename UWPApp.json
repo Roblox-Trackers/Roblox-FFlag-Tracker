@@ -6291,7 +6291,6 @@
   "DFFlagFixStaticShutdownLeaks": "True",
   "FFlagLuauTarjanSingleArr": "True",
   "DFFlagNewCacheSplitUrlName_Rollout": "True;60;2023-07-27T19:35:26",
-  "FFlagFixOomBoxForSingleAndDualSurfaceApp_Rollout": "True;30;2023-07-27T19:35:29",
   "FIntUserProfilesDataLoaderClearTime_v1": "1",
   "FFlagDisableCreatorWebviewItemDetailsVR": "True",
   "FFlagBootcampCLI74304_Rollout": "True;60;2023-07-27T19:49:52",
@@ -6315,6 +6314,7 @@
   "FFlagLuauIndexTableIntersectionStringExpr": "True",
   "FFlagBootcampCLI74318": "True",
   "FFlagGamepadCursorDotDisappearsCorrectly2": "True",
+  "DFFlagGuiResizingTeleportBug_Rollout": "True;60;2023-07-27T20:33:31",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6513,8 +6513,8 @@
   "FFlagUseRealtimePublisher": "True",
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
-  "FStringFlagRepoGitHashFastString": "7a9f00b2c7aef8c9ec1b672f013fa83cbad4eedb",
-  "DFStringFlagRepoGitHashDynamicString": "7a9f00b2c7aef8c9ec1b672f013fa83cbad4eedb",
-  "FStringFlipTimeStampFastString": "2023-07-27T20:34:02.034Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T20:34:02.034Z"
+  "FStringFlagRepoGitHashFastString": "d1189bf64d7e78f11c2e1db13bc284cc0c8307aa",
+  "DFStringFlagRepoGitHashDynamicString": "d1189bf64d7e78f11c2e1db13bc284cc0c8307aa",
+  "FStringFlipTimeStampFastString": "2023-07-27T20:36:36.522Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T20:36:36.522Z"
 }
