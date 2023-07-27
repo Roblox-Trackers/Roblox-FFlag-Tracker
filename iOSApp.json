@@ -6318,6 +6318,8 @@
   "FFlagAdGuiRefactorViewability2": "True",
   "DFIntDisconnectReasonDiagThrottlePercent_Rollout": "100;60;2023-07-27T20:53:36",
   "FFlagDataModelPatchBackgroundLoad3": "True",
+  "DFIntHttpCacheCleanupMetricsHundredthsPercent": "500",
+  "FFlagHttpCacheMetrics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6641,8 +6643,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "False",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenediOS",
   "FFlagFixOomBoxForSingleAndDualSurfaceApp": "True",
-  "FStringFlagRepoGitHashFastString": "5a889cf452fc6b12d51b169ade310d549ed85645",
-  "DFStringFlagRepoGitHashDynamicString": "5a889cf452fc6b12d51b169ade310d549ed85645",
-  "FStringFlipTimeStampFastString": "2023-07-27T20:56:53.335Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T20:56:53.335Z"
+  "FStringFlagRepoGitHashFastString": "bf5991d59af7611b4502c6896023cb7c3cca7dcb",
+  "DFStringFlagRepoGitHashDynamicString": "bf5991d59af7611b4502c6896023cb7c3cca7dcb",
+  "FStringFlipTimeStampFastString": "2023-07-27T20:58:04.313Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T20:58:04.313Z"
 }
