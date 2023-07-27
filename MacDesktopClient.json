@@ -6266,9 +6266,6 @@
   "FFlagStudioReportAuthStatusOnJoinFailure": "True",
   "FFlagBootcampCLI74604": "True",
   "FFlagEnableOptionalScreenshotButton": "True",
-  "FFlagLastPlayerInfoStorageFix_Rollout": "True;60;2023-07-27T18:43:47",
-  "FFlagVerifyClickedPartOnDragStart_Rollout": "True;60;2023-07-27T18:47:57",
-  "FFlagSimSolverCollectIslands2_Rollout": "True;60;2023-07-27T18:50:25",
   "DFFlagEnableAdPortalTouchCooldown": "True",
   "FFlagEnableDataModelAnalysisService_Rollout": "True;60;2023-07-27T19:04:20",
   "DFFlagSimAlignPositionUseVectorTargetVelocity_Rollout": "True;60;2023-07-27T19:04:28",
@@ -6320,6 +6317,9 @@
   "FFlagDataModelPatchBackgroundLoad3": "True",
   "DFIntHttpCacheCleanupMetricsHundredthsPercent": "500",
   "FFlagHttpCacheMetrics": "True",
+  "FFlagSimSolverCollectIslands2": "True",
+  "FFlagLastPlayerInfoStorageFix": "True",
+  "FFlagVerifyClickedPartOnDragStart": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6570,8 +6570,8 @@
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedMacClient",
-  "FStringFlagRepoGitHashFastString": "bf5991d59af7611b4502c6896023cb7c3cca7dcb",
-  "DFStringFlagRepoGitHashDynamicString": "bf5991d59af7611b4502c6896023cb7c3cca7dcb",
-  "FStringFlipTimeStampFastString": "2023-07-27T20:58:04.313Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T20:58:04.313Z"
+  "FStringFlagRepoGitHashFastString": "5dc568adaa43cfc51f81438f5517552353437493",
+  "DFStringFlagRepoGitHashDynamicString": "5dc568adaa43cfc51f81438f5517552353437493",
+  "FStringFlipTimeStampFastString": "2023-07-27T21:03:43.465Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T21:03:43.465Z"
 }
