@@ -6269,6 +6269,8 @@
   "EnableDynamicBacktraceLogSize": "True",
   "DFFlagSimAddGlobalWindToFluidSaveOrPublishStats_Rollout": "True;60;2023-07-27T18:05:00",
   "DFFlagDisableIdleAdsRequest": "True",
+  "FFlagApplyInsetBeforeMaxOffsetSizeForMinSize": "True",
+  "FFlagFixPushNotificationReenableAuthorization": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6626,8 +6628,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "10000;30;2023-07-27T17:30:25",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedAndroid",
-  "FStringFlagRepoGitHashFastString": "b9dc58b341be8101fdd545f1c065489b7b8e3c18",
-  "DFStringFlagRepoGitHashDynamicString": "b9dc58b341be8101fdd545f1c065489b7b8e3c18",
-  "FStringFlipTimeStampFastString": "2023-07-27T18:09:00.172Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T18:09:00.172Z"
+  "FStringFlagRepoGitHashFastString": "61940a3d41be3fea5b9b44ba3b60a0de6e1d35aa",
+  "DFStringFlagRepoGitHashDynamicString": "61940a3d41be3fea5b9b44ba3b60a0de6e1d35aa",
+  "FStringFlipTimeStampFastString": "2023-07-27T18:09:58.654Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T18:09:58.654Z"
 }
