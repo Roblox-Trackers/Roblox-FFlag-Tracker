@@ -6354,6 +6354,7 @@
   "DFFlagDetectMultipleJoinsForTheSamePlaceID": "True",
   "FFlagSimSolverMeasureDualConvergence2": "True",
   "FIntFmodAndroidCloseSleepTimeMs": "10",
+  "FFlagAlwaysCloseAudioDeviceProxy_Rollout": "True;30;2023-07-27T22:44:44",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6713,8 +6714,8 @@
   "SingleSurfaceEnabledAndroid": "True",
   "EnableSdk33PostNotifications": "True",
   "FFlagFixOomBoxForSingleAndDualSurfaceApp_Rollout": "True;30;2023-07-27T21:40:00",
-  "FStringFlagRepoGitHashFastString": "7eedecdd688692363ec553fe0a4736c05cc9d5ab",
-  "DFStringFlagRepoGitHashDynamicString": "7eedecdd688692363ec553fe0a4736c05cc9d5ab",
-  "FStringFlipTimeStampFastString": "2023-07-27T22:37:21.598Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T22:37:21.598Z"
+  "FStringFlagRepoGitHashFastString": "1fb82a97520b7aee647b4a573896b730a379e046",
+  "DFStringFlagRepoGitHashDynamicString": "1fb82a97520b7aee647b4a573896b730a379e046",
+  "FStringFlipTimeStampFastString": "2023-07-27T22:46:25.155Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T22:46:25.155Z"
 }
