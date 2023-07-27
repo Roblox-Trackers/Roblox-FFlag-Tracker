@@ -6313,6 +6313,7 @@
   "FFlagStudioFixMultipleLoginDialog": "True",
   "FIntExperienceChatUserProfileApiRollout": "10",
   "FFlagSimSolverMeasureDualConvergence2_Rollout": "True;60;2023-07-27T20:24:40",
+  "DFIntLogServiceBatchProcessMessageIntervalSeconds_Rollout": "20;30;2023-07-27T20:26:04",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -6635,8 +6636,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "False",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenediOS",
   "FFlagFixOomBoxForSingleAndDualSurfaceApp": "True",
-  "FStringFlagRepoGitHashFastString": "a347c762fddc76f44878cc3b512082f30febf485",
-  "DFStringFlagRepoGitHashDynamicString": "a347c762fddc76f44878cc3b512082f30febf485",
-  "FStringFlipTimeStampFastString": "2023-07-27T20:26:26.123Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T20:26:26.123Z"
+  "FStringFlagRepoGitHashFastString": "510a7eff4abd2f5b959888d250847cf4e1c39e69",
+  "DFStringFlagRepoGitHashDynamicString": "510a7eff4abd2f5b959888d250847cf4e1c39e69",
+  "FStringFlipTimeStampFastString": "2023-07-27T20:28:04.897Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T20:28:04.897Z"
 }
