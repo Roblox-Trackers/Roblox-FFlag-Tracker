@@ -6257,13 +6257,13 @@
   "FFlagVRAvatarEditorBugFixes2": "True",
   "FFlagBootcampCLI72704_Rollout": "True;60;2023-07-27T17:37:25",
   "FFlagAppChatRefactorContainers": "True",
-  "FIntUserProfilesDataLoaderClearTime_v1": "0",
   "FFlagUserProfileTurnCacheBackOn": "True",
   "FFlagWidgetAddItemTypeAnalytics": "True",
   "FFlagWidgetHydrationOptimization": "True",
   "FIntWidgetsNumItemsToHydrate": "30",
   "FFlagCOLLAB2847SelectGroupForPublish1_Rollout": "True;30;2023-07-27T17:52:34",
   "DFIntDebuggerEventIngestThrottleHundredthPercent_Rollout": "5000;1;2023-07-27T17:53:08",
+  "FFlagTurnOffFeaturesForLongScript_Rollout": "True;60;2023-07-27T17:57:36",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6621,8 +6621,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFIntBatchLogMessageIngestHundredthsPercent_Rollout": "10000;30;2023-07-27T17:30:25",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedAndroid",
-  "FStringFlagRepoGitHashFastString": "3f31d9d687afab625dcb5dee51634d8213aedfa4",
-  "DFStringFlagRepoGitHashDynamicString": "3f31d9d687afab625dcb5dee51634d8213aedfa4",
-  "FStringFlipTimeStampFastString": "2023-07-27T17:55:47.173Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-27T17:55:47.173Z"
+  "FStringFlagRepoGitHashFastString": "0c0b57ceaeabcad184fa39cb4201c29ec4f9ade3",
+  "DFStringFlagRepoGitHashDynamicString": "0c0b57ceaeabcad184fa39cb4201c29ec4f9ade3",
+  "FStringFlipTimeStampFastString": "2023-07-27T18:01:01.836Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-27T18:01:01.836Z"
 }
