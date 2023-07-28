@@ -6395,6 +6395,9 @@
   "FFlagDisableMeshPartHeadsWarningInRobloxPlugins": "True",
   "FFlagFixContainerAccessCmdFramework": "True",
   "FFlagAvoidMergeNextEdit": "True",
+  "DFIntGameLdrPerformanceCheckLimit": "0",
+  "DFIntGameLdrPerformanceCheckLimit_PlaceFilter": "3;1818",
+  "FFlagUGCValidationSetAllowTempStoreS3Urls2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6646,8 +6649,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedMacClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "5038c93035f2c57b5236be485f5dde995abf23dd",
-  "DFStringFlagRepoGitHashDynamicString": "5038c93035f2c57b5236be485f5dde995abf23dd",
-  "FStringFlipTimeStampFastString": "2023-07-28T18:37:36.131Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-28T18:37:36.131Z"
+  "FStringFlagRepoGitHashFastString": "ed00b040963519f8bb44c35c66751e381ab1d748",
+  "DFStringFlagRepoGitHashDynamicString": "ed00b040963519f8bb44c35c66751e381ab1d748",
+  "FStringFlipTimeStampFastString": "2023-07-28T18:43:37.560Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-28T18:43:37.560Z"
 }
