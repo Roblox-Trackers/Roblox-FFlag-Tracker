@@ -6391,6 +6391,7 @@
   "DFFlagFixFielContainerAddField_Rollout": "True;60;2023-07-28T18:21:08",
   "DFFlagRemoveDoubleQuotesFromPlaySessionId_Rollout": "True;60;2023-07-28T18:21:13",
   "FFlagPWUpdateCompleteSignal_Rollout": "True;60;2023-07-28T18:21:20",
+  "DFFlagRemoveSTCategoryPerformanceDeprecated_Rollout": "True;60;2023-07-28T18:22:51",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6647,8 +6648,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "2e6fb496da82a3012cf58ef803b6e82b51831277",
-  "DFStringFlagRepoGitHashDynamicString": "2e6fb496da82a3012cf58ef803b6e82b51831277",
-  "FStringFlipTimeStampFastString": "2023-07-28T18:23:31.877Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-28T18:23:31.877Z"
+  "FStringFlagRepoGitHashFastString": "0942a797d56e956be7de3fdec4b79f0fb37c973e",
+  "DFStringFlagRepoGitHashDynamicString": "0942a797d56e956be7de3fdec4b79f0fb37c973e",
+  "FStringFlipTimeStampFastString": "2023-07-28T18:24:35.870Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-28T18:24:35.870Z"
 }
