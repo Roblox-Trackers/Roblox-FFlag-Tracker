@@ -6378,6 +6378,9 @@
   "FFlagPlacesServiceStartPlaySolo_Rollout": "True;60;2023-07-28T16:39:54",
   "FFlagLuauTypecheckCancellation_Rollout": "True;60;2023-07-28T16:46:26",
   "DFFlagEmptyTerrainFix_Rollout": "True;60;2023-07-28T16:58:37",
+  "DFFlagStreamingSolverChangeCategoryProfiler_Rollout": "True;60;2023-07-28T17:00:35",
+  "DFFlagGameLdrPerformanceReport": "False",
+  "DFFlagGameLdrPerformanceReport_PlaceFilter": "True;1818",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6701,8 +6704,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "False",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenediOS",
   "FFlagFixOomBoxForSingleAndDualSurfaceApp": "True",
-  "FStringFlagRepoGitHashFastString": "a84f5cf06eb6fefef52bf13fe91f4e497d8d93d8",
-  "DFStringFlagRepoGitHashDynamicString": "a84f5cf06eb6fefef52bf13fe91f4e497d8d93d8",
-  "FStringFlipTimeStampFastString": "2023-07-28T16:59:42.078Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-28T16:59:42.078Z"
+  "FStringFlagRepoGitHashFastString": "97ffc5591ba044b7b41b2e665b8c0d1e7794ffc7",
+  "DFStringFlagRepoGitHashDynamicString": "97ffc5591ba044b7b41b2e665b8c0d1e7794ffc7",
+  "FStringFlipTimeStampFastString": "2023-07-28T17:03:03.934Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-28T17:03:03.934Z"
 }
