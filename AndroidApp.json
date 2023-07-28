@@ -6385,6 +6385,7 @@
   "FFlagTrackFlowDurationInSessionTracking_Rollout": "True;60;2023-07-28T17:06:13",
   "FFlagTurnOffFeaturesForLongScript_Rollout": "False;1;2023-07-28T17:07:52",
   "DFFlagFixSessionTrackingSendSuccess": "True",
+  "FFlagQrCode3dAvatarEnabledForAll": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6744,8 +6745,8 @@
   "EnableSdk33PostNotifications": "True",
   "FFlagShouldHandleNotificationSettingChanged": "True",
   "EnablePushNotificationsPromptAndroid13": "True",
-  "FStringFlagRepoGitHashFastString": "b15622346c4c0b2138995ffd68a0bb2df85b072b",
-  "DFStringFlagRepoGitHashDynamicString": "b15622346c4c0b2138995ffd68a0bb2df85b072b",
-  "FStringFlipTimeStampFastString": "2023-07-28T17:20:20.732Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-28T17:20:20.732Z"
+  "FStringFlagRepoGitHashFastString": "ff4c4cb034fcdc84877c3265f81dc27d57a3aaa4",
+  "DFStringFlagRepoGitHashDynamicString": "ff4c4cb034fcdc84877c3265f81dc27d57a3aaa4",
+  "FStringFlipTimeStampFastString": "2023-07-28T17:23:46.775Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-28T17:23:46.775Z"
 }
