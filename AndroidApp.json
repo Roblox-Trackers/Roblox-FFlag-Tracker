@@ -6388,6 +6388,8 @@
   "DFFlagGameLdrPerformanceReport_Rollout": "True;60;2023-07-28T17:33:49",
   "FFlagMaterialGeneratorEnableTests": "True",
   "DFFlagSessionTrackingUseGetPointList_Rollout": "True;60;2023-07-28T18:17:59",
+  "DFFlagFixFielContainerAddField_Rollout": "True;60;2023-07-28T18:21:08",
+  "DFFlagRemoveDoubleQuotesFromPlaySessionId_Rollout": "True;60;2023-07-28T18:21:13",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6749,8 +6751,8 @@
   "EnablePushNotificationsPromptAndroid13": "True",
   "DFFlagFixSessionTrackingSendSuccess": "False",
   "FFlagFixOomBoxForSingleAndDualSurfaceApp_Rollout": "True;30;2023-07-28T18:13:03",
-  "FStringFlagRepoGitHashFastString": "be535a04ee92f9c068636b1b3241505a19d9fb8d",
-  "DFStringFlagRepoGitHashDynamicString": "be535a04ee92f9c068636b1b3241505a19d9fb8d",
-  "FStringFlipTimeStampFastString": "2023-07-28T18:19:25.447Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-28T18:19:25.447Z"
+  "FStringFlagRepoGitHashFastString": "73367e4f91e72154c3954100b09c93b6fde04ba5",
+  "DFStringFlagRepoGitHashDynamicString": "73367e4f91e72154c3954100b09c93b6fde04ba5",
+  "FStringFlipTimeStampFastString": "2023-07-28T18:23:07.362Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-28T18:23:07.362Z"
 }
