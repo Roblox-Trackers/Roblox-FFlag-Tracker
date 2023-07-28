@@ -6365,10 +6365,8 @@
   "DFFlagEnableDisplayBubble": "True",
   "FFlagEnablePerBubbleCustomization": "True",
   "DeregisterDisabledDeviceWhenNotificationReceived": "True",
-  "FFlagDisableMeshPartHeadsWarningInRobloxPlugins_Rollout": "True;60;2023-07-28T16:21:17",
   "FFlagDevFrameworkDeprecateTextInput": "True",
   "FFlagAnimationPlaybackSliderShowTime": "True",
-  "FFlagFixContainerAccessCmdFramework_Rollout": "True;60;2023-07-28T16:29:40",
   "FFlagDevFrameworkAssetRenderModelShouldCloneProperty": "True",
   "FFlagFixExplorerBadThreading_Rollout": "True;60;2023-07-28T16:34:32",
   "FFlagUGCAvatarService_Rollout": "True;60;2023-07-28T16:39:04",
@@ -6394,6 +6392,8 @@
   "DFFlagRemoveSTCategoryPerformanceDeprecated_Rollout": "True;60;2023-07-28T18:22:51",
   "DFIntAutoCompleteDelayLogCountInterval": "1",
   "DFIntTypingHandlingLogCountInterval": "1",
+  "FFlagDisableMeshPartHeadsWarningInRobloxPlugins": "True",
+  "FFlagFixContainerAccessCmdFramework": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6650,8 +6650,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "8cac7fe83a6d72bbfdce5f0ab37adeeabe6ea074",
-  "DFStringFlagRepoGitHashDynamicString": "8cac7fe83a6d72bbfdce5f0ab37adeeabe6ea074",
-  "FStringFlipTimeStampFastString": "2023-07-28T18:28:33.821Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-28T18:28:33.821Z"
+  "FStringFlagRepoGitHashFastString": "32d9db9361ff372824c1cf7734249a09f15c7313",
+  "DFStringFlagRepoGitHashDynamicString": "32d9db9361ff372824c1cf7734249a09f15c7313",
+  "FStringFlipTimeStampFastString": "2023-07-28T18:34:02.542Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-28T18:34:02.542Z"
 }
