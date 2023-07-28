@@ -6392,6 +6392,8 @@
   "DFFlagRemoveDoubleQuotesFromPlaySessionId_Rollout": "True;60;2023-07-28T18:21:13",
   "FFlagPWUpdateCompleteSignal_Rollout": "True;60;2023-07-28T18:21:20",
   "DFFlagRemoveSTCategoryPerformanceDeprecated_Rollout": "True;60;2023-07-28T18:22:51",
+  "DFIntAutoCompleteDelayLogCountInterval": "1",
+  "DFIntTypingHandlingLogCountInterval": "1",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6643,8 +6645,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedMacClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "0942a797d56e956be7de3fdec4b79f0fb37c973e",
-  "DFStringFlagRepoGitHashDynamicString": "0942a797d56e956be7de3fdec4b79f0fb37c973e",
-  "FStringFlipTimeStampFastString": "2023-07-28T18:24:35.870Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-28T18:24:35.870Z"
+  "FStringFlagRepoGitHashFastString": "8cac7fe83a6d72bbfdce5f0ab37adeeabe6ea074",
+  "DFStringFlagRepoGitHashDynamicString": "8cac7fe83a6d72bbfdce5f0ab37adeeabe6ea074",
+  "FStringFlipTimeStampFastString": "2023-07-28T18:28:33.821Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-28T18:28:33.821Z"
 }
