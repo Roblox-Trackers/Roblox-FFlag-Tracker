@@ -6377,6 +6377,7 @@
   "FFlagShowSaveToRobloxOnStudioAssetService_Rollout": "True;60;2023-07-28T16:39:13",
   "FFlagPlacesServiceStartPlaySolo_Rollout": "True;60;2023-07-28T16:39:54",
   "FFlagLuauTypecheckCancellation_Rollout": "True;60;2023-07-28T16:46:26",
+  "DFFlagEmptyTerrainFix_Rollout": "True;60;2023-07-28T16:58:37",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6633,8 +6634,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "66da8db88adbd415b306de6f75ecb1a5c4322097",
-  "DFStringFlagRepoGitHashDynamicString": "66da8db88adbd415b306de6f75ecb1a5c4322097",
-  "FStringFlipTimeStampFastString": "2023-07-28T16:57:35.311Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-28T16:57:35.311Z"
+  "FStringFlagRepoGitHashFastString": "a84f5cf06eb6fefef52bf13fe91f4e497d8d93d8",
+  "DFStringFlagRepoGitHashDynamicString": "a84f5cf06eb6fefef52bf13fe91f4e497d8d93d8",
+  "FStringFlipTimeStampFastString": "2023-07-28T16:59:42.078Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-28T16:59:42.078Z"
 }
