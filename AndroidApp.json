@@ -6446,6 +6446,7 @@
   "FFlagSimAlignPositionVectorForceLimit": "True",
   "DFFlagPhysicalPropertiesErrorMsgImprovement": "True",
   "DFFlagSwitchToPhysicsAnalytics": "True",
+  "DFFlagDontLeakPacketOnDisconnect_Rollout": "True;60;2023-07-31T20:05:29",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6807,8 +6808,8 @@
   "EnablePushNotificationsPromptAndroid13": "True",
   "DFFlagFixSessionTrackingSendSuccess": "False",
   "DFFlagPerfTimerUseSTMap": "True",
-  "FStringFlagRepoGitHashFastString": "90658b2cc2b67225512a67bbae3cfc843295533f",
-  "DFStringFlagRepoGitHashDynamicString": "90658b2cc2b67225512a67bbae3cfc843295533f",
-  "FStringFlipTimeStampFastString": "2023-07-31T20:02:30.497Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-31T20:02:30.497Z"
+  "FStringFlagRepoGitHashFastString": "cf61ab77eb551d95160c158003754b6364eb1cd3",
+  "DFStringFlagRepoGitHashDynamicString": "cf61ab77eb551d95160c158003754b6364eb1cd3",
+  "FStringFlipTimeStampFastString": "2023-07-31T20:06:12.170Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-31T20:06:12.170Z"
 }
