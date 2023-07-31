@@ -6422,6 +6422,8 @@
   "FFlagBootcampCLI79876_Rollout": "True;60;2023-07-31T17:58:09",
   "FFlagAvatarChatSettingsEnabled2": "True",
   "FFlagEnablePromptPurchaseRequestedV2Take2": "True",
+  "DFFlagRemoveHttpQueueLog_Rollout": "True;40;2023-07-31T18:06:04",
+  "DFFlagSignalRManagerOnEventFix": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -6672,8 +6674,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedMacClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "20e9472d58a4487e422d0c762fd168636567dfff",
-  "DFStringFlagRepoGitHashDynamicString": "20e9472d58a4487e422d0c762fd168636567dfff",
-  "FStringFlipTimeStampFastString": "2023-07-31T18:06:55.760Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-31T18:06:55.760Z"
+  "FStringFlagRepoGitHashFastString": "fcf062173f2698a3565167edf0a51da6fdd54ea2",
+  "DFStringFlagRepoGitHashDynamicString": "fcf062173f2698a3565167edf0a51da6fdd54ea2",
+  "FStringFlipTimeStampFastString": "2023-07-31T18:08:06.937Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-31T18:08:06.937Z"
 }
