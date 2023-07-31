@@ -6426,6 +6426,8 @@
   "FFlagGameDetailsDecoupledCommunication": "True",
   "FFlagStudioUseLaunchIntentForPSC3": "True",
   "DFFlagAtomicPlayerStarterGUIFix2_Rollout": "True;60;2023-07-31T18:19:20",
+  "FFlagLuauFasterNoise": "True",
+  "FFlagLuauFasterTableConcat": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -6682,8 +6684,8 @@
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "a0e3a3700f9b9597df18c40cfb84831a4256bbfe",
-  "DFStringFlagRepoGitHashDynamicString": "a0e3a3700f9b9597df18c40cfb84831a4256bbfe",
-  "FStringFlipTimeStampFastString": "2023-07-31T18:21:33.854Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-31T18:21:33.854Z"
+  "FStringFlagRepoGitHashFastString": "630b9367f62ece5eb7c9cc44dad3f8ad3c550f23",
+  "DFStringFlagRepoGitHashDynamicString": "630b9367f62ece5eb7c9cc44dad3f8ad3c550f23",
+  "FStringFlipTimeStampFastString": "2023-07-31T18:24:29.895Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-31T18:24:29.895Z"
 }
