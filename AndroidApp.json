@@ -6424,6 +6424,7 @@
   "DFFlagRemoveHttpQueueLog_Rollout": "True;40;2023-07-31T18:06:04",
   "DFFlagSignalRManagerOnEventFix": "True",
   "FFlagGameDetailsDecoupledCommunication": "True",
+  "FFlagStudioUseLaunchIntentForPSC3": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -6785,8 +6786,8 @@
   "DFFlagFixSessionTrackingSendSuccess": "False",
   "FFlagFixOomBoxForSingleAndDualSurfaceApp": "True",
   "DFFlagPerfTimerUseSTMap_Rollout": "True;60;2023-07-31T17:33:41",
-  "FStringFlagRepoGitHashFastString": "613453081e3f3db3ab842e4be1b0003b889f621d",
-  "DFStringFlagRepoGitHashDynamicString": "613453081e3f3db3ab842e4be1b0003b889f621d",
-  "FStringFlipTimeStampFastString": "2023-07-31T18:10:41.822Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-31T18:10:41.822Z"
+  "FStringFlagRepoGitHashFastString": "1c27b2652fce7ea8ee2a5d6bf9855d3ce830627e",
+  "DFStringFlagRepoGitHashDynamicString": "1c27b2652fce7ea8ee2a5d6bf9855d3ce830627e",
+  "FStringFlipTimeStampFastString": "2023-07-31T18:14:05.487Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-31T18:14:05.487Z"
 }
