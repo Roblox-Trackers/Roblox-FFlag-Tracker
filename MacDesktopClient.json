@@ -6445,6 +6445,7 @@
   "FFlagLuauNormalizeCyclicUnions": "True",
   "DFFlagOverrideDefaultRCCJobHeartbeat2_Rollout": "True;60;2023-07-31T19:50:42",
   "DFFlagPerformanceControlOverrideThrottlesForTelemetryBackends_Rollout": "True;60;2023-07-31T19:52:04",
+  "FFlagEnableExtraOOMTelemetries_Rollout": "True;60;2023-07-31T20:01:07",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6695,8 +6696,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedMacClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "338c3d98e064128fb3aee5e898194290f6f3e3ab",
-  "DFStringFlagRepoGitHashDynamicString": "338c3d98e064128fb3aee5e898194290f6f3e3ab",
-  "FStringFlipTimeStampFastString": "2023-07-31T19:59:56.038Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-31T19:59:56.038Z"
+  "FStringFlagRepoGitHashFastString": "3ce5204a360ab05cd19a24c5ce7239c109729531",
+  "DFStringFlagRepoGitHashDynamicString": "3ce5204a360ab05cd19a24c5ce7239c109729531",
+  "FStringFlipTimeStampFastString": "2023-07-31T20:01:54.144Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-31T20:01:54.144Z"
 }
