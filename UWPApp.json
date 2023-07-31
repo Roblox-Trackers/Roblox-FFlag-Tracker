@@ -6425,7 +6425,6 @@
   "FFlagBootcampCLI79876_Rollout": "True;60;2023-07-31T20:20:44",
   "FFlagSimAlignPositionVectorForceLimit_Rollout": "True;60;2023-07-31T20:20:44",
   "FFlagWaitScriptSlotSimplification_Rollout": "True;60;2023-07-31T20:20:44",
-  "DFFlagRemoveHttpQueueLog_Rollout": "True;40;2023-07-31T20:20:44",
   "DFFlagConsolidatedVMTiming_Rollout": "True;60;2023-07-31T20:20:44",
   "DFFlagSharedTableConstructWithRawIter_Rollout": "True;60;2023-07-31T20:20:44",
   "DFFlagPhysicalPropertiesErrorMsgImprovement_Rollout": "True;60;2023-07-31T20:20:44",
@@ -6436,6 +6435,7 @@
   "FFlagAddEndOfScrollPadding": "True",
   "FFlagFixRobuxCounters2": "True",
   "FFlagShowR15PromptOnR6IncompatiblePages": "True",
+  "DFFlagRemoveHttpQueueLog": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6635,8 +6635,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "13126fe61b21ae54fb93dd353c1ccf15a1c5d8b4",
-  "DFStringFlagRepoGitHashDynamicString": "13126fe61b21ae54fb93dd353c1ccf15a1c5d8b4",
-  "FStringFlipTimeStampFastString": "2023-07-31T21:34:14.472Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-31T21:34:14.472Z"
+  "FStringFlagRepoGitHashFastString": "cbb44972f4e576c2f218aa84d3d1f6e7e43b34e6",
+  "DFStringFlagRepoGitHashDynamicString": "cbb44972f4e576c2f218aa84d3d1f6e7e43b34e6",
+  "FStringFlipTimeStampFastString": "2023-07-31T22:03:34.549Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-31T22:03:34.549Z"
 }
