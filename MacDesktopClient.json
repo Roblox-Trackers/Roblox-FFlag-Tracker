@@ -6441,6 +6441,7 @@
   "DFIntDetectCrashEarlyPercentage": "1",
   "FFlagNoteTextureCachedOnlyInValidUniverses": "True",
   "FFlagEnableLocationRecording_Rollout": "True;60;2023-07-31T19:13:55",
+  "DFFlagDoNotMergePersistentModelsWithTheirAncestors_Rollout": "True;60;2023-07-31T19:21:55",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6691,8 +6692,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedMacClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "e346e29a69785f850712287929211235ead3ee60",
-  "DFStringFlagRepoGitHashDynamicString": "e346e29a69785f850712287929211235ead3ee60",
-  "FStringFlipTimeStampFastString": "2023-07-31T19:15:02.628Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-31T19:15:02.628Z"
+  "FStringFlagRepoGitHashFastString": "cc7bd95346b4c9bd12f07c3d9f7962c9e14ec9c9",
+  "DFStringFlagRepoGitHashDynamicString": "cc7bd95346b4c9bd12f07c3d9f7962c9e14ec9c9",
+  "FStringFlipTimeStampFastString": "2023-07-31T19:22:45.216Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-31T19:22:45.216Z"
 }
