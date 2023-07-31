@@ -5450,7 +5450,7 @@
   "FFlagLuaAppGameImpressionCounts": "True",
   "DFFlagEnableHumanoidStateChangeTelemtryOldStateDuration": "True",
   "DFIntImmersiveAdDeveloperFallbackImageUsedEventThrottleHundrethsPercent": "50",
-  "FFlagFix3DAvatarExperimentExposurePoint": "True",
+  "FFlagFix3DAvatarExperimentExposurePoint": "False",
   "FFlagProfileQRCodeEnable3DAvatarExperiment_v4": "True",
   "FFlagMaxSocialSlots5": "True",
   "FixNullptrListener": "True",
@@ -6431,7 +6431,7 @@
   "DFFlagPhysicalPropertiesErrorMsgImprovement_Rollout": "True;60;2023-07-31T20:20:44",
   "DFFlagSwitchToPhysicsAnalytics_Rollout": "True;60;2023-07-31T20:20:44",
   "FFlagEnableBubbleChatConfigurationMaxBubbles_PlaceFilter": "True;9709838535",
-  "FFlagAppGameTileUnificationDUA": "True",
+  "FFlagAppGameTileUnificationDUA": "False",
   "FFlagAXShopItemSelectionFix": "True",
   "FFlagAddEndOfScrollPadding": "True",
   "FFlagFixRobuxCounters2": "True",
@@ -6691,8 +6691,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "4cd4e6ba06140d5adfc430dc6a6bb55eefb21546",
-  "DFStringFlagRepoGitHashDynamicString": "4cd4e6ba06140d5adfc430dc6a6bb55eefb21546",
-  "FStringFlipTimeStampFastString": "2023-07-31T21:01:58.763Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-31T21:01:58.763Z"
+  "FStringFlagRepoGitHashFastString": "13126fe61b21ae54fb93dd353c1ccf15a1c5d8b4",
+  "DFStringFlagRepoGitHashDynamicString": "13126fe61b21ae54fb93dd353c1ccf15a1c5d8b4",
+  "FStringFlipTimeStampFastString": "2023-07-31T21:34:14.472Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-31T21:34:14.472Z"
 }
