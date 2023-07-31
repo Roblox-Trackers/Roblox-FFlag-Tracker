@@ -6396,7 +6396,6 @@
   "FFlagPWUpdateCompleteSignal": "True",
   "DFFlagIterationCompleteMetaFix": "False",
   "FFlagUserCarouselAlwaysClickableTitle": "True",
-  "FFlagNoteTextureCachedOnlyInValidUniverses_Rollout": "True;60;2023-07-31T16:32:20",
   "FFlagLogOutputUseFontSizeForCalcWrappingDims": "True",
   "FFlagCIMoveInitCall_v1": "True",
   "FFlagScriptEditorMultiCursorChangedEvent": "True",
@@ -6441,6 +6440,7 @@
   "FFlagLuaAppLocalize10ftLoginText": "True",
   "FFlagLuaAppRefactor10ftLoginView": "True",
   "DFIntDetectCrashEarlyPercentage": "1",
+  "FFlagNoteTextureCachedOnlyInValidUniverses": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6696,8 +6696,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "5fcea94c1a806d8279496333b4f2e24480c1c089",
-  "DFStringFlagRepoGitHashDynamicString": "5fcea94c1a806d8279496333b4f2e24480c1c089",
-  "FStringFlipTimeStampFastString": "2023-07-31T19:01:56.560Z",
-  "DFStringFlipTimeStampDynamicString": "2023-07-31T19:01:56.560Z"
+  "FStringFlagRepoGitHashFastString": "aed3251a09f337fc57035a571eb11743f1d6bb6c",
+  "DFStringFlagRepoGitHashDynamicString": "aed3251a09f337fc57035a571eb11743f1d6bb6c",
+  "FStringFlipTimeStampFastString": "2023-07-31T19:02:56.775Z",
+  "DFStringFlipTimeStampDynamicString": "2023-07-31T19:02:56.775Z"
 }
