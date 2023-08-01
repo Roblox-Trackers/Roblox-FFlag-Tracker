@@ -5854,7 +5854,7 @@
   "FFlagAssetImportIOUnicodeSupport": "True",
   "FFlagAssetImportglTFUnicodeFix": "True",
   "AndroidFixSingleSurfaceAppNotchScreenSupportDisabled": "True",
-  "FFlagAtomicPlayerRespawnFix": "False",
+  "FFlagAtomicPlayerRespawnFix": "True",
   "FFlagAtomicPlayerRespawnFix_PlaceFilter": "True;6011220700;6962533927",
   "DFFlagSimTouchCollector5": "True",
   "DFIntPhysicsNOUCountHundredth": "100",
@@ -6472,7 +6472,6 @@
   "DFIntScriptVersionHistoryEventThrottleHundredthPercent": "10000",
   "FFlagScriptVersionHistoryTelemetry": "True",
   "FFlagBootcampCLI80445": "True",
-  "FFlagAtomicPlayerRespawnFix_Rollout": "True;60;2023-08-01T22:35:36",
   "DFFlagFixCutAndUndoAfterSavingCSGUnionToNewFile": "True",
   "DFFlagPerformanceControlOverrideThrottlesForTelemetryBackends": "True",
   "FFlagStudioFontLoadingZeroBasedId": "True",
@@ -6706,8 +6705,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "a54f8d6bd79ade8414a53ffdd647df9344172d80",
-  "DFStringFlagRepoGitHashDynamicString": "a54f8d6bd79ade8414a53ffdd647df9344172d80",
-  "FStringFlipTimeStampFastString": "2023-08-01T23:40:05.529Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-01T23:40:05.529Z"
+  "FStringFlagRepoGitHashFastString": "47cd5a306320830f6b26fe33bcd6df0d161c3187",
+  "DFStringFlagRepoGitHashDynamicString": "47cd5a306320830f6b26fe33bcd6df0d161c3187",
+  "FStringFlipTimeStampFastString": "2023-08-01T23:43:39.331Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-01T23:43:39.331Z"
 }
