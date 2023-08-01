@@ -6468,6 +6468,9 @@
   "DFFlagHttpCacheReportSize": "True",
   "FFlagStudioTeamCreateWidgetFixBackgroundThemeChange": "True",
   "FFlagLuauTransitiveSubtyping": "True",
+  "FFlagPreventTagDuplicationOnModelImport_Rollout": "True;60;2023-08-01T21:51:18",
+  "FFlagCheckThreadResetBeforeResume_Rollout": "True;60;2023-08-01T21:51:28",
+  "FFlagAssetImportFixMayaTextures": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6723,8 +6726,8 @@
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedWindowsClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "b45f34bf2e69a0ee3f0fd27ccc6f1546132b7614",
-  "DFStringFlagRepoGitHashDynamicString": "b45f34bf2e69a0ee3f0fd27ccc6f1546132b7614",
-  "FStringFlipTimeStampFastString": "2023-08-01T21:52:06.111Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-01T21:52:06.111Z"
+  "FStringFlagRepoGitHashFastString": "3a6d0b74c83a9e3ef7fc54872fd8a8a418a11927",
+  "DFStringFlagRepoGitHashDynamicString": "3a6d0b74c83a9e3ef7fc54872fd8a8a418a11927",
+  "FStringFlipTimeStampFastString": "2023-08-01T21:53:48.343Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-01T21:53:48.343Z"
 }
