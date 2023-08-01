@@ -6456,7 +6456,6 @@
   "FFlagStudioFixNullNSScreen": "True",
   "FFlagReportQtDiagnosticsThrottled": "True",
   "FFlagInGameMenuRotationSelectionTabFix": "True",
-  "DFFlagPerformanceControlOverrideThrottlesForTelemetryBackends_Rollout": "True;60;2023-08-01T21:29:29",
   "DFIntInExpCreationEventsThrottleHundredthPercent": "10000",
   "FFlagChoosePlace17PlusFastFollow": "True",
   "DFFlagOverrideDefaultRCCJobHeartbeat2_Rollout": "True;60;2023-08-01T21:37:36",
@@ -6487,6 +6486,8 @@
   "FFlagBootcampCLI80445": "True",
   "FFlagAtomicPlayerRespawnFix_Rollout": "True;60;2023-08-01T22:35:36",
   "DFFlagFixCutAndUndoAfterSavingCSGUnionToNewFile": "True",
+  "FFlagUseNewDeviceListChangedSignal_Rollout": "True;30;2023-08-01T22:38:39",
+  "DFFlagPerformanceControlOverrideThrottlesForTelemetryBackends": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6748,8 +6749,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuWindowsClient",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedWindowsClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "aa3ebca20a987d70ac2891a033a6b7a490fba52c",
-  "DFStringFlagRepoGitHashDynamicString": "aa3ebca20a987d70ac2891a033a6b7a490fba52c",
-  "FStringFlipTimeStampFastString": "2023-08-01T22:39:32.570Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-01T22:39:32.570Z"
+  "FStringFlagRepoGitHashFastString": "60d8bb8cb8b9eaef764f4fb801c598b3b41873bd",
+  "DFStringFlagRepoGitHashDynamicString": "60d8bb8cb8b9eaef764f4fb801c598b3b41873bd",
+  "FStringFlipTimeStampFastString": "2023-08-01T22:40:38.910Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-01T22:40:38.910Z"
 }
