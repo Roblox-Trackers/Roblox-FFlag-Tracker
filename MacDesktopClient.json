@@ -6455,6 +6455,9 @@
   "FLogPluginLoadingEnhanced": "Verbose",
   "FLogStudioDocking": "Verbose",
   "FLogStudioPluginRelay": "Verbose",
+  "FFlagStudioSetDLLFlagsEarly": "True",
+  "FFlagStudioFixInvalidScreenCrash": "True",
+  "FFlagStudioFixNullNSScreen": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6705,8 +6708,8 @@
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenedMacClient",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "a11332116a4a37ba9f55659b5186fa243c6bc7fe",
-  "DFStringFlagRepoGitHashDynamicString": "a11332116a4a37ba9f55659b5186fa243c6bc7fe",
-  "FStringFlipTimeStampFastString": "2023-08-01T21:21:56.924Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-01T21:21:56.924Z"
+  "FStringFlagRepoGitHashFastString": "bc967de9a1489d215c0e4348ecc387f8b7d632e6",
+  "DFStringFlagRepoGitHashDynamicString": "bc967de9a1489d215c0e4348ecc387f8b7d632e6",
+  "FStringFlipTimeStampFastString": "2023-08-01T21:23:23.871Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-01T21:23:23.871Z"
 }
