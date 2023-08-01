@@ -6452,6 +6452,9 @@
   "FFlagRenderPerformanceTelemetry": "True",
   "FFlagEnablePhoneUseProvidedDefaultPrefixRelease1": "True",
   "FFlagExposeHintAndInformationSeverity": "True",
+  "FLogPluginLoadingEnhanced": "Verbose",
+  "FLogStudioDocking": "Verbose",
+  "FLogStudioPluginRelay": "Verbose",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6651,8 +6654,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "d8a5f3157dbc794b8e8dfee653db26d8a708b374",
-  "DFStringFlagRepoGitHashDynamicString": "d8a5f3157dbc794b8e8dfee653db26d8a708b374",
-  "FStringFlipTimeStampFastString": "2023-08-01T21:21:25.542Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-01T21:21:25.542Z"
+  "FStringFlagRepoGitHashFastString": "a11332116a4a37ba9f55659b5186fa243c6bc7fe",
+  "DFStringFlagRepoGitHashDynamicString": "a11332116a4a37ba9f55659b5186fa243c6bc7fe",
+  "FStringFlipTimeStampFastString": "2023-08-01T21:21:56.924Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-01T21:21:56.924Z"
 }
