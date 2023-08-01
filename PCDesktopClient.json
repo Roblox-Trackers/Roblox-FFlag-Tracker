@@ -6491,6 +6491,7 @@
   "FFlagEnableExtraOOMTelemetries_Rollout": "True;60;2023-08-01T22:45:33",
   "FFlagLuauAllowIndexClassParameters": "True",
   "DFFlagMemoryStoreUseNewErrorReporting3_Rollout": "True;60;2023-08-01T22:51:51",
+  "FFlagLuauInstantiateInSubtyping": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
