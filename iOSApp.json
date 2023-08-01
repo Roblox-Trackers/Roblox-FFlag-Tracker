@@ -6446,7 +6446,6 @@
   "FFlagEnableScriptAnalysisCallbacks2": "True",
   "FFlagSimEnableCSGV3InPlugin": "True",
   "FFlagSimShowDisableCSGV3PluginBox": "True",
-  "FFlagEnableLocationRecording_Rollout": "False;10;2023-08-01T21:39:08",
   "FFlagRenderPerformanceTelemetry": "True",
   "FFlagEnablePhoneUseProvidedDefaultPrefixRelease1": "True",
   "FFlagExposeHintAndInformationSeverity": "True",
@@ -6464,6 +6463,8 @@
   "FFlagChoosePlace17PlusFastFollow": "True",
   "DFFlagOverrideDefaultRCCJobHeartbeat2_Rollout": "True;60;2023-08-01T21:37:36",
   "FFlagAutoUpdateDontRaisePropChangeForSetAvailable": "True",
+  "FFlagEnableLocationRecording": "True",
+  "FFlagPublishPlaceRemoveConsoleDialog": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6787,8 +6788,9 @@
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenediOS",
   "DFFlagFixSessionTrackingSendSuccess": "False",
   "DFFlagDebugSendTDigestDebugInfo2": "True",
-  "FStringFlagRepoGitHashFastString": "5320287f13663ceb178aaffdfc44a25c2fdfcbe9",
-  "DFStringFlagRepoGitHashDynamicString": "5320287f13663ceb178aaffdfc44a25c2fdfcbe9",
-  "FStringFlipTimeStampFastString": "2023-08-01T21:41:35.404Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-01T21:41:35.404Z"
+  "FFlagEnableLocationRecording_Rollout": "False;10;2023-08-01T21:39:08",
+  "FStringFlagRepoGitHashFastString": "d87a027f46be098fceda53a7f9871abcd70fde2d",
+  "DFStringFlagRepoGitHashDynamicString": "d87a027f46be098fceda53a7f9871abcd70fde2d",
+  "FStringFlipTimeStampFastString": "2023-08-01T21:45:38.246Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-01T21:45:38.246Z"
 }
