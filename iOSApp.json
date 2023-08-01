@@ -6443,6 +6443,7 @@
   "FFlagToolboxPrepForRoact17Migration3": "True",
   "DFFlagAtomicPlayerStarterGUIFix2_Rollout": "True;60;2023-08-01T16:20:54",
   "FFlagLuauNormalizeCyclicUnions": "True",
+  "FIntSocialTabUserProfileApiRollout": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6759,15 +6760,14 @@
   "FFlagTrackDeeplinkLaunchFlow": "False",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": "True",
   "FLogDataModelPatchAnalytics": "6",
-  "FIntSocialTabUserProfileApiRollout": "100",
   "FIntFriendsCarouselUserProfileApiRollout": "100",
   "DFFlagDebugSendTDigestDebugInfo": "False",
   "FFlagEarlyCreateProfileTelemetry": "True",
   "FFlagReportFpsAndGfxQualityPercentiles": "False",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenediOS",
   "DFFlagFixSessionTrackingSendSuccess": "False",
-  "FStringFlagRepoGitHashFastString": "0bcf87e53468d245268e7c6900a9919b8b5a65f4",
-  "DFStringFlagRepoGitHashDynamicString": "0bcf87e53468d245268e7c6900a9919b8b5a65f4",
-  "FStringFlipTimeStampFastString": "2023-08-01T16:29:36.900Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-01T16:29:36.900Z"
+  "FStringFlagRepoGitHashFastString": "6bd4559d464abd107fdfd53ef1ec937e74e4c731",
+  "DFStringFlagRepoGitHashDynamicString": "6bd4559d464abd107fdfd53ef1ec937e74e4c731",
+  "FStringFlipTimeStampFastString": "2023-08-01T16:34:18.734Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-01T16:34:18.734Z"
 }
