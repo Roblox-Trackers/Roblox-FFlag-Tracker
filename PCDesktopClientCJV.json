@@ -6524,6 +6524,8 @@
   "FFlagUGCValidateBodyParts10": "True",
   "FFlagSharedTableLazyTableSupport": "True",
   "DFFlagHttpSignalAllResponses": "True",
+  "FFlagTerrainEditorIterativeTransform": "True",
+  "FFlagTerrainEditorTeachingCallouts": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6786,8 +6788,8 @@
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedWindowsClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "b7dff3314c455fdc3558db9b31ba9b9f9957b301",
-  "DFStringFlagRepoGitHashDynamicString": "b7dff3314c455fdc3558db9b31ba9b9f9957b301",
-  "FStringFlipTimeStampFastString": "2023-08-02T20:12:02.254Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-02T20:12:02.254Z"
+  "FStringFlagRepoGitHashFastString": "1567de259ea6100350203583c440c37e0588be11",
+  "DFStringFlagRepoGitHashDynamicString": "1567de259ea6100350203583c440c37e0588be11",
+  "FStringFlipTimeStampFastString": "2023-08-02T20:22:29.728Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-02T20:22:29.728Z"
 }
