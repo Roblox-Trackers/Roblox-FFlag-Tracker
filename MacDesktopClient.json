@@ -6520,6 +6520,11 @@
   "FFlagStudioTrackApplicationStates": "True",
   "FFlagSharedTableLazyTableSupport_Rollout": "True;60;2023-08-02T16:23:39",
   "DFFlagHttpSignalAllResponses_Rollout": "True;60;2023-08-02T16:28:36",
+  "FFlagAddValidateVertColorsAlpha": "True",
+  "FFlagAddValidateVertColorsAlphaUGCValidate": "True",
+  "FFlagRCCJobsUGCValidateBodyParts2": "True",
+  "FFlagRCCJobsUGCValidateExtraOwnershipChecks": "True",
+  "FFlagUGCValidateBodyParts10": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6776,8 +6781,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuMacClient",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedMacClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedMacClient",
-  "FStringFlagRepoGitHashFastString": "ff0a9c6d53dce7c40504f30cf0610686ca97b4b5",
-  "DFStringFlagRepoGitHashDynamicString": "ff0a9c6d53dce7c40504f30cf0610686ca97b4b5",
-  "FStringFlipTimeStampFastString": "2023-08-02T16:30:27.360Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-02T16:30:27.360Z"
+  "FStringFlagRepoGitHashFastString": "405b064066a8380fb0438ea98477c4a905a25172",
+  "DFStringFlagRepoGitHashDynamicString": "405b064066a8380fb0438ea98477c4a905a25172",
+  "FStringFlipTimeStampFastString": "2023-08-02T16:31:41.213Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-02T16:31:41.213Z"
 }
