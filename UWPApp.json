@@ -6332,7 +6332,7 @@
   "DFFlagDetectMultipleJoinsForTheSamePlaceID": "True",
   "FFlagSimSolverMeasureDualConvergence2": "True",
   "FIntFmodAndroidCloseSleepTimeMs": "10",
-  "DFFlagMemoryStoreUseNewErrorReporting3": "False",
+  "DFFlagMemoryStoreUseNewErrorReporting3": "True",
   "DFFlagMemoryStoreUseNewErrorReporting3_PlaceFilter": "True;6900974696;12743314221",
   "FFlagLuaAppEnableToastNotificationsCoreScripts4": "True",
   "FFlagFixToastTopPosition": "True",
@@ -6478,7 +6478,6 @@
   "FFlagStudioCorrectPasteSnapping": "True",
   "DFFlagOverrideDefaultRCCJobHeartbeat2": "True",
   "FFlagLuauAllowIndexClassParameters": "True",
-  "DFFlagMemoryStoreUseNewErrorReporting3_Rollout": "True;60;2023-08-01T22:51:51",
   "FFlagLuauInstantiateInSubtyping": "True",
   "DFFlagReportJoinStructureMismatchEx_Rollout": "True;60;2023-08-01T22:55:52",
   "FFlagCheckThreadResetBeforeResume": "True",
@@ -6707,8 +6706,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "682f8f45d48ab5364033eeb8d3aad8b59dd4653e",
-  "DFStringFlagRepoGitHashDynamicString": "682f8f45d48ab5364033eeb8d3aad8b59dd4653e",
-  "FStringFlipTimeStampFastString": "2023-08-01T23:57:21.778Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-01T23:57:21.778Z"
+  "FStringFlagRepoGitHashFastString": "f60d26a67df54221242a7f2a5c0a1eae527a86a3",
+  "DFStringFlagRepoGitHashDynamicString": "f60d26a67df54221242a7f2a5c0a1eae527a86a3",
+  "FStringFlipTimeStampFastString": "2023-08-01T23:59:48.362Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-01T23:59:48.362Z"
 }
