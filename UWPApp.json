@@ -6479,7 +6479,6 @@
   "DFFlagOverrideDefaultRCCJobHeartbeat2": "True",
   "FFlagLuauAllowIndexClassParameters": "True",
   "FFlagLuauInstantiateInSubtyping": "True",
-  "DFFlagReportJoinStructureMismatchEx_Rollout": "True;60;2023-08-01T22:55:52",
   "FFlagCheckThreadResetBeforeResume": "True",
   "FFlagPreventTagDuplicationOnModelImport": "True",
   "FFlagCompletionIconUpgrade": "True",
@@ -6508,6 +6507,7 @@
   "DFFlagMemoryStoreUseStringErrorCode_Rollout": "True;30;2023-08-01T23:54:31",
   "FFlagEnableExtraOOMTelemetries": "True",
   "FFlagUIBloxButtonPropsForEmptyState": "True",
+  "DFFlagReportJoinStructureMismatchEx": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6706,8 +6706,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "f60d26a67df54221242a7f2a5c0a1eae527a86a3",
-  "DFStringFlagRepoGitHashDynamicString": "f60d26a67df54221242a7f2a5c0a1eae527a86a3",
-  "FStringFlipTimeStampFastString": "2023-08-01T23:59:48.362Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-01T23:59:48.362Z"
+  "FStringFlagRepoGitHashFastString": "382840aa4d399a6f86c8d7135d66318718084518",
+  "DFStringFlagRepoGitHashDynamicString": "382840aa4d399a6f86c8d7135d66318718084518",
+  "FStringFlipTimeStampFastString": "2023-08-02T00:05:07.094Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-02T00:05:07.094Z"
 }
