@@ -6491,8 +6491,6 @@
   "DFFlagDontLeakPacketOnDisconnect": "True",
   "FFlagUseNewDeviceListChangedSignal": "True",
   "DFFlagStreamingSolverMultipleChanges": "True",
-  "DFFlagSimTransientlyForgoConstraintForceVisIfConstraintIsPendingReregistrationWithSolver_Rollout": "True;60;2023-08-01T23:14:35",
-  "DFFlagSimSolverRemovePostImplicitVelocityIntegrationAeroExplicitForceAccumulation_Rollout": "True;60;2023-08-01T23:14:46",
   "DFFlagClientBaseNetworkMetrics": "True",
   "DFIntNSHttpCookieStorageMigrationThrottleHundredthsPercent_Rollout": "10000;60;2023-08-01T23:18:25",
   "FStringInGameMenuModernizationBigTextForcedUserIds": "3878426504;",
@@ -6518,6 +6516,8 @@
   "DFLogVoiceChatGrpcTrace_PlaceFilter": "6;9134756438;9134768108",
   "DFLogVoiceChatOperationTrace": "0",
   "DFLogVoiceChatOperationTrace_PlaceFilter": "6;9134756438;9134768108",
+  "DFFlagSimSolverRemovePostImplicitVelocityIntegrationAeroExplicitForceAccumulation": "True",
+  "DFFlagSimTransientlyForgoConstraintForceVisIfConstraintIsPendingReregistrationWithSolver": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6780,8 +6780,8 @@
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedWindowsClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "3334527486394689c159c1425fdf695f6d6e01b9",
-  "DFStringFlagRepoGitHashDynamicString": "3334527486394689c159c1425fdf695f6d6e01b9",
-  "FStringFlipTimeStampFastString": "2023-08-02T00:18:10.376Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-02T00:18:10.376Z"
+  "FStringFlagRepoGitHashFastString": "08f5e86dd8cfefc7940761722995d7165f5af089",
+  "DFStringFlagRepoGitHashDynamicString": "08f5e86dd8cfefc7940761722995d7165f5af089",
+  "FStringFlipTimeStampFastString": "2023-08-02T00:24:55.843Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-02T00:24:55.843Z"
 }
