@@ -6526,6 +6526,12 @@
   "DFFlagHttpSignalAllResponses": "True",
   "FFlagTerrainEditorIterativeTransform": "True",
   "FFlagTerrainEditorTeachingCallouts": "True",
+  "FFlagAvatarChatBanMessage": "False",
+  "FFlagAvatarChatBanMessage_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418",
+  "FFlagEnableVoiceNudge": "False",
+  "FFlagEnableVoiceNudge_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418",
+  "FFlagUseLuaSignalrConsumer": "False",
+  "FFlagUseLuaSignalrConsumer_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6895,8 +6901,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuAndroid",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedAndroid",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedAndroid",
-  "FStringFlagRepoGitHashFastString": "1567de259ea6100350203583c440c37e0588be11",
-  "DFStringFlagRepoGitHashDynamicString": "1567de259ea6100350203583c440c37e0588be11",
-  "FStringFlipTimeStampFastString": "2023-08-02T20:22:29.728Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-02T20:22:29.728Z"
+  "FStringFlagRepoGitHashFastString": "e9b592610e560ae0d207ba90911e4029e0a4cfbf",
+  "DFStringFlagRepoGitHashDynamicString": "e9b592610e560ae0d207ba90911e4029e0a4cfbf",
+  "FStringFlipTimeStampFastString": "2023-08-02T20:36:40.489Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-02T20:36:40.489Z"
 }
