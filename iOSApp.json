@@ -6485,10 +6485,8 @@
   "FFlagLuauMaintainScopesInUnifier": "True",
   "FFlagBootcampCLI74407": "True",
   "FLogStudioQtCategoryTelemetry_qt_qpa_mime": "Error",
-  "FFlagMessageSlotImplConstructorChange_Rollout": "True;60;2023-08-01T23:03:31",
   "DFFlagLoadStreamAnimationReplaceErrorsWithTelemetry": "True",
   "FFlagPlayerSearchEmptyPageRefactor": "True",
-  "FFlagRetirePackageHash_Rollout": "True;60;2023-08-01T23:04:58",
   "FFlagExplorerRemoveStarterGuiMember": "True",
   "DFFlagDontLeakPacketOnDisconnect": "True",
   "FFlagUseNewDeviceListChangedSignal": "True",
@@ -6508,6 +6506,8 @@
   "FFlagEnableExtraOOMTelemetries": "True",
   "FFlagUIBloxButtonPropsForEmptyState": "True",
   "DFFlagReportJoinStructureMismatchEx": "True",
+  "FFlagMessageSlotImplConstructorChange": "True",
+  "FFlagRetirePackageHash": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6837,8 +6837,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuiOS",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatediOS",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailediOS",
-  "FStringFlagRepoGitHashFastString": "382840aa4d399a6f86c8d7135d66318718084518",
-  "DFStringFlagRepoGitHashDynamicString": "382840aa4d399a6f86c8d7135d66318718084518",
-  "FStringFlipTimeStampFastString": "2023-08-02T00:05:07.094Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-02T00:05:07.094Z"
+  "FStringFlagRepoGitHashFastString": "3d0e37838fd90314ae9ccf6ec0beaa425b16f837",
+  "DFStringFlagRepoGitHashDynamicString": "3d0e37838fd90314ae9ccf6ec0beaa425b16f837",
+  "FStringFlipTimeStampFastString": "2023-08-02T00:15:43.420Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-02T00:15:43.420Z"
 }
