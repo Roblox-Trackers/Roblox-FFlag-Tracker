@@ -6548,11 +6548,11 @@
   "DFIntScriptContextTelemetryThrottleHundredthsPercent_Rollout": "8;60;2023-08-03T18:54:20",
   "DFIntScopeCheckFailedEventThrottleHundredthPercent": "10000",
   "DFIntScopeCheckSuccessEventThrottleHundredthPercent": "1000",
-  "FFlagCheckCaps1_Rollout": "True;30;2023-08-03T19:07:08",
   "FFlagLuauFixCyclicModuleExports_Rollout": "True;60;2023-08-03T19:08:56",
   "FFlagUIBloxUseNewPlayerCount": "True",
   "FFlagDataModelCompareEngineVersion": "True",
   "FFlagReportStudioPlaceSaveCompressionRatio": "True",
+  "FFlagCheckCaps1": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6809,8 +6809,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuMacClient",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedMacClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedMacClient",
-  "FStringFlagRepoGitHashFastString": "f443b8c9ec521a17f4fc993e057b8c2026acf079",
-  "DFStringFlagRepoGitHashDynamicString": "f443b8c9ec521a17f4fc993e057b8c2026acf079",
-  "FStringFlipTimeStampFastString": "2023-08-03T19:34:55.129Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T19:34:55.129Z"
+  "FStringFlagRepoGitHashFastString": "e224741a76cbea9dac566c20cfae305dc436b2d5",
+  "DFStringFlagRepoGitHashDynamicString": "e224741a76cbea9dac566c20cfae305dc436b2d5",
+  "FStringFlipTimeStampFastString": "2023-08-03T19:44:43.174Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T19:44:43.174Z"
 }
