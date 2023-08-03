@@ -6547,6 +6547,8 @@
   "FFlagAXFixLegacyTryOn": "True",
   "DFIntScriptContextTelemetryThrottleHundredthsPercent_Rollout": "8;60;2023-08-03T18:54:20",
   "DFIntMemoryStoreErrorHundredthsPercent_Rollout": "100;30;2023-08-03T18:54:42",
+  "DFIntScopeCheckFailedEventThrottleHundredthPercent": "10000",
+  "DFIntScopeCheckSuccessEventThrottleHundredthPercent": "1000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6745,8 +6747,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "4e604bf7e19fd176a87e761c0f73ad242a6699ec",
-  "DFStringFlagRepoGitHashDynamicString": "4e604bf7e19fd176a87e761c0f73ad242a6699ec",
-  "FStringFlipTimeStampFastString": "2023-08-03T18:55:55.551Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T18:55:55.551Z"
+  "FStringFlagRepoGitHashFastString": "c608bfece3b2d7700e6ebf9aa965baf272658609",
+  "DFStringFlagRepoGitHashDynamicString": "c608bfece3b2d7700e6ebf9aa965baf272658609",
+  "FStringFlipTimeStampFastString": "2023-08-03T19:05:28.335Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T19:05:28.335Z"
 }
