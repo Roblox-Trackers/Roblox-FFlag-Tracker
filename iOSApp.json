@@ -6550,6 +6550,7 @@
   "DFIntScopeCheckFailedEventThrottleHundredthPercent": "10000",
   "DFIntScopeCheckSuccessEventThrottleHundredthPercent": "1000",
   "FFlagCheckCaps1_Rollout": "True;30;2023-08-03T19:07:08",
+  "FFlagLuauFixCyclicModuleExports_Rollout": "True;60;2023-08-03T19:08:56",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6879,8 +6880,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuiOS",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatediOS",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailediOS",
-  "FStringFlagRepoGitHashFastString": "b066334e5ec03ab35a0c7eecb19a8e8a88f24097",
-  "DFStringFlagRepoGitHashDynamicString": "b066334e5ec03ab35a0c7eecb19a8e8a88f24097",
-  "FStringFlipTimeStampFastString": "2023-08-03T19:08:47.816Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T19:08:47.816Z"
+  "FStringFlagRepoGitHashFastString": "75cdc034cd4e8301a9625725ec87347457c3790c",
+  "DFStringFlagRepoGitHashDynamicString": "75cdc034cd4e8301a9625725ec87347457c3790c",
+  "FStringFlipTimeStampFastString": "2023-08-03T19:10:22.788Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T19:10:22.788Z"
 }
