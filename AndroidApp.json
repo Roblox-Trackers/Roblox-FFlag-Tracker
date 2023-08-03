@@ -6592,7 +6592,6 @@
   "DFFlagAddPsidToPhysicsMemoryStats": "True",
   "DFFlagNoExtentsForPersistent": "True",
   "FFlagToolboxFixNoResultsVisibility": "True",
-  "FFlagDragDetectorPlayOnEmulatorFlickerFix_Rollout": "True;60;2023-08-03T22:31:11",
   "DFIntStudioLoginV1LoginTelemetryHundredthsPercent_Rollout": "10000;60;2023-08-03T22:36:59",
   "FFlagRefactorDragDetectorCursorIconWorkflow": "True",
   "DFFlagFixJoinMismatchSkip_Rollout": "True;60;2023-08-03T22:39:58",
@@ -6604,6 +6603,7 @@
   "FFlagLuauAutocompleteHideSelfArg_Rollout": "True;60;2023-08-03T23:23:04",
   "FFlagNavigationRemoveWidthBuffer": "True",
   "FFlagDragDetectorReplicateAxes": "True",
+  "FFlagDragDetectorPlayOnEmulatorFlickerFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6973,8 +6973,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuAndroid",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedAndroid",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedAndroid",
-  "FStringFlagRepoGitHashFastString": "8246bf12f5062d8633e960aede965a702a40d8ef",
-  "DFStringFlagRepoGitHashDynamicString": "8246bf12f5062d8633e960aede965a702a40d8ef",
-  "FStringFlipTimeStampFastString": "2023-08-03T23:36:34.745Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T23:36:34.745Z"
+  "FStringFlagRepoGitHashFastString": "878d69938e82e135ed3980db170bbf4abaaf2e82",
+  "DFStringFlagRepoGitHashDynamicString": "878d69938e82e135ed3980db170bbf4abaaf2e82",
+  "FStringFlipTimeStampFastString": "2023-08-03T23:39:46.927Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T23:39:46.927Z"
 }
