@@ -6554,6 +6554,8 @@
   "FFlagCheckCaps1": "True",
   "FFlagAutoUpdatePlugins": "True",
   "FFlagSharedTableErrorMessageForInvalidKeys_Rollout": "True;60;2023-08-03T20:04:57",
+  "FFlagDragDetectorLocalDragProperlyFiresDragStart_Rollout": "True;60;2023-08-03T20:07:03",
+  "DFFlagNewInferredCrashTelemetrySystem_Rollout": "False;60;2023-08-03T20:07:05",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6883,8 +6885,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuiOS",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatediOS",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailediOS",
-  "FStringFlagRepoGitHashFastString": "b98a70cbcf0e1b554e60e23a83c14e6ce8debd00",
-  "DFStringFlagRepoGitHashDynamicString": "b98a70cbcf0e1b554e60e23a83c14e6ce8debd00",
-  "FStringFlipTimeStampFastString": "2023-08-03T20:06:24.568Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T20:06:24.568Z"
+  "FStringFlagRepoGitHashFastString": "020609b57d792c463cc65edc83b110ea92ac5e3b",
+  "DFStringFlagRepoGitHashDynamicString": "020609b57d792c463cc65edc83b110ea92ac5e3b",
+  "FStringFlipTimeStampFastString": "2023-08-03T20:09:30.080Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T20:09:30.080Z"
 }
