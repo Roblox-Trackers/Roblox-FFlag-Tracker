@@ -6547,7 +6547,6 @@
   "FFlagAXFixLegacyTryOn": "True",
   "DFIntScopeCheckFailedEventThrottleHundredthPercent": "10000",
   "DFIntScopeCheckSuccessEventThrottleHundredthPercent": "1000",
-  "FFlagLuauFixCyclicModuleExports_Rollout": "True;60;2023-08-03T19:08:56",
   "FFlagUIBloxUseNewPlayerCount": "True",
   "FFlagDataModelCompareEngineVersion": "True",
   "FFlagReportStudioPlaceSaveCompressionRatio": "True",
@@ -6559,6 +6558,7 @@
   "FFlagDragDetectorLocalDragFrame_Rollout": "True;60;2023-08-03T20:10:14",
   "FFlagUserInputPlaybackPluginFixRecordingFileSelectorNotUpdating": "True",
   "FFlagDeferTerrainCheckToProcess_Rollout": "True;60;2023-08-03T20:14:59",
+  "FFlagLuauFixCyclicModuleExports": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6820,8 +6820,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuWindowsClient",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedWindowsClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "f9034d549765756049970794021edfc117d29263",
-  "DFStringFlagRepoGitHashDynamicString": "f9034d549765756049970794021edfc117d29263",
-  "FStringFlipTimeStampFastString": "2023-08-03T20:18:21.766Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T20:18:21.766Z"
+  "FStringFlagRepoGitHashFastString": "2bb32cc9c70dbb38c5eba09fbec2926e403f6e00",
+  "DFStringFlagRepoGitHashDynamicString": "2bb32cc9c70dbb38c5eba09fbec2926e403f6e00",
+  "FStringFlipTimeStampFastString": "2023-08-03T20:19:33.470Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T20:19:33.470Z"
 }
