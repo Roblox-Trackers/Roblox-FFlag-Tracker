@@ -6525,9 +6525,9 @@
   "FFlagEnableVoiceNudge_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626",
   "FFlagUseLuaSignalrConsumer": "False",
   "FFlagUseLuaSignalrConsumer_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626",
-  "FFlagDebugCollectQtDiagnostics": "False",
+  "FFlagDebugCollectQtDiagnostics": "True",
   "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "150",
-  "FStringDebugCollectQtDiagnosticsPrefix": "QObject::startTimer",
+  "FStringDebugCollectQtDiagnosticsPrefix": "Failed to map",
   "FFlag9SliceEditorShorterLoadTime": "True",
   "DFFlagFlagRolloutTestDynamicBool0": "True",
   "FFlagUserSearchLayerPassAllProps": "True",
@@ -6859,8 +6859,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuWindowsClient",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedWindowsClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "de80ad54df069e279355ee48ab0adc74db1a30c8",
-  "DFStringFlagRepoGitHashDynamicString": "de80ad54df069e279355ee48ab0adc74db1a30c8",
-  "FStringFlipTimeStampFastString": "2023-08-03T22:43:38.694Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T22:43:38.694Z"
+  "FStringFlagRepoGitHashFastString": "d68ad0fcd2c25a0591684967dc539957328a29d0",
+  "DFStringFlagRepoGitHashDynamicString": "d68ad0fcd2c25a0591684967dc539957328a29d0",
+  "FStringFlipTimeStampFastString": "2023-08-03T22:57:19.696Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T22:57:19.696Z"
 }
