@@ -6553,7 +6553,6 @@
   "FFlagCheckCaps1": "True",
   "FFlagAutoUpdatePlugins": "True",
   "FFlagUserInputPlaybackPluginFixRecordingFileSelectorNotUpdating": "True",
-  "FFlagDeferTerrainCheckToProcess_Rollout": "True;60;2023-08-03T20:14:59",
   "FFlagLuauFixCyclicModuleExports": "True",
   "DFFlagCLI73599Enabled": "True",
   "DFFlagAddPsidToPhysicsMemoryStats_Rollout": "True;60;2023-08-03T20:29:26",
@@ -6579,6 +6578,7 @@
   "FFlagDragDetectorLocalDragProperlyFiresDragStart": "True",
   "FFlagFixRichTextUpdateFont2": "True",
   "FFlagRefactorDragDetectorCursorIconWorkflow_Rollout": "True;60;2023-08-03T21:28:31",
+  "FFlagDeferTerrainCheckToProcess": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6948,8 +6948,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuAndroid",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedAndroid",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedAndroid",
-  "FStringFlagRepoGitHashFastString": "bc5238df625ed4da95b057a75907cb22e3a0df6a",
-  "DFStringFlagRepoGitHashDynamicString": "bc5238df625ed4da95b057a75907cb22e3a0df6a",
-  "FStringFlipTimeStampFastString": "2023-08-03T21:29:11.957Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T21:29:11.957Z"
+  "FStringFlagRepoGitHashFastString": "aee11788f2af6a008308dfe9f8696d804beeb86c",
+  "DFStringFlagRepoGitHashDynamicString": "aee11788f2af6a008308dfe9f8696d804beeb86c",
+  "FStringFlipTimeStampFastString": "2023-08-03T21:30:45.304Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T21:30:45.304Z"
 }
