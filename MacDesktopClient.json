@@ -6570,7 +6570,6 @@
   "FFlagDragDetectorLocalDragFrame": "True",
   "FFlagDragDetectorLocalDragProperlyFiresDragStart": "True",
   "FFlagFixRichTextUpdateFont2": "True",
-  "FFlagRefactorDragDetectorCursorIconWorkflow_Rollout": "True;60;2023-08-03T21:28:31",
   "FFlagDeferTerrainCheckToProcess": "True",
   "FFlagEnableSearchBarFilterButton2": "True",
   "FFlagEnableUpdatedToolboxSearchBarIcons2": "True",
@@ -6597,6 +6596,7 @@
   "FFlagToolboxFixNoResultsVisibility": "True",
   "FFlagDragDetectorPlayOnEmulatorFlickerFix_Rollout": "True;60;2023-08-03T22:31:11",
   "DFIntStudioLoginV1LoginTelemetryHundredthsPercent_Rollout": "10000;60;2023-08-03T22:36:59",
+  "FFlagRefactorDragDetectorCursorIconWorkflow": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6854,8 +6854,8 @@
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedMacClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedMacClient",
   "FFlagMacClientSupportIME7": "True",
-  "FStringFlagRepoGitHashFastString": "d89da0f073528128be87b561b451ff64568ccac7",
-  "DFStringFlagRepoGitHashDynamicString": "d89da0f073528128be87b561b451ff64568ccac7",
-  "FStringFlipTimeStampFastString": "2023-08-03T22:37:53.714Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T22:37:53.714Z"
+  "FStringFlagRepoGitHashFastString": "7650c6fafbfa883ae7e9f681407bb944718b3dc4",
+  "DFStringFlagRepoGitHashDynamicString": "7650c6fafbfa883ae7e9f681407bb944718b3dc4",
+  "FStringFlipTimeStampFastString": "2023-08-03T22:39:14.678Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T22:39:14.678Z"
 }
