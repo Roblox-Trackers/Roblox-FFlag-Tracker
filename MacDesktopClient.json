@@ -6594,6 +6594,8 @@
   "DFFlagReportJoinMismatchSkip": "True",
   "DFFlagAddPsidToPhysicsMemoryStats": "True",
   "DFFlagNoExtentsForPersistent": "True",
+  "FFlagToolboxFixNoResultsVisibility": "True",
+  "FFlagDragDetectorPlayOnEmulatorFlickerFix_Rollout": "True;60;2023-08-03T22:31:11",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6851,8 +6853,8 @@
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedMacClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedMacClient",
   "FFlagMacClientSupportIME7": "True",
-  "FStringFlagRepoGitHashFastString": "62b5da46d25c2f81f5ba75dfcd28842786f4ffee",
-  "DFStringFlagRepoGitHashDynamicString": "62b5da46d25c2f81f5ba75dfcd28842786f4ffee",
-  "FStringFlipTimeStampFastString": "2023-08-03T22:29:23.239Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T22:29:23.239Z"
+  "FStringFlagRepoGitHashFastString": "465b0401de1f3f45ca442f21ebc06847834497bd",
+  "DFStringFlagRepoGitHashDynamicString": "465b0401de1f3f45ca442f21ebc06847834497bd",
+  "FStringFlipTimeStampFastString": "2023-08-03T22:32:49.590Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T22:32:49.590Z"
 }
