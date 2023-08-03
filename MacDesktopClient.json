@@ -6569,6 +6569,8 @@
   "DFFlagScopeCheckAsyncEnabled_PlaceFilter": "True;12334418042;12992503026",
   "DFFlagEnablePackagePublish3_PlaceFilter": "True;12334418042;12992503026",
   "DFFlagPublishAssetPrompt2_PlaceFilter": "True;12334418042;12992503026",
+  "FFlagBytecodeVersion4_Rollout": "True;60;2023-08-03T20:54:14",
+  "DFFlagNoExtentsForPersistent_Rollout": "True;60;2023-08-03T20:54:59",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6825,8 +6827,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuMacClient",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedMacClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedMacClient",
-  "FStringFlagRepoGitHashFastString": "139ca56ff1f02705da1870c5aafabf916bf85871",
-  "DFStringFlagRepoGitHashDynamicString": "139ca56ff1f02705da1870c5aafabf916bf85871",
-  "FStringFlipTimeStampFastString": "2023-08-03T20:56:31.468Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T20:56:31.468Z"
+  "FStringFlagRepoGitHashFastString": "b5ad9e06c7f95f01e5cab3041ff5b58428b2417b",
+  "DFStringFlagRepoGitHashDynamicString": "b5ad9e06c7f95f01e5cab3041ff5b58428b2417b",
+  "FStringFlipTimeStampFastString": "2023-08-03T20:57:34.685Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T20:57:34.685Z"
 }
