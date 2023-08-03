@@ -6528,7 +6528,7 @@
   "FFlagEnableVoiceNudge_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418",
   "FFlagUseLuaSignalrConsumer": "False",
   "FFlagUseLuaSignalrConsumer_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418",
-  "FFlagDebugCollectQtDiagnostics": "True",
+  "FFlagDebugCollectQtDiagnostics": "False",
   "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "50",
   "FStringDebugCollectQtDiagnosticsPrefix": "QObject::startTimer",
   "FFlag9SliceEditorShorterLoadTime": "True",
