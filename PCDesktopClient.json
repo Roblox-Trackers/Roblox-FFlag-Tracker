@@ -6562,7 +6562,6 @@
   "DFFlagCLI73599Enabled": "True",
   "DFFlagAddPsidToPhysicsMemoryStats_Rollout": "True;60;2023-08-03T20:29:26",
   "DFFlagReportJoinMismatchSkip_Rollout": "True;60;2023-08-03T20:29:56",
-  "FFlagShowEditScriptTooltipDuringPlay_Rollout": "True;30;2023-08-03T20:33:51",
   "FFlagPlayerSearchPageMoveToSocialAnalytics": "True",
   "DFFlagDataStoreGetDataStoreRefactor_Rollout": "True;60;2023-08-03T20:42:41",
   "DFIntCLI73599B": "50",
@@ -6577,6 +6576,7 @@
   "FFlagEnableNudgeAnalyticsV2": "False",
   "FFlagEnableNudgeAnalyticsV2_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626",
   "DFFlagLocalizationUC5376": "True",
+  "FFlagShowEditScriptTooltipDuringPlay": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6838,8 +6838,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuWindowsClient",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedWindowsClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "85e6e25dba832f1dd93d34c14c50d9dd76a852ff",
-  "DFStringFlagRepoGitHashDynamicString": "85e6e25dba832f1dd93d34c14c50d9dd76a852ff",
-  "FStringFlipTimeStampFastString": "2023-08-03T21:07:54.942Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-03T21:07:54.942Z"
+  "FStringFlagRepoGitHashFastString": "91c6239a3faba782988a635dadc20beff7f9ac4f",
+  "DFStringFlagRepoGitHashDynamicString": "91c6239a3faba782988a635dadc20beff7f9ac4f",
+  "FStringFlipTimeStampFastString": "2023-08-03T21:11:40.481Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-03T21:11:40.481Z"
 }
