@@ -6605,7 +6605,6 @@
   "FFlagAddScreenshotInviteLinkHandling": "True",
   "FFlagSocialNetworkingShareLinksv131_v2": "True",
   "FFlagScreenshotSharingEnableExperiment_v2": "True",
-  "DFFlagTaskLibNoSoftNonSuspended2_Rollout": "True;60;2023-08-04T17:00:31",
   "FFlagEnableDetailsPageControllerBar3": "True",
   "FFlagUserFixOverlappingRtlChatMessages": "False",
   "FFlagACEReduceCurveButton": "True",
@@ -6621,6 +6620,7 @@
   "FFlagFunctionScriptSlotSimplification": "True",
   "FFlagUseFIntDevAtlasSize_Rollout": "True;30;2023-08-04T18:04:39",
   "FFlagDisableBatchTypingLatencyEvents": "True",
+  "DFFlagTaskLibNoSoftNonSuspended2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6988,8 +6988,8 @@
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedAndroid",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedAndroid",
   "DFFlagDebugSendTDigestDebugInfo2": "True",
-  "FStringFlagRepoGitHashFastString": "2c27d094a96aa3716a27cdd0754459efe973817c",
-  "DFStringFlagRepoGitHashDynamicString": "2c27d094a96aa3716a27cdd0754459efe973817c",
-  "FStringFlipTimeStampFastString": "2023-08-04T18:07:00.050Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-04T18:07:00.050Z"
+  "FStringFlagRepoGitHashFastString": "ecbfdde585ee0eeafd006867ad1f4ca835bde31a",
+  "DFStringFlagRepoGitHashDynamicString": "ecbfdde585ee0eeafd006867ad1f4ca835bde31a",
+  "FStringFlipTimeStampFastString": "2023-08-04T18:08:50.896Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-04T18:08:50.896Z"
 }
