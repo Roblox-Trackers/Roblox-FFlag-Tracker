@@ -6608,6 +6608,7 @@
   "FFlagIMESupportHighlight": "True",
   "FFlagAddScreenshotInviteLinkHandling": "True",
   "FFlagSocialNetworkingShareLinksv131_v2": "True",
+  "FFlagScreenshotSharingEnableExperiment_v2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6967,7 +6968,6 @@
   "EnablePushNotificationsPromptAndroid13": "True",
   "DFFlagFixSessionTrackingSendSuccess": "False",
   "FFlagTerrainVTEnableRelease587Fix": "True",
-  "FFlagScreenshotSharingEnableExperiment_v2": "True",
   "FStringCapturesActivatedInGameMenu": "CapturesActivatedInGameMenuAndroid",
   "FStringCapturesCarouselOpened": "CapturesCarouselOpenedAndroid",
   "FStringCapturesDeactivatedInGameMenu": "CapturesDeactivatedInGameMenuAndroid",
@@ -6975,8 +6975,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuAndroid",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedAndroid",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedAndroid",
-  "FStringFlagRepoGitHashFastString": "969194d2e05eb46753db9bcb54b555bf37bfaaaf",
-  "DFStringFlagRepoGitHashDynamicString": "969194d2e05eb46753db9bcb54b555bf37bfaaaf",
-  "FStringFlipTimeStampFastString": "2023-08-04T16:38:55.387Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-04T16:38:55.387Z"
+  "FStringFlagRepoGitHashFastString": "12848b0daa3815473ae3d4e4954a598686462f96",
+  "DFStringFlagRepoGitHashDynamicString": "12848b0daa3815473ae3d4e4954a598686462f96",
+  "FStringFlipTimeStampFastString": "2023-08-04T16:42:00.698Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-04T16:42:00.698Z"
 }
