@@ -6620,6 +6620,7 @@
   "FFlagOpenXrCycleThrottling": "True",
   "FFlagFunctionScriptSlotSimplification": "True",
   "FFlagUseFIntDevAtlasSize_Rollout": "True;30;2023-08-04T18:04:39",
+  "FFlagDisableBatchTypingLatencyEvents": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6877,8 +6878,8 @@
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedMacClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedMacClient",
   "FFlagMacClientSupportIME7": "True",
-  "FStringFlagRepoGitHashFastString": "74ac656620233726fce54e0623136846b49e5ab8",
-  "DFStringFlagRepoGitHashDynamicString": "74ac656620233726fce54e0623136846b49e5ab8",
-  "FStringFlipTimeStampFastString": "2023-08-04T18:05:52.115Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-04T18:05:52.115Z"
+  "FStringFlagRepoGitHashFastString": "2c27d094a96aa3716a27cdd0754459efe973817c",
+  "DFStringFlagRepoGitHashDynamicString": "2c27d094a96aa3716a27cdd0754459efe973817c",
+  "FStringFlipTimeStampFastString": "2023-08-04T18:07:00.050Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-04T18:07:00.050Z"
 }
