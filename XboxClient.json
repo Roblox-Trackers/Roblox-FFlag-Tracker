@@ -5718,7 +5718,7 @@
   "FFlagMultilayerWrapFixBetaFeature": "True",
   "FFlagContentProviderScopeFix": "True",
   "FFlagLuauCloneSkipNonInternalVisit": "True",
-  "DFIntMemoryStoreErrorHundredthsPercent": "100",
+  "DFIntMemoryStoreErrorHundredthsPercent": "500",
   "FFlagSimCSGV3AddModifiedFacesTracking": "True",
   "FFlagDoNotSendPremiumUpsellMetrics": "True",
   "FFlagFriendsPageAllowMultipleUIStates_v1": "True",
@@ -6600,7 +6600,6 @@
   "FFlagNavigationRemoveWidthBuffer": "True",
   "FFlagDragDetectorReplicateAxes": "True",
   "FFlagDragDetectorPlayOnEmulatorFlickerFix": "True",
-  "DFIntMemoryStoreErrorHundredthsPercent_Rollout": "500;30;2023-08-03T23:38:42",
   "DFIntStudioLoginV1LoginTelemetryHundredthsPercent": "10000",
   "DFFlagFixJoinMismatchSkip": "True",
   "FFlagClearSelectionOnCompose_Rollout": "True;60;2023-08-03T23:55:28",
@@ -6801,8 +6800,8 @@
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "0bc0bb8506c5a97b37b3ed33f41e310c09191891",
-  "DFStringFlagRepoGitHashDynamicString": "0bc0bb8506c5a97b37b3ed33f41e310c09191891",
-  "FStringFlipTimeStampFastString": "2023-08-04T00:09:49.101Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-04T00:09:49.101Z"
+  "FStringFlagRepoGitHashFastString": "105e28a315a7fd7cff5d9ecaa93d41d7f58db287",
+  "DFStringFlagRepoGitHashDynamicString": "105e28a315a7fd7cff5d9ecaa93d41d7f58db287",
+  "FStringFlipTimeStampFastString": "2023-08-04T00:20:04.552Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-04T00:20:04.552Z"
 }
