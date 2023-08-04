@@ -5749,7 +5749,6 @@
   "FFlagAssetManagerUseEventIngest": "True",
   "FFlagEnableIAPEntryPointDisablePolicyV2": "True",
   "FFlagVRAvatarEditorBugFixes": "True",
-  "FLogStudioQtCategoryLog_qtitan_docking": "Debug",
   "FFlagLuaAppMigrateHomeGameGridImpressions2": "True",
   "DFFlagTeleportServiceV2MetricsPart3": "True",
   "DFIntTeleportV2InvocationsAnalyticsInfluxHundredthsPercentage": "100",
@@ -5793,7 +5792,6 @@
   "FFlagAlwaysMountVoicePrompt": "True",
   "FFlagAXFixFilterFontColor": "True",
   "FFlagAXAnimateScrollPanel": "True",
-  "FLogStudioQtCategoryTelemetry_qtitan_docking": "Warning",
   "FFlagBootcampCLI72857": "True",
   "FFlagDeprecateReturnPortal": "True",
   "FFlagChangeDefaultBorder": "True",
@@ -6437,9 +6435,6 @@
   "FFlagRenderPerformanceTelemetry": "True",
   "FFlagEnablePhoneUseProvidedDefaultPrefixRelease1": "True",
   "FFlagExposeHintAndInformationSeverity": "True",
-  "FLogPluginLoadingEnhanced": "Verbose",
-  "FLogStudioDocking": "Verbose",
-  "FLogStudioPluginRelay": "Verbose",
   "FFlagStudioSetDLLFlagsEarly": "True",
   "FFlagStudioFixInvalidScreenCrash": "True",
   "FFlagStudioFixNullNSScreen": "True",
@@ -6819,8 +6814,8 @@
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "4b8a9654a23cc1c5d76266379d596029ce0d49de",
-  "DFStringFlagRepoGitHashDynamicString": "4b8a9654a23cc1c5d76266379d596029ce0d49de",
-  "FStringFlipTimeStampFastString": "2023-08-04T19:23:26.302Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-04T19:23:26.302Z"
+  "FStringFlagRepoGitHashFastString": "c5980b6eb74ccc916eff6da5bde11ebbd7304134",
+  "DFStringFlagRepoGitHashDynamicString": "c5980b6eb74ccc916eff6da5bde11ebbd7304134",
+  "FStringFlipTimeStampFastString": "2023-08-04T19:29:38.603Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-04T19:29:38.603Z"
 }
