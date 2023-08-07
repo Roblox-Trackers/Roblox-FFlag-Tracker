@@ -5598,7 +5598,7 @@
   "FFlagAICOCompletionAcceptedValidDocCheck": "True",
   "FFlagAICOTooltipLoadFontSetting": "True",
   "DFIntMemoryPressureGCStatsHundredths": "100",
-  "DFFlagMemoryPressureGCStats": "True",
+  "DFFlagMemoryPressureGCStats": "False",
   "FFlagEnableApolloClientInExperience": "True",
   "FFlagPYMKCarouselCleanCode": "True",
   "FFlagStudioDeviceEmulatorMacFixRightMouseClick": "True",
@@ -6618,7 +6618,6 @@
   "FFlagShareLinkFixErrorModal": "True",
   "FFlagKeepTextWhitespacing": "True",
   "FFlagHomeShareLinkRefactor": "True",
-  "DFFlagMemoryPressureGCStats_Rollout": "False;60;2023-08-07T16:47:45",
   "FFlagFCIgnoreDeformersNotReady3_Rollout": "True;60;2023-08-07T16:50:22",
   "FFlagUpdateNameTagWhenScrollHorizontally": "True",
   "DFFlagPerfTimerUseSTMap_Rollout": "True;60;2023-08-07T17:00:10",
@@ -6888,8 +6887,8 @@
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedMacClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedMacClient",
   "FFlagMacClientSupportIME7": "True",
-  "FStringFlagRepoGitHashFastString": "7435cbe657455b26e71821066369d82e0939bf3a",
-  "DFStringFlagRepoGitHashDynamicString": "7435cbe657455b26e71821066369d82e0939bf3a",
-  "FStringFlipTimeStampFastString": "2023-08-07T17:47:35.559Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-07T17:47:35.559Z"
+  "FStringFlagRepoGitHashFastString": "ce7395272d2d137ec4326175f7da5194052712d9",
+  "DFStringFlagRepoGitHashDynamicString": "ce7395272d2d137ec4326175f7da5194052712d9",
+  "FStringFlipTimeStampFastString": "2023-08-07T17:54:31.953Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-07T17:54:31.953Z"
 }
