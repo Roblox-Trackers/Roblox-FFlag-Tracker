@@ -6502,7 +6502,7 @@
   "FFlagEnableVoiceNudge_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626",
   "FFlagUseLuaSignalrConsumer": "False",
   "FFlagUseLuaSignalrConsumer_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626",
-  "FFlagDebugCollectQtDiagnostics": "True",
+  "FFlagDebugCollectQtDiagnostics": "False",
   "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "500",
   "FStringDebugCollectQtDiagnosticsPrefix": "QObject::connect",
   "FFlag9SliceEditorShorterLoadTime": "True",
@@ -6906,8 +6906,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuWindowsClient",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedWindowsClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "6858c3a35cb4ca6e0c0cfafe6adc38f3b7a2e6b7",
-  "DFStringFlagRepoGitHashDynamicString": "6858c3a35cb4ca6e0c0cfafe6adc38f3b7a2e6b7",
-  "FStringFlipTimeStampFastString": "2023-08-07T21:36:51.057Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-07T21:36:51.057Z"
+  "FStringFlagRepoGitHashFastString": "74809d37479d98ea551fc997029e209b83d17dc3",
+  "DFStringFlagRepoGitHashDynamicString": "74809d37479d98ea551fc997029e209b83d17dc3",
+  "FStringFlipTimeStampFastString": "2023-08-07T21:49:46.285Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-07T21:49:46.285Z"
 }
