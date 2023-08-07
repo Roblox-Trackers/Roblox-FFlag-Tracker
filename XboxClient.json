@@ -6616,7 +6616,6 @@
   "DFFlagVoiceChatControlPlaneClientJoinV2_PlaceFilter": "True;9134756438;9134768108",
   "FFlagVoiceChatNewClientJoinFlowV2": "False",
   "FFlagVoiceChatNewClientJoinFlowV2_PlaceFilter": "True;9134756438;9134768108",
-  "FFlagTrackAllDeviceMemory8_Rollout": "True;60;2023-08-07T16:01:35",
   "FFlagShareLinkFixErrorModal": "True",
   "FFlagKeepTextWhitespacing": "True",
   "FFlagHomeShareLinkRefactor": "True",
@@ -6626,6 +6625,7 @@
   "DFFlagPerfTimerUseSTMap_Rollout": "True;60;2023-08-07T17:00:10",
   "DFFlagPerfAggregateUseSTMap_Rollout": "True;60;2023-08-07T17:00:14",
   "FFlagMemoryCategoryUseSTMap_Rollout": "True;60;2023-08-07T17:00:17",
+  "FFlagTrackAllDeviceMemory8": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6820,8 +6820,8 @@
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "d2d08f5cf11073f5d3077fd4282786de77f87dcb",
-  "DFStringFlagRepoGitHashDynamicString": "d2d08f5cf11073f5d3077fd4282786de77f87dcb",
-  "FStringFlipTimeStampFastString": "2023-08-07T17:02:31.477Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-07T17:02:31.477Z"
+  "FStringFlagRepoGitHashFastString": "4b02b663421693df3c858b6dabcc5ac31d76041b",
+  "DFStringFlagRepoGitHashDynamicString": "4b02b663421693df3c858b6dabcc5ac31d76041b",
+  "FStringFlipTimeStampFastString": "2023-08-07T17:09:01.915Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-07T17:09:01.915Z"
 }
