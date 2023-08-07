@@ -6620,7 +6620,6 @@
   "FFlagHomeShareLinkRefactor": "True",
   "FFlagUpdateNameTagWhenScrollHorizontally": "True",
   "FFlagTrackAllDeviceMemory8": "True",
-  "FFlagExperienceLaunchFlowUseSTMap_Rollout": "True;60;2023-08-07T17:15:53",
   "FFlagAssetImportJointNoNameFix": "True",
   "FFlagLuauCompileFixBuiltinArity": "True",
   "FFlagLuauCompileBuiltinTonumber": "True",
@@ -6633,6 +6632,7 @@
   "FFlagMemoryCategoryUseSTMap": "True",
   "DFFlagIgnoreCustomEventReceiverSource_Rollout": "False;60;2023-08-07T18:14:27",
   "FFlagTrackAllDeviceMemory8_Rollout": "False;60;2023-08-07T18:15:44",
+  "FFlagExperienceLaunchFlowUseSTMap": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7001,8 +7001,8 @@
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedAndroid",
   "DFFlagDebugSendTDigestDebugInfo2": "True",
   "FFlagEnableDMInitMeasurement": "True",
-  "FStringFlagRepoGitHashFastString": "c8ce66083e7559dd5411ce43b99e22b2b502743d",
-  "DFStringFlagRepoGitHashDynamicString": "c8ce66083e7559dd5411ce43b99e22b2b502743d",
-  "FStringFlipTimeStampFastString": "2023-08-07T18:16:24.861Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-07T18:16:24.861Z"
+  "FStringFlagRepoGitHashFastString": "cc716a031fc30b072eb4b8f11dc31137b98b4ed6",
+  "DFStringFlagRepoGitHashDynamicString": "cc716a031fc30b072eb4b8f11dc31137b98b4ed6",
+  "FStringFlipTimeStampFastString": "2023-08-07T18:30:13.629Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-07T18:30:13.629Z"
 }
