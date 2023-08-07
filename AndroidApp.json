@@ -6510,9 +6510,9 @@
   "FFlagEnableVoiceNudge_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626",
   "FFlagUseLuaSignalrConsumer": "False",
   "FFlagUseLuaSignalrConsumer_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626",
-  "FFlagDebugCollectQtDiagnostics": "False",
-  "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "300",
-  "FStringDebugCollectQtDiagnosticsPrefix": "Last minute update",
+  "FFlagDebugCollectQtDiagnostics": "True",
+  "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "100",
+  "FStringDebugCollectQtDiagnosticsPrefix": "QGradient",
   "FFlag9SliceEditorShorterLoadTime": "True",
   "DFFlagFlagRolloutTestDynamicBool0": "True",
   "FFlagUserSearchLayerPassAllProps": "True",
@@ -7007,8 +7007,8 @@
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedAndroid",
   "DFFlagDebugSendTDigestDebugInfo2": "True",
   "FFlagEnableDMInitMeasurement": "True",
-  "FStringFlagRepoGitHashFastString": "0b3a678280ddd6788e93a0cab3b71148abbb93df",
-  "DFStringFlagRepoGitHashDynamicString": "0b3a678280ddd6788e93a0cab3b71148abbb93df",
-  "FStringFlipTimeStampFastString": "2023-08-07T19:56:29.193Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-07T19:56:29.193Z"
+  "FStringFlagRepoGitHashFastString": "e22bfb59510b8d3d151d7bfd7d90ee4b65561b6c",
+  "DFStringFlagRepoGitHashDynamicString": "e22bfb59510b8d3d151d7bfd7d90ee4b65561b6c",
+  "FStringFlipTimeStampFastString": "2023-08-07T19:59:47.502Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-07T19:59:47.502Z"
 }
