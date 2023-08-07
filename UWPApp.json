@@ -6640,6 +6640,9 @@
   "DFFlagAutoNetworkOwnershipUsesNOUs": "True",
   "FFlagCOLLAB4099FixReloadOfModeratedAssets": "True",
   "DFFlagBlockInvalidJoin": "True",
+  "FFlagHumanoidDeferredSyncFunction5": "True",
+  "FFlagHumanoidParallelOnStep2": "True",
+  "FFlagHumanoidParallelUseManager4": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6815,10 +6818,7 @@
   "DFFlagInferredCrashSystemSuccessReportMove": "True",
   "FFlagReportDesktopClientOsVersion": "False",
   "DFFlagRenderTC2_6": "False",
-  "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelFixTickleFloor2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagSessionHeartbeatAddSessionInfo": "True",
   "FFlagSessionAppLifecycleEvents": "True",
   "FFlagSessionAnalyticsIdleState3": "True",
@@ -6838,8 +6838,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "c5660e6e98ae6669d260317bc4cf1c1032030eab",
-  "DFStringFlagRepoGitHashDynamicString": "c5660e6e98ae6669d260317bc4cf1c1032030eab",
-  "FStringFlipTimeStampFastString": "2023-08-07T20:03:19.113Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-07T20:03:19.113Z"
+  "FStringFlagRepoGitHashFastString": "d5831ef059d5129895920cc5f00a4e98c77bdb42",
+  "DFStringFlagRepoGitHashDynamicString": "d5831ef059d5129895920cc5f00a4e98c77bdb42",
+  "FStringFlipTimeStampFastString": "2023-08-07T20:04:26.589Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-07T20:04:26.589Z"
 }
