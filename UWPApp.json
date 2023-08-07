@@ -6619,9 +6619,6 @@
   "FFlagKeepTextWhitespacing": "True",
   "FFlagHomeShareLinkRefactor": "True",
   "FFlagUpdateNameTagWhenScrollHorizontally": "True",
-  "DFFlagPerfTimerUseSTMap_Rollout": "True;60;2023-08-07T17:00:10",
-  "DFFlagPerfAggregateUseSTMap_Rollout": "True;60;2023-08-07T17:00:14",
-  "FFlagMemoryCategoryUseSTMap_Rollout": "True;60;2023-08-07T17:00:17",
   "FFlagTrackAllDeviceMemory8": "True",
   "FFlagExperienceLaunchFlowUseSTMap_Rollout": "True;60;2023-08-07T17:15:53",
   "FFlagAssetImportJointNoNameFix": "True",
@@ -6631,6 +6628,9 @@
   "FFlagFCIgnoreDeformersNotReady3": "True",
   "FFlagEnableMaquettesPurchase": "True",
   "FFlagMaquettesPurchaseBeforeFinish": "True",
+  "DFFlagPerfAggregateUseSTMap": "True",
+  "DFFlagPerfTimerUseSTMap": "True",
+  "FFlagMemoryCategoryUseSTMap": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6829,8 +6829,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "10000",
   "FFlagEnableRealtimeRolloutCheck2": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "1762a5199bcf6f208b25c92158ea50e9e2ece0d1",
-  "DFStringFlagRepoGitHashDynamicString": "1762a5199bcf6f208b25c92158ea50e9e2ece0d1",
-  "FStringFlipTimeStampFastString": "2023-08-07T18:03:43.389Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-07T18:03:43.389Z"
+  "FStringFlagRepoGitHashFastString": "8e72e910e1dfb6c2660fc735b83256aea7f1ff6b",
+  "DFStringFlagRepoGitHashDynamicString": "8e72e910e1dfb6c2660fc735b83256aea7f1ff6b",
+  "FStringFlipTimeStampFastString": "2023-08-07T18:09:30.147Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-07T18:09:30.147Z"
 }
