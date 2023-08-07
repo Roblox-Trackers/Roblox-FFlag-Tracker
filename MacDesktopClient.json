@@ -6649,10 +6649,10 @@
   "DFFlagNfwlTracking": "True",
   "FFlagDisablePurchasePromptFunctionForMaquettes": "True",
   "FFlagIsCollectibleSellableInShopFix": "True",
-  "DFFlagDuplicateRejectionReportTracking_Rollout": "True;60;2023-08-07T22:29:07",
   "FFlagLuaAppUnifyCodeToGenerateRbxThumb3": "True",
   "FIntDevGlyphAtlasHeight": "4096",
   "FFlagIMESupportHighlight_Rollout": "False;30;2023-08-07T23:35:53",
+  "DFFlagDuplicateRejectionReportTracking": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6909,8 +6909,8 @@
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedMacClient",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailedMacClient",
   "FFlagMacClientSupportIME7": "False",
-  "FStringFlagRepoGitHashFastString": "2453f97b7d6261005687599b0b8466fb1cf5595c",
-  "DFStringFlagRepoGitHashDynamicString": "2453f97b7d6261005687599b0b8466fb1cf5595c",
-  "FStringFlipTimeStampFastString": "2023-08-07T23:37:16.736Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-07T23:37:16.736Z"
+  "FStringFlagRepoGitHashFastString": "df3b865cf97edae9c5a66dbd50452ee8682b4e85",
+  "DFStringFlagRepoGitHashDynamicString": "df3b865cf97edae9c5a66dbd50452ee8682b4e85",
+  "FStringFlipTimeStampFastString": "2023-08-07T23:39:14.228Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-07T23:39:14.228Z"
 }
