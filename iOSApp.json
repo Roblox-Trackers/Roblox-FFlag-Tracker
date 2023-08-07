@@ -6623,6 +6623,9 @@
   "DFFlagMemoryPressureGCStats_Rollout": "False;60;2023-08-07T16:47:45",
   "FFlagFCIgnoreDeformersNotReady3_Rollout": "True;60;2023-08-07T16:50:22",
   "FFlagUpdateNameTagWhenScrollHorizontally": "True",
+  "DFFlagPerfTimerUseSTMap_Rollout": "True;60;2023-08-07T17:00:10",
+  "DFFlagPerfAggregateUseSTMap_Rollout": "True;60;2023-08-07T17:00:14",
+  "FFlagMemoryCategoryUseSTMap_Rollout": "True;60;2023-08-07T17:00:17",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6952,8 +6955,8 @@
   "FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuiOS",
   "FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatediOS",
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailediOS",
-  "FStringFlagRepoGitHashFastString": "e3750df34aa4b5a5ba37888c127e9b090866702d",
-  "DFStringFlagRepoGitHashDynamicString": "e3750df34aa4b5a5ba37888c127e9b090866702d",
-  "FStringFlipTimeStampFastString": "2023-08-07T16:59:32.989Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-07T16:59:32.989Z"
+  "FStringFlagRepoGitHashFastString": "d2d08f5cf11073f5d3077fd4282786de77f87dcb",
+  "DFStringFlagRepoGitHashDynamicString": "d2d08f5cf11073f5d3077fd4282786de77f87dcb",
+  "FStringFlipTimeStampFastString": "2023-08-07T17:02:31.477Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-07T17:02:31.477Z"
 }
