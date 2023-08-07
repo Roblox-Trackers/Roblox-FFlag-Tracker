@@ -6502,9 +6502,9 @@
   "FFlagEnableVoiceNudge_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626",
   "FFlagUseLuaSignalrConsumer": "False",
   "FFlagUseLuaSignalrConsumer_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626",
-  "FFlagDebugCollectQtDiagnostics": "False",
-  "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "100",
-  "FStringDebugCollectQtDiagnosticsPrefix": "QGradient",
+  "FFlagDebugCollectQtDiagnostics": "True",
+  "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "500",
+  "FStringDebugCollectQtDiagnosticsPrefix": "QObject::connect",
   "FFlag9SliceEditorShorterLoadTime": "True",
   "DFFlagFlagRolloutTestDynamicBool0": "True",
   "FFlagUserSearchLayerPassAllProps": "True",
@@ -6832,8 +6832,8 @@
   "FStringFeature_XboxNewCrashpadChanges": "569;100",
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
   "DFFlagFixSessionTrackingSendSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "d6a4b0392e4cf598f60afe54da6e538d21a9df6b",
-  "DFStringFlagRepoGitHashDynamicString": "d6a4b0392e4cf598f60afe54da6e538d21a9df6b",
-  "FStringFlipTimeStampFastString": "2023-08-07T20:54:26.813Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-07T20:54:26.813Z"
+  "FStringFlagRepoGitHashFastString": "65efb1d3c990411536e1109b7a7c0ccfb4bceaf6",
+  "DFStringFlagRepoGitHashDynamicString": "65efb1d3c990411536e1109b7a7c0ccfb4bceaf6",
+  "FStringFlipTimeStampFastString": "2023-08-07T21:00:34.818Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-07T21:00:34.818Z"
 }
