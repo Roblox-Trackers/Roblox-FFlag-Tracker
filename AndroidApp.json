@@ -6497,8 +6497,7 @@
   "DFFlagHttpSignalAllResponses": "True",
   "FFlagTerrainEditorIterativeTransform": "True",
   "FFlagTerrainEditorTeachingCallouts": "True",
-  "FFlagAvatarChatBanMessage": "False",
-  "FFlagAvatarChatBanMessage_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626",
+  "FFlagAvatarChatBanMessage": "True",
   "FFlagEnableVoiceNudge": "False",
   "FFlagEnableVoiceNudge_PlaceFilter": "True;12123120785;12867047376;12867089300;14066075418;12339044345;13344085926;13344098671;13344101574;13344102517;13344103529;13344104459;13344106084;13344107172;13344107492;13344120626",
   "FFlagUseLuaSignalrConsumer": "False",
@@ -6639,6 +6638,8 @@
   "FFlagAddFriendsPYMKUpdateAnalytics": "True",
   "FFlagAinValidateLCOnlyForCages": "True",
   "FFlagVoiceBanPromptShowSeconds": "True",
+  "FFlagEnableMenuModernizationABTest": "True",
+  "FFlagEnableMenuModernizationABTest2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7011,8 +7012,8 @@
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "FIntFriendsLandingUserProfileApiRollout": "100",
   "FIntSocialTabUserProfileApiRollout": "100",
-  "FStringFlagRepoGitHashFastString": "99bf7db0ce7344f3a39be6802ecafb09b4c4fe86",
-  "DFStringFlagRepoGitHashDynamicString": "99bf7db0ce7344f3a39be6802ecafb09b4c4fe86",
-  "FStringFlipTimeStampFastString": "2023-08-07T20:39:12.489Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-07T20:39:12.489Z"
+  "FStringFlagRepoGitHashFastString": "ecef0264e28b30363c8fdef21d54e08eeed6992b",
+  "DFStringFlagRepoGitHashDynamicString": "ecef0264e28b30363c8fdef21d54e08eeed6992b",
+  "FStringFlipTimeStampFastString": "2023-08-07T20:44:01.486Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-07T20:44:01.486Z"
 }
