@@ -6669,7 +6669,6 @@
   "FFlagLuauDisableCompletionOutsideQuotes": "True",
   "FFlagStreamSyncRequest5": "True",
   "DFFlagEnableCanUserChatAsync": "True",
-  "DFFlagRccJobUsesEngineContext_Rollout": "True;60;2023-08-08T21:33:17",
   "DFFlagPlayerGuiOverlayCustomStatus_Rollout": "True;60;2023-08-08T21:57:09",
   "FFlagUserFixOverlappingRtlChatMessages2": "False",
   "FFlagAvatarChatSelfViewShowDefaultCursor": "True",
@@ -6678,7 +6677,6 @@
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
-  "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagProfilePeekViewAliasTooltip_v1": "True",
   "FFlagDeprecateDuplicateThumbnailConstants": "True",
   "FFlagWriteNamesQueryFallbackCombinedNameEnabled": "True",
@@ -6687,6 +6685,7 @@
   "FFlagUseNewPresenceIndicator": "True",
   "DFFlagMarkerCurveCheckerEnabled_Rollout": "False;60;2023-08-08T22:29:34",
   "FFlagUpgradeExpChatV4_1_2": "True",
+  "DFFlagRccJobUsesEngineContext": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6950,8 +6949,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "337e6ce46c084cea66b40bfec33288bbc1ecefaf",
-  "DFStringFlagRepoGitHashDynamicString": "337e6ce46c084cea66b40bfec33288bbc1ecefaf",
-  "FStringFlipTimeStampFastString": "2023-08-08T22:40:14.512Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-08T22:40:14.512Z"
+  "FStringFlagRepoGitHashFastString": "7b1f4a4b309190a0b628aff4e66a9e9bea32266c",
+  "DFStringFlagRepoGitHashDynamicString": "7b1f4a4b309190a0b628aff4e66a9e9bea32266c",
+  "FStringFlipTimeStampFastString": "2023-08-08T22:44:00.780Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-08T22:44:00.780Z"
 }
