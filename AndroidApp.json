@@ -6671,6 +6671,7 @@
   "DFFlagEnableCanUserChatAsync": "True",
   "DFFlagRccJobUsesEngineContext_Rollout": "True;60;2023-08-08T21:33:17",
   "DFFlagPlayerGuiOverlayCustomStatus_Rollout": "True;60;2023-08-08T21:57:09",
+  "FFlagUserFixOverlappingRtlChatMessages2": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7051,8 +7052,8 @@
   "FIntPlayerListUserProfileApiRollout_v2": "100",
   "FFlagUserSearchRealNamesEnabled_v1": "True",
   "FIntExperienceChatUserProfileApiRollout_v1": "100",
-  "FStringFlagRepoGitHashFastString": "7e5d9c66e14952921261c7f4104eca3e29a7f622",
-  "DFStringFlagRepoGitHashDynamicString": "7e5d9c66e14952921261c7f4104eca3e29a7f622",
-  "FStringFlipTimeStampFastString": "2023-08-08T21:57:49.003Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-08T21:57:49.003Z"
+  "FStringFlagRepoGitHashFastString": "e5a300ef586fcdc742c9185ecdc1671bc5d8d89f",
+  "DFStringFlagRepoGitHashDynamicString": "e5a300ef586fcdc742c9185ecdc1671bc5d8d89f",
+  "FStringFlipTimeStampFastString": "2023-08-08T21:59:53.661Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-08T21:59:53.661Z"
 }
