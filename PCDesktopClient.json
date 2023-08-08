@@ -6614,7 +6614,7 @@
   "FFlagLuauCompileFixBuiltinArity": "True",
   "FFlagLuauCompileBuiltinTonumber": "True",
   "FFlagLuauCompileBuiltinTostring": "True",
-  "FFlagFCIgnoreDeformersNotReady3": "True",
+  "FFlagFCIgnoreDeformersNotReady3": "False",
   "FFlagEnableMaquettesPurchase": "True",
   "FFlagMaquettesPurchaseBeforeFinish": "True",
   "DFFlagPerfAggregateUseSTMap": "True",
@@ -6662,7 +6662,6 @@
   "FFlagAlwaysImportAnimationFromVideoBasedOnFBXModel": "True",
   "FFlagHideLCToolTipVR": "True",
   "FFlagFixFacialAnimationRecorderChannelAnimationCrash": "True",
-  "FFlagFCIgnoreDeformersNotReady3_Rollout": "False;30;2023-08-08T21:03:53",
   "FFlagPlayerListFixNilUserId_v2": "True",
   "FFlagToolboxDoNotCallInsertionEndpointForAvatarAssets": "True",
   "FFlagLuaAppHomeJoinYourFriends5": "True",
@@ -6934,8 +6933,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "de8661ae16480fbde1f351b90c297af7009dbbf7",
-  "DFStringFlagRepoGitHashDynamicString": "de8661ae16480fbde1f351b90c297af7009dbbf7",
-  "FStringFlipTimeStampFastString": "2023-08-08T21:34:41.467Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-08T21:34:41.467Z"
+  "FStringFlagRepoGitHashFastString": "e3da18b4fe03104aab6b77f6b1e70848d8b825fa",
+  "DFStringFlagRepoGitHashDynamicString": "e3da18b4fe03104aab6b77f6b1e70848d8b825fa",
+  "FStringFlipTimeStampFastString": "2023-08-08T21:38:47.219Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-08T21:38:47.219Z"
 }
