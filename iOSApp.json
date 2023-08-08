@@ -6654,6 +6654,7 @@
   "FFlagUIBloxFixLoadingShimmerForPlayerTileNames": "True",
   "FFlagDevFrameworkBetterInit": "True",
   "FFlagDisableStudioPluginOTAForLocalBuild": "True",
+  "FFlagDisableSoundDeviceSelection": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6995,8 +6996,9 @@
   "FFlagPlayerListFixNilUserId_v2": "True",
   "FIntPlayerListUserProfileApiRollout_v2": "0",
   "FFlagUserSearchRealNamesEnabled_v1": "True",
-  "FStringFlagRepoGitHashFastString": "b9d38d8a2a805acbc784dd1383fb798527be8183",
-  "DFStringFlagRepoGitHashDynamicString": "b9d38d8a2a805acbc784dd1383fb798527be8183",
-  "FStringFlipTimeStampFastString": "2023-08-08T20:27:13.880Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-08T20:27:13.880Z"
+  "FIntExperienceChatUserProfileApiRollout_v1": "25",
+  "FStringFlagRepoGitHashFastString": "d33fe68aa197cb3b5ab5afe4031693c02d8dbd47",
+  "DFStringFlagRepoGitHashDynamicString": "d33fe68aa197cb3b5ab5afe4031693c02d8dbd47",
+  "FStringFlipTimeStampFastString": "2023-08-08T20:28:50.173Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-08T20:28:50.173Z"
 }
