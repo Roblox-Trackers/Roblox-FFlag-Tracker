@@ -6657,7 +6657,6 @@
   "FFlagDisableSoundDeviceSelection": "True",
   "FFlagUIBloxEnableGenericButtonHoverBackgroundFix2": "True",
   "FFlagCOLLAB2695FixDeadlockOnError": "True",
-  "FFlagLuauDisableCompletionOutsideQuotes_Rollout": "True;30;2023-08-08T20:44:39",
   "FFlagLuaAppExperienceTileGamePlayIntent2": "True",
   "FFlagVRBetaDisableLayeredClothing": "True",
   "FFlagAlwaysImportAnimationFromVideoBasedOnFBXModel": "True",
@@ -6668,6 +6667,8 @@
   "FFlagToolboxDoNotCallInsertionEndpointForAvatarAssets": "True",
   "FFlagLuaAppHomeJoinYourFriends5": "True",
   "MaquettesSpecificDiagJavaCrashANRReportingV2": "True",
+  "FFlagLuauDisableCompletionOutsideQuotes": "True",
+  "FFlagStreamSyncRequest5": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6931,8 +6932,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "946669ed705620f16036fa902b608d27b82dbaf9",
-  "DFStringFlagRepoGitHashDynamicString": "946669ed705620f16036fa902b608d27b82dbaf9",
-  "FStringFlipTimeStampFastString": "2023-08-08T21:16:34.731Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-08T21:16:34.731Z"
+  "FStringFlagRepoGitHashFastString": "ba447e521b901631efa340f3325d5dbfe82b2ff8",
+  "DFStringFlagRepoGitHashDynamicString": "ba447e521b901631efa340f3325d5dbfe82b2ff8",
+  "FStringFlipTimeStampFastString": "2023-08-08T21:23:52.247Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-08T21:23:52.247Z"
 }
