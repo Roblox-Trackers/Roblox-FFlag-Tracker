@@ -6672,6 +6672,9 @@
   "DFFlagRccJobUsesEngineContext_Rollout": "True;60;2023-08-08T21:33:17",
   "DFFlagPlayerGuiOverlayCustomStatus_Rollout": "True;60;2023-08-08T21:57:09",
   "FFlagUserFixOverlappingRtlChatMessages2": "False",
+  "FFlagAvatarChatSelfViewShowDefaultCursor": "True",
+  "FFlagSelfViewMakeClonePartsNonTransparent2": "True",
+  "FFlagUIBloxFixExpandableTextAreaSizing": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6935,8 +6938,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "e5a300ef586fcdc742c9185ecdc1671bc5d8d89f",
-  "DFStringFlagRepoGitHashDynamicString": "e5a300ef586fcdc742c9185ecdc1671bc5d8d89f",
-  "FStringFlipTimeStampFastString": "2023-08-08T21:59:53.661Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-08T21:59:53.661Z"
+  "FStringFlagRepoGitHashFastString": "9c664aa999c3421e3312eb313100cc02b32b13ad",
+  "DFStringFlagRepoGitHashDynamicString": "9c664aa999c3421e3312eb313100cc02b32b13ad",
+  "FStringFlipTimeStampFastString": "2023-08-08T22:00:59.758Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-08T22:00:59.758Z"
 }
