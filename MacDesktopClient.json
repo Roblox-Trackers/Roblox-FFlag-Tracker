@@ -6701,7 +6701,6 @@
   "DFIntPurchaseProductUrlV2GCSResponseHandlingRollout_Rollout": "10;60;2023-08-09T22:15:49",
   "FFlagListImportedProjectsInDependencies": "True",
   "DFFlagSimSetHumanoidFloorTimesteps": "True",
-  "FFlagHandleInfiniteSizeWhenMultiply_Rollout": "True;60;2023-08-09T21:43:04",
   "FFlagDoNotPauseLuaAppIfNotInitialized": "True",
   "FixBaseURLForDevApp": "True",
   "DFFlagSimAnimatingPrimitiveContactFix": "True",
@@ -6718,6 +6717,7 @@
   "FFlagIncrementalPatchBuilderDoNotReuseSignInfo": "True",
   "FFlagLuaAppTopicContentsTimestamp": "True",
   "DFFlagIdempotentRejectionReporting": "True",
+  "FFlagHandleInfiniteSizeWhenMultiply": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6977,8 +6977,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "4d0d94fce71fc054650e8b200c8980a56c0114cd",
-  "DFStringFlagRepoGitHashDynamicString": "4d0d94fce71fc054650e8b200c8980a56c0114cd",
-  "FStringFlipTimeStampFastString": "2023-08-09T22:47:59.961Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T22:47:59.961Z"
+  "FStringFlagRepoGitHashFastString": "fccbe6cf650cdd6c93db3ad47824d66ddacb2e08",
+  "DFStringFlagRepoGitHashDynamicString": "fccbe6cf650cdd6c93db3ad47824d66ddacb2e08",
+  "FStringFlipTimeStampFastString": "2023-08-09T22:49:02.423Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T22:49:02.423Z"
 }
