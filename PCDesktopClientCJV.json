@@ -6700,7 +6700,6 @@
   "DFFlagSimModelLodAsync": "True",
   "DFIntPurchaseProductUrlV2GCSResponseHandlingRollout_Rollout": "10;60;2023-08-09T22:15:49",
   "FFlagListImportedProjectsInDependencies": "True",
-  "FFlagSimCSG3AsyncChangeToNewPerformAPI_Rollout": "True;60;2023-08-09T21:10:17",
   "DFFlagIdempotentRejectionReporting_Rollout": "True;60;2023-08-09T21:29:42",
   "DFFlagSimSetHumanoidFloorTimesteps": "True",
   "FFlagHandleInfiniteSizeWhenMultiply_Rollout": "True;60;2023-08-09T21:43:04",
@@ -6714,6 +6713,7 @@
   "VersionSupportForMaquettes": "True",
   "DFFlagSessionStartTimeUpdateMove_Rollout": "True;60;2023-08-09T21:56:29",
   "DFFlagBrickColorRandomDoesNotUseRand": "True",
+  "FFlagSimCSG3AsyncChangeToNewPerformAPI": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6978,8 +6978,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d1d339cfe84eefb09b525c39be6d97929c218c8b",
-  "DFStringFlagRepoGitHashDynamicString": "d1d339cfe84eefb09b525c39be6d97929c218c8b",
-  "FStringFlipTimeStampFastString": "2023-08-09T22:17:14.316Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T22:17:14.316Z"
+  "FStringFlagRepoGitHashFastString": "da774cbfb1554e4a3f71595fc7a44e175481fb52",
+  "DFStringFlagRepoGitHashDynamicString": "da774cbfb1554e4a3f71595fc7a44e175481fb52",
+  "FStringFlipTimeStampFastString": "2023-08-09T22:18:14.520Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T22:18:14.520Z"
 }
