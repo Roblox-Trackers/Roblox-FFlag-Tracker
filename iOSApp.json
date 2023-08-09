@@ -6708,6 +6708,8 @@
   "FixBaseURLForDevApp": "True",
   "DFFlagSimAnimatingPrimitiveContactFix": "True",
   "FFlagLuaAppHomeGameGridCleanUp": "True",
+  "FFlagMacUseUpdateController": "True",
+  "FFlagIncrementalPatchBuilderDoNotReuseSignInfo_Rollout": "True;30;2023-08-09T21:49:53",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7048,8 +7050,8 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
-  "FStringFlagRepoGitHashFastString": "c54ef36c90e69f6d7b69cf12b33d4a6f7e4b8b87",
-  "DFStringFlagRepoGitHashDynamicString": "c54ef36c90e69f6d7b69cf12b33d4a6f7e4b8b87",
-  "FStringFlipTimeStampFastString": "2023-08-09T21:51:22.370Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T21:51:22.370Z"
+  "FStringFlagRepoGitHashFastString": "0b1c1ee130a1dbe07fee0047d2b75d996ddb4c18",
+  "DFStringFlagRepoGitHashDynamicString": "0b1c1ee130a1dbe07fee0047d2b75d996ddb4c18",
+  "FStringFlipTimeStampFastString": "2023-08-09T21:52:57.335Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T21:52:57.335Z"
 }
