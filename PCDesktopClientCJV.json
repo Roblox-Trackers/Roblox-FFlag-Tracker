@@ -6688,6 +6688,9 @@
   "FFlagFixCameraResetOnBrowse": "True",
   "DFFlagDisableAirControllerJump": "True",
   "FFlagListImportedProjectsInDependencies_Rollout": "True;30;2023-08-09T20:18:48",
+  "FFlagImprovePluginSpeed_LayeredClothingEditor": "True",
+  "FFlagImprovePluginSpeed_R15Migrator": "True",
+  "FFlagImprovePluginSpeed_RigGenerator": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6952,8 +6955,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "a3e690b08d87075b93d0f463da9f01d49c07da3c",
-  "DFStringFlagRepoGitHashDynamicString": "a3e690b08d87075b93d0f463da9f01d49c07da3c",
-  "FStringFlipTimeStampFastString": "2023-08-09T20:19:56.238Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T20:19:56.238Z"
+  "FStringFlagRepoGitHashFastString": "3a5a7a4f2961cf0a0d273c13e276d9608e4bcecf",
+  "DFStringFlagRepoGitHashDynamicString": "3a5a7a4f2961cf0a0d273c13e276d9608e4bcecf",
+  "FStringFlipTimeStampFastString": "2023-08-09T20:29:58.518Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T20:29:58.518Z"
 }
