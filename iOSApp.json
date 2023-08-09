@@ -6687,7 +6687,6 @@
   "FFlagRemoveLegacyLocksInPackageManagementVerbs": "True",
   "FFlagFixCameraResetOnBrowse": "True",
   "DFFlagDisableAirControllerJump": "True",
-  "FFlagListImportedProjectsInDependencies_Rollout": "True;30;2023-08-09T20:18:48",
   "FFlagImprovePluginSpeed_LayeredClothingEditor": "True",
   "FFlagImprovePluginSpeed_R15Migrator": "True",
   "FFlagImprovePluginSpeed_RigGenerator": "True",
@@ -6700,6 +6699,7 @@
   "FFlagStudioComponentizePluginLoaderCache": "True",
   "DFFlagSimModelLodAsync": "True",
   "DFIntPurchaseProductUrlV2GCSResponseHandlingRollout_Rollout": "1;60;2023-08-09T20:52:15",
+  "FFlagListImportedProjectsInDependencies": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7040,8 +7040,8 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
-  "FStringFlagRepoGitHashFastString": "296b8031ee90e8fdb7bc57e4aa9ce6507f7feee5",
-  "DFStringFlagRepoGitHashDynamicString": "296b8031ee90e8fdb7bc57e4aa9ce6507f7feee5",
-  "FStringFlipTimeStampFastString": "2023-08-09T20:53:41.121Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T20:53:41.121Z"
+  "FStringFlagRepoGitHashFastString": "10a0ad2eec96da53a7bfc70db0f4d7419f81e62c",
+  "DFStringFlagRepoGitHashDynamicString": "10a0ad2eec96da53a7bfc70db0f4d7419f81e62c",
+  "FStringFlipTimeStampFastString": "2023-08-09T20:54:41.249Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T20:54:41.249Z"
 }
