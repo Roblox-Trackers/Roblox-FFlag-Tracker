@@ -6708,7 +6708,6 @@
   "DFFlagSimAnimatingPrimitiveContactFix": "True",
   "FFlagLuaAppHomeGameGridCleanUp": "True",
   "FFlagMacUseUpdateController": "True",
-  "FFlagIncrementalPatchBuilderDoNotReuseSignInfo_Rollout": "True;30;2023-08-09T21:49:53",
   "DFFlagTouchEventCrashFix_Rollout": "True;60;2023-08-09T21:53:17",
   "VersionSupportForMaquettes": "True",
   "DFFlagSessionStartTimeUpdateMove_Rollout": "True;60;2023-08-09T21:56:29",
@@ -6716,6 +6715,8 @@
   "FFlagSimCSG3AsyncChangeToNewPerformAPI": "True",
   "DFFlagMemoryStoreUseCustomPollingQueueRead_Rollout": "True;60;2023-08-09T22:26:04",
   "FFlagAppBridgeRewrite": "True",
+  "FStringUIOcclusionMetricsRectQueryList": "[{\"id\":\"TEST_0\", \"pos\":[1, -56, 0, 4], \"size\":[0, 44, 0, 48]}]",
+  "FFlagIncrementalPatchBuilderDoNotReuseSignInfo": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7094,8 +7095,8 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
-  "FStringFlagRepoGitHashFastString": "d7399b58332991d4b1f09650fca21bd06e4d528a",
-  "DFStringFlagRepoGitHashDynamicString": "d7399b58332991d4b1f09650fca21bd06e4d528a",
-  "FStringFlipTimeStampFastString": "2023-08-09T22:29:52.243Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T22:29:52.243Z"
+  "FStringFlagRepoGitHashFastString": "d1a251b425a269a00d99ab61eb2c31c9c8a3407f",
+  "DFStringFlagRepoGitHashDynamicString": "d1a251b425a269a00d99ab61eb2c31c9c8a3407f",
+  "FStringFlipTimeStampFastString": "2023-08-09T22:31:48.139Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T22:31:48.139Z"
 }
