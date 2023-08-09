@@ -6712,6 +6712,7 @@
   "FStringUIOcclusionMetricsRectQueryList": "[{\"id\":\"TEST_0\", \"pos\":[1, -56, 0, 4], \"size\":[0, 44, 0, 48]}]",
   "FFlagIncrementalPatchBuilderDoNotReuseSignInfo": "True",
   "DFFlagIdempotentRejectionReporting": "True",
+  "DFFlagMemoryStoreUseCustomPollingQueueRead_Rollout": "True;5;2023-08-09T23:24:10",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7090,8 +7091,8 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
-  "FStringFlagRepoGitHashFastString": "5ef15539e3a1e9b1088b12082c8c1d83b16481b7",
-  "DFStringFlagRepoGitHashDynamicString": "5ef15539e3a1e9b1088b12082c8c1d83b16481b7",
-  "FStringFlipTimeStampFastString": "2023-08-09T23:24:48.878Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T23:24:48.878Z"
+  "FStringFlagRepoGitHashFastString": "3f0b7a0f8ae36030e8927001040de2f761bf2c2e",
+  "DFStringFlagRepoGitHashDynamicString": "3f0b7a0f8ae36030e8927001040de2f761bf2c2e",
+  "FStringFlipTimeStampFastString": "2023-08-09T23:25:54.262Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T23:25:54.262Z"
 }
