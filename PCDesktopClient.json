@@ -6701,6 +6701,7 @@
   "DFIntPurchaseProductUrlV2GCSResponseHandlingRollout_Rollout": "1;60;2023-08-09T20:52:15",
   "FFlagListImportedProjectsInDependencies": "True",
   "FFlagSimCSG3AsyncChangeToNewPerformAPI_Rollout": "True;60;2023-08-09T21:10:17",
+  "DFFlagIdempotentRejectionReporting_Rollout": "True;60;2023-08-09T21:29:42",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6964,8 +6965,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "92c6744f465379ed2d11935c5a7f251b574a0072",
-  "DFStringFlagRepoGitHashDynamicString": "92c6744f465379ed2d11935c5a7f251b574a0072",
-  "FStringFlipTimeStampFastString": "2023-08-09T21:11:55.459Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T21:11:55.459Z"
+  "FStringFlagRepoGitHashFastString": "5bcb06f9a341c02cb3e889456b76a0cc44902a99",
+  "DFStringFlagRepoGitHashDynamicString": "5bcb06f9a341c02cb3e889456b76a0cc44902a99",
+  "FStringFlipTimeStampFastString": "2023-08-09T21:30:30.225Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T21:30:30.225Z"
 }
