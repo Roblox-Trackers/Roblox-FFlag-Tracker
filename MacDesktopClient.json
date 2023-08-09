@@ -6710,6 +6710,7 @@
   "FFlagLuaAppHomeGameGridCleanUp": "True",
   "FFlagMacUseUpdateController": "True",
   "FFlagIncrementalPatchBuilderDoNotReuseSignInfo_Rollout": "True;30;2023-08-09T21:49:53",
+  "DFFlagTouchEventCrashFix_Rollout": "True;60;2023-08-09T21:53:17",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6969,8 +6970,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "0b1c1ee130a1dbe07fee0047d2b75d996ddb4c18",
-  "DFStringFlagRepoGitHashDynamicString": "0b1c1ee130a1dbe07fee0047d2b75d996ddb4c18",
-  "FStringFlipTimeStampFastString": "2023-08-09T21:52:57.335Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T21:52:57.335Z"
+  "FStringFlagRepoGitHashFastString": "efbf37f7ea89e77754fb24e784d01bb67562ecf5",
+  "DFStringFlagRepoGitHashDynamicString": "efbf37f7ea89e77754fb24e784d01bb67562ecf5",
+  "FStringFlipTimeStampFastString": "2023-08-09T21:55:08.846Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T21:55:08.846Z"
 }
