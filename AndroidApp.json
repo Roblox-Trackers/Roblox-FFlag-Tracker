@@ -6307,7 +6307,7 @@
   "DFFlagVoiceChatEnableRccV2ControlPlane": "False",
   "DFFlagVoiceChatEnableRccV2ControlPlane_PlaceFilter": "True;9134756438;9134768108",
   "FFlagDEV_VoiceChatNewServerJoinFlow": "False",
-  "FFlagDEV_VoiceChatNewServerJoinFlow_PlaceFilter": "False;9134756438;9134768108",
+  "FFlagDEV_VoiceChatNewServerJoinFlow_PlaceFilter": "True;9134756438;9134768108",
   "FFlagCOLLAB4039RefactorDocClose": "True",
   "FFlagGameSettingsEvictIfLostPerms": "True",
   "DFFlagDetectMultipleJoinsForTheSamePlaceID": "True",
@@ -7099,8 +7099,8 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
-  "FStringFlagRepoGitHashFastString": "efcc392b8b03ff3adfb9c478d72f444704b26e6f",
-  "DFStringFlagRepoGitHashDynamicString": "efcc392b8b03ff3adfb9c478d72f444704b26e6f",
-  "FStringFlipTimeStampFastString": "2023-08-09T23:03:30.614Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T23:03:30.614Z"
+  "FStringFlagRepoGitHashFastString": "b6c600f17478942de23baf6f7cc7d18ec0043243",
+  "DFStringFlagRepoGitHashDynamicString": "b6c600f17478942de23baf6f7cc7d18ec0043243",
+  "FStringFlipTimeStampFastString": "2023-08-09T23:03:56.975Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T23:03:56.975Z"
 }
