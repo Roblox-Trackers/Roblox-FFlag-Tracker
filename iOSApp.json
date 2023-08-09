@@ -6706,9 +6706,7 @@
   "DFFlagSimAnimatingPrimitiveContactFix": "True",
   "FFlagLuaAppHomeGameGridCleanUp": "True",
   "FFlagMacUseUpdateController": "True",
-  "DFFlagTouchEventCrashFix_Rollout": "True;60;2023-08-09T21:53:17",
   "VersionSupportForMaquettes": "True",
-  "DFFlagSessionStartTimeUpdateMove_Rollout": "True;60;2023-08-09T21:56:29",
   "DFFlagBrickColorRandomDoesNotUseRand": "True",
   "FFlagSimCSG3AsyncChangeToNewPerformAPI": "True",
   "DFFlagMemoryStoreUseCustomPollingQueueRead_Rollout": "True;60;2023-08-09T22:26:04",
@@ -6722,6 +6720,8 @@
   "RemoveVRToggleDialog2": "True",
   "FFlagLuaAppMigrateSeeAllImpressions2": "True",
   "DFFlagDoNotMergePersistentModelsWithTheirAncestors_Rollout": "True;60;2023-08-09T23:05:14",
+  "DFFlagSessionStartTimeUpdateMove": "True",
+  "DFFlagTouchEventCrashFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7062,8 +7062,8 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
-  "FStringFlagRepoGitHashFastString": "5a375e3130cd5dd90f1675c70624f8ab9f6c0dd5",
-  "DFStringFlagRepoGitHashDynamicString": "5a375e3130cd5dd90f1675c70624f8ab9f6c0dd5",
-  "FStringFlipTimeStampFastString": "2023-08-09T23:06:01.699Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T23:06:01.699Z"
+  "FStringFlagRepoGitHashFastString": "4b2a33034427292cdfe014b18c6f3c522efc67a4",
+  "DFStringFlagRepoGitHashDynamicString": "4b2a33034427292cdfe014b18c6f3c522efc67a4",
+  "FStringFlipTimeStampFastString": "2023-08-09T23:07:12.146Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T23:07:12.146Z"
 }
