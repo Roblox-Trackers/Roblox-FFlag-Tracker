@@ -6706,9 +6706,7 @@
   "DFFlagSimAnimatingPrimitiveContactFix": "True",
   "FFlagLuaAppHomeGameGridCleanUp": "True",
   "FFlagMacUseUpdateController": "True",
-  "DFFlagTouchEventCrashFix_Rollout": "True;60;2023-08-09T21:53:17",
   "VersionSupportForMaquettes": "True",
-  "DFFlagSessionStartTimeUpdateMove_Rollout": "True;60;2023-08-09T21:56:29",
   "DFFlagBrickColorRandomDoesNotUseRand": "True",
   "FFlagSimCSG3AsyncChangeToNewPerformAPI": "True",
   "DFFlagMemoryStoreUseCustomPollingQueueRead_Rollout": "True;60;2023-08-09T22:26:04",
@@ -6721,6 +6719,9 @@
   "FFlagReportUIOcclusionMetrics3": "True",
   "RemoveVRToggleDialog2": "True",
   "FFlagLuaAppMigrateSeeAllImpressions2": "True",
+  "DFFlagDoNotMergePersistentModelsWithTheirAncestors_Rollout": "True;60;2023-08-09T23:05:14",
+  "DFFlagSessionStartTimeUpdateMove": "True",
+  "DFFlagTouchEventCrashFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6980,8 +6981,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "b6c600f17478942de23baf6f7cc7d18ec0043243",
-  "DFStringFlagRepoGitHashDynamicString": "b6c600f17478942de23baf6f7cc7d18ec0043243",
-  "FStringFlipTimeStampFastString": "2023-08-09T23:03:56.975Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-09T23:03:56.975Z"
+  "FStringFlagRepoGitHashFastString": "4b2a33034427292cdfe014b18c6f3c522efc67a4",
+  "DFStringFlagRepoGitHashDynamicString": "4b2a33034427292cdfe014b18c6f3c522efc67a4",
+  "FStringFlipTimeStampFastString": "2023-08-09T23:07:12.146Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-09T23:07:12.146Z"
 }
