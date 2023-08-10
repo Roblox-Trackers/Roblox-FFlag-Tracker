@@ -6729,7 +6729,6 @@
   "DFIntCLI61964InfluxThresholdHundredths": "100",
   "DFFlagDataStoreUseNewErrorReporting": "True",
   "DFFlagKibanaReportCachePolicy": "True",
-  "DFFlagTrackPerfDataEnabledInSessionTracking_Rollout": "True;60;2023-08-10T19:20:56",
   "FFlagDisableSelfViewReactingToSetCoreGuiEnabled": "True",
   "FFlagRemoveTagsFromSelfViewClone": "True",
   "DFFlagSkipInstanceArrPush_Rollout": "True;60;2023-08-10T19:35:49",
@@ -6743,6 +6742,7 @@
   "DFFlagDeprecateInfoFetchForSubscription": "True",
   "DFIntAndroidApplicationExitReasonTimeDeltaSec_Rollout": "86400;30;2023-08-10T20:19:33",
   "DFIntDataStoreErrorThrottleHundredthsPercentage": "1",
+  "DFFlagTrackPerfDataEnabledInSessionTracking": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7007,8 +7007,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "8edac5590f0dd503ed6489c854f8b5119f415669",
-  "DFStringFlagRepoGitHashDynamicString": "8edac5590f0dd503ed6489c854f8b5119f415669",
-  "FStringFlipTimeStampFastString": "2023-08-10T20:23:14.152Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T20:23:14.152Z"
+  "FStringFlagRepoGitHashFastString": "cb17bd78bd4002f4e9d3e21157992cf2dde47264",
+  "DFStringFlagRepoGitHashDynamicString": "cb17bd78bd4002f4e9d3e21157992cf2dde47264",
+  "FStringFlipTimeStampFastString": "2023-08-10T20:28:44.445Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T20:28:44.445Z"
 }
