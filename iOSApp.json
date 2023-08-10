@@ -6739,6 +6739,7 @@
   "DFFlagFixControllerManagerWorldOnEnter": "True",
   "FFlagPropertyPopupTextEditFix3": "True",
   "DFIntDataStoreErrorThrottleHundredthsPercentage_Rollout": "1;10;2023-08-10T20:06:09",
+  "DFFlagDoNotMergePersistentModelsWithTheirAncestors_Rollout": "True;60;2023-08-10T20:11:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7079,8 +7080,8 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
-  "FStringFlagRepoGitHashFastString": "1e04e720bd6775323a7958143bd6e6d734af0531",
-  "DFStringFlagRepoGitHashDynamicString": "1e04e720bd6775323a7958143bd6e6d734af0531",
-  "FStringFlipTimeStampFastString": "2023-08-10T20:08:13.014Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T20:08:13.014Z"
+  "FStringFlagRepoGitHashFastString": "e7b653ce1cbc7f32412f77115171258e0d149f3a",
+  "DFStringFlagRepoGitHashDynamicString": "e7b653ce1cbc7f32412f77115171258e0d149f3a",
+  "FStringFlipTimeStampFastString": "2023-08-10T20:12:04.053Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T20:12:04.053Z"
 }
