@@ -6755,10 +6755,10 @@
   "FFlagLuaAppAddRetryHeader": "True",
   "FFlagReportUIOcclusionMetrics3": "True",
   "DFIntAndroidApplicationExitReasonTimeDeltaSec_Rollout": "3600;30;2023-08-10T22:01:22",
-  "DFIntDSTelemetryGetSortedV1Rollout_Rollout": "100;15;2023-08-10T22:03:30",
   "DFIntDSTelemetryGetV1Rollout": "100",
   "DFFlagCLI61964": "True",
   "DFFlagLuaKickTelemetry": "True",
+  "DFIntDSTelemetryGetSortedV1Rollout": "100",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7022,8 +7022,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "6b30e24902a485a86b13a962654e7a4fe53c911c",
-  "DFStringFlagRepoGitHashDynamicString": "6b30e24902a485a86b13a962654e7a4fe53c911c",
-  "FStringFlipTimeStampFastString": "2023-08-10T22:20:17.787Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T22:20:17.787Z"
+  "FStringFlagRepoGitHashFastString": "ea41da737c8c68dc77deb20323fc5eb4a17c80b7",
+  "DFStringFlagRepoGitHashDynamicString": "ea41da737c8c68dc77deb20323fc5eb4a17c80b7",
+  "FStringFlipTimeStampFastString": "2023-08-10T22:23:19.326Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T22:23:19.326Z"
 }
