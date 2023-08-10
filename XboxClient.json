@@ -6346,7 +6346,7 @@
   "DFIntTypingHandlingLogCountInterval": "1",
   "FFlagDisableMeshPartHeadsWarningInRobloxPlugins": "True",
   "FFlagFixContainerAccessCmdFramework": "True",
-  "DFIntGameLdrPerformanceCheckLimit": "3",
+  "DFIntGameLdrPerformanceCheckLimit": "300",
   "DFIntGameLdrPerformanceCheckLimit_PlaceFilter": "3;1818",
   "FFlagUGCValidationSetAllowTempStoreS3Urls2": "True",
   "DFFlagStreamingSolverChangeCategoryProfiler": "True",
@@ -6760,7 +6760,7 @@
   "FFlagEnableUpdateAddPhoneDescriptionTextExperimentRelease1": "True",
   "DFIntLuaKickIngestBasisPoint_Rollout": "10000;30;2023-08-10T22:42:34",
   "FFlagReportUIOcclusionMetrics3": "True",
-  "DFIntGameLdrPerformanceCheckLimit_Rollout": "300;10;2023-08-10T22:50:14",
+  "FFlagPWDeprecateOldPopupLaunchEditor_Rollout": "True;60;2023-08-10T23:02:57",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6954,8 +6954,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "1737eb487d90c6c5f8741be211e464a3741b9ce3",
-  "DFStringFlagRepoGitHashDynamicString": "1737eb487d90c6c5f8741be211e464a3741b9ce3",
-  "FStringFlipTimeStampFastString": "2023-08-10T22:52:48.446Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T22:52:48.446Z"
+  "FStringFlagRepoGitHashFastString": "afe18197deb843c73f8d7391fdc89183c965d2ad",
+  "DFStringFlagRepoGitHashDynamicString": "afe18197deb843c73f8d7391fdc89183c965d2ad",
+  "FStringFlipTimeStampFastString": "2023-08-10T23:04:58.438Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T23:04:58.438Z"
 }
