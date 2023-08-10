@@ -6762,6 +6762,8 @@
   "FFlagReportUIOcclusionMetrics3": "True",
   "FFlagPWDeprecateOldPopupLaunchEditor_Rollout": "True;60;2023-08-10T23:02:57",
   "FFlagRenameReportedField_Rollout": "True;60;2023-08-10T23:03:41",
+  "DFIntDataStoreErrorThrottleHundredthsPercentage_Rollout": "50;10;2023-08-10T23:04:26",
+  "FFlagStudioRetryOnGameJoinDnsFailure": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7026,8 +7028,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "66fcb72dfb45094092ae210c4b6fa36a23da3945",
-  "DFStringFlagRepoGitHashDynamicString": "66fcb72dfb45094092ae210c4b6fa36a23da3945",
-  "FStringFlipTimeStampFastString": "2023-08-10T23:06:14.151Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T23:06:14.151Z"
+  "FStringFlagRepoGitHashFastString": "c296ea849d14ff6be967fcd4ac544275b961cc67",
+  "DFStringFlagRepoGitHashDynamicString": "c296ea849d14ff6be967fcd4ac544275b961cc67",
+  "FStringFlipTimeStampFastString": "2023-08-10T23:07:37.363Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T23:07:37.363Z"
 }
