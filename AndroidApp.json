@@ -6753,6 +6753,7 @@
   "DFFlagDoNotMergePersistentModelsWithTheirAncestors": "True",
   "DFIntReportUIOcclusionRectQuery": "1",
   "DFIntDSTelemetryGetV1Rollout": "10",
+  "FFlagEnablePrivacyPolicyForLogoutUpsellRelease1": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7135,8 +7136,8 @@
   "EnableAndroidRealtimeProtocol": "True",
   "EnableAndroidRealtimeProtocolRollout": "1",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
-  "FStringFlagRepoGitHashFastString": "44736f5241a9930c6c7f431a7315d2bebe7012ed",
-  "DFStringFlagRepoGitHashDynamicString": "44736f5241a9930c6c7f431a7315d2bebe7012ed",
-  "FStringFlipTimeStampFastString": "2023-08-10T21:30:08.549Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T21:30:08.549Z"
+  "FStringFlagRepoGitHashFastString": "924b9de5f335394b86eae2eb9b36ee06f1dacf52",
+  "DFStringFlagRepoGitHashDynamicString": "924b9de5f335394b86eae2eb9b36ee06f1dacf52",
+  "FStringFlipTimeStampFastString": "2023-08-10T21:34:06.234Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T21:34:06.234Z"
 }
