@@ -6738,7 +6738,6 @@
   "DFFlagDoNotMergePersistentModelsWithTheirAncestors_Rollout": "True;60;2023-08-10T20:11:00",
   "FFlagCheckCaps1_Rollout": "True;60;2023-08-10T20:13:57",
   "DFFlagDeprecateInfoFetchForSubscription": "True",
-  "DFIntAndroidApplicationExitReasonTimeDeltaSec_Rollout": "86400;30;2023-08-10T20:19:33",
   "DFIntDataStoreErrorThrottleHundredthsPercentage": "1",
   "DFFlagTrackPerfDataEnabledInSessionTracking": "True",
   "DFFlagInferredCrashTrackMoreFields_Rollout": "True;60;2023-08-10T20:28:59",
@@ -6749,6 +6748,7 @@
   "FFlagRigVisualizationFixIntegration": "True",
   "FFlagSelectionOutlinesDescandantsConnections": "True",
   "DFIntDSTelemetryGetV1Rollout_Rollout": "10;30;2023-08-10T20:53:33",
+  "DFIntAndroidApplicationExitReasonTimeDeltaSec": "86400",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6947,8 +6947,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "68a1b35766098c187fcf45a799af3bfc02e8de07",
-  "DFStringFlagRepoGitHashDynamicString": "68a1b35766098c187fcf45a799af3bfc02e8de07",
-  "FStringFlipTimeStampFastString": "2023-08-10T20:54:46.809Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T20:54:46.809Z"
+  "FStringFlagRepoGitHashFastString": "04fb52417d88ac78f893534a3a7031d6e278f1a5",
+  "DFStringFlagRepoGitHashDynamicString": "04fb52417d88ac78f893534a3a7031d6e278f1a5",
+  "FStringFlipTimeStampFastString": "2023-08-10T20:59:11.746Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T20:59:11.746Z"
 }
