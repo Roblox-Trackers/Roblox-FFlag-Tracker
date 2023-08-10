@@ -6772,6 +6772,7 @@
   "DFIntDSTelemetryIncrementV1Rollout_Rollout": "100;10;2023-08-10T23:36:49",
   "DFIntDSTelemetryRemoveV1Rollout": "100",
   "FFlagEnableOptOutDUAR3_Rollout": "True;30;2023-08-10T23:41:29",
+  "FFlagVoiceChatStoreFirstJoinGroup": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7154,8 +7155,8 @@
   "EnableAndroidRealtimeProtocolRollout": "5",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "DFIntSessionTelemetryOSWarningMinimum_Rollout": "5;30;2023-08-10T23:28:36",
-  "FStringFlagRepoGitHashFastString": "6a39b020b2db3fbae3d80e577ff620dad4f36b5f",
-  "DFStringFlagRepoGitHashDynamicString": "6a39b020b2db3fbae3d80e577ff620dad4f36b5f",
-  "FStringFlipTimeStampFastString": "2023-08-10T23:42:39.016Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T23:42:39.016Z"
+  "FStringFlagRepoGitHashFastString": "67439416e247690f02bd05575165b97f0dcf1d77",
+  "DFStringFlagRepoGitHashDynamicString": "67439416e247690f02bd05575165b97f0dcf1d77",
+  "FStringFlipTimeStampFastString": "2023-08-10T23:55:28.395Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T23:55:28.395Z"
 }
