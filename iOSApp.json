@@ -6719,6 +6719,7 @@
   "FFlagFilePathRulesNoRegex2_Rollout": "True;60;2023-08-10T17:51:37",
   "DFIntCLI61964InfluxThresholdHundredths_Rollout": "100;60;2023-08-10T17:58:12",
   "FFlagLuaAppMigrateSeeAllImpressions2": "True",
+  "DFFlagDebugIosUseSoftwareAutoGainControl_Rollout": "True;30;2023-08-10T18:11:36",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7059,8 +7060,8 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
-  "FStringFlagRepoGitHashFastString": "d8a34dc0c79fa3535ba308abec96b519a09e6bb8",
-  "DFStringFlagRepoGitHashDynamicString": "d8a34dc0c79fa3535ba308abec96b519a09e6bb8",
-  "FStringFlipTimeStampFastString": "2023-08-10T17:59:57.728Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T17:59:57.728Z"
+  "FStringFlagRepoGitHashFastString": "21536c38a5931a846beb3352fc5d6dc239886630",
+  "DFStringFlagRepoGitHashDynamicString": "21536c38a5931a846beb3352fc5d6dc239886630",
+  "FStringFlipTimeStampFastString": "2023-08-10T18:12:43.731Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T18:12:43.731Z"
 }
