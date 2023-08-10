@@ -6760,6 +6760,7 @@
   "FFlagEnableUpdateAddPhoneDescriptionTextExperimentRelease1": "True",
   "DFIntLuaKickIngestBasisPoint_Rollout": "10000;30;2023-08-10T22:42:34",
   "FFlagReportUIOcclusionMetrics3": "True",
+  "DFIntGameLdrPerformanceCheckLimit_Rollout": "300;10;2023-08-10T22:50:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6958,8 +6959,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "987cd78cea43dc647bc7ba57359ddb6fbef9b8ab",
-  "DFStringFlagRepoGitHashDynamicString": "987cd78cea43dc647bc7ba57359ddb6fbef9b8ab",
-  "FStringFlipTimeStampFastString": "2023-08-10T22:51:52.960Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T22:51:52.960Z"
+  "FStringFlagRepoGitHashFastString": "1737eb487d90c6c5f8741be211e464a3741b9ce3",
+  "DFStringFlagRepoGitHashDynamicString": "1737eb487d90c6c5f8741be211e464a3741b9ce3",
+  "FStringFlipTimeStampFastString": "2023-08-10T22:52:48.446Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T22:52:48.446Z"
 }
