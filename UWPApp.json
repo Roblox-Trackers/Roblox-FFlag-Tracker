@@ -6743,6 +6743,7 @@
   "DFIntAndroidApplicationExitReasonTimeDeltaSec_Rollout": "86400;30;2023-08-10T20:19:33",
   "DFIntDataStoreErrorThrottleHundredthsPercentage": "1",
   "DFFlagTrackPerfDataEnabledInSessionTracking": "True",
+  "DFFlagInferredCrashTrackMoreFields_Rollout": "True;60;2023-08-10T20:28:59",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -6941,8 +6942,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "cb17bd78bd4002f4e9d3e21157992cf2dde47264",
-  "DFStringFlagRepoGitHashDynamicString": "cb17bd78bd4002f4e9d3e21157992cf2dde47264",
-  "FStringFlipTimeStampFastString": "2023-08-10T20:28:44.445Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T20:28:44.445Z"
+  "FStringFlagRepoGitHashFastString": "3ed9beeec4f96623136a3f8cbd7f8327dca0e9a6",
+  "DFStringFlagRepoGitHashDynamicString": "3ed9beeec4f96623136a3f8cbd7f8327dca0e9a6",
+  "FStringFlipTimeStampFastString": "2023-08-10T20:30:17.096Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T20:30:17.096Z"
 }
