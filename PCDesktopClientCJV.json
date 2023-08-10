@@ -6714,6 +6714,7 @@
   "DFFlagMemoryStoreUseCustomPollingQueueRead": "True",
   "FFlagDontPoseSkinnedCharacters": "True",
   "FFlagLuaAppTopicContentsTimestamp": "True",
+  "FFlagLuaAppCheckLocalPlayerOnMount": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -6978,8 +6979,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "96b598370539b8a79c39c58241ad8794cc36b9e3",
-  "DFStringFlagRepoGitHashDynamicString": "96b598370539b8a79c39c58241ad8794cc36b9e3",
-  "FStringFlipTimeStampFastString": "2023-08-10T17:31:42.210Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T17:31:42.210Z"
+  "FStringFlagRepoGitHashFastString": "f1c4af14f73659589f2f177fbaf1efc3371114f0",
+  "DFStringFlagRepoGitHashDynamicString": "f1c4af14f73659589f2f177fbaf1efc3371114f0",
+  "FStringFlipTimeStampFastString": "2023-08-10T17:34:08.976Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-10T17:34:08.976Z"
 }
