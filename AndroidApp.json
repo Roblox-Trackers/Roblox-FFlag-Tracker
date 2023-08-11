@@ -6767,13 +6767,13 @@
   "FFlagInitUIQuadTreeRework_Rollout": "True;60;2023-08-10T23:21:47",
   "FIntTerrainEditorOverhaulBetaFeatureRolloutPercent": "100",
   "DFIntDSTelemetryRemoveV1Rollout": "100",
-  "FFlagEnableOptOutDUAR3_Rollout": "True;30;2023-08-10T23:41:29",
   "FFlagVoiceChatStoreFirstJoinGroup": "True",
   "FFlagHandleInfiniteSizeWhenMultiply": "True",
   "DFIntDSTelemetryIncrementV1Rollout": "100",
   "FFlagAXUpdateItemTileRenderFunc": "True",
   "FFlagRenameReportedField": "True",
   "FFlagPWDeprecateOldPopupLaunchEditor": "True",
+  "FFlagEnableOptOutDUAR3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7155,8 +7155,8 @@
   "EnableAndroidRealtimeProtocol": "True",
   "EnableAndroidRealtimeProtocolRollout": "5",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
-  "FStringFlagRepoGitHashFastString": "9a073fb427c60d455fc3ab9df234445a861343b5",
-  "DFStringFlagRepoGitHashDynamicString": "9a073fb427c60d455fc3ab9df234445a861343b5",
-  "FStringFlipTimeStampFastString": "2023-08-11T00:15:30.100Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-11T00:15:30.100Z"
+  "FStringFlagRepoGitHashFastString": "c151f040c6a70027dd509da4786337177a0ade07",
+  "DFStringFlagRepoGitHashDynamicString": "c151f040c6a70027dd509da4786337177a0ade07",
+  "FStringFlipTimeStampFastString": "2023-08-11T00:18:34.476Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-11T00:18:34.476Z"
 }
