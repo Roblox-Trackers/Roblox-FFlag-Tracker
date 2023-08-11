@@ -4658,8 +4658,8 @@
   "DFFlagFlagRolloutTestDynamicBool9": "True",
   "FFlagFlagRolloutTestStaticBool0": "False",
   "FFlagFlagRolloutTestStaticBool1": "False",
-  "FFlagFlagRolloutTestStaticBool3": "False",
-  "FFlagFlagRolloutTestStaticBool4": "True",
+  "FFlagFlagRolloutTestStaticBool3": "True",
+  "FFlagFlagRolloutTestStaticBool4": "False",
   "FFlagFlagRolloutTestStaticBool5": "False",
   "FFlagFlagRolloutTestStaticBool6": "False",
   "FFlagFlagRolloutTestStaticBool9": "False",
@@ -6783,8 +6783,6 @@
   "DFFlagFlagRolloutTestDynamicBool5_Rollout": "False;60;2023-08-11T18:15:08",
   "DFIntDSTelemetrySetV1Rollout": "10",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2023-08-11T18:26:20",
-  "FFlagFlagRolloutTestStaticBool3_Rollout": "True;30;2023-08-11T18:27:07",
-  "FFlagFlagRolloutTestStaticBool4_Rollout": "False;30;2023-08-11T18:27:39",
   "FFlagIndentForIndexingSymbol": "True",
   "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2023-08-11T18:29:16",
   "FFlagScreenGuiFixOnTopOfCoreBlurForVR": "True",
@@ -6989,8 +6987,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "d1732799208bdeaf2cadceb5d038e8e903586865",
-  "DFStringFlagRepoGitHashDynamicString": "d1732799208bdeaf2cadceb5d038e8e903586865",
-  "FStringFlipTimeStampFastString": "2023-08-11T18:58:23.457Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-11T18:58:23.457Z"
+  "FStringFlagRepoGitHashFastString": "0c78425fe9d8c39624fdb5b990c8c8c4aa1dd3fa",
+  "DFStringFlagRepoGitHashDynamicString": "0c78425fe9d8c39624fdb5b990c8c8c4aa1dd3fa",
+  "FStringFlipTimeStampFastString": "2023-08-11T19:09:41.468Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-11T19:09:41.468Z"
 }
