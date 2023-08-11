@@ -1760,7 +1760,7 @@
   "DFIntGameMenuFlowTelemetryThrottle": "100",
   "FFlagAlignToolImprovedAnalytics": "True",
   "FFlagWaitForLCUpdates": "True",
-  "DFIntSessionTelemetryOSWarningMinimum": "1",
+  "DFIntSessionTelemetryOSWarningMinimum": "5",
   "FIntVideoDecodedVideoQueueSize": "4",
   "FFlagLeaveGameOnDeeplink": "True",
   "FFlagFixLearnMoreLinkViaSocialTab": "True",
@@ -7155,9 +7155,8 @@
   "EnableAndroidRealtimeProtocol": "True",
   "EnableAndroidRealtimeProtocolRollout": "5",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
-  "DFIntSessionTelemetryOSWarningMinimum_Rollout": "5;30;2023-08-10T23:28:36",
-  "FStringFlagRepoGitHashFastString": "d9b588a1c15ff437acd972c0c97c66005535b5ce",
-  "DFStringFlagRepoGitHashDynamicString": "d9b588a1c15ff437acd972c0c97c66005535b5ce",
-  "FStringFlipTimeStampFastString": "2023-08-10T23:58:28.059Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-10T23:58:28.059Z"
+  "FStringFlagRepoGitHashFastString": "72ceb8d1370ec788f48d876be0834175dcd5eb47",
+  "DFStringFlagRepoGitHashDynamicString": "72ceb8d1370ec788f48d876be0834175dcd5eb47",
+  "FStringFlipTimeStampFastString": "2023-08-11T00:04:17.193Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-11T00:04:17.193Z"
 }
