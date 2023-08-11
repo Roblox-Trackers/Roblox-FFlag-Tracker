@@ -1094,7 +1094,7 @@
   "FFlagPlayerListAnimateMic": "True",
   "FFlagFixReportingPathfindingCostsInUse": "True",
   "FFlagTempAXEmptyCatalogMessage3": "True",
-  "DFIntPredictedOOMPercent": "5",
+  "DFIntPredictedOOMPercent": "10",
   "DFStringJdiDeserializerConfigPerDC": "",
   "FFlagSimCSGV3DiscardUndeterminedComponent": "True",
   "DFFlagTweenServiceFixPathologicalCase": "False",
@@ -1692,7 +1692,7 @@
   "DFFlagPredictedOOMMessageExitContinue": "True",
   "FFlagPredictedOOMKeepPlayingExit": "False",
   "DFFlagPredictedOOMMessageKeepPlayingExit": "False",
-  "DFIntPredictedOOMExitContinuePercent": "5",
+  "DFIntPredictedOOMExitContinuePercent": "10",
   "DFIntFaceTrackingLod": "-1",
   "FFlagRenderVulkanResizeFix": "True",
   "DFFlagDynamicHeadsLoading2": "True",
@@ -6789,6 +6789,7 @@
   "FFlagIndentForIndexingSymbol": "True",
   "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2023-08-11T18:29:16",
   "FFlagScreenGuiFixOnTopOfCoreBlurForVR": "True",
+  "FFlagLiveEditingUndoStack": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7170,8 +7171,8 @@
   "EnableAndroidRealtimeProtocol": "True",
   "EnableAndroidRealtimeProtocolRollout": "5",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
-  "FStringFlagRepoGitHashFastString": "193536c7a04b7744f959d2734f17caf716250343",
-  "DFStringFlagRepoGitHashDynamicString": "193536c7a04b7744f959d2734f17caf716250343",
-  "FStringFlipTimeStampFastString": "2023-08-11T18:42:49.126Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-11T18:42:49.126Z"
+  "FStringFlagRepoGitHashFastString": "1c574c6c8338ca2e3d2fea350903ae9655845213",
+  "DFStringFlagRepoGitHashDynamicString": "1c574c6c8338ca2e3d2fea350903ae9655845213",
+  "FStringFlipTimeStampFastString": "2023-08-11T18:44:02.206Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-11T18:44:02.206Z"
 }
