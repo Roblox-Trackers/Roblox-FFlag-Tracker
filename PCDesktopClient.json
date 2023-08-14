@@ -6801,9 +6801,6 @@
   "DFFlagReportLongRunningScripts_Rollout": "True;60;2023-08-14T20:12:19",
   "DFIntDSTelemetryGetVersionV2Rollout": "100",
   "DFFlagIterationCompleteMetaFix2_Rollout": "True;60;2023-08-14T20:14:04",
-  "DFIntDSTelemetryIncrementV2Rollout_Rollout": "100;5;2023-08-14T20:15:01",
-  "DFIntDSTelemetryRemoveV2Rollout_Rollout": "100;5;2023-08-14T20:15:32",
-  "DFIntDSTelemetryRemoveVersionV2Rollout_Rollout": "100;5;2023-08-14T20:16:13",
   "DFFlagFixEventRateLimitingMetrics_Rollout": "True;60;2023-08-14T20:17:33",
   "FFlagComponentizeLoginManager2": "True",
   "DFIntDSTelemetryGetV2Rollout": "100",
@@ -6811,6 +6808,9 @@
   "DFIntDSTelemetryUpdateV2Rollout_Rollout": "100;10;2023-08-14T20:23:59",
   "FFlagLuaAppRoduxCurrentRoute": "True",
   "DFFlagTouchEventCrashFix_Rollout": "True;30;2023-08-14T20:25:01",
+  "DFIntDSTelemetryIncrementV2Rollout": "100",
+  "DFIntDSTelemetryRemoveV2Rollout": "100",
+  "DFIntDSTelemetryRemoveVersionV2Rollout": "100",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7073,8 +7073,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "1952f19786b3490e60b8b3cfd0518de28b23828f",
-  "DFStringFlagRepoGitHashDynamicString": "1952f19786b3490e60b8b3cfd0518de28b23828f",
-  "FStringFlipTimeStampFastString": "2023-08-14T20:26:32.941Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-14T20:26:32.941Z"
+  "FStringFlagRepoGitHashFastString": "d2655d61278393133ff378c62f82875ac12bde3b",
+  "DFStringFlagRepoGitHashDynamicString": "d2655d61278393133ff378c62f82875ac12bde3b",
+  "FStringFlipTimeStampFastString": "2023-08-14T20:29:10.749Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-14T20:29:10.749Z"
 }
