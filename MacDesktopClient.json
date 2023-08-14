@@ -6795,11 +6795,12 @@
   "FFlagEnableAudioOutputDevice": "True",
   "FFlagVideoPrivacyCheckInSaveAsAndPublishAs": "True",
   "FFlagPersonalizedLocalCacheEnabled2": "True",
-  "DFIntDSTelemetryGetVersionV2Rollout_Rollout": "100;5;2023-08-14T20:00:02",
   "RefactorExperienceSession": "True",
   "SingleSurfaceEnabledAndroid2": "True",
   "FFlagLuaAppExpansionImpressionsFixes": "True",
   "FFlagLuaAppAddVRImpressionCounts": "True",
+  "DFFlagReportLongRunningScripts_Rollout": "True;60;2023-08-14T20:12:19",
+  "DFIntDSTelemetryGetVersionV2Rollout": "100",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7059,8 +7060,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "59ef76171b8a97f53233cd1c6fc95868f6fece27",
-  "DFStringFlagRepoGitHashDynamicString": "59ef76171b8a97f53233cd1c6fc95868f6fece27",
-  "FStringFlipTimeStampFastString": "2023-08-14T20:13:03.130Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-14T20:13:03.130Z"
+  "FStringFlagRepoGitHashFastString": "2126f1eff1d7e49311790260b98dd511638cda6c",
+  "DFStringFlagRepoGitHashDynamicString": "2126f1eff1d7e49311790260b98dd511638cda6c",
+  "FStringFlipTimeStampFastString": "2023-08-14T20:14:05.644Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-14T20:14:05.644Z"
 }
