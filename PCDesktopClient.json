@@ -6801,7 +6801,7 @@
   "DFIntDSTelemetryRemoveV2Rollout": "100",
   "FFlagEnableOOMMessageBoxSessionThrottle_Rollout": "True;30;2023-08-14T17:53:45",
   "DFFlagRemoveReportedOnError_Rollout": "True;60;2023-08-14T18:04:29",
-  "FFlagTextureReloadFix": "True",
+  "FFlagTextureReloadFix": "False",
   "DFFlagIterationCompleteMetaFix2": "True",
   "FFlagLuaAppExpansionImpressionsFixes": "True",
   "FFlagStudioVREnabledSetting": "True",
@@ -7071,8 +7071,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "70920150e9f666139ebf5c958ad7e14247ea5be9",
-  "DFStringFlagRepoGitHashDynamicString": "70920150e9f666139ebf5c958ad7e14247ea5be9",
-  "FStringFlipTimeStampFastString": "2023-08-14T18:23:42.804Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-14T18:23:42.804Z"
+  "FStringFlagRepoGitHashFastString": "485b233851bfc0f5cdf0759120ba29562ad9bf51",
+  "DFStringFlagRepoGitHashDynamicString": "485b233851bfc0f5cdf0759120ba29562ad9bf51",
+  "FStringFlipTimeStampFastString": "2023-08-14T18:27:11.379Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-14T18:27:11.379Z"
 }
