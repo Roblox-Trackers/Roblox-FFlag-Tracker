@@ -6824,6 +6824,7 @@
   "DFIntLongRunningScriptEventHundredthsPercent_Rollout": "1;60;2023-08-14T21:54:56",
   "DFFlagStreamIteratorTimeTracking2_Rollout": "True;60;2023-08-14T21:56:07",
   "FFlagAnalyticsPointsUseDenseMap": "True",
+  "FFlagSanitizeSelfView": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7165,8 +7166,8 @@
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
-  "FStringFlagRepoGitHashFastString": "4880ab4e5db0f62fd684cffd51a7a675c42e1d98",
-  "DFStringFlagRepoGitHashDynamicString": "4880ab4e5db0f62fd684cffd51a7a675c42e1d98",
-  "FStringFlipTimeStampFastString": "2023-08-14T22:02:19.474Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-14T22:02:19.474Z"
+  "FStringFlagRepoGitHashFastString": "bf1ca7a056e55a2da6c6eb26d11f3617911356ef",
+  "DFStringFlagRepoGitHashDynamicString": "bf1ca7a056e55a2da6c6eb26d11f3617911356ef",
+  "FStringFlipTimeStampFastString": "2023-08-14T22:03:39.500Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-14T22:03:39.500Z"
 }
