@@ -6788,9 +6788,6 @@
   "FFlagToolboxVideoTestUseLocalAudioFile": "True",
   "DFIntDSTelemetryUpdateV1Rollout": "100",
   "FFlagVideoPrintErrorLog": "True",
-  "DFFlagRemoveOldParallelLuauAnalytics_Rollout": "True;60;2023-08-14T19:34:32",
-  "DFFlagRemoveScriptContextPrintThreadError_Rollout": "True;60;2023-08-14T19:35:08",
-  "DFFlagDateTimeConversionMillisecondsFixes_Rollout": "True;60;2023-08-14T19:35:35",
   "FFlagEnableAudioOutputDevice": "True",
   "FFlagVideoPrivacyCheckInSaveAsAndPublishAs": "True",
   "FFlagPersonalizedLocalCacheEnabled2": "True",
@@ -6812,6 +6809,9 @@
   "DFIntDSTelemetryRemoveVersionV2Rollout": "100",
   "DFFlagFixLuaFlagOverrides_Rollout": "True;60;2023-08-14T20:37:18",
   "DFIntDSTelemetryUpdateV2Rollout": "100",
+  "DFFlagDateTimeConversionMillisecondsFixes": "True",
+  "DFFlagRemoveOldParallelLuauAnalytics": "True",
+  "DFFlagRemoveScriptContextPrintThreadError": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7197,8 +7197,8 @@
   "DFIntPredictedOOMAbsLimitOSMB": "16384",
   "DFFlagPredictedOOMAbs_Rollout": "True;30;2023-08-14T20:27:37",
   "FFlagTeardownInSingleSurface_Rollout": "True;60;2023-08-14T20:35:00",
-  "FStringFlagRepoGitHashFastString": "d1d973f0cc604d4feb896ddc4019ccd6faac778d",
-  "DFStringFlagRepoGitHashDynamicString": "d1d973f0cc604d4feb896ddc4019ccd6faac778d",
-  "FStringFlipTimeStampFastString": "2023-08-14T20:39:59.466Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-14T20:39:59.466Z"
+  "FStringFlagRepoGitHashFastString": "eb9c6281a6da4329b819cd855686c697eba30dd6",
+  "DFStringFlagRepoGitHashDynamicString": "eb9c6281a6da4329b819cd855686c697eba30dd6",
+  "FStringFlipTimeStampFastString": "2023-08-14T20:43:39.372Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-14T20:43:39.372Z"
 }
