@@ -6788,6 +6788,7 @@
   "DFFlagUseJointAnalytics": "True",
   "FFlagToolboxVideoTestUseLocalAudioFile": "True",
   "DFIntDSTelemetryUpdateV1Rollout": "100",
+  "FFlagTextureReloadFix_Rollout": "True;60;2023-08-14T16:55:13",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7171,8 +7172,8 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "DFIntSessionTelemetryOSWarningMinimum_Rollout": "15;30;2023-08-14T16:24:30",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
-  "FStringFlagRepoGitHashFastString": "dae53e8436b39a8fcf8b5e75ff3daf357859a04b",
-  "DFStringFlagRepoGitHashDynamicString": "dae53e8436b39a8fcf8b5e75ff3daf357859a04b",
-  "FStringFlipTimeStampFastString": "2023-08-14T16:55:06.336Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-14T16:55:06.336Z"
+  "FStringFlagRepoGitHashFastString": "a42aa920df0c776c38c9e95bf1cb42c77c8c23fb",
+  "DFStringFlagRepoGitHashDynamicString": "a42aa920df0c776c38c9e95bf1cb42c77c8c23fb",
+  "FStringFlipTimeStampFastString": "2023-08-14T16:56:02.087Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-14T16:56:02.087Z"
 }
