@@ -7177,8 +7177,10 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "DFIntSessionTelemetryOSWarningMinimum_Rollout": "15;30;2023-08-14T19:34:03",
-  "FStringFlagRepoGitHashFastString": "2218ebcff59de5c0c53a6d58d2032d1027288cee",
-  "DFStringFlagRepoGitHashDynamicString": "2218ebcff59de5c0c53a6d58d2032d1027288cee",
-  "FStringFlipTimeStampFastString": "2023-08-14T19:37:59.114Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-14T19:37:59.114Z"
+  "DFIntPredictedOOMAbsLimitFreeMB_Rollout": "320;30;2023-08-14T19:38:43",
+  "DFIntPredictedOOMAbsLimitOSMB_Rollout": "16384;30;2023-08-14T19:38:46",
+  "FStringFlagRepoGitHashFastString": "f998adb7094ca19cf465a00285e283bc093c283a",
+  "DFStringFlagRepoGitHashDynamicString": "f998adb7094ca19cf465a00285e283bc093c283a",
+  "FStringFlipTimeStampFastString": "2023-08-14T19:40:16.498Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-14T19:40:16.498Z"
 }
