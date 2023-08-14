@@ -6807,6 +6807,7 @@
   "DFIntDSTelemetryIncrementV2Rollout_Rollout": "100;5;2023-08-14T20:15:01",
   "DFIntDSTelemetryRemoveV2Rollout_Rollout": "100;5;2023-08-14T20:15:32",
   "DFIntDSTelemetryRemoveVersionV2Rollout_Rollout": "100;5;2023-08-14T20:16:13",
+  "DFFlagFixEventRateLimitingMetrics_Rollout": "True;60;2023-08-14T20:17:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7190,8 +7191,8 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
   "DFIntPredictedOOMAbsLimitOSMB": "16384",
-  "FStringFlagRepoGitHashFastString": "c212744a63dfec3b46dad8738b4258d7fec5eebf",
-  "DFStringFlagRepoGitHashDynamicString": "c212744a63dfec3b46dad8738b4258d7fec5eebf",
-  "FStringFlipTimeStampFastString": "2023-08-14T20:17:28.127Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-14T20:17:28.127Z"
+  "FStringFlagRepoGitHashFastString": "a6c23586fef2ace0b3d18a80f093b9e93272bc32",
+  "DFStringFlagRepoGitHashDynamicString": "a6c23586fef2ace0b3d18a80f093b9e93272bc32",
+  "FStringFlipTimeStampFastString": "2023-08-14T20:19:22.206Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-14T20:19:22.206Z"
 }
