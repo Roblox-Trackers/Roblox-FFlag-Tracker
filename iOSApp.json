@@ -6078,7 +6078,6 @@
   "FFlagFixAutocompleteStickiness": "True",
   "FFlagScriptEditorIndentationRulersSpaceTabEdgeCase": "True",
   "FIntSoundSessionTelemetryThrottle": "10000",
-  "FFlagComponentizeLoginManager": "False",
   "FFlagReportAnythingFixDefaultAnalytics": "True",
   "FFlagEnableSoundSessionTelemetry": "False",
   "FFlagValidateDescription": "True",
@@ -6803,6 +6802,7 @@
   "SingleSurfaceEnabledAndroid2": "True",
   "DFIntDSTelemetryRemoveV2Rollout_Rollout": "100;10;2023-08-14T17:29:45",
   "DFIntDSTelemetrySetV2Rollout": "100",
+  "FFlagComponentizeLoginManager2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7144,8 +7144,8 @@
   "FFlagUplevelAliasIXPEnabled": "True",
   "FFlagUplevelAliasIXPSetupEnabled_v4": "True",
   "FIntCharacterNameHandlerUserProfileApiRollout": "100",
-  "FStringFlagRepoGitHashFastString": "dd37f31709052bc625577f7251134e79d4eeb31f",
-  "DFStringFlagRepoGitHashDynamicString": "dd37f31709052bc625577f7251134e79d4eeb31f",
-  "FStringFlipTimeStampFastString": "2023-08-14T17:33:11.319Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-14T17:33:11.319Z"
+  "FStringFlagRepoGitHashFastString": "ab3b2500834f62bd3ea4a954c3212f91d8c3aea7",
+  "DFStringFlagRepoGitHashDynamicString": "ab3b2500834f62bd3ea4a954c3212f91d8c3aea7",
+  "FStringFlipTimeStampFastString": "2023-08-14T17:34:06.044Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-14T17:34:06.044Z"
 }
