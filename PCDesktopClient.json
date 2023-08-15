@@ -6843,6 +6843,7 @@
   "FFlagToolboxStartUGCBundleValidationInInit": "True",
   "DFFlagRemoveStudioOnlyToolDependencies_Rollout": "True;60;2023-08-15T19:33:16",
   "FFlagUpgradeExpChatV4_1_4": "True",
+  "FFlagStudioRemoveLegacyActionTelemetry_Rollout": "True;60;2023-08-15T20:18:52",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7105,8 +7106,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "4434d44458ce4b9f4e0fa361a11c10c9af87717a",
-  "DFStringFlagRepoGitHashDynamicString": "4434d44458ce4b9f4e0fa361a11c10c9af87717a",
-  "FStringFlipTimeStampFastString": "2023-08-15T19:54:06.694Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-15T19:54:06.694Z"
+  "FStringFlagRepoGitHashFastString": "2431e939b41b17d862629c639f0d502cf8decbc4",
+  "DFStringFlagRepoGitHashDynamicString": "2431e939b41b17d862629c639f0d502cf8decbc4",
+  "FStringFlipTimeStampFastString": "2023-08-15T20:20:24.241Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-15T20:20:24.241Z"
 }
