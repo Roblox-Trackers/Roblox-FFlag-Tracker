@@ -6131,7 +6131,6 @@
   "DFFlagPreWarmPrivateServerInfo": "True",
   "DFFlagPreWarmPrivateServerOwnerIDInt64Fix": "True",
   "DFFlagReplaceRCCHeartBeat": "True",
-  "DFFlagInferredMobileSuccess": "True",
   "FFlagDeprecateScriptingManagerSettingQSignal": "True",
   "FFlagPreloadAsyncAssetFormat": "True",
   "FFlagMaquettesDisableScreenRotation": "True",
@@ -7199,7 +7198,7 @@
   "EnableSdk33PostNotifications": "True",
   "FFlagShouldHandleNotificationSettingChanged": "True",
   "EnablePushNotificationsPromptAndroid13": "True",
-  "DFFlagFixSessionTrackingSendSuccess": "False",
+  "DFFlagFixSessionTrackingSendSuccess": "True",
   "FFlagTerrainVTEnableRelease587Fix": "True",
   "FStringCapturesActivatedInGameMenu": "CapturesActivatedInGameMenuAndroid",
   "FStringCapturesCarouselOpened": "CapturesCarouselOpenedAndroid",
@@ -7230,11 +7229,10 @@
   "DFIntPredictedOOMAbsLimitOSMB": "16384",
   "FFlagTeardownInSingleSurface": "True",
   "FFlagLeaderboardUserProfileApiEnabledForAll": "True",
-  "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222",
-  "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
+  "DFFlagInferredMobileSuccess": "False",
   "FFlagProfilePeekViewAliasTooltip_v2": "True",
-  "FStringFlagRepoGitHashFastString": "0bc18cea8f5ae6d62e59996b6a37ecafebef6d79",
-  "DFStringFlagRepoGitHashDynamicString": "0bc18cea8f5ae6d62e59996b6a37ecafebef6d79",
-  "FStringFlipTimeStampFastString": "2023-08-15T22:09:06.227Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-15T22:09:06.227Z"
+  "FStringFlagRepoGitHashFastString": "01b7430c3c7aecf7ce52c8e7f7befc9188c4e615",
+  "DFStringFlagRepoGitHashDynamicString": "01b7430c3c7aecf7ce52c8e7f7befc9188c4e615",
+  "FStringFlipTimeStampFastString": "2023-08-15T22:10:08.688Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-15T22:10:08.688Z"
 }
