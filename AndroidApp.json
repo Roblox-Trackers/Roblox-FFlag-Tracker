@@ -6867,7 +6867,7 @@
   "FFlagImprovedGameProtocolMessages": "True",
   "FFlagApplyScaleForCanvasSize": "True",
   "DFFlagSendUpdatedGameCode": "True",
-  "DFIntTimestepArbiterThresholdCFLThou_Rollout": "300;2;2023-08-16T19:31:01",
+  "DFIntTimestepArbiterThresholdCFLThou": "300",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7254,8 +7254,8 @@
   "FFlagProfilePeekViewAliasTooltip_v2": "True",
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
-  "FStringFlagRepoGitHashFastString": "8fe89097b80369e7e50965c924c66766e0bafc94",
-  "DFStringFlagRepoGitHashDynamicString": "8fe89097b80369e7e50965c924c66766e0bafc94",
-  "FStringFlipTimeStampFastString": "2023-08-16T19:32:12.379Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-16T19:32:12.379Z"
+  "FStringFlagRepoGitHashFastString": "426ab4a8ef1b5701c28969ff9fd08d0c6a58cff5",
+  "DFStringFlagRepoGitHashDynamicString": "426ab4a8ef1b5701c28969ff9fd08d0c6a58cff5",
+  "FStringFlipTimeStampFastString": "2023-08-16T19:37:33.622Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-16T19:37:33.622Z"
 }
