@@ -5864,7 +5864,7 @@
   "FFlagLuaAppMigrateGameCarouselImpressions": "True",
   "FFlagLuaAppFixGameGridTableImpressions": "True",
   "DFFlagMoreConsistentPhysicsFiltering": "True",
-  "DFFlagRccSavePartitionId": "True",
+  "DFFlagRccSavePartitionId": "False",
   "DFIntFilterAndTranslateServerPartitionId": "1",
   "FFlagUserIsChatTranslationEnabled": "False",
   "FStringChatTranslationLayerName": "Matchmaking.Algorithm.UserId",
@@ -6187,7 +6187,7 @@
   "FFlagToolboxMigrateToRoact17": "True",
   "FFlagToolboxPrepForRoact17Migration4": "True",
   "DFFlagFilterAndTranslateCacheFloodChcker": "True",
-  "FFlagUserIsChatTranslationEnabled2": "True",
+  "FFlagUserIsChatTranslationEnabled2": "False",
   "FFlagAinFixLegacyStatusUpdating": "True",
   "FFlagCaptureSavedSignalEnabled": "True",
   "FFlagScreenshotCaptureEnabled2": "True",
@@ -7079,8 +7079,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "114fda5541454b76ca844ecd0b7ce50ad13f7a56",
-  "DFStringFlagRepoGitHashDynamicString": "114fda5541454b76ca844ecd0b7ce50ad13f7a56",
-  "FStringFlipTimeStampFastString": "2023-08-16T21:24:18.552Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-16T21:24:18.552Z"
+  "FStringFlagRepoGitHashFastString": "9e41f0bd27a26b538e60dd3efbdf17bd60986d37",
+  "DFStringFlagRepoGitHashDynamicString": "9e41f0bd27a26b538e60dd3efbdf17bd60986d37",
+  "FStringFlipTimeStampFastString": "2023-08-16T21:27:33.830Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-16T21:27:33.830Z"
 }
