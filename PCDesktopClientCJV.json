@@ -6868,6 +6868,8 @@
   "FFlagApplyScaleForCanvasSize": "True",
   "DFFlagSendUpdatedGameCode": "True",
   "DFIntTimestepArbiterThresholdCFLThou": "300",
+  "FFlagCLI81941": "False",
+  "FFlagCLI81941_PlaceFilter": "True;3298792587",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7131,8 +7133,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "426ab4a8ef1b5701c28969ff9fd08d0c6a58cff5",
-  "DFStringFlagRepoGitHashDynamicString": "426ab4a8ef1b5701c28969ff9fd08d0c6a58cff5",
-  "FStringFlipTimeStampFastString": "2023-08-16T19:37:33.622Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-16T19:37:33.622Z"
+  "FStringFlagRepoGitHashFastString": "4592883f6582a3ed96ff9507a00b260dd63eedd9",
+  "DFStringFlagRepoGitHashDynamicString": "4592883f6582a3ed96ff9507a00b260dd63eedd9",
+  "FStringFlipTimeStampFastString": "2023-08-16T19:39:11.245Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-16T19:39:11.245Z"
 }
