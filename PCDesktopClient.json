@@ -6878,7 +6878,6 @@
   "FFlagStudioNewPluginNoReload": "True",
   "FFlagUseImprovedGameProtocolMessages": "True",
   "FFlagExcludeInvisibleChildFromAutomaticSize": "True",
-  "FFlagFixSurfaceGuiAdorneeAncestryChanged_Rollout": "True;60;2023-08-16T21:59:50",
   "DFIntVoiceChatNonCriticalPathSignalingPriority": "2",
   "FFlagPYMKEnableCustomization_v2": "True",
   "DFFlagCopyOuterCageData": "True",
@@ -6890,6 +6889,7 @@
   "DFIntPurchaseProductUrlV2GCSResponseHandlingRollout": "25",
   "FFlagSTUDIOPLAT_30933_TrackLegacyLockUsage": "True",
   "FFlagSTUDIOPLAT_31476_ANRDetector_v2": "True",
+  "FFlagFixSurfaceGuiAdorneeAncestryChanged": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7152,8 +7152,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "76928ce64e0def155f6fbe0d93a3e72ba4559924",
-  "DFStringFlagRepoGitHashDynamicString": "76928ce64e0def155f6fbe0d93a3e72ba4559924",
-  "FStringFlipTimeStampFastString": "2023-08-16T22:38:37.272Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-16T22:38:37.272Z"
+  "FStringFlagRepoGitHashFastString": "ff60fe366f0a90ea4a783f1675328f3ed55e151b",
+  "DFStringFlagRepoGitHashDynamicString": "ff60fe366f0a90ea4a783f1675328f3ed55e151b",
+  "FStringFlipTimeStampFastString": "2023-08-16T23:12:26.729Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-16T23:12:26.729Z"
 }
