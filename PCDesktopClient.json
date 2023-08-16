@@ -6864,6 +6864,7 @@
   "FFlagSimAutoUpgradeCSGV1UsersToV3": "True",
   "FStringSimAutoUpgradeCSGv1LearnMoreUrl": "https://devforum.roblox.com/t/sunsetting-the-legacy-computational-solid-geometry-csg-engine/2527462",
   "DFFlagVoiceChatSignalingPriorityEnabled_Rollout": "True;60;2023-08-16T18:37:51",
+  "FFlagChangeBulletConvexHullMargin3_Rollout": "False;1;2023-08-16T18:41:58",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7126,8 +7127,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "ebd543e3e9f56e3c92782fa5baa01496f9089764",
-  "DFStringFlagRepoGitHashDynamicString": "ebd543e3e9f56e3c92782fa5baa01496f9089764",
-  "FStringFlipTimeStampFastString": "2023-08-16T18:38:41.265Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-16T18:38:41.265Z"
+  "FStringFlagRepoGitHashFastString": "56f2f7d6836c0240d429eb3dc2ce37576f09e865",
+  "DFStringFlagRepoGitHashDynamicString": "56f2f7d6836c0240d429eb3dc2ce37576f09e865",
+  "FStringFlipTimeStampFastString": "2023-08-16T18:43:06.953Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-16T18:43:06.953Z"
 }
