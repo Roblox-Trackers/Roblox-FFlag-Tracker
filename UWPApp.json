@@ -6785,7 +6785,6 @@
   "FFlagVideoPrivacyCheckInSaveAsAndPublishAs": "True",
   "FFlagPersonalizedLocalCacheEnabled2": "True",
   "RefactorExperienceSession": "False",
-  "SingleSurfaceEnabledAndroid2": "False",
   "FFlagLuaAppExpansionImpressionsFixes": "True",
   "FFlagLuaAppAddVRImpressionCounts": "True",
   "DFIntDSTelemetryGetVersionV2Rollout": "100",
@@ -6858,6 +6857,7 @@
   "FFlagDevFrameworkAssetRenderModelPanSpeedMultiplier": "True",
   "FFlagEnableUGCFixUploadInstances2": "True",
   "FFlagContentProviderAssetResolutionModeFix": "True",
+  "DFFlagSendUpdatedGameCode_Rollout": "True;60;2023-08-16T18:11:20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7056,8 +7056,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "3bf9e8dfe6bed0609182130362d5df68552ae6be",
-  "DFStringFlagRepoGitHashDynamicString": "3bf9e8dfe6bed0609182130362d5df68552ae6be",
-  "FStringFlipTimeStampFastString": "2023-08-16T18:07:12.080Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-16T18:07:12.080Z"
+  "FStringFlagRepoGitHashFastString": "06ea9b4358545d88baab51ea945c646b9ad6bb5e",
+  "DFStringFlagRepoGitHashDynamicString": "06ea9b4358545d88baab51ea945c646b9ad6bb5e",
+  "FStringFlipTimeStampFastString": "2023-08-16T18:12:54.017Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-16T18:12:54.017Z"
 }
