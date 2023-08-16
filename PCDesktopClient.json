@@ -5984,7 +5984,6 @@
   "FFlagIGMVRQuestControlsInstructions": "True",
   "FFlagSimCSGV3LoadPrimitivesJustInTime2": "True",
   "FFlagOpenXrDeviceRecenter": "False",
-  "DFLogFaceAnimatorTrace": "6",
   "FFlagToolboxFixInsertToolPromiseCancel": "True",
   "FFlagAdGuiRemoveImageSize": "True",
   "FFlagFixEmptyGlyphsCrash": "True",
@@ -6062,7 +6061,6 @@
   "FFlagStudioMigrateSelectionBox": "True",
   "FFlagStudioSelectionTelemetryEphemeralCounter": "True",
   "FFlagUIBloxEnableTileOverlayFix": "True",
-  "DFLogFaceAnimatorThreadingTrace": "6",
   "FFlagGuiStateTransitionFromPressedToHoverAfterButtonReleased2": "True",
   "FFlagSelectedInputOnButtonsActivateStateChanges": "True",
   "DFFlagPublishServiceReturnForErrorCase": "True",
@@ -6077,7 +6075,6 @@
   "FFlagReportAnythingFixDefaultAnalytics": "True",
   "FFlagEnableSoundSessionTelemetry": "False",
   "FFlagValidateDescription": "True",
-  "DFLogFaceAnimatorThreadingTrace2": "6",
   "FFlagAddTextDirectionProperty2": "True",
   "FFlagSoundSessionTelemetryNewParams": "True",
   "FFlagLuaAppValidateUserIdIxp": "True",
@@ -7139,8 +7136,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "da84af275fe4fc1a95bb49ab739129e322ecf0ba",
-  "DFStringFlagRepoGitHashDynamicString": "da84af275fe4fc1a95bb49ab739129e322ecf0ba",
-  "FStringFlipTimeStampFastString": "2023-08-16T20:01:37.789Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-16T20:01:37.789Z"
+  "FStringFlagRepoGitHashFastString": "e4fa64bd17149534e6812be7743b1c6dd5e5352d",
+  "DFStringFlagRepoGitHashDynamicString": "e4fa64bd17149534e6812be7743b1c6dd5e5352d",
+  "FStringFlipTimeStampFastString": "2023-08-16T20:02:41.697Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-16T20:02:41.697Z"
 }
