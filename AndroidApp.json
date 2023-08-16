@@ -6812,7 +6812,7 @@
   "DFIntDSTelemetryListVersionsV2Rollout": "100",
   "DFFlagTouchEventCrashFix": "True",
   "FFlagDevFrameworkIconButtonTooltipStyleProperty": "True",
-  "DFFlagReportLongRunningScripts": "True",
+  "DFFlagReportLongRunningScripts": "False",
   "DFFlagFixEventRateLimitingMetrics": "True",
   "DFFlagIterationCompleteMetaFix2": "True",
   "DFIntDSTelemetryListDataStoresRollout": "100",
@@ -6865,7 +6865,6 @@
   "DFFlagVoiceChatSignalingPriorityEnabled_Rollout": "True;60;2023-08-16T18:37:51",
   "FFlagACEFaceEditorSlidersFix": "True",
   "FFlagDevFrameworkPaneSizeFromStyle": "True",
-  "DFFlagReportLongRunningScripts_Rollout": "False;1;2023-08-16T19:00:54",
   "FFlagImprovedGameProtocolMessages": "True",
   "FFlagApplyScaleForCanvasSize": "True",
   "AllowVideoPreRoll": "True",
@@ -7254,8 +7253,8 @@
   "FFlagProfilePeekViewAliasTooltip_v2": "True",
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
-  "FStringFlagRepoGitHashFastString": "c4ebdc567cc08687fd8b23a9311b5c2dad3423fe",
-  "DFStringFlagRepoGitHashDynamicString": "c4ebdc567cc08687fd8b23a9311b5c2dad3423fe",
-  "FStringFlipTimeStampFastString": "2023-08-16T19:02:55.053Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-16T19:02:55.053Z"
+  "FStringFlagRepoGitHashFastString": "367846fb402c1c8498cf40bd03929f50ba0988bb",
+  "DFStringFlagRepoGitHashDynamicString": "367846fb402c1c8498cf40bd03929f50ba0988bb",
+  "FStringFlipTimeStampFastString": "2023-08-16T19:07:21.349Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-16T19:07:21.349Z"
 }
