@@ -6907,6 +6907,8 @@
   "FFlagAFTAddEyebrowAndEyelashAttachments": "True",
   "FFlagFixAFTBoundsChecking": "True",
   "FFlagDragDetectorCancelOnToolPickup_Rollout": "True;60;2023-08-17T22:20:24",
+  "FFlagEnableMaquettesPurchaseV2_Rollout": "True;60;2023-08-17T22:20:33",
+  "FFlagDragDetectorStartCallsContinue2_Rollout": "True;60;2023-08-17T22:20:47",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7255,8 +7257,8 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagEnableiOSRealtimeProtocol": "True",
   "FIntEnableiOSRealtimeProtocolRollout": "1",
-  "FStringFlagRepoGitHashFastString": "eefe62c9f52add90bda4409103fe8e998dca56df",
-  "DFStringFlagRepoGitHashDynamicString": "eefe62c9f52add90bda4409103fe8e998dca56df",
-  "FStringFlipTimeStampFastString": "2023-08-17T22:21:55.061Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-17T22:21:55.061Z"
+  "FStringFlagRepoGitHashFastString": "152ccdd7cc69cab39434c5eee681c561f47b63e5",
+  "DFStringFlagRepoGitHashDynamicString": "152ccdd7cc69cab39434c5eee681c561f47b63e5",
+  "FStringFlipTimeStampFastString": "2023-08-17T22:23:35.858Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-17T22:23:35.858Z"
 }
