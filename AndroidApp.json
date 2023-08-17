@@ -6920,6 +6920,11 @@
   "FFlagSimAdaptiveTimesteppingDefault2_Rollout": "True;60;2023-08-17T22:32:26",
   "FFlagAvatarChatBanMessageV2": "True",
   "FFlagAssetPreviewContentAttribution3": "True",
+  "FFlagUGCBodiesAndHeadsBetaFeature": "True",
+  "FIntUGCBodiesAndHeadsBetaFeatureRoleSet": "4",
+  "FIntUGCBodiesAndHeadsBetaFeatureRolloutPercent": "100",
+  "FStringUGCBodiesAndHeadsBetaFeatureUrl": "https://devforum.roblox.com/t/ugc-program-expanding-creation-and-monetization-with-avatar-bodies-and-heads/2531046",
+  "FFlagAppGameTileUnificationDUA2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7306,8 +7311,8 @@
   "FFlagProfilePeekViewAliasTooltip_v2": "True",
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222;4832438542",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222;4832438542",
-  "FStringFlagRepoGitHashFastString": "567169b40ef1944bd02a2ed526c37bdd5d216255",
-  "DFStringFlagRepoGitHashDynamicString": "567169b40ef1944bd02a2ed526c37bdd5d216255",
-  "FStringFlipTimeStampFastString": "2023-08-17T22:54:26.974Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-17T22:54:26.974Z"
+  "FStringFlagRepoGitHashFastString": "5b7ea359dc66346c9dca62dacc02e0824535e8a8",
+  "DFStringFlagRepoGitHashDynamicString": "5b7ea359dc66346c9dca62dacc02e0824535e8a8",
+  "FStringFlipTimeStampFastString": "2023-08-17T22:55:41.026Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-17T22:55:41.026Z"
 }
