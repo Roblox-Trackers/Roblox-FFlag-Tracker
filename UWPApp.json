@@ -6714,7 +6714,7 @@
   "FFlagTerrainEditorSnapToVoxels": "True",
   "FFlagFilePathRulesNoRegex2": "True",
   "DFIntCLI61964InfluxThresholdHundredths": "100",
-  "DFFlagDataStoreUseNewErrorReporting": "True",
+  "DFFlagDataStoreUseNewErrorReporting": "False",
   "DFFlagKibanaReportCachePolicy": "True",
   "FFlagDisableSelfViewReactingToSetCoreGuiEnabled": "True",
   "FFlagRemoveTagsFromSelfViewClone": "True",
@@ -6899,7 +6899,6 @@
   "FFlagBubbleChatCaratFix": "True",
   "FFlagExpressiveErrorPrintTopFix": "True",
   "DFIntStreamingJoinStatsHundredths_Rollout": "100;60;2023-08-17T16:49:00",
-  "DFFlagDataStoreUseNewErrorReporting_Rollout": "False;30;2023-08-17T17:02:36",
   "FIntMaxTimestepMultiplierVelocity": "2",
   "FFlagLuauTableUnifyRecursionLimit": "True",
   "FFlagRequireUIThreadWhenAccessingPixmap": "True",
@@ -7101,8 +7100,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "ed3fb85f1bfff3ae4e1b5406f88416b01dbbebd0",
-  "DFStringFlagRepoGitHashDynamicString": "ed3fb85f1bfff3ae4e1b5406f88416b01dbbebd0",
-  "FStringFlipTimeStampFastString": "2023-08-17T17:37:13.025Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-17T17:37:13.025Z"
+  "FStringFlagRepoGitHashFastString": "70e6675b17a262f5e2df4a829fffacf6af509958",
+  "DFStringFlagRepoGitHashDynamicString": "70e6675b17a262f5e2df4a829fffacf6af509958",
+  "FStringFlipTimeStampFastString": "2023-08-17T17:38:04.971Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-17T17:38:04.971Z"
 }
