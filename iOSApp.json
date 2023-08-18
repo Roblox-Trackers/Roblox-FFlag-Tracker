@@ -6955,7 +6955,6 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "DFFlagSimReportPlaySessionIdForSolverNumericalExplosionTelemetry_Rollout": "True;60;2023-08-18T17:07:38",
   "FFlagScriptAccessCaps": "True",
-  "FFlagLuauAnonymousAutofilled1_Rollout": "True;30;2023-08-18T17:18:31",
   "FFlagAXItemGroupColumnGamepadNav": "True",
   "FFlagAXSponsoredItemsColumnGamepadNav": "True",
   "FFlagFixWidgetGamepadLastRow": "True",
@@ -6965,6 +6964,7 @@
   "FFlagVideoFixStudioGreyScreen": "True",
   "AllowVideoPreRoll": "True",
   "DFFlagEngineStabilityFixOutOfBounds_Rollout": "True;40;2023-08-18T17:52:45",
+  "FFlagLuauAnonymousAutofilled1": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -7300,8 +7300,8 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagEnableiOSRealtimeProtocol": "True",
   "FIntEnableiOSRealtimeProtocolRollout": "1",
-  "FStringFlagRepoGitHashFastString": "04f09794f3eb616a6e8d5dce60c799d08bf9fb6d",
-  "DFStringFlagRepoGitHashDynamicString": "04f09794f3eb616a6e8d5dce60c799d08bf9fb6d",
-  "FStringFlipTimeStampFastString": "2023-08-18T17:54:30.657Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-18T17:54:30.657Z"
+  "FStringFlagRepoGitHashFastString": "eb129e31891bb83ada9dbd1dd6b9674605c42540",
+  "DFStringFlagRepoGitHashDynamicString": "eb129e31891bb83ada9dbd1dd6b9674605c42540",
+  "FStringFlipTimeStampFastString": "2023-08-18T17:57:51.370Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-18T17:57:51.370Z"
 }
