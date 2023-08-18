@@ -6961,7 +6961,6 @@
   "FFlagVideoFixStudioGreyScreen": "True",
   "FFlagLuauAnonymousAutofilled1": "True",
   "DFFlagMemoryStoreHandleEmptyThrottleResponses": "True",
-  "FFlagStudioVREnabledSetting_Rollout": "True;60;2023-08-18T18:13:28",
   "DFFlagSimReportPlaySessionIdForSolverNumericalExplosionTelemetry": "True",
   "DFFlagSimplifyAttachmentParentFrameVisualization": "True",
   "FFlagFixExplorerBadThreading2_Rollout": "True;60;2023-08-18T18:25:22",
@@ -6977,6 +6976,7 @@
   "DFFlagDisableControllerManagerAsChild2_PlaceFilter": "True;14484773887",
   "FFlagEnableEvaluateStateMachine2": "False",
   "FFlagEnableEvaluateStateMachine2_PlaceFilter": "True;14484773887",
+  "FFlagStudioVREnabledSetting": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7170,8 +7170,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "ac0075153e5fda9c94bb796b3e98a02031ebf031",
-  "DFStringFlagRepoGitHashDynamicString": "ac0075153e5fda9c94bb796b3e98a02031ebf031",
-  "FStringFlipTimeStampFastString": "2023-08-18T19:17:46.250Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-18T19:17:46.250Z"
+  "FStringFlagRepoGitHashFastString": "75b626b56a2ca7ab47472d463fd21dd6e55bb035",
+  "DFStringFlagRepoGitHashDynamicString": "75b626b56a2ca7ab47472d463fd21dd6e55bb035",
+  "FStringFlipTimeStampFastString": "2023-08-18T19:21:47.908Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-18T19:21:47.908Z"
 }
