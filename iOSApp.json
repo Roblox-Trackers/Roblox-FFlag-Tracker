@@ -6959,7 +6959,6 @@
   "FFlagWidgetGamepadSupportFixes": "True",
   "FFlagWidgetNoDefaultChildNavigation2": "True",
   "FFlagVideoFixStudioGreyScreen": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagLuauAnonymousAutofilled1": "True",
   "DFFlagMemoryStoreHandleEmptyThrottleResponses": "True",
   "DFFlagEnableMapTypeFieldSupportInTelemetryEvent_Rollout": "True;60;2023-08-18T18:07:10",
@@ -6971,6 +6970,8 @@
   "FFlagDraggerHistoryAfterDragFix": "True",
   "FFlagFixNansFromShowingUpForEffectSessionAverages": "True",
   "DFFlagEngineStabilityFixOutOfBounds": "True",
+  "FFlagReportFpsAndGfxQualityPercentiles": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -7285,7 +7286,6 @@
   "FIntFriendsCarouselUserProfileApiRollout": "100",
   "DFFlagDebugSendTDigestDebugInfo": "False",
   "FFlagEarlyCreateProfileTelemetry": "False",
-  "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "FStringCustomizeNameModalOpened": "CustomizeNameModalOpenediOS",
   "DFFlagFixSessionTrackingSendSuccess": "False",
   "DFFlagDebugSendTDigestDebugInfo2": "True",
@@ -7306,8 +7306,8 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagEnableiOSRealtimeProtocol": "True",
   "FIntEnableiOSRealtimeProtocolRollout": "1",
-  "FStringFlagRepoGitHashFastString": "37532d3b9839f25ffed9adb545b04bcc38544b32",
-  "DFStringFlagRepoGitHashDynamicString": "37532d3b9839f25ffed9adb545b04bcc38544b32",
-  "FStringFlipTimeStampFastString": "2023-08-18T18:46:35.994Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-18T18:46:35.994Z"
+  "FStringFlagRepoGitHashFastString": "f4b4b3bfbcd330f165d44aaa4c657f429b53e1a2",
+  "DFStringFlagRepoGitHashDynamicString": "f4b4b3bfbcd330f165d44aaa4c657f429b53e1a2",
+  "FStringFlipTimeStampFastString": "2023-08-18T18:52:36.005Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-18T18:52:36.005Z"
 }
