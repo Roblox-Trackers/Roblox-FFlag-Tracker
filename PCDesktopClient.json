@@ -5247,7 +5247,7 @@
   "DFIntAdGuiRandomizedRaycastLaunchPercentage2": "10000",
   "FFlagSelfViewDontHideOnSwapCharacter": "True",
   "FFlagDragDetectors1": "False",
-  "FFlagDragDetectors1_PlaceFilter": "True;576787046;14202782367;6101039089;14263813402;14247096325;14229107623;4921514218;12552493629;4709436891;14194258515;14216542704;4918411243;462997381;13813805995;13735376863;13638384763;12981782010;10135698219;11314555671;13503219415;13049142488;12909041133;13477165541;13477146301;12445163038;13351825906;11814430535;14266387369",
+  "FFlagDragDetectors1_PlaceFilter": "True;13441277223;576787046;14202782367;6101039089;14263813402;14247096325;14229107623;4921514218;12552493629;4709436891;14194258515;14216542704;4918411243;462997381;13813805995;13735376863;13638384763;12981782010;10135698219;11314555671;13503219415;13049142488;12909041133;13477165541;13477146301;12445163038;13351825906;11814430535;14266387369",
   "FFlagCOLLAB3629EnableCloudEditControllerOnWakeTelemetry": "True",
   "FFlagStudioRemoveEmptySplitters": "True",
   "FFlagStudioRemoveEmptySplittersTopological": "True",
@@ -6955,6 +6955,7 @@
   "FIntSocialTabUserProfileApiRollout": "100",
   "DFFlagSimReportPlaySessionIdForSolverNumericalExplosionTelemetry_Rollout": "True;60;2023-08-18T17:07:38",
   "FFlagScriptAccessCaps": "True",
+  "FFlagLuauAnonymousAutofilled1_Rollout": "True;30;2023-08-18T17:18:31",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7217,8 +7218,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "96a4a490e7640bfed08e2ea0a3c3af71f3576280",
-  "DFStringFlagRepoGitHashDynamicString": "96a4a490e7640bfed08e2ea0a3c3af71f3576280",
-  "FStringFlipTimeStampFastString": "2023-08-18T17:17:21.186Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-18T17:17:21.186Z"
+  "FStringFlagRepoGitHashFastString": "e760f2014b25f9516271a0240ff1031bb02f4ec6",
+  "DFStringFlagRepoGitHashDynamicString": "e760f2014b25f9516271a0240ff1031bb02f4ec6",
+  "FStringFlipTimeStampFastString": "2023-08-18T17:19:27.039Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-18T17:19:27.039Z"
 }
