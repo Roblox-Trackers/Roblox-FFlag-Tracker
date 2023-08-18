@@ -6956,6 +6956,12 @@
   "DFFlagSimReportPlaySessionIdForSolverNumericalExplosionTelemetry_Rollout": "True;60;2023-08-18T17:07:38",
   "FFlagScriptAccessCaps": "True",
   "FFlagLuauAnonymousAutofilled1_Rollout": "True;30;2023-08-18T17:18:31",
+  "FFlagAXItemGroupColumnGamepadNav": "True",
+  "FFlagAXSponsoredItemsColumnGamepadNav": "True",
+  "FFlagFixWidgetGamepadLastRow": "True",
+  "FFlagMarketplaceNavGamepadFix": "True",
+  "FFlagWidgetGamepadSupportFixes": "True",
+  "FFlagWidgetNoDefaultChildNavigation2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7219,8 +7225,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "6279acc5016467de7b96429342c361ebdc5d767d",
-  "DFStringFlagRepoGitHashDynamicString": "6279acc5016467de7b96429342c361ebdc5d767d",
-  "FStringFlipTimeStampFastString": "2023-08-18T17:24:28.885Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-18T17:24:28.885Z"
+  "FStringFlagRepoGitHashFastString": "21d092244592f3eb5c8f520ba73cd1a01722171d",
+  "DFStringFlagRepoGitHashDynamicString": "21d092244592f3eb5c8f520ba73cd1a01722171d",
+  "FStringFlipTimeStampFastString": "2023-08-18T17:25:14.315Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-18T17:25:14.315Z"
 }
