@@ -6963,8 +6963,6 @@
   "DFFlagMemoryStoreHandleEmptyThrottleResponses": "True",
   "DFFlagSimReportPlaySessionIdForSolverNumericalExplosionTelemetry": "True",
   "DFFlagSimplifyAttachmentParentFrameVisualization": "True",
-  "FFlagFixExplorerBadThreading2_Rollout": "True;60;2023-08-18T18:25:22",
-  "FFlagMacUseUpdateController2_Rollout": "True;60;2023-08-18T18:26:14",
   "FFlagDraggerHistoryAfterDragFix": "True",
   "FFlagFixNansFromShowingUpForEffectSessionAverages": "True",
   "DFFlagEngineStabilityFixOutOfBounds": "True",
@@ -6977,6 +6975,8 @@
   "FFlagEnableEvaluateStateMachine2": "False",
   "FFlagEnableEvaluateStateMachine2_PlaceFilter": "True;14484773887",
   "FFlagStudioVREnabledSetting": "True",
+  "FFlagFixExplorerBadThreading2": "True",
+  "FFlagMacUseUpdateController2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7312,8 +7312,8 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagEnableiOSRealtimeProtocol": "True",
   "FIntEnableiOSRealtimeProtocolRollout": "1",
-  "FStringFlagRepoGitHashFastString": "75b626b56a2ca7ab47472d463fd21dd6e55bb035",
-  "DFStringFlagRepoGitHashDynamicString": "75b626b56a2ca7ab47472d463fd21dd6e55bb035",
-  "FStringFlipTimeStampFastString": "2023-08-18T19:21:47.908Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-18T19:21:47.908Z"
+  "FStringFlagRepoGitHashFastString": "016e57e7622e16eb1f9ff902910972605ef6a164",
+  "DFStringFlagRepoGitHashDynamicString": "016e57e7622e16eb1f9ff902910972605ef6a164",
+  "FStringFlipTimeStampFastString": "2023-08-18T19:32:02.897Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-18T19:32:02.897Z"
 }
