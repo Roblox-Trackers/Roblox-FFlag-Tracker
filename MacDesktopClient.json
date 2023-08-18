@@ -6867,7 +6867,7 @@
   "FFlagACSelfViewFixes": "True",
   "FFlagOnlyUpdateButtonsWhenInitialized": "True",
   "FFlagSelfViewChecks": "True",
-  "FFlagScriptRunCaps": "True",
+  "FFlagScriptRunCaps": "False",
   "DFFlagUnlimitTrussLengthRender": "True",
   "FFlagLuauCreateCaps": "True",
   "FFlagReportStreamingEnabledStateToCrashpad": "True",
@@ -6977,7 +6977,6 @@
   "FFlagStudioVREnabledSetting": "True",
   "FFlagFixExplorerBadThreading2": "True",
   "FFlagMacUseUpdateController2": "True",
-  "FFlagScriptRunCaps_Rollout": "False;5;2023-08-18T19:40:41",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7237,8 +7236,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "d92229fa792fc0fed50cc74d757d7003bec33586",
-  "DFStringFlagRepoGitHashDynamicString": "d92229fa792fc0fed50cc74d757d7003bec33586",
-  "FStringFlipTimeStampFastString": "2023-08-18T19:41:26.920Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-18T19:41:26.920Z"
+  "FStringFlagRepoGitHashFastString": "331365b4ed1b7489675041c66fcc2b43e18999fb",
+  "DFStringFlagRepoGitHashDynamicString": "331365b4ed1b7489675041c66fcc2b43e18999fb",
+  "FStringFlipTimeStampFastString": "2023-08-18T19:52:11.180Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-18T19:52:11.180Z"
 }
