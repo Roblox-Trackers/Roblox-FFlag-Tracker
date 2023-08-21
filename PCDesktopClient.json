@@ -7003,7 +7003,6 @@
   "DFFlagSimFlushDenormalsToZeroDuringJoin": "True",
   "DFFlagAudioPlayerEndedFix": "True",
   "DFFlagImprovePortalInitialization": "True",
-  "DFStringTelemetryV2Url_Rollout": "https://ecsv2.roblox.com/client/pbe;60;2023-08-21T19:21:49",
   "DFFlagOrientationNeverMinus180_Rollout": "True;60;2023-08-21T19:33:39",
   "DFFlagEnableV2POCStat_Rollout": "True;60;2023-08-21T19:38:39",
   "FFlagDraggerHandleTinyPartsBetter": "True",
@@ -7017,6 +7016,7 @@
   "FFlagEnableSelfViewToggleApi_PlaceFilter": "True;14474452831;14474457148;14474460040;12867047376;12867089300;14066075418;11402255591;12796376276;13989579574;11460402982;12500012844;14030887154;12444504875;12779831347;14033872415",
   "FFlagDraggerDuplicateDuringDrag": "True",
   "FFlagSimSolverAeroMemoryScope": "True",
+  "DFStringTelemetryV2Url": "https://ecsv2.roblox.com/client/pbe",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7278,8 +7278,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "3872108d2586c503877aeb600b888ae8fd61a184",
-  "DFStringFlagRepoGitHashDynamicString": "3872108d2586c503877aeb600b888ae8fd61a184",
-  "FStringFlipTimeStampFastString": "2023-08-21T20:24:10.918Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-21T20:24:10.918Z"
+  "FStringFlagRepoGitHashFastString": "cc01381fcb8f0aeefe8422b380c04f87d34378ba",
+  "DFStringFlagRepoGitHashDynamicString": "cc01381fcb8f0aeefe8422b380c04f87d34378ba",
+  "FStringFlipTimeStampFastString": "2023-08-21T20:32:30.674Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-21T20:32:30.674Z"
 }
