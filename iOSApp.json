@@ -1985,7 +1985,7 @@
   "FFlagUIBloxEnableImageSetResolutionScaleFix2": "True",
   "FFlagSimCSGV3PreventNonManifold": "True",
   "DFFlagVoiceChatEnableEventLogging5": "True",
-  "FIntCOLLAB2264PreemptiveLoadNTCRecentGamesOnStartUp": "2",
+  "FIntCOLLAB2264PreemptiveLoadNTCRecentGamesOnStartUp": "0",
   "DFFlagPoolAudioBuffers": "True",
   "FFlagLuauUnseeArrayTtv": "True",
   "DFFlagNewRunServiceSignals2": "True",
@@ -6205,7 +6205,6 @@
   "FFlagSimV1BallCheckValidity": "True",
   "FFlagVRAvatarEditorBugFixes2": "True",
   "FFlagAppChatRefactorContainers": "True",
-  "FFlagUserProfileTurnCacheBackOn": "True",
   "FFlagWidgetAddItemTypeAnalytics": "True",
   "FFlagWidgetHydrationOptimization": "True",
   "FIntWidgetsNumItemsToHydrate": "30",
@@ -6982,6 +6981,7 @@
   "FFlagFFlagUserProfileTurnCacheBackOn": "True",
   "FFlagLuaAppImpressionNavigationFocusFix": "True",
   "FFlagScriptImpersonatorForDebuggerToString_Rollout": "True;30;2023-08-21T16:17:48",
+  "FFlagFixSDLDeadlock_Rollout": "True;60;2023-08-21T16:35:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7317,8 +7317,8 @@
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagEnableiOSRealtimeProtocol": "True",
   "FIntEnableiOSRealtimeProtocolRollout": "5",
-  "FStringFlagRepoGitHashFastString": "fd87535018204e4f896bf8ff957189dbde1cc5b2",
-  "DFStringFlagRepoGitHashDynamicString": "fd87535018204e4f896bf8ff957189dbde1cc5b2",
-  "FStringFlipTimeStampFastString": "2023-08-21T16:35:03.409Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-21T16:35:03.409Z"
+  "FStringFlagRepoGitHashFastString": "52a74129a3d2788031a7d9683cbc1bc01abf8df0",
+  "DFStringFlagRepoGitHashDynamicString": "52a74129a3d2788031a7d9683cbc1bc01abf8df0",
+  "FStringFlipTimeStampFastString": "2023-08-21T16:36:54.269Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-21T16:36:54.269Z"
 }
