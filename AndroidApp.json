@@ -6985,8 +6985,6 @@
   "FFlagLuauFasterFormatS": "True",
   "FFlagScriptImpersonatorForDebuggerToString": "True",
   "FFlagEnableTenftUiDetailsMediaGallery3": "True",
-  "FFlagEnableOOMMessageBoxSessionThrottle_Rollout": "True;60;2023-08-21T17:26:03",
-  "DFFlagParentRequireCountFix_Rollout": "True;60;2023-08-21T17:30:53",
   "FFlagSessionTrackingUseMapFields_Rollout": "True;60;2023-08-21T17:40:42",
   "DFFlagSimFlushDenormalsToZeroDuringJoin_Rollout": "True;60;2023-08-21T17:49:51",
   "FFlagFixSDLDeadlock": "True",
@@ -7004,6 +7002,8 @@
   "DFFlagCheckInvokePathUse": "True",
   "FFlagStudioDisableRosettaQtErrorDiagnostics": "True",
   "DFIntTrackingGcStatsHundredths_Rollout": "100;60;2023-08-21T18:37:12",
+  "FFlagEnableOOMMessageBoxSessionThrottle": "True",
+  "DFFlagParentRequireCountFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7377,8 +7377,8 @@
   "FFlagTeardownInSingleSurface": "False",
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222;4832438542",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222;4832438542",
-  "FStringFlagRepoGitHashFastString": "d6753e1710b498e64ef185398dbbf25e941bfce6",
-  "DFStringFlagRepoGitHashDynamicString": "d6753e1710b498e64ef185398dbbf25e941bfce6",
-  "FStringFlipTimeStampFastString": "2023-08-21T18:38:15.508Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-21T18:38:15.508Z"
+  "FStringFlagRepoGitHashFastString": "24961f91e596200a5d4598ffe83764d630231442",
+  "DFStringFlagRepoGitHashDynamicString": "24961f91e596200a5d4598ffe83764d630231442",
+  "FStringFlipTimeStampFastString": "2023-08-21T18:40:42.773Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-21T18:40:42.773Z"
 }
