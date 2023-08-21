@@ -7033,7 +7033,6 @@
   "FFlagGltfTransformFixes": "True",
   "FFlagOffCenterOriginImporterGltf": "True",
   "FFlagResetRotations2": "True",
-  "FFlagRtlTextSupportDefaultIsEnabled_Rollout": "True;60;2023-08-21T21:06:22",
   "FFlagMaterialGeneratorAnalyticsImprovements": "True",
   "FFlagExploreApiSortContentsMigration2": "True",
   "FFlagSimCSGV3PrimitiveNameOutOfBoundFix": "True",
@@ -7042,6 +7041,7 @@
   "FFlagPrepTerrainToolsForDraggerImprovements": "True",
   "FFlagLuauIndentTypeMismatch": "True",
   "FFlagOpenXrLifeCycleManagement": "True",
+  "FFlagRtlTextSupportDefaultIsEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7379,8 +7379,8 @@
   "FIntEnableiOSRealtimeProtocolRollout": "5",
   "DFFlagDebugSendExtraTDigestDebugInfo": "True",
   "FFlagEnableIOSAutofillPhoneNumber": "True",
-  "FStringFlagRepoGitHashFastString": "648d1ddce27f42518f8c529945a8dc3c8f1ab846",
-  "DFStringFlagRepoGitHashDynamicString": "648d1ddce27f42518f8c529945a8dc3c8f1ab846",
-  "FStringFlipTimeStampFastString": "2023-08-21T22:07:32.649Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-21T22:07:32.649Z"
+  "FStringFlagRepoGitHashFastString": "a7f3207626e54824518fb8e34e80fa8501969814",
+  "DFStringFlagRepoGitHashDynamicString": "a7f3207626e54824518fb8e34e80fa8501969814",
+  "FStringFlipTimeStampFastString": "2023-08-21T22:11:27.402Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-21T22:11:27.402Z"
 }
