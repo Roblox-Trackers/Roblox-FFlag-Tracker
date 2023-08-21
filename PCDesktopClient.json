@@ -7036,7 +7036,6 @@
   "FFlagMaterialGeneratorAnalyticsImprovements": "True",
   "FFlagExploreApiSortContentsMigration2": "True",
   "FFlagSimCSGV3PrimitiveNameOutOfBoundFix": "True",
-  "DFFlagClientLightingTechnologyChangedTelemetryTrackTimeSpent_Rollout": "True;60;2023-08-21T21:59:29",
   "DFFlagUnlimitTrussLengthDM_Rollout": "True;60;2023-08-21T22:02:41",
   "FFlagPrepTerrainToolsForDraggerImprovements": "True",
   "FFlagLuauIndentTypeMismatch": "True",
@@ -7044,6 +7043,7 @@
   "FFlagRtlTextSupportDefaultIsEnabled": "True",
   "FFlagEnableResetScaleButton_Rollout": "True;60;2023-08-21T22:39:16",
   "FFlagSmoothRegionTurnOffSanityCheck": "True",
+  "DFFlagClientLightingTechnologyChangedTelemetryTrackTimeSpent": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7305,8 +7305,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "8ed63faa0813ba7aee0e626dc7abfa73e5814c82",
-  "DFStringFlagRepoGitHashDynamicString": "8ed63faa0813ba7aee0e626dc7abfa73e5814c82",
-  "FStringFlipTimeStampFastString": "2023-08-21T23:07:00.563Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-21T23:07:00.563Z"
+  "FStringFlagRepoGitHashFastString": "480a35dd4ff6a2ac2e350e8ca551ace50e015951",
+  "DFStringFlagRepoGitHashDynamicString": "480a35dd4ff6a2ac2e350e8ca551ace50e015951",
+  "FStringFlipTimeStampFastString": "2023-08-21T23:08:13.205Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-21T23:08:13.205Z"
 }
