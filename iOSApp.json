@@ -4661,7 +4661,6 @@
   "FFlagFlagRolloutTestStaticBool4": "False",
   "FFlagFlagRolloutTestStaticBool5": "False",
   "FFlagFlagRolloutTestStaticBool6": "False",
-  "FFlagFlagRolloutTestStaticBool9": "False",
   "FStringFlagRolloutTestStaticString1": "TestMar31_bin_strategy",
   "FStringFlagRolloutTestStaticString7": "April_11_test",
   "DFFlagFlagRolloutTestDynamicBool6": "False",
@@ -7046,6 +7045,7 @@
   "DFFlagTrackingGcStats_Rollout": "True;60;2023-08-21T23:10:47",
   "DFFlagWorkspaceSkipBounds_Rollout": "True;60;2023-08-21T23:28:02",
   "FFlagEnableResetScaleButton": "True",
+  "FFlagFlagRolloutTestStaticBool9_Rollout": "true;720;2023-08-22T00:13:49",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7383,8 +7383,8 @@
   "FIntEnableiOSRealtimeProtocolRollout": "5",
   "DFFlagDebugSendExtraTDigestDebugInfo": "True",
   "FFlagEnableIOSAutofillPhoneNumber": "True",
-  "FStringFlagRepoGitHashFastString": "5dae393406edcbf80aafea9c7dc6ee97c2b85e51",
-  "DFStringFlagRepoGitHashDynamicString": "5dae393406edcbf80aafea9c7dc6ee97c2b85e51",
-  "FStringFlipTimeStampFastString": "2023-08-22T00:05:24.578Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-22T00:05:24.578Z"
+  "FStringFlagRepoGitHashFastString": "a6d7222f9a0f598dd68dcc5602706f9fe1bae38e",
+  "DFStringFlagRepoGitHashDynamicString": "a6d7222f9a0f598dd68dcc5602706f9fe1bae38e",
+  "FStringFlipTimeStampFastString": "2023-08-22T00:18:48.333Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-22T00:18:48.333Z"
 }
