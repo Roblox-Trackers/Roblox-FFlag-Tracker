@@ -7058,8 +7058,6 @@
   "FFlagCOLLAB3971RemoveWaitForLongProcessInPlacePublish": "True",
   "DFFlagSoundDspShutdownOrdering": "True",
   "FFlagWireNoThrowSetters": "True",
-  "FFlagGlobInstancingEnableCullBySize_Rollout": "True;60;2023-08-22T21:12:54",
-  "FFlagFixTextPaddingForMinSize2_Rollout": "True;60;2023-08-22T21:14:49",
   "FFlagAXFixItemSubType": "True",
   "DFFlagGameUsesEngineContext": "True",
   "DFFlagMalformedAnimationUrl2": "True",
@@ -7070,6 +7068,8 @@
   "FFlagUISelectionJumping2": "True",
   "FFlagEnablePerformanceControlTunableSelection": "True",
   "FFlagVoiceChatUseCustomAudioDeviceProd6_Rollout": "True;60;2023-08-22T22:12:07",
+  "FFlagFixTextPaddingForMinSize2": "True",
+  "FFlagGlobInstancingEnableCullBySize": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7263,8 +7263,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "bdcefd2962835cc45b144c6870540b848e89d730",
-  "DFStringFlagRepoGitHashDynamicString": "bdcefd2962835cc45b144c6870540b848e89d730",
-  "FStringFlipTimeStampFastString": "2023-08-22T22:13:04.685Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-22T22:13:04.685Z"
+  "FStringFlagRepoGitHashFastString": "def18d47cb9a87eb907b296f711e2475913beb12",
+  "DFStringFlagRepoGitHashDynamicString": "def18d47cb9a87eb907b296f711e2475913beb12",
+  "FStringFlipTimeStampFastString": "2023-08-22T22:22:43.320Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-22T22:22:43.320Z"
 }
