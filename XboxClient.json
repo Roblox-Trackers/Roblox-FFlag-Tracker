@@ -7074,6 +7074,8 @@
   "DFFlagELFReportPlayerSetCharacter_Rollout": "True;60;2023-08-22T23:05:14",
   "DFFlagSuperSafeChatStats_Rollout": "True;60;2023-08-22T23:09:58",
   "FFlagAvatarChatFixMicText": "True",
+  "FFlagUserVRRotationTweeks": "False",
+  "FFlagUserVRFollowCamera": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7267,8 +7269,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "4e0ed156525930d9fc92079573953bf2531af616",
-  "DFStringFlagRepoGitHashDynamicString": "4e0ed156525930d9fc92079573953bf2531af616",
-  "FStringFlipTimeStampFastString": "2023-08-22T23:12:08.945Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-22T23:12:08.945Z"
+  "FStringFlagRepoGitHashFastString": "923bc9a9d33f7cd0e020780ebf4d53519e6e4d9f",
+  "DFStringFlagRepoGitHashDynamicString": "923bc9a9d33f7cd0e020780ebf4d53519e6e4d9f",
+  "FStringFlipTimeStampFastString": "2023-08-22T23:15:10.686Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-22T23:15:10.686Z"
 }
