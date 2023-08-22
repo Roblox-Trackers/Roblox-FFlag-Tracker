@@ -7049,8 +7049,6 @@
   "DFIntSimArbiterPositionCorrectionFactorThresholdThou": "3000",
   "DFIntTimestepArbiterConditionNumberThresholdThou": "50000",
   "FFlagEnableDelayAndroidPhoneAutofillRelease1": "True",
-  "FFlagCOLLAB3917RemoveOnPlacePublishedToDifferentSlotLegacyLock_Rollout": "True;60;2023-08-22T19:16:40",
-  "FFlagCOLLAB3971RemoveWaitForLongProcessInPlacePublish_Rollout": "True;60;2023-08-22T19:17:10",
   "FFlagWireNoThrowSetters_Rollout": "True;60;2023-08-22T19:23:46",
   "DFFlagSoundDspShutdownOrdering_Rollout": "True;60;2023-08-22T19:25:04",
   "FFlagPresentWebViewAfterDismiss": "True",
@@ -7058,6 +7056,8 @@
   "FFlagAudioAnalyzerUseSimd": "True",
   "FFlagEnableAudioSpectrumAnalysis": "True",
   "FFlagVector3SlerpFix": "True",
+  "FFlagCOLLAB3917RemoveOnPlacePublishedToDifferentSlotLegacyLock": "True",
+  "FFlagCOLLAB3971RemoveWaitForLongProcessInPlacePublish": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7431,8 +7431,8 @@
   "FFlagTeardownInSingleSurface": "False",
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222;4832438542",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222;4832438542",
-  "FStringFlagRepoGitHashFastString": "6e7942f6e0c00b80183e59464754ae6eb1c1a35f",
-  "DFStringFlagRepoGitHashDynamicString": "6e7942f6e0c00b80183e59464754ae6eb1c1a35f",
-  "FStringFlipTimeStampFastString": "2023-08-22T20:07:10.541Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-22T20:07:10.541Z"
+  "FStringFlagRepoGitHashFastString": "665236643df9789046a1c82e6809ba8061974d97",
+  "DFStringFlagRepoGitHashDynamicString": "665236643df9789046a1c82e6809ba8061974d97",
+  "FStringFlipTimeStampFastString": "2023-08-22T20:22:30.745Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-22T20:22:30.745Z"
 }
