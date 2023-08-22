@@ -7041,11 +7041,11 @@
   "FFlagSmoothRegionTurnOffSanityCheck": "True",
   "DFFlagClientLightingTechnologyChangedTelemetryTrackTimeSpent": "True",
   "DFFlagUnlimitTrussLengthDM": "True",
-  "DFFlagTrackingGcStats_Rollout": "True;60;2023-08-21T23:10:47",
   "DFFlagWorkspaceSkipBounds_Rollout": "True;60;2023-08-21T23:28:02",
   "FFlagEnableResetScaleButton": "True",
   "FFlagFlagRolloutTestStaticBool9_Rollout": "true;720;2023-08-22T00:13:49",
   "DFFlagFlagRolloutTestDynamicBool9_Rollout": "false;720;2023-08-22T00:14:01",
+  "DFFlagTrackingGcStats": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7244,8 +7244,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "d2a3cea5657847014f68f522bede06f52cb8e9ab",
-  "DFStringFlagRepoGitHashDynamicString": "d2a3cea5657847014f68f522bede06f52cb8e9ab",
-  "FStringFlipTimeStampFastString": "2023-08-22T00:19:08.537Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-22T00:19:08.537Z"
+  "FStringFlagRepoGitHashFastString": "3fe3f765a1f9970c4ba62523d6ed21087f807e06",
+  "DFStringFlagRepoGitHashDynamicString": "3fe3f765a1f9970c4ba62523d6ed21087f807e06",
+  "FStringFlipTimeStampFastString": "2023-08-22T00:20:11.975Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-22T00:20:11.975Z"
 }
