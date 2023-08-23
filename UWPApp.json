@@ -7088,6 +7088,10 @@
   "FFlagToolboxStopRequiringPackagesThroughDevFramework": "True",
   "FFlagToolboxEnsureAssetDataExistsBeforeIndexing": "True",
   "FFlagLiveEditingUndoStack1": "True",
+  "FFlagAssetImportGltfReadFirstUVMapOnly": "True",
+  "FFlagGltfAnimationFixes": "True",
+  "FFlagGltfDontAlterTranslationOnZeroRotation": "True",
+  "FFlagRemoveOrderAssumptionInRemoveUnusedJoints": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7286,8 +7290,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "5f29148a10148360b1f5e09015f5c9d034473502",
-  "DFStringFlagRepoGitHashDynamicString": "5f29148a10148360b1f5e09015f5c9d034473502",
-  "FStringFlipTimeStampFastString": "2023-08-23T19:33:30.643Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-23T19:33:30.643Z"
+  "FStringFlagRepoGitHashFastString": "7b17bd19273c602b4417e1ef8c4af698b267f185",
+  "DFStringFlagRepoGitHashDynamicString": "7b17bd19273c602b4417e1ef8c4af698b267f185",
+  "FStringFlipTimeStampFastString": "2023-08-23T19:35:48.965Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-23T19:35:48.965Z"
 }
