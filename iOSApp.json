@@ -7068,7 +7068,6 @@
   "FFlagEnablePerformanceControlTunableSelection": "True",
   "FFlagFixTextPaddingForMinSize2": "True",
   "FFlagGlobInstancingEnableCullBySize": "True",
-  "DFFlagELFReportPlayerSetCharacter_Rollout": "True;60;2023-08-22T23:05:14",
   "DFFlagSuperSafeChatStats_Rollout": "True;60;2023-08-22T23:09:58",
   "FFlagAvatarChatFixMicText": "True",
   "FFlagUserVRRotationTweeks": "False",
@@ -7078,6 +7077,7 @@
   "DFFlagStreamingSolverServerSkipCountStuff_Rollout": "True;60;2023-08-22T23:36:45",
   "FFlagUseMemPriPrefix": "True",
   "FFlagUsePerfControlPrefix": "True",
+  "DFFlagELFReportPlayerSetCharacter": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7415,8 +7415,8 @@
   "FIntEnableiOSRealtimeProtocolRollout": "100",
   "DFFlagDebugSendExtraTDigestDebugInfo": "True",
   "FFlagEnableIOSAutofillPhoneNumber": "True",
-  "FStringFlagRepoGitHashFastString": "8ad42f1986fcf539932671f85408afade93918ab",
-  "DFStringFlagRepoGitHashDynamicString": "8ad42f1986fcf539932671f85408afade93918ab",
-  "FStringFlipTimeStampFastString": "2023-08-22T23:54:06.042Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-22T23:54:06.042Z"
+  "FStringFlagRepoGitHashFastString": "f2661ce6fe3ed734964d58282d584e615559cb7a",
+  "DFStringFlagRepoGitHashDynamicString": "f2661ce6fe3ed734964d58282d584e615559cb7a",
+  "FStringFlipTimeStampFastString": "2023-08-23T00:13:13.290Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-23T00:13:13.290Z"
 }
