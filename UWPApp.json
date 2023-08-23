@@ -7111,7 +7111,6 @@
   "FFlagTerrainEditorScrollFixes": "True",
   "FFlagTerrainEditorAirPaint": "True",
   "FFlagToolboxUpdateSearchOptionsAnalytics": "True",
-  "FFlagUseConstantBufferViewsDurango_Rollout": "True;60;2023-08-23T22:26:48",
   "FFlagNewCameraControlsBetaFeature": "True",
   "FFlagCLI82260_Rollout": "True;60;2023-08-23T22:41:32",
   "FFlagAinPresetsRemoveName": "True",
@@ -7124,6 +7123,8 @@
   "FFlagFasterLCSInAutocomplete_Rollout": "True;30;2023-08-23T23:33:40",
   "FFlagSalvageOutdatedCompletions2_Rollout": "True;30;2023-08-23T23:33:49",
   "FFlagVoiceChatEnableRobloxTelemetryServiceInitEvent_Rollout": "True;60;2023-08-23T23:33:59",
+  "FFlagVoiceChatPerformAudibilityUpdates_Rollout": "True;60;2023-08-23T23:34:07",
+  "FFlagUseConstantBufferViewsDurango": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7322,8 +7323,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "f951b1bfd17a26fdfa8a594c9fbe18e0be6105f3",
-  "DFStringFlagRepoGitHashDynamicString": "f951b1bfd17a26fdfa8a594c9fbe18e0be6105f3",
-  "FStringFlipTimeStampFastString": "2023-08-23T23:47:20.078Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-23T23:47:20.078Z"
+  "FStringFlagRepoGitHashFastString": "2bfb50fcf65cc024275b6a73d2f7900d79484607",
+  "DFStringFlagRepoGitHashDynamicString": "2bfb50fcf65cc024275b6a73d2f7900d79484607",
+  "FStringFlipTimeStampFastString": "2023-08-23T23:48:31.937Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-23T23:48:31.937Z"
 }
