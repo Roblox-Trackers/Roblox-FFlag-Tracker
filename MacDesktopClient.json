@@ -7113,7 +7113,6 @@
   "FFlagToolboxUpdateSearchOptionsAnalytics": "True",
   "FFlagNewCameraControlsBetaFeature": "True",
   "FFlagAinPresetsRemoveName": "True",
-  "DFFlagRemoveControllerBaseParentDependency_Rollout": "True;60;2023-08-23T22:52:38",
   "DFFlagHttpServiceBandwidthMetrics_Rollout": "True;60;2023-08-23T23:11:58",
   "FFlagAinWorkspacePreviewInsertWithScenePos": "True",
   "DFFlagAvatarMetricsTrackTotalAssetRequestTime": "True",
@@ -7125,6 +7124,7 @@
   "FFlagVoiceChatPerformAudibilityUpdates_Rollout": "True;60;2023-08-23T23:34:07",
   "FFlagUseConstantBufferViewsDurango": "True",
   "FFlagCLI82260": "True",
+  "DFFlagRemoveControllerBaseParentDependency": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7384,9 +7384,9 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FFlagGpuGeometryManager5_Rollout": "True;60;2023-08-23T22:53:37",
-  "FStringFlagRepoGitHashFastString": "c8ec84b4cd041649a03fc93e49c96459f1942a3e",
-  "DFStringFlagRepoGitHashDynamicString": "c8ec84b4cd041649a03fc93e49c96459f1942a3e",
-  "FStringFlipTimeStampFastString": "2023-08-23T23:55:16.332Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-23T23:55:16.332Z"
+  "FFlagGpuGeometryManager5": "True",
+  "FStringFlagRepoGitHashFastString": "ca42620c0a82c710fef109497f235a696f249a32",
+  "DFStringFlagRepoGitHashDynamicString": "ca42620c0a82c710fef109497f235a696f249a32",
+  "FStringFlipTimeStampFastString": "2023-08-24T00:03:44.166Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-24T00:03:44.166Z"
 }
