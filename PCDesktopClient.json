@@ -7146,8 +7146,6 @@
   "FFlagCLI82260": "True",
   "FFlagSurfaceGuiMaxDistance": "True",
   "FFlagFaceChatSelfieViewShowOutlinedMicrophoneWhenIdle": "True",
-  "FFlagPWDeprecateOldPopupLaunchEditor2_Rollout": "True;60;2023-08-24T20:22:28",
-  "FFlagFixRichTextUpdateFont3_Rollout": "True;60;2023-08-24T20:25:40",
   "DFFlagStudioUploadVideoWithEncryption": "True",
   "FFlagSeparateServiceAndEmptySpaceContextMenus_Rollout": "True;60;2023-08-24T20:50:44",
   "FFlagEditProfileIXPEnabled": "True",
@@ -7161,6 +7159,8 @@
   "FFlagFixStalePublishingToNewSlotFlag": "True",
   "DFIntDSTelemetryGroupThreeRollout": "100",
   "FFlagEscapeQuote_Rollout": "True;60;2023-08-24T21:27:54",
+  "FFlagFixRichTextUpdateFont3": "True",
+  "FFlagPWDeprecateOldPopupLaunchEditor2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7422,8 +7422,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "76e1d8cde34010e3114bb7bcc54beb49ea056613",
-  "DFStringFlagRepoGitHashDynamicString": "76e1d8cde34010e3114bb7bcc54beb49ea056613",
-  "FStringFlipTimeStampFastString": "2023-08-24T21:28:30.826Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-24T21:28:30.826Z"
+  "FStringFlagRepoGitHashFastString": "7331446dabd8c8d045c98ecfd1e6f210d1d15257",
+  "DFStringFlagRepoGitHashDynamicString": "7331446dabd8c8d045c98ecfd1e6f210d1d15257",
+  "FStringFlipTimeStampFastString": "2023-08-24T21:33:34.029Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-24T21:33:34.029Z"
 }
