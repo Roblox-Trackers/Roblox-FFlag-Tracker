@@ -7119,7 +7119,6 @@
   "DFFlagAUMPAnalytics": "True",
   "DFIntReportAUMPAnalyticsPercentageHundredths": "100",
   "DFFlagFixControllerManagerHumanoidParallel": "True",
-  "FFlagLuauToStringPrettifyLocation_Rollout": "True;60;2023-08-24T16:45:29",
   "FFlagLuaAppEnableToastNotifications4": "True",
   "FFlagLuaAppFixSearchSessionClose": "True",
   "FFlagFixDeprecatedSystemUse": "True",
@@ -7136,6 +7135,7 @@
   "FFlagStudioShowMacArm64ArchInAbout_Rollout": "True;60;2023-08-24T17:42:55",
   "FFlagSimLinearVelocitySpanningTreeFix2_Rollout": "True;60;2023-08-24T17:47:06",
   "DFFlagAUMProperty_PlaceFilter": "True;14554563031",
+  "FFlagLuauToStringPrettifyLocation": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7509,8 +7509,8 @@
   "FFlagTeardownInSingleSurface": "False",
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222;4832438542",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222;4832438542",
-  "FStringFlagRepoGitHashFastString": "ba3a9ac362e863a4de3b0d0c0950baecd4c340f8",
-  "DFStringFlagRepoGitHashDynamicString": "ba3a9ac362e863a4de3b0d0c0950baecd4c340f8",
-  "FStringFlipTimeStampFastString": "2023-08-24T17:50:57.530Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-24T17:50:57.530Z"
+  "FStringFlagRepoGitHashFastString": "4357833d038fc5892c2a19bd300cc6af15e388fa",
+  "DFStringFlagRepoGitHashDynamicString": "4357833d038fc5892c2a19bd300cc6af15e388fa",
+  "FStringFlipTimeStampFastString": "2023-08-24T17:52:00.620Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-24T17:52:00.620Z"
 }
