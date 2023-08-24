@@ -7150,6 +7150,7 @@
   "FFlagFixRichTextUpdateFont3_Rollout": "True;60;2023-08-24T20:25:40",
   "DFFlagStudioUploadVideoWithEncryption": "True",
   "FFlagMakeGetTextSizeRespectCurrentLocaleId_Rollout": "True;30;2023-08-24T20:35:14",
+  "FFlagFixStalePublishingToNewSlotFlag_Rollout": "True;30;2023-08-24T20:42:51",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7487,8 +7488,8 @@
   "FIntEnableiOSRealtimeProtocolRollout": "0",
   "DFFlagDebugSendExtraTDigestDebugInfo": "True",
   "FFlagEnableIOSAutofillPhoneNumber": "True",
-  "FStringFlagRepoGitHashFastString": "569dec2dd13eab2c2ef3cadec973f4500a3b773a",
-  "DFStringFlagRepoGitHashDynamicString": "569dec2dd13eab2c2ef3cadec973f4500a3b773a",
-  "FStringFlipTimeStampFastString": "2023-08-24T20:43:02.332Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-24T20:43:02.332Z"
+  "FStringFlagRepoGitHashFastString": "b8634def87af57fcf8be5cbe0df047781e00859e",
+  "DFStringFlagRepoGitHashDynamicString": "b8634def87af57fcf8be5cbe0df047781e00859e",
+  "FStringFlipTimeStampFastString": "2023-08-24T20:43:31.123Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-24T20:43:31.123Z"
 }
