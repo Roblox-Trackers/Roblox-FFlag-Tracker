@@ -7149,7 +7149,6 @@
   "FFlagPWDeprecateOldPopupLaunchEditor2_Rollout": "True;60;2023-08-24T20:22:28",
   "FFlagFixRichTextUpdateFont3_Rollout": "True;60;2023-08-24T20:25:40",
   "DFFlagStudioUploadVideoWithEncryption": "True",
-  "DFIntDSTelemetryGroupThreeRollout_Rollout": "100;30;2023-08-24T20:46:09",
   "FFlagSeparateServiceAndEmptySpaceContextMenus_Rollout": "True;60;2023-08-24T20:50:44",
   "FFlagEditProfileIXPEnabled": "True",
   "FFlagMovePaymentsProtocolToInstanceHolder_Rollout": "True;60;2023-08-24T21:00:11",
@@ -7160,6 +7159,7 @@
   "FFlagVirtualInputManagerRecordWindowFocusEvents": "True",
   "FFlagMakeGetTextSizeRespectCurrentLocaleId": "True",
   "FFlagFixStalePublishingToNewSlotFlag": "True",
+  "DFIntDSTelemetryGroupThreeRollout": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7533,8 +7533,8 @@
   "FFlagTeardownInSingleSurface": "False",
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222;4832438542",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222;4832438542",
-  "FStringFlagRepoGitHashFastString": "a3b60b4e7830f65db8e522bca4030aa6c7e8e47b",
-  "DFStringFlagRepoGitHashDynamicString": "a3b60b4e7830f65db8e522bca4030aa6c7e8e47b",
-  "FStringFlipTimeStampFastString": "2023-08-24T21:18:16.941Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-24T21:18:16.941Z"
+  "FStringFlagRepoGitHashFastString": "f3248d139f72c6ac58fb39136887f65d2c6a318f",
+  "DFStringFlagRepoGitHashDynamicString": "f3248d139f72c6ac58fb39136887f65d2c6a318f",
+  "FStringFlipTimeStampFastString": "2023-08-24T21:23:20.197Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-24T21:23:20.197Z"
 }
