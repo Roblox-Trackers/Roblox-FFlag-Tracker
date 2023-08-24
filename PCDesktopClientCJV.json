@@ -7139,6 +7139,8 @@
   "DFIntHttpServiceAggregateBandwidthReportThrottleHundredthsPercentage_Rollout": "1;60;2023-08-24T17:56:10",
   "FIntHttpServiceAggregateBandwidthMetricsIntervalSecs_Rollout": "60;60;2023-08-24T17:58:06",
   "DFIntHttpServiceRequestTimeReportThrottleHundredthsPercentage_Rollout": "1;60;2023-08-24T17:59:19",
+  "DFIntHttpServiceBandwidthReportThrottleHundredthsPercentage_Rollout": "1;60;2023-08-24T18:03:12",
+  "FFlagEnableQrCodeScannerIOS_Rollout": "True;60;2023-08-24T18:06:58",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7402,8 +7404,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntEnableCullableScene2HundredthPercent2_Rollout": "2000;30;2023-08-24T18:03:02",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "513a556cad9b48bf81deb9c2f77193482b887ffd",
-  "DFStringFlagRepoGitHashDynamicString": "513a556cad9b48bf81deb9c2f77193482b887ffd",
-  "FStringFlipTimeStampFastString": "2023-08-24T18:08:15.762Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-24T18:08:15.762Z"
+  "FStringFlagRepoGitHashFastString": "068248c7b00a08c4cbb453c7ec94df4557299466",
+  "DFStringFlagRepoGitHashDynamicString": "068248c7b00a08c4cbb453c7ec94df4557299466",
+  "FStringFlipTimeStampFastString": "2023-08-24T18:09:31.734Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-24T18:09:31.734Z"
 }
