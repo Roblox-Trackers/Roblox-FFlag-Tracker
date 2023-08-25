@@ -7178,6 +7178,7 @@
   "FFlagQrCodeScannerExperimentEnabled": "False",
   "DFIntCSGV3NodeOperationMetricsHundredthsPercentage": "100",
   "DFIntDSTelemetryGroupFiveRollout_Rollout": "10;15;2023-08-25T17:05:31",
+  "DFFlagSimSolverOptimizedNanInfDetection_Rollout": "True;60;2023-08-25T17:09:44",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7441,8 +7442,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "0845e4c83f87ec3d7466e6843e8b3eae6d336607",
-  "DFStringFlagRepoGitHashDynamicString": "0845e4c83f87ec3d7466e6843e8b3eae6d336607",
-  "FStringFlipTimeStampFastString": "2023-08-25T17:06:03.276Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-25T17:06:03.276Z"
+  "FStringFlagRepoGitHashFastString": "f720b4c25155b69959e90288716aad3e515baa28",
+  "DFStringFlagRepoGitHashDynamicString": "f720b4c25155b69959e90288716aad3e515baa28",
+  "FStringFlipTimeStampFastString": "2023-08-25T17:10:16.149Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-25T17:10:16.149Z"
 }
