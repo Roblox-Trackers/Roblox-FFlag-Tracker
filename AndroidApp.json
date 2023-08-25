@@ -7185,12 +7185,12 @@
   "DFIntDSTelemetryGroupSixRollout": "100",
   "FFlagReportUIOcclusionMetrics4": "True",
   "DFFlagSimSolverOptimizedNanInfDetection": "True",
-  "FFlagMacMoveLaunchTimeExpLaunchBegin_Rollout": "True;30;2023-08-25T18:53:46",
-  "FFlagWinMoveLaunchTimeExpLaunchBegin_Rollout": "True;30;2023-08-25T18:53:52",
   "DFFlagApiDumperUseEngineContext": "True",
   "FFlagSimSolverDualMLCPAlgorithmAgnosticConvergenceMetric": "True",
   "DFFlagDSTelemetryPublishApiCounters": "True",
   "FFlagVoiceChatEnableRobloxTelemetryServiceInitEvent": "True",
+  "FFlagMacMoveLaunchTimeExpLaunchBegin": "True",
+  "FFlagWinMoveLaunchTimeExpLaunchBegin": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7567,8 +7567,8 @@
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222;4832438542",
   "RefactorExperienceSession": "True",
   "SingleSurfaceEnabledAndroid3": "True",
-  "FStringFlagRepoGitHashFastString": "d1eaea47506dd28eb815f0f6e838a00acee01618",
-  "DFStringFlagRepoGitHashDynamicString": "d1eaea47506dd28eb815f0f6e838a00acee01618",
-  "FStringFlipTimeStampFastString": "2023-08-25T19:26:31.397Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-25T19:26:31.397Z"
+  "FStringFlagRepoGitHashFastString": "d99592ac8b6a8ea7edbc171aaff5cd600a0fccd9",
+  "DFStringFlagRepoGitHashDynamicString": "d99592ac8b6a8ea7edbc171aaff5cd600a0fccd9",
+  "FStringFlipTimeStampFastString": "2023-08-25T19:31:22.237Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-25T19:31:22.237Z"
 }
