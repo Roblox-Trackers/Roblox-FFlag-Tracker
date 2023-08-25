@@ -7176,6 +7176,7 @@
   "DFFlagReportHttpServiceUsagetoEventStreamV2": "True",
   "DFStringHttpServiceInternalUrlWhitelist": "https://economy.roblox.com/v1/game-pass/{pass-id}/game-pass-product-info,https://catalog.roblox.com/v1/search/items/details",
   "FFlagQrCodeScannerExperimentEnabled": "False",
+  "DFIntCSGV3NodeOperationMetricsHundredthsPercentage": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7550,8 +7551,8 @@
   "DFFlagFixSessionTrackingSendSuccess_PlaceFilter": "True;4996049426;920587237;4924922222;4832438542",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222;4832438542",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedAndroid",
-  "FStringFlagRepoGitHashFastString": "30be9f607bd2a042f1100a8c778d88a1198237e2",
-  "DFStringFlagRepoGitHashDynamicString": "30be9f607bd2a042f1100a8c778d88a1198237e2",
-  "FStringFlipTimeStampFastString": "2023-08-25T16:20:51.176Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-25T16:20:51.176Z"
+  "FStringFlagRepoGitHashFastString": "539abc6c21567643ca9987591c25f337f7fdfd8e",
+  "DFStringFlagRepoGitHashDynamicString": "539abc6c21567643ca9987591c25f337f7fdfd8e",
+  "FStringFlipTimeStampFastString": "2023-08-25T16:51:52.764Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-25T16:51:52.764Z"
 }
