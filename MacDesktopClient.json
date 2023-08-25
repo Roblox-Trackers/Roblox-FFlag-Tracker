@@ -7180,13 +7180,13 @@
   "FFlagFixForDynamicHeadBackend": "True",
   "DFFlagApiDumperUseEngineContext_Rollout": "True;60;2023-08-25T17:56:26",
   "FFlagSimSolverDualMLCPAlgorithmAgnosticConvergenceMetric_Rollout": "True;60;2023-08-25T18:08:22",
-  "DFIntDSTelemetryGroupSixRollout_Rollout": "10;15;2023-08-25T18:12:48",
   "FIntUIOcclusionMetricsModifiedTopBarInset": "58",
   "DFIntLoadStreamAnimationFailureTelemetryHundredthsPercentage": "1000",
   "FFlagUIOcclusionMetricsAccountForDifferentTopbarInset": "True",
   "FFlagUIOcclusionMetricsReportInteractiveCount": "True",
   "FFlagCharacterManagerBugFixVR": "True",
   "DFIntTeamCreateSavePeriodForExperimentPlaceSeconds_Rollout": "240;1;2023-08-25T18:29:17",
+  "DFIntDSTelemetryGroupSixRollout": "10",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7447,8 +7447,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedMacClient",
-  "FStringFlagRepoGitHashFastString": "4a9873967f29c09a6c1137838bdaa35b95ecea98",
-  "DFStringFlagRepoGitHashDynamicString": "4a9873967f29c09a6c1137838bdaa35b95ecea98",
-  "FStringFlipTimeStampFastString": "2023-08-25T18:30:26.316Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-25T18:30:26.316Z"
+  "FStringFlagRepoGitHashFastString": "ba62ca59ac3dc99981338813918e5eb1a74b5560",
+  "DFStringFlagRepoGitHashDynamicString": "ba62ca59ac3dc99981338813918e5eb1a74b5560",
+  "FStringFlipTimeStampFastString": "2023-08-25T18:35:43.520Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-25T18:35:43.520Z"
 }
