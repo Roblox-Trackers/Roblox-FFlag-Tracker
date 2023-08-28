@@ -6554,7 +6554,7 @@
   "FFlagScreenGuiRenderFirstAncestor": "True",
   "DFFlagOptimizeAutosaveInterval": "True",
   "FFlagChangeBulletConvexHullMargin3": "False",
-  "DFIntTeamCreateSavePeriodForExperimentPlaceSeconds": "240",
+  "DFIntTeamCreateSavePeriodForExperimentPlaceSeconds": "5",
   "FFlagOpenXrCycleThrottling": "True",
   "FFlagFunctionScriptSlotSimplification": "True",
   "FFlagDisableBatchTypingLatencyEvents": "True",
@@ -7219,7 +7219,6 @@
   "DFFlagBatchLogUseDataModelIds": "True",
   "DFFlagSolverFixedNOUExtentsUpdate_Rollout": "True;60;2023-08-28T18:36:19",
   "DFFlagRemoveControllerBaseParentDependency": "True",
-  "DFIntTeamCreateSavePeriodForExperimentPlaceSeconds_Rollout": "5;1;2023-08-28T18:36:32",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7559,8 +7558,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenediOS",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
-  "FStringFlagRepoGitHashFastString": "b1147a4a2d648aa9582a39debfd29267e3725d03",
-  "DFStringFlagRepoGitHashDynamicString": "b1147a4a2d648aa9582a39debfd29267e3725d03",
-  "FStringFlipTimeStampFastString": "2023-08-28T18:39:05.794Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T18:39:05.794Z"
+  "FStringFlagRepoGitHashFastString": "43f592796268a6aec3bdd911bc564401ef37400c",
+  "DFStringFlagRepoGitHashDynamicString": "43f592796268a6aec3bdd911bc564401ef37400c",
+  "FStringFlipTimeStampFastString": "2023-08-28T18:41:57.857Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T18:41:57.857Z"
 }

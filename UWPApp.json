@@ -6554,7 +6554,7 @@
   "FFlagScreenGuiRenderFirstAncestor": "True",
   "DFFlagOptimizeAutosaveInterval": "True",
   "FFlagChangeBulletConvexHullMargin3": "False",
-  "DFIntTeamCreateSavePeriodForExperimentPlaceSeconds": "240",
+  "DFIntTeamCreateSavePeriodForExperimentPlaceSeconds": "5",
   "FFlagOpenXrCycleThrottling": "True",
   "FFlagFunctionScriptSlotSimplification": "True",
   "FFlagDisableBatchTypingLatencyEvents": "True",
@@ -7219,7 +7219,6 @@
   "DFFlagBatchLogUseDataModelIds": "True",
   "DFFlagSolverFixedNOUExtentsUpdate_Rollout": "True;60;2023-08-28T18:36:19",
   "DFFlagRemoveControllerBaseParentDependency": "True",
-  "DFIntTeamCreateSavePeriodForExperimentPlaceSeconds_Rollout": "5;1;2023-08-28T18:36:32",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7419,8 +7418,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1d\", \"pos\":[1, -56, 0, 10], \"size\":[0, 44, 0, 48]}, {\"id\":\"a2d\", \"pos\":[1, -100, 0, 10], \"size\":[0, 88, 0, 48]}, {\"id\":\"a4d\", \"pos\":[1, -418, 0, 10], \"size\":[0, 406, 0, 48]}, {\"id\":\"a5d\", \"pos\":[0.5, -102, 0, 10], \"size\":[0, 204, 0, 48]}, {\"id\":\"a5dl\", \"pos\":[0.5, -305, 0, 10], \"size\":[0, 204, 0, 48]}];60;2023-08-28T18:37:33",
-  "FStringFlagRepoGitHashFastString": "b1147a4a2d648aa9582a39debfd29267e3725d03",
-  "DFStringFlagRepoGitHashDynamicString": "b1147a4a2d648aa9582a39debfd29267e3725d03",
-  "FStringFlipTimeStampFastString": "2023-08-28T18:39:05.794Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T18:39:05.794Z"
+  "FStringFlagRepoGitHashFastString": "43f592796268a6aec3bdd911bc564401ef37400c",
+  "DFStringFlagRepoGitHashDynamicString": "43f592796268a6aec3bdd911bc564401ef37400c",
+  "FStringFlipTimeStampFastString": "2023-08-28T18:41:57.857Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T18:41:57.857Z"
 }
