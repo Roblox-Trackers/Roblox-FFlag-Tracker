@@ -7208,7 +7208,6 @@
   "FFlagVoiceChatNewClientJoinFlowV2": "True",
   "FIntVoiceToxicityToastDurationSeconds": "15",
   "DFFlagDSTelemetryPublishStdOutMsg": "True",
-  "DFIntPhysicsSolverNumericalExplosionTelemetryHundrethsPercentage_Rollout": "1000;60;2023-08-28T18:29:35",
   "DFFlagBatchLogUseDataModelIds": "True",
   "DFFlagRemoveControllerBaseParentDependency": "True",
   "RemoveVRToggleDialog2": "True",
@@ -7226,6 +7225,7 @@
   "SFFlagSimOneAttachmentAlignmentsAreNotSpanningTreeJoints2": "True",
   "FFlagCollectionServiceDuplicateTagAssertionFix": "True",
   "FFlagIncludePredictedOOMAndExitReasonInInferredOOM_Rollout": "True;60;2023-08-28T19:27:54",
+  "DFIntPhysicsSolverNumericalExplosionTelemetryHundrethsPercentage": "1000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7603,8 +7603,8 @@
   "RefactorExperienceSession": "True",
   "SingleSurfaceEnabledAndroid3": "True",
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
-  "FStringFlagRepoGitHashFastString": "e7169194ad6fd4df12b7d2ce123dd75c0af2a0ca",
-  "DFStringFlagRepoGitHashDynamicString": "e7169194ad6fd4df12b7d2ce123dd75c0af2a0ca",
-  "FStringFlipTimeStampFastString": "2023-08-28T19:35:56.550Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T19:35:56.550Z"
+  "FStringFlagRepoGitHashFastString": "3722299cfa1c1464623a12238fbaed9b6e87937e",
+  "DFStringFlagRepoGitHashDynamicString": "3722299cfa1c1464623a12238fbaed9b6e87937e",
+  "FStringFlipTimeStampFastString": "2023-08-28T19:36:47.084Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T19:36:47.084Z"
 }
