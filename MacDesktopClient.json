@@ -7193,6 +7193,8 @@
   "FFlagUGCValidateCageUVTriangleArea": "True",
   "FFlagUpdatedTaskDefinitions_Rollout": "True;30;2023-08-28T16:00:09",
   "FFlagLuauTypecheckLimitControls_Rollout": "True;30;2023-08-28T16:01:47",
+  "DFIntRobloxTelemetryClientDisconnectPointsThrottleHundredthsPercent_Rollout": "100;60;2023-08-28T16:05:43",
+  "DFIntRobloxTelemetryRccDisconnectPointsThrottleHundredthsPercent_Rollout": "78;60;2023-08-28T16:06:12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7454,8 +7456,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedMacClient",
   "DFFlagReportDisconnectToEventIngestAndPoints_Rollout": "True;60;2023-08-28T16:03:08",
-  "FStringFlagRepoGitHashFastString": "7aea1c6ab64510c516c96e392d414ce1ca50c461",
-  "DFStringFlagRepoGitHashDynamicString": "7aea1c6ab64510c516c96e392d414ce1ca50c461",
-  "FStringFlipTimeStampFastString": "2023-08-28T16:03:46.634Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T16:03:46.634Z"
+  "FStringFlagRepoGitHashFastString": "0fc9db958d9265237bddd7ebb73e82045db592de",
+  "DFStringFlagRepoGitHashDynamicString": "0fc9db958d9265237bddd7ebb73e82045db592de",
+  "FStringFlipTimeStampFastString": "2023-08-28T16:07:02.362Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T16:07:02.362Z"
 }
