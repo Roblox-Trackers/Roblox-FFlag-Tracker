@@ -7229,6 +7229,7 @@
   "FFlagIncludePredictedOOMAndExitReasonInInferredOOM": "True",
   "DFFlagDSTelemetryPublishStdOutUpdate": "True",
   "FFlagLuauPCallDebuggerFix_Rollout": "True;60;2023-08-28T21:00:58",
+  "FFlagDeferResourceDeletesGL_Rollout": "True;60;2023-08-28T21:02:56",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7494,8 +7495,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "6387d11835e55fcec46ed4d2fba7c68dc4a217c1",
-  "DFStringFlagRepoGitHashDynamicString": "6387d11835e55fcec46ed4d2fba7c68dc4a217c1",
-  "FStringFlipTimeStampFastString": "2023-08-28T21:01:50.437Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T21:01:50.437Z"
+  "FStringFlagRepoGitHashFastString": "b342951d2ccec633bf5f8211fc3a947cfbe4383b",
+  "DFStringFlagRepoGitHashDynamicString": "b342951d2ccec633bf5f8211fc3a947cfbe4383b",
+  "FStringFlipTimeStampFastString": "2023-08-28T21:03:30.284Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T21:03:30.284Z"
 }
