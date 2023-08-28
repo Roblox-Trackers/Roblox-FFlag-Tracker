@@ -7228,6 +7228,7 @@
   "DFIntRobloxTelemetryRccDisconnectEventsThrottleHundredthsPercent": "10000",
   "FFlagIncludePredictedOOMAndExitReasonInInferredOOM": "True",
   "DFFlagDSTelemetryPublishStdOutUpdate": "True",
+  "FFlagLuauPCallDebuggerFix_Rollout": "True;60;2023-08-28T21:00:58",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7421,8 +7422,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "83b40acb80e482749af5900a16f0b8c37e001096",
-  "DFStringFlagRepoGitHashDynamicString": "83b40acb80e482749af5900a16f0b8c37e001096",
-  "FStringFlipTimeStampFastString": "2023-08-28T20:56:58.665Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T20:56:58.665Z"
+  "FStringFlagRepoGitHashFastString": "6387d11835e55fcec46ed4d2fba7c68dc4a217c1",
+  "DFStringFlagRepoGitHashDynamicString": "6387d11835e55fcec46ed4d2fba7c68dc4a217c1",
+  "FStringFlipTimeStampFastString": "2023-08-28T21:01:50.437Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T21:01:50.437Z"
 }
