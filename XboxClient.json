@@ -5996,7 +5996,7 @@
   "DFIntSimFluidSessionStatsHundredthsPercentage": "1000",
   "FFlagPopupPluginQWidget": "True",
   "FFlagMaterialBindingPerfFix2": "True",
-  "FStringInGameMenuChromeForcedUserIds": "2585422222;3831379140;3851853258;2818205338;3795310081;2570103006;166540505;531670163;3747048826;959520514;3876542647;2005835283;3358847333;2469667539;4667872093;1698088566;967279057;1894763415;3554378250;1830694775;",
+  "FStringInGameMenuChromeForcedUserIds": "2585422222;3831379140;3851853258;2818205338;3795310081;2570103006;166540505;531670163;3747048826;959520514;3876542647;2005835283;3358847333;2469667539;4667872093;1698088566;967279057;1894763415;3554378250;1830694775;1829118241;",
   "FFlagSimCSGV3TriangleMeshPartGetConvexes": "True",
   "FFlagSimCSG3TreeEnableNewNormalize": "True",
   "FFlagUIBloxVRAlignPanel3DUnderInGamePanel": "True",
@@ -6441,7 +6441,7 @@
   "DFFlagStreamingSolverMultipleChanges": "True",
   "DFFlagClientBaseNetworkMetrics": "True",
   "FStringInGameMenuModernizationBigTextForcedUserIds": "3878426504;",
-  "FStringInGameMenuModernizationForcedUserIds": "3897391625;6783205;671440392;967279057;1894763415;3554378250;1830694775;",
+  "FStringInGameMenuModernizationForcedUserIds": "3897391625;6783205;671440392;967279057;1894763415;3554378250;1830694775;1829118241;",
   "FStringInGameMenuModernizationStickyBarForcedUserIds": "3851853258;",
   "DFIntScriptContextTelemetryThrottleHundredthsPercent": "8",
   "FFlagAvatarAutocompleteXbox": "True",
@@ -7205,6 +7205,7 @@
   "FStringPerformanceControlExcludedTunables_Rollout": "Streaming Distance, Sound Cache Size (MB);30;2023-08-28T17:26:26",
   "FFlagBytecodeEnc": "True",
   "FFlagChromeBetaFeature": "True",
+  "DFFlagRemoveControllerBaseParentDependency_Rollout": "True;60;2023-08-28T17:30:20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7398,8 +7399,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "6970eacf7a93590b1610d4a22d958f967635dc89",
-  "DFStringFlagRepoGitHashDynamicString": "6970eacf7a93590b1610d4a22d958f967635dc89",
-  "FStringFlipTimeStampFastString": "2023-08-28T17:29:05.424Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T17:29:05.424Z"
+  "FStringFlagRepoGitHashFastString": "6044cb280b331c23dd5168201dab90d27fb69b09",
+  "DFStringFlagRepoGitHashDynamicString": "6044cb280b331c23dd5168201dab90d27fb69b09",
+  "FStringFlipTimeStampFastString": "2023-08-28T17:31:08.734Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T17:31:08.734Z"
 }
