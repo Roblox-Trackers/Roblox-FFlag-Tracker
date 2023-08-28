@@ -7229,7 +7229,6 @@
   "FFlagIncludePredictedOOMAndExitReasonInInferredOOM": "True",
   "DFFlagDSTelemetryPublishStdOutUpdate": "True",
   "DFFlagDSTelemetryPublishStdOutAllApis": "True",
-  "DFFlagReportSSMapSizesToInflux_Rollout": "True;60;2023-08-28T22:07:07",
   "FFlagLuauPCallDebuggerFix": "True",
   "DFFlagSoundSanitizeCFrames": "True",
   "DFIntRobloxTelemetrySharedStringReplicationPointsThrottleHundredthsPercent_Rollout": "100;60;2023-08-28T22:20:35",
@@ -7242,6 +7241,7 @@
   "DFFlagImprovedGCDeletionRateMetrics_Rollout": "True;60;2023-08-28T22:57:23",
   "DFFlagUseImprovedGCDeletionRate_Rollout": "True;60;2023-08-28T23:05:15",
   "FFlagDeferResourceDeletesGL": "True",
+  "DFFlagReportSSMapSizesToInflux": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7620,8 +7620,8 @@
   "SingleSurfaceEnabledAndroid3": "True",
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown_Rollout": "True;60;2023-08-28T22:27:06",
-  "FStringFlagRepoGitHashFastString": "2301afbf0142de20b93251df92b4d59bfcdfd2f4",
-  "DFStringFlagRepoGitHashDynamicString": "2301afbf0142de20b93251df92b4d59bfcdfd2f4",
-  "FStringFlipTimeStampFastString": "2023-08-28T23:06:51.315Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T23:06:51.315Z"
+  "FStringFlagRepoGitHashFastString": "83bb414a1392d316bff05570b6ea83321c2ba944",
+  "DFStringFlagRepoGitHashDynamicString": "83bb414a1392d316bff05570b6ea83321c2ba944",
+  "FStringFlipTimeStampFastString": "2023-08-28T23:11:34.732Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T23:11:34.732Z"
 }
