@@ -7228,13 +7228,13 @@
   "DFIntRobloxTelemetryRccDisconnectEventsThrottleHundredthsPercent": "10000",
   "FFlagIncludePredictedOOMAndExitReasonInInferredOOM": "True",
   "DFFlagDSTelemetryPublishStdOutUpdate": "True",
-  "DFFlagSoundSanitizeCFrames_Rollout": "True;60;2023-08-28T21:07:05",
   "DFFlagOnlyStopRecordingIfSucceeded_Rollout": "True;60;2023-08-28T21:30:53",
   "DFFlagSessionTelemetryTeleport2_Rollout": "True;60;2023-08-28T21:38:21",
   "DFFlagDSTelemetryPublishStdOutAllApis": "True",
   "FFlagDeferResourceDeletesGL_Rollout": "True;60;2023-08-28T22:02:29",
   "DFFlagReportSSMapSizesToInflux_Rollout": "True;60;2023-08-28T22:07:07",
   "FFlagLuauPCallDebuggerFix": "True",
+  "DFFlagSoundSanitizeCFrames": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7612,8 +7612,8 @@
   "RefactorExperienceSession": "True",
   "SingleSurfaceEnabledAndroid3": "True",
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
-  "FStringFlagRepoGitHashFastString": "2e2a226c64eaebcb689c5a1c6425e61d639bfa43",
-  "DFStringFlagRepoGitHashDynamicString": "2e2a226c64eaebcb689c5a1c6425e61d639bfa43",
-  "FStringFlipTimeStampFastString": "2023-08-28T22:09:31.386Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T22:09:31.386Z"
+  "FStringFlagRepoGitHashFastString": "881446f49d54f9f5431ed1cf6d2ace370af9529b",
+  "DFStringFlagRepoGitHashDynamicString": "881446f49d54f9f5431ed1cf6d2ace370af9529b",
+  "FStringFlipTimeStampFastString": "2023-08-28T22:12:04.450Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T22:12:04.450Z"
 }
