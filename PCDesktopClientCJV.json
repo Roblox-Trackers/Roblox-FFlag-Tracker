@@ -6666,7 +6666,7 @@
   "DFFlagBrickColorRandomDoesNotUseRand": "True",
   "FFlagSimCSG3AsyncChangeToNewPerformAPI": "True",
   "FFlagAppBridgeRewrite": "True",
-  "FStringUIOcclusionMetricsRectQueryList": "[{\"id\":\"a1d\", \"pos\":[1, -56, 0, 10], \"size\":[0, 44, 0, 48]}, {\"id\":\"a2d\", \"pos\":[1, -100, 0, 10], \"size\":[0, 88, 0, 48]}, {\"id\":\"a4d\", \"pos\":[1, -418, 0, 10], \"size\":[0, 406, 0, 48]}, {\"id\":\"a5d\", \"pos\":[0.5, -102, 0, 10], \"size\":[0, 202, 0, 48]}]",
+  "FStringUIOcclusionMetricsRectQueryList": "[{\"id\":\"a1d\", \"pos\":[1, -56, 0, 10], \"size\":[0, 44, 0, 48]}, {\"id\":\"a2d\", \"pos\":[1, -100, 0, 10], \"size\":[0, 88, 0, 48]}, {\"id\":\"a4d\", \"pos\":[1, -418, 0, 10], \"size\":[0, 406, 0, 48]}, {\"id\":\"a5d\", \"pos\":[0.5, -102, 0, 10], \"size\":[0, 204, 0, 48]}, {\"id\":\"a5dl\", \"pos\":[0.5, -305, 0, 10], \"size\":[0, 204, 0, 48]}]",
   "FFlagIncrementalPatchBuilderDoNotReuseSignInfo": "True",
   "DFFlagIdempotentRejectionReporting": "True",
   "FFlagHttpCacheMetrics2": "True",
@@ -7490,10 +7490,9 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1d\", \"pos\":[1, -56, 0, 10], \"size\":[0, 44, 0, 48]}, {\"id\":\"a2d\", \"pos\":[1, -100, 0, 10], \"size\":[0, 88, 0, 48]}, {\"id\":\"a4d\", \"pos\":[1, -418, 0, 10], \"size\":[0, 406, 0, 48]}, {\"id\":\"a5d\", \"pos\":[0.5, -102, 0, 10], \"size\":[0, 204, 0, 48]}, {\"id\":\"a5dl\", \"pos\":[0.5, -305, 0, 10], \"size\":[0, 204, 0, 48]}];60;2023-08-28T18:37:33",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "3722299cfa1c1464623a12238fbaed9b6e87937e",
-  "DFStringFlagRepoGitHashDynamicString": "3722299cfa1c1464623a12238fbaed9b6e87937e",
-  "FStringFlipTimeStampFastString": "2023-08-28T19:36:47.084Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T19:36:47.084Z"
+  "FStringFlagRepoGitHashFastString": "53a3194c261323e221c194366030b3e6c095997c",
+  "DFStringFlagRepoGitHashDynamicString": "53a3194c261323e221c194366030b3e6c095997c",
+  "FStringFlipTimeStampFastString": "2023-08-28T19:46:32.595Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T19:46:32.595Z"
 }
