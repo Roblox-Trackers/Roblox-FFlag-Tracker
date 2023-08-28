@@ -7232,6 +7232,7 @@
   "FFlagDeferResourceDeletesGL_Rollout": "True;60;2023-08-28T21:02:56",
   "DFFlagSoundSanitizeCFrames_Rollout": "True;60;2023-08-28T21:07:05",
   "DFFlagDSTelemetryPublishStdOutAllApis_Rollout": "True;30;2023-08-28T21:09:47",
+  "DFFlagOnlyStopRecordingIfSucceeded_Rollout": "True;60;2023-08-28T21:30:53",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7494,8 +7495,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedMacClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "dc9078e81736e6a4d85aa2e8d3d27d7ee20990b7",
-  "DFStringFlagRepoGitHashDynamicString": "dc9078e81736e6a4d85aa2e8d3d27d7ee20990b7",
-  "FStringFlipTimeStampFastString": "2023-08-28T21:10:26.753Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T21:10:26.753Z"
+  "FStringFlagRepoGitHashFastString": "03fcfefa0ba60caf6f592f8f1c1f6323b6d6104f",
+  "DFStringFlagRepoGitHashDynamicString": "03fcfefa0ba60caf6f592f8f1c1f6323b6d6104f",
+  "FStringFlipTimeStampFastString": "2023-08-28T21:31:32.708Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T21:31:32.708Z"
 }
