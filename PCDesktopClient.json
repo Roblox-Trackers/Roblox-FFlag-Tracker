@@ -7220,6 +7220,7 @@
   "DFFlagRemoveControllerBaseParentDependency": "True",
   "RemoveVRToggleDialog2": "True",
   "FixAvatarContextMenuVR": "True",
+  "FFlagGuiLayerCollectorRectQueryDeduplicateResults": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7485,8 +7486,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1d\", \"pos\":[1, -56, 0, 10], \"size\":[0, 44, 0, 48]}, {\"id\":\"a2d\", \"pos\":[1, -100, 0, 10], \"size\":[0, 88, 0, 48]}, {\"id\":\"a4d\", \"pos\":[1, -418, 0, 10], \"size\":[0, 406, 0, 48]}, {\"id\":\"a5d\", \"pos\":[0.5, -102, 0, 10], \"size\":[0, 204, 0, 48]}, {\"id\":\"a5dl\", \"pos\":[0.5, -305, 0, 10], \"size\":[0, 204, 0, 48]}];60;2023-08-28T18:37:33",
-  "FStringFlagRepoGitHashFastString": "5d2d3367e20330b86100f2f7fb7341cc247c6b7f",
-  "DFStringFlagRepoGitHashDynamicString": "5d2d3367e20330b86100f2f7fb7341cc247c6b7f",
-  "FStringFlipTimeStampFastString": "2023-08-28T18:49:02.628Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T18:49:02.628Z"
+  "FStringFlagRepoGitHashFastString": "d683da7d755be41f846698d3cb6f5beafa052208",
+  "DFStringFlagRepoGitHashDynamicString": "d683da7d755be41f846698d3cb6f5beafa052208",
+  "FStringFlipTimeStampFastString": "2023-08-28T18:54:07.623Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T18:54:07.623Z"
 }
