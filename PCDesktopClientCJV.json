@@ -7228,7 +7228,6 @@
   "DFIntRobloxTelemetryRccDisconnectEventsThrottleHundredthsPercent": "10000",
   "FFlagIncludePredictedOOMAndExitReasonInInferredOOM": "True",
   "DFFlagDSTelemetryPublishStdOutUpdate": "True",
-  "DFFlagSessionTelemetryTeleport2_Rollout": "True;60;2023-08-28T21:38:21",
   "DFFlagDSTelemetryPublishStdOutAllApis": "True",
   "FFlagDeferResourceDeletesGL_Rollout": "True;60;2023-08-28T22:02:29",
   "DFFlagReportSSMapSizesToInflux_Rollout": "True;60;2023-08-28T22:07:07",
@@ -7238,6 +7237,7 @@
   "DFFlagEnableDestroyedAdSlotFiltering": "True",
   "FFlagUseRbxthumbForLocalThumbnailUrls3": "True",
   "DFFlagOnlyStopRecordingIfSucceeded": "True",
+  "DFFlagSessionTelemetryTeleport2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7504,8 +7504,8 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagDebugDisableSpatialGridOptimizeStep": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "fae49341c33148d956d46be90c0f4cfecd7ac8c4",
-  "DFStringFlagRepoGitHashDynamicString": "fae49341c33148d956d46be90c0f4cfecd7ac8c4",
-  "FStringFlipTimeStampFastString": "2023-08-28T22:37:48.207Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T22:37:48.207Z"
+  "FStringFlagRepoGitHashFastString": "e4946a40c6bdfd38fa4af29d23b8968eff1b772c",
+  "DFStringFlagRepoGitHashDynamicString": "e4946a40c6bdfd38fa4af29d23b8968eff1b772c",
+  "FStringFlipTimeStampFastString": "2023-08-28T22:47:12.748Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T22:47:12.748Z"
 }
