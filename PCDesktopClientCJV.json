@@ -5245,7 +5245,7 @@
   "DFIntAdGuiRandomizedRaycastLaunchPercentage2": "10000",
   "FFlagSelfViewDontHideOnSwapCharacter": "True",
   "FFlagDragDetectors1": "False",
-  "FFlagDragDetectors1_PlaceFilter": "True;13441277223;576787046;14202782367;6101039089;14263813402;14247096325;14229107623;4921514218;12552493629;4709436891;14194258515;14216542704;4918411243;462997381;13813805995;13735376863;13638384763;12981782010;10135698219;11314555671;13503219415;13049142488;12909041133;13477165541;13477146301;12445163038;13351825906;11814430535;14266387369",
+  "FFlagDragDetectors1_PlaceFilter": "True;13441277223;576787046;14202782367;6101039089;14263813402;14247096325;14229107623;4921514218;12552493629;4709436891;14194258515;14216542704;4918411243;462997381;13813805995;13735376863;13638384763;12981782010;10135698219;11314555671;13503219415;13049142488;12909041133;13477165541;13477146301;12445163038;13351825906;11814430535;14266387369;13476851866;14472953901;14526281338;12945882835;14582249244;14586480175;14576892913",
   "FFlagCOLLAB3629EnableCloudEditControllerOnWakeTelemetry": "True",
   "FFlagStudioRemoveEmptySplitters": "True",
   "FFlagStudioRemoveEmptySplittersTopological": "True",
@@ -7219,6 +7219,7 @@
   "DFFlagBatchLogUseDataModelIds": "True",
   "DFFlagSolverFixedNOUExtentsUpdate_Rollout": "True;60;2023-08-28T18:36:19",
   "DFFlagRemoveControllerBaseParentDependency": "True",
+  "RemoveVRToggleDialog2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7485,8 +7486,8 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1d\", \"pos\":[1, -56, 0, 10], \"size\":[0, 44, 0, 48]}, {\"id\":\"a2d\", \"pos\":[1, -100, 0, 10], \"size\":[0, 88, 0, 48]}, {\"id\":\"a4d\", \"pos\":[1, -418, 0, 10], \"size\":[0, 406, 0, 48]}, {\"id\":\"a5d\", \"pos\":[0.5, -102, 0, 10], \"size\":[0, 204, 0, 48]}, {\"id\":\"a5dl\", \"pos\":[0.5, -305, 0, 10], \"size\":[0, 204, 0, 48]}];60;2023-08-28T18:37:33",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "43f592796268a6aec3bdd911bc564401ef37400c",
-  "DFStringFlagRepoGitHashDynamicString": "43f592796268a6aec3bdd911bc564401ef37400c",
-  "FStringFlipTimeStampFastString": "2023-08-28T18:41:57.857Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T18:41:57.857Z"
+  "FStringFlagRepoGitHashFastString": "10e7abda2fed281f0efaa66e7d5878bfd89ac541",
+  "DFStringFlagRepoGitHashDynamicString": "10e7abda2fed281f0efaa66e7d5878bfd89ac541",
+  "FStringFlipTimeStampFastString": "2023-08-28T18:47:46.364Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T18:47:46.364Z"
 }
