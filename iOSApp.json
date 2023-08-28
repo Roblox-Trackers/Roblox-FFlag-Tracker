@@ -7194,7 +7194,9 @@
   "FFlagUpdatedTaskDefinitions_Rollout": "True;30;2023-08-28T16:00:09",
   "FFlagLuauTypecheckLimitControls_Rollout": "True;30;2023-08-28T16:01:47",
   "DFIntRobloxTelemetryClientDisconnectPointsThrottleHundredthsPercent_Rollout": "100;60;2023-08-28T16:05:43",
-  "DFIntRobloxTelemetryRccDisconnectPointsThrottleHundredthsPercent_Rollout": "78;60;2023-08-28T16:06:12",
+  "DFIntRobloxTelemetryRccDisconnectPointsThrottleHundredthsPercent_Rollout": "100;60;2023-08-28T16:13:30",
+  "FFlagACENamedKeyframesChannel": "True",
+  "FFlagACEEscapeEventsFilter": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7534,8 +7536,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenediOS",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
   "DFFlagReportDisconnectToEventIngestAndPoints_Rollout": "True;60;2023-08-28T16:03:08",
-  "FStringFlagRepoGitHashFastString": "0fc9db958d9265237bddd7ebb73e82045db592de",
-  "DFStringFlagRepoGitHashDynamicString": "0fc9db958d9265237bddd7ebb73e82045db592de",
-  "FStringFlipTimeStampFastString": "2023-08-28T16:07:02.362Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T16:07:02.362Z"
+  "FStringFlagRepoGitHashFastString": "7972db79aed491e17c658eddfa04e36f789dd8a7",
+  "DFStringFlagRepoGitHashDynamicString": "7972db79aed491e17c658eddfa04e36f789dd8a7",
+  "FStringFlipTimeStampFastString": "2023-08-28T16:14:11.059Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T16:14:11.059Z"
 }
