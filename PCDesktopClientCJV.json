@@ -7235,6 +7235,7 @@
   "DFFlagReportSSMapSizesToInflux_Rollout": "True;60;2023-08-28T22:07:07",
   "FFlagLuauPCallDebuggerFix": "True",
   "DFFlagSoundSanitizeCFrames": "True",
+  "DFIntRobloxTelemetrySharedStringReplicationPointsThrottleHundredthsPercent_Rollout": "100;60;2023-08-28T22:20:35",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7499,10 +7500,10 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FFlagDebugDisableSpatialGridOptimizeStep_Rollout": "True;30;2023-08-28T21:46:03",
+  "FFlagDebugDisableSpatialGridOptimizeStep": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "881446f49d54f9f5431ed1cf6d2ace370af9529b",
-  "DFStringFlagRepoGitHashDynamicString": "881446f49d54f9f5431ed1cf6d2ace370af9529b",
-  "FStringFlipTimeStampFastString": "2023-08-28T22:12:04.450Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T22:12:04.450Z"
+  "FStringFlagRepoGitHashFastString": "8edb2dd7f19a21bd300bf9ba68ebce18f13cfac2",
+  "DFStringFlagRepoGitHashDynamicString": "8edb2dd7f19a21bd300bf9ba68ebce18f13cfac2",
+  "FStringFlipTimeStampFastString": "2023-08-28T22:21:51.394Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T22:21:51.394Z"
 }
