@@ -7187,7 +7187,6 @@
   "DFIntRobloxTelemetryRccDisconnectPointsThrottleHundredthsPercent": "100",
   "FFlagBytecodeEnc": "True",
   "FFlagChromeBetaFeature": "True",
-  "DFFlagRemoveControllerBaseParentDependency_Rollout": "True;60;2023-08-28T17:30:20",
   "DFFlagDefaultInitializeServerConfigurerSetting_Rollout": "True;60;2023-08-28T17:49:16",
   "DFFlagLuauCodegenAllocationTracking": "True",
   "FFlagSVHNonTCScriptTrackerBugfix_Rollout": "True;60;2023-08-28T17:51:08",
@@ -7219,6 +7218,8 @@
   "DFIntPhysicsSolverNumericalExplosionTelemetryHundrethsPercentage_Rollout": "1000;60;2023-08-28T18:29:35",
   "DFFlagBatchLogUseDataModelIds": "True",
   "DFFlagSolverFixedNOUExtentsUpdate_Rollout": "True;60;2023-08-28T18:36:19",
+  "DFFlagRemoveControllerBaseParentDependency": "True",
+  "DFIntTeamCreateSavePeriodForExperimentPlaceSeconds_Rollout": "5;1;2023-08-28T18:36:32",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7558,8 +7559,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenediOS",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
-  "FStringFlagRepoGitHashFastString": "a75bedb8b20d9d2343444d57b47f950156d634c2",
-  "DFStringFlagRepoGitHashDynamicString": "a75bedb8b20d9d2343444d57b47f950156d634c2",
-  "FStringFlipTimeStampFastString": "2023-08-28T18:36:59.247Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T18:36:59.247Z"
+  "FStringFlagRepoGitHashFastString": "199e593079305bf878a25b946f37f411d86da882",
+  "DFStringFlagRepoGitHashDynamicString": "199e593079305bf878a25b946f37f411d86da882",
+  "FStringFlipTimeStampFastString": "2023-08-28T18:37:37.770Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T18:37:37.770Z"
 }
