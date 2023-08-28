@@ -7183,7 +7183,6 @@
   "FFlagMacMoveLaunchTimeExpLaunchBegin": "True",
   "FFlagWinMoveLaunchTimeExpLaunchBegin": "True",
   "FFlagUGCValidateCageUVTriangleArea": "True",
-  "DFIntRobloxTelemetryClientDisconnectPointsThrottleHundredthsPercent_Rollout": "100;60;2023-08-28T16:05:43",
   "DFIntRobloxTelemetryRccDisconnectPointsThrottleHundredthsPercent_Rollout": "100;60;2023-08-28T16:13:30",
   "FFlagACENamedKeyframesChannel": "True",
   "FFlagACEEscapeEventsFilter": "True",
@@ -7202,6 +7201,7 @@
   "DFIntVoiceChatClientCapabilityRejoinTimeoutMs_PlaceFilter": "60000;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
   "FLogVoiceChatLogs": "Critical",
   "FLogVoiceChatLogs_PlaceFilter": "Info;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;10386320684;11116930529;7097215816",
+  "DFIntRobloxTelemetryClientDisconnectPointsThrottleHundredthsPercent": "100",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7466,8 +7466,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagSkipRenderEventInShutdown_Rollout": "True;60;2023-08-28T17:01:19",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
-  "FStringFlagRepoGitHashFastString": "5f0b5cced52a65858de9d32930c81622ba1e8852",
-  "DFStringFlagRepoGitHashDynamicString": "5f0b5cced52a65858de9d32930c81622ba1e8852",
-  "FStringFlipTimeStampFastString": "2023-08-28T17:11:30.470Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T17:11:30.470Z"
+  "FStringFlagRepoGitHashFastString": "ca21ee27b52ca187da7fde27a438b2531b460bbb",
+  "DFStringFlagRepoGitHashDynamicString": "ca21ee27b52ca187da7fde27a438b2531b460bbb",
+  "FStringFlipTimeStampFastString": "2023-08-28T17:12:05.098Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T17:12:05.098Z"
 }
