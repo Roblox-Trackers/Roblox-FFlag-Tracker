@@ -7222,12 +7222,12 @@
   "FFlagGetHumanoidDescription": "True",
   "SFFlagSimOneAttachmentAlignmentsAreNotSpanningTreeJoints2": "True",
   "FFlagCollectionServiceDuplicateTagAssertionFix": "True",
-  "FFlagIncludePredictedOOMAndExitReasonInInferredOOM_Rollout": "True;60;2023-08-28T19:27:54",
   "DFIntPhysicsSolverNumericalExplosionTelemetryHundrethsPercentage": "1000",
   "DFFlagDSTelemetryPublishStdOutUpdate_Rollout": "True;30;2023-08-28T20:08:11",
   "FFlagAICOMoveLegalDisclaimertoScriptingManager": "True",
   "DFIntRobloxTelemetryClientDisconnectEventsThrottleHundredthsPercent": "10000",
   "DFIntRobloxTelemetryRccDisconnectEventsThrottleHundredthsPercent": "10000",
+  "FFlagIncludePredictedOOMAndExitReasonInInferredOOM": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7567,8 +7567,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenediOS",
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
-  "FStringFlagRepoGitHashFastString": "aa7aeafe3e964b9b28e4af10a818c62e1acd6ca8",
-  "DFStringFlagRepoGitHashDynamicString": "aa7aeafe3e964b9b28e4af10a818c62e1acd6ca8",
-  "FStringFlipTimeStampFastString": "2023-08-28T20:11:48.275Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T20:11:48.275Z"
+  "FStringFlagRepoGitHashFastString": "5766552e8123e7f9a4240bd32526a385034de66f",
+  "DFStringFlagRepoGitHashDynamicString": "5766552e8123e7f9a4240bd32526a385034de66f",
+  "FStringFlipTimeStampFastString": "2023-08-28T20:36:58.416Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T20:36:58.416Z"
 }
