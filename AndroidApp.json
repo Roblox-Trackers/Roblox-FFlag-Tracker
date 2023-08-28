@@ -7200,6 +7200,7 @@
   "DFFlagVoiceChatJoinProcessTimersFix_Rollout": "True;30;2023-08-28T17:34:57",
   "DFIntVoiceChatClientCapabilityRejoinTimeoutMs_Rollout": "60000;30;2023-08-28T17:34:57",
   "FFlagVoiceChatNewClientJoinFlowV2_Rollout": "True;30;2023-08-28T17:34:57",
+  "DFFlagDefaultInitializeServerConfigurerSetting_Rollout": "True;60;2023-08-28T17:49:16",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7576,8 +7577,8 @@
   "DFFlagInferredMobileSuccess_PlaceFilter": "False;4996049426;920587237;4924922222;4832438542",
   "RefactorExperienceSession": "True",
   "SingleSurfaceEnabledAndroid3": "True",
-  "FStringFlagRepoGitHashFastString": "d36ddd1f4b85630f54e1fb9eef0b63c9802dfc64",
-  "DFStringFlagRepoGitHashDynamicString": "d36ddd1f4b85630f54e1fb9eef0b63c9802dfc64",
-  "FStringFlipTimeStampFastString": "2023-08-28T17:35:50.613Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-28T17:35:50.613Z"
+  "FStringFlagRepoGitHashFastString": "cb6b82cb3e7923b26eaa0930a9af6940305709c1",
+  "DFStringFlagRepoGitHashDynamicString": "cb6b82cb3e7923b26eaa0930a9af6940305709c1",
+  "FStringFlipTimeStampFastString": "2023-08-28T17:50:02.347Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-28T17:50:02.347Z"
 }
