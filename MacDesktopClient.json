@@ -7242,6 +7242,7 @@
   "DFIntRobloxTelemetrySharedStringReplicationPointsThrottleHundredthsPercent": "100",
   "DFFlagImprovedGCDeletionRateMetrics": "True",
   "DFFlagUseImprovedGCDeletionRate": "True",
+  "DFFlagOptimizeMidphaseCollisions_Rollout": "True;60;2023-08-29T16:09:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7504,8 +7505,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedMacClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "413ac68a2e10143a39a49eef8cb1574286ff3246",
-  "DFStringFlagRepoGitHashDynamicString": "413ac68a2e10143a39a49eef8cb1574286ff3246",
-  "FStringFlipTimeStampFastString": "2023-08-29T00:11:38.683Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-29T00:11:38.683Z"
+  "FStringFlagRepoGitHashFastString": "ed6933c16c3846444945d4a65f1c70007dd17399",
+  "DFStringFlagRepoGitHashDynamicString": "ed6933c16c3846444945d4a65f1c70007dd17399",
+  "FStringFlipTimeStampFastString": "2023-08-29T16:10:31.915Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-29T16:10:31.915Z"
 }
