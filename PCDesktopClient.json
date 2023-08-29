@@ -7231,7 +7231,7 @@
   "DFFlagDSTelemetryPublishStdOutAllApis": "True",
   "FFlagLuauPCallDebuggerFix": "True",
   "DFFlagSoundSanitizeCFrames": "True",
-  "DFFlagEnableDestroyedAdSlotFiltering": "True",
+  "DFFlagEnableDestroyedAdSlotFiltering": "False",
   "FFlagUseRbxthumbForLocalThumbnailUrls3": "True",
   "DFFlagOnlyStopRecordingIfSucceeded": "True",
   "DFFlagSessionTelemetryTeleport2": "True",
@@ -7252,10 +7252,6 @@
   "DFFlagReportLongRunningScripts2": "True",
   "FFlagCompleteFlowInStudioAccept": "True",
   "FFlagEnableCompensatingScrollingFrame": "True",
-  "FFlagToolboxFixTimeFiltering": "True",
-  "FStringAerodynamicsBetaFeatureUrl": "https://devforum.roblox.com/t/introducing-aerodynamic-forces-beta/2569269",
-  "FFlagDevFrameworkStopDiggingIntoRoactInternals": "True",
-  "FFlagVRFreeUIPanel": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7521,8 +7517,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagDebugDisableSpatialGridOptimizeStep": "True",
-  "FStringFlagRepoGitHashFastString": "fa229ea97721d787c591e2ada3db8ac4082c2e49",
-  "DFStringFlagRepoGitHashDynamicString": "fa229ea97721d787c591e2ada3db8ac4082c2e49",
-  "FStringFlipTimeStampFastString": "2023-08-29T20:24:35.602Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-29T20:24:35.602Z"
+  "FStringFlagRepoGitHashFastString": "c6c59d3cf2ed03e1ae72ea66634b3c7ce602438f",
+  "DFStringFlagRepoGitHashDynamicString": "c6c59d3cf2ed03e1ae72ea66634b3c7ce602438f",
+  "FStringFlipTimeStampFastString": "2023-08-29T20:35:42.530Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-29T20:35:42.530Z"
 }
