@@ -6789,7 +6789,7 @@
   "FFlagSanitizeSelfView": "True",
   "DFIntReportRTLSupportValueThrottleHundrethsPercent": "100",
   "FFlagRigBuilderNoMoreUniqueNames": "True",
-  "DFIntLongRunningScriptEventHundredthsPercent": "1",
+  "DFIntLongRunningScriptEventHundredthsPercent": "100",
   "DFFlagStreamIteratorTimeTracking2": "True",
   "FFlagSilenceWarningMissingDeformer": "True",
   "DFIntDSTelemetryGroupOneRollout": "100",
@@ -7245,8 +7245,6 @@
   "FFlagLuaAppEnableToastNotificationsForMobileCoreScript2": "True",
   "DFFlagOptimizeMidphaseCollisions": "True",
   "FFlagTrackAllDeviceMemory9": "True",
-  "FFlagScreenGuiFixOnTopOfCoreBlurForVR_Rollout": "True;60;2023-08-29T18:40:34",
-  "DFIntLongRunningScriptEventHundredthsPercent_Rollout": "100;60;2023-08-29T18:41:21",
   "FFlagFixConsoleBtid": "True",
   "FFlagScreenGuiDoNotRenderUnderViewportFrame": "True",
   "SFFlagSimOneAttachmentAlignmentsAreNotSpanningTreeJoints2_PlaceFilter": "False;8177998486;9049552678",
@@ -7593,9 +7591,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-  "FFlagEnableIOSAutofillPhoneNumber_Rollout": "True;60;2023-08-29T18:42:02",
-  "FStringFlagRepoGitHashFastString": "7c1a1ba7157e7fcb270a52f47a6c4d2a1dcc82de",
-  "DFStringFlagRepoGitHashDynamicString": "7c1a1ba7157e7fcb270a52f47a6c4d2a1dcc82de",
-  "FStringFlipTimeStampFastString": "2023-08-29T19:41:29.004Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-29T19:41:29.004Z"
+  "FStringFlagRepoGitHashFastString": "b53ed803744261d4ec6b20525fb85fb28f416f1d",
+  "DFStringFlagRepoGitHashDynamicString": "b53ed803744261d4ec6b20525fb85fb28f416f1d",
+  "FStringFlipTimeStampFastString": "2023-08-29T19:46:36.799Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-29T19:46:36.799Z"
 }
