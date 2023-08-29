@@ -2290,7 +2290,7 @@
   "FFlagCleanUpIsSubjectToDesktopPolicies": "True",
   "FStringLuaTopicsIXPLayer": "AvatarMarketplace.GuidedFeatures",
   "FFlagShowRatingsInAssetPreviewForAllPlugins": "True",
-  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView",
+  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView,PlayerApp.PhoneVerification.iOS",
   "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent2": "1000",
   "DFIntStudioSyntaxHighlightingOnChangeAnalyticsThrottleHundredthsPercent2": "1000",
   "FFlagStudioLexMapChangeDocAnalytics2": "True",
@@ -7606,8 +7606,8 @@
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "DFIntReportUIOcclusionRectQuery_Rollout": "100;30;2023-08-29T22:27:45",
-  "FStringFlagRepoGitHashFastString": "4e730ed91acdc40e5bda7d994b9b5b22b6d28baf",
-  "DFStringFlagRepoGitHashDynamicString": "4e730ed91acdc40e5bda7d994b9b5b22b6d28baf",
-  "FStringFlipTimeStampFastString": "2023-08-29T22:36:46.144Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-29T22:36:46.144Z"
+  "FStringFlagRepoGitHashFastString": "ce00a593b2ee5caee07798c333df6f12c5df5e94",
+  "DFStringFlagRepoGitHashDynamicString": "ce00a593b2ee5caee07798c333df6f12c5df5e94",
+  "FStringFlipTimeStampFastString": "2023-08-29T22:52:31.533Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-29T22:52:31.533Z"
 }
