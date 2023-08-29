@@ -6705,7 +6705,7 @@
   "FFlagUIOcclusionMetricsAddRectIntersection": "True",
   "FFlagConvertAccessorySourceFix": "True",
   "DFFlagDoNotMergePersistentModelsWithTheirAncestors": "True",
-  "DFIntReportUIOcclusionRectQuery": "2",
+  "DFIntReportUIOcclusionRectQuery": "100",
   "FFlagEnablePrivacyPolicyForLogoutUpsellRelease1": "True",
   "DFIntReportUIOcclusionHeatmap": "1",
   "DFFlagInferredCrashTrackMoreFields": "True",
@@ -7643,9 +7643,8 @@
   "SingleSurfaceEnabledAndroid3": "True",
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "DFIntReportUIOcclusionRectQuery_Rollout": "100;30;2023-08-29T22:27:45",
-  "FStringFlagRepoGitHashFastString": "85b900df444cb3544fc1598551ecac59fd6b8aae",
-  "DFStringFlagRepoGitHashDynamicString": "85b900df444cb3544fc1598551ecac59fd6b8aae",
-  "FStringFlipTimeStampFastString": "2023-08-29T23:01:40.244Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-29T23:01:40.244Z"
+  "FStringFlagRepoGitHashFastString": "92959c7f751111996259bd510cc800d3d84ad3f9",
+  "DFStringFlagRepoGitHashDynamicString": "92959c7f751111996259bd510cc800d3d84ad3f9",
+  "FStringFlipTimeStampFastString": "2023-08-29T23:02:10.915Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-29T23:02:10.915Z"
 }
