@@ -7295,7 +7295,6 @@
   "FFlagStudioTeamCreateInitialConnectRetry": "True",
   "FFlagLuauNativeCodegenBetaFeature": "True",
   "FFlagVideoServiceFixPermissionCheck": "True",
-  "FFlagLocaleBridge_Rollout": "True;60;2023-08-30T21:39:29",
   "FFlagPropertiesWidgetWithoutDM2": "True",
   "FFlagExplorerWidgetRemoveMainWindowDependencies_Rollout": "True;60;2023-08-30T21:57:21",
   "DFIntBatchThumbnailRetrySlowWaitMs": "2500",
@@ -7309,6 +7308,7 @@
   "FStringIxpNewLayersForRegistration_Rollout": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView,PlayerApp.PhoneVerification.iOS,AvatarExperience.CameraButtonExposure;60;2023-08-30T22:31:50",
   "DFFlagReportLuauCodegenFailureWarnings": "True",
   "FFlagVideoFrameFixTextureDestroyedWrongContext_Rollout": "True;60;2023-08-30T22:45:23",
+  "FFlagLocaleBridge": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7502,8 +7502,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "8032648a77a51405d5179baa5de567cabb9cdd5a",
-  "DFStringFlagRepoGitHashDynamicString": "8032648a77a51405d5179baa5de567cabb9cdd5a",
-  "FStringFlipTimeStampFastString": "2023-08-30T22:45:59.977Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T22:45:59.977Z"
+  "FStringFlagRepoGitHashFastString": "1dc7c8eb2b64ae5ebbc8a47dee69e0559b7bae05",
+  "DFStringFlagRepoGitHashDynamicString": "1dc7c8eb2b64ae5ebbc8a47dee69e0559b7bae05",
+  "FStringFlipTimeStampFastString": "2023-08-30T22:46:44.938Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T22:46:44.938Z"
 }
