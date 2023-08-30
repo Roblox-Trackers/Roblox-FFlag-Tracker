@@ -7294,7 +7294,6 @@
   "FFlagAppGameTileUnificationDUA2": "True",
   "FFlagStudioTeamCreateInitialConnectRetry": "True",
   "FFlagLuauNativeCodegenBetaFeature": "True",
-  "DFFlagReportLuauCodegenFailureWarnings_Rollout": "True;60;2023-08-30T21:28:16",
   "FFlagVideoServiceFixPermissionCheck": "True",
   "FFlagLocaleBridge_Rollout": "True;60;2023-08-30T21:39:29",
   "FFlagPropertiesWidgetWithoutDM2": "True",
@@ -7308,6 +7307,7 @@
   "FFlagLuaVoiceChatAnalyticsUseEventsV2": "True",
   "DFFlagSimSolverVisualizeMostUpToDateConvergence": "True",
   "FStringIxpNewLayersForRegistration_Rollout": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView,PlayerApp.PhoneVerification.iOS,AvatarExperience.CameraButtonExposure;60;2023-08-30T22:31:50",
+  "DFFlagReportLuauCodegenFailureWarnings": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7649,8 +7649,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-  "FStringFlagRepoGitHashFastString": "b41640b411bec3781d53d59ddb98b878051bdf88",
-  "DFStringFlagRepoGitHashDynamicString": "b41640b411bec3781d53d59ddb98b878051bdf88",
-  "FStringFlipTimeStampFastString": "2023-08-30T22:32:43.367Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T22:32:43.367Z"
+  "FStringFlagRepoGitHashFastString": "4d3ac2b729b1d3431f9fcf70d05c31e5d21ea192",
+  "DFStringFlagRepoGitHashDynamicString": "4d3ac2b729b1d3431f9fcf70d05c31e5d21ea192",
+  "FStringFlipTimeStampFastString": "2023-08-30T22:36:40.282Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T22:36:40.282Z"
 }
