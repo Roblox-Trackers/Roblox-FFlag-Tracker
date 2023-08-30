@@ -7272,6 +7272,8 @@
   "DFIntGameLdrPerformanceReportSwitch1": "1",
   "DFIntGameLdrPerformanceReportSwitch2": "1",
   "DFFlagSessionHeartbeatControllerThreadSafetyFix": "True",
+  "DFFlagFixGPUInfoInGamePerfMonitor_Rollout": "True;60;2023-08-30T18:08:59",
+  "FFlagAvatarPreviewerSerializeSkinTone": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7465,8 +7467,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "7dc38b54a25a6bb8ff8746c1b492647a81d37005",
-  "DFStringFlagRepoGitHashDynamicString": "7dc38b54a25a6bb8ff8746c1b492647a81d37005",
-  "FStringFlipTimeStampFastString": "2023-08-30T17:55:19.470Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T17:55:19.470Z"
+  "FStringFlagRepoGitHashFastString": "dd0f9f54f8a9464f53646dbfaa3920c98bc8adea",
+  "DFStringFlagRepoGitHashDynamicString": "dd0f9f54f8a9464f53646dbfaa3920c98bc8adea",
+  "FStringFlipTimeStampFastString": "2023-08-30T18:10:29.990Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T18:10:29.990Z"
 }

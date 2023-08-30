@@ -7272,6 +7272,7 @@
   "DFIntGameLdrPerformanceReportSwitch1": "1",
   "DFIntGameLdrPerformanceReportSwitch2": "1",
   "DFFlagSessionHeartbeatControllerThreadSafetyFix": "True",
+  "DFFlagFixGPUInfoInGamePerfMonitor_Rollout": "True;60;2023-08-30T18:08:59",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7536,8 +7537,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "7dc38b54a25a6bb8ff8746c1b492647a81d37005",
-  "DFStringFlagRepoGitHashDynamicString": "7dc38b54a25a6bb8ff8746c1b492647a81d37005",
-  "FStringFlipTimeStampFastString": "2023-08-30T17:55:19.470Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T17:55:19.470Z"
+  "FStringFlagRepoGitHashFastString": "660612e62241802059103459559120362e8f7adf",
+  "DFStringFlagRepoGitHashDynamicString": "660612e62241802059103459559120362e8f7adf",
+  "FStringFlipTimeStampFastString": "2023-08-30T18:09:34.912Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T18:09:34.912Z"
 }
