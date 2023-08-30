@@ -7263,11 +7263,11 @@
   "FFlagGamepadScrollingPlaysNiceWithMouse": "True",
   "FFlagCorescriptsSoundManagerEnabled": "True",
   "FFlagFixInExperienceDeeplink": "True",
-  "FFlagDisableHotStartOnWindows_Rollout": "True;60;2023-08-29T23:01:08",
   "DFFlagGameLdrPerformanceReportSwitchEnabled_Rollout": "True;30;2023-08-29T23:34:52",
   "MaquettesForcedUpgradeFix": "True",
   "FFlagUGCValidateMeshTriangleAreaForCages": "False",
   "FFlagUGCValidateMeshTriangleAreaForMeshes": "False",
+  "FFlagDisableHotStartOnWindows": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7530,8 +7530,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedMacClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "ae713ef0eaa31f6f2f91fa7faa40767b2bd0ba9c",
-  "DFStringFlagRepoGitHashDynamicString": "ae713ef0eaa31f6f2f91fa7faa40767b2bd0ba9c",
-  "FStringFlipTimeStampFastString": "2023-08-30T00:05:01.423Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T00:05:01.423Z"
+  "FStringFlagRepoGitHashFastString": "792461d6a406d8560113a703373dfccd7ec65555",
+  "DFStringFlagRepoGitHashDynamicString": "792461d6a406d8560113a703373dfccd7ec65555",
+  "FStringFlipTimeStampFastString": "2023-08-30T00:07:01.852Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T00:07:01.852Z"
 }
