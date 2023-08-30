@@ -7294,6 +7294,7 @@
   "DFIntBatchThumbnailRetrySlowWaitMs_Rollout": "2500;60;2023-08-30T20:56:38",
   "FFlagTagEditorImprovements2": "True",
   "FFlagAppGameTileUnificationDUA2": "True",
+  "FFlagStudioTeamCreateInitialConnectRetry": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7556,8 +7557,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedMacClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "31dbba782108169a299eda1a3d3c9aeab0c14cd4",
-  "DFStringFlagRepoGitHashDynamicString": "31dbba782108169a299eda1a3d3c9aeab0c14cd4",
-  "FStringFlipTimeStampFastString": "2023-08-30T21:17:41.269Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T21:17:41.269Z"
+  "FStringFlagRepoGitHashFastString": "522ea25c24bdf37fa9927c13829aa924d50ec944",
+  "DFStringFlagRepoGitHashDynamicString": "522ea25c24bdf37fa9927c13829aa924d50ec944",
+  "FStringFlipTimeStampFastString": "2023-08-30T21:17:54.355Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T21:17:54.355Z"
 }
