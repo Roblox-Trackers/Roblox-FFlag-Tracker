@@ -7294,7 +7294,6 @@
   "FFlagAppGameTileUnificationDUA2": "True",
   "FFlagStudioTeamCreateInitialConnectRetry": "True",
   "FFlagLuauNativeCodegenBetaFeature": "True",
-  "DFFlagSimSolverVisualizeMostUpToDateConvergence_Rollout": "True;60;2023-08-30T21:25:49",
   "DFFlagReportLuauCodegenFailureWarnings_Rollout": "True;60;2023-08-30T21:28:16",
   "FFlagVideoServiceFixPermissionCheck": "True",
   "FFlagLocaleBridge_Rollout": "True;60;2023-08-30T21:39:29",
@@ -7307,6 +7306,7 @@
   "FFlagEnableLuaVoiceChatAnalyticsV2": "True",
   "FFlagLuaVoiceChatAnalyticsUseCounterV2": "True",
   "FFlagLuaVoiceChatAnalyticsUseEventsV2": "True",
+  "DFFlagSimSolverVisualizeMostUpToDateConvergence": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7573,8 +7573,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "0e8dcf330483f7648004988c9fe75cf34598f947",
-  "DFStringFlagRepoGitHashDynamicString": "0e8dcf330483f7648004988c9fe75cf34598f947",
-  "FStringFlipTimeStampFastString": "2023-08-30T22:24:10.379Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T22:24:10.379Z"
+  "FStringFlagRepoGitHashFastString": "dcbc4d05c543ed27cecdc1d02b0ba0561750c1fb",
+  "DFStringFlagRepoGitHashDynamicString": "dcbc4d05c543ed27cecdc1d02b0ba0561750c1fb",
+  "FStringFlipTimeStampFastString": "2023-08-30T22:32:28.270Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T22:32:28.270Z"
 }
