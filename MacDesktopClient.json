@@ -7292,6 +7292,8 @@
   "DFFlagKibanaReportHttpRequestType_Rollout": "True;60;2023-08-30T19:34:41",
   "FFlagVideoServiceFixPermissionCheck": "True",
   "FFlagIsInputMainPressRemoveKeyboardGamepadInput": "True",
+  "FFlagAinErrorForTextureOnAtt_Rollout": "True;60;2023-08-30T19:58:38",
+  "DFFlagSimSolverVisualizeMostUpToDateConvergence_Rollout": "True;60;2023-08-30T19:58:45",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7554,8 +7556,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedMacClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "cfc3ad65608c6556120f0554612c560ab9d94720",
-  "DFStringFlagRepoGitHashDynamicString": "cfc3ad65608c6556120f0554612c560ab9d94720",
-  "FStringFlipTimeStampFastString": "2023-08-30T19:52:08.858Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T19:52:08.858Z"
+  "FStringFlagRepoGitHashFastString": "cdeef027a93c7327ea46982b44b30bee34cb8853",
+  "DFStringFlagRepoGitHashDynamicString": "cdeef027a93c7327ea46982b44b30bee34cb8853",
+  "FStringFlipTimeStampFastString": "2023-08-30T19:59:26.536Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T19:59:26.536Z"
 }
