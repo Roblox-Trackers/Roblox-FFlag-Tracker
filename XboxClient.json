@@ -7281,11 +7281,11 @@
   "FFlagUserVRFollowCamera2": "False",
   "FFlagFastPhysicsSolverOptimization": "True",
   "DFFlagSignalFixLock": "True",
-  "DFFlagTextBoxServiceCheckTextFits_Rollout": "True;30;2023-08-30T18:45:53",
   "FFlagSettingsMenuUseHardwareSafeArea": "True",
   "DFIntBatchThumbnailRetrySlowWaitMs_Rollout": "2500;60;2023-08-30T18:54:56",
   "FFlagAppUpdateAdapterWithChannels": "True",
   "DFFlagFixGPUInfoInGamePerfMonitor": "True",
+  "DFFlagTextBoxServiceCheckTextFits": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7479,8 +7479,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "9a3c858c145862a6a14fd5c14b9bf1a8b6fe99ec",
-  "DFStringFlagRepoGitHashDynamicString": "9a3c858c145862a6a14fd5c14b9bf1a8b6fe99ec",
-  "FStringFlipTimeStampFastString": "2023-08-30T19:17:57.241Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T19:17:57.241Z"
+  "FStringFlagRepoGitHashFastString": "cf292a7554147f54b1498ffa3a7ccdc495fcb1eb",
+  "DFStringFlagRepoGitHashDynamicString": "cf292a7554147f54b1498ffa3a7ccdc495fcb1eb",
+  "FStringFlipTimeStampFastString": "2023-08-30T19:22:16.268Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T19:22:16.268Z"
 }
