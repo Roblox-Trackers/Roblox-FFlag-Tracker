@@ -7280,8 +7280,9 @@
   "FFlagTextChatServiceInsertedByDefault": "True",
   "FFlagUserFixVRSwimming": "False",
   "FFlagUserVRFollowCamera2": "False",
-  "FFlagFastPhysicsSolverOptimization_Rollout": "True;10;2023-08-30T18:27:50",
   "FFlagAppUpdateAdapterWithChannels_Rollout": "True;30;2023-08-30T18:36:31",
+  "FFlagFastPhysicsSolverOptimization": "True",
+  "DFFlagSignalFixLock": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7547,8 +7548,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "27cb9e91203641420b9c196f627b79b2f754190e",
-  "DFStringFlagRepoGitHashDynamicString": "27cb9e91203641420b9c196f627b79b2f754190e",
-  "FStringFlipTimeStampFastString": "2023-08-30T18:38:46.123Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T18:38:46.123Z"
+  "FStringFlagRepoGitHashFastString": "40e26a50a16279c84b20975f4fcf859ca67459f4",
+  "DFStringFlagRepoGitHashDynamicString": "40e26a50a16279c84b20975f4fcf859ca67459f4",
+  "FStringFlipTimeStampFastString": "2023-08-30T18:41:58.821Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T18:41:58.821Z"
 }
