@@ -7290,6 +7290,7 @@
   "FFlagSelfViewUseRealBoundingBox": "True",
   "FFlagLuauLexerConsumeFast": "True",
   "DFFlagKibanaReportHttpRequestType_Rollout": "True;60;2023-08-30T19:34:41",
+  "FFlagVideoServiceFixPermissionCheck": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7556,8 +7557,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FIntEnableCullableScene2HundredthPercent2_Rollout": "10000;30;2023-08-30T19:17:10",
-  "FStringFlagRepoGitHashFastString": "50a568536d538c3dc00d1c11aff1f22f3302c5a4",
-  "DFStringFlagRepoGitHashDynamicString": "50a568536d538c3dc00d1c11aff1f22f3302c5a4",
-  "FStringFlipTimeStampFastString": "2023-08-30T19:35:15.895Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T19:35:15.895Z"
+  "FStringFlagRepoGitHashFastString": "2ce9524711bffc3410e5adb24cd76e52dc6a21d6",
+  "DFStringFlagRepoGitHashDynamicString": "2ce9524711bffc3410e5adb24cd76e52dc6a21d6",
+  "FStringFlipTimeStampFastString": "2023-08-30T19:39:52.900Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T19:39:52.900Z"
 }
