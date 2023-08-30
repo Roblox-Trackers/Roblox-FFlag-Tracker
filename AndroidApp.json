@@ -7296,6 +7296,8 @@
   "FFlagSocialTabReplaceSearchExperimentEnabled_v3": "True",
   "DFIntBatchThumbnailRetrySlowWaitMs": "2500",
   "FFlagVideoDownloadFailMetrics": "True",
+  "FFlagAppGameTileUnificationDUA2": "True",
+  "FFlagPropertiesWidgetWithoutDM2_Rollout": "True;60;2023-08-30T20:08:31",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7674,8 +7676,8 @@
   "SingleSurfaceEnabledAndroid3": "True",
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "ff8999af68281c8c38f8c8642acd157d07302bb5",
-  "DFStringFlagRepoGitHashDynamicString": "ff8999af68281c8c38f8c8642acd157d07302bb5",
-  "FStringFlipTimeStampFastString": "2023-08-30T20:06:57.960Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T20:06:57.960Z"
+  "FStringFlagRepoGitHashFastString": "b57d94814ee941efcf5506ecd6c5e382db236d57",
+  "DFStringFlagRepoGitHashDynamicString": "b57d94814ee941efcf5506ecd6c5e382db236d57",
+  "FStringFlipTimeStampFastString": "2023-08-30T20:09:15.321Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T20:09:15.321Z"
 }

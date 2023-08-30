@@ -7296,6 +7296,7 @@
   "FFlagSocialTabReplaceSearchExperimentEnabled_v3": "True",
   "DFIntBatchThumbnailRetrySlowWaitMs": "2500",
   "FFlagVideoDownloadFailMetrics": "True",
+  "FFlagAppGameTileUnificationDUA2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7561,8 +7562,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "ff8999af68281c8c38f8c8642acd157d07302bb5",
-  "DFStringFlagRepoGitHashDynamicString": "ff8999af68281c8c38f8c8642acd157d07302bb5",
-  "FStringFlipTimeStampFastString": "2023-08-30T20:06:57.960Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T20:06:57.960Z"
+  "FStringFlagRepoGitHashFastString": "1620442768ea468545bc9f5122be893c0329e6da",
+  "DFStringFlagRepoGitHashDynamicString": "1620442768ea468545bc9f5122be893c0329e6da",
+  "FStringFlipTimeStampFastString": "2023-08-30T20:08:45.197Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T20:08:45.197Z"
 }
