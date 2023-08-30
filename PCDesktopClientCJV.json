@@ -7297,7 +7297,6 @@
   "FFlagVideoServiceFixPermissionCheck": "True",
   "FFlagPropertiesWidgetWithoutDM2": "True",
   "DFIntBatchThumbnailRetrySlowWaitMs": "2500",
-  "DFFlagKibanaReportHttpRequestType_Rollout": "True;60;2023-08-30T22:09:23",
   "FFlagVideoDownloadFailMetrics": "False",
   "DFFlagReportPongTimeDistribution": "True",
   "FFlagEnableLuaVoiceChatAnalyticsV2": "True",
@@ -7311,6 +7310,8 @@
   "FFlagUGCValidationAdjustLegBounds": "True",
   "FFlagExplorerWidgetRemoveMainWindowDependencies": "True",
   "FFlagToolboxFixLiveSearchDebounce": "True",
+  "DFFlagKibanaReportHttpRequestType": "True",
+  "FFlagSetScriptDocViewerFocusProxyToEditor_Rollout": "True;30;2023-08-30T23:17:16",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7577,8 +7578,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "552e39a816af5c091dd0bac41df73d869e5d8d4b",
-  "DFStringFlagRepoGitHashDynamicString": "552e39a816af5c091dd0bac41df73d869e5d8d4b",
-  "FStringFlipTimeStampFastString": "2023-08-30T23:16:31.961Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T23:16:31.961Z"
+  "FStringFlagRepoGitHashFastString": "20dbaeff1089133d54e057f98fd6a942c312cc5f",
+  "DFStringFlagRepoGitHashDynamicString": "20dbaeff1089133d54e057f98fd6a942c312cc5f",
+  "FStringFlipTimeStampFastString": "2023-08-30T23:18:27.871Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T23:18:27.871Z"
 }
