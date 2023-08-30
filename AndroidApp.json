@@ -7280,12 +7280,12 @@
   "FFlagTextChatServiceInsertedByDefault": "True",
   "FFlagUserFixVRSwimming": "False",
   "FFlagUserVRFollowCamera2": "False",
-  "FFlagAppUpdateAdapterWithChannels_Rollout": "True;30;2023-08-30T18:36:31",
   "FFlagFastPhysicsSolverOptimization": "True",
   "DFFlagSignalFixLock": "True",
   "DFFlagTextBoxServiceCheckTextFits_Rollout": "True;30;2023-08-30T18:45:53",
   "FFlagSettingsMenuUseHardwareSafeArea": "True",
   "DFIntBatchThumbnailRetrySlowWaitMs_Rollout": "2500;60;2023-08-30T18:54:56",
+  "FFlagAppUpdateAdapterWithChannels": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7664,8 +7664,8 @@
   "SingleSurfaceEnabledAndroid3": "True",
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "e7c7f9cb0d57a94ecf0dbf759c9d0afe68eadf4d",
-  "DFStringFlagRepoGitHashDynamicString": "e7c7f9cb0d57a94ecf0dbf759c9d0afe68eadf4d",
-  "FStringFlipTimeStampFastString": "2023-08-30T18:55:46.264Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T18:55:46.264Z"
+  "FStringFlagRepoGitHashFastString": "e64ff54b52a813d238a85b3675a11fce72091208",
+  "DFStringFlagRepoGitHashDynamicString": "e64ff54b52a813d238a85b3675a11fce72091208",
+  "FStringFlipTimeStampFastString": "2023-08-30T19:11:39.242Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T19:11:39.242Z"
 }
