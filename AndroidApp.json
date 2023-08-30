@@ -6351,7 +6351,7 @@
   "FFlagToastNotificationsResendDisplayOnInit": "True",
   "FFlagLuauAssignmentHasCost": "True",
   "FFlagChangeDefaultSoundRollOff": "True",
-  "FFlagVideoServiceInit": "False",
+  "FFlagVideoServiceInit": "True",
   "FFlagLuaAppPromotionalEmailsCheckboxEnabled": "False",
   "FFlagLuauLintNativeComment": "True",
   "FFlagLuauCompileNativeComment": "True",
@@ -7291,6 +7291,7 @@
   "FFlagLuauLexerConsumeFast": "True",
   "DFFlagKibanaReportHttpRequestType_Rollout": "True;60;2023-08-30T19:34:41",
   "FFlagVideoServiceFixPermissionCheck": "True",
+  "FFlagIsInputMainPressRemoveKeyboardGamepadInput": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7669,8 +7670,8 @@
   "SingleSurfaceEnabledAndroid3": "True",
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "2ce9524711bffc3410e5adb24cd76e52dc6a21d6",
-  "DFStringFlagRepoGitHashDynamicString": "2ce9524711bffc3410e5adb24cd76e52dc6a21d6",
-  "FStringFlipTimeStampFastString": "2023-08-30T19:39:52.900Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T19:39:52.900Z"
+  "FStringFlagRepoGitHashFastString": "17e4dd37cc812f183a29c8c476af6bce91db1b82",
+  "DFStringFlagRepoGitHashDynamicString": "17e4dd37cc812f183a29c8c476af6bce91db1b82",
+  "FStringFlipTimeStampFastString": "2023-08-30T19:48:08.119Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T19:48:08.119Z"
 }
