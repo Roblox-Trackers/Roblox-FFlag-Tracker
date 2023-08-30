@@ -6351,7 +6351,7 @@
   "FFlagToastNotificationsResendDisplayOnInit": "True",
   "FFlagLuauAssignmentHasCost": "True",
   "FFlagChangeDefaultSoundRollOff": "True",
-  "FFlagVideoServiceInit": "False",
+  "FFlagVideoServiceInit": "True",
   "FFlagLuaAppPromotionalEmailsCheckboxEnabled": "False",
   "FFlagLuauLintNativeComment": "True",
   "FFlagLuauCompileNativeComment": "True",
@@ -7298,6 +7298,7 @@
   "FFlagLuauNativeCodegenBetaFeature": "True",
   "DFFlagSimSolverVisualizeMostUpToDateConvergence_Rollout": "True;60;2023-08-30T21:25:49",
   "DFFlagReportLuauCodegenFailureWarnings_Rollout": "True;60;2023-08-30T21:28:16",
+  "FFlagVideoServiceFixPermissionCheck": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7677,8 +7678,8 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
-  "FStringFlagRepoGitHashFastString": "6fd977cd7f7c305f35d20dadc9838d24da541ef4",
-  "DFStringFlagRepoGitHashDynamicString": "6fd977cd7f7c305f35d20dadc9838d24da541ef4",
-  "FStringFlipTimeStampFastString": "2023-08-30T21:39:14.486Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T21:39:14.486Z"
+  "FStringFlagRepoGitHashFastString": "b3ab9b633a115a71bbe1955cc5a1e0c5eacd15ba",
+  "DFStringFlagRepoGitHashDynamicString": "b3ab9b633a115a71bbe1955cc5a1e0c5eacd15ba",
+  "FStringFlipTimeStampFastString": "2023-08-30T21:40:36.105Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T21:40:36.105Z"
 }
