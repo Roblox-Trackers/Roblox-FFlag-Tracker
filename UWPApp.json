@@ -7282,7 +7282,6 @@
   "FFlagFastPhysicsSolverOptimization": "True",
   "DFFlagSignalFixLock": "True",
   "FFlagSettingsMenuUseHardwareSafeArea": "True",
-  "DFIntBatchThumbnailRetrySlowWaitMs_Rollout": "2500;60;2023-08-30T18:54:56",
   "FFlagAppUpdateAdapterWithChannels": "True",
   "DFFlagFixGPUInfoInGamePerfMonitor": "True",
   "DFFlagTextBoxServiceCheckTextFits": "True",
@@ -7295,6 +7294,7 @@
   "FFlagAinErrorForTextureOnAtt_Rollout": "True;60;2023-08-30T19:58:38",
   "DFFlagSimSolverVisualizeMostUpToDateConvergence_Rollout": "True;60;2023-08-30T19:58:45",
   "FFlagSocialTabReplaceSearchExperimentEnabled_v3": "True",
+  "DFIntBatchThumbnailRetrySlowWaitMs": "2500",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7493,8 +7493,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "22d15dd6714935af477bf1d0d7e85ece668deffe",
-  "DFStringFlagRepoGitHashDynamicString": "22d15dd6714935af477bf1d0d7e85ece668deffe",
-  "FStringFlipTimeStampFastString": "2023-08-30T20:00:08.329Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T20:00:08.329Z"
+  "FStringFlagRepoGitHashFastString": "6e22ed35f121229e6404af20252298a6279148ac",
+  "DFStringFlagRepoGitHashDynamicString": "6e22ed35f121229e6404af20252298a6279148ac",
+  "FStringFlipTimeStampFastString": "2023-08-30T20:01:34.982Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T20:01:34.982Z"
 }

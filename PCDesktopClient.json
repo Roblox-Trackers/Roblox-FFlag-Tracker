@@ -7282,7 +7282,6 @@
   "FFlagFastPhysicsSolverOptimization": "True",
   "DFFlagSignalFixLock": "True",
   "FFlagSettingsMenuUseHardwareSafeArea": "True",
-  "DFIntBatchThumbnailRetrySlowWaitMs_Rollout": "2500;60;2023-08-30T18:54:56",
   "FFlagAppUpdateAdapterWithChannels": "True",
   "DFFlagFixGPUInfoInGamePerfMonitor": "True",
   "DFFlagTextBoxServiceCheckTextFits": "True",
@@ -7294,6 +7293,8 @@
   "FFlagIsInputMainPressRemoveKeyboardGamepadInput": "True",
   "FFlagAinErrorForTextureOnAtt_Rollout": "True;60;2023-08-30T19:58:38",
   "DFFlagSimSolverVisualizeMostUpToDateConvergence_Rollout": "True;60;2023-08-30T19:58:45",
+  "FFlagSocialTabReplaceSearchExperimentEnabled_v3": "True",
+  "DFIntBatchThumbnailRetrySlowWaitMs": "2500",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7559,8 +7560,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "cdeef027a93c7327ea46982b44b30bee34cb8853",
-  "DFStringFlagRepoGitHashDynamicString": "cdeef027a93c7327ea46982b44b30bee34cb8853",
-  "FStringFlipTimeStampFastString": "2023-08-30T19:59:26.536Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T19:59:26.536Z"
+  "FStringFlagRepoGitHashFastString": "6e22ed35f121229e6404af20252298a6279148ac",
+  "DFStringFlagRepoGitHashDynamicString": "6e22ed35f121229e6404af20252298a6279148ac",
+  "FStringFlipTimeStampFastString": "2023-08-30T20:01:34.982Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T20:01:34.982Z"
 }
