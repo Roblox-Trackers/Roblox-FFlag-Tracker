@@ -7308,6 +7308,7 @@
   "DFFlagSimSolverVisualizeMostUpToDateConvergence": "True",
   "FStringIxpNewLayersForRegistration_Rollout": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView,PlayerApp.PhoneVerification.iOS,AvatarExperience.CameraButtonExposure;60;2023-08-30T22:31:50",
   "DFFlagReportLuauCodegenFailureWarnings": "True",
+  "FFlagVideoFrameFixTextureDestroyedWrongContext_Rollout": "True;60;2023-08-30T22:45:23",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7501,8 +7502,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "4d3ac2b729b1d3431f9fcf70d05c31e5d21ea192",
-  "DFStringFlagRepoGitHashDynamicString": "4d3ac2b729b1d3431f9fcf70d05c31e5d21ea192",
-  "FStringFlipTimeStampFastString": "2023-08-30T22:36:40.282Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-30T22:36:40.282Z"
+  "FStringFlagRepoGitHashFastString": "8032648a77a51405d5179baa5de567cabb9cdd5a",
+  "DFStringFlagRepoGitHashDynamicString": "8032648a77a51405d5179baa5de567cabb9cdd5a",
+  "FStringFlipTimeStampFastString": "2023-08-30T22:45:59.977Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-30T22:45:59.977Z"
 }
