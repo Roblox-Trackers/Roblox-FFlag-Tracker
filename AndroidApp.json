@@ -7323,7 +7323,6 @@
   "DFFlagInvalidBary2DCoordinates": "True",
   "DFFlagInvalidNearestTriangle": "True",
   "DFFlagOptimizeExpress3_Rollout": "True;60;2023-08-31T18:19:41",
-  "FFlagScriptRunCapsMod_Rollout": "True;30;2023-08-31T18:20:24",
   "DFFlagDataStoreEnableOptionalCacheRead": "True",
   "FFlagRoactChatFromSentWebNilCheck": "True",
   "FFlagTerrainEditorVoxelCenterFix": "True",
@@ -7336,6 +7335,7 @@
   "FFlagUserProfileItemInspectionFix": "True",
   "FFlagFixFindBindingAtFunctionName": "True",
   "FFlagInstanceDiffUseContextFilter": "True",
+  "FFlagScriptRunCapsMod": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7715,8 +7715,8 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
-  "FStringFlagRepoGitHashFastString": "b13b301a25bfb8d10ca58c036a2e2024cd5b8751",
-  "DFStringFlagRepoGitHashDynamicString": "b13b301a25bfb8d10ca58c036a2e2024cd5b8751",
-  "FStringFlipTimeStampFastString": "2023-08-31T18:46:47.541Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:46:47.541Z"
+  "FStringFlagRepoGitHashFastString": "7df0a19530ec56f2ee9b8e0b902dd0fa7fefddfe",
+  "DFStringFlagRepoGitHashDynamicString": "7df0a19530ec56f2ee9b8e0b902dd0fa7fefddfe",
+  "FStringFlipTimeStampFastString": "2023-08-31T18:57:00.928Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:57:00.928Z"
 }
