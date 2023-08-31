@@ -7281,7 +7281,6 @@
   "FFlagUserVRFollowCamera2": "False",
   "FFlagFastPhysicsSolverOptimization": "True",
   "DFFlagSignalFixLock": "True",
-  "FFlagSettingsMenuUseHardwareSafeArea": "True",
   "FFlagAppUpdateAdapterWithChannels": "True",
   "DFFlagFixGPUInfoInGamePerfMonitor": "True",
   "DFFlagTextBoxServiceCheckTextFits": "True",
@@ -7312,10 +7311,10 @@
   "FFlagVideoFrameFixTextureDestroyedWrongContext": "True",
   "FFlagSetScriptDocViewerFocusProxyToEditor": "True",
   "FFlagBootcampCLI74575": "True",
-  "FFlagTextureAtlasPromoteDebugName2_Rollout": "True;60;2023-08-31T16:01:50",
   "DFFlagServerShutdownNotify_Rollout": "True;60;2023-08-31T16:30:15",
   "FStringLuauNativeCodegenBetaFeatureUrl": "https://devforum.roblox.com/t/luau-native-code-generation-preview-studio-beta/2572587",
   "DFIntVideoMetricsClientHundredthsPercent": "100",
+  "FFlagTextureAtlasPromoteDebugName2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7581,8 +7580,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "cd1c1fc206cb343005655ba19ef7f5c11a325648",
-  "DFStringFlagRepoGitHashDynamicString": "cd1c1fc206cb343005655ba19ef7f5c11a325648",
-  "FStringFlipTimeStampFastString": "2023-08-31T16:36:10.106Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-31T16:36:10.106Z"
+  "FStringFlagRepoGitHashFastString": "0ec19e0f6972389e02c01dfae248a5195274d632",
+  "DFStringFlagRepoGitHashDynamicString": "0ec19e0f6972389e02c01dfae248a5195274d632",
+  "FStringFlipTimeStampFastString": "2023-08-31T17:07:15.135Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-31T17:07:15.135Z"
 }
