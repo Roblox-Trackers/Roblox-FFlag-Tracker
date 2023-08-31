@@ -7349,9 +7349,7 @@
   "DFFlagRotateFSSKeyCLI80917": "True",
   "DFFlagTopRepContainerTotalBytes": "True",
   "FFlagDisconnectReasonPerConnection": "True",
-  "FFlagScriptImpersonatorForDebuggerWatch_Rollout": "True;60;2023-08-31T22:31:13",
   "DFFlagContainerTotalsTopLevelStat": "True",
-  "FFlagAUMAnimationWeakCheck_Rollout": "True;60;2023-08-31T22:32:37",
   "FFlagEnablePerformanceControlStreamingDistance2_Rollout": "True;60;2023-08-31T22:46:28",
   "RemoveProcessDeathFixInferredCrashTeardown": "True",
   "DFFlagCategorizeDeadConnections_Rollout": "True;60;2023-08-31T23:01:51",
@@ -7359,6 +7357,8 @@
   "DFFlagFixComputedPrimaryPart_Rollout": "True;60;2023-08-31T23:14:35",
   "DFIntSendVerFSS": "2",
   "FFlagExplorerFixLineEditTheme": "True",
+  "FFlagScriptImpersonatorForDebuggerWatch": "True",
+  "FFlagAUMAnimationWeakCheck": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7553,8 +7553,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
-  "FStringFlagRepoGitHashFastString": "b0fabd279097010889233d7ea3bac56d4dbbe548",
-  "DFStringFlagRepoGitHashDynamicString": "b0fabd279097010889233d7ea3bac56d4dbbe548",
-  "FStringFlipTimeStampFastString": "2023-08-31T23:32:43.913Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-31T23:32:43.913Z"
+  "FStringFlagRepoGitHashFastString": "736880d4d7cbf79982fec29a37419d5bd652d102",
+  "DFStringFlagRepoGitHashDynamicString": "736880d4d7cbf79982fec29a37419d5bd652d102",
+  "FStringFlipTimeStampFastString": "2023-08-31T23:42:09.121Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-31T23:42:09.121Z"
 }
