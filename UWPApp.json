@@ -7350,7 +7350,6 @@
   "DFFlagTopRepContainerTotalBytes": "True",
   "FFlagDisconnectReasonPerConnection": "True",
   "DFFlagContainerTotalsTopLevelStat": "True",
-  "FFlagEnablePerformanceControlStreamingDistance2_Rollout": "True;60;2023-08-31T22:46:28",
   "RemoveProcessDeathFixInferredCrashTeardown": "True",
   "DFFlagCategorizeDeadConnections_Rollout": "True;60;2023-08-31T23:01:51",
   "DFFlagStreamingJoinReportFix": "True",
@@ -7360,6 +7359,7 @@
   "FFlagScriptImpersonatorForDebuggerWatch": "True",
   "FFlagAUMAnimationWeakCheck": "True",
   "FFlagLSPSymbolRename_Rollout": "True;30;2023-08-31T23:45:35",
+  "FFlagEnablePerformanceControlStreamingDistance2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7559,8 +7559,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "DFFlagHttpCacheTrackAllAssets": "True",
-  "FStringFlagRepoGitHashFastString": "633308a9e2f938b79436bcccb325ce8561a6fef7",
-  "DFStringFlagRepoGitHashDynamicString": "633308a9e2f938b79436bcccb325ce8561a6fef7",
-  "FStringFlipTimeStampFastString": "2023-08-31T23:48:48.812Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-31T23:48:48.812Z"
+  "FStringFlagRepoGitHashFastString": "4fefd66dae8134e040d20ae24dadfebe2a86e968",
+  "DFStringFlagRepoGitHashDynamicString": "4fefd66dae8134e040d20ae24dadfebe2a86e968",
+  "FStringFlipTimeStampFastString": "2023-08-31T23:56:23.269Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-31T23:56:23.269Z"
 }
