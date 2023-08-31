@@ -7346,7 +7346,6 @@
   "FFlagEnableUnifiedChatUpsell4": "True",
   "FFlagEnableUnifiedChatUpsellIXP": "True",
   "FFlagPlayerGuiSafeConnection": "True",
-  "DFFlagContainerTotalsTopLevelStat_Rollout": "True;60;2023-08-31T21:24:23",
   "DFFlagRotateFSSKeyCLI80917": "True",
   "DFFlagTopRepContainerTotalBytes": "True",
   "FFlagDisconnectReasonPerConnection": "True",
@@ -7354,6 +7353,8 @@
   "DFIntSendVerFSS_Rollout": "2;60;2023-08-31T22:17:38",
   "FFlagExplorerFixLineEditTheme_Rollout": "True;60;2023-08-31T22:27:00",
   "FFlagScriptImpersonatorForDebuggerWatch_Rollout": "True;60;2023-08-31T22:31:13",
+  "DFFlagContainerTotalsTopLevelStat": "True",
+  "FFlagAUMAnimationWeakCheck_Rollout": "True;60;2023-08-31T22:32:37",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7695,8 +7696,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-  "FStringFlagRepoGitHashFastString": "f8374349b43d80a762d7761566de2d6a5cbb1f5f",
-  "DFStringFlagRepoGitHashDynamicString": "f8374349b43d80a762d7761566de2d6a5cbb1f5f",
-  "FStringFlipTimeStampFastString": "2023-08-31T22:32:14.140Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-31T22:32:14.140Z"
+  "FStringFlagRepoGitHashFastString": "de042fc1fef08c81ae3fb5e2350ff6575176279d",
+  "DFStringFlagRepoGitHashDynamicString": "de042fc1fef08c81ae3fb5e2350ff6575176279d",
+  "FStringFlipTimeStampFastString": "2023-08-31T22:33:44.679Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-31T22:33:44.679Z"
 }
