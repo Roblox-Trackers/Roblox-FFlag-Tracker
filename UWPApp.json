@@ -7320,7 +7320,6 @@
   "FFlagStudioRemoveAudioTurnOffAction": "True",
   "DFFlagServerShutdownNotify": "True",
   "FFlagToolboxGeneralizeSubviewBackButtons2": "True",
-  "DFFlagDataStoreEnableOptionalCacheRead_Rollout": "True;30;2023-08-31T17:48:01",
   "FFlagPluginPermissionsUseCursor": "True",
   "DFFlagMemoryStoreEnableHashMapFeature_PlaceFilter": "True;14378882520;14556842161;6900974696",
   "FFlagInstanceDiffUseContextFilter_Rollout": "True;30;2023-08-31T18:09:52",
@@ -7329,6 +7328,9 @@
   "DFFlagInvalidBary2DCoordinates": "True",
   "DFFlagInvalidNearestTriangle": "True",
   "DFFlagOptimizeExpress3_Rollout": "True;60;2023-08-31T18:19:41",
+  "FFlagScriptRunCapsMod_Rollout": "True;30;2023-08-31T18:20:24",
+  "DFFlagDataStoreEnableOptionalCacheRead": "True",
+  "FFlagRoactChatFromSentWebNilCheck": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7527,8 +7529,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "10b7c1d70b390008c9ef059368dfa423b472bf16",
-  "DFStringFlagRepoGitHashDynamicString": "10b7c1d70b390008c9ef059368dfa423b472bf16",
-  "FStringFlipTimeStampFastString": "2023-08-31T18:20:09.199Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:20:09.199Z"
+  "FStringFlagRepoGitHashFastString": "4e0f0d7e680274b53f08918e8966af7a8ce5badb",
+  "DFStringFlagRepoGitHashDynamicString": "4e0f0d7e680274b53f08918e8966af7a8ce5badb",
+  "FStringFlipTimeStampFastString": "2023-08-31T18:22:03.370Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:22:03.370Z"
 }
