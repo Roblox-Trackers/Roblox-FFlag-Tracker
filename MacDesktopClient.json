@@ -7333,6 +7333,8 @@
   "FFlagExperienceChatSiblingZIndexBehavior": "False",
   "FFlagSmoothClusterVTTextureRafactor": "True",
   "FFlagScriptRunCaps2": "True",
+  "FFlagRemapR6AnimationAllowFace_Rollout": "True;60;2023-08-31T18:40:46",
+  "FFlagAttachPlaceIdToJoinInfo": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7595,8 +7597,9 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedMacClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "1db05751a4bb5b0459882f818a02e7d34c52b029",
-  "DFStringFlagRepoGitHashDynamicString": "1db05751a4bb5b0459882f818a02e7d34c52b029",
-  "FStringFlipTimeStampFastString": "2023-08-31T18:31:53.977Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:31:53.977Z"
+  "FFlagAddFontAtlasMipmaps_Rollout": "True;60;2023-08-31T18:41:01",
+  "FStringFlagRepoGitHashFastString": "edc9df31ae30123ce205e971192cb213a748efad",
+  "DFStringFlagRepoGitHashDynamicString": "edc9df31ae30123ce205e971192cb213a748efad",
+  "FStringFlipTimeStampFastString": "2023-08-31T18:42:01.635Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:42:01.635Z"
 }
