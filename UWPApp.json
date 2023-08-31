@@ -7313,8 +7313,6 @@
   "FStringLuauNativeCodegenBetaFeatureUrl": "https://devforum.roblox.com/t/luau-native-code-generation-preview-studio-beta/2572587",
   "DFIntVideoMetricsClientHundredthsPercent": "100",
   "FFlagTextureAtlasPromoteDebugName2": "True",
-  "FFlagSmoothClusterVTTextureRafactor_Rollout": "True;60;2023-08-31T17:23:01",
-  "FFlagScriptRunCaps2_Rollout": "True;60;2023-08-31T17:25:02",
   "FFlagStudioFixWhatsNewIconThemeChange": "True",
   "DFFlagRakNetDisconnectNotification_Rollout": "True;60;2023-08-31T17:35:11",
   "FFlagStudioRemoveAudioTurnOffAction": "True",
@@ -7333,6 +7331,8 @@
   "FFlagRoactChatFromSentWebNilCheck": "True",
   "FFlagTerrainEditorVoxelCenterFix": "True",
   "FFlagExperienceChatSiblingZIndexBehavior": "True",
+  "FFlagSmoothClusterVTTextureRafactor": "True",
+  "FFlagScriptRunCaps2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7531,8 +7531,8 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "FStringFlagRepoGitHashFastString": "a4a87c96d83ea2c92644031c5c7dbc00a67e6fc8",
-  "DFStringFlagRepoGitHashDynamicString": "a4a87c96d83ea2c92644031c5c7dbc00a67e6fc8",
-  "FStringFlipTimeStampFastString": "2023-08-31T18:27:43.172Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:27:43.172Z"
+  "FStringFlagRepoGitHashFastString": "b4735a737b3185033e806124551ce4a3a26c942e",
+  "DFStringFlagRepoGitHashDynamicString": "b4735a737b3185033e806124551ce4a3a26c942e",
+  "FStringFlipTimeStampFastString": "2023-08-31T18:31:26.125Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:31:26.125Z"
 }
