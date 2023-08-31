@@ -7358,6 +7358,7 @@
   "RemoveProcessDeathFixInferredCrashTeardown": "True",
   "DFFlagCategorizeDeadConnections_Rollout": "True;60;2023-08-31T23:01:51",
   "DFFlagStreamingJoinReportFix": "True",
+  "DFFlagFixComputedPrimaryPart_Rollout": "True;60;2023-08-31T23:14:35",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7699,8 +7700,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-  "FStringFlagRepoGitHashFastString": "4507875c6107db354ed77c05ab8da8270d9d18af",
-  "DFStringFlagRepoGitHashDynamicString": "4507875c6107db354ed77c05ab8da8270d9d18af",
-  "FStringFlipTimeStampFastString": "2023-08-31T23:07:28.624Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-31T23:07:28.624Z"
+  "FStringFlagRepoGitHashFastString": "87ac83732ea18ccadc7b52f208296110f3770ad2",
+  "DFStringFlagRepoGitHashDynamicString": "87ac83732ea18ccadc7b52f208296110f3770ad2",
+  "FStringFlipTimeStampFastString": "2023-08-31T23:15:30.793Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-31T23:15:30.793Z"
 }
