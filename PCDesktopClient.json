@@ -7314,7 +7314,6 @@
   "DFIntVideoMetricsClientHundredthsPercent": "100",
   "FFlagTextureAtlasPromoteDebugName2": "True",
   "FFlagStudioFixWhatsNewIconThemeChange": "True",
-  "DFFlagRakNetDisconnectNotification_Rollout": "True;60;2023-08-31T17:35:11",
   "FFlagStudioRemoveAudioTurnOffAction": "True",
   "DFFlagServerShutdownNotify": "True",
   "FFlagToolboxGeneralizeSubviewBackButtons2": "True",
@@ -7334,6 +7333,8 @@
   "FFlagSmoothClusterVTTextureRafactor": "True",
   "FFlagScriptRunCaps2": "True",
   "FFlagRemapR6AnimationAllowFace_Rollout": "True;60;2023-08-31T18:40:46",
+  "FFlagAttachPlaceIdToJoinInfo": "True",
+  "DFFlagRakNetDisconnectNotification": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7600,8 +7601,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps_Rollout": "True;60;2023-08-31T18:41:01",
-  "FStringFlagRepoGitHashFastString": "480c026588febea1719625d2a657ff14e6837cff",
-  "DFStringFlagRepoGitHashDynamicString": "480c026588febea1719625d2a657ff14e6837cff",
-  "FStringFlipTimeStampFastString": "2023-08-31T18:41:37.516Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:41:37.516Z"
+  "FStringFlagRepoGitHashFastString": "30ca01633e13e690996e0e131c45da091f804dd0",
+  "DFStringFlagRepoGitHashDynamicString": "30ca01633e13e690996e0e131c45da091f804dd0",
+  "FStringFlipTimeStampFastString": "2023-08-31T18:43:00.567Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:43:00.567Z"
 }
