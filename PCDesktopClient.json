@@ -7281,7 +7281,6 @@
   "FFlagUserVRFollowCamera2": "False",
   "FFlagFastPhysicsSolverOptimization": "True",
   "DFFlagSignalFixLock": "True",
-  "FFlagAppUpdateAdapterWithChannels": "True",
   "DFFlagFixGPUInfoInGamePerfMonitor": "True",
   "DFFlagTextBoxServiceCheckTextFits": "True",
   "FFlagFaceEditorContextMenuFix": "True",
@@ -7327,6 +7326,8 @@
   "FFlagInstanceDiffUseContextFilter_Rollout": "True;30;2023-08-31T18:09:52",
   "FFlagSmoothClusterShaderRefactor4": "True",
   "FFlagFixFindBindingAtFunctionName_Rollout": "True;30;2023-08-31T18:11:13",
+  "DFFlagInvalidBary2DCoordinates": "True",
+  "DFFlagInvalidNearestTriangle": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7592,8 +7593,8 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "c55ebbce678c5d4b57c1775cc5296d3adab54a0c",
-  "DFStringFlagRepoGitHashDynamicString": "c55ebbce678c5d4b57c1775cc5296d3adab54a0c",
-  "FStringFlipTimeStampFastString": "2023-08-31T18:12:05.279Z",
-  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:12:05.279Z"
+  "FStringFlagRepoGitHashFastString": "a7effb89c6caddaf86ef817ad698d10cf985df60",
+  "DFStringFlagRepoGitHashDynamicString": "a7effb89c6caddaf86ef817ad698d10cf985df60",
+  "FStringFlipTimeStampFastString": "2023-08-31T18:18:54.015Z",
+  "DFStringFlipTimeStampDynamicString": "2023-08-31T18:18:54.015Z"
 }
