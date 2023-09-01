@@ -7358,6 +7358,8 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
   "DFFlagCategorizeDeadConnections": "True",
   "DFFlagFixComputedPrimaryPart": "True",
+  "DFFlagEnableRobloxTelemetryV2FlagEnrollmentTags_Rollout": "True;60;2023-09-01T16:12:26",
+  "DFFlagMicroprofilerFixInvalidLabelDisplayed_Rollout": "True;60;2023-09-01T16:12:35",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7699,8 +7701,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-  "FStringFlagRepoGitHashFastString": "b6706b58358e69c0db30862851a353d0b2399234",
-  "DFStringFlagRepoGitHashDynamicString": "b6706b58358e69c0db30862851a353d0b2399234",
-  "FStringFlipTimeStampFastString": "2023-09-01T16:12:16.979Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-01T16:12:16.979Z"
+  "FStringFlagRepoGitHashFastString": "2db2ef9134e00f12ee1a4af3484e792f8ff4c39e",
+  "DFStringFlagRepoGitHashDynamicString": "2db2ef9134e00f12ee1a4af3484e792f8ff4c39e",
+  "FStringFlipTimeStampFastString": "2023-09-01T16:13:22.577Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-01T16:13:22.577Z"
 }
