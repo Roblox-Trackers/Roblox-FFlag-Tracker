@@ -7358,10 +7358,10 @@
   "FFlagEnablePerformanceControlStreamingDistance2": "True",
   "DFFlagCategorizeDeadConnections": "True",
   "DFFlagFixComputedPrimaryPart": "True",
-  "DFFlagEnableRobloxTelemetryV2FlagEnrollmentTags_Rollout": "True;60;2023-09-01T16:12:26",
-  "DFFlagMicroprofilerFixInvalidLabelDisplayed_Rollout": "True;60;2023-09-01T16:12:35",
   "FFlagStudioDebuggerShowExceptionPopup_Rollout": "True;60;2023-09-01T16:49:46",
   "EnableQrCodeScanner2": "True",
+  "DFFlagMicroprofilerFixInvalidLabelDisplayed": "True",
+  "DFFlagEnableRobloxTelemetryV2FlagEnrollmentTags": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7626,8 +7626,8 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True",
   "DFFlagHttpCacheTrackAllAssets": "True",
-  "FStringFlagRepoGitHashFastString": "3ebe5f537950a5e23d984ce1de053a165b28de01",
-  "DFStringFlagRepoGitHashDynamicString": "3ebe5f537950a5e23d984ce1de053a165b28de01",
-  "FStringFlipTimeStampFastString": "2023-09-01T17:18:32.300Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-01T17:18:32.300Z"
+  "FStringFlagRepoGitHashFastString": "ac17268b04a7c73141826356b372cbd076f0770a",
+  "DFStringFlagRepoGitHashDynamicString": "ac17268b04a7c73141826356b372cbd076f0770a",
+  "FStringFlipTimeStampFastString": "2023-09-01T17:22:23.720Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-01T17:22:23.720Z"
 }
