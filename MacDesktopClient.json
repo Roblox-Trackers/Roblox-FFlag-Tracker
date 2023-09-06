@@ -7398,6 +7398,7 @@
   "FFlagUseCoreGuiServiceInsteadOfScreenGui": "True",
   "DFFlagAddPlaySessionIdToSimConstraintTelemetryEvent": "True",
   "FFlagSessionTrackingResetMoreFields": "True",
+  "FFlagSimLinearVelocityVectorForceLimit_Rollout": "True;60;2023-09-06T18:22:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7662,8 +7663,8 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True",
   "DFFlagHttpCacheTrackAllAssets": "True",
-  "FStringFlagRepoGitHashFastString": "bd2cbf821e539da872897a35ed0d799417a5050d",
-  "DFStringFlagRepoGitHashDynamicString": "bd2cbf821e539da872897a35ed0d799417a5050d",
-  "FStringFlipTimeStampFastString": "2023-09-06T17:55:56.327Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-06T17:55:56.327Z"
+  "FStringFlagRepoGitHashFastString": "685a278dc2923547590a95a7deaeed024b2b54a3",
+  "DFStringFlagRepoGitHashDynamicString": "685a278dc2923547590a95a7deaeed024b2b54a3",
+  "FStringFlipTimeStampFastString": "2023-09-06T18:23:50.311Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-06T18:23:50.311Z"
 }
