@@ -6938,8 +6938,7 @@
   "DFFlagEngineStabilityFixOutOfBounds": "True",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFFlagEnableMapTypeFieldSupportInTelemetryEvent": "True",
-  "DFFlagDisableControllerManagerAsChild2": "False",
-  "DFFlagDisableControllerManagerAsChild2_PlaceFilter": "True;14484773887",
+  "DFFlagDisableControllerManagerAsChild2": "True",
   "FFlagEnableEvaluateStateMachine2": "False",
   "FFlagEnableEvaluateStateMachine2_PlaceFilter": "True;14484773887",
   "FFlagStudioVREnabledSetting": "True",
@@ -7423,6 +7422,7 @@
   "FFlagStudioHonorFloatingPluginRequestedSizeUponFirstShowing": "True",
   "DFFlagEnableBetterConsoleCheckForChat": "True",
   "FFlagAssetConfigCopyHandleCFrame": "True",
+  "FFlagCreateCameraControllerForPlayServerDataModel": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7622,8 +7622,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "DFFlagHttpCacheTrackAllAssets": "True",
-  "FStringFlagRepoGitHashFastString": "c6285414dcc14464ae2f652fcc339bb9cf0c2308",
-  "DFStringFlagRepoGitHashDynamicString": "c6285414dcc14464ae2f652fcc339bb9cf0c2308",
-  "FStringFlipTimeStampFastString": "2023-09-07T16:59:00.824Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-07T16:59:00.824Z"
+  "FStringFlagRepoGitHashFastString": "08fc1f86f81798e504df6f6968b1b6addc6eac04",
+  "DFStringFlagRepoGitHashDynamicString": "08fc1f86f81798e504df6f6968b1b6addc6eac04",
+  "FStringFlipTimeStampFastString": "2023-09-07T17:11:40.335Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-07T17:11:40.335Z"
 }
