@@ -4980,7 +4980,7 @@
   "FLogExperienceAuthService_PlaceFilter": "6;12334418042;12992503026",
   "FFlagFixPromptsNotEndingWhileMenuOpen": "True",
   "FFlagFixRichTextIndentation2": "True",
-  "FFlagImport3DGltfSupportBetaFeature": "True",
+  "FFlagImport3DGltfSupportBetaFeature": "False",
   "FFlagVRBottomBarHasPriority2": "True",
   "DFFlagFixConstraintBaseReinitialization": "True",
   "DFFlagRakSleepMutexDestroy": "True",
@@ -7418,6 +7418,7 @@
   "FFlagFixSingleSurfaceAndDualSurfaceTunableReset2": "True",
   "FFlagPlayerSetCharacterAllowActors": "False",
   "DFFlagDisableControllerManagerAsChild2_PlaceFilter": "True;14484773887",
+  "FFlagAssetImportGltfSupport": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7756,8 +7757,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-  "FStringFlagRepoGitHashFastString": "cb0ad9cba49f4186dbf42dfc34a0666b2aac294e",
-  "DFStringFlagRepoGitHashDynamicString": "cb0ad9cba49f4186dbf42dfc34a0666b2aac294e",
-  "FStringFlipTimeStampFastString": "2023-09-07T19:01:58.895Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-07T19:01:58.895Z"
+  "FStringFlagRepoGitHashFastString": "7aaa00808584811ae858420e47c7bba9b89250de",
+  "DFStringFlagRepoGitHashDynamicString": "7aaa00808584811ae858420e47c7bba9b89250de",
+  "FStringFlipTimeStampFastString": "2023-09-07T19:37:45.102Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-07T19:37:45.102Z"
 }
