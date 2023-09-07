@@ -7420,7 +7420,6 @@
   "FFlagAssetImportGltfSupport": "True",
   "FFlagVideoAssetPrivacyForPreview_PlaceFilter": "False;14709796136",
   "FFlagDisableNewAssetFormatNames": "True",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "DFFlagGeometryStringReduceCopies_Rollout": "True;60;2023-09-07T22:30:55",
   "DFFlagStringReduceCopies_Rollout": "True;60;2023-09-07T22:31:05",
   "FFlagFilterSettingChangedForScriptHighlightFormats": "True",
@@ -7432,6 +7431,7 @@
   "FFlagCreateCameraControllerForPlayServerDataModel": "True",
   "DFFlagEnableDebugDumpRefs_Rollout": "True;60;2023-09-07T22:55:11",
   "FFlagDataModelAnalysisServiceMigration_Rollout": "True;60;2023-09-07T22:57:54",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -7695,8 +7695,8 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True",
   "DFFlagHttpCacheTrackAllAssets": "True",
-  "FStringFlagRepoGitHashFastString": "83844dd66bec3db5f26620e9d5823d7fe102ecf5",
-  "DFStringFlagRepoGitHashDynamicString": "83844dd66bec3db5f26620e9d5823d7fe102ecf5",
-  "FStringFlipTimeStampFastString": "2023-09-07T22:58:30.680Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-07T22:58:30.680Z"
+  "FStringFlagRepoGitHashFastString": "e08b8b8b2547d95cd9f182791bc8290ae226ab75",
+  "DFStringFlagRepoGitHashDynamicString": "e08b8b8b2547d95cd9f182791bc8290ae226ab75",
+  "FStringFlipTimeStampFastString": "2023-09-07T23:02:03.451Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-07T23:02:03.451Z"
 }

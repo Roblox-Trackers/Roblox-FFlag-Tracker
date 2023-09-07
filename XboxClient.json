@@ -4818,7 +4818,7 @@
   "FFlagFindReplaceUseScriptEditorSettings": "True",
   "DFFlagPerformanceControlFixIssueWithPlannerLookupCreatingEntry": "True",
   "DFFlagPerformanceControlImprovedSessionTrackingAveraging": "True",
-  "FFlagEnableHarmonyV2API2": "False",
+  "FFlagEnableHarmonyV2API2": "True",
   "FFlagIntegrityCheckedProcessorPerfControlEffects2": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControlV2Api2": "False",
   "FFlagPerformanceControlAppCurves2": "True",
@@ -7420,7 +7420,6 @@
   "FFlagAssetImportGltfSupport": "True",
   "FFlagVideoAssetPrivacyForPreview_PlaceFilter": "False;14709796136",
   "FFlagDisableNewAssetFormatNames": "True",
-  "FFlagEnableHarmonyV2API2_Rollout": "True;30;2023-09-07T22:24:03",
   "DFFlagGeometryStringReduceCopies_Rollout": "True;60;2023-09-07T22:30:55",
   "DFFlagStringReduceCopies_Rollout": "True;60;2023-09-07T22:31:05",
   "FFlagFilterSettingChangedForScriptHighlightFormats": "True",
@@ -7627,8 +7626,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "83844dd66bec3db5f26620e9d5823d7fe102ecf5",
-  "DFStringFlagRepoGitHashDynamicString": "83844dd66bec3db5f26620e9d5823d7fe102ecf5",
-  "FStringFlipTimeStampFastString": "2023-09-07T22:58:30.680Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-07T22:58:30.680Z"
+  "FStringFlagRepoGitHashFastString": "e08b8b8b2547d95cd9f182791bc8290ae226ab75",
+  "DFStringFlagRepoGitHashDynamicString": "e08b8b8b2547d95cd9f182791bc8290ae226ab75",
+  "FStringFlipTimeStampFastString": "2023-09-07T23:02:03.451Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-07T23:02:03.451Z"
 }
