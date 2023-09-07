@@ -6831,7 +6831,7 @@
   "FFlagApplyScaleForCanvasSize": "True",
   "DFFlagSendUpdatedGameCode": "True",
   "DFIntTimestepArbiterThresholdCFLThou": "300",
-  "FFlagCLI81941": "False",
+  "FFlagCLI81941": "True",
   "FFlagCLI81941_PlaceFilter": "True;1818",
   "DFFlagVoiceChatSignalingPriorityEnabled": "True",
   "FFlagGameTranslatorCheckConnectionBeforeDisconnect": "True",
@@ -7417,7 +7417,6 @@
   "FFlagCLI83623": "True",
   "FFlagFixSingleSurfaceAndDualSurfaceTunableReset2": "True",
   "FFlagPlayerSetCharacterAllowActors": "False",
-  "FFlagCLI81941_Rollout": "True;30;2023-09-07T16:35:20",
   "AllowVideoPreRoll": "True",
   "FFlagStudioHonorFloatingPluginRequestedSizeUponFirstShowing": "True",
   "DFFlagEnableBetterConsoleCheckForChat": "True",
@@ -7761,8 +7760,8 @@
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagFixSessionTrackingSendSuccess2_Rollout": "True;60;2023-09-07T16:47:50",
-  "FStringFlagRepoGitHashFastString": "08fc1f86f81798e504df6f6968b1b6addc6eac04",
-  "DFStringFlagRepoGitHashDynamicString": "08fc1f86f81798e504df6f6968b1b6addc6eac04",
-  "FStringFlipTimeStampFastString": "2023-09-07T17:11:40.335Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-07T17:11:40.335Z"
+  "FStringFlagRepoGitHashFastString": "d3e03e2225d5b53255cec247f24e75572ed58f22",
+  "DFStringFlagRepoGitHashDynamicString": "d3e03e2225d5b53255cec247f24e75572ed58f22",
+  "FStringFlipTimeStampFastString": "2023-09-07T17:12:04.086Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-07T17:12:04.086Z"
 }
