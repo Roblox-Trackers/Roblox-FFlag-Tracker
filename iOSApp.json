@@ -7426,6 +7426,8 @@
   "FFlagFilterSettingChangedForScriptHighlightFormats": "True",
   "FFlagScriptProfilerNativeFrames": "True",
   "FFlagScriptProfilerResetTicksOnSetCategory_Rollout": "True;60;2023-09-07T22:41:28",
+  "FFlagNewCameraControls_SpeedScrollToggle": "True",
+  "DFIntDataStoreErrorThrottleHundredthsPercentage_Rollout": "25;30;2023-09-07T22:44:31",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -7763,8 +7765,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-  "FStringFlagRepoGitHashFastString": "5a047d331fa9c85a5bb15f7cb23c42e2ef5efb72",
-  "DFStringFlagRepoGitHashDynamicString": "5a047d331fa9c85a5bb15f7cb23c42e2ef5efb72",
-  "FStringFlipTimeStampFastString": "2023-09-07T22:42:22.709Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-07T22:42:22.709Z"
+  "FStringFlagRepoGitHashFastString": "bbdaa3d41ad025d9c659aad5f0daff85d85d4e94",
+  "DFStringFlagRepoGitHashDynamicString": "bbdaa3d41ad025d9c659aad5f0daff85d85d4e94",
+  "FStringFlipTimeStampFastString": "2023-09-07T22:45:24.548Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-07T22:45:24.548Z"
 }
