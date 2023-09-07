@@ -7420,8 +7420,6 @@
   "FFlagAssetImportGltfSupport": "True",
   "FFlagVideoAssetPrivacyForPreview_PlaceFilter": "False;14709796136",
   "FFlagDisableNewAssetFormatNames": "True",
-  "DFFlagGeometryStringReduceCopies_Rollout": "True;60;2023-09-07T22:30:55",
-  "DFFlagStringReduceCopies_Rollout": "True;60;2023-09-07T22:31:05",
   "FFlagFilterSettingChangedForScriptHighlightFormats": "True",
   "FFlagScriptProfilerNativeFrames": "True",
   "FFlagScriptProfilerResetTicksOnSetCategory_Rollout": "True;60;2023-09-07T22:41:28",
@@ -7433,6 +7431,8 @@
   "FFlagRequestServerStats": "True",
   "FFlagEnableAssetPreviewCodeSummary": "True",
   "FFlagToolboxCodeUnderstandingSummary3": "True",
+  "DFFlagGeometryStringReduceCopies": "True",
+  "DFFlagStringReduceCopies": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7771,8 +7771,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-  "FStringFlagRepoGitHashFastString": "aa30308c6980395bce64cc88b947f6a34a95f12b",
-  "DFStringFlagRepoGitHashDynamicString": "aa30308c6980395bce64cc88b947f6a34a95f12b",
-  "FStringFlipTimeStampFastString": "2023-09-07T23:22:18.805Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-07T23:22:18.805Z"
+  "FStringFlagRepoGitHashFastString": "ce2fb2b193ae9c8be026e72f7bb1df53746b9c34",
+  "DFStringFlagRepoGitHashDynamicString": "ce2fb2b193ae9c8be026e72f7bb1df53746b9c34",
+  "FStringFlipTimeStampFastString": "2023-09-07T23:36:49.392Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-07T23:36:49.392Z"
 }
