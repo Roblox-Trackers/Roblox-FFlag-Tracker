@@ -7392,7 +7392,7 @@
   "FFlagUpdateSourceAsync": "True",
   "FFlagDelayedImmediateDisconnect": "True",
   "FFlagVoiceChatCheckAudioOutputFormat": "True",
-  "DFFlagDataModelControllerUsesEngineContext": "True",
+  "DFFlagDataModelControllerUsesEngineContext": "False",
   "FFlagUseCoreGuiServiceInsteadOfScreenGui": "True",
   "DFFlagAddPlaySessionIdToSimConstraintTelemetryEvent": "True",
   "FFlagFixBuyRobuxAvatarEditorVR": "True",
@@ -7418,7 +7418,6 @@
   "FFlagFixSingleSurfaceAndDualSurfaceTunableReset2": "True",
   "FFlagPlayerSetCharacterAllowActors": "False",
   "DFFlagDisableControllerManagerAsChild2_PlaceFilter": "True;14484773887",
-  "DFFlagDataModelControllerUsesEngineContext_Rollout": "False;60;2023-09-07T17:53:32",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7686,8 +7685,8 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagAddFontAtlasMipmaps": "True",
   "DFFlagHttpCacheTrackAllAssets": "True",
-  "FStringFlagRepoGitHashFastString": "791b0cc697ffdbeb70919804706b616568157176",
-  "DFStringFlagRepoGitHashDynamicString": "791b0cc697ffdbeb70919804706b616568157176",
-  "FStringFlipTimeStampFastString": "2023-09-07T17:59:45.381Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-07T17:59:45.381Z"
+  "FStringFlagRepoGitHashFastString": "cb0ad9cba49f4186dbf42dfc34a0666b2aac294e",
+  "DFStringFlagRepoGitHashDynamicString": "cb0ad9cba49f4186dbf42dfc34a0666b2aac294e",
+  "FStringFlipTimeStampFastString": "2023-09-07T19:01:58.895Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-07T19:01:58.895Z"
 }
