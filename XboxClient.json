@@ -6978,7 +6978,7 @@
   "FFlagDraggerSlightlyOffgridFix": "True",
   "FFlagEnableWindControlRBXTelemetry": "True",
   "FFlagEmoteUtilityFixMoodApplication2": "True",
-  "DFFlagEnableV2POCCounter": "True",
+  "DFFlagEnableV2POCCounter": "False",
   "FFlagEnableSelfViewToggleApi": "False",
   "FFlagEnableSelfViewToggleApi_PlaceFilter": "True;14474452831;14474457148;14474460040;12867047376;12867089300;14066075418;11402255591;12796376276;13989579574;11460402982;12500012844;14030887154;12444504875;12779831347;14033872415",
   "FFlagDraggerDuplicateDuringDrag": "True",
@@ -7423,7 +7423,6 @@
   "FFlagFilterSettingChangedForScriptHighlightFormats": "True",
   "FFlagScriptProfilerNativeFrames": "True",
   "FFlagNewCameraControls_SpeedScrollToggle": "True",
-  "DFFlagEnableV2POCCounter_Rollout": "False;60;2023-09-07T22:46:52",
   "FFlagCreateCameraControllerForPlayServerDataModel": "True",
   "DFFlagEnableDebugDumpRefs_Rollout": "True;60;2023-09-07T22:55:11",
   "FFlagDataModelAnalysisServiceMigration_Rollout": "True;60;2023-09-07T22:57:54",
@@ -7628,8 +7627,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
-  "FStringFlagRepoGitHashFastString": "bd0c3c6a04a9c8e88042ccc43d76e35eaf2e4432",
-  "DFStringFlagRepoGitHashDynamicString": "bd0c3c6a04a9c8e88042ccc43d76e35eaf2e4432",
-  "FStringFlipTimeStampFastString": "2023-09-07T23:47:04.158Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-07T23:47:04.158Z"
+  "FStringFlagRepoGitHashFastString": "819e6dbc9f5f0dd9720d8283650e8a03f4166b99",
+  "DFStringFlagRepoGitHashDynamicString": "819e6dbc9f5f0dd9720d8283650e8a03f4166b99",
+  "FStringFlipTimeStampFastString": "2023-09-07T23:53:20.156Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-07T23:53:20.156Z"
 }
