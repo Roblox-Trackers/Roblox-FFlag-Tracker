@@ -6693,7 +6693,7 @@
   "DFFlagFixControllerManagerWorldOnEnter": "True",
   "FFlagPropertyPopupTextEditFix3": "True",
   "DFFlagDeprecateInfoFetchForSubscription": "True",
-  "DFIntDataStoreErrorThrottleHundredthsPercentage": "50",
+  "DFIntDataStoreErrorThrottleHundredthsPercentage": "25",
   "DFFlagTrackPerfDataEnabledInSessionTracking": "True",
   "FFlagStudioDebuggerShowExceptionPopup": "True",
   "DFFlagSkipInstanceArrPush": "True",
@@ -7426,7 +7426,6 @@
   "FFlagScriptProfilerNativeFrames": "True",
   "FFlagScriptProfilerResetTicksOnSetCategory_Rollout": "True;60;2023-09-07T22:41:28",
   "FFlagNewCameraControls_SpeedScrollToggle": "True",
-  "DFIntDataStoreErrorThrottleHundredthsPercentage_Rollout": "25;30;2023-09-07T22:44:31",
   "DFFlagEnableV2POCCounter_Rollout": "False;60;2023-09-07T22:46:52",
   "FFlagCreateCameraControllerForPlayServerDataModel": "True",
   "DFFlagEnableDebugDumpRefs_Rollout": "True;60;2023-09-07T22:55:11",
@@ -7772,8 +7771,8 @@
   "DFFlagReportDisconnectToEventIngestAndPoints": "True",
   "FFlagLuaUseOTPInputTypeForPhoneUpsellV2": "True",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
-  "FStringFlagRepoGitHashFastString": "663b2995154357c20b595ccc6a78d2bf1b97b9c4",
-  "DFStringFlagRepoGitHashDynamicString": "663b2995154357c20b595ccc6a78d2bf1b97b9c4",
-  "FStringFlipTimeStampFastString": "2023-09-07T23:17:17.977Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-07T23:17:17.977Z"
+  "FStringFlagRepoGitHashFastString": "aa30308c6980395bce64cc88b947f6a34a95f12b",
+  "DFStringFlagRepoGitHashDynamicString": "aa30308c6980395bce64cc88b947f6a34a95f12b",
+  "FStringFlipTimeStampFastString": "2023-09-07T23:22:18.805Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-07T23:22:18.805Z"
 }
