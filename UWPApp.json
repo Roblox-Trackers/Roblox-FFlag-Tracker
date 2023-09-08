@@ -7424,7 +7424,6 @@
   "FFlagScriptProfilerNativeFrames": "True",
   "FFlagNewCameraControls_SpeedScrollToggle": "True",
   "FFlagCreateCameraControllerForPlayServerDataModel": "True",
-  "DFFlagEnableDebugDumpRefs_Rollout": "True;60;2023-09-07T22:55:11",
   "FFlagDataModelAnalysisServiceMigration_Rollout": "True;60;2023-09-07T22:57:54",
   "FFlagRequestServerStats": "True",
   "FFlagEnableAssetPreviewCodeSummary": "True",
@@ -7432,6 +7431,7 @@
   "DFFlagGeometryStringReduceCopies": "True",
   "DFFlagStringReduceCopies": "True",
   "FFlagScriptProfilerResetTicksOnSetCategory": "True",
+  "DFFlagEnableDebugDumpRefs": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7631,8 +7631,8 @@
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "DFFlagHttpCacheTrackAllAssets": "True",
-  "FStringFlagRepoGitHashFastString": "819e6dbc9f5f0dd9720d8283650e8a03f4166b99",
-  "DFStringFlagRepoGitHashDynamicString": "819e6dbc9f5f0dd9720d8283650e8a03f4166b99",
-  "FStringFlipTimeStampFastString": "2023-09-07T23:53:20.156Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-07T23:53:20.156Z"
+  "FStringFlagRepoGitHashFastString": "c0c480e8fa18d9746d965f15c073f2832c303d87",
+  "DFStringFlagRepoGitHashDynamicString": "c0c480e8fa18d9746d965f15c073f2832c303d87",
+  "FStringFlipTimeStampFastString": "2023-09-08T00:02:17.857Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-08T00:02:17.857Z"
 }
