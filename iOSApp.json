@@ -7059,8 +7059,6 @@
   "FFlagGamesSearchOmniFeedPaddingFix2": "True",
   "FFlagSearchResultsOmnificationIXP": "True",
   "FFlagToolboxAddRecentSearchesToAutoComplete3": "True",
-  "FFlagVoiceChatNewServerJoinFlow": "False",
-  "FFlagVoiceChatNewServerJoinFlow_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
   "DFFlagAssetServiceUGCValidation": "True",
   "DFFlagUseUGCValidationForPackage": "True",
   "FFlagAddUGCValidationForPackage2": "True",
@@ -7582,6 +7580,8 @@
   "DFFlagEnablePortingStreamingMetricsToPerformanceControl": "True",
   "FFlagEnableLoggingSoundTunableTelemetryToPerfControl": "True",
   "PreventDuplicateObserver": "True",
+  "FFlagVoiceChatNewServerJoinFlow2": "False",
+  "FFlagVoiceChatNewServerJoinFlow2_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7920,8 +7920,8 @@
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "5b870efa8ce484cefe9a11a5004e41c207560a4e",
-  "DFStringFlagRepoGitHashDynamicString": "5b870efa8ce484cefe9a11a5004e41c207560a4e",
-  "FStringFlipTimeStampFastString": "2023-09-13T22:07:41.800Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-13T22:07:41.800Z"
+  "FStringFlagRepoGitHashFastString": "fbad88c958057df8d851d168440effccd8a53aab",
+  "DFStringFlagRepoGitHashDynamicString": "fbad88c958057df8d851d168440effccd8a53aab",
+  "FStringFlipTimeStampFastString": "2023-09-13T22:10:51.190Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-13T22:10:51.190Z"
 }
