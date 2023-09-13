@@ -7570,8 +7570,6 @@
   "FFlagFixHandleReportedNotUsingMemProfStorage": "True",
   "FIntAvatarEditorTimeBetweenSaves": "16",
   "DFIntDataStoreMaxThrottledQueue_PlaceFilter": "0;8789237466",
-  "FFlagEnableLoggingSoundTunableTelemetryToPerfControl_Rollout": "True;60;2023-09-13T21:01:37",
-  "DFFlagEnablePortingStreamingMetricsToPerformanceControl_Rollout": "True;60;2023-09-13T21:01:46",
   "FFlagPropertiesWidgetAllowReadOnly": "True",
   "DFFlagProcessTokenInRakPeer_DataCenterFilter": "True;232",
   "FFlagPropertiesWidgetWithoutDM3": "True",
@@ -7581,6 +7579,8 @@
   "DFFlagSimEnableNewAlignTypeSerialization": "True",
   "FFlagChangeTopbarHeightCalculation": "True",
   "FFlagExplorerWidgetNonStaticInstanceSelectionHandler": "True",
+  "DFFlagEnablePortingStreamingMetricsToPerformanceControl": "True",
+  "FFlagEnableLoggingSoundTunableTelemetryToPerfControl": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7845,8 +7845,8 @@
   "FFlagAppUpdateAdapterWithChannels": "False",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "b8d179eb88ae4d3b9d9969bf976357eb27adf42a",
-  "DFStringFlagRepoGitHashDynamicString": "b8d179eb88ae4d3b9d9969bf976357eb27adf42a",
-  "FStringFlipTimeStampFastString": "2023-09-13T22:01:52.103Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-13T22:01:52.103Z"
+  "FStringFlagRepoGitHashFastString": "45b6831e26da405ad2b53864d2eac842a5ea1344",
+  "DFStringFlagRepoGitHashDynamicString": "45b6831e26da405ad2b53864d2eac842a5ea1344",
+  "FStringFlipTimeStampFastString": "2023-09-13T22:07:02.912Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-13T22:07:02.912Z"
 }
