@@ -7569,7 +7569,6 @@
   "DFFlagImmediateTTUpdate_DataCenterFilter": "True;232",
   "FFlagFixHandleReportedNotUsingMemProfStorage": "True",
   "FIntAvatarEditorTimeBetweenSaves": "16",
-  "FFlagExplorerWidgetNonStaticInstanceSelectionHandler_Rollout": "True;60;2023-09-13T20:55:04",
   "DFIntDataStoreMaxThrottledQueue_PlaceFilter": "0;8789237466",
   "FFlagEnableLoggingSoundTunableTelemetryToPerfControl_Rollout": "True;60;2023-09-13T21:01:37",
   "DFFlagEnablePortingStreamingMetricsToPerformanceControl_Rollout": "True;60;2023-09-13T21:01:46",
@@ -7580,6 +7579,8 @@
   "FFlagToolboxContextualRecommendations": "True",
   "DFFlagSimComputedIsUsingPrimaryAxis": "True",
   "DFFlagSimEnableNewAlignTypeSerialization": "True",
+  "FFlagChangeTopbarHeightCalculation": "True",
+  "FFlagExplorerWidgetNonStaticInstanceSelectionHandler": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7918,8 +7919,8 @@
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "9af9e3338fdf711587da22b2f09c8d083e5570df",
-  "DFStringFlagRepoGitHashDynamicString": "9af9e3338fdf711587da22b2f09c8d083e5570df",
-  "FStringFlipTimeStampFastString": "2023-09-13T21:56:46.097Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-13T21:56:46.097Z"
+  "FStringFlagRepoGitHashFastString": "b8d179eb88ae4d3b9d9969bf976357eb27adf42a",
+  "DFStringFlagRepoGitHashDynamicString": "b8d179eb88ae4d3b9d9969bf976357eb27adf42a",
+  "FStringFlipTimeStampFastString": "2023-09-13T22:01:52.103Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-13T22:01:52.103Z"
 }
