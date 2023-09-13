@@ -7591,6 +7591,8 @@
   "DFIntDataStoreSameKeyWriteTimeoutSec_PlaceFilter": "60;8789237466",
   "FFlagSoundServiceUsePerfControlV2Api_Rollout": "True;60;2023-09-13T23:03:28",
   "FFlagGameSettingsAddFloatEqualityCheck": "True",
+  "FFlagStudioFeatureActivityTracker": "True",
+  "FFlagStudioFeatureActivityTrackerAllowEndNonExistentSession": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7854,8 +7856,8 @@
   "FFlagAddFontAtlasMipmaps": "True",
   "FFlagAppUpdateAdapterWithChannels": "False",
   "FFlagUpdateCheckOnLogin": "True",
-  "FStringFlagRepoGitHashFastString": "af166f20f54edf133a541f7104ff0e249123ccea",
-  "DFStringFlagRepoGitHashDynamicString": "af166f20f54edf133a541f7104ff0e249123ccea",
-  "FStringFlipTimeStampFastString": "2023-09-13T23:04:22.728Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-13T23:04:22.728Z"
+  "FStringFlagRepoGitHashFastString": "98af54ce9371814cfd96b9ac8a608dacd2c58cad",
+  "DFStringFlagRepoGitHashDynamicString": "98af54ce9371814cfd96b9ac8a608dacd2c58cad",
+  "FStringFlipTimeStampFastString": "2023-09-13T23:22:33.680Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-13T23:22:33.680Z"
 }
