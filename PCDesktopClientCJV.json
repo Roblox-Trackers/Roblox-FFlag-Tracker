@@ -1491,7 +1491,7 @@
   "DFFlagLimitToolActions": "True",
   "FFlagEnableHttpRbxApiServiceWhiteListAccountInformation": "True",
   "FFlagRemoveDeprecatedBool2": "True",
-  "FFlagCleanUpSeatWeld": "True",
+  "FFlagCleanUpSeatWeld": "False",
   "FFlagStudioRemoveUserIdFromEvent": "True",
   "FFlagSuppressSkyDuringLoading": "True",
   "FFlagLuaAppWebViewsSinkInput": "True",
@@ -7557,7 +7557,6 @@
   "FFlagClearLatentPlaceLauncherUsage": "True",
   "FFlagStudioComponentizeUserPluginsModel": "True",
   "FFlagStudioShowWeldTooltip": "True",
-  "FFlagCleanUpSeatWeld_Rollout": "False;60;2023-09-13T19:28:57",
   "FFlagFixDoubleSpacesAfterPrefixText": "True",
   "FFlagHideLocalPlayerControlBubbleForVR": "True",
   "FFlagUpgradeExpChatV4_1_10": "True",
@@ -7833,8 +7832,8 @@
   "FFlagAppUpdateAdapterWithChannels": "False",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "0e57837cdeadf764b1578f5cfcb0612d6300ca3b",
-  "DFStringFlagRepoGitHashDynamicString": "0e57837cdeadf764b1578f5cfcb0612d6300ca3b",
-  "FStringFlipTimeStampFastString": "2023-09-13T20:31:29.666Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-13T20:31:29.666Z"
+  "FStringFlagRepoGitHashFastString": "3f35f9bf8bb484b223a12c5b4839522b132b3d5c",
+  "DFStringFlagRepoGitHashDynamicString": "3f35f9bf8bb484b223a12c5b4839522b132b3d5c",
+  "FStringFlipTimeStampFastString": "2023-09-13T20:36:28.539Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-13T20:36:28.539Z"
 }
