@@ -7564,12 +7564,13 @@
   "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "False",
   "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService_PlaceFilter": "True;9709838535;11402255591;12796376276;13989579574;11460402982;12500012844;14030887154",
   "FFlagPropertiesWidgetAllowReadOnly_Rollout": "True;60;2023-09-13T20:05:08",
-  "FFlagFixHandleReportedNotUsingMemProfStorage_Rollout": "True;30;2023-09-13T20:13:33",
   "FFlagGridDesignTokens3": "True",
   "FFlagTenFootUiMoreSettings": "True",
   "FFlagSimIslandizerManager": "True",
   "FFlagPropertiesWidgetWithoutDM3_Rollout": "True;60;2023-09-13T20:42:08",
   "DFFlagImmediateTTUpdate_DataCenterFilter": "True;232",
+  "FFlagFixHandleReportedNotUsingMemProfStorage": "True",
+  "FIntAvatarEditorTimeBetweenSaves": "16",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7766,8 +7767,8 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "DFFlagSkipRenderEventInShutdown_Rollout": "True;60;2023-09-13T20:22:22",
-  "FStringFlagRepoGitHashFastString": "dbc6aa4f8d6419e018a1d5d017912a9430cf2669",
-  "DFStringFlagRepoGitHashDynamicString": "dbc6aa4f8d6419e018a1d5d017912a9430cf2669",
-  "FStringFlipTimeStampFastString": "2023-09-13T20:43:56.605Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-13T20:43:56.605Z"
+  "FStringFlagRepoGitHashFastString": "8b4c84532f2bfb79a85f8b6692a9811208184f34",
+  "DFStringFlagRepoGitHashDynamicString": "8b4c84532f2bfb79a85f8b6692a9811208184f34",
+  "FStringFlipTimeStampFastString": "2023-09-13T20:52:15.685Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-13T20:52:15.685Z"
 }
