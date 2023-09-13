@@ -7563,7 +7563,6 @@
   "FStringPerformanceControlIncludedTunables": "",
   "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "False",
   "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService_PlaceFilter": "True;9709838535;11402255591;12796376276;13989579574;11460402982;12500012844;14030887154",
-  "FFlagPropertiesWidgetAllowReadOnly_Rollout": "True;60;2023-09-13T20:05:08",
   "FFlagGridDesignTokens3": "True",
   "FFlagTenFootUiMoreSettings": "True",
   "FFlagSimIslandizerManager": "True",
@@ -7575,6 +7574,7 @@
   "DFIntDataStoreMaxThrottledQueue_PlaceFilter": "0;8789237466",
   "FFlagEnableLoggingSoundTunableTelemetryToPerfControl_Rollout": "True;60;2023-09-13T21:01:37",
   "DFFlagEnablePortingStreamingMetricsToPerformanceControl_Rollout": "True;60;2023-09-13T21:01:46",
+  "FFlagPropertiesWidgetAllowReadOnly": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7838,8 +7838,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagRefactorGuiRTCacheImpl": "True",
-  "FStringFlagRepoGitHashFastString": "4d174321e6765b934bf85b0b53acf24269933472",
-  "DFStringFlagRepoGitHashDynamicString": "4d174321e6765b934bf85b0b53acf24269933472",
-  "FStringFlipTimeStampFastString": "2023-09-13T21:02:35.228Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-13T21:02:35.228Z"
+  "FStringFlagRepoGitHashFastString": "bb68e8ebe90ea4d4a5138ef2645d0f5dc07d444f",
+  "DFStringFlagRepoGitHashDynamicString": "bb68e8ebe90ea4d4a5138ef2645d0f5dc07d444f",
+  "FStringFlipTimeStampFastString": "2023-09-13T21:12:26.190Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-13T21:12:26.190Z"
 }
