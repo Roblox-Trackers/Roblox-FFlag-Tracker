@@ -7585,7 +7585,6 @@
   "NotifyCompleteForNotification": "True",
   "FFlagStudioHardwareSleepListenerComponent": "True",
   "FFlagStudioMainWindowComponent": "True",
-  "FFlagExplorerWidgetRootInstance_Rollout": "True;60;2023-09-13T22:40:06",
   "FFlagDragDetectorDragStyleAndResponseStyleChangesTriggerRestart_Rollout": "True;60;2023-09-13T22:45:24",
   "DFIntDataStoreSameKeyWriteTimeoutSec_PlaceFilter": "60;8789237466",
   "FFlagSoundServiceUsePerfControlV2Api_Rollout": "True;60;2023-09-13T23:03:28",
@@ -7596,6 +7595,7 @@
   "FFlagBootcampCLI84555_Rollout": "True;30;2023-09-13T23:34:49",
   "FFlagInsetForGuiLayerCollectorMaxSize2_Rollout": "True;30;2023-09-13T23:37:59",
   "FFlagEnableCondenseRobuxUpsell": "True",
+  "FFlagExplorerWidgetRootInstance": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7859,8 +7859,8 @@
   "FFlagAddFontAtlasMipmaps": "True",
   "FFlagAppUpdateAdapterWithChannels": "False",
   "FFlagUpdateCheckOnLogin": "True",
-  "FStringFlagRepoGitHashFastString": "247272690857f4da27a27e2d72d911d0273599f5",
-  "DFStringFlagRepoGitHashDynamicString": "247272690857f4da27a27e2d72d911d0273599f5",
-  "FStringFlipTimeStampFastString": "2023-09-13T23:41:33.798Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-13T23:41:33.798Z"
+  "FStringFlagRepoGitHashFastString": "4cab1adba16f9973ef9906575fc2da83875b726b",
+  "DFStringFlagRepoGitHashDynamicString": "4cab1adba16f9973ef9906575fc2da83875b726b",
+  "FStringFlipTimeStampFastString": "2023-09-13T23:46:28.269Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-13T23:46:28.269Z"
 }
