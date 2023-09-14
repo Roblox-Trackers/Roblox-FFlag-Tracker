@@ -7599,6 +7599,7 @@
   "DFIntDataStoreErrorThrottleHundredthsPercentage_PlaceFilter": "1000;8789237466",
   "FFlagTrackSessionTags": "True",
   "DFIntDataStoreInitialBudget_PlaceFilter": "2000;8789237466",
+  "FFlagUseDesignSystemGamepadIcons3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7963,7 +7964,6 @@
   "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-  "EnableAndroidRealtimeProtocol": "True",
   "EnableAndroidRealtimeProtocolRollout": "0",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagTeardownInSingleSurface": "False",
@@ -7974,8 +7974,8 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
-  "FStringFlagRepoGitHashFastString": "328c710908022f4300e99a5114f7a8ef317f00ed",
-  "DFStringFlagRepoGitHashDynamicString": "328c710908022f4300e99a5114f7a8ef317f00ed",
-  "FStringFlipTimeStampFastString": "2023-09-14T00:44:32.511Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T00:44:32.511Z"
+  "FStringFlagRepoGitHashFastString": "ec0bbee01fb08cfd13a54f79edcea2f057f20280",
+  "DFStringFlagRepoGitHashDynamicString": "ec0bbee01fb08cfd13a54f79edcea2f057f20280",
+  "FStringFlipTimeStampFastString": "2023-09-14T16:02:23.921Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T16:02:23.921Z"
 }
