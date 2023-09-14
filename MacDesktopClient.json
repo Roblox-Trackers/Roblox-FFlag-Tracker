@@ -7602,6 +7602,8 @@
   "FFlagUseDesignSystemGamepadIcons3": "True",
   "FFlagTextureReloadFix3_Rollout": "True;60;2023-09-14T16:13:24",
   "FFlagLuauKeepVmapLinear_Rollout": "False;10;2023-09-14T16:18:56",
+  "DFFlagVoiceChatGrpcSubscribeToRoomEvent": "False",
+  "DFFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7865,8 +7867,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagRefactorGuiRTCacheImpl": "True",
-  "FStringFlagRepoGitHashFastString": "0d8728ec9e17b7a9abd6ed03c26cf354793124ff",
-  "DFStringFlagRepoGitHashDynamicString": "0d8728ec9e17b7a9abd6ed03c26cf354793124ff",
-  "FStringFlipTimeStampFastString": "2023-09-14T16:19:28.346Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T16:19:28.346Z"
+  "FStringFlagRepoGitHashFastString": "54068a4a44263cc0faaa62ae8df8d813427cb970",
+  "DFStringFlagRepoGitHashDynamicString": "54068a4a44263cc0faaa62ae8df8d813427cb970",
+  "FStringFlipTimeStampFastString": "2023-09-14T16:22:54.546Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T16:22:54.546Z"
 }
