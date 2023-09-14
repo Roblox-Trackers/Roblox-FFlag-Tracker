@@ -7480,7 +7480,7 @@
   "DFFlagSimAddPlaySessionIdToFluidSessionStatsEvent2": "True",
   "FFlagEnableUGCBundleUnknownMeshPartFiltering": "True",
   "DFFlagVoiceChatEnableNonTlsGrpcSupport": "True",
-  "FFlagLuauKeepVmapLinear": "True",
+  "FFlagLuauKeepVmapLinear": "False",
   "FFlagEnableSetUserBlocklistInitialized": "True",
   "RefactorFlagLoaded": "True",
   "DFFlagVoiceChatV2CapabilityCheckDefault": "True",
@@ -7601,7 +7601,6 @@
   "DFIntDataStoreInitialBudget_PlaceFilter": "2000;8789237466",
   "FFlagUseDesignSystemGamepadIcons3": "True",
   "FFlagTextureReloadFix3_Rollout": "True;60;2023-09-14T16:13:24",
-  "FFlagLuauKeepVmapLinear_Rollout": "False;10;2023-09-14T16:18:56",
   "DFFlagVoiceChatGrpcSubscribeToRoomEvent": "False",
   "DFFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438",
   "AllowVideoPreRoll": "True",
@@ -7801,8 +7800,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "DFFlagSkipRenderEventInShutdown": "True",
   "DFFlagCLI82264": "True",
-  "FStringFlagRepoGitHashFastString": "54068a4a44263cc0faaa62ae8df8d813427cb970",
-  "DFStringFlagRepoGitHashDynamicString": "54068a4a44263cc0faaa62ae8df8d813427cb970",
-  "FStringFlipTimeStampFastString": "2023-09-14T16:22:54.546Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T16:22:54.546Z"
+  "FStringFlagRepoGitHashFastString": "701ac5aee12053ce7f9f4150afeee9b02e79e5fe",
+  "DFStringFlagRepoGitHashDynamicString": "701ac5aee12053ce7f9f4150afeee9b02e79e5fe",
+  "FStringFlipTimeStampFastString": "2023-09-14T16:31:29.282Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T16:31:29.282Z"
 }
