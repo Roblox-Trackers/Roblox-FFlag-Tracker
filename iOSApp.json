@@ -7611,13 +7611,13 @@
   "DFFlagTEMPFixHairOrderProperty": "True",
   "DFFlagMemoryStoreUpdateAsyncRetryUseExpBackoff_PlaceFilter": "False;8789237466",
   "DFFlagSensorSkipIfManual": "True",
-  "FFlagScriptEditorResetBatchChangesBugfix_Rollout": "True;60;2023-09-14T18:14:26",
   "FFlagFlagRolloutTestStaticBool2": "True",
   "FFlagSocialUserSearchSource": "True",
   "FIntCOLLAB3440UniverseSearchEndpointMigrationRollout2HundredthPercent": "1000",
   "FFlagSimExpandSetOfSolverConstraintTypesThatAreIrrelevantToIkDragger": "True",
   "DFFlagAUMProperty_Rollout": "True;60;2023-09-14T19:19:45",
   "FFlagRemapR6Animation2_Rollout": "True;60;2023-09-14T19:19:45",
+  "FFlagScriptEditorResetBatchChangesBugfix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7956,8 +7956,8 @@
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "1288ba0fdc649e03d79a11ebae6e3e7e33d022d3",
-  "DFStringFlagRepoGitHashDynamicString": "1288ba0fdc649e03d79a11ebae6e3e7e33d022d3",
-  "FStringFlipTimeStampFastString": "2023-09-14T19:20:03.744Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T19:20:03.744Z"
+  "FStringFlagRepoGitHashFastString": "98ef0f33950fd00dfb2761ddf0c8d304ec731474",
+  "DFStringFlagRepoGitHashDynamicString": "98ef0f33950fd00dfb2761ddf0c8d304ec731474",
+  "FStringFlipTimeStampFastString": "2023-09-14T19:21:36.401Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T19:21:36.401Z"
 }
