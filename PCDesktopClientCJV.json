@@ -7601,7 +7601,6 @@
   "FFlagUseDesignSystemGamepadIcons3": "True",
   "DFFlagVoiceChatGrpcSubscribeToRoomEvent": "False",
   "DFFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438",
-  "DFFlagVisualizeNonAnchoredParts_Rollout": "True;60;2023-09-14T16:32:41",
   "DFFlagSensorSkipIfManual_Rollout": "True;60;2023-09-14T17:01:38",
   "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2023-09-14T17:12:45",
   "FFlagPlaceManagerOpenPlace2": "True",
@@ -7609,7 +7608,8 @@
   "FFlagGameSettingsFixPermissionsSelection": "True",
   "FFlagTextureReloadFix3": "True",
   "FFlagSimExpandSetOfSolverConstraintTypesThatAreIrrelevantToIkDragger_Rollout": "True;60;2023-09-14T17:38:10",
-  "FFlagCOLLAB3440UniverseSearchEndpointMigrationRollout2_Rollout": "True;1;2023-09-14T17:38:26",
+  "DFFlagVisualizeNonAnchoredParts": "True",
+  "FFlagCOLLAB3440UniverseSearchEndpointMigrationRollout2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7874,8 +7874,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagAppUpdateAdapterWithChannels_Rollout": "True;60;2023-09-14T17:26:56",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "8515920c4152bb3efb14330519f5a384115b29c5",
-  "DFStringFlagRepoGitHashDynamicString": "8515920c4152bb3efb14330519f5a384115b29c5",
-  "FStringFlipTimeStampFastString": "2023-09-14T17:39:08.952Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T17:39:08.952Z"
+  "FStringFlagRepoGitHashFastString": "16a186a02fa08a186a1738663f64047a98dc3f77",
+  "DFStringFlagRepoGitHashDynamicString": "16a186a02fa08a186a1738663f64047a98dc3f77",
+  "FStringFlipTimeStampFastString": "2023-09-14T17:43:51.685Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T17:43:51.685Z"
 }
