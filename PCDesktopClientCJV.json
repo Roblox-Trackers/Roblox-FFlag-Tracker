@@ -6038,7 +6038,7 @@
   "FFlagWin32EarlyInitWebProtocol": "True",
   "DFFlagIncludeAndroidAdviceAPIFreeOsMemForComparisonForSessionTracking2": "True",
   "DFFlagUseAndroidMemoryAdviceLibrary2": "True",
-  "DFIntAndroidAdviceChohortHundredthsPercent": "0",
+  "DFIntAndroidAdviceChohortHundredthsPercent": "1000",
   "FFlagExplorerSafeStudioPMAccess": "True",
   "FFlagLODFixTriangleNumberCheck": "True",
   "DFFlagSaferHandles": "True",
@@ -7623,6 +7623,9 @@
   "FFlagVRBottomBarNoCurvature": "True",
   "FFlagDebugRVideoAndroidUseSwVideoDecoder_PlaceFilter": "False;13829433061",
   "DFFlagOnNewOverlapDifferentWorldCrash_Rollout": "True;60;2023-09-14T21:05:07",
+  "DFFlagUseAndroidMemoryAdviceLibrary3": "True",
+  "DFIntAndroidAdviceMinimumAPILevel": "23",
+  "FIntCOLLAB3440UniverseSearchEndpointMigrationRollout2HundredthPercent_Rollout": "5000;15;2023-09-14T21:20:18",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7888,8 +7891,8 @@
   "FFlagAppUpdateAdapterWithChannels": "True",
   "FFlagRefactorGuiRTCacheImpl_Rollout": "True;60;2023-09-14T21:04:52",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "ad47a871e1d72ec62ec54b9fd4552ae1e4201219",
-  "DFStringFlagRepoGitHashDynamicString": "ad47a871e1d72ec62ec54b9fd4552ae1e4201219",
-  "FStringFlipTimeStampFastString": "2023-09-14T21:09:11.817Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T21:09:11.817Z"
+  "FStringFlagRepoGitHashFastString": "b128d32b3a208d45dbb151cb82ab1d6334bd22a5",
+  "DFStringFlagRepoGitHashDynamicString": "b128d32b3a208d45dbb151cb82ab1d6334bd22a5",
+  "FStringFlipTimeStampFastString": "2023-09-14T21:21:01.356Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T21:21:01.356Z"
 }
