@@ -7579,7 +7579,7 @@
   "FFlagEnableLoggingSoundTunableTelemetryToPerfControl": "True",
   "PreventDuplicateObserver": "True",
   "FFlagVoiceChatNewServerJoinFlow2": "False",
-  "FFlagVoiceChatNewServerJoinFlow2_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;6884319169",
+  "FFlagVoiceChatNewServerJoinFlow2_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
   "NotifyCompleteForNotification": "True",
   "FFlagStudioHardwareSleepListenerComponent": "True",
   "FFlagStudioMainWindowComponent": "True",
@@ -7621,6 +7621,7 @@
   "DFFlagAUMProperty": "True",
   "FFlagRemapR6Animation2": "True",
   "FFlagVRBottomBarNoCurvature": "True",
+  "FFlagDebugRVideoAndroidUseSwVideoDecoder_PlaceFilter": "False;13829433061",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7884,8 +7885,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagRefactorGuiRTCacheImpl": "True",
-  "FStringFlagRepoGitHashFastString": "a7a9c43651d9ce23be86de4c97563255abf662a1",
-  "DFStringFlagRepoGitHashDynamicString": "a7a9c43651d9ce23be86de4c97563255abf662a1",
-  "FStringFlipTimeStampFastString": "2023-09-14T20:49:20.891Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T20:49:20.891Z"
+  "FStringFlagRepoGitHashFastString": "d0ce5c0f7041c0d3b37e297dea688d1ab7adf0ee",
+  "DFStringFlagRepoGitHashDynamicString": "d0ce5c0f7041c0d3b37e297dea688d1ab7adf0ee",
+  "FStringFlipTimeStampFastString": "2023-09-14T20:55:59.479Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T20:55:59.479Z"
 }
