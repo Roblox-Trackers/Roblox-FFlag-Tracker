@@ -7629,6 +7629,7 @@
   "FFlagStreamingStopReasonsEnumMap_Rollout": "True;60;2023-09-14T22:24:27",
   "DFIntSceneUpdaterELTDurationsHundredths_Rollout": "50;60;2023-09-14T22:24:30",
   "FFlagVideoUseThreadPool4_PlaceFilter": "False;13829433061",
+  "DFFlagFixRolloutTelemetryTagging_Rollout": "True;60;2023-09-14T22:40:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7967,8 +7968,8 @@
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "37a4882c89fe30d5b1f34784567ae1d8201c1c5a",
-  "DFStringFlagRepoGitHashDynamicString": "37a4882c89fe30d5b1f34784567ae1d8201c1c5a",
-  "FStringFlipTimeStampFastString": "2023-09-14T22:38:26.696Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T22:38:26.696Z"
+  "FStringFlagRepoGitHashFastString": "83efde06ac3abcbb1120c40dccaea652bd06a3f7",
+  "DFStringFlagRepoGitHashDynamicString": "83efde06ac3abcbb1120c40dccaea652bd06a3f7",
+  "FStringFlipTimeStampFastString": "2023-09-14T22:40:33.129Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T22:40:33.129Z"
 }
