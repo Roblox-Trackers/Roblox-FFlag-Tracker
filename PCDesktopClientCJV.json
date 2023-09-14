@@ -4036,7 +4036,7 @@
   "FFlagAddSafeAreaAnalytics2": "True",
   "FFlagVRCoreGuiDefaultOff": "True",
   "FStringMinOSVersionForForceUpgrade": "11.0",
-  "FFlagInGameMenuV1FadeBackgroundAnimation": "True",
+  "FFlagInGameMenuV1FadeBackgroundAnimation": "False",
   "FFlagEnableRefreshRateSettingsV4": "True",
   "FFlagAXRefactorCallsToDetailsPage": "True",
   "FFlagBlockingFileLoadPostProcess": "True",
@@ -7620,6 +7620,7 @@
   "FFlagScriptEditorResetBatchChangesBugfix": "True",
   "FFlagSelfViewAdaptToScreenOrientationChange": "True",
   "FFlagStudioEnableOnlineHelpStartPage": "True",
+  "FFlagLanguageFeaturesTelemetry_Rollout": "True;60;2023-09-14T20:15:47",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7884,8 +7885,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagAppUpdateAdapterWithChannels": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "3cd25799a710ee7591ee80935c8f7454ac9c1ee6",
-  "DFStringFlagRepoGitHashDynamicString": "3cd25799a710ee7591ee80935c8f7454ac9c1ee6",
-  "FStringFlipTimeStampFastString": "2023-09-14T19:56:49.984Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T19:56:49.984Z"
+  "FStringFlagRepoGitHashFastString": "d0b02c2dcfe41ae71f7263c974b8a65695429f91",
+  "DFStringFlagRepoGitHashDynamicString": "d0b02c2dcfe41ae71f7263c974b8a65695429f91",
+  "FStringFlipTimeStampFastString": "2023-09-14T20:16:28.615Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T20:16:28.615Z"
 }
