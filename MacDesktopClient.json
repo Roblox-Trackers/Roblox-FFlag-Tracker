@@ -6285,7 +6285,7 @@
   "FIntFmodAndroidCloseSleepTimeMs": "10",
   "DFFlagMemoryStoreUseNewErrorReporting3": "True",
   "DFFlagMemoryStoreUseNewErrorReporting3_PlaceFilter": "True;6900974696;12743314221",
-  "FFlagLuaAppEnableToastNotificationsCoreScripts4": "True",
+  "FFlagLuaAppEnableToastNotificationsCoreScripts4": "False",
   "FFlagFixToastTopPosition": "True",
   "FFlagToastNotificationsProtocolEnabled2": "True",
   "DFFlagGuiResizingTeleportBug": "True",
@@ -7087,7 +7087,7 @@
   "DFFlagAUMPAnalytics": "True",
   "DFIntReportAUMPAnalyticsPercentageHundredths": "100",
   "DFFlagFixControllerManagerHumanoidParallel": "True",
-  "FFlagLuaAppEnableToastNotifications4": "True",
+  "FFlagLuaAppEnableToastNotifications4": "False",
   "FFlagLuaAppFixSearchSessionClose": "True",
   "FFlagFixDeprecatedSystemUse": "True",
   "FFlagImprovePluginSpeed_RobloxClassic": "True",
@@ -7892,8 +7892,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagRefactorGuiRTCacheImpl": "True",
-  "FStringFlagRepoGitHashFastString": "5f0acc051aa4fee59c917a73a4be0e1ab19dc7c8",
-  "DFStringFlagRepoGitHashDynamicString": "5f0acc051aa4fee59c917a73a4be0e1ab19dc7c8",
-  "FStringFlipTimeStampFastString": "2023-09-14T22:25:08.842Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T22:25:08.842Z"
+  "FStringFlagRepoGitHashFastString": "2c720e946c2d37ab5a8e17f040aa854cf656cf84",
+  "DFStringFlagRepoGitHashDynamicString": "2c720e946c2d37ab5a8e17f040aa854cf656cf84",
+  "FStringFlipTimeStampFastString": "2023-09-14T22:27:12.492Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T22:27:12.492Z"
 }
