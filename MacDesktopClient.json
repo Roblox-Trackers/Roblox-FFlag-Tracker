@@ -7551,7 +7551,6 @@
   "DFIntReportBroadPhasePairCountPercent_PlaceFilter": "100;333164326;10128144192",
   "DFIntSimBroadPhaseMaxTotalPairCount_PlaceFilter": "10000;333164326;10128144192",
   "FFlagIOSSendAsymmetricSafeInsets": "True",
-  "FFlagFlagRolloutTestStaticBool2": "True",
   "FFlagClearLatentPlaceLauncherUsage": "True",
   "FFlagStudioComponentizeUserPluginsModel": "True",
   "FFlagStudioShowWeldTooltip": "True",
@@ -7604,6 +7603,8 @@
   "DFFlagVoiceChatGrpcSubscribeToRoomEvent": "False",
   "DFFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438",
   "DFFlagVisualizeNonAnchoredParts_Rollout": "True;60;2023-09-14T16:32:41",
+  "DFFlagSensorSkipIfManual_Rollout": "True;60;2023-09-14T17:01:38",
+  "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2023-09-14T17:02:10",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7868,8 +7869,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagRefactorGuiRTCacheImpl": "True",
-  "FStringFlagRepoGitHashFastString": "c04fd01fbee37fe6a136fb318b7513819f780279",
-  "DFStringFlagRepoGitHashDynamicString": "c04fd01fbee37fe6a136fb318b7513819f780279",
-  "FStringFlipTimeStampFastString": "2023-09-14T16:51:07.200Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T16:51:07.200Z"
+  "FStringFlagRepoGitHashFastString": "fa91fb68baf659d9afdfb37c30202997a557256a",
+  "DFStringFlagRepoGitHashDynamicString": "fa91fb68baf659d9afdfb37c30202997a557256a",
+  "FStringFlipTimeStampFastString": "2023-09-14T17:02:39.062Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T17:02:39.062Z"
 }
