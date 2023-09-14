@@ -7623,7 +7623,6 @@
   "FFlagDebugRVideoAndroidUseSwVideoDecoder_PlaceFilter": "False;13829433061",
   "DFFlagUseAndroidMemoryAdviceLibrary3": "True",
   "DFIntAndroidAdviceMinimumAPILevel": "23",
-  "FFlagExplorerUseSelectionProvider_Rollout": "True;60;2023-09-14T21:41:14",
   "FFlagStudioInstallerArgsFix": "True",
   "DFFlagOnNewOverlapDifferentWorldCrash": "True",
   "FFlagStreamingStopReasonsEnumMap_Rollout": "True;60;2023-09-14T22:24:27",
@@ -7631,6 +7630,8 @@
   "FFlagVideoUseThreadPool4_PlaceFilter": "False;13829433061",
   "DFFlagFixRolloutTelemetryTagging_Rollout": "True;60;2023-09-14T22:40:01",
   "FStringPerformanceControlExcludedTunables_Rollout": "None;30;2023-09-14T22:41:20",
+  "DFFlagReportPlaceValidAssetType_Rollout": "True;60;2023-09-14T22:42:26",
+  "FFlagExplorerUseSelectionProvider": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8005,8 +8006,8 @@
   "EnableDOMStorageForAngularWebviewCapabilitiy": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
-  "FStringFlagRepoGitHashFastString": "335b81931381b36dcf2ba61201b35c940823224c",
-  "DFStringFlagRepoGitHashDynamicString": "335b81931381b36dcf2ba61201b35c940823224c",
-  "FStringFlipTimeStampFastString": "2023-09-14T22:41:55.035Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-14T22:41:55.035Z"
+  "FStringFlagRepoGitHashFastString": "b1ec84e1901e1d045f4d502a3890555bb436d1a9",
+  "DFStringFlagRepoGitHashDynamicString": "b1ec84e1901e1d045f4d502a3890555bb436d1a9",
+  "FStringFlipTimeStampFastString": "2023-09-14T22:46:46.351Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-14T22:46:46.351Z"
 }
