@@ -7667,6 +7667,8 @@
   "FFlagFixCullingShadowObject": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagSimSolverRemoveAeroMeshFromInterpolator": "True",
+  "DFFlagVideoSeparateHttpCachePerUniverse": "True",
+  "DFIntVideoSplitCacheRolloutHundredthsPercent": "1000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7862,8 +7864,8 @@
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "DFIntHttpCacheRetryCount": "5000",
-  "FStringFlagRepoGitHashFastString": "8219741fc46607b4272920d1a29ccabcd88e1049",
-  "DFStringFlagRepoGitHashDynamicString": "8219741fc46607b4272920d1a29ccabcd88e1049",
-  "FStringFlipTimeStampFastString": "2023-09-19T19:11:58.594Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T19:11:58.594Z"
+  "FStringFlagRepoGitHashFastString": "e954ff0704d4f5e6ed4e36b2835d633197ae604b",
+  "DFStringFlagRepoGitHashDynamicString": "e954ff0704d4f5e6ed4e36b2835d633197ae604b",
+  "FStringFlipTimeStampFastString": "2023-09-19T19:13:52.042Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T19:13:52.042Z"
 }
