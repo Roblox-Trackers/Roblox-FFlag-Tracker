@@ -3090,7 +3090,6 @@
   "FFlagPlayerEmulatorRibbonOpeningFixEnabled": "True",
   "FFlagCOLLAB2609AddIsReconnectAndLaunchTaskToStudioopenplacemetricv2": "False",
   "FFlagCheckAppVersionRequestUse200": "True",
-  "FFlagGuiObjectBackgroundExtensionIncludeBorders": "True",
   "DFFlagAudioGraphLogging2": "False",
   "DFFlagAudioGraphThrottling": "False",
   "DFIntAudioGraphLoggingRateLimitCapacity": "2",
@@ -7670,6 +7669,7 @@
   "DFIntReportLodOscillationHundredthsPercentage_Rollout": "10;60;2023-09-19T21:57:32",
   "DFIntLodOscillationThresholdMS_Rollout": "200;60;2023-09-19T21:59:16",
   "FFlagEnableResetScaleButton2_Rollout": "True;1;2023-09-19T22:08:18",
+  "FFlagGuiObjectBackgroundExtensionIncludeBorders_Rollout": "False;30;2023-09-19T22:14:14",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7937,8 +7937,8 @@
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagRefactorGuiRTCacheImpl_Rollout": "False;15;2023-09-19T22:13:16",
-  "FStringFlagRepoGitHashFastString": "0d86756f055f5ab9c761f59a250c606e03cf83ce",
-  "DFStringFlagRepoGitHashDynamicString": "0d86756f055f5ab9c761f59a250c606e03cf83ce",
-  "FStringFlipTimeStampFastString": "2023-09-19T22:13:36.502Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T22:13:36.502Z"
+  "FStringFlagRepoGitHashFastString": "b3dfcb0163e95a7c475698bc1194d0bc1dea0dd5",
+  "DFStringFlagRepoGitHashDynamicString": "b3dfcb0163e95a7c475698bc1194d0bc1dea0dd5",
+  "FStringFlipTimeStampFastString": "2023-09-19T22:14:35.441Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T22:14:35.441Z"
 }
