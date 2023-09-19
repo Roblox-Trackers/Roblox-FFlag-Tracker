@@ -7656,7 +7656,6 @@
   "FFlagStudioUpdateTitleOnGameChanged": "True",
   "DFFlagCollectParallelOptimization": "True",
   "FFlagFmodMixerThreadTracking": "True",
-  "FFlagFixCullingShadowObject_Rollout": "True;60;2023-09-19T17:52:30",
   "FFlagStudioTourTextUpdate": "True",
   "FFlagImprovePluginSpeed_AssetImporter2": "True",
   "FFlagLuaAppRemoveUnusedUserSearchTileProp": "True",
@@ -7667,6 +7666,7 @@
   "FFlagEnableResetScaleButton2": "True",
   "FFlagKeepVRAppNavBar": "True",
   "FFlagIntegrityCheckedProcessorPerfControlIxpIntegration4_Rollout": "True;30;2023-09-19T19:00:27",
+  "FFlagFixCullingShadowObject": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7933,8 +7933,8 @@
   "FFlagRefactorGuiRTCacheImpl": "True",
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
-  "FStringFlagRepoGitHashFastString": "52acef0b6ed10f914ff43b9df390d1c1d1112a99",
-  "DFStringFlagRepoGitHashDynamicString": "52acef0b6ed10f914ff43b9df390d1c1d1112a99",
-  "FStringFlipTimeStampFastString": "2023-09-19T19:00:48.921Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T19:00:48.921Z"
+  "FStringFlagRepoGitHashFastString": "e187b1c8897a4ec56a2d5da76305701f38822faa",
+  "DFStringFlagRepoGitHashDynamicString": "e187b1c8897a4ec56a2d5da76305701f38822faa",
+  "FStringFlipTimeStampFastString": "2023-09-19T19:01:45.236Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T19:01:45.236Z"
 }
