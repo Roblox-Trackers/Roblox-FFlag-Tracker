@@ -5957,8 +5957,6 @@
   "DFFlagStreamingVelocityAwareMissingRegionsFix": "True",
   "FFlagReplaceUserTokensWithLabels": "True",
   "FFlagEnableChildrenLockFromLua": "False",
-  "FFlagRenderEnableGlobalInstancing5": "True",
-  "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagSimCSGV3TriangulationNormalFix": "False",
   "DFFlagReportPhysicsMemoryStats": "True",
   "DFIntPhysicsMemoryTelemetryHundredthsPercentage": "1000",
@@ -7654,8 +7652,6 @@
   "FFlagModelLodStats": "True",
   "DFFlagAUMPAnalytics": "False",
   "FFlagStudioUpdateTitleOnGameChanged": "True",
-  "DFFlagCollectParallelOptimization": "True",
-  "FFlagFmodMixerThreadTracking": "True",
   "FFlagStudioTourTextUpdate": "True",
   "FFlagImprovePluginSpeed_AssetImporter2": "True",
   "FFlagLuaAppRemoveUnusedUserSearchTileProp": "True",
@@ -8010,8 +8006,8 @@
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
   "DFFlagSkipRenderEventInShutdown": "True",
-  "FStringFlagRepoGitHashFastString": "f6916dd64c8e742f8cc452e261d24f69d00fe339",
-  "DFStringFlagRepoGitHashDynamicString": "f6916dd64c8e742f8cc452e261d24f69d00fe339",
-  "FStringFlipTimeStampFastString": "2023-09-19T21:56:50.449Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T21:56:50.449Z"
+  "FStringFlagRepoGitHashFastString": "b42e5d49f211c896cbab0311819ebc907b2d7143",
+  "DFStringFlagRepoGitHashDynamicString": "b42e5d49f211c896cbab0311819ebc907b2d7143",
+  "FStringFlipTimeStampFastString": "2023-09-19T21:58:37.309Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T21:58:37.309Z"
 }
