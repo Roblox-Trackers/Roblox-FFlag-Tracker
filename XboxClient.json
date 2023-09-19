@@ -7660,7 +7660,6 @@
   "FFlagImprovePluginSpeed_AssetImporter2": "True",
   "FFlagLuaAppRemoveUnusedUserSearchTileProp": "True",
   "DFFlagVoiceChatEnableEndpointErrorLogging": "True",
-  "FFlagApplyLocaleForDualSurfaceApp_Rollout": "True;60;2023-09-19T18:15:09",
   "FFlagEnableResetScaleButton2": "True",
   "FFlagKeepVRAppNavBar": "True",
   "FFlagIntegrityCheckedProcessorPerfControlIxpIntegration4_Rollout": "True;30;2023-09-19T19:00:27",
@@ -7670,6 +7669,7 @@
   "DFFlagVideoSeparateHttpCachePerUniverse": "True",
   "DFIntVideoSplitCacheRolloutHundredthsPercent": "1000",
   "FFlagFaceControlsUseMetaDataObject": "True",
+  "FFlagApplyLocaleForDualSurfaceApp": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7865,8 +7865,8 @@
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "DFIntHttpCacheRetryCount": "5000",
-  "FStringFlagRepoGitHashFastString": "35469fc16476f3e0e416c7d4f606d29753fbdb97",
-  "DFStringFlagRepoGitHashDynamicString": "35469fc16476f3e0e416c7d4f606d29753fbdb97",
-  "FStringFlipTimeStampFastString": "2023-09-19T19:19:36.838Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T19:19:36.838Z"
+  "FStringFlagRepoGitHashFastString": "045ab77f4a33e7ed7604246f9f0e953f9ba01378",
+  "DFStringFlagRepoGitHashDynamicString": "045ab77f4a33e7ed7604246f9f0e953f9ba01378",
+  "FStringFlipTimeStampFastString": "2023-09-19T19:21:15.512Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T19:21:15.512Z"
 }
