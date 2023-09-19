@@ -6274,7 +6274,7 @@
   "DFFlagRemoveInterpolationThrottlingOption": "True",
   "DFIntInterpolationDtLimitForLod": "15",
   "DFFlagVoiceChatEnableRccV2ControlPlane": "False",
-  "DFFlagVoiceChatEnableRccV2ControlPlane_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
+  "DFFlagVoiceChatEnableRccV2ControlPlane_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;6884319169;14104248348",
   "FFlagCOLLAB4039RefactorDocClose": "True",
   "FFlagGameSettingsEvictIfLostPerms": "True",
   "DFFlagDetectMultipleJoinsForTheSamePlaceID": "True",
@@ -7672,6 +7672,7 @@
   "DFFlagTelemetryProfiler": "True",
   "FFlagStartPageSortOnRefresh": "True",
   "AllowVideoPreRoll": "True",
+  "DFFlagVoiceChatEnableEndpointErrorLogging": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -8046,8 +8047,8 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
-  "FStringFlagRepoGitHashFastString": "d3081e0ec3026fadca8b91266c6c0509989edaac",
-  "DFStringFlagRepoGitHashDynamicString": "d3081e0ec3026fadca8b91266c6c0509989edaac",
-  "FStringFlipTimeStampFastString": "2023-09-19T22:32:26.639Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T22:32:26.639Z"
+  "FStringFlagRepoGitHashFastString": "1b7f10e733b65808b7eb996590a2128f4f4cceed",
+  "DFStringFlagRepoGitHashDynamicString": "1b7f10e733b65808b7eb996590a2128f4f4cceed",
+  "FStringFlipTimeStampFastString": "2023-09-19T22:32:41.664Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T22:32:41.664Z"
 }
