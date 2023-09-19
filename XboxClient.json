@@ -7673,11 +7673,11 @@
   "DFFlagDisableSuperSafeChat": "True",
   "FFlagDisconnectReasonPerConnection": "True",
   "DFIntLodOscillationThresholdMS": "200",
-  "DFStringAutosaveIntervalOptInPlaceIds_Rollout": "12252783835,14355111754;10;2023-09-19T23:08:03",
   "FFlagUISelectionJumping3_Rollout": "True;60;2023-09-19T23:09:34",
   "FFlagAinStatusesV2Release": "True",
   "DFIntReportLodOscillationHundredthsPercentage": "2",
   "DFFlagMaxPhysicsPacketCounter_Rollout": "True;60;2023-09-19T23:11:49",
+  "DFStringAutosaveIntervalOptInPlaceIds": "12252783835,14355111754",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7873,8 +7873,8 @@
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "DFIntHttpCacheRetryCount": "5000",
-  "FStringFlagRepoGitHashFastString": "0accdc58259f85a5cfd071d132d750831f44e7cd",
-  "DFStringFlagRepoGitHashDynamicString": "0accdc58259f85a5cfd071d132d750831f44e7cd",
-  "FStringFlipTimeStampFastString": "2023-09-19T23:16:43.465Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T23:16:43.465Z"
+  "FStringFlagRepoGitHashFastString": "80349f8a0261514618bc64892ccacf14609a5a52",
+  "DFStringFlagRepoGitHashDynamicString": "80349f8a0261514618bc64892ccacf14609a5a52",
+  "FStringFlipTimeStampFastString": "2023-09-19T23:22:02.422Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T23:22:02.422Z"
 }
