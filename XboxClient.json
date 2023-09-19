@@ -7659,6 +7659,7 @@
   "DFFlagCollectParallelOptimization_Rollout": "True;60;2023-09-19T16:12:51",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2023-09-19T16:16:57",
   "DFIntReportLodOscillationHundredthsPercentage_Rollout": "100;60;2023-09-19T16:17:29",
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2023-09-19T16:18:25",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7854,8 +7855,8 @@
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "DFIntHttpCacheRetryCount": "5000",
-  "FStringFlagRepoGitHashFastString": "0c0d7d1d1d890db0b675704e69f9aa99ef0f9c39",
-  "DFStringFlagRepoGitHashDynamicString": "0c0d7d1d1d890db0b675704e69f9aa99ef0f9c39",
-  "FStringFlipTimeStampFastString": "2023-09-19T16:17:54.915Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T16:17:54.915Z"
+  "FStringFlagRepoGitHashFastString": "8e0df24eb91b85c887aa167374526099649f400d",
+  "DFStringFlagRepoGitHashDynamicString": "8e0df24eb91b85c887aa167374526099649f400d",
+  "FStringFlipTimeStampFastString": "2023-09-19T16:19:12.005Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T16:19:12.005Z"
 }
