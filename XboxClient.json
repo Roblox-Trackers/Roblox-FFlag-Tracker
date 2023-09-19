@@ -7656,7 +7656,6 @@
   "FFlagFaceControlsUseMetaDataObject": "True",
   "FFlagAinStatusesV2Telemetry1": "True",
   "DFFlagForceEnableReflectionCrashFix": "False",
-  "FFlagDragDetectorProperlySavesStartFrameOnDragFrameChange_Rollout": "True;60;2023-09-19T21:28:28",
   "FFlagSimSolverRemoveAeroMeshFromInterpolator_Rollout": "True;60;2023-09-19T21:32:13",
   "DFFlagDisconnectReasonPerConnectionFix_Rollout": "True;60;2023-09-19T21:43:50",
   "DFFlagReplicateHumanoidFakeTouch_Rollout": "True;60;2023-09-19T21:44:29",
@@ -7673,6 +7672,7 @@
   "FFlagStartPageSortOnRefresh": "True",
   "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4_Rollout": "True;30;2023-09-19T22:31:26",
   "DFFlagVoiceChatEnableEndpointErrorLogging": "True",
+  "FFlagDragDetectorProperlySavesStartFrameOnDragFrameChange": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7868,8 +7868,8 @@
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "1024",
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "DFIntHttpCacheRetryCount": "5000",
-  "FStringFlagRepoGitHashFastString": "1b7f10e733b65808b7eb996590a2128f4f4cceed",
-  "DFStringFlagRepoGitHashDynamicString": "1b7f10e733b65808b7eb996590a2128f4f4cceed",
-  "FStringFlipTimeStampFastString": "2023-09-19T22:32:41.664Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T22:32:41.664Z"
+  "FStringFlagRepoGitHashFastString": "ba70cbc3ec704ef53df654324dc3c801c52a3ae5",
+  "DFStringFlagRepoGitHashDynamicString": "ba70cbc3ec704ef53df654324dc3c801c52a3ae5",
+  "FStringFlipTimeStampFastString": "2023-09-19T22:36:34.644Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T22:36:34.644Z"
 }
