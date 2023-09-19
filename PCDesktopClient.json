@@ -7551,8 +7551,7 @@
   "FFlagHideLocalPlayerControlBubbleForVR": "True",
   "FFlagUpgradeExpChatV4_1_10": "True",
   "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
-  "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "False",
-  "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService_PlaceFilter": "True;9709838535;11402255591;12796376276;13989579574;11460402982;12500012844;14030887154",
+  "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "True",
   "FFlagGridDesignTokens3": "True",
   "FFlagTenFootUiMoreSettings": "True",
   "FFlagSimIslandizerManager": "True",
@@ -7670,6 +7669,7 @@
   "DFIntLodOscillationThresholdMS_Rollout": "200;60;2023-09-19T21:59:16",
   "FFlagGuiObjectBackgroundExtensionIncludeBorders_Rollout": "False;30;2023-09-19T22:14:14",
   "FFlagEnableResetScaleButton2": "True",
+  "FFlagEnableAvatarChatToggleUIUpgradeForLegacyChatService": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7937,8 +7937,8 @@
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagRefactorGuiRTCacheImpl_Rollout": "False;15;2023-09-19T22:13:16",
-  "FStringFlagRepoGitHashFastString": "92c3c01ae94fb4dc121dc2334840a53cd00c2f17",
-  "DFStringFlagRepoGitHashDynamicString": "92c3c01ae94fb4dc121dc2334840a53cd00c2f17",
-  "FStringFlipTimeStampFastString": "2023-09-19T22:16:20.257Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T22:16:20.257Z"
+  "FStringFlagRepoGitHashFastString": "0cd573c6d96b5fef6369d55f9b456a21cde3cbe8",
+  "DFStringFlagRepoGitHashDynamicString": "0cd573c6d96b5fef6369d55f9b456a21cde3cbe8",
+  "FStringFlipTimeStampFastString": "2023-09-19T22:21:08.286Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T22:21:08.286Z"
 }
