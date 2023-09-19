@@ -7668,6 +7668,8 @@
   "DFFlagDisableSuperSafeChat_Rollout": "True;60;2023-09-19T21:48:01",
   "FFlagSHExtendAssemblyBroadphaseExtentsClamps": "True",
   "FIntSHClampLimitPowerof2": "31",
+  "DFIntReportLodOscillationHundredthsPercentage_Rollout": "10;60;2023-09-19T21:57:32",
+  "DFIntLodOscillationThresholdMS_Rollout": "200;60;2023-09-19T21:59:16",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8043,8 +8045,8 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
-  "FStringFlagRepoGitHashFastString": "b42e5d49f211c896cbab0311819ebc907b2d7143",
-  "DFStringFlagRepoGitHashDynamicString": "b42e5d49f211c896cbab0311819ebc907b2d7143",
-  "FStringFlipTimeStampFastString": "2023-09-19T21:58:37.309Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T21:58:37.309Z"
+  "FStringFlagRepoGitHashFastString": "054bfed22decbc9ed1a3967a55d2ebff152fa086",
+  "DFStringFlagRepoGitHashDynamicString": "054bfed22decbc9ed1a3967a55d2ebff152fa086",
+  "FStringFlipTimeStampFastString": "2023-09-19T21:59:38.770Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T21:59:38.770Z"
 }
