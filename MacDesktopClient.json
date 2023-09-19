@@ -7671,6 +7671,7 @@
   "DFFlagStepContactAsyncTouchTelemetry": "True",
   "DFFlagTelemetryProfiler": "True",
   "FFlagStartPageSortOnRefresh": "True",
+  "FFlagSingleAndDualSurfaceAppIxpPerfControlEnabled4_Rollout": "True;30;2023-09-19T22:31:26",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7934,10 +7935,9 @@
   "FFlagMacUpdateAdapterUseInstaller1": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
-  "FFlagRefactorGuiRTCacheImpl": "True",
-  "FFlagRefactorGuiRTCacheImpl_Rollout": "False;15;2023-09-19T22:13:16",
-  "FStringFlagRepoGitHashFastString": "d024853975bc83ccdfaf59d1a10653b3a11d1228",
-  "DFStringFlagRepoGitHashDynamicString": "d024853975bc83ccdfaf59d1a10653b3a11d1228",
-  "FStringFlipTimeStampFastString": "2023-09-19T22:27:31.197Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T22:27:31.197Z"
+  "FFlagRefactorGuiRTCacheImpl": "False",
+  "FStringFlagRepoGitHashFastString": "d3081e0ec3026fadca8b91266c6c0509989edaac",
+  "DFStringFlagRepoGitHashDynamicString": "d3081e0ec3026fadca8b91266c6c0509989edaac",
+  "FStringFlipTimeStampFastString": "2023-09-19T22:32:26.639Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T22:32:26.639Z"
 }
