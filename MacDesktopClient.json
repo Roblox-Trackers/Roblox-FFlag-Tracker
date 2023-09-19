@@ -4649,7 +4649,7 @@
   "FFlagSupportOffCenterOriginTriangleMeshComputeExtents": "True",
   "DFFlagFlagRolloutTestDynamicBool3": "True",
   "FFlagFlagRolloutTestStaticBool0": "True",
-  "FFlagFlagRolloutTestStaticBool1": "True",
+  "FFlagFlagRolloutTestStaticBool1": "False",
   "FFlagFlagRolloutTestStaticBool3": "True",
   "FFlagFlagRolloutTestStaticBool4": "False",
   "FFlagFlagRolloutTestStaticBool5": "False",
@@ -7654,7 +7654,6 @@
   "FFlagResetFmodRecordingOnStart": "True",
   "FFlagModelLodStats": "True",
   "DFFlagAUMPAnalytics": "False",
-  "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2023-09-19T16:18:25",
   "FFlagFmodMixerThreadTracking_Rollout": "True;60;2023-09-19T16:27:40",
   "FFlagStudioUpdateTitleOnGameChanged": "True",
   "DFFlagCollectParallelOptimization": "True",
@@ -7921,8 +7920,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagRefactorGuiRTCacheImpl": "True",
-  "FStringFlagRepoGitHashFastString": "dac598d9e1b75f9aefd58a36c7bfba99fc270217",
-  "DFStringFlagRepoGitHashDynamicString": "dac598d9e1b75f9aefd58a36c7bfba99fc270217",
-  "FStringFlipTimeStampFastString": "2023-09-19T17:24:34.697Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T17:24:34.697Z"
+  "FStringFlagRepoGitHashFastString": "0e3731e3529a979306de8fafd7164f20f7531620",
+  "DFStringFlagRepoGitHashDynamicString": "0e3731e3529a979306de8fafd7164f20f7531620",
+  "FStringFlipTimeStampFastString": "2023-09-19T17:26:47.290Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T17:26:47.290Z"
 }
