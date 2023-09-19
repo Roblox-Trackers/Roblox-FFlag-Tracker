@@ -5957,8 +5957,8 @@
   "DFFlagStreamingVelocityAwareMissingRegionsFix": "True",
   "FFlagReplaceUserTokensWithLabels": "True",
   "FFlagEnableChildrenLockFromLua": "False",
-  "FFlagRenderEnableGlobalInstancing5": "False",
-  "FFlagRenderEnableGlobalInstancingD3D11": "False",
+  "FFlagRenderEnableGlobalInstancing5": "True",
+  "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagSimCSGV3TriangulationNormalFix": "False",
   "DFFlagReportPhysicsMemoryStats": "True",
   "DFIntPhysicsMemoryTelemetryHundredthsPercentage": "1000",
@@ -7654,8 +7654,6 @@
   "FFlagResetFmodRecordingOnStart": "True",
   "FFlagModelLodStats": "True",
   "DFFlagAUMPAnalytics": "False",
-  "FFlagRenderEnableGlobalInstancing5_Rollout": "True;60;2023-09-19T16:01:33",
-  "FFlagRenderEnableGlobalInstancingD3D11_Rollout": "True;60;2023-09-19T16:01:52",
   "DFFlagCollectParallelOptimization_Rollout": "True;60;2023-09-19T16:12:51",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2023-09-19T16:16:57",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2023-09-19T16:18:25",
@@ -7924,8 +7922,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagRefactorGuiRTCacheImpl": "True",
-  "FStringFlagRepoGitHashFastString": "c0c0889fa7d482fef8a2c684d5b378834bce2f03",
-  "DFStringFlagRepoGitHashDynamicString": "c0c0889fa7d482fef8a2c684d5b378834bce2f03",
-  "FStringFlipTimeStampFastString": "2023-09-19T16:55:38.642Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-19T16:55:38.642Z"
+  "FStringFlagRepoGitHashFastString": "cd3a788804bd535733a64cc6977523850e041563",
+  "DFStringFlagRepoGitHashDynamicString": "cd3a788804bd535733a64cc6977523850e041563",
+  "FStringFlipTimeStampFastString": "2023-09-19T17:07:28.157Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-19T17:07:28.157Z"
 }
