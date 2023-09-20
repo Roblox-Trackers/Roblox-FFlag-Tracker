@@ -7676,10 +7676,10 @@
   "FFlagAinStatusesV2Release": "True",
   "DFIntReportLodOscillationHundredthsPercentage": "2",
   "DFStringAutosaveIntervalOptInPlaceIds": "12252783835,14355111754",
-  "DFFlagCLI82175_Rollout": "True;60;2023-09-19T23:38:10",
-  "DFIntTelemetryProfilerHundredthsPercentage_Rollout": "10;60;2023-09-19T23:41:28",
   "FFlagUISelectionJumping3": "True",
   "DFFlagMaxPhysicsPacketCounter": "True",
+  "DFIntTelemetryProfilerHundredthsPercentage": "10",
+  "DFFlagCLI82175": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -7944,8 +7944,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagRefactorGuiRTCacheImpl": "False",
-  "FStringFlagRepoGitHashFastString": "5aa22020cb1e0b9798f2a97bd5416b6ad920d3a4",
-  "DFStringFlagRepoGitHashDynamicString": "5aa22020cb1e0b9798f2a97bd5416b6ad920d3a4",
-  "FStringFlipTimeStampFastString": "2023-09-20T00:16:31.805Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-20T00:16:31.805Z"
+  "FStringFlagRepoGitHashFastString": "743a01ef59179d2465c20a64258525e752f01c6c",
+  "DFStringFlagRepoGitHashDynamicString": "743a01ef59179d2465c20a64258525e752f01c6c",
+  "FStringFlipTimeStampFastString": "2023-09-20T00:46:21.775Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-20T00:46:21.775Z"
 }
