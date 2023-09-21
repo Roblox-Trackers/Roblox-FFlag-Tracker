@@ -7729,12 +7729,12 @@
   "FFlagCheckCancellationInCheckAsync": "True",
   "FFlagMacUpdateAdapterUseInstaller2": "True",
   "FFlagScriptEditorLiveEditingInfra2": "True",
-  "FFlagExtendPropertyItemDelegate_Rollout": "True;60;2023-09-20T23:43:38",
-  "DFFlagGoogleAnalyticsUseEventIngest_Rollout": "True;60;2023-09-20T23:43:49",
   "FFlagVoiceChatUseSoundServiceInputApi": "True",
   "DFFlagEnablePortingStreamingMetricsToPerformanceControl2": "True",
   "FFlagCOLLAB4014FlyToCollaborator": "True",
   "DFFlagSimAeroAllowZeroAirDensity": "True",
+  "DFFlagGoogleAnalyticsUseEventIngest": "True",
+  "FFlagExtendPropertyItemDelegate": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8077,8 +8077,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "50",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "fb2e01f396a45a0de4cd96a6d88956db46f91a2e",
-  "DFStringFlagRepoGitHashDynamicString": "fb2e01f396a45a0de4cd96a6d88956db46f91a2e",
-  "FStringFlipTimeStampFastString": "2023-09-21T00:46:07.885Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T00:46:07.885Z"
+  "FStringFlagRepoGitHashFastString": "1c0a169230dd782434509a3081becdc26a263793",
+  "DFStringFlagRepoGitHashDynamicString": "1c0a169230dd782434509a3081becdc26a263793",
+  "FStringFlipTimeStampFastString": "2023-09-21T00:51:22.308Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T00:51:22.308Z"
 }
