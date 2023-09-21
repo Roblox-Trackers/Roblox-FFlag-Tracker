@@ -8089,8 +8089,9 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "50",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "6c2164bf6291d37dc8fdda05202eabd46edcb333",
-  "DFStringFlagRepoGitHashDynamicString": "6c2164bf6291d37dc8fdda05202eabd46edcb333",
-  "FStringFlipTimeStampFastString": "2023-09-21T18:03:35.825Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T18:03:35.825Z"
+  "FIntDataModelPatchEnableOTAPollingPercentage_Rollout": "100;60;2023-09-21T18:08:35",
+  "FStringFlagRepoGitHashFastString": "2a9ff7fc199f665ada4751803c79838d1dec56c2",
+  "DFStringFlagRepoGitHashDynamicString": "2a9ff7fc199f665ada4751803c79838d1dec56c2",
+  "FStringFlipTimeStampFastString": "2023-09-21T18:09:25.940Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T18:09:25.940Z"
 }
