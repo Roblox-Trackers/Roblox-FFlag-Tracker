@@ -7777,6 +7777,7 @@
   "DFFlagTeleportVIPPlayerPassThrough_Rollout": "True;15;2023-09-21T22:29:37",
   "DFFlagVIPTeleportGameJoin_Rollout": "True;15;2023-09-21T22:30:20",
   "DFFlagEncodeRotationCurvesWithTangentFlags": "True",
+  "DFFlagDoVIPTeleport_Rollout": "True;15;2023-09-21T22:31:29",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8038,8 +8039,8 @@
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "27864d72dbacb422089370049b40204eab0940df",
-  "DFStringFlagRepoGitHashDynamicString": "27864d72dbacb422089370049b40204eab0940df",
-  "FStringFlipTimeStampFastString": "2023-09-21T22:32:05.569Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T22:32:05.569Z"
+  "FStringFlagRepoGitHashFastString": "effeabd5ce497904e10ffff2f05441a4cd248006",
+  "DFStringFlagRepoGitHashDynamicString": "effeabd5ce497904e10ffff2f05441a4cd248006",
+  "FStringFlipTimeStampFastString": "2023-09-21T22:32:57.593Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T22:32:57.593Z"
 }
