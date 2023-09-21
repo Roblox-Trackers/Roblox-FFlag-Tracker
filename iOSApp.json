@@ -5734,8 +5734,8 @@
   "FFlagLuaAppMigrateHomeGameGridImpressions2": "True",
   "DFFlagTeleportServiceV2MetricsPart3": "True",
   "DFIntTeleportV2InvocationsAnalyticsInfluxHundredthsPercentage": "100",
-  "DFIntTeleportV2InvocationsInfluxHundredthsPercentage": "5",
-  "DFIntTeleportV2InvocationsInfluxHundredthsPercentage_PlaceFilter": "5;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
+  "DFIntTeleportV2InvocationsInfluxHundredthsPercentage": "10",
+  "DFIntTeleportV2InvocationsInfluxHundredthsPercentage_PlaceFilter": "10;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
   "DFIntTeleportV2TeleportSuccessInfluxHundredthsPercentage": "100",
   "FFlagToolboxRemoveLegacyContextFromCodePaths3": "True",
   "FFlagBootcampCLI72730": "True",
@@ -8085,8 +8085,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "50",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "d1a505447fe4b2485884a3713d3e037f0f6ed43a",
-  "DFStringFlagRepoGitHashDynamicString": "d1a505447fe4b2485884a3713d3e037f0f6ed43a",
-  "FStringFlipTimeStampFastString": "2023-09-21T17:25:52.330Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T17:25:52.330Z"
+  "FStringFlagRepoGitHashFastString": "7b8265a5fba26d18413b8c8d6b6f19893d398459",
+  "DFStringFlagRepoGitHashDynamicString": "7b8265a5fba26d18413b8c8d6b6f19893d398459",
+  "FStringFlipTimeStampFastString": "2023-09-21T17:32:09.748Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T17:32:09.748Z"
 }
