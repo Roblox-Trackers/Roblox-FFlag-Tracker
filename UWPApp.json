@@ -7738,7 +7738,6 @@
   "FFlagFixCullingShadowObject": "True",
   "FFlagDoNotShrinkDegenerateHulls": "True",
   "FFlagFixShapeCastSupportPoint": "True",
-  "FFlagFCRefactor_Rollout": "True;60;2023-09-21T17:07:12",
   "FFlagLuaAppAddRetryHeader2": "True",
   "FFlagVRDisableAutomaticScalingOnHeadscale2_Rollout": "True;60;2023-09-21T17:25:35",
   "FFlagLuauTypecheckLimitControlFix": "True",
@@ -7751,6 +7750,7 @@
   "FFlagSessionAppLifecycleEvents": "True",
   "FFlagSessionGamePlayEvents3": "True",
   "FFlagSessionHeartbeatAddSessionInfo": "True",
+  "FFlagFCRefactor": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7944,8 +7944,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "DFFlagSkipRenderEventInShutdown": "True",
   "DFFlagCLI82264": "True",
-  "FStringFlagRepoGitHashFastString": "2a9ff7fc199f665ada4751803c79838d1dec56c2",
-  "DFStringFlagRepoGitHashDynamicString": "2a9ff7fc199f665ada4751803c79838d1dec56c2",
-  "FStringFlipTimeStampFastString": "2023-09-21T18:09:25.940Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T18:09:25.940Z"
+  "FStringFlagRepoGitHashFastString": "2bad2cd8de0e2135677974a29bb6b93ca8036623",
+  "DFStringFlagRepoGitHashDynamicString": "2bad2cd8de0e2135677974a29bb6b93ca8036623",
+  "FStringFlipTimeStampFastString": "2023-09-21T18:11:35.201Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T18:11:35.201Z"
 }
