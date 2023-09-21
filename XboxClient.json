@@ -7747,7 +7747,6 @@
   "FFlagSessionGamePlayEvents3": "True",
   "FFlagSessionHeartbeatAddSessionInfo": "True",
   "FFlagFCRefactor": "True",
-  "DFFlagCollectionServiceRefactor_Rollout": "True;60;2023-09-21T18:16:48",
   "FFlagVRDisableAutomaticScalingOnHeadscale2": "True",
   "FFlagStudioStandaloneDataModelScope_Rollout": "True;60;2023-09-21T18:37:23",
   "FFlagAvatarLandingReloadEvent": "True",
@@ -7760,6 +7759,7 @@
   "DFIntSceneUpdaterELTDurationsHundredths_Rollout": "0;60;2023-09-21T18:57:19",
   "FFlagEnableAnimatedOmniFeed": "True",
   "FFlagNoDisabledScreenGuiForGetGuiObjects": "True",
+  "DFFlagCollectionServiceRefactor": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7956,8 +7956,8 @@
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "DFIntHttpCacheRetryCount": "5000",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
-  "FStringFlagRepoGitHashFastString": "08abb4947860c9646e45f0636b2397fc306ac5d0",
-  "DFStringFlagRepoGitHashDynamicString": "08abb4947860c9646e45f0636b2397fc306ac5d0",
-  "FStringFlipTimeStampFastString": "2023-09-21T19:19:45.443Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T19:19:45.443Z"
+  "FStringFlagRepoGitHashFastString": "9f509e1e46614f3aa2bc6c6b3dc05ae436cec44f",
+  "DFStringFlagRepoGitHashDynamicString": "9f509e1e46614f3aa2bc6c6b3dc05ae436cec44f",
+  "FStringFlipTimeStampFastString": "2023-09-21T19:21:14.436Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T19:21:14.436Z"
 }
