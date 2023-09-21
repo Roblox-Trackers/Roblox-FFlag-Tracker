@@ -7772,7 +7772,6 @@
   "FFlagTaskSchedulerUseRobloxRuntime": "True",
   "FFlagSetRSFNotSelectable": "True",
   "FFlagStudioActionConversionGroup1": "True",
-  "FFlagVoiceChatLogClientTurnServerConnectedEvent_Rollout": "True;30;2023-09-21T22:27:07",
   "DFFlagEncodeRotationCurvesWithTangentFlags": "True",
   "DFFlagSimModelLodAsync_Rollout": "True;60;2023-09-21T22:33:45",
   "FixInExperienceNotification2": "True",
@@ -7782,6 +7781,7 @@
   "DFFlagVIPTeleportGameJoin": "True",
   "DFFlagDoVIPTeleport": "True",
   "DFFlagTeleportVIPPlayerPassThrough": "True",
+  "FFlagVoiceChatLogClientTurnServerConnectedEvent": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8041,8 +8041,8 @@
   "FFlagMacUpdateAdapterUseInstaller1": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
-  "FStringFlagRepoGitHashFastString": "e9f1a32b6b96541f0fe9e511f0a58b69ac9aca0b",
-  "DFStringFlagRepoGitHashDynamicString": "e9f1a32b6b96541f0fe9e511f0a58b69ac9aca0b",
-  "FStringFlipTimeStampFastString": "2023-09-21T22:58:10.846Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T22:58:10.846Z"
+  "FStringFlagRepoGitHashFastString": "7362888eda316412c0521c6c24af0fe6f8014e3a",
+  "DFStringFlagRepoGitHashDynamicString": "7362888eda316412c0521c6c24af0fe6f8014e3a",
+  "FStringFlipTimeStampFastString": "2023-09-21T23:02:13.576Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T23:02:13.576Z"
 }
