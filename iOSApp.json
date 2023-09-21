@@ -7617,7 +7617,7 @@
   "DFFlagOnNewOverlapDifferentWorldCrash": "True",
   "FFlagVideoUseThreadPool4_PlaceFilter": "False;13829433061",
   "FFlagStudioOnboardingExperiment1AdditionalAnalytics": "True",
-  "DFIntSceneUpdaterELTDurationsHundredths": "50",
+  "DFIntSceneUpdaterELTDurationsHundredths": "0",
   "FFlagStreamingStopReasonsEnumMap": "True",
   "DFFlagReportPlaceValidAssetType": "True",
   "DFFlagFixRolloutTelemetryTagging": "True",
@@ -7753,7 +7753,6 @@
   "FFlagFixOmniFeedFocusEscape": "True",
   "FFlagDragDetectorCancelOnAncestryChanged": "True",
   "FFlagGetStringForKeyCodeSupportsGamepad2": "True",
-  "DFIntSceneUpdaterELTDurationsHundredths_Rollout": "0;60;2023-09-21T18:57:19",
   "FFlagEnableAnimatedOmniFeed": "True",
   "FFlagNoDisabledScreenGuiForGetGuiObjects": "True",
   "DFFlagCollectionServiceRefactor": "True",
@@ -8101,8 +8100,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "8d4568dd692c3bd991c68854817d05309cacc305",
-  "DFStringFlagRepoGitHashDynamicString": "8d4568dd692c3bd991c68854817d05309cacc305",
-  "FStringFlipTimeStampFastString": "2023-09-21T20:06:20.778Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T20:06:20.778Z"
+  "FStringFlagRepoGitHashFastString": "ddd3d55247eeed31545f54fe1701a7e46a1fff0d",
+  "DFStringFlagRepoGitHashDynamicString": "ddd3d55247eeed31545f54fe1701a7e46a1fff0d",
+  "FStringFlipTimeStampFastString": "2023-09-21T20:10:22.124Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T20:10:22.124Z"
 }
