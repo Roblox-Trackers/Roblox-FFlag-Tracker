@@ -6233,7 +6233,7 @@
   "FFlagDebuggerMigrateAnalyticsEvents": "True",
   "FFlagTurnOffFeaturesForLongScript": "False",
   "FFlagBootcampCLI72704": "True",
-  "FFlagDisableEditProfileForVRV2": "False",
+  "FFlagDisableEditProfileForVRV2": "True",
   "FFlagDisableExperienceRatingVR": "True",
   "FFlagStudioLocalizePropertyCategory3": "True",
   "FFlagStudioFixMultipleLoginDialog": "True",
@@ -8084,8 +8084,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "50",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "f6b2fcb48e33ec43d8fa8a2eccf43a118004a661",
-  "DFStringFlagRepoGitHashDynamicString": "f6b2fcb48e33ec43d8fa8a2eccf43a118004a661",
-  "FStringFlipTimeStampFastString": "2023-09-21T17:15:17.907Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T17:15:17.907Z"
+  "FStringFlagRepoGitHashFastString": "b73280c6e50d26e48d36e5f004e622b0107f7d24",
+  "DFStringFlagRepoGitHashDynamicString": "b73280c6e50d26e48d36e5f004e622b0107f7d24",
+  "FStringFlipTimeStampFastString": "2023-09-21T17:22:05.201Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T17:22:05.201Z"
 }
