@@ -7703,7 +7703,7 @@
   "DFFlagReduceDownSampledPerfControlStreamingMetrics": "True",
   "FFlagDragDetectorJointType": "True",
   "DFFlagSimulateNewDynamicFlagRolloutCheck": "True",
-  "FFlagSimulateNewStaticFlagRolloutCheck": "True",
+  "FFlagSimulateNewStaticFlagRolloutCheck": "False",
   "DFIntCountInvokePathUseHundrethsPercent": "100",
   "DFFlagPerfDataOnHiveStripSuffixFromGlobalPointsFields": "True",
   "FFlagBootcampCLI84830": "True",
@@ -7726,8 +7726,6 @@
   "DFFlagCollectParallelOptimization": "True",
   "FFlagAddRunContextToIsKnownPluginScript1": "True",
   "FFlagFetchOutfitInfoUseAvatarEditorService": "True",
-  "DFFlagSimAeroAllowZeroAirDensity_Rollout": "True;60;2023-09-20T23:32:52",
-  "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "False;60;2023-09-20T23:36:12",
   "FFlagCheckCancellationInCheckAsync": "True",
   "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "False;60;2023-09-20T23:37:37",
   "FFlagMacUpdateAdapterUseInstaller2": "True",
@@ -7737,6 +7735,7 @@
   "FFlagVoiceChatUseSoundServiceInputApi": "True",
   "DFFlagEnablePortingStreamingMetricsToPerformanceControl2": "True",
   "FFlagCOLLAB4014FlyToCollaborator": "True",
+  "DFFlagSimAeroAllowZeroAirDensity": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8113,8 +8112,8 @@
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
   "FFlagGpuGeometryManager7": "True",
-  "FStringFlagRepoGitHashFastString": "439f5299087ef2667ba1e1085f6bf47058d346e2",
-  "DFStringFlagRepoGitHashDynamicString": "439f5299087ef2667ba1e1085f6bf47058d346e2",
-  "FStringFlipTimeStampFastString": "2023-09-21T00:23:20.848Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T00:23:20.848Z"
+  "FStringFlagRepoGitHashFastString": "e85ed557d9993a62e9f24cf093033caa33a1e9e0",
+  "DFStringFlagRepoGitHashDynamicString": "e85ed557d9993a62e9f24cf093033caa33a1e9e0",
+  "FStringFlipTimeStampFastString": "2023-09-21T00:41:58.354Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T00:41:58.354Z"
 }
