@@ -7748,7 +7748,6 @@
   "FFlagSessionHeartbeatAddSessionInfo": "True",
   "FFlagFCRefactor": "True",
   "FFlagVRDisableAutomaticScalingOnHeadscale2": "True",
-  "FFlagStudioStandaloneDataModelScope_Rollout": "True;60;2023-09-21T18:37:23",
   "FFlagAvatarLandingReloadEvent": "True",
   "FFlagFriendsLandingGamepadNav": "True",
   "FFlagFixOmniFeedFocusEscape": "True",
@@ -7762,6 +7761,7 @@
   "DFFlagCollectionServiceRefactor": "True",
   "FFlagScriptEditorLiveEditingSVH2_Rollout": "True;60;2023-09-21T19:30:59",
   "DFFlagAddGlobalWindToPlaceStats_Rollout": "False;30;2023-09-21T19:46:09",
+  "FFlagStudioStandaloneDataModelScope": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8133,8 +8133,8 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
-  "FStringFlagRepoGitHashFastString": "ae0b0ab85563bd2f767a2d709fdf293cfc56611b",
-  "DFStringFlagRepoGitHashDynamicString": "ae0b0ab85563bd2f767a2d709fdf293cfc56611b",
-  "FStringFlipTimeStampFastString": "2023-09-21T19:46:27.467Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T19:46:27.467Z"
+  "FStringFlagRepoGitHashFastString": "d0019400f0039210836d76850d180c100671d08d",
+  "DFStringFlagRepoGitHashDynamicString": "d0019400f0039210836d76850d180c100671d08d",
+  "FStringFlipTimeStampFastString": "2023-09-21T19:46:46.467Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T19:46:46.467Z"
 }
