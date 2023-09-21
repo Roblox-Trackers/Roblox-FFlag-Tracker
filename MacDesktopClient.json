@@ -7739,7 +7739,6 @@
   "FFlagDoNotShrinkDegenerateHulls": "True",
   "FFlagFixShapeCastSupportPoint": "True",
   "FFlagLuaAppAddRetryHeader2": "True",
-  "FFlagVRDisableAutomaticScalingOnHeadscale2_Rollout": "True;60;2023-09-21T17:25:35",
   "FFlagLuauTypecheckLimitControlFix": "True",
   "FFlagGetStringForKeyCodeSupportsGamepad2_Rollout": "True;60;2023-09-21T17:49:08",
   "FFlagDragDetectorCancelOnAncestryChanged_Rollout": "True;60;2023-09-21T17:51:11",
@@ -7753,6 +7752,8 @@
   "FFlagFCRefactor": "True",
   "DFFlagCollectionServiceRefactor_Rollout": "True;60;2023-09-21T18:16:48",
   "DFFlagEnableV2POCCounter_Rollout": "False;30;2023-09-21T18:22:44",
+  "FFlagVRDisableAutomaticScalingOnHeadscale2": "True",
+  "FFlagStudioStandaloneDataModelScope_Rollout": "True;60;2023-09-21T18:37:23",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8012,8 +8013,8 @@
   "FFlagMacUpdateAdapterUseInstaller1": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
-  "FStringFlagRepoGitHashFastString": "abc8766db3e12eb4ece1d491091244f3276b4bc0",
-  "DFStringFlagRepoGitHashDynamicString": "abc8766db3e12eb4ece1d491091244f3276b4bc0",
-  "FStringFlipTimeStampFastString": "2023-09-21T18:26:57.851Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T18:26:57.851Z"
+  "FStringFlagRepoGitHashFastString": "6a06b92e1be59089d35afe63be2fe93937200ff2",
+  "DFStringFlagRepoGitHashDynamicString": "6a06b92e1be59089d35afe63be2fe93937200ff2",
+  "FStringFlipTimeStampFastString": "2023-09-21T18:38:31.208Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T18:38:31.208Z"
 }
