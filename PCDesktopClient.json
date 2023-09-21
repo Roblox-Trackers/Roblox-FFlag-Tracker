@@ -7759,7 +7759,6 @@
   "FFlagStudioStandaloneDataModelScope": "True",
   "FFlagStudioBreakUpStartPageQmlController3": "True",
   "DFFlagSimModelLodCSGUsePartColor": "True",
-  "FFlagDragDetectorsUseInternalConstraints3_Rollout": "True;60;2023-09-21T20:37:03",
   "FFlagScriptEditorLiveEditingSVH2": "True",
   "FFlagFriendTileTokenizeRelevancyInfo": "True",
   "DFFlagImmediateTTUpdate_Rollout": "True;60;2023-09-21T20:43:38",
@@ -7774,6 +7773,7 @@
   "DFFlagTeleportVIPPlayerPassThrough_Rollout": "True;60;2023-09-21T21:38:17",
   "DFFlagVIPTeleportGameJoin_Rollout": "True;60;2023-09-21T21:38:26",
   "DFFlagDoVIPTeleport_Rollout": "True;60;2023-09-21T21:38:33",
+  "FFlagDragDetectorsUseInternalConstraints3": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8035,8 +8035,8 @@
   "FFlagAppUpdateAdapterWithChannels": "True",
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
-  "FStringFlagRepoGitHashFastString": "30d5246aa28d574d6644420f67b422ec1c09bc55",
-  "DFStringFlagRepoGitHashDynamicString": "30d5246aa28d574d6644420f67b422ec1c09bc55",
-  "FStringFlipTimeStampFastString": "2023-09-21T21:39:28.988Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T21:39:28.988Z"
+  "FStringFlagRepoGitHashFastString": "b76075d8543045399884e526a58638e154d0aaab",
+  "DFStringFlagRepoGitHashDynamicString": "b76075d8543045399884e526a58638e154d0aaab",
+  "FStringFlipTimeStampFastString": "2023-09-21T21:41:41.027Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T21:41:41.027Z"
 }
