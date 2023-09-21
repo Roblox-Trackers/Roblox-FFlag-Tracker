@@ -7775,6 +7775,8 @@
   "FFlagSetRSFNotSelectable": "True",
   "FFlagStudioActionConversionGroup1": "True",
   "FFlagVoiceChatLogClientTurnServerConnectedEvent_Rollout": "True;30;2023-09-21T22:27:07",
+  "DFFlagTeleportVIPPlayerPassThrough_Rollout": "True;15;2023-09-21T22:29:37",
+  "DFFlagVIPTeleportGameJoin_Rollout": "True;15;2023-09-21T22:30:20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8112,8 +8114,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "68d65c5d4a8f0a5c077e09567d8b75725355813a",
-  "DFStringFlagRepoGitHashDynamicString": "68d65c5d4a8f0a5c077e09567d8b75725355813a",
-  "FStringFlipTimeStampFastString": "2023-09-21T22:27:45.559Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T22:27:45.559Z"
+  "FStringFlagRepoGitHashFastString": "6ba6e5c32ce6561961434397d08f18129f92bf69",
+  "DFStringFlagRepoGitHashDynamicString": "6ba6e5c32ce6561961434397d08f18129f92bf69",
+  "FStringFlipTimeStampFastString": "2023-09-21T22:30:49.601Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T22:30:49.601Z"
 }
