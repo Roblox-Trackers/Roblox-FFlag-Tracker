@@ -5748,7 +5748,7 @@
   "DFFlagSimLevitationChangingFloorNormals": "True",
   "DFFlagHttpIncludeRetryCount": "True",
   "FFlagScriptEditorMultiCursor": "True",
-  "DFFlagAddGlobalWindToPlaceStats": "True",
+  "DFFlagAddGlobalWindToPlaceStats": "False",
   "FFlagEnumAttributeWritabilityFix": "True",
   "FFlagEnumItemCrash": "True",
   "FFlagSoundClientsUseDenseSet": "True",
@@ -7757,7 +7757,6 @@
   "FFlagNoDisabledScreenGuiForGetGuiObjects": "True",
   "DFFlagCollectionServiceRefactor": "True",
   "FFlagScriptEditorLiveEditingSVH2_Rollout": "True;60;2023-09-21T19:30:59",
-  "DFFlagAddGlobalWindToPlaceStats_Rollout": "False;30;2023-09-21T19:46:09",
   "FFlagStudioStandaloneDataModelScope": "True",
   "FFlagStudioBreakUpStartPageQmlController3": "True",
   "DFFlagSimModelLodCSGUsePartColor": "True",
@@ -8133,8 +8132,8 @@
   "DFFlagSkipRenderEventInShutdown": "True",
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
-  "FStringFlagRepoGitHashFastString": "ddd3d55247eeed31545f54fe1701a7e46a1fff0d",
-  "DFStringFlagRepoGitHashDynamicString": "ddd3d55247eeed31545f54fe1701a7e46a1fff0d",
-  "FStringFlipTimeStampFastString": "2023-09-21T20:10:22.124Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T20:10:22.124Z"
+  "FStringFlagRepoGitHashFastString": "f87623e9c8a4e1564dc20125a772cf4d0b2f8d1b",
+  "DFStringFlagRepoGitHashDynamicString": "f87623e9c8a4e1564dc20125a772cf4d0b2f8d1b",
+  "FStringFlipTimeStampFastString": "2023-09-21T20:21:40.280Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-21T20:21:40.280Z"
 }
