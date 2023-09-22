@@ -8104,7 +8104,7 @@
   "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagEnableiOSRealtimeProtocol": "True",
-  "FIntEnableiOSRealtimeProtocolRollout": "20",
+  "FIntEnableiOSRealtimeProtocolRollout": "0",
   "DFFlagDebugSendExtraTDigestDebugInfo": "True",
   "FFlagEnableIOSAutofillPhoneNumber": "True",
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenediOS",
@@ -8116,9 +8116,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FIntEnableiOSRealtimeProtocolRollout_Rollout": "0;10;2023-09-22T16:52:48",
-  "FStringFlagRepoGitHashFastString": "4d8ec185c7f03a52115dc8f66d3aa9a6615e5cb9",
-  "DFStringFlagRepoGitHashDynamicString": "4d8ec185c7f03a52115dc8f66d3aa9a6615e5cb9",
-  "FStringFlipTimeStampFastString": "2023-09-22T16:53:27.539Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-22T16:53:27.539Z"
+  "FStringFlagRepoGitHashFastString": "3e6f0db9b21ef27111884804b7f02ce8fd5cc9a2",
+  "DFStringFlagRepoGitHashDynamicString": "3e6f0db9b21ef27111884804b7f02ce8fd5cc9a2",
+  "FStringFlipTimeStampFastString": "2023-09-22T17:06:57.789Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-22T17:06:57.789Z"
 }
