@@ -7782,6 +7782,7 @@
   "FFlagVoiceChatLogClientTurnServerConnectedEvent": "True",
   "DFFlagSimModelLodAsync": "True",
   "DFFlagPersistentLoadedWithTarget_Rollout": "True;60;2023-09-21T23:47:40",
+  "DFFlagEnableRobloxTelemetryV2POC_Rollout": "False;60;2023-09-22T00:04:27",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8041,8 +8042,8 @@
   "FFlagAppUpdateAdapterWithChannels": "True",
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
-  "FStringFlagRepoGitHashFastString": "4eed3b14456be54e568d58a29d5980bc0cfb8505",
-  "DFStringFlagRepoGitHashDynamicString": "4eed3b14456be54e568d58a29d5980bc0cfb8505",
-  "FStringFlipTimeStampFastString": "2023-09-21T23:48:22.649Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-21T23:48:22.649Z"
+  "FStringFlagRepoGitHashFastString": "0a208ae3b10977ed3b804a2fb9a5c748f674a660",
+  "DFStringFlagRepoGitHashDynamicString": "0a208ae3b10977ed3b804a2fb9a5c748f674a660",
+  "FStringFlipTimeStampFastString": "2023-09-22T00:04:51.587Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-22T00:04:51.587Z"
 }
