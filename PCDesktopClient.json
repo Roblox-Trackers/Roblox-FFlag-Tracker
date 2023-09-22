@@ -7781,9 +7781,9 @@
   "DFFlagVoiceChatSendPiiUserIdOnJoin": "True",
   "FFlagConvertDynamicHeadScaleFix": "True",
   "FFlagOpenXrCreationFix": "True",
-  "FFlagSimCSG3FixNoSplitApart_Rollout": "True;60;2023-09-22T17:41:43",
   "FFlagFmodMixerThreadTracking": "True",
   "FFlagLuaAppEnableNativeRobuxProducts": "True",
+  "FFlagSimCSG3FixNoSplitApart": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8043,8 +8043,8 @@
   "FFlagAppUpdateAdapterWithChannels": "True",
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
-  "FStringFlagRepoGitHashFastString": "a77f985a68e4eb000725e3bc5660660172d70d37",
-  "DFStringFlagRepoGitHashDynamicString": "a77f985a68e4eb000725e3bc5660660172d70d37",
-  "FStringFlipTimeStampFastString": "2023-09-22T18:38:26.380Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-22T18:38:26.380Z"
+  "FStringFlagRepoGitHashFastString": "3725c99d3df5006a14c6ee0811847e0fb4dae46b",
+  "DFStringFlagRepoGitHashDynamicString": "3725c99d3df5006a14c6ee0811847e0fb4dae46b",
+  "FStringFlipTimeStampFastString": "2023-09-22T18:46:27.938Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-22T18:46:27.938Z"
 }
