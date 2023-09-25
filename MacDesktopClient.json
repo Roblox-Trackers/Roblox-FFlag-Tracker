@@ -4629,7 +4629,7 @@
   "FFlagSupportOffCenterOriginClickDrag": "True",
   "FFlagSupportOffCenterOriginTriangleMeshComputeExtents": "True",
   "DFFlagFlagRolloutTestDynamicBool3": "True",
-  "FFlagFlagRolloutTestStaticBool0": "True",
+  "FFlagFlagRolloutTestStaticBool0": "False",
   "FFlagFlagRolloutTestStaticBool1": "False",
   "FFlagFlagRolloutTestStaticBool3": "True",
   "FFlagFlagRolloutTestStaticBool4": "False",
@@ -7762,7 +7762,6 @@
   "FFlagLuaAppEnableNativeRobuxProducts": "True",
   "DFFlagUseAndroidMemoryAdviceLibrary3": "False",
   "DFFlagTwoMoreFieldsForRolloutCounter": "True",
-  "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2023-09-25T16:13:32",
   "FFlagFixPluginDebugGuiServiceContextMenu_Rollout": "True;60;2023-09-25T16:31:23",
   "FFlagKeepVRAppNavBar": "True",
   "FFlagFixFutureHbaoTextureBinding_Rollout": "True;60;2023-09-25T16:41:51",
@@ -8028,8 +8027,8 @@
   "FFlagMacUpdateAdapterUseInstaller1": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
-  "FStringFlagRepoGitHashFastString": "f68d99748de3a55d36da4887fccd0e2668a91bb9",
-  "DFStringFlagRepoGitHashDynamicString": "f68d99748de3a55d36da4887fccd0e2668a91bb9",
-  "FStringFlipTimeStampFastString": "2023-09-25T17:17:40.923Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-25T17:17:40.923Z"
+  "FStringFlagRepoGitHashFastString": "206f3feb17401d07e0c806d929c6a2e62aa4baaf",
+  "DFStringFlagRepoGitHashDynamicString": "206f3feb17401d07e0c806d929c6a2e62aa4baaf",
+  "FStringFlipTimeStampFastString": "2023-09-25T17:21:32.441Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-25T17:21:32.441Z"
 }
