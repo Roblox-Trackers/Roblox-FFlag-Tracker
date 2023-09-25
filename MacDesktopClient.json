@@ -7764,7 +7764,6 @@
   "FFlagKeepVRAppNavBar": "True",
   "FFlagAssetConfigCopyHandleCFrame": "True",
   "FFlagRemoveVRToggleDialog2": "True",
-  "FFlagSimCSGV3FixAddedFaceList_Rollout": "True;60;2023-09-25T17:28:11",
   "FIntCryoMigrateTo1_0_3Rollout": "10",
   "FFlagEnableDeeplinkForProfileCard": "True",
   "FFlagFixPluginDebugGuiServiceContextMenu": "True",
@@ -7777,6 +7776,7 @@
   "DFFlagFlagRolloutTestDynamicBool3_Rollout": "False;60;2023-09-25T18:17:49",
   "FFlagDoNotIncludeGroupNodesInTheAnimation": "True",
   "DFFlagProcessTokenInRakPeer_Rollout": "True;60;2023-09-25T18:32:26",
+  "FFlagSimCSGV3FixAddedFaceList": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8035,8 +8035,8 @@
   "FFlagMacUpdateAdapterUseInstaller1": "True",
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
-  "FStringFlagRepoGitHashFastString": "68bf389d69b0e9effc296b3f582d7928b11c9a0a",
-  "DFStringFlagRepoGitHashDynamicString": "68bf389d69b0e9effc296b3f582d7928b11c9a0a",
-  "FStringFlipTimeStampFastString": "2023-09-25T18:32:49.636Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-25T18:32:49.636Z"
+  "FStringFlagRepoGitHashFastString": "10f6e7e7983951d8bf12f771ae46dfcfe856a798",
+  "DFStringFlagRepoGitHashDynamicString": "10f6e7e7983951d8bf12f771ae46dfcfe856a798",
+  "FStringFlipTimeStampFastString": "2023-09-25T18:35:56.246Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-25T18:35:56.246Z"
 }
