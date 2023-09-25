@@ -7769,6 +7769,9 @@
   "FFlagKeepVRAppNavBar": "True",
   "FFlagFixFutureHbaoTextureBinding_Rollout": "True;60;2023-09-25T16:41:51",
   "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2023-09-25T16:55:06",
+  "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2023-09-25T16:59:52",
+  "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2023-09-25T17:00:39",
+  "FFlagAssetConfigCopyHandleCFrame": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7964,8 +7967,8 @@
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "DFIntHttpCacheRetryCount": "5000",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
-  "FStringFlagRepoGitHashFastString": "034d47f1e785440744ef32281d75528da4daff4f",
-  "DFStringFlagRepoGitHashDynamicString": "034d47f1e785440744ef32281d75528da4daff4f",
-  "FStringFlipTimeStampFastString": "2023-09-25T16:56:35.683Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-25T16:56:35.683Z"
+  "FStringFlagRepoGitHashFastString": "d9c34a91fd52e1b1ee841b03abfb4f336ec42e60",
+  "DFStringFlagRepoGitHashDynamicString": "d9c34a91fd52e1b1ee841b03abfb4f336ec42e60",
+  "FStringFlipTimeStampFastString": "2023-09-25T17:05:45.759Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-25T17:05:45.759Z"
 }
