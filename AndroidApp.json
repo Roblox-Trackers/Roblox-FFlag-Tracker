@@ -7781,6 +7781,7 @@
   "FFlagFlagRolloutTestStaticBool4_Rollout": "True;60;2023-09-25T20:10:40",
   "DFFlagFlagRolloutTestDynamicBool4_Rollout": "False;60;2023-09-25T20:11:18",
   "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2023-09-25T20:12:38",
+  "FIntSessionTrackingStorageFlushPeriodSec_Rollout": "20;60;2023-09-25T21:02:53",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8151,8 +8152,8 @@
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
   "EnablePushNotificationSessionUtilsAndroid": "True",
-  "FStringFlagRepoGitHashFastString": "c808ed5b79403cb19f592864db87a88fd22a4b1b",
-  "DFStringFlagRepoGitHashDynamicString": "c808ed5b79403cb19f592864db87a88fd22a4b1b",
-  "FStringFlipTimeStampFastString": "2023-09-25T20:55:49.149Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-25T20:55:49.149Z"
+  "FStringFlagRepoGitHashFastString": "e324b803d6bd04f72537c900aabf659e24beaf30",
+  "DFStringFlagRepoGitHashDynamicString": "e324b803d6bd04f72537c900aabf659e24beaf30",
+  "FStringFlipTimeStampFastString": "2023-09-25T21:03:22.290Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-25T21:03:22.290Z"
 }
