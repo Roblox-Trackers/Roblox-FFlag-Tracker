@@ -7675,7 +7675,7 @@
   "FFlagCOLLAB4802_FixManageCollabLanguageBug": "True",
   "DFFlagReduceDownSampledPerfControlStreamingMetrics": "True",
   "FFlagDragDetectorJointType": "True",
-  "DFFlagSimulateNewDynamicFlagRolloutCheck": "False",
+  "DFFlagSimulateNewDynamicFlagRolloutCheck": "True",
   "FFlagSimulateNewStaticFlagRolloutCheck": "False",
   "DFIntCountInvokePathUseHundrethsPercent": "100",
   "DFFlagPerfDataOnHiveStripSuffixFromGlobalPointsFields": "True",
@@ -7777,7 +7777,6 @@
   "FFlagRetargetingIgnoreLowWeightAnimation": "True",
   "DFFlagThirdFlagHashMethodExperiment": "True",
   "FFlagStyleToHeadsRename": "True",
-  "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2023-09-25T20:12:38",
   "FIntSessionTrackingStorageFlushPeriodSec_Rollout": "20;60;2023-09-25T21:02:53",
   "DFFlagEnableEmotePublish3": "False",
   "DFFlagEnableEmotePublish3_PlaceFilter": "True;14883099012",
@@ -8120,8 +8119,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "006fd0063ade5e27e6951ace7011d1f12eb671cc",
-  "DFStringFlagRepoGitHashDynamicString": "006fd0063ade5e27e6951ace7011d1f12eb671cc",
-  "FStringFlipTimeStampFastString": "2023-09-25T21:16:54.653Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-25T21:16:54.653Z"
+  "FStringFlagRepoGitHashFastString": "382575d58bec76ccc3ee6a264c1be4ae83bbc5e0",
+  "DFStringFlagRepoGitHashDynamicString": "382575d58bec76ccc3ee6a264c1be4ae83bbc5e0",
+  "FStringFlipTimeStampFastString": "2023-09-25T21:21:45.106Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-25T21:21:45.106Z"
 }
