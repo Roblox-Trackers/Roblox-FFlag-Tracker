@@ -7762,7 +7762,6 @@
   "FFlagLuaAppEnableNativeRobuxProducts": "True",
   "DFFlagUseAndroidMemoryAdviceLibrary3": "False",
   "DFFlagTwoMoreFieldsForRolloutCounter": "True",
-  "FFlagFixPluginDebugGuiServiceContextMenu_Rollout": "True;60;2023-09-25T16:31:23",
   "FFlagKeepVRAppNavBar": "True",
   "FFlagFixFutureHbaoTextureBinding_Rollout": "True;60;2023-09-25T16:41:51",
   "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2023-09-25T16:55:06",
@@ -7773,6 +7772,7 @@
   "FFlagSimCSGV3FixAddedFaceList_Rollout": "True;60;2023-09-25T17:28:11",
   "FIntCryoMigrateTo1_0_3Rollout": "10",
   "FFlagEnableDeeplinkForProfileCard": "True",
+  "FFlagFixPluginDebugGuiServiceContextMenu": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8033,8 +8033,8 @@
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "0e6b5b2f00ddf1b8f5bc87c3b8bcb764b32e56ad",
-  "DFStringFlagRepoGitHashDynamicString": "0e6b5b2f00ddf1b8f5bc87c3b8bcb764b32e56ad",
-  "FStringFlipTimeStampFastString": "2023-09-25T17:30:12.276Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-25T17:30:12.276Z"
+  "FStringFlagRepoGitHashFastString": "ef7e32bcb39bf755f7ba2bc6b25770971f9b2262",
+  "DFStringFlagRepoGitHashDynamicString": "ef7e32bcb39bf755f7ba2bc6b25770971f9b2262",
+  "FStringFlipTimeStampFastString": "2023-09-25T17:36:43.977Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-25T17:36:43.977Z"
 }
