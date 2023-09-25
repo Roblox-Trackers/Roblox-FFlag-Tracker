@@ -7674,7 +7674,7 @@
   "DFFlagReduceDownSampledPerfControlStreamingMetrics": "True",
   "FFlagDragDetectorJointType": "True",
   "DFFlagSimulateNewDynamicFlagRolloutCheck": "True",
-  "FFlagSimulateNewStaticFlagRolloutCheck": "True",
+  "FFlagSimulateNewStaticFlagRolloutCheck": "False",
   "DFIntCountInvokePathUseHundrethsPercent": "100",
   "DFFlagPerfDataOnHiveStripSuffixFromGlobalPointsFields": "True",
   "FFlagBootcampCLI84830": "True",
@@ -7783,6 +7783,7 @@
   "DFFlagPromptImportAnimationClipFromVideoAsyncEnabled": "False",
   "DFFlagPromptImportAnimationClipFromVideoAsyncEnabled_PlaceFilter": "True;14883099012",
   "AllowVideoPreRoll": "True",
+  "DFFlagProcessTokenInRakPeer": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -7974,8 +7975,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "267a31cdc1fa89a05d6a7320f3b2def587dcdcf5",
-  "DFStringFlagRepoGitHashDynamicString": "267a31cdc1fa89a05d6a7320f3b2def587dcdcf5",
-  "FStringFlipTimeStampFastString": "2023-09-25T22:35:22.277Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-25T22:35:22.277Z"
+  "FStringFlagRepoGitHashFastString": "67723d1dc8d2cfca92987c8d2f7d9248ddce1b24",
+  "DFStringFlagRepoGitHashDynamicString": "67723d1dc8d2cfca92987c8d2f7d9248ddce1b24",
+  "FStringFlipTimeStampFastString": "2023-09-25T22:37:19.425Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-25T22:37:19.425Z"
 }
