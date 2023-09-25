@@ -7763,7 +7763,6 @@
   "DFFlagUseAndroidMemoryAdviceLibrary3": "False",
   "DFFlagTwoMoreFieldsForRolloutCounter": "True",
   "FFlagKeepVRAppNavBar": "True",
-  "FFlagFixFutureHbaoTextureBinding_Rollout": "True;60;2023-09-25T16:41:51",
   "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2023-09-25T16:55:06",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2023-09-25T16:59:52",
   "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2023-09-25T17:00:39",
@@ -7774,6 +7773,7 @@
   "FFlagEnableDeeplinkForProfileCard": "True",
   "FFlagFixPluginDebugGuiServiceContextMenu": "True",
   "FFlagFixAvatarContextMenuVR": "True",
+  "FFlagFixFutureHbaoTextureBinding": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8144,8 +8144,8 @@
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
   "EnablePushNotificationSessionUtilsAndroid": "True",
-  "FStringFlagRepoGitHashFastString": "18c8b3867b25cd0c16c14ed4556d10c42e5fd963",
-  "DFStringFlagRepoGitHashDynamicString": "18c8b3867b25cd0c16c14ed4556d10c42e5fd963",
-  "FStringFlipTimeStampFastString": "2023-09-25T17:40:43.716Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-25T17:40:43.716Z"
+  "FStringFlagRepoGitHashFastString": "592bb004091827574d2bb181c8c09720e94c7dd2",
+  "DFStringFlagRepoGitHashDynamicString": "592bb004091827574d2bb181c8c09720e94c7dd2",
+  "FStringFlipTimeStampFastString": "2023-09-25T17:46:53.834Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-25T17:46:53.834Z"
 }
