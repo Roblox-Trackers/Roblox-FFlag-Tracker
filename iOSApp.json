@@ -7781,6 +7781,7 @@
   "DFFlagFlagRolloutTestDynamicBool3_Rollout": "True;60;2023-09-25T20:09:56",
   "FFlagFlagRolloutTestStaticBool4_Rollout": "True;60;2023-09-25T20:10:40",
   "DFFlagFlagRolloutTestDynamicBool4_Rollout": "False;60;2023-09-25T20:11:18",
+  "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2023-09-25T20:12:38",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -8116,8 +8117,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "25926712c538624501861b1fcec882d8de2779dc",
-  "DFStringFlagRepoGitHashDynamicString": "25926712c538624501861b1fcec882d8de2779dc",
-  "FStringFlipTimeStampFastString": "2023-09-25T20:12:26.959Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-25T20:12:26.959Z"
+  "FStringFlagRepoGitHashFastString": "b1c0be35f86db520d2cf0bfb7533d16f95306261",
+  "DFStringFlagRepoGitHashDynamicString": "b1c0be35f86db520d2cf0bfb7533d16f95306261",
+  "FStringFlipTimeStampFastString": "2023-09-25T20:13:01.678Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-25T20:13:01.678Z"
 }
