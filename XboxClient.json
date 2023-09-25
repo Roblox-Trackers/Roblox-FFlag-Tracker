@@ -7677,7 +7677,7 @@
   "DFFlagReduceDownSampledPerfControlStreamingMetrics": "True",
   "FFlagDragDetectorJointType": "True",
   "DFFlagSimulateNewDynamicFlagRolloutCheck": "True",
-  "FFlagSimulateNewStaticFlagRolloutCheck": "False",
+  "FFlagSimulateNewStaticFlagRolloutCheck": "True",
   "DFIntCountInvokePathUseHundrethsPercent": "100",
   "DFFlagPerfDataOnHiveStripSuffixFromGlobalPointsFields": "True",
   "FFlagBootcampCLI84830": "True",
@@ -7762,7 +7762,6 @@
   "DFFlagUseAndroidMemoryAdviceLibrary3": "False",
   "DFFlagTwoMoreFieldsForRolloutCounter": "True",
   "FFlagKeepVRAppNavBar": "True",
-  "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2023-09-25T16:55:06",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2023-09-25T16:59:52",
   "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2023-09-25T17:00:39",
   "FFlagAssetConfigCopyHandleCFrame": "True",
@@ -7969,8 +7968,8 @@
   "FFlagEnableCrossDeviceLoginUsingQRCodes3": "True",
   "DFIntHttpCacheRetryCount": "5000",
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
-  "FStringFlagRepoGitHashFastString": "9769cbdbc6104960e9b199e77f35b1e4bf46007a",
-  "DFStringFlagRepoGitHashDynamicString": "9769cbdbc6104960e9b199e77f35b1e4bf46007a",
-  "FStringFlipTimeStampFastString": "2023-09-25T17:59:57.249Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-25T17:59:57.249Z"
+  "FStringFlagRepoGitHashFastString": "d4e016e288b6f08a45738ff3c5887ee218df8ed5",
+  "DFStringFlagRepoGitHashDynamicString": "d4e016e288b6f08a45738ff3c5887ee218df8ed5",
+  "FStringFlipTimeStampFastString": "2023-09-25T18:01:47.189Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-25T18:01:47.189Z"
 }
