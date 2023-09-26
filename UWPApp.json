@@ -7461,7 +7461,7 @@
   "FFlagProfileMoveDetailIXPAccess": "True",
   "DFFlagStreamingDistanceTunableAddFallbackForMinRegions": "True",
   "DFFlagStreamingDistanceTunableFixFlappingOfCurrentValue": "True",
-  "FFlagFixUIRayGoingThruExistingVerts": "True",
+  "FFlagFixUIRayGoingThruExistingVerts": "False",
   "FFlagVRBottomBarHighlightedLeaveGameIconV2": "True",
   "FFlagEnableMaquettesAppPanelDistanceMultiplier": "True",
   "FFlagACEImproveFocusOnFace": "True",
@@ -7790,7 +7790,6 @@
   "DFFlagHttpRequestPostAddCustomHeader": "False",
   "FFlagHighDpiBordersBetterRounding_Rollout": "True;60;2023-09-26T21:35:29",
   "DFFlagReportToEdgeAnalyticsEventsAggregatorV2": "False",
-  "FFlagFixUIRayGoingThruExistingVerts_Rollout": "False;5;2023-09-26T21:36:02",
   "FFlagAddHiraganoSansForIOS2_Rollout": "True;10;2023-09-26T21:43:09",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -7984,8 +7983,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "90b9f5008b40ac6ba064407c0698637888e4f8e7",
-  "DFStringFlagRepoGitHashDynamicString": "90b9f5008b40ac6ba064407c0698637888e4f8e7",
-  "FStringFlipTimeStampFastString": "2023-09-26T21:43:32.515Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-26T21:43:32.515Z"
+  "FStringFlagRepoGitHashFastString": "9f7ec16932d8f3014d8fc03ae23f9ccbc3f6c8d9",
+  "DFStringFlagRepoGitHashDynamicString": "9f7ec16932d8f3014d8fc03ae23f9ccbc3f6c8d9",
+  "FStringFlipTimeStampFastString": "2023-09-26T21:46:51.653Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-26T21:46:51.653Z"
 }
