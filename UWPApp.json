@@ -7790,13 +7790,13 @@
   "CleanUpDualProcessCodePhase1": "True",
   "FFlagVRBottomBarUsePositionConfig": "True",
   "DFFlagVoiceChatTriggerEventOnBlocklistUpdate": "True",
-  "FFlagRevertcd51c3c6DisableAppSessionSuccess_Rollout": "True;60;2023-09-26T18:37:22",
   "FFlagDeactivateHoverTilesInVR": "True",
   "DFFlagVideoSeparateHttpCachePerUniverse": "True",
   "DFIntVideoSplitCacheRolloutHundredthsPercent": "1000",
   "FFlagRealNamesInDisplayNameExperimentRunning": "True",
   "FFlagHideVRLoadingJudderBehindSplashScreen": "True",
   "FFlagFixVRNavigationClippingAndAlignment2": "True",
+  "FFlagRevertcd51c3c6DisableAppSessionSuccess": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7989,8 +7989,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "e8a09a05d2c8ffcaacbde5b612fedfd293af5bb7",
-  "DFStringFlagRepoGitHashDynamicString": "e8a09a05d2c8ffcaacbde5b612fedfd293af5bb7",
-  "FStringFlipTimeStampFastString": "2023-09-26T19:00:29.808Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-26T19:00:29.808Z"
+  "FStringFlagRepoGitHashFastString": "2967498bb1165b18f74e5883c0344db8fd9cdadb",
+  "DFStringFlagRepoGitHashDynamicString": "2967498bb1165b18f74e5883c0344db8fd9cdadb",
+  "FStringFlipTimeStampFastString": "2023-09-26T19:46:17.547Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-26T19:46:17.547Z"
 }
