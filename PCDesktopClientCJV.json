@@ -490,7 +490,7 @@
   "FFlagFixInterpolationMovementCallbacks": "True",
   "FIntStudioProfilerHangThresholdSec": "1000000000",
   "FFlagLmsClientEnabled": "True",
-  "DFFlagEnableGCapsHardwareTelemetry": "True",
+  "DFFlagEnableGCapsHardwareTelemetry": "False",
   "DFFlagEnableIOSGPUFriendlyName": "True",
   "FFlagLuaAppCJVMorePageShowGroups": "False",
   "DFIntAbuseReportScreenshotPercentage": "50",
@@ -7786,7 +7786,6 @@
   "DFFlagHttpRequestPostAddCustomHeader": "False",
   "DFFlagReportToEdgeAnalyticsEventsAggregatorV2": "False",
   "FFlagAddHiraganoSansForIOS2": "True",
-  "DFFlagEnableGCapsHardwareTelemetry_Rollout": "False;60;2023-09-26T22:18:47",
   "FFlagEnableShimmeringIcon": "True",
   "FFlagEnableShimmeringIconLegacyChatService": "True",
   "DFFlagTelemetryUseTDigestSafeMethods_Rollout": "True;60;2023-09-26T22:31:33",
@@ -8055,8 +8054,8 @@
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "167e34b0b7fb375324501a4d28238661a699a97a",
-  "DFStringFlagRepoGitHashDynamicString": "167e34b0b7fb375324501a4d28238661a699a97a",
-  "FStringFlipTimeStampFastString": "2023-09-26T23:14:19.486Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-26T23:14:19.486Z"
+  "FStringFlagRepoGitHashFastString": "38ca6bb2d4817c045c9bf72a2fc557f61a7426c5",
+  "DFStringFlagRepoGitHashDynamicString": "38ca6bb2d4817c045c9bf72a2fc557f61a7426c5",
+  "FStringFlipTimeStampFastString": "2023-09-26T23:26:26.074Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-26T23:26:26.074Z"
 }
