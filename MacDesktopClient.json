@@ -7781,7 +7781,6 @@
   "FFlagRealNamesInDisplayNameExperimentRunning": "True",
   "FFlagHideVRLoadingJudderBehindSplashScreen": "True",
   "FFlagFixVRNavigationClippingAndAlignment2": "True",
-  "DFFlagHttpRequestPostAddCustomHeader_Rollout": "False;60;2023-09-26T20:26:28",
   "DFFlagReportToEdgeAnalyticsEventsAggregatorV2_Rollout": "False;60;2023-09-26T20:27:52",
   "FFlagToolboxFixInventoryGridSearch": "True",
   "DFIntTeleportV2InvocationsAnalyticsInfluxHundredthsPercentage_PlaceFilter": "5;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
@@ -7789,6 +7788,7 @@
   "DFFlagEnableV2POCStat_Rollout": "True;60;2023-09-26T21:13:51",
   "DFFlagEnableHardwareTelemetry_Rollout": "False;60;2023-09-26T21:27:02",
   "FFlagAdGuiRefactorViewability2_Rollout": "False;60;2023-09-26T21:29:48",
+  "DFFlagHttpRequestPostAddCustomHeader": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8048,8 +8048,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "4be569c776f83359e2191c998e6c70b1a637655f",
-  "DFStringFlagRepoGitHashDynamicString": "4be569c776f83359e2191c998e6c70b1a637655f",
-  "FStringFlipTimeStampFastString": "2023-09-26T21:30:40.774Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-26T21:30:40.774Z"
+  "FStringFlagRepoGitHashFastString": "fa907ba92f6c73242326c730413a0d3b288bd0e5",
+  "DFStringFlagRepoGitHashDynamicString": "fa907ba92f6c73242326c730413a0d3b288bd0e5",
+  "FStringFlipTimeStampFastString": "2023-09-26T21:32:05.878Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-26T21:32:05.878Z"
 }
