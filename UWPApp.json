@@ -7787,6 +7787,7 @@
   "DFIntTeleportV2InvocationsAnalyticsInfluxHundredthsPercentage_PlaceFilter": "5;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
   "FFlagRevertcd51c3c6DisableAppSessionSuccess": "True",
   "DFFlagEnableV2POCStat_Rollout": "True;60;2023-09-26T21:13:51",
+  "DFFlagEnableHardwareTelemetry_Rollout": "False;60;2023-09-26T21:27:02",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -7979,8 +7980,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "7cc7f7e658bb81084a6a51edc97d555f135fab22",
-  "DFStringFlagRepoGitHashDynamicString": "7cc7f7e658bb81084a6a51edc97d555f135fab22",
-  "FStringFlipTimeStampFastString": "2023-09-26T21:18:39.376Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-26T21:18:39.376Z"
+  "FStringFlagRepoGitHashFastString": "31265e80d75c5b97831b4362ce8d35589600b4ea",
+  "DFStringFlagRepoGitHashDynamicString": "31265e80d75c5b97831b4362ce8d35589600b4ea",
+  "FStringFlipTimeStampFastString": "2023-09-26T21:27:32.204Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-26T21:27:32.204Z"
 }
