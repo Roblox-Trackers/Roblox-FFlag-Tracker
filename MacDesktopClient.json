@@ -7799,6 +7799,8 @@
   "FFlagVoiceChatSendNewJoinSessionEvents": "True",
   "FFlagScriptEditorLiveEditingPropertySwitch_Rollout": "True;60;2023-09-27T18:39:58",
   "FFlag9SliceEditorAllowUnloadedImages": "True",
+  "FFlagExplorerFixInsertSelection_Rollout": "True;60;2023-09-27T19:08:19",
+  "FFlagExplorerImproveLogging_Rollout": "True;60;2023-09-27T19:08:19",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8058,8 +8060,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "a17b21d3d0c8d93f76b502026a63761b51d14fa4",
-  "DFStringFlagRepoGitHashDynamicString": "a17b21d3d0c8d93f76b502026a63761b51d14fa4",
-  "FStringFlipTimeStampFastString": "2023-09-27T19:06:35.239Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T19:06:35.239Z"
+  "FStringFlagRepoGitHashFastString": "8fc2396aa687b6cf112df718f1c1e3d1eacd1f18",
+  "DFStringFlagRepoGitHashDynamicString": "8fc2396aa687b6cf112df718f1c1e3d1eacd1f18",
+  "FStringFlipTimeStampFastString": "2023-09-27T19:08:36.142Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T19:08:36.142Z"
 }
