@@ -7776,7 +7776,7 @@
   "DFFlagVoiceChatTriggerEventOnBlocklistUpdate": "True",
   "FFlagDeactivateHoverTilesInVR": "True",
   "DFFlagVideoSeparateHttpCachePerUniverse": "True",
-  "DFIntVideoSplitCacheRolloutHundredthsPercent": "1000",
+  "DFIntVideoSplitCacheRolloutHundredthsPercent": "3000",
   "FFlagRealNamesInDisplayNameExperimentRunning": "True",
   "FFlagHideVRLoadingJudderBehindSplashScreen": "True",
   "FFlagFixVRNavigationClippingAndAlignment2": "True",
@@ -7801,7 +7801,6 @@
   "FFlagVoiceChatSendNewJoinSessionEvents_Rollout": "True;30;2023-09-27T18:30:46",
   "FFlagScriptEditorLiveEditingPropertySwitch_Rollout": "True;60;2023-09-27T18:39:58",
   "FFlag9SliceEditorAllowUnloadedImages": "True",
-  "DFIntVideoSplitCacheRolloutHundredthsPercent_Rollout": "3000;10;2023-09-27T18:43:30",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8136,8 +8135,8 @@
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
   "FFlagTrackDeeplinkLaunchFlow_Rollout": "True;60;2023-09-27T18:31:43",
-  "FStringFlagRepoGitHashFastString": "b38baa1d2473ad3b8726a3d3ddb30829f59e0d5f",
-  "DFStringFlagRepoGitHashDynamicString": "b38baa1d2473ad3b8726a3d3ddb30829f59e0d5f",
-  "FStringFlipTimeStampFastString": "2023-09-27T18:52:08.697Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T18:52:08.697Z"
+  "FStringFlagRepoGitHashFastString": "8de7088a9d68526faacf0a22e05b20f57bc56702",
+  "DFStringFlagRepoGitHashDynamicString": "8de7088a9d68526faacf0a22e05b20f57bc56702",
+  "FStringFlipTimeStampFastString": "2023-09-27T18:56:45.354Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T18:56:45.354Z"
 }
