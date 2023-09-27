@@ -7813,7 +7813,6 @@
   "DFIntLegacyStyleUsed_ReportPercentHundredths": "100",
   "FFlagUISWindowInputManagerSaveRawPosition": "True",
   "FFlagVersionedFlagTestNotDebug2_Rollout": "True;60;2023-09-27T20:36:49",
-  "DFFlagFastLoadTriangleVerts_Rollout": "True;30;2023-09-27T20:38:55",
   "DFFlagMoveProcessTriangles": "True",
   "FFlagVoiceChatNewServerJoinFlow2_Rollout": "True;60;2023-09-27T20:44:57",
   "FFlagPlaceVersionHistoryTitleFix": "True",
@@ -7822,6 +7821,7 @@
   "FFlagLiveScriptingEnableWarning": "True",
   "FFlagSTUDIOPLAT_32023_ReportStackTraceOnMac": "True",
   "DFFlagSimReportContactStats": "True",
+  "DFFlagFastLoadTriangleVerts": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8081,8 +8081,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "c8c76576f56bda7c17cd716a5b2776dd6b8db7a8",
-  "DFStringFlagRepoGitHashDynamicString": "c8c76576f56bda7c17cd716a5b2776dd6b8db7a8",
-  "FStringFlipTimeStampFastString": "2023-09-27T21:16:38.353Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T21:16:38.353Z"
+  "FStringFlagRepoGitHashFastString": "b82b116f3c22c7c7e51ed79d40c501ab6247bfc8",
+  "DFStringFlagRepoGitHashDynamicString": "b82b116f3c22c7c7e51ed79d40c501ab6247bfc8",
+  "FStringFlipTimeStampFastString": "2023-09-27T21:17:41.165Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T21:17:41.165Z"
 }
