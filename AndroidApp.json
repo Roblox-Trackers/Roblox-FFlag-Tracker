@@ -7818,7 +7818,6 @@
   "DFFlagSimReportContactStats": "True",
   "DFFlagFastLoadTriangleVerts": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning": "True",
-  "FFlagCOLLAB4457FixNegativeOneShotTimeInConnectionIndicator_Rollout": "True;60;2023-09-27T21:21:55",
   "DFFlagReportServerConnectionLost_Rollout": "True;60;2023-09-27T21:26:52",
   "FFlagParticleFlipbookLayoutNoReset": "True",
   "FFlagStudioSignalRToRobloxEventStream": "True",
@@ -7841,6 +7840,7 @@
   "DFFlagDisconnectReasonPerConnectionFix_Rollout": "True;60;2023-09-27T22:10:22",
   "FFlagDisconnectReasonPerConnection_Rollout": "True;60;2023-09-27T22:10:29",
   "FFlagAinStatusesV2Telemetry3": "True",
+  "FFlagCOLLAB4457FixNegativeOneShotTimeInConnectionIndicator": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8206,8 +8206,8 @@
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
   "EnablePushNotificationSessionUtilsAndroid": "True",
-  "FStringFlagRepoGitHashFastString": "865a91247f040003720b4aee9a780916b44691a7",
-  "DFStringFlagRepoGitHashDynamicString": "865a91247f040003720b4aee9a780916b44691a7",
-  "FStringFlipTimeStampFastString": "2023-09-27T22:25:52.901Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T22:25:52.901Z"
+  "FStringFlagRepoGitHashFastString": "959add3bc69587ace50baa8c93c24358a06374b2",
+  "DFStringFlagRepoGitHashDynamicString": "959add3bc69587ace50baa8c93c24358a06374b2",
+  "FStringFlipTimeStampFastString": "2023-09-27T22:26:44.061Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T22:26:44.061Z"
 }
