@@ -7839,10 +7839,8 @@
   "DFFlagReportServerConnectionLost": "True",
   "FFlagEnableChromeAnalytics": "True",
   "DFFlagWebSocketBetterErrorMsg_Rollout": "True;60;2023-09-27T22:35:36",
-  "FFlagDeprecatingJoinTimeMetrics_Rollout": "True;30;2023-09-27T22:45:06",
   "FFlagRealNamesInDisplayNameExperimentEnabled_v2": "True",
   "FFlagReduceSelectionUpdateLayout_Rollout": "True;60;2023-09-27T22:46:42",
-  "DFFlagDSTelemetryUseAdvanceToNextPageWrapper_Rollout": "True;30;2023-09-27T22:47:00",
   "FFlagDoNotClearModifierParams": "True",
   "DFFlagSimSolverExtendNanInfTelemetryToNonDeprecatedSolveInternalCodePath": "True",
   "DFFlagSimVisualizeForcesForSleepingConstraintsDespiteThemHavingBeenRemovedFromSolver": "True",
@@ -7855,6 +7853,8 @@
   "FFlagCSGSetRenderFidelityAutomaic": "True",
   "DFFlagDisconnectReasonPerConnectionFix": "True",
   "FFlagDisconnectReasonPerConnection": "True",
+  "FFlagDeprecatingJoinTimeMetrics": "True",
+  "DFFlagDSTelemetryUseAdvanceToNextPageWrapper": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8116,8 +8116,8 @@
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "e893776b3690bb92ccc30f159a012b2c5867ac6d",
-  "DFStringFlagRepoGitHashDynamicString": "e893776b3690bb92ccc30f159a012b2c5867ac6d",
-  "FStringFlipTimeStampFastString": "2023-09-27T23:16:27.463Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T23:16:27.463Z"
+  "FStringFlagRepoGitHashFastString": "b27c03c3f99db0e870f7b02965a648d3cc930b7f",
+  "DFStringFlagRepoGitHashDynamicString": "b27c03c3f99db0e870f7b02965a648d3cc930b7f",
+  "FStringFlipTimeStampFastString": "2023-09-27T23:21:37.540Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T23:21:37.540Z"
 }
