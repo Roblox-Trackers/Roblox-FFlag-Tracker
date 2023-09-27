@@ -7823,9 +7823,6 @@
   "FFlagAinStatusesV2Telemetry2": "True",
   "FFlagAinPreviewLighting": "True",
   "FFlagVersionedFlagTestNotDebug2": "True",
-  "FFlagCLI82746UpdateExistingInRobloxTelemetryImplSendPoints_Rollout": "True;60;2023-09-27T21:43:33",
-  "DFFlagSimVisualizeForcesForSleepingConstraintsDespiteThemHavingBeenRemovedFromSolver_Rollout": "True;60;2023-09-27T21:44:03",
-  "DFFlagSimSolverExtendNanInfTelemetryToNonDeprecatedSolveInternalCodePath_Rollout": "True;60;2023-09-27T21:44:05",
   "FFlagAffineSkinning4": "False",
   "FFlagAffineSkinning4_PlaceFilter": "True;14891028303",
   "FFlagDynamicMeshSkinMorph": "False",
@@ -7851,6 +7848,9 @@
   "FFlagReduceSelectionUpdateLayout_Rollout": "True;60;2023-09-27T22:46:42",
   "DFFlagDSTelemetryUseAdvanceToNextPageWrapper_Rollout": "True;30;2023-09-27T22:47:00",
   "FFlagDoNotClearModifierParams": "True",
+  "DFFlagSimSolverExtendNanInfTelemetryToNonDeprecatedSolveInternalCodePath": "True",
+  "DFFlagSimVisualizeForcesForSleepingConstraintsDespiteThemHavingBeenRemovedFromSolver": "True",
+  "FFlagCLI82746UpdateExistingInRobloxTelemetryImplSendPoints": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8183,8 +8183,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "0f6b86e3e03ec969df0652a7ee77252d55d564f9",
-  "DFStringFlagRepoGitHashDynamicString": "0f6b86e3e03ec969df0652a7ee77252d55d564f9",
-  "FStringFlipTimeStampFastString": "2023-09-27T22:48:24.555Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T22:48:24.555Z"
+  "FStringFlagRepoGitHashFastString": "ff582e22b78c67956d88041c5febb2899e8b4805",
+  "DFStringFlagRepoGitHashDynamicString": "ff582e22b78c67956d88041c5febb2899e8b4805",
+  "FStringFlipTimeStampFastString": "2023-09-27T22:51:45.436Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T22:51:45.436Z"
 }
