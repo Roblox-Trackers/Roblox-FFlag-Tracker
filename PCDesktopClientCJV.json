@@ -7799,6 +7799,7 @@
   "DFFlagVoiceChatEnableRccV2ControlPlane_Rollout": "True;30;2023-09-27T18:30:46",
   "FFlagVoiceChatSendNewJoinSessionEvents": "False",
   "FFlagVoiceChatSendNewJoinSessionEvents_Rollout": "True;30;2023-09-27T18:30:46",
+  "FFlagScriptEditorLiveEditingPropertySwitch_Rollout": "True;60;2023-09-27T18:39:58",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8060,8 +8061,8 @@
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f2c674ae0eaea9d5883b1378ae608794349132b2",
-  "DFStringFlagRepoGitHashDynamicString": "f2c674ae0eaea9d5883b1378ae608794349132b2",
-  "FStringFlipTimeStampFastString": "2023-09-27T18:39:36.474Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T18:39:36.474Z"
+  "FStringFlagRepoGitHashFastString": "cb64be16698cf4b28979651a3af0febb8e82e8b1",
+  "DFStringFlagRepoGitHashDynamicString": "cb64be16698cf4b28979651a3af0febb8e82e8b1",
+  "FStringFlipTimeStampFastString": "2023-09-27T18:40:40.491Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T18:40:40.491Z"
 }
