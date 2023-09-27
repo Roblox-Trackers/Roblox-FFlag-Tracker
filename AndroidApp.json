@@ -7808,7 +7808,6 @@
   "FFlagMoveToolboxCodeToUGCValidation": "True",
   "FFlagExplorerFixInsertSelection": "True",
   "FFlagExplorerImproveLogging": "True",
-  "FFlagParticleFlipbookLayoutNoReset_Rollout": "True;60;2023-09-27T20:22:00",
   "DFIntLegacyStyleUsed_ReportPercentHundredths": "100",
   "FFlagUISWindowInputManagerSaveRawPosition": "True",
   "FFlagVersionedFlagTestNotDebug2_Rollout": "True;60;2023-09-27T20:36:49",
@@ -7825,6 +7824,7 @@
   "FFlagCOLLAB4457FixNegativeOneShotTimeInConnectionIndicator_Rollout": "True;60;2023-09-27T21:21:55",
   "DFFlagReportServerConnectionLost_Rollout": "True;60;2023-09-27T21:26:52",
   "FFlagStudioSignalRToRobloxEventStream_Rollout": "True;1;2023-09-27T21:27:14",
+  "FFlagParticleFlipbookLayoutNoReset": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8190,8 +8190,8 @@
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
   "EnablePushNotificationSessionUtilsAndroid": "True",
-  "FStringFlagRepoGitHashFastString": "b21e5344da431ed48016464b3c015203126be36d",
-  "DFStringFlagRepoGitHashDynamicString": "b21e5344da431ed48016464b3c015203126be36d",
-  "FStringFlipTimeStampFastString": "2023-09-27T21:27:40.038Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T21:27:40.038Z"
+  "FStringFlagRepoGitHashFastString": "6358b73eaa468b4b1340ca60e2b2844f5d019564",
+  "DFStringFlagRepoGitHashDynamicString": "6358b73eaa468b4b1340ca60e2b2844f5d019564",
+  "FStringFlipTimeStampFastString": "2023-09-27T21:28:03.866Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T21:28:03.866Z"
 }
