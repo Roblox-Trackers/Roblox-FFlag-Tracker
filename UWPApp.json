@@ -7831,8 +7831,6 @@
   "FFlagMeshPartSetHasSkinnedMesh_PlaceFilter": "True;14891028303",
   "DFFlagAllowRegistrationOfAnimationClipInCoreScripts": "True",
   "FFlagSTUDIOPLAT32186FixBlindTaskResultDerefenceCrash": "True",
-  "DFFlagDisconnectReasonPerConnectionFix_Rollout": "True;60;2023-09-27T22:10:22",
-  "FFlagDisconnectReasonPerConnection_Rollout": "True;60;2023-09-27T22:10:29",
   "FFlagAinStatusesV2Telemetry3": "True",
   "FFlagCOLLAB4457FixNegativeOneShotTimeInConnectionIndicator": "True",
   "FFlagUGCValidationFixBundlesMetadataFetch": "True",
@@ -7855,6 +7853,8 @@
   "DFFlagHttpServerSendMsgNoSignal2": "True",
   "FFlagCOLLAB4588SetErrorMessageInHttpImageResponse": "True",
   "FFlagCSGSetRenderFidelityAutomaic": "True",
+  "DFFlagDisconnectReasonPerConnectionFix": "True",
+  "FFlagDisconnectReasonPerConnection": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8047,8 +8047,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "ea7e942aeba77fff86c3990ab9c4166dd1a93da9",
-  "DFStringFlagRepoGitHashDynamicString": "ea7e942aeba77fff86c3990ab9c4166dd1a93da9",
-  "FStringFlipTimeStampFastString": "2023-09-27T23:15:28.134Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T23:15:28.134Z"
+  "FStringFlagRepoGitHashFastString": "e893776b3690bb92ccc30f159a012b2c5867ac6d",
+  "DFStringFlagRepoGitHashDynamicString": "e893776b3690bb92ccc30f159a012b2c5867ac6d",
+  "FStringFlipTimeStampFastString": "2023-09-27T23:16:27.463Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T23:16:27.463Z"
 }
