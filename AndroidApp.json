@@ -6233,7 +6233,7 @@
   "FFlagBootcampCLI74304": "True",
   "DFFlagRemoveInterpolationThrottlingOption": "True",
   "DFIntInterpolationDtLimitForLod": "15",
-  "DFFlagVoiceChatEnableRccV2ControlPlane": "False",
+  "DFFlagVoiceChatEnableRccV2ControlPlane": "True",
   "DFFlagVoiceChatEnableRccV2ControlPlane_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;14104248348;6884319169;2788229376;12699642568",
   "FFlagCOLLAB4039RefactorDocClose": "True",
   "FFlagGameSettingsEvictIfLostPerms": "True",
@@ -7809,7 +7809,6 @@
   "DFFlagSimReportContactStats_Rollout": "True;60;2023-09-27T19:59:57",
   "FFlagDevFrameworkAlert": "True",
   "FFlagMoveToolboxCodeToUGCValidation": "True",
-  "DFFlagVoiceChatEnableRccV2ControlPlane_Rollout": "True;30;2023-09-27T20:13:40",
   "FFlagDoNotPauseLuaAppIfNotRunning_Rollout": "True;60;2023-09-27T20:13:50",
   "FFlagExplorerFixInsertSelection": "True",
   "FFlagExplorerImproveLogging": "True",
@@ -8185,8 +8184,8 @@
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
   "EnablePushNotificationSessionUtilsAndroid": "True",
-  "FStringFlagRepoGitHashFastString": "aa961b3e5369b977126b3d04e1a8ad8f943c75bd",
-  "DFStringFlagRepoGitHashDynamicString": "aa961b3e5369b977126b3d04e1a8ad8f943c75bd",
-  "FStringFlipTimeStampFastString": "2023-09-27T20:46:54.624Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T20:46:54.624Z"
+  "FStringFlagRepoGitHashFastString": "4c34b37595ddcd0e1eb46899635139e314df124f",
+  "DFStringFlagRepoGitHashDynamicString": "4c34b37595ddcd0e1eb46899635139e314df124f",
+  "FStringFlipTimeStampFastString": "2023-09-27T20:51:29.720Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T20:51:29.720Z"
 }
