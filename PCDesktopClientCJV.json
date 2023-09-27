@@ -7806,7 +7806,6 @@
   "FFlagVRControllerModelsSetByDevFix": "True",
   "FFlagDevFrameworkAlert": "True",
   "FFlagMoveToolboxCodeToUGCValidation": "True",
-  "FFlagDoNotPauseLuaAppIfNotRunning_Rollout": "True;60;2023-09-27T20:13:50",
   "FFlagExplorerFixInsertSelection": "True",
   "FFlagExplorerImproveLogging": "True",
   "FFlagParticleFlipbookLayoutNoReset_Rollout": "True;60;2023-09-27T20:22:00",
@@ -7822,6 +7821,8 @@
   "FFlagSTUDIOPLAT_32023_ReportStackTraceOnMac": "True",
   "DFFlagSimReportContactStats": "True",
   "DFFlagFastLoadTriangleVerts": "True",
+  "FFlagDoNotPauseLuaAppIfNotRunning": "True",
+  "FFlagCOLLAB4457FixNegativeOneShotTimeInConnectionIndicator_Rollout": "True;60;2023-09-27T21:21:55",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8083,8 +8084,8 @@
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "b82b116f3c22c7c7e51ed79d40c501ab6247bfc8",
-  "DFStringFlagRepoGitHashDynamicString": "b82b116f3c22c7c7e51ed79d40c501ab6247bfc8",
-  "FStringFlipTimeStampFastString": "2023-09-27T21:17:41.165Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T21:17:41.165Z"
+  "FStringFlagRepoGitHashFastString": "7f91d24dd3cc9addfbbd09ac6edb8d0d12bb2a40",
+  "DFStringFlagRepoGitHashDynamicString": "7f91d24dd3cc9addfbbd09ac6edb8d0d12bb2a40",
+  "FStringFlipTimeStampFastString": "2023-09-27T21:23:36.256Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T21:23:36.256Z"
 }
