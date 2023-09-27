@@ -7801,7 +7801,6 @@
   "FFlagVRBottomBarFixMoreMenuPosition": "True",
   "FFlagUserSearchMoveAnalyticsV2_2": "True",
   "FFlagScriptEditorLiveEditingPropertySwitch": "True",
-  "DFFlagFixComputeJumpThreadsafe2_Rollout": "True;60;2023-09-27T19:49:07",
   "FFlagUserSearchAddSessionId": "True",
   "FFlagSTUDIOPLAT_32023_ReportStackTraceOnMac_Rollout": "True;60;2023-09-27T19:58:23",
   "FFlagVRSafetyBubblePrimaryPartBugFix": "True",
@@ -7820,6 +7819,7 @@
   "DFFlagMoveProcessTriangles": "True",
   "FFlagVoiceChatNewServerJoinFlow2_Rollout": "True;60;2023-09-27T20:44:57",
   "FFlagPlaceVersionHistoryTitleFix": "True",
+  "DFFlagFixComputeJumpThreadsafe2": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -8152,8 +8152,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "59b3792f20a48303d7abced3a6b6538d564d61dc",
-  "DFStringFlagRepoGitHashDynamicString": "59b3792f20a48303d7abced3a6b6538d564d61dc",
-  "FStringFlipTimeStampFastString": "2023-09-27T20:52:48.494Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T20:52:48.494Z"
+  "FStringFlagRepoGitHashFastString": "773f4192ae43f78d4bc8ea330d2a1bf264218a87",
+  "DFStringFlagRepoGitHashDynamicString": "773f4192ae43f78d4bc8ea330d2a1bf264218a87",
+  "FStringFlipTimeStampFastString": "2023-09-27T20:56:21.843Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T20:56:21.843Z"
 }
