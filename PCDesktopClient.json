@@ -7808,6 +7808,8 @@
   "DFFlagFixComputeJumpThreadsafe2_Rollout": "True;60;2023-09-27T19:49:07",
   "DFIntLegacyStyleUsed_ReportPercentHundredths_Rollout": "100;30;2023-09-27T19:51:30",
   "FFlagUserSearchAddSessionId": "True",
+  "FFlagSTUDIOPLAT_32023_ReportStackTraceOnMac_Rollout": "True;60;2023-09-27T19:58:23",
+  "FFlagUISWindowInputManagerSaveRawPosition_Rollout": "True;30;2023-09-27T19:58:28",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8068,8 +8070,8 @@
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "c674a600723ae01146b1473ac561d33e274da6d2",
-  "DFStringFlagRepoGitHashDynamicString": "c674a600723ae01146b1473ac561d33e274da6d2",
-  "FStringFlipTimeStampFastString": "2023-09-27T19:54:12.351Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T19:54:12.351Z"
+  "FStringFlagRepoGitHashFastString": "0b052387f9d6edfc54b54d01a3f8a803f64bb0d1",
+  "DFStringFlagRepoGitHashDynamicString": "0b052387f9d6edfc54b54d01a3f8a803f64bb0d1",
+  "FStringFlipTimeStampFastString": "2023-09-27T19:59:02.691Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T19:59:02.691Z"
 }
