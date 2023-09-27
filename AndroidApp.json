@@ -7802,10 +7802,8 @@
   "FFlagUserSearchMoveAnalyticsV2_2": "True",
   "FFlagScriptEditorLiveEditingPropertySwitch": "True",
   "FFlagUserSearchAddSessionId": "True",
-  "FFlagSTUDIOPLAT_32023_ReportStackTraceOnMac_Rollout": "True;60;2023-09-27T19:58:23",
   "FFlagVRSafetyBubblePrimaryPartBugFix": "True",
   "FFlagVRControllerModelsSetByDevFix": "True",
-  "DFFlagSimReportContactStats_Rollout": "True;60;2023-09-27T19:59:57",
   "FFlagDevFrameworkAlert": "True",
   "FFlagMoveToolboxCodeToUGCValidation": "True",
   "FFlagDoNotPauseLuaAppIfNotRunning_Rollout": "True;60;2023-09-27T20:13:50",
@@ -7822,6 +7820,8 @@
   "DFFlagFixComputeJumpThreadsafe2": "True",
   "FFlagSTUDIOPLAT32186FixBlindTaskResultDerefenceCrash_Rollout": "True;60;2023-09-27T20:58:12",
   "FFlagLiveScriptingEnableWarning": "True",
+  "FFlagSTUDIOPLAT_32023_ReportStackTraceOnMac": "True",
+  "DFFlagSimReportContactStats": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8187,8 +8187,8 @@
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
   "EnablePushNotificationSessionUtilsAndroid": "True",
-  "FStringFlagRepoGitHashFastString": "4565544c861bcf84a02e241f50e36792c60826ab",
-  "DFStringFlagRepoGitHashDynamicString": "4565544c861bcf84a02e241f50e36792c60826ab",
-  "FStringFlipTimeStampFastString": "2023-09-27T20:59:26.382Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T20:59:26.382Z"
+  "FStringFlagRepoGitHashFastString": "995f50fd565e91222300c06dd3aabee3576cac75",
+  "DFStringFlagRepoGitHashDynamicString": "995f50fd565e91222300c06dd3aabee3576cac75",
+  "FStringFlipTimeStampFastString": "2023-09-27T21:06:52.308Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T21:06:52.308Z"
 }
