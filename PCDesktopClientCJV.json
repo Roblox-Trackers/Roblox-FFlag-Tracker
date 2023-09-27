@@ -4010,7 +4010,7 @@
   "FFlagRolloutAfterInitSettingsAndroid": "True",
   "FFlagGraphicsSelectSupportedMSAA": "True",
   "DFIntLocalizationTableAnalyticsSenderMaxPlayerIntegrityListSize": "100",
-  "DFIntAvatarFacechatLODCameraDisableTelemetryThrottleHundrethsPercent": "0",
+  "DFIntAvatarFacechatLODCameraDisableTelemetryThrottleHundrethsPercent": "10",
   "DFIntAvatarFacechatPipelineLodTelemetryThrottleHundrethsPercent": "0",
   "DFIntAvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent": "3",
   "DFIntAvatarFacechatReplicationOverRCCTelemetryThrottleHundrethsPercent": "100",
@@ -8067,8 +8067,8 @@
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "a7e07ed43035d9a585c130acde77202d25aec011",
-  "DFStringFlagRepoGitHashDynamicString": "a7e07ed43035d9a585c130acde77202d25aec011",
-  "FStringFlipTimeStampFastString": "2023-09-27T19:37:18.231Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T19:37:18.231Z"
+  "FStringFlagRepoGitHashFastString": "a5d4d9ba53b4dbb50fd46686a05f6c9fd5b94c8d",
+  "DFStringFlagRepoGitHashDynamicString": "a5d4d9ba53b4dbb50fd46686a05f6c9fd5b94c8d",
+  "FStringFlipTimeStampFastString": "2023-09-27T19:44:13.434Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T19:44:13.434Z"
 }
