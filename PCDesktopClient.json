@@ -7827,6 +7827,8 @@
   "FFlagAinStatusesV2Telemetry2": "True",
   "FFlagAinPreviewLighting": "True",
   "FFlagVersionedFlagTestNotDebug2": "True",
+  "FFlagCLI82746UpdateExistingInRobloxTelemetryImplSendPoints_Rollout": "True;60;2023-09-27T21:43:33",
+  "DFFlagSimVisualizeForcesForSleepingConstraintsDespiteThemHavingBeenRemovedFromSolver_Rollout": "True;60;2023-09-27T21:44:03",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8087,8 +8089,8 @@
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "54a1606d34c0bc45ffe25098e6fac234f2aa55b3",
-  "DFStringFlagRepoGitHashDynamicString": "54a1606d34c0bc45ffe25098e6fac234f2aa55b3",
-  "FStringFlipTimeStampFastString": "2023-09-27T21:41:50.657Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T21:41:50.657Z"
+  "FStringFlagRepoGitHashFastString": "6ae4ecb8e02697708513965d039f27e7e734c2f5",
+  "DFStringFlagRepoGitHashDynamicString": "6ae4ecb8e02697708513965d039f27e7e734c2f5",
+  "FStringFlipTimeStampFastString": "2023-09-27T21:44:36.813Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T21:44:36.813Z"
 }

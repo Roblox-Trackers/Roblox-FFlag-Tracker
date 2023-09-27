@@ -7827,6 +7827,9 @@
   "FFlagAinStatusesV2Telemetry2": "True",
   "FFlagAinPreviewLighting": "True",
   "FFlagVersionedFlagTestNotDebug2": "True",
+  "FFlagCLI82746UpdateExistingInRobloxTelemetryImplSendPoints_Rollout": "True;60;2023-09-27T21:43:33",
+  "DFFlagSimVisualizeForcesForSleepingConstraintsDespiteThemHavingBeenRemovedFromSolver_Rollout": "True;60;2023-09-27T21:44:03",
+  "DFFlagSimSolverExtendNanInfTelemetryToNonDeprecatedSolveInternalCodePath_Rollout": "True;60;2023-09-27T21:44:05",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8019,8 +8022,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "54a1606d34c0bc45ffe25098e6fac234f2aa55b3",
-  "DFStringFlagRepoGitHashDynamicString": "54a1606d34c0bc45ffe25098e6fac234f2aa55b3",
-  "FStringFlipTimeStampFastString": "2023-09-27T21:41:50.657Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-27T21:41:50.657Z"
+  "FStringFlagRepoGitHashFastString": "ccb870682e1b47554e4b4778863271e3edb43f6c",
+  "DFStringFlagRepoGitHashDynamicString": "ccb870682e1b47554e4b4778863271e3edb43f6c",
+  "FStringFlipTimeStampFastString": "2023-09-27T21:44:44.481Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-27T21:44:44.481Z"
 }
