@@ -7872,12 +7872,12 @@
   "FFlagMicStatesFix": "True",
   "FFlagVoiceTCSBubbleClickState": "True",
   "FFlagVoiceTCSConnectingToast": "True",
-  "FFlagTargetHeapSelect_Rollout": "True;30;2023-09-28T18:34:41",
   "FFlagSimCSGV3HalfedgeMapTombstone_Rollout": "True;60;2023-09-28T18:35:23",
   "FFlagEnableToastNotificationEventMissingFieldsFix": "True",
   "FFlagUGCValidateAssetStatusNameChange": "True",
   "DFFlagDestroyedModuleRequireReport": "True",
   "FFlagLuauProfilerCustomCalls_Rollout": "True;60;2023-09-28T19:06:37",
+  "FFlagTargetHeapSelect": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8137,8 +8137,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "a018a3c3f8615adf21ae31290601fff9f739e02e",
-  "DFStringFlagRepoGitHashDynamicString": "a018a3c3f8615adf21ae31290601fff9f739e02e",
-  "FStringFlipTimeStampFastString": "2023-09-28T19:13:17.018Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-28T19:13:17.018Z"
+  "FStringFlagRepoGitHashFastString": "cd7921000f34f232c7c549199659660aa7804091",
+  "DFStringFlagRepoGitHashDynamicString": "cd7921000f34f232c7c549199659660aa7804091",
+  "FStringFlipTimeStampFastString": "2023-09-28T19:14:13.254Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-28T19:14:13.254Z"
 }
