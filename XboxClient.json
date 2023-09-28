@@ -7864,7 +7864,6 @@
   "FFlagAttributeNameEditModifiedCheck": "True",
   "FFlagStudioRemoveAudioTurnOffAction2": "True",
   "FFlagVariantOptionalConvert": "True",
-  "DFFlagDestroyedModuleRequireReport_Rollout": "True;60;2023-09-28T17:54:21",
   "DFFlagSimReportActiveConstraints": "True",
   "DFFlagSimShowPrimaryAxisOnlyForLegacyTypes": "True",
   "FFlagDragDetectorsUseInternalConstraints3_Rollout": "True;60;2023-09-28T18:12:38",
@@ -7877,6 +7876,8 @@
   "FFlagSimCSGV3HalfedgeMapTombstone_Rollout": "True;60;2023-09-28T18:35:23",
   "FFlagEnableToastNotificationEventMissingFieldsFix": "True",
   "FFlagUGCValidateAssetStatusNameChange": "True",
+  "DFFlagDestroyedModuleRequireReport": "True",
+  "FFlagLuauProfilerCustomCalls_Rollout": "True;60;2023-09-28T19:06:37",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8074,8 +8075,8 @@
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "3afba0c6cddc43271f65272b65a3f36def7e6f71",
-  "DFStringFlagRepoGitHashDynamicString": "3afba0c6cddc43271f65272b65a3f36def7e6f71",
-  "FStringFlipTimeStampFastString": "2023-09-28T18:50:39.131Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-28T18:50:39.131Z"
+  "FStringFlagRepoGitHashFastString": "a018a3c3f8615adf21ae31290601fff9f739e02e",
+  "DFStringFlagRepoGitHashDynamicString": "a018a3c3f8615adf21ae31290601fff9f739e02e",
+  "FStringFlipTimeStampFastString": "2023-09-28T19:13:17.018Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-28T19:13:17.018Z"
 }
