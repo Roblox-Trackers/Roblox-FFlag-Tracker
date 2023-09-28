@@ -7857,8 +7857,6 @@
   "DFFlagFixMapFieldContainerMergeWith": "True",
   "FFlagUpdateSourceAsync2": "True",
   "FFlagUpgradeExpChatV4_2_0": "True",
-  "DFFlagSimShowPrimaryAxisOnlyForLegacyTypes_Rollout": "True;60;2023-09-28T16:48:36",
-  "DFFlagSimReportActiveConstraints_Rollout": "True;60;2023-09-28T16:48:40",
   "DFFlagCOLLAB2385TranslatedErrorMessagingNonTCEnabled4": "True",
   "FFlagOrphanTemporaryScripts": "True",
   "FFlagStudioReloadOnStartPageGroupChange": "True",
@@ -7867,6 +7865,8 @@
   "FFlagStudioRemoveAudioTurnOffAction2": "True",
   "FFlagVariantOptionalConvert": "True",
   "DFFlagDestroyedModuleRequireReport_Rollout": "True;60;2023-09-28T17:54:21",
+  "DFFlagSimReportActiveConstraints": "True",
+  "DFFlagSimShowPrimaryAxisOnlyForLegacyTypes": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8127,8 +8127,8 @@
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "1afb84d60102c3dbbfb7c6bb6041042afb0026fb",
-  "DFStringFlagRepoGitHashDynamicString": "1afb84d60102c3dbbfb7c6bb6041042afb0026fb",
-  "FStringFlipTimeStampFastString": "2023-09-28T17:54:43.489Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-28T17:54:43.489Z"
+  "FStringFlagRepoGitHashFastString": "d69c0f24102c8b11f0e6ff029f46055a7ba94f55",
+  "DFStringFlagRepoGitHashDynamicString": "d69c0f24102c8b11f0e6ff029f46055a7ba94f55",
+  "FStringFlipTimeStampFastString": "2023-09-28T17:56:26.314Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-28T17:56:26.314Z"
 }
