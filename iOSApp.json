@@ -7876,6 +7876,7 @@
   "FFlagTargetHeapSelect_Rollout": "True;30;2023-09-28T18:34:41",
   "FFlagSimCSGV3HalfedgeMapTombstone_Rollout": "True;60;2023-09-28T18:35:23",
   "FFlagEnableToastNotificationEventMissingFieldsFix": "True",
+  "FFlagUGCValidateAssetStatusNameChange": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8208,8 +8209,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "0e4c142dc241a5a6d25f85264d987e27178c630f",
-  "DFStringFlagRepoGitHashDynamicString": "0e4c142dc241a5a6d25f85264d987e27178c630f",
-  "FStringFlipTimeStampFastString": "2023-09-28T18:46:49.966Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-28T18:46:49.966Z"
+  "FStringFlagRepoGitHashFastString": "3afba0c6cddc43271f65272b65a3f36def7e6f71",
+  "DFStringFlagRepoGitHashDynamicString": "3afba0c6cddc43271f65272b65a3f36def7e6f71",
+  "FStringFlipTimeStampFastString": "2023-09-28T18:50:39.131Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-28T18:50:39.131Z"
 }
