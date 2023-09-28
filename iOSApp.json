@@ -7879,7 +7879,6 @@
   "FFlagLuaAppHomeJoinYourFriendsLogging2": "True",
   "FFlagUpdateCameraPrivacyDescription": "True",
   "FFlagEnableUGCUploadFlowAnalytics3": "True",
-  "DFFlagAddSessionIdToDisconnectEvent_Rollout": "True;60;2023-09-28T21:41:38",
   "FFlagUGCValidateUVValuesInReference": "True",
   "FFlagEnableStudioPlacePublishTelemetry": "True",
   "FFlagEnableUnifiedChatU13Upsell": "True",
@@ -7889,6 +7888,7 @@
   "FFlagUseUpdatedModelToGetHumanoid": "True",
   "FFlagEnableEvaluateStateMachine3": "True",
   "FFlagUseCompositedPoseForLowerTorso": "True",
+  "DFFlagAddSessionIdToDisconnectEvent": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8221,8 +8221,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "b5460e96452147073739e0e5761fa55f55fc96c3",
-  "DFStringFlagRepoGitHashDynamicString": "b5460e96452147073739e0e5761fa55f55fc96c3",
-  "FStringFlipTimeStampFastString": "2023-09-28T22:43:37.256Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-28T22:43:37.256Z"
+  "FStringFlagRepoGitHashFastString": "f83b2d662a1abcb46d05c12f0efdedd12a70ea59",
+  "DFStringFlagRepoGitHashDynamicString": "f83b2d662a1abcb46d05c12f0efdedd12a70ea59",
+  "FStringFlipTimeStampFastString": "2023-09-28T22:46:34.047Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-28T22:46:34.047Z"
 }
