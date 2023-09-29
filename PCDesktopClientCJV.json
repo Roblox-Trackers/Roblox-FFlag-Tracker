@@ -6931,7 +6931,7 @@
   "FFlagDraggerFixGetGeometry": "True",
   "DFFlagOrientationNeverMinus180": "True",
   "FFlagAddPivotRibbonTool": "True",
-  "DFFlagEnableV2POCStat": "True",
+  "DFFlagEnableV2POCStat": "False",
   "FFlagAssetImportGltfApplyBindShapeScale": "True",
   "FFlagAssetImportGltfMeshJointAndSkinningSupport": "True",
   "FFlagDetectGltfScaleAndWeightAnimations": "True",
@@ -7891,6 +7891,7 @@
   "FFlagStudioActionConversionGroup2_Rollout": "True;60;2023-09-29T17:11:47",
   "FFlagFixRichTextLineHeight_Rollout": "True;60;2023-09-29T17:22:30",
   "FFlagVersionedFlagTestNotDebug2_Rollout": "True;60;2023-09-29T17:31:30",
+  "FFlagReportSelectedSoundDevice_Rollout": "True;30;2023-09-29T18:00:55",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8154,8 +8155,8 @@
   "DFFlagSimHumanoidPhysics_Rollout": "True;30;2023-09-29T17:32:08",
   "DFFlagDisableControllerManagerAsChild2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "b2dfde95f3a83219a7b609b3cf604a986fcafbfa",
-  "DFStringFlagRepoGitHashDynamicString": "b2dfde95f3a83219a7b609b3cf604a986fcafbfa",
-  "FStringFlipTimeStampFastString": "2023-09-29T18:01:09.921Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-29T18:01:09.921Z"
+  "FStringFlagRepoGitHashFastString": "4fef01f47a29612ee6a8c8b44e71c4706d0c299a",
+  "DFStringFlagRepoGitHashDynamicString": "4fef01f47a29612ee6a8c8b44e71c4706d0c299a",
+  "FStringFlipTimeStampFastString": "2023-09-29T18:04:45.454Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-29T18:04:45.454Z"
 }
