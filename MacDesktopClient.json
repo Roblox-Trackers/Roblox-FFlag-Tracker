@@ -6883,7 +6883,6 @@
   "DFFlagEngineStabilityFixOutOfBounds": "True",
   "FFlagReportFpsAndGfxQualityPercentiles": "True",
   "DFFlagEnableMapTypeFieldSupportInTelemetryEvent": "True",
-  "DFFlagDisableControllerManagerAsChild2": "False",
   "FFlagEnableEvaluateStateMachine2": "False",
   "FFlagEnableEvaluateStateMachine2_PlaceFilter": "True;14484773887",
   "FFlagStudioVREnabledSetting": "True",
@@ -7354,7 +7353,6 @@
   "FFlagCLI83623": "True",
   "FFlagFixSingleSurfaceAndDualSurfaceTunableReset2": "True",
   "FFlagPlayerSetCharacterAllowActors": "False",
-  "DFFlagDisableControllerManagerAsChild2_PlaceFilter": "True;14484773887",
   "FFlagAssetImportGltfSupport": "True",
   "FFlagVideoAssetPrivacyForPreview_PlaceFilter": "False;14709796136",
   "FFlagDisableNewAssetFormatNames": "True",
@@ -8151,8 +8149,9 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagMacUpdateAdapter": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "d9d8505f16c7efba8d9ed5bff3d08f8f8a13abb8",
-  "DFStringFlagRepoGitHashDynamicString": "d9d8505f16c7efba8d9ed5bff3d08f8f8a13abb8",
-  "FStringFlipTimeStampFastString": "2023-09-29T17:08:04.313Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-29T17:08:04.313Z"
+  "DFFlagDisableControllerManagerAsChild2_Rollout": "True;30;2023-09-29T17:08:48",
+  "FStringFlagRepoGitHashFastString": "b45326e1dbf62f70cabbd1e0229cf02af4c8a4bd",
+  "DFStringFlagRepoGitHashDynamicString": "b45326e1dbf62f70cabbd1e0229cf02af4c8a4bd",
+  "FStringFlipTimeStampFastString": "2023-09-29T17:09:06.655Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-29T17:09:06.655Z"
 }
