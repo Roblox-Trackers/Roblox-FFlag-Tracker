@@ -1794,7 +1794,7 @@
   "FFlagFixMockSizingLabelMemoryLeak2": "True",
   "FFlagGraphicsParticlesSoftZOffsetFix3": "True",
   "FFlagGraphicsParticlesSoftZOffsetFixGLDep2": "True",
-  "DFFlagSimHumanoidPhysics": "False",
+  "DFFlagSimHumanoidPhysics": "True",
   "DFFlagSimHumanoidPhysics_PlaceFilter": "True;9863470458;11453377229;11452116982;11571326476;11379562275;11599481611;12953430078;5828997002;14484773887",
   "FFlagEnableLodFlagFix": "True",
   "FIntEnableCullableScene2HundredthPercent": "000",
@@ -7873,7 +7873,6 @@
   "FFlagLuaAppHomeJoinYourFriendsLogging2": "True",
   "FFlagUpdateCameraPrivacyDescription": "True",
   "FFlagEnableUGCUploadFlowAnalytics3": "True",
-  "FFlagUGCValidateUVValuesInReference": "True",
   "FFlagEnableStudioPlacePublishTelemetry": "True",
   "FFlagEnableUnifiedChatU13Upsell": "True",
   "FFlagUGCValidationAddThumbnailFrustumCheckingv2": "True",
@@ -8152,10 +8151,9 @@
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "DFFlagSimHumanoidPhysics_Rollout": "True;30;2023-09-29T17:32:08",
   "DFFlagDisableControllerManagerAsChild2": "True",
-  "FStringFlagRepoGitHashFastString": "4fef01f47a29612ee6a8c8b44e71c4706d0c299a",
-  "DFStringFlagRepoGitHashDynamicString": "4fef01f47a29612ee6a8c8b44e71c4706d0c299a",
-  "FStringFlipTimeStampFastString": "2023-09-29T18:04:45.454Z",
-  "DFStringFlipTimeStampDynamicString": "2023-09-29T18:04:45.454Z"
+  "FStringFlagRepoGitHashFastString": "26fc6be97083643d8f55df6ca813d20dbadd8527",
+  "DFStringFlagRepoGitHashDynamicString": "26fc6be97083643d8f55df6ca813d20dbadd8527",
+  "FStringFlipTimeStampFastString": "2023-09-29T18:06:52.316Z",
+  "DFStringFlipTimeStampDynamicString": "2023-09-29T18:06:52.316Z"
 }
