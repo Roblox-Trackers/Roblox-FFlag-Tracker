@@ -7893,8 +7893,6 @@
   "DFFlagReportFmodInitErrors": "True",
   "DFFlagReportControllerManagerUse2": "True",
   "FFlagExploreApiSortContentsMigration3": "True",
-  "DFFlagCorrectContactsFromEPA_Rollout": "True;60;2023-10-02T16:26:25",
-  "DFFlagDoNotRecomputeClosestPoint_Rollout": "True;60;2023-10-02T16:26:31",
   "FFlagBootcampCLI85206_Rollout": "True;60;2023-10-02T16:53:12",
   "FFlagCOLLAB4434FixSlicingInExceptionHandler_Rollout": "True;60;2023-10-02T16:54:34",
   "FFlagCOLLAB4103FixAutoReconnectRetryCountReporting_Rollout": "True;60;2023-10-02T16:56:47",
@@ -7905,6 +7903,8 @@
   "DFFlagLabelSSQueueSizes_Rollout": "True;60;2023-10-02T17:24:05",
   "FFlagLuauMergeTagLoads": "True",
   "DFIntVoiceChatNumberOfHeartBeatIntervalUntilTimeout": "3",
+  "DFFlagCorrectContactsFromEPA": "True",
+  "DFFlagDoNotRecomputeClosestPoint": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8101,8 +8101,8 @@
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "16cb53bcd085b0e05687597fe958ab625bc96747",
-  "DFStringFlagRepoGitHashDynamicString": "16cb53bcd085b0e05687597fe958ab625bc96747",
-  "FStringFlipTimeStampFastString": "2023-10-02T17:30:38.926Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T17:30:38.926Z"
+  "FStringFlagRepoGitHashFastString": "be51072e5febd449c8542e40a8feb4e0bb747311",
+  "DFStringFlagRepoGitHashDynamicString": "be51072e5febd449c8542e40a8feb4e0bb747311",
+  "FStringFlipTimeStampFastString": "2023-10-02T17:32:10.848Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T17:32:10.848Z"
 }
