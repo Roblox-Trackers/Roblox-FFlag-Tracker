@@ -7927,7 +7927,6 @@
   "FFlagFixDoubleMacUpdateAdapterInit": "True",
   "FFlagLandingPageQuickMenuToolTip": "True",
   "DFFlagSecondaryMetricsShouldOverwriteByDefault": "True",
-  "DFFlagVoiceChatSubTimingFix_Rollout": "True;60;2023-10-02T21:42:03",
   "FFlagAXDHCostumeNotification": "True",
   "FFlagACPermissionButtonFix": "True",
   "DFFlagSimOptimizedSymmetricMatrixRotation_Rollout": "True;60;2023-10-02T21:55:57",
@@ -7937,6 +7936,7 @@
   "FFlagStudioBreakShareModalStartPageDependency": "True",
   "FFlagProfileAnalyticsProps": "True",
   "FFlagLuauWeakGlobalApiSurface_Rollout": "True;60;2023-10-02T22:36:14",
+  "DFFlagVoiceChatSubTimingFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8133,8 +8133,8 @@
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "ec0d500406c97494a21280a308d55068861a6e9c",
-  "DFStringFlagRepoGitHashDynamicString": "ec0d500406c97494a21280a308d55068861a6e9c",
-  "FStringFlipTimeStampFastString": "2023-10-02T22:39:04.179Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T22:39:04.179Z"
+  "FStringFlagRepoGitHashFastString": "3aa06401d753ad6a6e3229fe98af05d993dd753d",
+  "DFStringFlagRepoGitHashDynamicString": "3aa06401d753ad6a6e3229fe98af05d993dd753d",
+  "FStringFlipTimeStampFastString": "2023-10-02T22:47:00.568Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T22:47:00.568Z"
 }
