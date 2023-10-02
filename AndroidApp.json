@@ -7893,7 +7893,6 @@
   "DFFlagReportFmodInitErrors": "True",
   "DFFlagReportControllerManagerUse2": "True",
   "FFlagExploreApiSortContentsMigration3": "True",
-  "FFlagCLI37642_Rollout": "True;60;2023-10-02T17:12:31",
   "FFlagEnableChromeBackwardsSignalAPI": "True",
   "FFlagUGCValidateUVValuesInReference": "True",
   "DFFlagLabelSSQueueSizes_Rollout": "True;60;2023-10-02T17:24:05",
@@ -7914,6 +7913,8 @@
   "FFlagScreenshotsPreventPrivateServerInvites": "True",
   "DFIntTeleportCheckAllowedEventThrottleHundredthPercent_Rollout": "100;30;2023-10-02T18:04:58",
   "FFlagFixSoundTunableId_Rollout": "True;60;2023-10-02T18:08:17",
+  "DFFlagSolverModelPartCountUpdate_Rollout": "True;60;2023-10-02T18:22:11",
+  "FFlagCLI37642": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8277,8 +8278,8 @@
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
   "EnablePushNotificationSessionUtilsAndroid": "True",
-  "FStringFlagRepoGitHashFastString": "8f45d03e0732a9950d3b980afe8c797cb2a2e8aa",
-  "DFStringFlagRepoGitHashDynamicString": "8f45d03e0732a9950d3b980afe8c797cb2a2e8aa",
-  "FStringFlipTimeStampFastString": "2023-10-02T18:18:03.024Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T18:18:03.024Z"
+  "FStringFlagRepoGitHashFastString": "244b7015c3c5fe77f47ae596595ec266b07dd344",
+  "DFStringFlagRepoGitHashDynamicString": "244b7015c3c5fe77f47ae596595ec266b07dd344",
+  "FStringFlipTimeStampFastString": "2023-10-02T18:28:30.496Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T18:28:30.496Z"
 }
