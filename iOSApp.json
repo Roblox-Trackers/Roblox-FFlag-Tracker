@@ -7917,7 +7917,6 @@
   "FFlagStudioVideoUploadUseContentPlatformAPI": "True",
   "FFlagSimDynamicMeshMetrics": "True",
   "FFlagLuauVariadicOverloadFix": "True",
-  "DFFlagSimActivateNewAlignTypes_Rollout": "True;60;2023-10-02T19:09:04",
   "FFlagFixSoundTunableId": "True",
   "FFlagFixUnnecessaryTranslationInvalidations_Rollout": "True;60;2023-10-02T19:23:27",
   "DFFlagSolverModelPartCountUpdate": "True",
@@ -7925,6 +7924,7 @@
   "FFlagToolboxSetupAudioDiscoveryExperiment": "True",
   "FFlagToolboxSearchCreatorInExpandedContent": "True",
   "FFlagFixDoubleMacUpdateAdapterInit_Rollout": "True;30;2023-10-02T20:13:20",
+  "DFFlagSimActivateNewAlignTypes": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8255,8 +8255,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "57deaae9901a828b3a09a3846d7f740df53d5658",
-  "DFStringFlagRepoGitHashDynamicString": "57deaae9901a828b3a09a3846d7f740df53d5658",
-  "FStringFlipTimeStampFastString": "2023-10-02T20:13:39.635Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T20:13:39.635Z"
+  "FStringFlagRepoGitHashFastString": "0f20923c1a96b1ab832ff67f247e204ac4fe2ab2",
+  "DFStringFlagRepoGitHashDynamicString": "0f20923c1a96b1ab832ff67f247e204ac4fe2ab2",
+  "FStringFlipTimeStampFastString": "2023-10-02T20:18:10.038Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T20:18:10.038Z"
 }
