@@ -202,7 +202,7 @@
   "DFIntUserHttpRequestsPerMinuteLimitZ_PlaceFilter": "500;4686746335;4702658078;1067560271;1067660288;735030788;2033617470;4709927839;2033617613;1765700510;1187101243;4728133914;4728134592;4728135073;4728136238;4728136475;4728136681;4728136927;4728137133;4728137352;4728137581",
   "DFIntVideoImageReductionFactor": "1",
   "DFIntVideoMaxNumberOfVideosPlaying": "2",
-  "DFIntVideoMaxNumberOfVideosPlaying_PlaceFilter": "6;5646917919;5535247402;5796554295;5796546949;5796518985;5792232897;5790039516;5938526032;5947859215;5064251723;7665856814;9134839143;10684724415;9129288160;10201978992;10684741440;10381578920;9803810042;10693660154;14944729618",
+  "DFIntVideoMaxNumberOfVideosPlaying_PlaceFilter": "20;5646917919;5535247402;5796554295;5796546949;5796518985;5792232897;5790039516;5938526032;5947859215;5064251723;7665856814;9134839143;10684724415;9129288160;10201978992;10684741440;10381578920;9803810042;10693660154;14944729618",
   "DFIntVideoStreamMaxBufferMs": "200",
   "DFIntVideoStreamMinBufferMs": "100",
   "DFIntWaterViscosityDragFudgeFactor_PlaceFilter": "500;1221071288;1107780422;1223560318",
@@ -7895,7 +7895,6 @@
   "FFlagExploreApiSortContentsMigration3": "True",
   "DFFlagCorrectContactsFromEPA_Rollout": "True;60;2023-10-02T16:26:25",
   "DFFlagDoNotRecomputeClosestPoint_Rollout": "True;60;2023-10-02T16:26:31",
-  "FFlagLuauMergeTagLoads_Rollout": "True;30;2023-10-02T16:50:09",
   "FFlagBootcampCLI85206_Rollout": "True;60;2023-10-02T16:53:12",
   "FFlagCOLLAB4434FixSlicingInExceptionHandler_Rollout": "True;60;2023-10-02T16:54:34",
   "FFlagCOLLAB4103FixAutoReconnectRetryCountReporting_Rollout": "True;60;2023-10-02T16:56:47",
@@ -7904,6 +7903,7 @@
   "DFFlagAddAppVersionIntoV2POCStat_Rollout": "True;30;2023-10-02T17:14:08",
   "FFlagUGCValidateUVValuesInReference": "True",
   "DFFlagLabelSSQueueSizes_Rollout": "True;60;2023-10-02T17:24:05",
+  "FFlagLuauMergeTagLoads": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8096,8 +8096,8 @@
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagHttpCacheTrackAllAssets2_Rollout": "True;60;2023-10-02T17:15:19",
-  "FStringFlagRepoGitHashFastString": "a3e5eea907a15b69779cc42485242cefbd119604",
-  "DFStringFlagRepoGitHashDynamicString": "a3e5eea907a15b69779cc42485242cefbd119604",
-  "FStringFlipTimeStampFastString": "2023-10-02T17:26:45.305Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T17:26:45.305Z"
+  "FStringFlagRepoGitHashFastString": "f9ee71c7db87b8e91cbd077164130695e4a830d7",
+  "DFStringFlagRepoGitHashDynamicString": "f9ee71c7db87b8e91cbd077164130695e4a830d7",
+  "FStringFlipTimeStampFastString": "2023-10-02T17:28:52.088Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T17:28:52.088Z"
 }
