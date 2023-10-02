@@ -7895,7 +7895,6 @@
   "FFlagExploreApiSortContentsMigration3": "True",
   "FFlagEnableChromeBackwardsSignalAPI": "True",
   "FFlagUGCValidateUVValuesInReference": "True",
-  "DFFlagLabelSSQueueSizes_Rollout": "True;60;2023-10-02T17:24:05",
   "FFlagLuauMergeTagLoads": "True",
   "DFIntVoiceChatNumberOfHeartBeatIntervalUntilTimeout": "3",
   "DFFlagCorrectContactsFromEPA": "True",
@@ -7904,7 +7903,6 @@
   "FFlagLuauVariadicOverloadFix_Rollout": "True;60;2023-10-02T17:45:11",
   "DFIntVoiceChatGrpClientHeartBeatIntervalMs": "10000",
   "DFFlagAddAppVersionIntoV2POCStat": "True",
-  "DFFlagTeleportThirdPartyChecking_Rollout": "True;30;2023-10-02T17:54:18",
   "FFlagBootcampCLI85206": "True",
   "FFlagCOLLAB4103FixAutoReconnectRetryCountReporting": "True",
   "FFlagCOLLAB4434FixSlicingInExceptionHandler": "True",
@@ -7916,6 +7914,8 @@
   "FFlagCLI37642": "True",
   "FFlagFixKeepOutAreasCompatibility": "True",
   "FFlagLuauProfilerCustomCalls": "True",
+  "DFFlagTeleportThirdPartyChecking": "True",
+  "DFFlagLabelSSQueueSizes": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8246,8 +8246,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "a9b1a157824224ed55a6fef3f28bd838d1dcb3c9",
-  "DFStringFlagRepoGitHashDynamicString": "a9b1a157824224ed55a6fef3f28bd838d1dcb3c9",
-  "FStringFlipTimeStampFastString": "2023-10-02T18:30:25.900Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T18:30:25.900Z"
+  "FStringFlagRepoGitHashFastString": "b598c538e15c1f7a998efb75754fe0a3283de60a",
+  "DFStringFlagRepoGitHashDynamicString": "b598c538e15c1f7a998efb75754fe0a3283de60a",
+  "FStringFlipTimeStampFastString": "2023-10-02T18:32:00.688Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T18:32:00.688Z"
 }
