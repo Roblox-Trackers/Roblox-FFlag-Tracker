@@ -7940,6 +7940,7 @@
   "DFFlagSimOptimizedSymmetricMatrixRotation": "True",
   "FFlagOptimizeHelpMenuInputEvent": "True",
   "FFlagLuauWeakGlobalApiSurface": "True",
+  "FFlagAppUpdateAdapterWithChannels_Rollout": "True;60;2023-10-02T23:44:05",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8195,7 +8196,6 @@
   "FStringProfileQRCodeScannerOpened": "ProfileQRCodeScannerOpenedWindowsClient",
   "FFlagAddFontAtlasMipmaps": "False",
   "FFlagUpdateCheckOnLogin": "True",
-  "FFlagAppUpdateAdapterWithChannels": "True",
   "DFIntHttpCacheRetryCount_DataCenterFilter": "10000;374",
   "FFlagSessionTrackingResetMoreFields": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
@@ -8203,8 +8203,8 @@
   "DFFlagSimHumanoidPhysics": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "a649d30a1a5dd9ec0dbb8678e3088df0159adf03",
-  "DFStringFlagRepoGitHashDynamicString": "a649d30a1a5dd9ec0dbb8678e3088df0159adf03",
-  "FStringFlipTimeStampFastString": "2023-10-02T23:42:19.229Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T23:42:19.229Z"
+  "FStringFlagRepoGitHashFastString": "e3ebff6301d1a6f38174a0404ba47683986fb012",
+  "DFStringFlagRepoGitHashDynamicString": "e3ebff6301d1a6f38174a0404ba47683986fb012",
+  "FStringFlipTimeStampFastString": "2023-10-02T23:44:26.393Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T23:44:26.393Z"
 }
