@@ -5975,7 +5975,7 @@
   "FFlagHumanoidParallelFasterWakeUp": "True",
   "DFFlagPotentialFixToTDigestMutexCrash2": "True",
   "FFlagAddApolloClientToExperienceChat": "True",
-  "FFlagExploreApiSortContentsMigrationIXP2": "True",
+  "FFlagExploreApiSortContentsMigrationIXP2": "False",
   "FFlagLuauCloneCyclicUnions": "True",
   "DFFlagPerformanceControlAddSecondaryMetricsToApi": "True",
   "FFlagEnableEventReceiverInitFix": "True",
@@ -8225,8 +8225,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "ab218b8f70ccf1d2f40014e40957aef0d8a5846d",
-  "DFStringFlagRepoGitHashDynamicString": "ab218b8f70ccf1d2f40014e40957aef0d8a5846d",
-  "FStringFlipTimeStampFastString": "2023-10-02T16:43:04.325Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T16:43:04.325Z"
+  "FStringFlagRepoGitHashFastString": "9a1977166db513a02e67dd2af3d40b174c0d067c",
+  "DFStringFlagRepoGitHashDynamicString": "9a1977166db513a02e67dd2af3d40b174c0d067c",
+  "FStringFlipTimeStampFastString": "2023-10-02T16:45:19.264Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T16:45:19.264Z"
 }
