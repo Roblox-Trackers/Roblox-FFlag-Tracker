@@ -7908,6 +7908,7 @@
   "FFlagSimDynamicMeshMetrics_Rollout": "True;60;2023-10-02T17:38:49",
   "FFlagLuauVariadicOverloadFix_Rollout": "True;60;2023-10-02T17:45:11",
   "FFlagLuauProfilerCustomCalls_Rollout": "True;30;2023-10-02T17:46:55",
+  "FFlagMSRefactor2_Rollout": "True;60;2023-10-02T17:47:30",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8238,8 +8239,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "0065ca8a05c8ec28058313a0b520b10f04c7eee5",
-  "DFStringFlagRepoGitHashDynamicString": "0065ca8a05c8ec28058313a0b520b10f04c7eee5",
-  "FStringFlipTimeStampFastString": "2023-10-02T17:47:17.492Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T17:47:17.492Z"
+  "FStringFlagRepoGitHashFastString": "489b81bcd09b1968d3f48ee77234198deec287e6",
+  "DFStringFlagRepoGitHashDynamicString": "489b81bcd09b1968d3f48ee77234198deec287e6",
+  "FStringFlipTimeStampFastString": "2023-10-02T17:48:20.118Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T17:48:20.118Z"
 }
