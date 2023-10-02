@@ -7927,6 +7927,7 @@
   "FFlagFixUnnecessaryTranslationInvalidations": "True",
   "FFlagFixDoubleMacUpdateAdapterInit": "True",
   "DFFlagSecondaryMetricsShouldOverwriteByDefault_Rollout": "True;30;2023-10-02T21:04:25",
+  "FFlagStudioBreakShareModalStartPageDependency_Rollout": "True;60;2023-10-02T21:26:20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8257,8 +8258,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "d41a6d9b21b6fe6888374396325c2682b2ae6230",
-  "DFStringFlagRepoGitHashDynamicString": "d41a6d9b21b6fe6888374396325c2682b2ae6230",
-  "FStringFlipTimeStampFastString": "2023-10-02T21:09:34.693Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T21:09:34.693Z"
+  "FStringFlagRepoGitHashFastString": "d17c26ce1418ec641c836e1446f37072982523a2",
+  "DFStringFlagRepoGitHashDynamicString": "d17c26ce1418ec641c836e1446f37072982523a2",
+  "FStringFlipTimeStampFastString": "2023-10-02T21:26:57.034Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T21:26:57.034Z"
 }
