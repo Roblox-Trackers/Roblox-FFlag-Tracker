@@ -6230,7 +6230,7 @@
   "FFlagBootcampCLI74304": "True",
   "DFFlagRemoveInterpolationThrottlingOption": "True",
   "DFIntInterpolationDtLimitForLod": "15",
-  "DFFlagVoiceChatEnableRccV2ControlPlane": "True",
+  "DFFlagVoiceChatEnableRccV2ControlPlane": "False",
   "DFFlagVoiceChatEnableRccV2ControlPlane_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;14104248348;6884319169;2788229376;12699642568",
   "FFlagCOLLAB4039RefactorDocClose": "True",
   "FFlagGameSettingsEvictIfLostPerms": "True",
@@ -7519,7 +7519,7 @@
   "FFlagEnableLoggingSoundTunableTelemetryToPerfControl": "True",
   "PreventDuplicateObserver": "True",
   "FFlagVoiceChatNewServerJoinFlow2": "False",
-  "FFlagVoiceChatNewServerJoinFlow2_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;14104248348;2788229376;6884319169;12699642568",
+  "FFlagVoiceChatNewServerJoinFlow2_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
   "NotifyCompleteForNotification": "True",
   "FFlagStudioHardwareSleepListenerComponent": "True",
   "FFlagStudioMainWindowComponent": "True",
@@ -8086,8 +8086,8 @@
   "FIntUseRealtimePublisherHundredthPercent": "0",
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "f3c8946db2b0be45609086ef1fb59a1249e7375b",
-  "DFStringFlagRepoGitHashDynamicString": "f3c8946db2b0be45609086ef1fb59a1249e7375b",
-  "FStringFlipTimeStampFastString": "2023-10-02T16:27:24.280Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T16:27:24.280Z"
+  "FStringFlagRepoGitHashFastString": "4ad3aafae595e28f4c5af3dfb41b3fb2f87ffe74",
+  "DFStringFlagRepoGitHashDynamicString": "4ad3aafae595e28f4c5af3dfb41b3fb2f87ffe74",
+  "FStringFlipTimeStampFastString": "2023-10-02T16:35:00.496Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T16:35:00.496Z"
 }
