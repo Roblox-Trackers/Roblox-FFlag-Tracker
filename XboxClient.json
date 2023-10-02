@@ -7899,7 +7899,6 @@
   "DFIntVoiceChatNumberOfHeartBeatIntervalUntilTimeout": "3",
   "DFFlagCorrectContactsFromEPA": "True",
   "DFFlagDoNotRecomputeClosestPoint": "True",
-  "FFlagSimDynamicMeshMetrics_Rollout": "True;60;2023-10-02T17:38:49",
   "FFlagLuauVariadicOverloadFix_Rollout": "True;60;2023-10-02T17:45:11",
   "DFIntVoiceChatGrpClientHeartBeatIntervalMs": "10000",
   "DFFlagAddAppVersionIntoV2POCStat": "True",
@@ -7919,6 +7918,7 @@
   "DFIntTeleportCheckAllowedEventThrottleHundredthPercent": "100",
   "DFFlagBulkImportShowVideoConfirmation": "True",
   "FFlagStudioVideoUploadUseContentPlatformAPI": "True",
+  "FFlagSimDynamicMeshMetrics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8115,8 +8115,8 @@
   "FStringLuaErrorByPlatformCounter": "LuaErrorPlatformXbox",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "FStringFlagRepoGitHashFastString": "98280a7328ca25b9605b33232a2610f65cf4ddec",
-  "DFStringFlagRepoGitHashDynamicString": "98280a7328ca25b9605b33232a2610f65cf4ddec",
-  "FStringFlipTimeStampFastString": "2023-10-02T18:46:55.564Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-02T18:46:55.564Z"
+  "FStringFlagRepoGitHashFastString": "8dae393a9ea917a5a9638fcbd8eb9b3b414a7c11",
+  "DFStringFlagRepoGitHashDynamicString": "8dae393a9ea917a5a9638fcbd8eb9b3b414a7c11",
+  "FStringFlipTimeStampFastString": "2023-10-02T18:47:38.359Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-02T18:47:38.359Z"
 }
