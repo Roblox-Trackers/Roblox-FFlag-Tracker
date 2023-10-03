@@ -7946,9 +7946,9 @@
   "DFIntLuaIterCallInfluxHundrethsPercentage": "100",
   "FFlagVideoFixTempPlacePermissionRequest": "True",
   "FFlagUserSearchAddSessionIdToURL": "True",
-  "FFlagAutoUpgradeEnableVersionCheckWithChannels_Rollout": "True;60;2023-10-03T18:15:19",
   "FFlagSimSolverEnableLookAtConstraint2_Rollout": "True;60;2023-10-03T18:46:07",
   "FFlagEnableCanPerformBinaryUpdate_Rollout": "True;60;2023-10-03T18:54:05",
+  "FFlagAutoUpgradeEnableVersionCheckWithChannels": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8141,8 +8141,8 @@
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
-  "FStringFlagRepoGitHashFastString": "a074d0aba68fb17825fe5d49f320a47950b65023",
-  "DFStringFlagRepoGitHashDynamicString": "a074d0aba68fb17825fe5d49f320a47950b65023",
-  "FStringFlipTimeStampFastString": "2023-10-03T19:06:33.836Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-03T19:06:33.836Z"
+  "FStringFlagRepoGitHashFastString": "44f2017464048c17706e6ce105f031611f02e35f",
+  "DFStringFlagRepoGitHashDynamicString": "44f2017464048c17706e6ce105f031611f02e35f",
+  "FStringFlipTimeStampFastString": "2023-10-03T19:21:42.082Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-03T19:21:42.082Z"
 }
