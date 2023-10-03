@@ -6956,8 +6956,8 @@
   "DFFlagUnlimitTrussLengthDM": "True",
   "DFFlagTrackingGcStats": "True",
   "DFFlagWorkspaceSkipBounds": "True",
-  "DFFlagFlagRolloutTestDynamicBool9": "false",
-  "FFlagFlagRolloutTestStaticBool9": "true",
+  "DFFlagFlagRolloutTestDynamicBool9": "True",
+  "FFlagFlagRolloutTestStaticBool9": "False",
   "DFIntErrorEstimationArbiterThreshold2dtThou": "7000",
   "DFIntErrorEstimationArbiterThreshold4dtThou": "10000",
   "DFIntSimArbiterPositionCorrectionFactorThresholdThou": "3000",
@@ -7949,9 +7949,7 @@
   "FFlagAutoUpgradeEnableVersionCheckWithChannels": "True",
   "FFlagUGCValidationAnalytics": "True",
   "FFlagSimSolverEnableLookAtConstraint2": "True",
-  "DFFlagFlagRolloutTestDynamicBool9_Rollout": "True;60;2023-10-03T20:01:42",
   "FFlagEnableCanPerformBinaryUpdate": "True",
-  "FFlagFlagRolloutTestStaticBool9_Rollout": "False;60;2023-10-03T20:02:04",
   "FFlagDisableAddFriendsInCarousel": "True",
   "FFlagFixNonSelfCalls": "True",
   "DFFlagReconstructBVHRefactor_Rollout": "True;60;2023-10-03T20:34:28",
@@ -8218,8 +8216,8 @@
   "DFFlagDisableControllerManagerAsChild2": "True",
   "DFFlagSimHumanoidPhysics": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
-  "FStringFlagRepoGitHashFastString": "c935fc8e0f1b2aa18d17128b5403ae9f1ee6a46a",
-  "DFStringFlagRepoGitHashDynamicString": "c935fc8e0f1b2aa18d17128b5403ae9f1ee6a46a",
-  "FStringFlipTimeStampFastString": "2023-10-03T21:05:47.595Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-03T21:05:47.595Z"
+  "FStringFlagRepoGitHashFastString": "0b1f601b0ed275575b1598b8bac1eb3569c86f36",
+  "DFStringFlagRepoGitHashDynamicString": "0b1f601b0ed275575b1598b8bac1eb3569c86f36",
+  "FStringFlipTimeStampFastString": "2023-10-03T21:06:49.817Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-03T21:06:49.817Z"
 }
