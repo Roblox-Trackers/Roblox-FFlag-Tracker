@@ -7942,6 +7942,7 @@
   "DFFlagDoNotCreateMRDAnyway": "True",
   "FFlagAppUpdateAdapterWithChannels": "True",
   "FFlagMacUpdateAdapter": "True",
+  "DFFlagLuaIterCallTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8272,8 +8273,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FStringFlagRepoGitHashFastString": "e13cb3aa6a94fce82c95e89454fd4eebc1a6fd0e",
-  "DFStringFlagRepoGitHashDynamicString": "e13cb3aa6a94fce82c95e89454fd4eebc1a6fd0e",
-  "FStringFlipTimeStampFastString": "2023-10-03T11:49:45.974Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-03T11:49:45.974Z"
+  "FStringFlagRepoGitHashFastString": "bf2298acdeb6e5f9eeea90dfcc0abba10248208f",
+  "DFStringFlagRepoGitHashDynamicString": "bf2298acdeb6e5f9eeea90dfcc0abba10248208f",
+  "FStringFlipTimeStampFastString": "2023-10-03T16:25:27.196Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-03T16:25:27.196Z"
 }
