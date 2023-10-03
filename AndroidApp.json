@@ -6498,7 +6498,7 @@
   "FFlagLCSortLightModeFix": "True",
   "FFlagScreenGuiRenderFirstAncestor": "True",
   "DFFlagOptimizeAutosaveInterval": "True",
-  "FFlagChangeBulletConvexHullMargin3": "True",
+  "FFlagChangeBulletConvexHullMargin3": "False",
   "DFIntTeamCreateSavePeriodForExperimentPlaceSeconds": "5",
   "FFlagOpenXrCycleThrottling": "True",
   "FFlagFunctionScriptSlotSimplification": "True",
@@ -7956,7 +7956,6 @@
   "DFFlagCountCoalescedTouches": "True",
   "DFFlagReconstructBVHRefactor": "True",
   "DFIntCountCoalescedTouchesHundredth": "100",
-  "FFlagChangeBulletConvexHullMargin3_Rollout": "False;30;2023-10-03T23:07:09",
   "FFlagQrCodeScannerIOSUseNativeApi": "True",
   "FFlagImprovePluginSpeedMoveDragger": "True",
   "FFlagImprovePluginSpeedRotateDragger": "True",
@@ -8325,8 +8324,8 @@
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
   "EnablePushNotificationSessionUtilsAndroid": "True",
-  "FStringFlagRepoGitHashFastString": "cb11bc121fea68c864d48787c85959949132ff8a",
-  "DFStringFlagRepoGitHashDynamicString": "cb11bc121fea68c864d48787c85959949132ff8a",
-  "FStringFlipTimeStampFastString": "2023-10-03T23:36:47.810Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-03T23:36:47.810Z"
+  "FStringFlagRepoGitHashFastString": "8f3335c7f74c0d40cbca4a9250191ab53867dbac",
+  "DFStringFlagRepoGitHashDynamicString": "8f3335c7f74c0d40cbca4a9250191ab53867dbac",
+  "FStringFlipTimeStampFastString": "2023-10-03T23:41:37.561Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-03T23:41:37.561Z"
 }
