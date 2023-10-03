@@ -7948,6 +7948,7 @@
   "DFFlagEnableV2POCStat_Rollout": "True;60;2023-10-03T17:58:13",
   "FFlagUserSearchAddSessionIdToURL": "True",
   "AllowVideoPreRoll": "True",
+  "FFlagSimSolverEnableLookAtConstraint2_Rollout": "True;60;2023-10-03T18:46:07",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8208,8 +8209,8 @@
   "DFFlagDisableControllerManagerAsChild2": "True",
   "DFFlagSimHumanoidPhysics": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
-  "FStringFlagRepoGitHashFastString": "4d42909793731cefc02117e270054fd01e4d3471",
-  "DFStringFlagRepoGitHashDynamicString": "4d42909793731cefc02117e270054fd01e4d3471",
-  "FStringFlipTimeStampFastString": "2023-10-03T18:36:46.049Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-03T18:36:46.049Z"
+  "FStringFlagRepoGitHashFastString": "152fffdf94212b765fadd7ebeb709d5b21392091",
+  "DFStringFlagRepoGitHashDynamicString": "152fffdf94212b765fadd7ebeb709d5b21392091",
+  "FStringFlipTimeStampFastString": "2023-10-03T18:46:41.565Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-03T18:46:41.565Z"
 }
