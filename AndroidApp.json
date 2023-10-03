@@ -7945,6 +7945,7 @@
   "DFFlagLuaIterCallTelemetry": "True",
   "DFIntLuaIterCallInfluxHundrethsPercentage": "100",
   "FFlagVideoFixTempPlacePermissionRequest": "True",
+  "DFFlagEnableV2POCStat_Rollout": "True;60;2023-10-03T17:58:13",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8308,8 +8309,8 @@
   "FFlagEnableInternationalPhoneNumberAutofillRelease1": "True",
   "EnableAndroidRealtimeProtocol": "True",
   "EnablePushNotificationSessionUtilsAndroid": "True",
-  "FStringFlagRepoGitHashFastString": "a4e0d8df545f74e8eee7377eb3990c2d89dfa5a0",
-  "DFStringFlagRepoGitHashDynamicString": "a4e0d8df545f74e8eee7377eb3990c2d89dfa5a0",
-  "FStringFlipTimeStampFastString": "2023-10-03T17:56:29.256Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-03T17:56:29.256Z"
+  "FStringFlagRepoGitHashFastString": "cb1d70976472863e6122e4fc526bc041376479c4",
+  "DFStringFlagRepoGitHashDynamicString": "cb1d70976472863e6122e4fc526bc041376479c4",
+  "FStringFlipTimeStampFastString": "2023-10-03T17:58:47.935Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-03T17:58:47.935Z"
 }
