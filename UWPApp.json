@@ -6675,7 +6675,7 @@
   "FIntUGCBundleCreationPollStatusAttempts": "6",
   "DFFlagCOLLAB2385TranslatedErrorMessagingNonTCEnabled2": "False",
   "FFlagAssetImporterFixScrollbar": "True",
-  "DFFlagPathfindingReportClickToMoveSetting": "True",
+  "DFFlagPathfindingReportClickToMoveSetting": "False",
   "FFlagLuaProfileLargerThumbnail": "True",
   "FFlagTerrainFixGrassFlickering": "True",
   "DFIntDSTelemetrySetV1Rollout": "100",
@@ -7970,7 +7970,6 @@
   "FFlagEnableInGameMenuModernization": "True",
   "FFlagFixGameCarouselHorizontalScrollDoubleFetch": "True",
   "FStringCustomVideoUploadBetaFeatureUrl": "https://devforum.roblox.com/t/video-uploads-beta-add-short-form-video-to-your-experience/2630621",
-  "DFFlagPathfindingReportClickToMoveSetting_Rollout": "False;60;2023-10-04T18:30:05",
   "FFlagEnableVRFTUXAppSessionCounter": "True",
   "FFlagRevertcd51c3c6Refactor_Rollout": "False;30;2023-10-04T19:13:24",
   "FFlagLuauWeakGlobalApiSurface_Rollout": "False;60;2023-10-04T19:27:30",
@@ -8164,8 +8163,8 @@
   "DFFlagCLI82264": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
-  "FStringFlagRepoGitHashFastString": "d287602311781652df5ed6cebf21157ba3356f8c",
-  "DFStringFlagRepoGitHashDynamicString": "d287602311781652df5ed6cebf21157ba3356f8c",
-  "FStringFlipTimeStampFastString": "2023-10-04T19:34:48.765Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-04T19:34:48.765Z"
+  "FStringFlagRepoGitHashFastString": "c3e855921a1edf3747b58869dbbb971196e82596",
+  "DFStringFlagRepoGitHashDynamicString": "c3e855921a1edf3747b58869dbbb971196e82596",
+  "FStringFlipTimeStampFastString": "2023-10-04T19:36:31.389Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-04T19:36:31.389Z"
 }
