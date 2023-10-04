@@ -7772,7 +7772,7 @@
   "FFlagFixVRNavigationClippingAndAlignment2": "True",
   "FFlagToolboxFixInventoryGridSearch": "True",
   "DFIntTeleportV2InvocationsAnalyticsInfluxHundredthsPercentage_PlaceFilter": "5;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
-  "FFlagRevertcd51c3c6DisableAppSessionSuccess": "True",
+  "FFlagRevertcd51c3c6DisableAppSessionSuccess": "False",
   "DFFlagHttpRequestPostAddCustomHeader": "False",
   "DFFlagReportToEdgeAnalyticsEventsAggregatorV2": "False",
   "FFlagAddHiraganoSansForIOS2": "True",
@@ -7971,7 +7971,6 @@
   "FFlagFixGameCarouselHorizontalScrollDoubleFetch": "True",
   "FStringCustomVideoUploadBetaFeatureUrl": "https://devforum.roblox.com/t/video-uploads-beta-add-short-form-video-to-your-experience/2630621",
   "DFFlagPathfindingReportClickToMoveSetting_Rollout": "False;60;2023-10-04T18:30:05",
-  "FFlagRevertcd51c3c6DisableAppSessionSuccess_Rollout": "False;30;2023-10-04T18:44:02",
   "FFlagEnableVRFTUXAppSessionCounter": "True",
   "FFlagRevertcd51c3c6Refactor_Rollout": "False;30;2023-10-04T19:13:24",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8232,8 +8231,8 @@
   "DFFlagSimHumanoidPhysics": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "8a5423769eb9cb7f78e658549be679cb8974e9f1",
-  "DFStringFlagRepoGitHashDynamicString": "8a5423769eb9cb7f78e658549be679cb8974e9f1",
-  "FStringFlipTimeStampFastString": "2023-10-04T19:13:52.554Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-04T19:13:52.554Z"
+  "FStringFlagRepoGitHashFastString": "e911b5d78b29109e42f06b2202ce7871fa2c88e4",
+  "DFStringFlagRepoGitHashDynamicString": "e911b5d78b29109e42f06b2202ce7871fa2c88e4",
+  "FStringFlipTimeStampFastString": "2023-10-04T19:20:58.835Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-04T19:20:58.835Z"
 }
