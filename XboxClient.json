@@ -7978,6 +7978,8 @@
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2023-10-04T22:54:44",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2023-10-04T22:55:04",
   "FFlagDragDetectorMinMaxTranslationUsesCurrentReferenceFrame_Rollout": "True;60;2023-10-04T23:04:00",
+  "FIntTTIDelayExperimentDelayIncrementMs": "2000",
+  "FStringTTIDelayExperimentBucketSettings": "5;2",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8175,8 +8177,10 @@
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFLogHttpCache": "6",
-  "FStringFlagRepoGitHashFastString": "9521f55cf71231cd324774a2280877faa92fd191",
-  "DFStringFlagRepoGitHashDynamicString": "9521f55cf71231cd324774a2280877faa92fd191",
-  "FStringFlipTimeStampFastString": "2023-10-04T23:27:38.147Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-04T23:27:38.147Z"
+  "FFlagTTIDelayExperimentEnabled": "False",
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
+  "FStringFlagRepoGitHashFastString": "f09876b26d4fdc062becfffcd48ac7a99346035c",
+  "DFStringFlagRepoGitHashDynamicString": "f09876b26d4fdc062becfffcd48ac7a99346035c",
+  "FStringFlipTimeStampFastString": "2023-10-04T23:34:45.939Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-04T23:34:45.939Z"
 }
