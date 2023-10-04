@@ -7584,7 +7584,7 @@
   "FFlagPreloadCustomizeButton": "True",
   "FFlagTenFootUiPlaceholderMoreSettings": "True",
   "FFlagSimHideUseLegacyCSGStudioSetting": "True",
-  "FFlagRevertcd51c3c6Refactor": "True",
+  "FFlagRevertcd51c3c6Refactor": "False",
   "FFlagLanguageFeaturesBanner1": "True",
   "FFlagTurnOffFeaturesForLongScript1": "True",
   "FFlagCorrectEarlyReturnInMarkDirty": "True",
@@ -7971,7 +7971,6 @@
   "FFlagFixGameCarouselHorizontalScrollDoubleFetch": "True",
   "FStringCustomVideoUploadBetaFeatureUrl": "https://devforum.roblox.com/t/video-uploads-beta-add-short-form-video-to-your-experience/2630621",
   "FFlagEnableVRFTUXAppSessionCounter": "True",
-  "FFlagRevertcd51c3c6Refactor_Rollout": "False;30;2023-10-04T19:13:24",
   "FFlagLuauWeakGlobalApiSurface_Rollout": "False;60;2023-10-04T19:27:30",
   "FFlagSessionTrackingResetMoreFields_Rollout": "False;30;2023-10-04T19:34:21",
   "FFlagFindReplaceUpdateSourceAsync": "True",
@@ -8231,8 +8230,8 @@
   "DFFlagDisableControllerManagerAsChild2": "True",
   "DFFlagSimHumanoidPhysics": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
-  "FStringFlagRepoGitHashFastString": "562f9ace2baeaf3aaf3eebc45d149107661ac839",
-  "DFStringFlagRepoGitHashDynamicString": "562f9ace2baeaf3aaf3eebc45d149107661ac839",
-  "FStringFlipTimeStampFastString": "2023-10-04T19:44:40.873Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-04T19:44:40.873Z"
+  "FStringFlagRepoGitHashFastString": "c4a15383d42282ebebd26a728bbb2eb149a689c2",
+  "DFStringFlagRepoGitHashDynamicString": "c4a15383d42282ebebd26a728bbb2eb149a689c2",
+  "FStringFlipTimeStampFastString": "2023-10-04T19:51:37.380Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-04T19:51:37.380Z"
 }
