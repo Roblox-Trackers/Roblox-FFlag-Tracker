@@ -7772,7 +7772,7 @@
   "FFlagFixVRNavigationClippingAndAlignment2": "True",
   "FFlagToolboxFixInventoryGridSearch": "True",
   "DFIntTeleportV2InvocationsAnalyticsInfluxHundredthsPercentage_PlaceFilter": "5;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
-  "FFlagRevertcd51c3c6DisableAppSessionSuccess": "True",
+  "FFlagRevertcd51c3c6DisableAppSessionSuccess": "False",
   "DFFlagHttpRequestPostAddCustomHeader": "False",
   "DFFlagReportToEdgeAnalyticsEventsAggregatorV2": "False",
   "FFlagAddHiraganoSansForIOS2": "True",
@@ -8303,9 +8303,8 @@
   "FFlagEnableSeamlessForceOTAUpdateIOS": "True",
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
-  "FFlagRevertcd51c3c6DisableAppSessionSuccess_Rollout": "False;30;2023-10-04T20:11:06",
-  "FStringFlagRepoGitHashFastString": "87e6f3e2996cdab7ae4ebb838b82adb412050de2",
-  "DFStringFlagRepoGitHashDynamicString": "87e6f3e2996cdab7ae4ebb838b82adb412050de2",
-  "FStringFlipTimeStampFastString": "2023-10-04T20:43:51.751Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-04T20:43:51.751Z"
+  "FStringFlagRepoGitHashFastString": "a3db8af9b360cb479da35bab7d805590e9752705",
+  "DFStringFlagRepoGitHashDynamicString": "a3db8af9b360cb479da35bab7d805590e9752705",
+  "FStringFlipTimeStampFastString": "2023-10-04T20:47:29.390Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-04T20:47:29.390Z"
 }
