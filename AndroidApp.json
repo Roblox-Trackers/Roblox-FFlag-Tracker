@@ -7995,7 +7995,6 @@
   "FFlagStudioActionConversionGroup5": "True",
   "FFlagAinStatusV2ErrorChecked": "True",
   "DFIntDynamicMeshInitTrackingHundredthsPercentage_Rollout": "10000;60;2023-10-05T20:47:56",
-  "DFIntDualWriteEventCrashToV2CounterSampling_Rollout": "5;30;2023-10-05T20:48:42",
   "DFFlagFlagRolloutTestDynamicBool3_Rollout": "False;60;2023-10-05T20:50:09",
   "FFlagFlagRolloutTestStaticBool3_Rollout": "True;60;2023-10-05T20:50:35",
   "DFFlagAddDynamicHeadTelemetryToSessionTracking_Rollout": "True;60;2023-10-05T20:51:00",
@@ -8022,6 +8021,7 @@
   "FFlagEnableMaquettesHomePageAgeBlockV2": "True",
   "FFlagLeaveExperienceBeforeJoining_Rollout": "True;60;2023-10-05T21:19:04",
   "FFlagAddToastTimeToActionTimestamp": "True",
+  "DFIntDualWriteEventCrashToV2CounterSampling": "5",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8387,8 +8387,8 @@
   "EnablePushNotificationSessionUtilsAndroid": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "5ef6c6d14f2f1c0e0f3c4fbbd5267dfcf5366eca",
-  "DFStringFlagRepoGitHashDynamicString": "5ef6c6d14f2f1c0e0f3c4fbbd5267dfcf5366eca",
-  "FStringFlipTimeStampFastString": "2023-10-05T21:25:23.075Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:25:23.075Z"
+  "FStringFlagRepoGitHashFastString": "46d3303980539361fe23da748a71d7b9bdb639f0",
+  "DFStringFlagRepoGitHashDynamicString": "46d3303980539361fe23da748a71d7b9bdb639f0",
+  "FStringFlipTimeStampFastString": "2023-10-05T21:26:26.263Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:26:26.263Z"
 }
