@@ -8002,7 +8002,7 @@
   "BalanceAppShellFragmentLinkingStartStop": "True",
   "FFlagEnableMaquettesHomePageAgeBlockV2": "True",
   "FFlagAddToastTimeToActionTimestamp": "True",
-  "DFIntDualWriteEventCrashToV2CounterSampling": "5",
+  "DFIntDualWriteEventCrashToV2CounterSampling": "50",
   "FFlagDevFrameworkStyleSheets": "True",
   "FFlagFixStorybookPlainFilter": "True",
   "FFlagLocalizationToolsFixLabel": "True",
@@ -8017,8 +8017,6 @@
   "FFlagProfileTelemetryAccessFix": "True",
   "DFFlagAddDynamicHeadTelemetryToSessionTracking": "True",
   "DFIntDynamicMeshInitTrackingHundredthsPercentage": "10000",
-  "FFlagEnableVRComfortSettingsTelemetry_Rollout": "True;60;2023-10-05T21:56:52",
-  "DFIntDualWriteEventCrashToV2CounterSampling_Rollout": "50;60;2023-10-05T21:59:06",
   "FFlagAinStatusMove2": "True",
   "FFlagStudioComponentizePluginRibbonActionHost": "True",
   "FFlagGetImageForKeyCodeReturns2x": "True",
@@ -8055,6 +8053,7 @@
   "FFlagUseParallelTypecheckInLSP": "True",
   "DFIntDynamicMeshInitLoggingHundredthsPercentage": "10000",
   "DFFlagAtomicPlayerStarterGuiNoReset_Rollout": "True;60;2023-10-05T22:57:13",
+  "FFlagEnableVRComfortSettingsTelemetry": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8312,8 +8311,8 @@
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "6dcc61ca7858f4811525a1dd60c2a6c75fcbbdfa",
-  "DFStringFlagRepoGitHashDynamicString": "6dcc61ca7858f4811525a1dd60c2a6c75fcbbdfa",
-  "FStringFlipTimeStampFastString": "2023-10-05T22:58:05.915Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:58:05.915Z"
+  "FStringFlagRepoGitHashFastString": "36d6a3b20e4c15d7ca820b20cfd1ad3d62b1e794",
+  "DFStringFlagRepoGitHashDynamicString": "36d6a3b20e4c15d7ca820b20cfd1ad3d62b1e794",
+  "FStringFlipTimeStampFastString": "2023-10-05T23:15:33.566Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T23:15:33.566Z"
 }
