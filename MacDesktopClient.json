@@ -8022,6 +8022,8 @@
   "FFlagLeaveExperienceBeforeJoining_Rollout": "True;60;2023-10-05T21:19:04",
   "FFlagAddToastTimeToActionTimestamp": "True",
   "DFIntDualWriteEventCrashToV2CounterSampling": "5",
+  "DFFlagCheckAllForSleep_Rollout": "True;60;2023-10-05T21:27:24",
+  "DFFlagRCCMonitorRegisterTimersForShutdown_Rollout": "True;60;2023-10-05T21:28:00",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8281,8 +8283,8 @@
   "FIntLuaAppPresencePollingIntervalInSecondsV377": "120",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "46d3303980539361fe23da748a71d7b9bdb639f0",
-  "DFStringFlagRepoGitHashDynamicString": "46d3303980539361fe23da748a71d7b9bdb639f0",
-  "FStringFlipTimeStampFastString": "2023-10-05T21:26:26.263Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:26:26.263Z"
+  "FStringFlagRepoGitHashFastString": "d20edf7c3700b916341b757568456223355b6476",
+  "DFStringFlagRepoGitHashDynamicString": "d20edf7c3700b916341b757568456223355b6476",
+  "FStringFlipTimeStampFastString": "2023-10-05T21:28:41.580Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:28:41.580Z"
 }
