@@ -49,7 +49,7 @@
   "FFlagMacInstallerVersionGuidParam": "True",
   "FFlagUseClientAsProtocolHandler": "True",
   "FFlagUseNewWindowsUninstaller": "True",
-  "FFlagMacInstallerRetryTerminateCheck2_Rollout": "True;60;2023-10-05T21:14:33",
+  "FFlagMacInstallerRetryTerminateCheck2": "True",
   "FFlagMacBootstrapperReportClientUpdateInfo": "True",
   "FFlagMacInstallerReportClientInstallInfo": "True",
   "FFlagMacBootstrapperUseDeployPathExtension": "True",
@@ -58,8 +58,8 @@
   "InfluxInstallHundredthsPercentage": "1",
   "FFlagRemoveSuccessDialogMacStudio": "True",
   "ShowInstallSuccessPrompt": "False",
-  "FStringFlagRepoGitHashFastString": "cfc4ab9951bf05f3b23e13ab57671f1cbc8ceb73",
-  "DFStringFlagRepoGitHashDynamicString": "cfc4ab9951bf05f3b23e13ab57671f1cbc8ceb73",
-  "FStringFlipTimeStampFastString": "2023-10-05T22:18:59.883Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:18:59.883Z"
+  "FStringFlagRepoGitHashFastString": "f4031aab3ca4a2b4707ccd19dde40defb8f5f0ee",
+  "DFStringFlagRepoGitHashDynamicString": "f4031aab3ca4a2b4707ccd19dde40defb8f5f0ee",
+  "FStringFlipTimeStampFastString": "2023-10-05T22:21:45.909Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:21:45.909Z"
 }
