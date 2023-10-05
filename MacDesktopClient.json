@@ -7983,6 +7983,12 @@
   "FFlagContactImporterAlignButton": "True",
   "FFlagEngineFlagsListeners": "True",
   "FFlagRAScreenshotOncePerMenuOpenEnabled": "True",
+  "FFlagGrassLengthCustomizationBetaFeature": "True",
+  "FFlagAinFixStatusUi": "True",
+  "DFFlagEnableDualWriteEventCrashToV2Counter_Rollout": "True;60;2023-10-05T20:33:21",
+  "DFFlagEnableDualWriteEphemeralCounterCrashToV2Counter_Rollout": "True;60;2023-10-05T20:34:48",
+  "FFlagAinStandardizeStatusStrings": "True",
+  "DFFlagSimFluidAddStudioGameStateTypeToFluidSessionStatsEvent_Rollout": "True;60;2023-10-05T20:37:00",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8242,8 +8248,8 @@
   "FIntLuaAppPresencePollingIntervalInSecondsV377": "120",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "96e49054722d0e809e20c3185c94a28364526dab",
-  "DFStringFlagRepoGitHashDynamicString": "96e49054722d0e809e20c3185c94a28364526dab",
-  "FStringFlipTimeStampFastString": "2023-10-05T20:37:06.433Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T20:37:06.433Z"
+  "FStringFlagRepoGitHashFastString": "a787c87fc0dbede660fd06e2355a93719bbdbf08",
+  "DFStringFlagRepoGitHashDynamicString": "a787c87fc0dbede660fd06e2355a93719bbdbf08",
+  "FStringFlipTimeStampFastString": "2023-10-05T20:38:40.595Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T20:38:40.595Z"
 }
