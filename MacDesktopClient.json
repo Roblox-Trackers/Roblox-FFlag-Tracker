@@ -7984,6 +7984,9 @@
   "FFlagContactImporterAlignButton": "True",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2023-10-05T17:39:35",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2023-10-05T17:41:20",
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2023-10-05T17:47:44",
+  "DFFlagFlagRolloutTestDynamicBool2_Rollout": "True;60;2023-10-05T17:47:50",
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2023-10-05T17:47:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8243,8 +8246,8 @@
   "FIntLuaAppPresencePollingIntervalInSecondsV377": "120",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "d135a7843c68b6f12e5b2c08a926de249c7aedb3",
-  "DFStringFlagRepoGitHashDynamicString": "d135a7843c68b6f12e5b2c08a926de249c7aedb3",
-  "FStringFlipTimeStampFastString": "2023-10-05T17:41:54.474Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T17:41:54.474Z"
+  "FStringFlagRepoGitHashFastString": "f7bc5baae369059b303861e3326d3c45ba28434f",
+  "DFStringFlagRepoGitHashDynamicString": "f7bc5baae369059b303861e3326d3c45ba28434f",
+  "FStringFlipTimeStampFastString": "2023-10-05T17:48:53.243Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T17:48:53.243Z"
 }
