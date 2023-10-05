@@ -8024,7 +8024,6 @@
   "FFlagAinStatusMove2": "True",
   "FFlagStudioComponentizePluginRibbonActionHost": "True",
   "FFlagGetImageForKeyCodeReturns2x": "True",
-  "FFlagScriptEditorLiveEditingTelemetry_Rollout": "True;30;2023-10-05T22:06:44",
   "FFlagRemoteCursorDynamicSelectionOpacity": "True",
   "FFlagToolboxEnableAudioSearchOptions5": "True",
   "FFlagToolboxAddSortIntentFiltering": "True",
@@ -8046,6 +8045,7 @@
   "DFFlagCheckAllForSleep": "True",
   "DFFlagRCCMonitorRegisterTimersForShutdown": "True",
   "FFlagAdGuiRefactorViewability3_Rollout": "True;60;2023-10-05T22:39:07",
+  "FFlagScriptEditorLiveEditingTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8247,8 +8247,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
-  "FStringFlagRepoGitHashFastString": "b3a5678f9bf1c6f98f8d4cf5de8818005302ab43",
-  "DFStringFlagRepoGitHashDynamicString": "b3a5678f9bf1c6f98f8d4cf5de8818005302ab43",
-  "FStringFlipTimeStampFastString": "2023-10-05T22:39:39.030Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:39:39.030Z"
+  "FStringFlagRepoGitHashFastString": "f71498a7005c1907fa9071984e96ce7610587fb9",
+  "DFStringFlagRepoGitHashDynamicString": "f71498a7005c1907fa9071984e96ce7610587fb9",
+  "FStringFlipTimeStampFastString": "2023-10-05T22:41:14.747Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:41:14.747Z"
 }
