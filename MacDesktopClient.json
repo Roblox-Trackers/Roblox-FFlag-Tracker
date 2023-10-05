@@ -8003,8 +8003,6 @@
   "FFlagEnableMaquettesHomePageAgeBlockV2": "True",
   "FFlagAddToastTimeToActionTimestamp": "True",
   "DFIntDualWriteEventCrashToV2CounterSampling": "5",
-  "DFFlagCheckAllForSleep_Rollout": "True;60;2023-10-05T21:27:24",
-  "DFFlagRCCMonitorRegisterTimersForShutdown_Rollout": "True;60;2023-10-05T21:28:00",
   "FFlagDevFrameworkStyleSheets": "True",
   "FFlagFixStorybookPlainFilter": "True",
   "FFlagLocalizationToolsFixLabel": "True",
@@ -8045,6 +8043,8 @@
   "FFlagLuaAppEnableDesktopDualLoginABTest": "True",
   "FFlagLeaveExperienceBeforeJoining": "True",
   "FFlagConvertAccessoryPreprocessing": "True",
+  "DFFlagCheckAllForSleep": "True",
+  "DFFlagRCCMonitorRegisterTimersForShutdown": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8304,8 +8304,8 @@
   "FIntLuaAppPresencePollingIntervalInSecondsV377": "120",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "c18f8b2aad87e227cc8d02eff436fa4becd6c6d8",
-  "DFStringFlagRepoGitHashDynamicString": "c18f8b2aad87e227cc8d02eff436fa4becd6c6d8",
-  "FStringFlipTimeStampFastString": "2023-10-05T22:34:19.819Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:34:19.819Z"
+  "FStringFlagRepoGitHashFastString": "f275c4b4860ec72fc08d80c9a9742d6b123c4f10",
+  "DFStringFlagRepoGitHashDynamicString": "f275c4b4860ec72fc08d80c9a9742d6b123c4f10",
+  "FStringFlipTimeStampFastString": "2023-10-05T22:37:04.172Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:37:04.172Z"
 }
