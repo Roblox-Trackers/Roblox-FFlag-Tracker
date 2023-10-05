@@ -8033,6 +8033,7 @@
   "FFlagDisableCloudsForMultiview": "True",
   "FFlagReportNegligibleMesh3dImport": "True",
   "DFFlagRIDE_9602_Rollout": "True;60;2023-10-05T21:50:13",
+  "DFIntDynamicMeshInitLoggingHundredthsPercentage_Rollout": "10000;60;2023-10-05T21:52:03",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8292,8 +8293,8 @@
   "FIntLuaAppPresencePollingIntervalInSecondsV377": "120",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "1f7e44d2c2e26741cdc76017ca7a053cc22516ab",
-  "DFStringFlagRepoGitHashDynamicString": "1f7e44d2c2e26741cdc76017ca7a053cc22516ab",
-  "FStringFlipTimeStampFastString": "2023-10-05T21:50:50.689Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:50:50.689Z"
+  "FStringFlagRepoGitHashFastString": "620e4a26ad3151b1dd617cdc5c11308e2d2cc2bb",
+  "DFStringFlagRepoGitHashDynamicString": "620e4a26ad3151b1dd617cdc5c11308e2d2cc2bb",
+  "FStringFlipTimeStampFastString": "2023-10-05T21:52:32.671Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:52:32.671Z"
 }
