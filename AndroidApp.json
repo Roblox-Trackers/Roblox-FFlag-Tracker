@@ -180,7 +180,7 @@
   "DFIntReportParameterContentHundredthsPercent": "8000",
   "DFIntReportSimulationToFBLatencyInfluxHundredthsPercentage": "100",
   "DFIntReportSoundAssetsRate": "0",
-  "DFIntSendJoinTimesToDiag_HundredthsPercentage_PlaceFilter": "4000;370731277",
+  "DFIntSendJoinTimesToDiag_HundredthsPercentage_PlaceFilter": "5000;370731277",
   "DFIntSendRakNetStatsInterval": "300",
   "DFIntServerBandwidthPlayerSampleRate": "20",
   "DFIntSmoothTerrainPhysicsRayAabbSlop": "1",
@@ -8029,6 +8029,8 @@
   "DFFlagEnableDualWriteEphemeralCounterCrashToV2Counter": "True",
   "DFFlagEnableDualWriteEventCrashToV2Counter": "True",
   "FFlagUpgradeExpChatV4_2_2": "True",
+  "FFlagHidePremiumIconWhenNotEnabled": "True",
+  "FFlagDisableCloudsForMultiview": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8394,8 +8396,8 @@
   "EnablePushNotificationSessionUtilsAndroid": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "f7a18f65b62113c56aa82ca4e6da25eabfa9267f",
-  "DFStringFlagRepoGitHashDynamicString": "f7a18f65b62113c56aa82ca4e6da25eabfa9267f",
-  "FStringFlipTimeStampFastString": "2023-10-05T21:42:50.744Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:42:50.744Z"
+  "FStringFlagRepoGitHashFastString": "ac42ae89354a6743707858d2252bce5b7c642d07",
+  "DFStringFlagRepoGitHashDynamicString": "ac42ae89354a6743707858d2252bce5b7c642d07",
+  "FStringFlipTimeStampFastString": "2023-10-05T21:45:57.990Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:45:57.990Z"
 }
