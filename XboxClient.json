@@ -8035,7 +8035,7 @@
   "FFlagNewCameraControls_SmoothCursorDelta": "True",
   "FFlagToolboxAudioDiscoveryUXImprovements2": "True",
   "DFFlagCheckHeadsForInactiveControls": "True",
-  "DFIntTouchEventSupportStreamingEnabledHundrethsPercentage": "100",
+  "DFIntTouchEventSupportStreamingEnabledHundrethsPercentage": "10",
   "FFlagUseParallelTypecheckInLSP_Rollout": "True;30;2023-10-05T22:18:36",
   "FFlagStudioDebuggerShowExceptionPopup2_Rollout": "True;60;2023-10-05T22:20:58",
   "FFlagFunctionFilterMissingDotFix_Rollout": "True;60;2023-10-05T22:23:16",
@@ -8052,6 +8052,8 @@
   "FFlagLuaAppSiteMessageBannerEnabled": "True",
   "FFlagStudioBreakUpStartPageQmlController3": "True",
   "FFlagStudioComponentizeStartPageMRUStores": "True",
+  "FFlagStudioFixStartPageControllerOwnership_Rollout": "True;60;2023-10-05T22:54:11",
+  "FFlagStudioBreakRecentGamesDependency_Rollout": "True;60;2023-10-05T22:54:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8252,8 +8254,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
-  "FStringFlagRepoGitHashFastString": "6a3b1d19f09b6fbc97c5cd44b1b2556679efe7ac",
-  "DFStringFlagRepoGitHashDynamicString": "6a3b1d19f09b6fbc97c5cd44b1b2556679efe7ac",
-  "FStringFlipTimeStampFastString": "2023-10-05T22:53:28.599Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:53:28.599Z"
+  "FStringFlagRepoGitHashFastString": "214524ce671171cad83e3567515c8fdb71eb7513",
+  "DFStringFlagRepoGitHashDynamicString": "214524ce671171cad83e3567515c8fdb71eb7513",
+  "FStringFlipTimeStampFastString": "2023-10-05T22:55:20.655Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:55:20.655Z"
 }

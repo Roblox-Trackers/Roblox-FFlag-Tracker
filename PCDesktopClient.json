@@ -8052,6 +8052,8 @@
   "FFlagLuaAppSiteMessageBannerEnabled": "True",
   "FFlagStudioBreakUpStartPageQmlController3": "True",
   "FFlagStudioComponentizeStartPageMRUStores": "True",
+  "FFlagStudioFixStartPageControllerOwnership_Rollout": "True;60;2023-10-05T22:54:11",
+  "FFlagStudioBreakRecentGamesDependency_Rollout": "True;60;2023-10-05T22:54:33",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8309,8 +8311,8 @@
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "6a3b1d19f09b6fbc97c5cd44b1b2556679efe7ac",
-  "DFStringFlagRepoGitHashDynamicString": "6a3b1d19f09b6fbc97c5cd44b1b2556679efe7ac",
-  "FStringFlipTimeStampFastString": "2023-10-05T22:53:28.599Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:53:28.599Z"
+  "FStringFlagRepoGitHashFastString": "41dbbf6b06c9e0b893ad327d3f532a2ce8b6c5f9",
+  "DFStringFlagRepoGitHashDynamicString": "41dbbf6b06c9e0b893ad327d3f532a2ce8b6c5f9",
+  "FStringFlipTimeStampFastString": "2023-10-05T22:55:11.139Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:55:11.139Z"
 }
