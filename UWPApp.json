@@ -7990,7 +7990,6 @@
   "FFlagAinStandardizeStatusStrings": "True",
   "DFFlagSimFluidAddStudioGameStateTypeToFluidSessionStatsEvent_Rollout": "True;60;2023-10-05T20:37:00",
   "DFFlagSimFluidAddEnableFluidForcesToFluidSessionStatsEvent_Rollout": "True;60;2023-10-05T20:37:20",
-  "FFlagShorthandProperties_Rollout": "True;15;2023-10-05T20:38:28",
   "FFlagFixNudgeDeniedEvents": "True",
   "FFlagUseUpdatedAgeBlockLanguage": "True",
   "FFlagStudioActionConversionGroup5": "True",
@@ -8007,6 +8006,8 @@
   "FFlagPluginManagementLinkToCmw": "True",
   "FFlagToolboxUseCmwForAssetUploadLink": "True",
   "FFlagToolboxAudioDiscoveryUXImprovements2": "True",
+  "FFlagShorthandProperties": "True",
+  "FFlagMacInstallerRetryTerminateCheck2_Rollout": "True;31;2023-10-05T20:56:46",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8198,8 +8199,8 @@
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "6cd64ab945a67481d8aaaf2743f68b8bf3901363",
-  "DFStringFlagRepoGitHashDynamicString": "6cd64ab945a67481d8aaaf2743f68b8bf3901363",
-  "FStringFlipTimeStampFastString": "2023-10-05T20:55:26.000Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T20:55:26.000Z"
+  "FStringFlagRepoGitHashFastString": "cb70d32d82a6299331043f34575c678372622efe",
+  "DFStringFlagRepoGitHashDynamicString": "cb70d32d82a6299331043f34575c678372622efe",
+  "FStringFlipTimeStampFastString": "2023-10-05T20:57:12.788Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T20:57:12.788Z"
 }
