@@ -8042,6 +8042,7 @@
   "DFIntTouchEventSupportStreamingEnabledHundrethsPercentage": "100",
   "FFlagUseParallelTypecheckInLSP_Rollout": "True;30;2023-10-05T22:18:36",
   "FFlagStudioDebuggerShowExceptionPopup2_Rollout": "True;60;2023-10-05T22:20:58",
+  "FFlagFunctionFilterMissingDotFix_Rollout": "True;60;2023-10-05T22:23:16",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8301,8 +8302,8 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f4031aab3ca4a2b4707ccd19dde40defb8f5f0ee",
-  "DFStringFlagRepoGitHashDynamicString": "f4031aab3ca4a2b4707ccd19dde40defb8f5f0ee",
-  "FStringFlipTimeStampFastString": "2023-10-05T22:21:45.909Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:21:45.909Z"
+  "FStringFlagRepoGitHashFastString": "d81e87953e086e5434e07122c39c6fabe1382451",
+  "DFStringFlagRepoGitHashDynamicString": "d81e87953e086e5434e07122c39c6fabe1382451",
+  "FStringFlipTimeStampFastString": "2023-10-05T22:23:53.043Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:23:53.043Z"
 }
