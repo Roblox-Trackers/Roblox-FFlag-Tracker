@@ -8028,6 +8028,7 @@
   "DFFlagSimFluidAddStudioGameStateTypeToFluidSessionStatsEvent": "True",
   "DFFlagEnableDualWriteEphemeralCounterCrashToV2Counter": "True",
   "DFFlagEnableDualWriteEventCrashToV2Counter": "True",
+  "FFlagUpgradeExpChatV4_2_2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8360,8 +8361,8 @@
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "b79db7ef2e12491e31e1cca41b5b7b1f4237a1d4",
-  "DFStringFlagRepoGitHashDynamicString": "b79db7ef2e12491e31e1cca41b5b7b1f4237a1d4",
-  "FStringFlipTimeStampFastString": "2023-10-05T21:41:33.461Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:41:33.461Z"
+  "FStringFlagRepoGitHashFastString": "f7a18f65b62113c56aa82ca4e6da25eabfa9267f",
+  "DFStringFlagRepoGitHashDynamicString": "f7a18f65b62113c56aa82ca4e6da25eabfa9267f",
+  "FStringFlipTimeStampFastString": "2023-10-05T21:42:50.744Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:42:50.744Z"
 }
