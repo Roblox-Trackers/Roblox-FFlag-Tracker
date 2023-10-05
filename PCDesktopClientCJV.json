@@ -8048,6 +8048,8 @@
   "FFlagScriptEditorLiveEditingTelemetry": "True",
   "FFlagToolboxNewAudioTableColumns3": "True",
   "DFIntSurfaceControllerErrorTelemetryThrottleHundredthsPercent": "10000",
+  "FFlagAppEnableSurfaceControllerErrorReport": "True",
+  "FFlagLuaAppSiteMessageBannerEnabled": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8128,7 +8130,6 @@
   "FFlagLuaAppConvertUniverseIdToStringV364": "False",
   "FFlagLuaAppEnableErrorReporterRateLimit": "True",
   "FFlagLuaAppGameSearchPlayerSuggestion376": "True",
-  "FFlagLuaAppSiteMessageBannerEnabled": "True",
   "FFlagLuaChatBoldUnreadMessageText": "True",
   "FFlagLuaChatCenterAndroidHeader": "True",
   "FFlagLuaChatFixConversationHubHeaders369": "True",
@@ -8307,8 +8308,8 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "63067d7d105cc6e85ab324c5483a6eb3a6275d3d",
-  "DFStringFlagRepoGitHashDynamicString": "63067d7d105cc6e85ab324c5483a6eb3a6275d3d",
-  "FStringFlipTimeStampFastString": "2023-10-05T22:43:38.803Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:43:38.803Z"
+  "FStringFlagRepoGitHashFastString": "f6f4b3774f0bae6daa9a8f0dcaabbb29d6b2df35",
+  "DFStringFlagRepoGitHashDynamicString": "f6f4b3774f0bae6daa9a8f0dcaabbb29d6b2df35",
+  "FStringFlipTimeStampFastString": "2023-10-05T22:48:14.259Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:48:14.259Z"
 }
