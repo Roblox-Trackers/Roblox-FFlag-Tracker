@@ -8024,7 +8024,6 @@
   "FFlagToolboxEnableAudioSearchOptions5": "True",
   "FFlagToolboxAddSortIntentFiltering": "True",
   "FFlagToolboxTrackCurrentSubcategory2": "True",
-  "FFlagResizeWebViewViewCheck_Rollout": "True;60;2023-10-05T22:10:51",
   "DFFlagFixBoneTransformChangedCrash": "True",
   "DFFlagPreserveCollisionGroupNameForUnion": "True",
   "FFlagTouchEventSupportStreamingEnabledAnalytics1": "True",
@@ -8054,6 +8053,10 @@
   "DFIntDynamicMeshInitLoggingHundredthsPercentage": "10000",
   "DFFlagAtomicPlayerStarterGuiNoReset_Rollout": "True;60;2023-10-05T22:57:13",
   "FFlagEnableVRComfortSettingsTelemetry": "True",
+  "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2023-10-05T23:14:55",
+  "FFlagStudioTasksAsyncExtractInvokeSetToFunction_Rollout": "True;60;2023-10-05T23:14:58",
+  "FFlagStudioViewCommandBarIcon_Rollout": "True;60;2023-10-05T23:15:09",
+  "FFlagResizeWebViewViewCheck": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8385,8 +8388,8 @@
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "36d6a3b20e4c15d7ca820b20cfd1ad3d62b1e794",
-  "DFStringFlagRepoGitHashDynamicString": "36d6a3b20e4c15d7ca820b20cfd1ad3d62b1e794",
-  "FStringFlipTimeStampFastString": "2023-10-05T23:15:33.566Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T23:15:33.566Z"
+  "FStringFlagRepoGitHashFastString": "8d5b14f2c01e10abeb820d71d0058f61e38d9f93",
+  "DFStringFlagRepoGitHashDynamicString": "8d5b14f2c01e10abeb820d71d0058f61e38d9f93",
+  "FStringFlipTimeStampFastString": "2023-10-05T23:17:23.604Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T23:17:23.604Z"
 }
