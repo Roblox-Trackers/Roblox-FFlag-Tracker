@@ -7985,7 +7985,6 @@
   "FFlagSimAdornRendererAfterPhysicsSettingsChange_Rollout": "True;60;2023-10-05T18:59:45",
   "FFlagPluginManagementLinkToCmw": "True",
   "FFlagToolboxUseCmwForAssetUploadLink": "True",
-  "FFlagSupportRichTextTruncate4_Rollout": "True;30;2023-10-05T19:01:16",
   "FFlagShorthandProperties_Rollout": "True;60;2023-10-05T19:14:08",
   "FFlagProfileTelemetryAccessFix_Rollout": "True;60;2023-10-05T19:22:12",
   "FFlagEnableVRRenderingResReporting": "True",
@@ -7994,6 +7993,7 @@
   "FFlagEnableMaquettesHomePageAgeBlockV2": "True",
   "FFlagStudioComponentizePluginRibbonActionHost_Rollout": "True;60;2023-10-05T19:27:54",
   "FFlagToolboxAddMusicTeamIXPLayer": "True",
+  "FFlagSupportRichTextTruncate4": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8252,8 +8252,8 @@
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "caf787ec4e120d2edd189a26667fa13f1cd6ca25",
-  "DFStringFlagRepoGitHashDynamicString": "caf787ec4e120d2edd189a26667fa13f1cd6ca25",
-  "FStringFlipTimeStampFastString": "2023-10-05T19:32:25.568Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T19:32:25.568Z"
+  "FStringFlagRepoGitHashFastString": "3f92e892c97fa6e1f07a4e7e51b060a65338e089",
+  "DFStringFlagRepoGitHashDynamicString": "3f92e892c97fa6e1f07a4e7e51b060a65338e089",
+  "FStringFlipTimeStampFastString": "2023-10-05T19:36:16.055Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T19:36:16.055Z"
 }
