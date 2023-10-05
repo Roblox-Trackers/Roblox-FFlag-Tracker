@@ -8005,7 +8005,6 @@
   "FFlagUserVRTorsoEstimation_Rollout": "True;60;2023-10-05T20:53:15",
   "FFlagPluginManagementLinkToCmw": "True",
   "FFlagToolboxUseCmwForAssetUploadLink": "True",
-  "FFlagToolboxAudioDiscoveryUXImprovements2": "True",
   "FFlagShorthandProperties": "True",
   "FFlagPlaceManagerClosePlace2": "True",
   "FFlagStudioComponentizePluginRibbonActionHost_Rollout": "True;60;2023-10-05T20:58:19",
@@ -8021,6 +8020,7 @@
   "FFlagLuaAppEnableDesktopDualLogin": "True",
   "BalanceAppShellFragmentLinkingStartStop": "True",
   "FFlagEnableMaquettesHomePageAgeBlockV2": "True",
+  "FFlagLeaveExperienceBeforeJoining_Rollout": "True;60;2023-10-05T21:19:04",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8280,8 +8280,8 @@
   "FIntLuaAppPresencePollingIntervalInSecondsV377": "120",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "a509763d31475c23dc3d2f28da582fbae7b90cfe",
-  "DFStringFlagRepoGitHashDynamicString": "a509763d31475c23dc3d2f28da582fbae7b90cfe",
-  "FStringFlipTimeStampFastString": "2023-10-05T21:18:43.785Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:18:43.785Z"
+  "FStringFlagRepoGitHashFastString": "10cf2ed925068e8c14dff5ef1a5962922d0f61a5",
+  "DFStringFlagRepoGitHashDynamicString": "10cf2ed925068e8c14dff5ef1a5962922d0f61a5",
+  "FStringFlipTimeStampFastString": "2023-10-05T21:20:06.154Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:20:06.154Z"
 }
