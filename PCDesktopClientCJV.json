@@ -8031,6 +8031,8 @@
   "FFlagProfileTelemetryAccessFix": "True",
   "DFFlagAddDynamicHeadTelemetryToSessionTracking": "True",
   "DFIntDynamicMeshInitTrackingHundredthsPercentage": "10000",
+  "FFlagEnableVRComfortSettingsTelemetry_Rollout": "True;60;2023-10-05T21:56:52",
+  "DFIntDualWriteEventCrashToV2CounterSampling_Rollout": "50;60;2023-10-05T21:59:06",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8290,8 +8292,8 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f803572d19258d7f9e341071fcb41c7489f706cd",
-  "DFStringFlagRepoGitHashDynamicString": "f803572d19258d7f9e341071fcb41c7489f706cd",
-  "FStringFlipTimeStampFastString": "2023-10-05T21:56:27.430Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:56:27.430Z"
+  "FStringFlagRepoGitHashFastString": "f3c786ace88079aef798f125e7f9a7a2aa16d2f3",
+  "DFStringFlagRepoGitHashDynamicString": "f3c786ace88079aef798f125e7f9a7a2aa16d2f3",
+  "FStringFlipTimeStampFastString": "2023-10-05T21:59:34.171Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:59:34.171Z"
 }
