@@ -7995,10 +7995,8 @@
   "FFlagToolboxUseCmwForAssetUploadLink": "True",
   "FFlagShorthandProperties": "True",
   "FFlagPlaceManagerClosePlace2": "True",
-  "FFlagStudioComponentizePluginRibbonActionHost_Rollout": "True;60;2023-10-05T20:58:19",
   "FFlagDeactivateDiscoverInVR2": "True",
   "FFlagNewCameraControls_SpeedAdjustEnum": "True",
-  "FFlagGetImageForKeyCodeReturns2x_Rollout": "True;60;2023-10-05T21:01:49",
   "FFlagEnableVRRenderingResReporting": "True",
   "FFlagTouchEventSupportStreamingEnabledAnalytics1_Rollout": "True;60;2023-10-05T21:05:28",
   "DFFlagPreserveCollisionGroupNameForUnion_Rollout": "True;60;2023-10-05T21:05:36",
@@ -8033,6 +8031,8 @@
   "FFlagEnableVRComfortSettingsTelemetry_Rollout": "True;60;2023-10-05T21:56:52",
   "DFIntDualWriteEventCrashToV2CounterSampling_Rollout": "50;60;2023-10-05T21:59:06",
   "FFlagAinStatusMove2": "True",
+  "FFlagStudioComponentizePluginRibbonActionHost": "True",
+  "FFlagGetImageForKeyCodeReturns2x": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8224,8 +8224,8 @@
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "92894de3eb680c783b2ec8a7a0fd1bc246b5235f",
-  "DFStringFlagRepoGitHashDynamicString": "92894de3eb680c783b2ec8a7a0fd1bc246b5235f",
-  "FStringFlipTimeStampFastString": "2023-10-05T22:01:46.635Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:01:46.635Z"
+  "FStringFlagRepoGitHashFastString": "32a8ba08de34d63217a26cf10bbf1156644ee858",
+  "DFStringFlagRepoGitHashDynamicString": "32a8ba08de34d63217a26cf10bbf1156644ee858",
+  "FStringFlipTimeStampFastString": "2023-10-05T22:06:30.168Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:06:30.168Z"
 }
