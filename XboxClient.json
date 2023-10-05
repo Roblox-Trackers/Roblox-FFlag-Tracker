@@ -7572,7 +7572,7 @@
   "DFIntDynamicFastVariableReloaderTest3": "34",
   "DFIntDynamicFastVariableReloaderTest3_DataCenterFilter": "35;380",
   "DFFlagControllerManagerWakeOnPropChange": "True",
-  "FFlagUserVRTorsoEstimation": "False",
+  "FFlagUserVRTorsoEstimation": "True",
   "FFlagVideoFixStudioGreyScreen2": "True",
   "FFlagVideoFixTempPlaceDownloadCheck": "True",
   "FFlagToolboxMigrateCreatorLabelAndPillToRoact17": "True",
@@ -7991,7 +7991,6 @@
   "FFlagStudioActionConversionGroup5": "True",
   "FFlagAinStatusV2ErrorChecked": "True",
   "FFlagToolboxAddMusicTeamIXPLayer": "True",
-  "FFlagUserVRTorsoEstimation_Rollout": "True;60;2023-10-05T20:53:15",
   "FFlagPluginManagementLinkToCmw": "True",
   "FFlagToolboxUseCmwForAssetUploadLink": "True",
   "FFlagShorthandProperties": "True",
@@ -8033,6 +8032,7 @@
   "DFIntDynamicMeshInitTrackingHundredthsPercentage": "10000",
   "FFlagEnableVRComfortSettingsTelemetry_Rollout": "True;60;2023-10-05T21:56:52",
   "DFIntDualWriteEventCrashToV2CounterSampling_Rollout": "50;60;2023-10-05T21:59:06",
+  "FFlagAinStatusMove2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8234,8 +8234,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
-  "FStringFlagRepoGitHashFastString": "f3c786ace88079aef798f125e7f9a7a2aa16d2f3",
-  "DFStringFlagRepoGitHashDynamicString": "f3c786ace88079aef798f125e7f9a7a2aa16d2f3",
-  "FStringFlipTimeStampFastString": "2023-10-05T21:59:34.171Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T21:59:34.171Z"
+  "FStringFlagRepoGitHashFastString": "92894de3eb680c783b2ec8a7a0fd1bc246b5235f",
+  "DFStringFlagRepoGitHashDynamicString": "92894de3eb680c783b2ec8a7a0fd1bc246b5235f",
+  "FStringFlipTimeStampFastString": "2023-10-05T22:01:46.635Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-05T22:01:46.635Z"
 }
