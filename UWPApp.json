@@ -8001,7 +8001,7 @@
   "BalanceAppShellFragmentLinkingStartStop": "True",
   "FFlagEnableMaquettesHomePageAgeBlockV2": "True",
   "FFlagAddToastTimeToActionTimestamp": "True",
-  "DFIntDualWriteEventCrashToV2CounterSampling": "50",
+  "DFIntDualWriteEventCrashToV2CounterSampling": "100",
   "FFlagDevFrameworkStyleSheets": "True",
   "FFlagFixStorybookPlainFilter": "True",
   "FFlagLocalizationToolsFixLabel": "True",
@@ -8059,7 +8059,6 @@
   "FFlagStudioBreakRecentGamesDependency": "True",
   "FFlagStudioFixStartPageControllerOwnership": "True",
   "DFFlagAtomicPlayerStarterGuiNoReset": "True",
-  "DFIntDualWriteEventCrashToV2CounterSampling_Rollout": "100;60;2023-10-06T00:15:25",
   "FFlagStudioTasksAsyncExtractInvokeSetToFunction": "True",
   "FFlagStudioViewCommandBarIcon": "True",
   "FFlagLSPRequestCancellation": "True",
@@ -8255,8 +8254,8 @@
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "bcce9ec2d90da3797fec7c9c79dfe4fa060c7766",
-  "DFStringFlagRepoGitHashDynamicString": "bcce9ec2d90da3797fec7c9c79dfe4fa060c7766",
-  "FStringFlipTimeStampFastString": "2023-10-06T00:43:23.871Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-06T00:43:23.871Z"
+  "FStringFlagRepoGitHashFastString": "15188149af2cba8faf6fac766baf488e7ea601e7",
+  "DFStringFlagRepoGitHashDynamicString": "15188149af2cba8faf6fac766baf488e7ea601e7",
+  "FStringFlipTimeStampFastString": "2023-10-06T01:21:42.406Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-06T01:21:42.406Z"
 }
