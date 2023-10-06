@@ -6955,8 +6955,8 @@
   "DFFlagUnlimitTrussLengthDM": "True",
   "DFFlagTrackingGcStats": "True",
   "DFFlagWorkspaceSkipBounds": "True",
-  "DFFlagFlagRolloutTestDynamicBool9": "True",
-  "FFlagFlagRolloutTestStaticBool9": "False",
+  "DFFlagFlagRolloutTestDynamicBool9": "False",
+  "FFlagFlagRolloutTestStaticBool9": "True",
   "DFIntErrorEstimationArbiterThreshold2dtThou": "7000",
   "DFIntErrorEstimationArbiterThreshold4dtThou": "10000",
   "DFIntSimArbiterPositionCorrectionFactorThresholdThou": "3000",
@@ -8064,8 +8064,6 @@
   "FFlagLSPRequestCancellation": "True",
   "FFlagFixUISelectionRenderingSurfaceBillboard": "True",
   "FFlagStudioPrivateChannelSupport": "True",
-  "DFFlagFlagRolloutTestDynamicBool9_Rollout": "False;60;2023-10-06T16:06:44",
-  "FFlagFlagRolloutTestStaticBool9_Rollout": "True;60;2023-10-06T16:07:12",
   "FFlagSBT1710": "True",
   "FFlagShowTagsInProperties1_Rollout": "True;10;2023-10-06T17:09:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8326,8 +8324,8 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "42cb91460133a729de22338566d77a9a190823be",
-  "DFStringFlagRepoGitHashDynamicString": "42cb91460133a729de22338566d77a9a190823be",
-  "FStringFlipTimeStampFastString": "2023-10-06T17:10:08.658Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-06T17:10:08.658Z"
+  "FStringFlagRepoGitHashFastString": "3d40533b16738ad5c0cc0ebb7f707d6f68f60c4b",
+  "DFStringFlagRepoGitHashDynamicString": "3d40533b16738ad5c0cc0ebb7f707d6f68f60c4b",
+  "FStringFlipTimeStampFastString": "2023-10-06T17:11:10.133Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-06T17:11:10.133Z"
 }
