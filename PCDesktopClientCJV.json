@@ -8023,8 +8023,8 @@
   "FFlagToolboxEnableAudioSearchOptions5": "True",
   "FFlagToolboxAddSortIntentFiltering": "True",
   "FFlagToolboxTrackCurrentSubcategory2": "True",
-  "DFFlagFixBoneTransformChangedCrash": "False",
-  "DFFlagPreserveCollisionGroupNameForUnion": "False",
+  "DFFlagFixBoneTransformChangedCrash": "True",
+  "DFFlagPreserveCollisionGroupNameForUnion": "True",
   "FFlagTouchEventSupportStreamingEnabledAnalytics1": "False",
   "FFlagNewCameraControls_SmoothCursorDelta": "True",
   "FFlagToolboxAudioDiscoveryUXImprovements2": "True",
@@ -8078,8 +8078,6 @@
   "FFlagDiscoverabilityWordingChange": "True",
   "FFlagInvisibleModeEducationalTooltipEnabled": "True",
   "FFlagSimConditionallyDisallowCreationOfConstraintsReferencingIdenticalBodiesViaTheStudioTool": "True",
-  "DFFlagFixBoneTransformChangedCrash_Rollout": "True;60;2023-10-06T18:33:52",
-  "DFFlagPreserveCollisionGroupNameForUnion_Rollout": "True;60;2023-10-06T18:33:52",
   "FFlagEnableTopbarSafeInsets": "True",
   "FFlagSimAdornRendererAfterPhysicsSettingsChange": "True",
   "FFlagDevFrameworkSelectInputIcon": "True",
@@ -8342,8 +8340,8 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "5347ffdd35acc9735cd9087e51ed3b3f6b47a481",
-  "DFStringFlagRepoGitHashDynamicString": "5347ffdd35acc9735cd9087e51ed3b3f6b47a481",
-  "FStringFlipTimeStampFastString": "2023-10-06T19:15:14.006Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-06T19:15:14.006Z"
+  "FStringFlagRepoGitHashFastString": "58759c2f23d17e93964d6d8e8d800557df4512a3",
+  "DFStringFlagRepoGitHashDynamicString": "58759c2f23d17e93964d6d8e8d800557df4512a3",
+  "FStringFlipTimeStampFastString": "2023-10-06T19:41:36.291Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-06T19:41:36.291Z"
 }
