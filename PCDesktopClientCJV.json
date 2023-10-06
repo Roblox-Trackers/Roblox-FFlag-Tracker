@@ -8066,6 +8066,7 @@
   "FFlagStudioBreakRecentGamesDependency": "True",
   "FFlagStudioFixStartPageControllerOwnership": "True",
   "DFFlagAtomicPlayerStarterGuiNoReset": "True",
+  "DFIntDualWriteEventCrashToV2CounterSampling_Rollout": "100;60;2023-10-06T00:15:25",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8324,8 +8325,8 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "0dd0d5e3f9790d527da078f5025a5310b8a04e7b",
-  "DFStringFlagRepoGitHashDynamicString": "0dd0d5e3f9790d527da078f5025a5310b8a04e7b",
-  "FStringFlipTimeStampFastString": "2023-10-06T00:06:51.376Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-06T00:06:51.376Z"
+  "FStringFlagRepoGitHashFastString": "6138337c5ca0959cc737b56972510a268ccffcd1",
+  "DFStringFlagRepoGitHashDynamicString": "6138337c5ca0959cc737b56972510a268ccffcd1",
+  "FStringFlipTimeStampFastString": "2023-10-06T00:15:58.567Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-06T00:15:58.567Z"
 }
