@@ -8074,7 +8074,6 @@
   "DFFlagMemoryAdviceStartValueFix": "True",
   "DFFlagUseAndroidMemoryAdviceLibrary4": "True",
   "FFlagMemoryAdviceIXPIntegrationEnabled": "True",
-  "FFlagEnableTopbarSafeInsets_Rollout": "True;60;2023-10-06T17:33:50",
   "FFlagVideoErrorLogExcludeSuffix": "True",
   "FFlagSimAdornRendererAfterPhysicsSettingsChange_Rollout": "True;60;2023-10-06T17:42:05",
   "FFlagDiscoverabilityWordingChange": "True",
@@ -8083,6 +8082,7 @@
   "DFFlagFixBoneTransformChangedCrash_Rollout": "True;60;2023-10-06T18:33:52",
   "DFFlagPreserveCollisionGroupNameForUnion_Rollout": "True;60;2023-10-06T18:33:52",
   "FFlagDisplayTopbarSafeInsetsInStudio_Rollout": "True;30;2023-10-06T18:35:14",
+  "FFlagEnableTopbarSafeInsets": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8341,8 +8341,8 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FIntLuaAppPresencePollingIntervalInSecondsV377": "120",
-  "FStringFlagRepoGitHashFastString": "9fc306a82ce1ea81735eeb2fde6b9a4045875ee4",
-  "DFStringFlagRepoGitHashDynamicString": "9fc306a82ce1ea81735eeb2fde6b9a4045875ee4",
-  "FStringFlipTimeStampFastString": "2023-10-06T18:35:48.087Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-06T18:35:48.087Z"
+  "FStringFlagRepoGitHashFastString": "a7ca957e9e97ea3eb54efa5d099cff21a34eb8bf",
+  "DFStringFlagRepoGitHashDynamicString": "a7ca957e9e97ea3eb54efa5d099cff21a34eb8bf",
+  "FStringFlipTimeStampFastString": "2023-10-06T18:43:56.196Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-06T18:43:56.196Z"
 }
