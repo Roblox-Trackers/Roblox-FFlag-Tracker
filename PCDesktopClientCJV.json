@@ -8069,7 +8069,6 @@
   "FFlagAudioDiscoveryLoader": "True",
   "FFlagDevFrameworkBetterInit2": "True",
   "FFlagShowTagsInProperties1": "True",
-  "FFlagVideoErrorLogExcludeSuffix_Rollout": "True;10;2023-10-06T17:26:36",
   "DFFlagIncludeExpandedAndroidAdviceStatsPerfData": "True",
   "DFFlagMemoryAdviceInitGuard": "True",
   "DFFlagMemoryAdvicePerformanceOptimization": "True",
@@ -8077,6 +8076,7 @@
   "DFFlagUseAndroidMemoryAdviceLibrary4": "True",
   "FFlagMemoryAdviceIXPIntegrationEnabled": "True",
   "FFlagEnableTopbarSafeInsets_Rollout": "True;60;2023-10-06T17:33:50",
+  "FFlagVideoErrorLogExcludeSuffix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8335,8 +8335,8 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "165ed06358aefb70625c7da11b1c4266e4b2d0ea",
-  "DFStringFlagRepoGitHashDynamicString": "165ed06358aefb70625c7da11b1c4266e4b2d0ea",
-  "FStringFlipTimeStampFastString": "2023-10-06T17:34:30.946Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-06T17:34:30.946Z"
+  "FStringFlagRepoGitHashFastString": "1b5d8f553fe21b7534a8f2ff58b78e1be90889ec",
+  "DFStringFlagRepoGitHashDynamicString": "1b5d8f553fe21b7534a8f2ff58b78e1be90889ec",
+  "FStringFlipTimeStampFastString": "2023-10-06T17:41:47.572Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-06T17:41:47.572Z"
 }
