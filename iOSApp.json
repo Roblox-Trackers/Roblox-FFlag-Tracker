@@ -8082,6 +8082,7 @@
   "FFlagSimConditionallyDisallowCreationOfConstraintsReferencingIdenticalBodiesViaTheStudioTool": "True",
   "DFFlagFixBoneTransformChangedCrash_Rollout": "True;60;2023-10-06T18:33:52",
   "DFFlagPreserveCollisionGroupNameForUnion_Rollout": "True;60;2023-10-06T18:33:52",
+  "FFlagDisplayTopbarSafeInsetsInStudio_Rollout": "True;30;2023-10-06T18:35:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8413,8 +8414,8 @@
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "9ca38754a1aec04b69c5d0a4826cff7fe14a2889",
-  "DFStringFlagRepoGitHashDynamicString": "9ca38754a1aec04b69c5d0a4826cff7fe14a2889",
-  "FStringFlipTimeStampFastString": "2023-10-06T18:34:37.885Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-06T18:34:37.885Z"
+  "FStringFlagRepoGitHashFastString": "9fc306a82ce1ea81735eeb2fde6b9a4045875ee4",
+  "DFStringFlagRepoGitHashDynamicString": "9fc306a82ce1ea81735eeb2fde6b9a4045875ee4",
+  "FStringFlipTimeStampFastString": "2023-10-06T18:35:48.087Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-06T18:35:48.087Z"
 }
