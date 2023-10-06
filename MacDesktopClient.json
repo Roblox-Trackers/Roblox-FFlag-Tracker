@@ -8042,8 +8042,6 @@
   "FFlagLuaAppSiteMessageBannerEnabled": "True",
   "FFlagStudioBreakUpStartPageQmlController3": "True",
   "FFlagStudioComponentizeStartPageMRUStores": "True",
-  "FFlagStudioFixStartPageControllerOwnership_Rollout": "True;60;2023-10-05T22:54:11",
-  "FFlagStudioBreakRecentGamesDependency_Rollout": "True;60;2023-10-05T22:54:33",
   "DFFlagRIDE_9602": "True",
   "FFlagUseParallelTypecheckInLSP": "True",
   "DFIntDynamicMeshInitLoggingHundredthsPercentage": "10000",
@@ -8067,6 +8065,8 @@
   "FFlagAdGuiRefactorViewability3": "True",
   "FFlagLSPRequestCancellation_Rollout": "True;30;2023-10-05T23:48:54",
   "FFlagVideoAssetPrivacyForPreviewFixRegression": "True",
+  "FFlagStudioBreakRecentGamesDependency": "True",
+  "FFlagStudioFixStartPageControllerOwnership": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8325,8 +8325,8 @@
   "FIntLuaAppPresencePollingIntervalInSecondsV377": "120",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "62be100cffa424660be7832bb9a759ef90e8453c",
-  "DFStringFlagRepoGitHashDynamicString": "62be100cffa424660be7832bb9a759ef90e8453c",
-  "FStringFlipTimeStampFastString": "2023-10-05T23:56:52.530Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-05T23:56:52.530Z"
+  "FStringFlagRepoGitHashFastString": "88a1f8da6b4aabde487314d449996cc5600b97c6",
+  "DFStringFlagRepoGitHashDynamicString": "88a1f8da6b4aabde487314d449996cc5600b97c6",
+  "FStringFlipTimeStampFastString": "2023-10-06T00:01:21.304Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-06T00:01:21.304Z"
 }
