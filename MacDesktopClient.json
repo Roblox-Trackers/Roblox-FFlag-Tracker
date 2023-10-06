@@ -8014,7 +8014,7 @@
   "FFlagDisableCloudsForMultiview": "True",
   "FFlagReportNegligibleMesh3dImport": "True",
   "FFlagProfileTelemetryAccessFix": "True",
-  "DFFlagAddDynamicHeadTelemetryToSessionTracking": "True",
+  "DFFlagAddDynamicHeadTelemetryToSessionTracking": "False",
   "DFIntDynamicMeshInitTrackingHundredthsPercentage": "10000",
   "FFlagAinStatusMove2": "True",
   "FFlagStudioComponentizePluginRibbonActionHost": "True",
@@ -8066,6 +8066,7 @@
   "FFlagStudioPrivateChannelSupport": "True",
   "FFlagSBT1710_Rollout": "True;60;2023-10-06T15:58:02",
   "DFFlagFlagRolloutTestDynamicBool9_Rollout": "False;60;2023-10-06T16:06:44",
+  "FFlagFlagRolloutTestStaticBool9_Rollout": "True;60;2023-10-06T16:07:12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8323,8 +8324,8 @@
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "78e5bc27be7e19a3c4398f086f53395924009b25",
-  "DFStringFlagRepoGitHashDynamicString": "78e5bc27be7e19a3c4398f086f53395924009b25",
-  "FStringFlipTimeStampFastString": "2023-10-06T16:12:05.949Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-06T16:12:05.949Z"
+  "FStringFlagRepoGitHashFastString": "da8da8f46a4fce9224b0026ebcb57570e2430b6f",
+  "DFStringFlagRepoGitHashDynamicString": "da8da8f46a4fce9224b0026ebcb57570e2430b6f",
+  "FStringFlipTimeStampFastString": "2023-10-06T16:12:24.428Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-06T16:12:24.428Z"
 }
