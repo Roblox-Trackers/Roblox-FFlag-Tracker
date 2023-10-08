@@ -8083,8 +8083,9 @@
   "FFlagDisplayTopbarSafeInsetsInStudio": "True",
   "DFFlagMd5FlagHashMethodExperiment2": "True",
   "DFFlagYieldInsideSpinLoopOnPlayStation": "False",
-  "DFFlagDisableControllerManagerAsChild2_PlaceFilter": "False;15003439025",
-  "DFFlagSimHumanoidPhysics_PlaceFilter": "False;15003439025",
+  "DFFlagDisableControllerManagerAsChild2_PlaceFilter": "False;15003439025;15010023284",
+  "DFFlagSimHumanoidPhysics_PlaceFilter": "False;15003439025;15010023284",
+  "FFlagEnableEvaluateStateMachine3_PlaceFilter": "False;15010023284",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8449,8 +8450,8 @@
   "EnablePushNotificationSessionUtilsAndroid": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "20ef84e49a650b4e67caa3c89dcd28fd8261e7ee",
-  "DFStringFlagRepoGitHashDynamicString": "20ef84e49a650b4e67caa3c89dcd28fd8261e7ee",
-  "FStringFlipTimeStampFastString": "2023-10-08T18:26:21.189Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-08T18:26:21.189Z"
+  "FStringFlagRepoGitHashFastString": "06b081d82b61a1a977b7cdd727f4fb589262bc96",
+  "DFStringFlagRepoGitHashDynamicString": "06b081d82b61a1a977b7cdd727f4fb589262bc96",
+  "FStringFlipTimeStampFastString": "2023-10-08T19:05:59.593Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-08T19:05:59.593Z"
 }
