@@ -8093,6 +8093,7 @@
   "DFFlagEnableV2POCStat_Rollout": "False;30;2023-10-09T17:09:33",
   "FFlagLuauAutocompleteDoEnd": "True",
   "FFlagCancelEventOnUnbindCAS": "True",
+  "FFlagMoveApplicationScopeExitBeforeEventLoop": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8457,8 +8458,8 @@
   "EnablePushNotificationSessionUtilsAndroid": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
-  "FStringFlagRepoGitHashFastString": "56648734935b8de23cb1e563f7ca9abb68f1ca73",
-  "DFStringFlagRepoGitHashDynamicString": "56648734935b8de23cb1e563f7ca9abb68f1ca73",
-  "FStringFlipTimeStampFastString": "2023-10-09T17:35:55.426Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-09T17:35:55.426Z"
+  "FStringFlagRepoGitHashFastString": "80d35f57af5b2674925a8ac64fbfbb76b6ac1558",
+  "DFStringFlagRepoGitHashDynamicString": "80d35f57af5b2674925a8ac64fbfbb76b6ac1558",
+  "FStringFlipTimeStampFastString": "2023-10-09T17:37:45.069Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-09T17:37:45.069Z"
 }
