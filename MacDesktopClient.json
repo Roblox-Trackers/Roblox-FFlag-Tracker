@@ -8105,8 +8105,6 @@
   "FFlagCancelEventOnUnbindCAS": "True",
   "FFlagScriptEditorBlockCtrlReturnOnMac": "True",
   "FFlagScriptEditorHandleCtrlOMac": "True",
-  "DFIntReportSSThresholdHundredthsPercentage_Rollout": "10;60;2023-10-09T21:27:48",
-  "FFlagVideoFrameFixTextureDestroyedWrongContext2_Rollout": "True;60;2023-10-09T21:30:27",
   "FFlagHumanoidDeferredSyncFunction5": "False",
   "FFlagHumanoidParallelOnStep2": "False",
   "FFlagHumanoidParallelUseManager4": "False",
@@ -8122,6 +8120,8 @@
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC": "False",
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
+  "FFlagVideoFrameFixTextureDestroyedWrongContext2": "True",
+  "DFIntReportSSThresholdHundredthsPercentage": "10",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8378,9 +8378,9 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "True",
-  "FFlagRefactorGuiRTCacheImpl2_Rollout": "True;60;2023-10-09T21:28:03",
-  "FStringFlagRepoGitHashFastString": "538cccced83b9dc1f5fee21d31f10e67fc28e9d8",
-  "DFStringFlagRepoGitHashDynamicString": "538cccced83b9dc1f5fee21d31f10e67fc28e9d8",
-  "FStringFlipTimeStampFastString": "2023-10-09T22:32:12.098Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-09T22:32:12.098Z"
+  "FFlagRefactorGuiRTCacheImpl2": "True",
+  "FStringFlagRepoGitHashFastString": "e59d71a1fbaa7e4476e528a6fc04a15c72b167f2",
+  "DFStringFlagRepoGitHashDynamicString": "e59d71a1fbaa7e4476e528a6fc04a15c72b167f2",
+  "FStringFlipTimeStampFastString": "2023-10-09T22:36:19.886Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-09T22:36:19.886Z"
 }
