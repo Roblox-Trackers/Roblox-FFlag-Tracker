@@ -8093,6 +8093,7 @@
   "FFlagCancelEventOnUnbindCAS": "True",
   "FFlagMoveApplicationScopeExitBeforeEventLoop": "True",
   "DFFlagSingularAssetRequestReportAccessoryOrPartName": "True",
+  "FFlagSynchronizeCallStateWithDatamodel_Rollout": "True;60;2023-10-09T17:48:38",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8351,8 +8352,8 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f5e427e72ba29eeb8f25cbbbc51b0ffd76a63eeb",
-  "DFStringFlagRepoGitHashDynamicString": "f5e427e72ba29eeb8f25cbbbc51b0ffd76a63eeb",
-  "FStringFlipTimeStampFastString": "2023-10-09T17:46:41.357Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-09T17:46:41.357Z"
+  "FStringFlagRepoGitHashFastString": "920daed866002b1a554a6062dae2623037069965",
+  "DFStringFlagRepoGitHashDynamicString": "920daed866002b1a554a6062dae2623037069965",
+  "FStringFlipTimeStampFastString": "2023-10-09T17:49:10.702Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-09T17:49:10.702Z"
 }
