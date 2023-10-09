@@ -8099,6 +8099,7 @@
   "DFFlagAudioWiringApiTelemetry_Rollout": "True;60;2023-10-09T19:07:23",
   "FFlagLuaAppFetchHomeDataHandleFailure": "True",
   "FFlagReportRecommendedExperienceSeeAllButtonClickEvent": "True",
+  "FFlagAlsoCheckRccForVoiceEnablemenet_Rollout": "True;60;2023-10-09T19:47:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8357,8 +8358,8 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "6b7b667678ddb6e54505725e5d69e3c64bbc9f14",
-  "DFStringFlagRepoGitHashDynamicString": "6b7b667678ddb6e54505725e5d69e3c64bbc9f14",
-  "FStringFlipTimeStampFastString": "2023-10-09T19:39:34.681Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-09T19:39:34.681Z"
+  "FStringFlagRepoGitHashFastString": "de18a8af41394355badfc4d9bb573e862c72b658",
+  "DFStringFlagRepoGitHashDynamicString": "de18a8af41394355badfc4d9bb573e862c72b658",
+  "FStringFlipTimeStampFastString": "2023-10-09T19:48:35.742Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-09T19:48:35.742Z"
 }
