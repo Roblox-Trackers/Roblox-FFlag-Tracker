@@ -8102,8 +8102,6 @@
   "FFlagStudioModernIconsViaApi": "True",
   "FFlagStudioUpdateSettingsShortcut": "True",
   "DFFlagAudioWiringApiTelemetry": "True",
-  "FFlagVoiceChatUpdateJoinTimeoutEvent_Rollout": "True;60;2023-10-09T20:54:26",
-  "FFlagVoiceChatUpdateJoinSubsCompleteEvent_Rollout": "True;60;2023-10-09T20:54:33",
   "FFlagAlsoCheckRccForVoiceEnablemenet": "True",
   "FFlagCancelEventOnUnbindCAS": "True",
   "DFFlagDoNotSendMemoryEventsWithNoPlaceID_Rollout": "True;60;2023-10-09T21:01:38",
@@ -8115,6 +8113,8 @@
   "FFlagHumanoidParallelOnStep2": "False",
   "FFlagHumanoidParallelUseManager4": "False",
   "FFlagStudioActionConversionGroup3": "True",
+  "FFlagVoiceChatUpdateJoinSubsCompleteEvent": "True",
+  "FFlagVoiceChatUpdateJoinTimeoutEvent": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8371,8 +8371,8 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "True",
-  "FStringFlagRepoGitHashFastString": "5de3dc27710282997e02d9cdd716d44eb90c340b",
-  "DFStringFlagRepoGitHashDynamicString": "5de3dc27710282997e02d9cdd716d44eb90c340b",
-  "FStringFlipTimeStampFastString": "2023-10-09T21:57:14.943Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-09T21:57:14.943Z"
+  "FStringFlagRepoGitHashFastString": "24a809b7416967b92d2b5e2e5ec3250f858e4828",
+  "DFStringFlagRepoGitHashDynamicString": "24a809b7416967b92d2b5e2e5ec3250f858e4828",
+  "FStringFlipTimeStampFastString": "2023-10-09T22:02:01.618Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-09T22:02:01.618Z"
 }
