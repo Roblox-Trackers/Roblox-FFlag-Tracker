@@ -8107,6 +8107,8 @@
   "FFlagStudioUpdateSettingsShortcut": "True",
   "DFFlagAudioWiringApiTelemetry": "True",
   "FFlagStudioActionConversionGroup3_Rollout": "True;60;2023-10-09T20:48:44",
+  "FFlagVoiceChatUpdateJoinTimeoutEvent_Rollout": "True;60;2023-10-09T20:54:26",
+  "FFlagVoiceChatUpdateJoinSubsCompleteEvent_Rollout": "True;60;2023-10-09T20:54:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8308,8 +8310,8 @@
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
-  "FStringFlagRepoGitHashFastString": "24283974465c45c8e7e61d43a47101d11bb50be7",
-  "DFStringFlagRepoGitHashDynamicString": "24283974465c45c8e7e61d43a47101d11bb50be7",
-  "FStringFlipTimeStampFastString": "2023-10-09T20:53:19.203Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-09T20:53:19.203Z"
+  "FStringFlagRepoGitHashFastString": "8ad9125bda0f86ab5c797b0649c8f59c5dd05fab",
+  "DFStringFlagRepoGitHashDynamicString": "8ad9125bda0f86ab5c797b0649c8f59c5dd05fab",
+  "FStringFlipTimeStampFastString": "2023-10-09T20:55:17.672Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-09T20:55:17.672Z"
 }
