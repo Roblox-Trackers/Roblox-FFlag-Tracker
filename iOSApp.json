@@ -8112,6 +8112,9 @@
   "FFlagScriptEditorHandleCtrlOMac": "True",
   "DFIntReportSSThresholdHundredthsPercentage_Rollout": "10;60;2023-10-09T21:27:48",
   "FFlagVideoFrameFixTextureDestroyedWrongContext2_Rollout": "True;60;2023-10-09T21:30:27",
+  "FFlagHumanoidDeferredSyncFunction5": "False",
+  "FFlagHumanoidParallelOnStep2": "False",
+  "FFlagHumanoidParallelUseManager4": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8427,9 +8430,6 @@
   "FStringShareCaptureGenerateLinkFailed": "ShareCaptureGenerateLinkFailediOS",
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
-  "FFlagHumanoidDeferredSyncFunction5_PlaceFilter": "True;2573981315;6317172524;4999654929;189707;15019223242",
-  "FFlagHumanoidParallelOnStep2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707;15019223242",
-  "FFlagHumanoidParallelUseManager4_PlaceFilter": "True;2573981315;6317172524;4999654929;189707;15019223242",
   "FFlagRealtimeProtocolEnabledRolloutV2": "True",
   "FFlagEnableiOSRealtimeProtocol": "True",
   "FIntEnableiOSRealtimeProtocolRollout": "0",
@@ -8445,8 +8445,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "True",
   "FFlagUseExperienceService": "True",
-  "FStringFlagRepoGitHashFastString": "60b5c59d2693c806e3ac40eece2384e3f1ff0eda",
-  "DFStringFlagRepoGitHashDynamicString": "60b5c59d2693c806e3ac40eece2384e3f1ff0eda",
-  "FStringFlipTimeStampFastString": "2023-10-09T21:31:48.655Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-09T21:31:48.655Z"
+  "FStringFlagRepoGitHashFastString": "526cf83bb46a2af980373ac6ef2aa89ca5ffc2f6",
+  "DFStringFlagRepoGitHashDynamicString": "526cf83bb46a2af980373ac6ef2aa89ca5ffc2f6",
+  "FStringFlipTimeStampFastString": "2023-10-09T21:41:44.676Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-09T21:41:44.676Z"
 }
