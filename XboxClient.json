@@ -8097,6 +8097,7 @@
   "FFlagVoiceAutoBatchMute_Rollout": "True;60;2023-10-09T18:59:40",
   "FFlagSynchronizeCallStateWithDatamodel_Rollout": "True;60;2023-10-09T19:06:48",
   "DFFlagAudioWiringApiTelemetry_Rollout": "True;60;2023-10-09T19:07:23",
+  "FFlagLuaAppFetchHomeDataHandleFailure": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8297,8 +8298,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
-  "FStringFlagRepoGitHashFastString": "e9cba6f2e7418ea33c7468a7db83575b9cac5a58",
-  "DFStringFlagRepoGitHashDynamicString": "e9cba6f2e7418ea33c7468a7db83575b9cac5a58",
-  "FStringFlipTimeStampFastString": "2023-10-09T19:08:22.409Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-09T19:08:22.409Z"
+  "FStringFlagRepoGitHashFastString": "7e4cc91be3b148d59efcad0926f4b1e6dbe46e11",
+  "DFStringFlagRepoGitHashDynamicString": "7e4cc91be3b148d59efcad0926f4b1e6dbe46e11",
+  "FStringFlipTimeStampFastString": "2023-10-09T19:12:09.729Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-09T19:12:09.729Z"
 }
