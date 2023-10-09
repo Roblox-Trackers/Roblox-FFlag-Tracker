@@ -6928,7 +6928,7 @@
   "FFlagDraggerFixGetGeometry": "True",
   "DFFlagOrientationNeverMinus180": "True",
   "FFlagAddPivotRibbonTool": "True",
-  "DFFlagEnableV2POCStat": "True",
+  "DFFlagEnableV2POCStat": "False",
   "FFlagAssetImportGltfApplyBindShapeScale": "True",
   "FFlagAssetImportGltfMeshJointAndSkinningSupport": "True",
   "FFlagDetectGltfScaleAndWeightAnimations": "True",
@@ -8089,7 +8089,6 @@
   "FFlagSimAdornRendererAfterPhysicsSettingsChange_PlaceFilter": "False;15010330779",
   "FFlagPlayStationConditionedRunLoop": "False",
   "FFlagBootcampCLI85930_Rollout": "True;60;2023-10-09T16:45:32",
-  "DFFlagEnableV2POCStat_Rollout": "False;30;2023-10-09T17:09:33",
   "FFlagLuauAutocompleteDoEnd": "True",
   "FFlagCancelEventOnUnbindCAS": "True",
   "FFlagMoveApplicationScopeExitBeforeEventLoop": "True",
@@ -8294,8 +8293,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagEnableCentralOverlayForUpsellPrompt": "True",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
-  "FStringFlagRepoGitHashFastString": "7e909c20259fa36b221383375c3133cb7b59a417",
-  "DFStringFlagRepoGitHashDynamicString": "7e909c20259fa36b221383375c3133cb7b59a417",
-  "FStringFlipTimeStampFastString": "2023-10-09T17:44:51.505Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-09T17:44:51.505Z"
+  "FStringFlagRepoGitHashFastString": "f5e427e72ba29eeb8f25cbbbc51b0ffd76a63eeb",
+  "DFStringFlagRepoGitHashDynamicString": "f5e427e72ba29eeb8f25cbbbc51b0ffd76a63eeb",
+  "FStringFlipTimeStampFastString": "2023-10-09T17:46:41.357Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-09T17:46:41.357Z"
 }
