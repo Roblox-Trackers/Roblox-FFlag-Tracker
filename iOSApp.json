@@ -8126,6 +8126,7 @@
   "FFlagFixLocalScriptsUnderTestService2_Rollout": "True;60;2023-10-09T23:48:44",
   "FFlagEnableFmodSoundLoaderChanges_Rollout": "True;60;2023-10-09T23:49:13",
   "DFIntDynamicMeshUnpublishLoggingHundredthsPercentage": "10000",
+  "FFlagXBUAO_RefactorPlayerNameTag": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8456,8 +8457,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "True",
   "FFlagUseExperienceService": "True",
-  "FStringFlagRepoGitHashFastString": "56e14129c1388417b0ad3488e50e3fcccfefc605",
-  "DFStringFlagRepoGitHashDynamicString": "56e14129c1388417b0ad3488e50e3fcccfefc605",
-  "FStringFlipTimeStampFastString": "2023-10-10T00:06:54.652Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-10T00:06:54.652Z"
+  "FStringFlagRepoGitHashFastString": "b431b684123c4cea8fef7e91be0e2a40e17b1b35",
+  "DFStringFlagRepoGitHashDynamicString": "b431b684123c4cea8fef7e91be0e2a40e17b1b35",
+  "FStringFlipTimeStampFastString": "2023-10-10T00:28:30.437Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-10T00:28:30.437Z"
 }
