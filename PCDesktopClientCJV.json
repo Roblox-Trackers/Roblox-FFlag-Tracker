@@ -8123,10 +8123,10 @@
   "FFlagBatchThumbnailFetcherUseExponentialFallback": "True",
   "FFlagScriptProfilerServerScriptProfilingPacketV2": "True",
   "DFIntDynamicMeshUnpublishTrackingHundredthsPercentage": "1000",
-  "FFlagFixLocalScriptsUnderTestService2_Rollout": "True;60;2023-10-09T23:48:44",
-  "FFlagEnableFmodSoundLoaderChanges_Rollout": "True;60;2023-10-09T23:49:13",
   "DFIntDynamicMeshUnpublishLoggingHundredthsPercentage": "10000",
   "FFlagXBUAO_RefactorPlayerNameTag": "False",
+  "FFlagFixLocalScriptsUnderTestService2": "True",
+  "FFlagEnableFmodSoundLoaderChanges": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8384,8 +8384,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "026d3e7bb51e4f031e9b49328eb40ed47f75fbb1",
-  "DFStringFlagRepoGitHashDynamicString": "026d3e7bb51e4f031e9b49328eb40ed47f75fbb1",
-  "FStringFlipTimeStampFastString": "2023-10-10T00:43:23.229Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-10T00:43:23.229Z"
+  "FStringFlagRepoGitHashFastString": "f4f04099446ff78e9dbb8705ab4327bc93bad823",
+  "DFStringFlagRepoGitHashDynamicString": "f4f04099446ff78e9dbb8705ab4327bc93bad823",
+  "FStringFlipTimeStampFastString": "2023-10-10T00:57:16.234Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-10T00:57:16.234Z"
 }
