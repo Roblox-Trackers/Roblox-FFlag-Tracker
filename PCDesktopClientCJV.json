@@ -8124,7 +8124,6 @@
   "FFlagEnableFmodSoundLoaderChanges": "True",
   "FFlagDevFrameworkAssetRenderModelCornerRadius": "True",
   "FFlagCreateParallelManagersBeforeStart_PlaceFilter": "True;15017701560",
-  "FFlagFastPhysicsMeshLoad_Rollout": "True;30;2023-10-11T18:56:30",
   "DFIntLiveScriptingSessionThrottleHundredthPercent_Rollout": "10000;60;2023-10-11T19:09:37",
   "DFFlagVoiceChatEnableRccV2ControlPlane_Rollout": "True;30;2023-10-11T19:10:24",
   "FFlagXboxAnalyticsTrackTTI2": "True",
@@ -8134,6 +8133,8 @@
   "FFlagXboxAttachDeviceIdToSessions": "True",
   "FFlagXboxClassicUseSessions": "True",
   "FFlagDevFrameworkTextInputBottomComponent": "True",
+  "FFlagFastPhysicsMeshLoad": "True",
+  "FFlagEnableVoiceDefaultServerScript_PlaceFilter": "True;12123120785",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8391,8 +8392,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "8be33b79093c5facf260b38eb56490699c0aedbe",
-  "DFStringFlagRepoGitHashDynamicString": "8be33b79093c5facf260b38eb56490699c0aedbe",
-  "FStringFlipTimeStampFastString": "2023-10-11T19:36:31.461Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-11T19:36:31.461Z"
+  "FStringFlagRepoGitHashFastString": "1e32e9412a5211ed31eba8365ac96d2158783b7a",
+  "DFStringFlagRepoGitHashDynamicString": "1e32e9412a5211ed31eba8365ac96d2158783b7a",
+  "FStringFlipTimeStampFastString": "2023-10-11T19:44:33.016Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-11T19:44:33.016Z"
 }
