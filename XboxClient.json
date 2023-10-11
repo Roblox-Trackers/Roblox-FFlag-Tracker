@@ -8129,8 +8129,8 @@
   "FFlagRbxAnalyticsSessions": "True",
   "FFlagXboxAttachDeviceIdToSessions": "True",
   "FFlagXboxClassicUseSessions": "True",
-  "FFlagAESRefactorReporting_Rollout": "True;60;2023-10-11T22:11:12",
   "FFlagFixLocalScriptsUnderTestService2_Rollout": "False;60;2023-10-11T22:14:29",
+  "FFlagAESRefactorReporting": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8329,8 +8329,8 @@
   "FFlagEnableCentralOverlayForUpsellPrompt": "False",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
-  "FStringFlagRepoGitHashFastString": "64d07102c69238176197f879c8729c6ecf75591c",
-  "DFStringFlagRepoGitHashDynamicString": "64d07102c69238176197f879c8729c6ecf75591c",
-  "FStringFlipTimeStampFastString": "2023-10-11T23:11:26.783Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-11T23:11:26.783Z"
+  "FStringFlagRepoGitHashFastString": "7229b85b32bc75d21adf4a2f71f4bbb061e40504",
+  "DFStringFlagRepoGitHashDynamicString": "7229b85b32bc75d21adf4a2f71f4bbb061e40504",
+  "FStringFlipTimeStampFastString": "2023-10-11T23:16:47.267Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-11T23:16:47.267Z"
 }
