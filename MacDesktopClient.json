@@ -8080,9 +8080,6 @@
   "FFlagDisplayTopbarSafeInsetsInStudio": "True",
   "DFFlagMd5FlagHashMethodExperiment2": "True",
   "DFFlagYieldInsideSpinLoopOnPlayStation": "False",
-  "DFFlagDisableControllerManagerAsChild2_PlaceFilter": "False;15003439025;15010023284;15010330779;15019072269;15017701560",
-  "DFFlagSimHumanoidPhysics_PlaceFilter": "False;15003439025;15010023284;15010330779;15019072269;15017701560",
-  "FFlagEnableEvaluateStateMachine3_PlaceFilter": "False;15010023284;15010330779;15019072269;15017701560",
   "DFFlagCheckAllForSleep_PlaceFilter": "False;15010330779",
   "DFFlagAtomicPlayerStarterGuiNoReset_PlaceFilter": "False;15010330779",
   "FFlagSimAdornRendererAfterPhysicsSettingsChange_PlaceFilter": "False;15010330779",
@@ -8127,7 +8124,6 @@
   "FFlagXBUAO_RefactorPlayerNameTag": "False",
   "FFlagFixLocalScriptsUnderTestService2": "True",
   "FFlagEnableFmodSoundLoaderChanges": "True",
-  "DFFlagFixControllerManagerHumanoidParallel_PlaceFilter": "False;15017701560",
   "FFlagDevFrameworkAssetRenderModelCornerRadius": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -8386,8 +8382,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "True",
   "FFlagRefactorGuiRTCacheImpl2": "True",
-  "FStringFlagRepoGitHashFastString": "82515f5cf9729a74d6bccfba785b9dbecf78ead5",
-  "DFStringFlagRepoGitHashDynamicString": "82515f5cf9729a74d6bccfba785b9dbecf78ead5",
-  "FStringFlipTimeStampFastString": "2023-10-11T16:09:48.553Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-11T16:09:48.553Z"
+  "FStringFlagRepoGitHashFastString": "00fe2f85f43fbd5b4031fb759ddfd2fed3677e22",
+  "DFStringFlagRepoGitHashDynamicString": "00fe2f85f43fbd5b4031fb759ddfd2fed3677e22",
+  "FStringFlipTimeStampFastString": "2023-10-11T18:13:54.097Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-11T18:13:54.097Z"
 }
