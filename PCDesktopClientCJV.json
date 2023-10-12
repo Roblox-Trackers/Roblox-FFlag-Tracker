@@ -8168,6 +8168,9 @@
   "FFlagEnableEmptyChannelForProd_Rollout": "True;31;2023-10-12T18:48:08",
   "AndroidNotchExperimentAddGameBlockList": "True",
   "DFFlagAnimationRaisePropertyChanged": "True",
+  "FFlagViewportManagerStatusBarHeightRace": "True",
+  "DFFlagMockPaymentHistoryInStudio_Rollout": "True;30;2023-10-12T18:57:28",
+  "DFIntDynamicMeshAPIUsageTrackingHundredthsPercentage_Rollout": "1000;30;2023-10-12T18:57:30",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8428,8 +8431,8 @@
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "FFlagGpuGeometryManager9": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "c3e32cfaa4f11d16c41ab90b1408ca65f93406e8",
-  "DFStringFlagRepoGitHashDynamicString": "c3e32cfaa4f11d16c41ab90b1408ca65f93406e8",
-  "FStringFlipTimeStampFastString": "2023-10-12T18:56:20.726Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T18:56:20.726Z"
+  "FStringFlagRepoGitHashFastString": "56095ffa9ef2f291265521dd9b729396c58c26cc",
+  "DFStringFlagRepoGitHashDynamicString": "56095ffa9ef2f291265521dd9b729396c58c26cc",
+  "FStringFlipTimeStampFastString": "2023-10-12T18:58:10.989Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T18:58:10.989Z"
 }
