@@ -8142,6 +8142,7 @@
   "FFlagUGCValidateHandleRestrictedUserIds": "True",
   "FFlagStudioEnsureDockManagerDestructionOrder_Rollout": "True;60;2023-10-12T16:44:23",
   "DFFlagDontLeakPacketOnDisconnect_Rollout": "False;30;2023-10-12T16:53:03",
+  "DFFlagDestroyedModuleRequireWarning_Rollout": "True;30;2023-10-12T17:09:23",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8401,8 +8402,8 @@
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "e05d1a0b2069d00008643eac48efbff1a20e3bbc",
-  "DFStringFlagRepoGitHashDynamicString": "e05d1a0b2069d00008643eac48efbff1a20e3bbc",
-  "FStringFlipTimeStampFastString": "2023-10-12T17:00:42.321Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T17:00:42.321Z"
+  "FStringFlagRepoGitHashFastString": "8ea138a27bf873cf109390420e8d333778d97bde",
+  "DFStringFlagRepoGitHashDynamicString": "8ea138a27bf873cf109390420e8d333778d97bde",
+  "FStringFlipTimeStampFastString": "2023-10-12T17:09:55.439Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T17:09:55.439Z"
 }
