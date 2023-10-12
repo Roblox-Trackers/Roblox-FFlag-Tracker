@@ -8137,6 +8137,8 @@
   "FFlagStudioComponentizePluginElementHost_Rollout": "True;60;2023-10-12T16:14:04",
   "FFlagStudioComponentizeStudioServiceHost_Rollout": "True;60;2023-10-12T16:20:37",
   "FFlagStudioStartPageUIControllerStateMachine_Rollout": "True;60;2023-10-12T16:26:51",
+  "FFlagEnableUGCToolboxFixAccessories": "True",
+  "FFlagUGCValidateFixAccessories": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8335,8 +8337,8 @@
   "FFlagEnableCentralOverlayForUpsellPrompt": "False",
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
-  "FStringFlagRepoGitHashFastString": "074b15fad5c89b558e49ca914ce40c6207c0145f",
-  "DFStringFlagRepoGitHashDynamicString": "074b15fad5c89b558e49ca914ce40c6207c0145f",
-  "FStringFlipTimeStampFastString": "2023-10-12T16:34:55.606Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T16:34:55.606Z"
+  "FStringFlagRepoGitHashFastString": "2e8a5ba04b18d0e142e99ef47bd34c1619d3659e",
+  "DFStringFlagRepoGitHashDynamicString": "2e8a5ba04b18d0e142e99ef47bd34c1619d3659e",
+  "FStringFlipTimeStampFastString": "2023-10-12T16:38:00.091Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T16:38:00.091Z"
 }
