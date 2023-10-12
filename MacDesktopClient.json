@@ -8151,6 +8151,7 @@
   "FFlagSurfaceAppStoreCountryCodeToEngine_Rollout": "True;60;2023-10-12T17:55:55",
   "FFlagFixCreateUGCBodyPartFoldersCall": "True",
   "FFlagMoveToolboxCodeToUGCValidation": "True",
+  "DFFlagDontAutoSelectSelectDragger2_Rollout": "True;60;2023-10-12T18:04:00",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8410,8 +8411,8 @@
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "e260c7c64d18665e4713697c21a6821507eaaa54",
-  "DFStringFlagRepoGitHashDynamicString": "e260c7c64d18665e4713697c21a6821507eaaa54",
-  "FStringFlipTimeStampFastString": "2023-10-12T18:02:56.886Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T18:02:56.886Z"
+  "FStringFlagRepoGitHashFastString": "b0b5d8b2887a8762144c71d86702b69bc40bd548",
+  "DFStringFlagRepoGitHashDynamicString": "b0b5d8b2887a8762144c71d86702b69bc40bd548",
+  "FStringFlipTimeStampFastString": "2023-10-12T18:04:19.680Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T18:04:19.680Z"
 }
