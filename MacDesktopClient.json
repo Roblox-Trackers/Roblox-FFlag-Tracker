@@ -8160,7 +8160,6 @@
   "FFlagViewportManagerStatusBarHeightRace": "True",
   "DFFlagEnableDeviceCountryCode": "True",
   "FFlagSurfaceAppStoreCountryCodeToEngine": "True",
-  "FFlagRibbonUpdatesBarConversionGroup_Rollout": "True;60;2023-10-12T19:04:08",
   "DFFlagDontAutoSelectSelectDragger2": "True",
   "FFlagAvatarFaceChatClampTrackedHeadRoll": "True",
   "FFlagEnableEmptyChannelForProd": "True",
@@ -8175,6 +8174,7 @@
   "FFlagPropertiesWidgetSelectionRaceFix_Rollout": "True;60;2023-10-12T20:02:54",
   "FFlagAXPPECameraManagerUseFindForHead": "True",
   "FFlagQRCodeRemoveSideLengthOverride": "True",
+  "FFlagRibbonUpdatesBarConversionGroup": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8434,8 +8434,8 @@
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "d0f50c17e18a41f8a537cf923be5156b948533a2",
-  "DFStringFlagRepoGitHashDynamicString": "d0f50c17e18a41f8a537cf923be5156b948533a2",
-  "FStringFlipTimeStampFastString": "2023-10-12T20:09:51.804Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T20:09:51.804Z"
+  "FStringFlagRepoGitHashFastString": "65ed5074aee9960f029bfb5fee27d2a38f7fee6d",
+  "DFStringFlagRepoGitHashDynamicString": "65ed5074aee9960f029bfb5fee27d2a38f7fee6d",
+  "FStringFlipTimeStampFastString": "2023-10-12T20:11:55.022Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T20:11:55.022Z"
 }
