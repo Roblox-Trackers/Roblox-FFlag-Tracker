@@ -8135,9 +8135,7 @@
   "FFlagUGCValidateFixAccessories": "True",
   "FFlagRenderFrameBufferSupportDepthMip": "True",
   "FFlagFastPhysicsMeshLoad": "True",
-  "FFlagFixScreenshotInVR_Rollout": "True;60;2023-10-12T16:42:13",
   "FFlagUGCValidateHandleRestrictedUserIds": "True",
-  "FFlagStudioEnsureDockManagerDestructionOrder_Rollout": "True;60;2023-10-12T16:44:23",
   "FFlagBatchThumbnailFetcherRefactorRetainCurrentImageAsFallback_Rollout": "True;60;2023-10-12T17:18:41",
   "DFFlagSolverNOUAddedUnderSetOptimized_Rollout": "True;60;2023-10-12T17:19:59",
   "FFlagStudioComponentizePluginElementHost": "True",
@@ -8148,6 +8146,8 @@
   "FFlagStudioHonorFloatingPluginRequestedSizeUponFirstShowing": "True",
   "DFFlagDestroyedModuleRequireWarning": "True",
   "DFFlagAnimationRaisePropertyChanged_Rollout": "True;60;2023-10-12T17:48:50",
+  "FFlagFixScreenshotInVR": "True",
+  "FFlagStudioEnsureDockManagerDestructionOrder": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8513,8 +8513,8 @@
   "FFlagUseExperienceService": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "EnableSendrChatNotificationReply": "True",
-  "FStringFlagRepoGitHashFastString": "fb833b9eb80b0c1ac49341533d094500ea13f08f",
-  "DFStringFlagRepoGitHashDynamicString": "fb833b9eb80b0c1ac49341533d094500ea13f08f",
-  "FStringFlipTimeStampFastString": "2023-10-12T17:49:25.890Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T17:49:25.890Z"
+  "FStringFlagRepoGitHashFastString": "f92569df677d2aa604f5b0f1c4e591300a4dd356",
+  "DFStringFlagRepoGitHashDynamicString": "f92569df677d2aa604f5b0f1c4e591300a4dd356",
+  "FStringFlipTimeStampFastString": "2023-10-12T17:51:31.755Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T17:51:31.755Z"
 }
