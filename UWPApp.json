@@ -8136,7 +8136,6 @@
   "FFlagRenderFrameBufferSupportDepthMip": "True",
   "FFlagFastPhysicsMeshLoad": "True",
   "FFlagUGCValidateHandleRestrictedUserIds": "True",
-  "FFlagBatchThumbnailFetcherRefactorRetainCurrentImageAsFallback_Rollout": "True;60;2023-10-12T17:18:41",
   "FFlagStudioComponentizePluginElementHost": "True",
   "DFIntNewCSGAPISessionStatsHundredthsPercentage": "10000",
   "FFlagStudioComponentizeStudioServiceHost": "True",
@@ -8161,6 +8160,7 @@
   "FFlagTutorialsDraggerSteps": "True",
   "FFlagIrisUpdateCallIdForUserRemoteEventEnabled": "False",
   "FFlagIrisUpdateCallIdForUserRemoteEventEnabled_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882",
+  "FFlagBatchThumbnailFetcherRefactorRetainCurrentImageAsFallback": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8350,8 +8350,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "c872233c88c6b9c46c73d80ccf531e77a8c6212f",
-  "DFStringFlagRepoGitHashDynamicString": "c872233c88c6b9c46c73d80ccf531e77a8c6212f",
-  "FStringFlipTimeStampFastString": "2023-10-12T18:25:32.367Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T18:25:32.367Z"
+  "FStringFlagRepoGitHashFastString": "4dccc8166532e239cad2642621fe9ceb937db05f",
+  "DFStringFlagRepoGitHashDynamicString": "4dccc8166532e239cad2642621fe9ceb937db05f",
+  "FStringFlipTimeStampFastString": "2023-10-12T18:26:27.900Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T18:26:27.900Z"
 }
