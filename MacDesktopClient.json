@@ -8138,7 +8138,6 @@
   "FFlagFixScreenshotInVR_Rollout": "True;60;2023-10-12T16:42:13",
   "FFlagUGCValidateHandleRestrictedUserIds": "True",
   "FFlagStudioEnsureDockManagerDestructionOrder_Rollout": "True;60;2023-10-12T16:44:23",
-  "DFFlagDestroyedModuleRequireWarning_Rollout": "True;30;2023-10-12T17:09:23",
   "FFlagBatchThumbnailFetcherRefactorRetainCurrentImageAsFallback_Rollout": "True;60;2023-10-12T17:18:41",
   "DFFlagSolverNOUAddedUnderSetOptimized_Rollout": "True;60;2023-10-12T17:19:59",
   "FFlagStudioComponentizePluginElementHost": "True",
@@ -8147,6 +8146,7 @@
   "FFlagStudioStartPageUIControllerStateMachine": "True",
   "FFlagDisableGameSettingsAvatarPreview": "True",
   "FFlagStudioHonorFloatingPluginRequestedSizeUponFirstShowing": "True",
+  "DFFlagDestroyedModuleRequireWarning": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8406,8 +8406,8 @@
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "2bb210cc97b5b915f36eabe5c07bdd752c49916e",
-  "DFStringFlagRepoGitHashDynamicString": "2bb210cc97b5b915f36eabe5c07bdd752c49916e",
-  "FStringFlipTimeStampFastString": "2023-10-12T17:37:19.034Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T17:37:19.034Z"
+  "FStringFlagRepoGitHashFastString": "c26734e47af42776a8636c3288fbabf80d318e19",
+  "DFStringFlagRepoGitHashDynamicString": "c26734e47af42776a8636c3288fbabf80d318e19",
+  "FStringFlipTimeStampFastString": "2023-10-12T17:46:18.407Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T17:46:18.407Z"
 }
