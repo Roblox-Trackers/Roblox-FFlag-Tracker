@@ -8187,7 +8187,6 @@
   "FFlagVRBackpackImproved": "True",
   "FFlagReadOnlyDiffExplorer": "True",
   "FFlagXboxUACustomRolloutEnabled": "True",
-  "DFFlagClearDataTableOnLeave_Rollout": "True;60;2023-10-12T21:08:06",
   "FFlagPropertiesWidgetSelectionRaceFix": "True",
   "FFlagUpgradeExpChatV4_2_3": "True",
   "FFlagWorkspaceReplenishNewCameraWithOldScreenInsetsModel": "True",
@@ -8204,6 +8203,7 @@
   "FFlagVoiceInputUseNewAudioApi4_PlaceFilter": "True;12123120785",
   "FFlagLuaAppUpdateFriendStatusesReducer": "True",
   "DFFlagDeprecateOldSubscriptionApis_Rollout": "True;60;2023-10-12T21:58:57",
+  "DFFlagClearDataTableOnLeave": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8540,8 +8540,8 @@
   "FStringEditProfileOpened": "EditProfileOpenediOS",
   "FFlagUserProfileBetterErrors": "True",
   "FFlagUserProfilesEnableRetries": "True",
-  "FStringFlagRepoGitHashFastString": "bc23bae1af65f6ca2c710f2a7bf5655ad2fd6b29",
-  "DFStringFlagRepoGitHashDynamicString": "bc23bae1af65f6ca2c710f2a7bf5655ad2fd6b29",
-  "FStringFlipTimeStampFastString": "2023-10-12T22:08:00.955Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T22:08:00.955Z"
+  "FStringFlagRepoGitHashFastString": "cc8df72ac16087097d9d54c37b6ac077f117eea8",
+  "DFStringFlagRepoGitHashDynamicString": "cc8df72ac16087097d9d54c37b6ac077f117eea8",
+  "FStringFlipTimeStampFastString": "2023-10-12T22:16:50.892Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T22:16:50.892Z"
 }
