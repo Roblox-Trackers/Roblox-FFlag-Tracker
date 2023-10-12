@@ -8191,11 +8191,10 @@
   "FFlagPropertiesWidgetSelectionRaceFix": "True",
   "FFlagUpgradeExpChatV4_2_3": "True",
   "FFlagWorkspaceReplenishNewCameraWithOldScreenInsetsModel": "True",
-  "FFlagDataModelPatchBackgroundLoadFix_Rollout": "True;1;2023-10-12T21:19:28",
   "FFlagSupportAuxiliaryGuiRender_Rollout": "True;60;2023-10-12T21:20:22",
-  "AllowVideoPreRoll": "True",
   "DFFlagPathfindingReportClickToMoveSetting2": "True",
   "DFIntDynamicMeshAPIUsageLoggingHundredthsPercentage": "10000",
+  "FFlagDataModelPatchBackgroundLoadFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8203,6 +8202,7 @@
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagUseExperienceService": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -8455,8 +8455,8 @@
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "FFlagGpuGeometryManager9": "True",
   "FStringEditProfileOpened": "EditProfileOpenedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "e4bffb5e96bf74c53a23a540db26a21579f960d1",
-  "DFStringFlagRepoGitHashDynamicString": "e4bffb5e96bf74c53a23a540db26a21579f960d1",
-  "FStringFlipTimeStampFastString": "2023-10-12T21:24:19.982Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T21:24:19.982Z"
+  "FStringFlagRepoGitHashFastString": "d9ab9eea3c22b71ce9ba92598b4bd4c691a3b7a9",
+  "DFStringFlagRepoGitHashDynamicString": "d9ab9eea3c22b71ce9ba92598b4bd4c691a3b7a9",
+  "FStringFlipTimeStampFastString": "2023-10-12T21:26:28.870Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T21:26:28.870Z"
 }
