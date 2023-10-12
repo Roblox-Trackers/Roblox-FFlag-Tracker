@@ -8204,6 +8204,7 @@
   "FFlagLuaAppUpdateFriendStatusesReducer": "True",
   "DFFlagDeprecateOldSubscriptionApis_Rollout": "True;60;2023-10-12T21:58:57",
   "DFFlagClearDataTableOnLeave": "True",
+  "DFFlagRakNetFixBwCollapse_Rollout": "False;60;2023-10-12T22:18:55",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8403,8 +8404,8 @@
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FStringXboxUARolloutGroups": "aaBB",
-  "FStringFlagRepoGitHashFastString": "cc8df72ac16087097d9d54c37b6ac077f117eea8",
-  "DFStringFlagRepoGitHashDynamicString": "cc8df72ac16087097d9d54c37b6ac077f117eea8",
-  "FStringFlipTimeStampFastString": "2023-10-12T22:16:50.892Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T22:16:50.892Z"
+  "FStringFlagRepoGitHashFastString": "98c70a7727774605f9f6e14a2c0a63f17a0d222d",
+  "DFStringFlagRepoGitHashDynamicString": "98c70a7727774605f9f6e14a2c0a63f17a0d222d",
+  "FStringFlipTimeStampFastString": "2023-10-12T22:19:31.868Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T22:19:31.868Z"
 }
