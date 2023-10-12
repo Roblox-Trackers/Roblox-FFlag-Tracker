@@ -8180,6 +8180,11 @@
   "FFlagEnableShareLinkInExperienceToastNotificationFix2": "True",
   "FFlagAddUserSearchCounters": "True",
   "FFlagToastNotificationsReceivedAndDismissedSignals": "True",
+  "FFlagEnableVoiceDefaultServerScript": "True",
+  "FFlagFixNewPlayerCheck": "True",
+  "FFlagOverwriteIsMutedLocally": "True",
+  "FFlagSetNewDeviceToFalse": "True",
+  "FFlagVoiceUseAudioRoutingAPIV3": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8440,8 +8445,8 @@
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "FFlagGpuGeometryManager9": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "3eeb96e2c0119cb5fa7971dcacf12dce3f1da50f",
-  "DFStringFlagRepoGitHashDynamicString": "3eeb96e2c0119cb5fa7971dcacf12dce3f1da50f",
-  "FStringFlipTimeStampFastString": "2023-10-12T20:34:12.200Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T20:34:12.200Z"
+  "FStringFlagRepoGitHashFastString": "d0d2e0221aae9675dc85acd9a2afccdd5f277ee6",
+  "DFStringFlagRepoGitHashDynamicString": "d0d2e0221aae9675dc85acd9a2afccdd5f277ee6",
+  "FStringFlipTimeStampFastString": "2023-10-12T20:35:51.306Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T20:35:51.306Z"
 }
