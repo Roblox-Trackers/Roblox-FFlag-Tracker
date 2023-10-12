@@ -8490,13 +8490,13 @@
   "FIntDataModelPatchEnableOTAPollingPercentage": "100",
   "DFIntDataModelPatchPollingIntervalMilliSeconds": "3600000",
   "FFlagTTIDelayExperimentEnabled": "False",
-  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "False",
+  "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagUseExperienceService": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagGpuGeometryManager9_Rollout": "True;60;2023-10-12T18:01:11",
-  "FStringFlagRepoGitHashFastString": "0eda110c0f9f869ad56531be1f3ca86556025dd1",
-  "DFStringFlagRepoGitHashDynamicString": "0eda110c0f9f869ad56531be1f3ca86556025dd1",
-  "FStringFlipTimeStampFastString": "2023-10-12T18:32:33.920Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T18:32:33.920Z"
+  "FStringFlagRepoGitHashFastString": "3be7cfd7e2111fbcc1b8e934849706fe321d0640",
+  "DFStringFlagRepoGitHashDynamicString": "3be7cfd7e2111fbcc1b8e934849706fe321d0640",
+  "FStringFlipTimeStampFastString": "2023-10-12T18:32:53.750Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T18:32:53.750Z"
 }
