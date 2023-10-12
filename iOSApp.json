@@ -8194,6 +8194,8 @@
   "FFlagUpgradeExpChatV4_2_3": "True",
   "FFlagWorkspaceReplenishNewCameraWithOldScreenInsetsModel": "True",
   "FFlagDataModelPatchBackgroundLoadFix_Rollout": "True;1;2023-10-12T21:19:28",
+  "FFlagSupportAuxiliaryGuiRender_Rollout": "True;60;2023-10-12T21:20:22",
+  "FLogDataModelPatchConfigurer_Rollout": "6;1;2023-10-12T21:21:23",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8529,8 +8531,8 @@
   "FFlagNotchSupportExperimentTrackExposure": "True",
   "FStringEditProfileOpened": "EditProfileOpenediOS",
   "FFlagUserProfileBetterErrors": "True",
-  "FStringFlagRepoGitHashFastString": "3e195d67debcd6f73e0270ffc64acf775cc05493",
-  "DFStringFlagRepoGitHashDynamicString": "3e195d67debcd6f73e0270ffc64acf775cc05493",
-  "FStringFlipTimeStampFastString": "2023-10-12T21:19:46.306Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-12T21:19:46.306Z"
+  "FStringFlagRepoGitHashFastString": "3c658e49a727c7269e82af88de85adc57152b760",
+  "DFStringFlagRepoGitHashDynamicString": "3c658e49a727c7269e82af88de85adc57152b760",
+  "FStringFlipTimeStampFastString": "2023-10-12T21:21:56.391Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-12T21:21:56.391Z"
 }
