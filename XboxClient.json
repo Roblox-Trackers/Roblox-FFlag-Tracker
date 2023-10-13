@@ -8216,6 +8216,7 @@
   "FFlagCLI70377": "True",
   "FFlagVTFeedbackShadersSetupFix_Rollout": "True;30;2023-10-13T17:19:58",
   "FFlagDoNotSetupVTShaders_Rollout": "True;30;2023-10-13T17:20:17",
+  "FFlagCOLLAB4965AddNullCheck_Rollout": "True;60;2023-10-13T17:21:52",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8415,8 +8416,8 @@
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FStringXboxUARolloutGroups": "aaBB",
-  "FStringFlagRepoGitHashFastString": "01500050d6ca64892ccb1985009a1dbf0d2987d7",
-  "DFStringFlagRepoGitHashDynamicString": "01500050d6ca64892ccb1985009a1dbf0d2987d7",
-  "FStringFlipTimeStampFastString": "2023-10-13T17:20:50.869Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-13T17:20:50.869Z"
+  "FStringFlagRepoGitHashFastString": "a05016e599fe39513656f54568e20199a8652cd3",
+  "DFStringFlagRepoGitHashDynamicString": "a05016e599fe39513656f54568e20199a8652cd3",
+  "FStringFlipTimeStampFastString": "2023-10-13T17:22:15.694Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-13T17:22:15.694Z"
 }
