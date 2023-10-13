@@ -7147,7 +7147,7 @@
   "DFFlagDSTelemetryPublishStdOutGet": "True",
   "DFFlagDefaultInitializeServerConfigurerSetting": "True",
   "FFlagRvCaptureFixFrontFacingCameraDefault": "True",
-  "FFlagReportAnythingEnableAdReport": "True",
+  "FFlagReportAnythingEnableAdReport": "False",
   "FFlagGetHumanoidDescription": "True",
   "SFFlagSimOneAttachmentAlignmentsAreNotSpanningTreeJoints2": "False",
   "FFlagCollectionServiceDuplicateTagAssertionFix": "True",
@@ -8219,6 +8219,7 @@
   "DFFlagSkipHumanoidStepIfStateMachineDisabled": "True",
   "FFlagSimVisuallyMovedNoThread_Rollout": "True;60;2023-10-13T17:39:33",
   "FFlagEnableU13SendIrisInvitePermissions": "True",
+  "FFlagAESGraphDetailsOnATCSaveFailure": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8554,8 +8555,8 @@
   "FStringEditProfileOpened": "EditProfileOpenediOS",
   "FFlagUserProfileBetterErrors": "True",
   "FFlagUserProfilesEnableRetries": "True",
-  "FStringFlagRepoGitHashFastString": "0c40066f902da2936556512eebd491b1454e39c0",
-  "DFStringFlagRepoGitHashDynamicString": "0c40066f902da2936556512eebd491b1454e39c0",
-  "FStringFlipTimeStampFastString": "2023-10-13T17:47:44.910Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-13T17:47:44.910Z"
+  "FStringFlagRepoGitHashFastString": "d438585305cf7631c2d1a0c150c221bfef710cf2",
+  "DFStringFlagRepoGitHashDynamicString": "d438585305cf7631c2d1a0c150c221bfef710cf2",
+  "FStringFlipTimeStampFastString": "2023-10-13T17:48:41.379Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-13T17:48:41.379Z"
 }
