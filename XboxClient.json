@@ -8206,8 +8206,6 @@
   "FFlagQuickAccessBarPersistResetDefaults": "True",
   "DFFlagRakNetFixBwCollapse": "False",
   "FFlagVideoReportVideoFormatAndOwner": "True",
-  "DFFlagJointFixPrim1OutOfWorld_Rollout": "True;60;2023-10-13T16:21:52",
-  "DFFlagSkipHumanoidStepIfStateMachineDisabled_Rollout": "True;60;2023-10-13T16:22:09",
   "FIntUserProfileDefaultRetryCount": "3",
   "FFlagInferredCrashSimpleTimerFlush": "True",
   "DFFlagSynchronizeSurfaceControllerStopWithRender_Rollout": "True;60;2023-10-13T17:04:37",
@@ -8218,6 +8216,8 @@
   "FFlagDoNotSetupVTShaders_Rollout": "True;30;2023-10-13T17:20:17",
   "FFlagCOLLAB4965AddNullCheck_Rollout": "True;60;2023-10-13T17:21:52",
   "FFlagTerrainGrassElongationFix1_Rollout": "True;60;2023-10-13T17:22:07",
+  "DFFlagJointFixPrim1OutOfWorld": "True",
+  "DFFlagSkipHumanoidStepIfStateMachineDisabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8417,8 +8417,8 @@
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FStringXboxUARolloutGroups": "aaBB",
-  "FStringFlagRepoGitHashFastString": "b6d98bee01e11283c8f89d1ddf7b052ab7f072e9",
-  "DFStringFlagRepoGitHashDynamicString": "b6d98bee01e11283c8f89d1ddf7b052ab7f072e9",
-  "FStringFlipTimeStampFastString": "2023-10-13T17:22:34.476Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-13T17:22:34.476Z"
+  "FStringFlagRepoGitHashFastString": "d1d497c8bad9b333e09a6dacaacc35f6276064f3",
+  "DFStringFlagRepoGitHashDynamicString": "d1d497c8bad9b333e09a6dacaacc35f6276064f3",
+  "FStringFlipTimeStampFastString": "2023-10-13T17:27:02.963Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-13T17:27:02.963Z"
 }
