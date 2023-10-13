@@ -8211,8 +8211,6 @@
   "FIntRakNetDatagramMessageIdArrayLength_Rollout": "1024;60;2023-10-13T17:08:55",
   "DFFlagFixTrueCast_Rollout": "True;60;2023-10-13T17:14:45",
   "FFlagCLI70377": "True",
-  "FFlagVTFeedbackShadersSetupFix_Rollout": "True;30;2023-10-13T17:19:58",
-  "FFlagDoNotSetupVTShaders_Rollout": "True;30;2023-10-13T17:20:17",
   "FFlagCOLLAB4965AddNullCheck_Rollout": "True;60;2023-10-13T17:21:52",
   "FFlagTerrainGrassElongationFix1_Rollout": "True;60;2023-10-13T17:22:07",
   "DFFlagJointFixPrim1OutOfWorld": "True",
@@ -8220,7 +8218,9 @@
   "FFlagSimVisuallyMovedNoThread_Rollout": "True;60;2023-10-13T17:39:33",
   "FFlagEnableU13SendIrisInvitePermissions": "True",
   "FFlagAESGraphDetailsOnATCSaveFailure": "True",
-  "FFlagRenderEnableGlobalInstancing6_Rollout": "True;5;2023-10-13T17:49:08",
+  "FFlagDoNotSetupVTShaders": "True",
+  "FFlagVTFeedbackShadersSetupFix": "True",
+  "FFlagRenderEnableGlobalInstancing6": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8556,8 +8556,8 @@
   "FStringEditProfileOpened": "EditProfileOpenediOS",
   "FFlagUserProfileBetterErrors": "True",
   "FFlagUserProfilesEnableRetries": "True",
-  "FStringFlagRepoGitHashFastString": "efdad90835279254cae2400d307063aaf52d120a",
-  "DFStringFlagRepoGitHashDynamicString": "efdad90835279254cae2400d307063aaf52d120a",
-  "FStringFlipTimeStampFastString": "2023-10-13T17:55:47.125Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-13T17:55:47.125Z"
+  "FStringFlagRepoGitHashFastString": "a7fbc5a72fdf24fd31eba5b34f7c1ed715d5bf47",
+  "DFStringFlagRepoGitHashDynamicString": "a7fbc5a72fdf24fd31eba5b34f7c1ed715d5bf47",
+  "FStringFlipTimeStampFastString": "2023-10-13T17:57:10.771Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-13T17:57:10.771Z"
 }
