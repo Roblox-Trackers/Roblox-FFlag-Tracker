@@ -8206,7 +8206,6 @@
   "FFlagVideoReportVideoFormatAndOwner": "True",
   "FIntUserProfileDefaultRetryCount": "3",
   "FFlagInferredCrashSimpleTimerFlush": "True",
-  "DFFlagSynchronizeSurfaceControllerStopWithRender_Rollout": "True;60;2023-10-13T17:04:37",
   "FIntRakNetDatagramMessageIdArrayLength_Rollout": "1024;60;2023-10-13T17:08:55",
   "DFFlagFixTrueCast_Rollout": "True;60;2023-10-13T17:14:45",
   "FFlagCLI70377": "True",
@@ -8221,6 +8220,7 @@
   "FFlagVTFeedbackShadersSetupFix": "True",
   "FFlagRenderEnableGlobalInstancing6": "True",
   "FFlagRenderEnableGlobalInstancingD3D11_Rollout": "True;60;2023-10-13T18:03:50",
+  "DFFlagSynchronizeSurfaceControllerStopWithRender": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8420,8 +8420,8 @@
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FStringXboxUARolloutGroups": "aaBB",
-  "FStringFlagRepoGitHashFastString": "81ca68c97b10b93484e2cb4fff26444264e9f08a",
-  "DFStringFlagRepoGitHashDynamicString": "81ca68c97b10b93484e2cb4fff26444264e9f08a",
-  "FStringFlipTimeStampFastString": "2023-10-13T18:08:00.276Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-13T18:08:00.276Z"
+  "FStringFlagRepoGitHashFastString": "0f8287cb8276500d197b1c517e7c1c1a64117b1b",
+  "DFStringFlagRepoGitHashDynamicString": "0f8287cb8276500d197b1c517e7c1c1a64117b1b",
+  "FStringFlipTimeStampFastString": "2023-10-13T18:11:48.710Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-13T18:11:48.710Z"
 }
