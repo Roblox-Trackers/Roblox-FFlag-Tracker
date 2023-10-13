@@ -8221,6 +8221,7 @@
   "FFlagDoNotSetupVTShaders": "True",
   "FFlagVTFeedbackShadersSetupFix": "True",
   "FFlagRenderEnableGlobalInstancing6": "True",
+  "FFlagRenderEnableGlobalInstancingD3D11_Rollout": "True;60;2023-10-13T18:03:50",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8483,8 +8484,8 @@
   "FStringEditProfileOpened": "EditProfileOpenedMacClient",
   "FFlagUserProfileBetterErrors": "True",
   "FFlagUserProfilesEnableRetries": "True",
-  "FStringFlagRepoGitHashFastString": "38cfd732bb39dfd66ece1f5db2983adcf27eabbf",
-  "DFStringFlagRepoGitHashDynamicString": "38cfd732bb39dfd66ece1f5db2983adcf27eabbf",
-  "FStringFlipTimeStampFastString": "2023-10-13T18:01:44.132Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-13T18:01:44.132Z"
+  "FStringFlagRepoGitHashFastString": "896223ad2385f5ca35fe42b3b98b6da1dcadcc20",
+  "DFStringFlagRepoGitHashDynamicString": "896223ad2385f5ca35fe42b3b98b6da1dcadcc20",
+  "FStringFlipTimeStampFastString": "2023-10-13T18:04:55.517Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-13T18:04:55.517Z"
 }
