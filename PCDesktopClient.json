@@ -8209,7 +8209,8 @@
   "FFlagVideoReportVideoFormatAndOwner": "True",
   "DFFlagJointFixPrim1OutOfWorld_Rollout": "True;60;2023-10-13T16:21:52",
   "DFFlagSkipHumanoidStepIfStateMachineDisabled_Rollout": "True;60;2023-10-13T16:22:09",
-  "FFlagInferredCrashSimpleTimerFlush_Rollout": "True;30;2023-10-13T16:22:33",
+  "FIntUserProfileDefaultRetryCount": "3",
+  "FFlagInferredCrashSimpleTimerFlush": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8470,8 +8471,8 @@
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "FStringEditProfileOpened": "EditProfileOpenedWindowsClient",
   "FFlagUserProfileBetterErrors": "True",
-  "FStringFlagRepoGitHashFastString": "ac35b3dd980266ae51b010c8abcd7c68c22bdbe5",
-  "DFStringFlagRepoGitHashDynamicString": "ac35b3dd980266ae51b010c8abcd7c68c22bdbe5",
-  "FStringFlipTimeStampFastString": "2023-10-13T16:44:42.595Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-13T16:44:42.595Z"
+  "FStringFlagRepoGitHashFastString": "049ed524c840cd2eb0fe4bd7c0ec73441a167c81",
+  "DFStringFlagRepoGitHashDynamicString": "049ed524c840cd2eb0fe4bd7c0ec73441a167c81",
+  "FStringFlipTimeStampFastString": "2023-10-13T16:56:25.938Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-13T16:56:25.938Z"
 }
