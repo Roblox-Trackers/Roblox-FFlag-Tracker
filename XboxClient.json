@@ -8247,6 +8247,8 @@
   "DFFlagOptimizeAutosaveInterval2_Rollout": "True;10;2023-10-16T21:35:07",
   "DFFlagFixUnder13_Rollout": "True;60;2023-10-16T21:37:18",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
+  "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack": "False",
+  "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack_PlaceFilter": "True;12123120785",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8451,8 +8453,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryXBoxClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient",
-  "FStringFlagRepoGitHashFastString": "23c1e19994495ac369cca6db2c61952d0a02bec0",
-  "DFStringFlagRepoGitHashDynamicString": "23c1e19994495ac369cca6db2c61952d0a02bec0",
-  "FStringFlipTimeStampFastString": "2023-10-16T21:46:07.154Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:46:07.154Z"
+  "FStringFlagRepoGitHashFastString": "bada2dc07a7841d9ef7d16f49cbb1d16a869dce3",
+  "DFStringFlagRepoGitHashDynamicString": "bada2dc07a7841d9ef7d16f49cbb1d16a869dce3",
+  "FStringFlipTimeStampFastString": "2023-10-16T21:48:31.845Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:48:31.845Z"
 }
