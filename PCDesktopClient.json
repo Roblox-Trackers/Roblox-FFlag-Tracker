@@ -5494,7 +5494,7 @@
   "FFlagFetchMeshPartAccessories3": "False",
   "FFlagAinRefactorApplySettings": "True",
   "FFlagContactListEnabled": "False",
-  "FFlagContactListEnabled_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;15090284318;15091037689",
+  "FFlagContactListEnabled_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875",
   "FFlagEnableSocialServiceIrisInvite": "False",
   "FFlagEnableSocialServiceIrisInvite_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376",
   "FFlagVideoUseThreadPool4": "True",
@@ -6099,7 +6099,7 @@
   "DFFlagAddResetForMissingServices": "True",
   "FFlagStudioDebuggerCheckStackForTemporaryBreakpoint": "True",
   "FFlagEnableSocialServiceIrisInviteV2": "False",
-  "FFlagEnableSocialServiceIrisInviteV2_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;15090284318;15091037689",
+  "FFlagEnableSocialServiceIrisInviteV2_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875",
   "DFFlagCleanUpFacsOwnedByReplicatorOnDisconnect": "True",
   "DFFlagCleanUpFacsOwnedByReplicatorOnDisconnect_PlaceFilter": "True;8473959225",
   "DFFlagCLI_80523": "True",
@@ -8528,8 +8528,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
-  "FStringFlagRepoGitHashFastString": "114334f3946c480780d338a655ebb6dde51274ab",
-  "DFStringFlagRepoGitHashDynamicString": "114334f3946c480780d338a655ebb6dde51274ab",
-  "FStringFlipTimeStampFastString": "2023-10-16T23:11:23.216Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T23:11:23.216Z"
+  "FStringFlagRepoGitHashFastString": "87a6346b1fb3e00341dcda22db8f90710e3f25f6",
+  "DFStringFlagRepoGitHashDynamicString": "87a6346b1fb3e00341dcda22db8f90710e3f25f6",
+  "FStringFlipTimeStampFastString": "2023-10-16T23:33:46.154Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T23:33:46.154Z"
 }
