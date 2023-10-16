@@ -8226,6 +8226,8 @@
   "FFlagSimCSG3KernelManagerPerDM": "True",
   "FFlagUserProfilesEnableRetries": "True",
   "FFlagRefactorGeometryGenerator3_Rollout": "True;60;2023-10-16T20:47:16",
+  "DFFlagSecondaryMetricsShouldOverwriteByDefault2_Rollout": "True;30;2023-10-16T20:48:02",
+  "FFlagUIBloxUseNewKeyLabel": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8485,8 +8487,13 @@
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "FStringEditProfileOpened": "EditProfileOpenedWindowsClient",
-  "FStringFlagRepoGitHashFastString": "147a5c8df2d6fe8244f99820e4f8fa2a239fe082",
-  "DFStringFlagRepoGitHashDynamicString": "147a5c8df2d6fe8244f99820e4f8fa2a239fe082",
-  "FStringFlipTimeStampFastString": "2023-10-16T20:47:49.398Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T20:47:49.398Z"
+  "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginWindowsClient",
+  "FStringUserProfilesRequestFail": "UserProfilesRequestFailWindowsClient",
+  "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
+  "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
+  "FStringFlagRepoGitHashFastString": "87c1f6711b2972e17c134095add8d82bf7676a9c",
+  "DFStringFlagRepoGitHashDynamicString": "87c1f6711b2972e17c134095add8d82bf7676a9c",
+  "FStringFlipTimeStampFastString": "2023-10-16T20:49:03.025Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T20:49:03.025Z"
 }
