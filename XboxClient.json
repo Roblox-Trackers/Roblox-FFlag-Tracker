@@ -8235,7 +8235,6 @@
   "FFlagFixOnGameErrorPermanentlyDeletesStorage": "True",
   "FFlagLuauCompileContinueCloseUpvals": "True",
   "FFlagLuauCompileTopCold": "True",
-  "DFFlagFixUnder13_Rollout": "True;60;2023-10-16T21:37:18",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack": "False",
   "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack_PlaceFilter": "True;12123120785",
@@ -8262,9 +8261,10 @@
   "FStringEasierUnmutingIXPLayerValueTCS": "VoiceEasierUnmutingEnabled",
   "FStringAXDefaultAvatarToShopLayer3": "AvatarMarketplace.ShoppingCart",
   "FFlagFixPlayerListOpenOnLaunch": "True",
-  "DFIntOptimizeAutosaveIntervalRolloutPercentage_Rollout": "1;10;2023-10-16T22:31:39",
   "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack_Rollout": "True;30;2023-10-16T22:31:51",
   "FFlagRoactChatRefactorChatDetailsPageEnabled": "False",
+  "DFFlagFixUnder13": "True",
+  "DFIntOptimizeAutosaveIntervalRolloutPercentage": "1",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8469,8 +8469,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryXBoxClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient",
-  "FStringFlagRepoGitHashFastString": "827f71be8ce673574c7ce85da987a877ea1cbcd1",
-  "DFStringFlagRepoGitHashDynamicString": "827f71be8ce673574c7ce85da987a877ea1cbcd1",
-  "FStringFlipTimeStampFastString": "2023-10-16T22:42:05.165Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T22:42:05.165Z"
+  "FStringFlagRepoGitHashFastString": "e31c852d4e55f4c50288001445c6c4b324c90818",
+  "DFStringFlagRepoGitHashDynamicString": "e31c852d4e55f4c50288001445c6c4b324c90818",
+  "FStringFlipTimeStampFastString": "2023-10-16T22:46:44.155Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T22:46:44.155Z"
 }
