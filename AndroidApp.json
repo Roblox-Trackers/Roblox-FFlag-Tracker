@@ -8226,6 +8226,7 @@
   "FFlagStudioFeatureActivityTrackerAllowEndNonExistentSession_Rollout": "True;60;2023-10-16T17:33:46",
   "FFlagStudioFeatureActivityTrackerFixCrashOnSleep_Rollout": "True;60;2023-10-16T17:33:46",
   "FFlagUserProfilesEnableRetries": "True",
+  "FFlagFixPreviewRigidAccessoryAttachment": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8593,8 +8594,8 @@
   "EnableSendrChatNotificationReply": "True",
   "FFlagNotchSupportExperimentTrackExposure": "True",
   "FStringEditProfileOpened": "EditProfileOpenedAndroid",
-  "FStringFlagRepoGitHashFastString": "3199d8073ea6c46623fd3228fa64368142234ae0",
-  "DFStringFlagRepoGitHashDynamicString": "3199d8073ea6c46623fd3228fa64368142234ae0",
-  "FStringFlipTimeStampFastString": "2023-10-16T17:39:45.360Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T17:39:45.360Z"
+  "FStringFlagRepoGitHashFastString": "0e0db3301dbcbdaf987127b7a74631b08fc0ffd3",
+  "DFStringFlagRepoGitHashDynamicString": "0e0db3301dbcbdaf987127b7a74631b08fc0ffd3",
+  "FStringFlipTimeStampFastString": "2023-10-16T17:41:01.764Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T17:41:01.764Z"
 }
