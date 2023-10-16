@@ -8225,6 +8225,7 @@
   "DFFlagTEMPFixHairOrderSpawningWithDescription": "True",
   "FFlagSimCSG3KernelManagerPerDM": "True",
   "FFlagUserProfilesEnableRetries": "True",
+  "FFlagRefactorGeometryGenerator3_Rollout": "True;60;2023-10-16T20:47:16",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8424,8 +8425,13 @@
   "FFlagGuardTermOfUseByIsLinkAllowed": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FStringXboxUARolloutGroups": "AABBccDDDDDDDDDDDDDD",
-  "FStringFlagRepoGitHashFastString": "b0f0472f368c364e69a1d6c544dc71ec2d6b700b",
-  "DFStringFlagRepoGitHashDynamicString": "b0f0472f368c364e69a1d6c544dc71ec2d6b700b",
-  "FStringFlipTimeStampFastString": "2023-10-16T19:37:07.390Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T19:37:07.390Z"
+  "FStringUserProfilesRequestBegin": "UserProfilesRequestBeginXBoxClient",
+  "FStringUserProfilesRequestFail": "UserProfilesRequestFailXBoxClient",
+  "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryXBoxClient",
+  "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
+  "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient",
+  "FStringFlagRepoGitHashFastString": "3ba114976fb0591f67a00f67e96743f44cc30abd",
+  "DFStringFlagRepoGitHashDynamicString": "3ba114976fb0591f67a00f67e96743f44cc30abd",
+  "FStringFlipTimeStampFastString": "2023-10-16T20:48:06.821Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T20:48:06.821Z"
 }
