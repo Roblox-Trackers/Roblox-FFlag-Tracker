@@ -8213,7 +8213,6 @@
   "FFlagTerrainGrassElongationFix1": "True",
   "FFlagEnableSubscriptionPromptScrollingFix": "True",
   "FIntDiscoverabilityWordingChangeRollout": "90",
-  "FFlagAutomaticallyUnregisterDsps_Rollout": "True;60;2023-10-16T16:59:32",
   "FFlagUserProfileBetterErrors": "True",
   "FFlagAvatarPreviewerFixPreviewerStylizerLoop": "True",
   "DFFlagRolloutPhaseTelemetry_Rollout": "True;60;2023-10-16T17:16:55",
@@ -8236,6 +8235,8 @@
   "FFlagLuauOsTimegm_Rollout": "True;60;2023-10-16T17:55:41",
   "FFlagRenderEnableGlobalInstancingD3D11_Rollout": "True;60;2023-10-16T17:56:09",
   "FFlagRefactorGeometryGenerator3_Rollout": "True;60;2023-10-16T18:03:00",
+  "FFlagAutomaticallyUnregisterDsps": "True",
+  "FFlagUIBloxUseNewKeyLabel": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8496,8 +8497,8 @@
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "FStringEditProfileOpened": "EditProfileOpenedWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "656422a13b040660e220981b15e1b4ef0bf69dd9",
-  "DFStringFlagRepoGitHashDynamicString": "656422a13b040660e220981b15e1b4ef0bf69dd9",
-  "FStringFlipTimeStampFastString": "2023-10-16T18:03:27.192Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T18:03:27.192Z"
+  "FStringFlagRepoGitHashFastString": "78bcc0b9fd425a20f7ee2401cd76a1be7f3f3ff5",
+  "DFStringFlagRepoGitHashDynamicString": "78bcc0b9fd425a20f7ee2401cd76a1be7f3f3ff5",
+  "FStringFlipTimeStampFastString": "2023-10-16T18:06:34.283Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T18:06:34.283Z"
 }
