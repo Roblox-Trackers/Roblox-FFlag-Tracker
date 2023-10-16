@@ -8211,8 +8211,6 @@
   "DFFlagFixTrueCast": "True",
   "FFlagCOLLAB4965AddNullCheck": "True",
   "FFlagTerrainGrassElongationFix1": "True",
-  "FFlagSimCSG3KernelManagerPerDM_Rollout": "True;60;2023-10-16T16:39:34",
-  "DFFlagTEMPFixHairOrderSpawningWithDescription_Rollout": "True;60;2023-10-16T16:40:10",
   "FFlagEnableSubscriptionPromptScrollingFix": "True",
   "FIntDiscoverabilityWordingChangeRollout": "90",
   "FFlagAutomaticallyUnregisterDsps_Rollout": "True;60;2023-10-16T16:59:32",
@@ -8232,6 +8230,8 @@
   "FFlagLuaAppRecommendedTilesUpdate": "True",
   "FFlagRecommendedExperienceTilesUpdateAnalytics": "True",
   "FFlagEventDescriptionExperienceTile": "True",
+  "DFFlagTEMPFixHairOrderSpawningWithDescription": "True",
+  "FFlagSimCSG3KernelManagerPerDM": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8492,8 +8492,8 @@
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "FStringEditProfileOpened": "EditProfileOpenedMacClient",
-  "FStringFlagRepoGitHashFastString": "6273c9119429d8bc0b3932018b15a461106272d1",
-  "DFStringFlagRepoGitHashDynamicString": "6273c9119429d8bc0b3932018b15a461106272d1",
-  "FStringFlipTimeStampFastString": "2023-10-16T17:46:05.183Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T17:46:05.183Z"
+  "FStringFlagRepoGitHashFastString": "8938147357f193b78bd2a9a91856e44181d0f2e9",
+  "DFStringFlagRepoGitHashDynamicString": "8938147357f193b78bd2a9a91856e44181d0f2e9",
+  "FStringFlipTimeStampFastString": "2023-10-16T17:47:31.617Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T17:47:31.617Z"
 }
