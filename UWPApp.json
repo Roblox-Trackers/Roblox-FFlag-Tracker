@@ -8225,6 +8225,7 @@
   "FFlagStudioFeatureActivityTracker_Rollout": "True;60;2023-10-16T17:33:46",
   "FFlagStudioFeatureActivityTrackerAllowEndNonExistentSession_Rollout": "True;60;2023-10-16T17:33:46",
   "FFlagStudioFeatureActivityTrackerFixCrashOnSleep_Rollout": "True;60;2023-10-16T17:33:46",
+  "FFlagUserProfilesEnableRetries": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8414,8 +8415,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "89afbc588a50be55499b461c120c7738929a75ef",
-  "DFStringFlagRepoGitHashDynamicString": "89afbc588a50be55499b461c120c7738929a75ef",
-  "FStringFlipTimeStampFastString": "2023-10-16T17:37:27.399Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T17:37:27.399Z"
+  "FStringFlagRepoGitHashFastString": "3199d8073ea6c46623fd3228fa64368142234ae0",
+  "DFStringFlagRepoGitHashDynamicString": "3199d8073ea6c46623fd3228fa64368142234ae0",
+  "FStringFlipTimeStampFastString": "2023-10-16T17:39:45.360Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T17:39:45.360Z"
 }
