@@ -8264,6 +8264,7 @@
   "FFlagFixPlayerListOpenOnLaunch": "True",
   "DFIntOptimizeAutosaveIntervalRolloutPercentage_Rollout": "1;10;2023-10-16T22:31:39",
   "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack_Rollout": "True;30;2023-10-16T22:31:51",
+  "FFlagRoactChatRefactorChatDetailsPageEnabled": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8529,8 +8530,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "bf74b9920e292732cbb2ceb8a7dbe3748244d9dd",
-  "DFStringFlagRepoGitHashDynamicString": "bf74b9920e292732cbb2ceb8a7dbe3748244d9dd",
-  "FStringFlipTimeStampFastString": "2023-10-16T22:32:31.133Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T22:32:31.133Z"
+  "FStringFlagRepoGitHashFastString": "827f71be8ce673574c7ce85da987a877ea1cbcd1",
+  "DFStringFlagRepoGitHashDynamicString": "827f71be8ce673574c7ce85da987a877ea1cbcd1",
+  "FStringFlipTimeStampFastString": "2023-10-16T22:42:05.165Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T22:42:05.165Z"
 }
