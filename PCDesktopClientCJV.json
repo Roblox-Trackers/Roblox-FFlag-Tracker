@@ -8234,6 +8234,7 @@
   "FFlagFixOnGameErrorPermanentlyDeletesStorage_Rollout": "True;30;2023-10-16T20:54:33",
   "FFlagLuauCompileFenvNoBuiltinFold": "True",
   "FFlagLuauImproveForN2": "True",
+  "DFIntPerformanceControlSoundReloadLatencyMinValue_Rollout": "-1000;60;2023-10-16T21:08:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8499,8 +8500,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "aa6a71e0c73805bce8c6386477113bdb45f93e43",
-  "DFStringFlagRepoGitHashDynamicString": "aa6a71e0c73805bce8c6386477113bdb45f93e43",
-  "FStringFlipTimeStampFastString": "2023-10-16T21:05:40.636Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:05:40.636Z"
+  "FStringFlagRepoGitHashFastString": "17a48bd1d180d52d3cbe2eccd8c4d992c50bf7d6",
+  "DFStringFlagRepoGitHashDynamicString": "17a48bd1d180d52d3cbe2eccd8c4d992c50bf7d6",
+  "FStringFlipTimeStampFastString": "2023-10-16T21:09:14.910Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:09:14.910Z"
 }
