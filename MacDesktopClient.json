@@ -7521,7 +7521,7 @@
   "FFlagTrackSessionTags": "True",
   "FFlagUseDesignSystemGamepadIcons3": "True",
   "DFFlagVoiceChatGrpcSubscribeToRoomEvent": "False",
-  "DFFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696",
+  "DFFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;12123120785",
   "FFlagPlaceManagerOpenPlace2": "True",
   "FFlagEnableEnableToastSession": "True",
   "FFlagGameSettingsFixPermissionsSelection": "True",
@@ -8098,7 +8098,7 @@
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client": "True",
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC": "False",
-  "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC_PlaceFilter": "True;9134756438;7137646352;8158601082;7376832747;9672950003;13523443036;301549746",
+  "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC_PlaceFilter": "True;9134756438;7137646352;8158601082;7376832747;9672950003;13523443036;301549746;12123120785",
   "FFlagVideoFrameFixTextureDestroyedWrongContext2": "True",
   "DFIntReportSSThresholdHundredthsPercentage": "50",
   "FFlagBatchThumbnailFetcherUseExponentialFallback": "True",
@@ -8233,6 +8233,7 @@
   "FFlagAutomaticallyUnregisterDsps_Rollout": "True;60;2023-10-16T20:53:10",
   "FFlagFixOnGameErrorPermanentlyDeletesStorage_Rollout": "True;30;2023-10-16T20:54:33",
   "FFlagLuauCompileFenvNoBuiltinFold": "True",
+  "FFlagLuauImproveForN2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8498,8 +8499,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
-  "FStringFlagRepoGitHashFastString": "fc777625680e6ff3d0152780133d438b1c7f50ab",
-  "DFStringFlagRepoGitHashDynamicString": "fc777625680e6ff3d0152780133d438b1c7f50ab",
-  "FStringFlipTimeStampFastString": "2023-10-16T21:01:18.887Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:01:18.887Z"
+  "FStringFlagRepoGitHashFastString": "ace68492f934f13f341ddf881016610ea1a0c966",
+  "DFStringFlagRepoGitHashDynamicString": "ace68492f934f13f341ddf881016610ea1a0c966",
+  "FStringFlipTimeStampFastString": "2023-10-16T21:02:45.370Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:02:45.370Z"
 }

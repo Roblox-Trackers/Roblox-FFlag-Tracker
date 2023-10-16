@@ -7521,7 +7521,7 @@
   "FFlagTrackSessionTags": "True",
   "FFlagUseDesignSystemGamepadIcons3": "True",
   "DFFlagVoiceChatGrpcSubscribeToRoomEvent": "False",
-  "DFFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696",
+  "DFFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;12123120785",
   "FFlagPlaceManagerOpenPlace2": "True",
   "FFlagEnableEnableToastSession": "True",
   "FFlagGameSettingsFixPermissionsSelection": "True",
@@ -8098,7 +8098,7 @@
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client": "True",
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC": "False",
-  "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC_PlaceFilter": "True;9134756438;7137646352;8158601082;7376832747;9672950003;13523443036;301549746",
+  "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC_PlaceFilter": "True;9134756438;7137646352;8158601082;7376832747;9672950003;13523443036;301549746;12123120785",
   "FFlagVideoFrameFixTextureDestroyedWrongContext2": "True",
   "DFIntReportSSThresholdHundredthsPercentage": "50",
   "FFlagBatchThumbnailFetcherUseExponentialFallback": "True",
@@ -8606,8 +8606,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryAndroid",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessAndroid",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryAndroid",
-  "FStringFlagRepoGitHashFastString": "57b27cdd1ef46b3b670e55c866046931e3e9759c",
-  "DFStringFlagRepoGitHashDynamicString": "57b27cdd1ef46b3b670e55c866046931e3e9759c",
-  "FStringFlipTimeStampFastString": "2023-10-16T21:01:30.583Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:01:30.583Z"
+  "FStringFlagRepoGitHashFastString": "ace68492f934f13f341ddf881016610ea1a0c966",
+  "DFStringFlagRepoGitHashDynamicString": "ace68492f934f13f341ddf881016610ea1a0c966",
+  "FStringFlipTimeStampFastString": "2023-10-16T21:02:45.370Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:02:45.370Z"
 }
