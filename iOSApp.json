@@ -8139,8 +8139,6 @@
   "FFlagDevFrameworkPaginationDots": "True",
   "FFlagDevFrameworkIconButtonStyles": "True",
   "FFlagTutorialsDraggerSteps": "True",
-  "FFlagIrisUpdateCallIdForUserRemoteEventEnabled": "False",
-  "FFlagIrisUpdateCallIdForUserRemoteEventEnabled_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;15090284318;15091037689",
   "FFlagBatchThumbnailFetcherRefactorRetainCurrentImageAsFallback": "True",
   "FFlagEnableToastNotificationOrientationFix": "True",
   "FFlagTerrainEditorAdditionalAnalytics": "True",
@@ -8267,6 +8265,7 @@
   "FIntDecreaseAppLaunchFlowHiveThrottlingRate": "10000",
   "DFFlagHttpUnifyCacheCleanup": "True",
   "DFFlagHttpCacheCleanScheduleUseFastInt": "True",
+  "FFlagFixBigModelUploadCrash": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8606,8 +8605,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryiOS",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
-  "FStringFlagRepoGitHashFastString": "ddcddfc3ee7484b486a0288d681e9238ea44743a",
-  "DFStringFlagRepoGitHashDynamicString": "ddcddfc3ee7484b486a0288d681e9238ea44743a",
-  "FStringFlipTimeStampFastString": "2023-10-16T23:06:50.805Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T23:06:50.805Z"
+  "FStringFlagRepoGitHashFastString": "9edfb638cffb2454264e04e2370413523f7df555",
+  "DFStringFlagRepoGitHashDynamicString": "9edfb638cffb2454264e04e2370413523f7df555",
+  "FStringFlipTimeStampFastString": "2023-10-16T23:09:28.436Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T23:09:28.436Z"
 }
