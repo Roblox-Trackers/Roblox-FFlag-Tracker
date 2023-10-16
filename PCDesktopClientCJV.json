@@ -8244,11 +8244,11 @@
   "FFlagFixOnGameErrorPermanentlyDeletesStorage": "True",
   "FFlagLuauCompileContinueCloseUpvals": "True",
   "FFlagLuauCompileTopCold": "True",
-  "DFFlagOptimizeAutosaveInterval2_Rollout": "True;10;2023-10-16T21:35:07",
   "DFFlagFixUnder13_Rollout": "True;60;2023-10-16T21:37:18",
   "FFlagAXDefaultAvatarToShopEnabled3": "True",
   "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack": "False",
   "DFFlagVoiceChatTurnOnMuteUnmuteNotificationHack_PlaceFilter": "True;12123120785",
+  "DFFlagOptimizeAutosaveInterval2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8514,8 +8514,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "bada2dc07a7841d9ef7d16f49cbb1d16a869dce3",
-  "DFStringFlagRepoGitHashDynamicString": "bada2dc07a7841d9ef7d16f49cbb1d16a869dce3",
-  "FStringFlipTimeStampFastString": "2023-10-16T21:48:31.845Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:48:31.845Z"
+  "FStringFlagRepoGitHashFastString": "afd2a81cdc7a747efda6240bd02919a0ea90f543",
+  "DFStringFlagRepoGitHashDynamicString": "afd2a81cdc7a747efda6240bd02919a0ea90f543",
+  "FStringFlipTimeStampFastString": "2023-10-16T21:51:20.360Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:51:20.360Z"
 }
