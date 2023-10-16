@@ -8220,7 +8220,6 @@
   "FFlagStudioFeatureActivityTracker_Rollout": "True;60;2023-10-16T17:33:46",
   "FFlagStudioFeatureActivityTrackerAllowEndNonExistentSession_Rollout": "True;60;2023-10-16T17:33:46",
   "FFlagStudioFeatureActivityTrackerFixCrashOnSleep_Rollout": "True;60;2023-10-16T17:33:46",
-  "FFlagUserProfilesEnableRetries": "True",
   "FFlagFixPreviewRigidAccessoryAttachment": "True",
   "FFlagFixAFTDropdownOptions": "True",
   "FFlagAFTFixViewportFrameIssues": "True",
@@ -8604,8 +8603,9 @@
   "EnableSendrChatNotificationReply": "True",
   "FFlagNotchSupportExperimentTrackExposure": "True",
   "FStringEditProfileOpened": "EditProfileOpenedAndroid",
-  "FStringFlagRepoGitHashFastString": "99eec664b3c03b65c46358616fb6db1e722405f2",
-  "DFStringFlagRepoGitHashDynamicString": "99eec664b3c03b65c46358616fb6db1e722405f2",
-  "FStringFlipTimeStampFastString": "2023-10-16T18:21:29.029Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T18:21:29.029Z"
+  "FFlagUserProfilesEnableRetries": "True",
+  "FStringFlagRepoGitHashFastString": "13df8ee079db8a2321bed4288074ef56e463fd22",
+  "DFStringFlagRepoGitHashDynamicString": "13df8ee079db8a2321bed4288074ef56e463fd22",
+  "FStringFlipTimeStampFastString": "2023-10-16T18:24:03.056Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T18:24:03.056Z"
 }
