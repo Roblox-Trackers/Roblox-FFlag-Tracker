@@ -8226,7 +8226,6 @@
   "FFlagSimCSG3KernelManagerPerDM": "True",
   "FFlagUserProfilesEnableRetries": "True",
   "FFlagRefactorGeometryGenerator3_Rollout": "True;60;2023-10-16T20:47:16",
-  "DFFlagSecondaryMetricsShouldOverwriteByDefault2_Rollout": "True;30;2023-10-16T20:48:02",
   "FFlagUIBloxUseNewKeyLabel": "True",
   "DFFlagReconstructBVHRefactor_Rollout": "True;60;2023-10-16T20:50:17",
   "FFlagEventDescriptionExperienceTile": "True",
@@ -8240,6 +8239,7 @@
   "DFIntPerformanceControlSoundReloadThrashingMaxValue_Rollout": "0;60;2023-10-16T21:12:05",
   "DFIntPerformanceControlSoundReloadLatencyMaxValue_Rollout": "0;60;2023-10-16T21:14:53",
   "DFFlagFixSoundTunableMemoryCurveIssueWithNonMonotonicity_Rollout": "True;30;2023-10-16T21:19:10",
+  "DFFlagSecondaryMetricsShouldOverwriteByDefault2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8505,8 +8505,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
-  "FStringFlagRepoGitHashFastString": "f9a3d94772169dbb1f0240580ff7503885b7cfb9",
-  "DFStringFlagRepoGitHashDynamicString": "f9a3d94772169dbb1f0240580ff7503885b7cfb9",
-  "FStringFlipTimeStampFastString": "2023-10-16T21:20:39.623Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:20:39.623Z"
+  "FStringFlagRepoGitHashFastString": "64b3e9a56b03a0a833b8f5afb026df4ba2ef6a68",
+  "DFStringFlagRepoGitHashDynamicString": "64b3e9a56b03a0a833b8f5afb026df4ba2ef6a68",
+  "FStringFlipTimeStampFastString": "2023-10-16T21:21:48.043Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T21:21:48.043Z"
 }
