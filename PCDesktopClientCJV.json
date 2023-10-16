@@ -7878,7 +7878,7 @@
   "FFlagEnableChromeBackwardsSignalAPI": "True",
   "FFlagUGCValidateUVValuesInReference": "True",
   "FFlagLuauMergeTagLoads": "True",
-  "DFIntVoiceChatNumberOfHeartBeatIntervalUntilTimeout": "2",
+  "DFIntVoiceChatNumberOfHeartBeatIntervalUntilTimeout": "3",
   "DFFlagCorrectContactsFromEPA": "True",
   "DFFlagDoNotRecomputeClosestPoint": "True",
   "DFIntVoiceChatGrpClientHeartBeatIntervalMs": "5000",
@@ -7886,7 +7886,7 @@
   "FFlagBootcampCLI85206": "True",
   "FFlagCOLLAB4103FixAutoReconnectRetryCountReporting": "True",
   "FFlagCOLLAB4434FixSlicingInExceptionHandler": "True",
-  "DFIntVoiceChatInitialGrpcWithoutHbTimeoutMs": "20000",
+  "DFIntVoiceChatInitialGrpcWithoutHbTimeoutMs": "10000",
   "FFlagScreenshotsPreventPrivateServerInvites": "True",
   "FFlagCLI37642": "True",
   "FFlagFixKeepOutAreasCompatibility": "True",
@@ -8231,6 +8231,7 @@
   "DFFlagReconstructBVHRefactor_Rollout": "True;60;2023-10-16T20:50:17",
   "FFlagEventDescriptionExperienceTile": "True",
   "FFlagAutomaticallyUnregisterDsps_Rollout": "True;60;2023-10-16T20:53:10",
+  "FFlagFixOnGameErrorPermanentlyDeletesStorage_Rollout": "True;30;2023-10-16T20:54:33",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8496,8 +8497,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d7e7dbf4ab7a86d402f702f8de5d13388ebddcec",
-  "DFStringFlagRepoGitHashDynamicString": "d7e7dbf4ab7a86d402f702f8de5d13388ebddcec",
-  "FStringFlipTimeStampFastString": "2023-10-16T20:53:40.039Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-16T20:53:40.039Z"
+  "FStringFlagRepoGitHashFastString": "3930eb791b82a8ecce080ae83d1ad96b4e7b3887",
+  "DFStringFlagRepoGitHashDynamicString": "3930eb791b82a8ecce080ae83d1ad96b4e7b3887",
+  "FStringFlipTimeStampFastString": "2023-10-16T20:55:22.342Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-16T20:55:22.342Z"
 }
