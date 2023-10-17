@@ -5101,9 +5101,9 @@
   "FFlagAssetImportUseTextureBackupChecks": "True",
   "DFFlagEnableAdUnitNameWhitelist": "True",
   "FFlagAinBuildSkinSubsetsAfterSimplify": "True",
-  "DFIntPerformanceControlSoundReloadLatencyMaxValue": "0",
+  "DFIntPerformanceControlSoundReloadLatencyMaxValue": "200",
   "DFIntPerformanceControlSoundReloadLatencyTargetUtility": "-10000",
-  "DFIntPerformanceControlSoundReloadThrashingMaxValue": "0",
+  "DFIntPerformanceControlSoundReloadThrashingMaxValue": "200",
   "DFIntPerformanceControlSoundReloadThrashingTargetUtility": "-10000",
   "FFlagAddDirectionToModifier": "True",
   "FFlagAinDropSkinningToRoot": "True",
@@ -8529,8 +8529,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
-  "FStringFlagRepoGitHashFastString": "eedc64ba2ae2144a5697fad7e38d872a087008c0",
-  "DFStringFlagRepoGitHashDynamicString": "eedc64ba2ae2144a5697fad7e38d872a087008c0",
-  "FStringFlipTimeStampFastString": "2023-10-17T00:59:43.620Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-17T00:59:43.620Z"
+  "FStringFlagRepoGitHashFastString": "ec7fc49ef38402216893dbc4eb171b62a5386a23",
+  "DFStringFlagRepoGitHashDynamicString": "ec7fc49ef38402216893dbc4eb171b62a5386a23",
+  "FStringFlipTimeStampFastString": "2023-10-17T01:42:05.500Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-17T01:42:05.500Z"
 }
