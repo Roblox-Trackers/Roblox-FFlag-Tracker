@@ -8266,6 +8266,8 @@
   "FFlagFixBigModelUploadCrash": "True",
   "FFlagUserProfilesLogErrorCodes": "True",
   "FFlagStopRenderPixelBorderWhenUICornerPresent_Rollout": "True;60;2023-10-17T23:47:42",
+  "FFlagEnableIOSAudioFixV2": "True",
+  "DFIntScreenGuiSafeAreaPropertiesAnalyticsEventIngest_ReportHundredthsPercent": "1",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8470,8 +8472,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryXBoxClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient",
-  "FStringFlagRepoGitHashFastString": "11fcae37416b1ac34dd93fe85e8e930aa023dd0e",
-  "DFStringFlagRepoGitHashDynamicString": "11fcae37416b1ac34dd93fe85e8e930aa023dd0e",
-  "FStringFlipTimeStampFastString": "2023-10-17T23:51:00.712Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-17T23:51:00.712Z"
+  "FStringFlagRepoGitHashFastString": "332c31d83e839155530e443c18c62c900117fc3f",
+  "DFStringFlagRepoGitHashDynamicString": "332c31d83e839155530e443c18c62c900117fc3f",
+  "FStringFlipTimeStampFastString": "2023-10-17T23:54:55.634Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-17T23:54:55.634Z"
 }
