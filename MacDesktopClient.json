@@ -5102,9 +5102,9 @@
   "DFFlagEnableAdUnitNameWhitelist": "True",
   "FFlagAinBuildSkinSubsetsAfterSimplify": "True",
   "DFIntPerformanceControlSoundReloadLatencyMaxValue": "200",
-  "DFIntPerformanceControlSoundReloadLatencyTargetUtility": "-10000",
+  "DFIntPerformanceControlSoundReloadLatencyTargetUtility": "-1000",
   "DFIntPerformanceControlSoundReloadThrashingMaxValue": "200",
-  "DFIntPerformanceControlSoundReloadThrashingTargetUtility": "-10000",
+  "DFIntPerformanceControlSoundReloadThrashingTargetUtility": "-1000",
   "FFlagAddDirectionToModifier": "True",
   "FFlagAinDropSkinningToRoot": "True",
   "FFlagProfileUpdatedRequestOriginSourceType": "True",
@@ -8264,8 +8264,6 @@
   "DFFlagHttpUnifyCacheCleanup": "True",
   "DFFlagHttpCacheCleanScheduleUseFastInt": "True",
   "FFlagFixBigModelUploadCrash": "True",
-  "DFIntPerformanceControlSoundReloadThrashingTargetUtility_Rollout": "-1000;60;2023-10-17T16:27:23",
-  "DFIntPerformanceControlSoundReloadLatencyTargetUtility_Rollout": "-1000;60;2023-10-17T16:27:28",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8531,8 +8529,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
-  "FStringFlagRepoGitHashFastString": "979952bf4eda48f83524e70ef8869e594fbd9971",
-  "DFStringFlagRepoGitHashDynamicString": "979952bf4eda48f83524e70ef8869e594fbd9971",
-  "FStringFlipTimeStampFastString": "2023-10-17T16:27:58.844Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-17T16:27:58.844Z"
+  "FStringFlagRepoGitHashFastString": "cef0dccf0c0d0c1eb3a74a7baea6ed72ef658217",
+  "DFStringFlagRepoGitHashDynamicString": "cef0dccf0c0d0c1eb3a74a7baea6ed72ef658217",
+  "FStringFlipTimeStampFastString": "2023-10-17T17:33:11.554Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-17T17:33:11.554Z"
 }
