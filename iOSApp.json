@@ -8269,6 +8269,8 @@
   "DFIntScreenGuiSafeAreaPropertiesAnalyticsEventIngest_ReportHundredthsPercent": "1",
   "FFlagStopRenderPixelBorderWhenUICornerPresent": "True",
   "FFlagLuauOsTimegm_Rollout": "True;60;2023-10-18T15:59:30",
+  "DFFlagWeakThreadRefAvoidUnnecessaryLock_Rollout": "True;60;2023-10-18T16:10:27",
+  "DFFlagParallelWorkQueueOptimization_Rollout": "True;60;2023-10-18T16:10:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8608,8 +8610,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryiOS",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
-  "FStringFlagRepoGitHashFastString": "bce9a3d88b8238cf791c99eee67a8ab2c125672a",
-  "DFStringFlagRepoGitHashDynamicString": "bce9a3d88b8238cf791c99eee67a8ab2c125672a",
-  "FStringFlipTimeStampFastString": "2023-10-18T16:10:09.458Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T16:10:09.458Z"
+  "FStringFlagRepoGitHashFastString": "4e88cc205319da15f48af4b8e66768317f259831",
+  "DFStringFlagRepoGitHashDynamicString": "4e88cc205319da15f48af4b8e66768317f259831",
+  "FStringFlipTimeStampFastString": "2023-10-18T16:11:00.105Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-18T16:11:00.105Z"
 }
