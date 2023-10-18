@@ -8280,6 +8280,7 @@
   "FFlagConcurrentMaterialMapsRequests": "True",
   "FFlagMaterialGeneratorRemoveAccounting": "True",
   "FFlagLuauOsTimegm": "True",
+  "FFlagAllowGUIDAttributeThroughValidation": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8484,8 +8485,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryXBoxClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient",
-  "FStringFlagRepoGitHashFastString": "4464b138195b86a9ed3e22d27f46a51d6e2c0107",
-  "DFStringFlagRepoGitHashDynamicString": "4464b138195b86a9ed3e22d27f46a51d6e2c0107",
-  "FStringFlipTimeStampFastString": "2023-10-18T17:38:21.455Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T17:38:21.455Z"
+  "FStringFlagRepoGitHashFastString": "2faf9a3a38f31a94a93bf5ddec97aa1639d7812b",
+  "DFStringFlagRepoGitHashDynamicString": "2faf9a3a38f31a94a93bf5ddec97aa1639d7812b",
+  "FStringFlipTimeStampFastString": "2023-10-18T17:40:04.288Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-18T17:40:04.288Z"
 }
