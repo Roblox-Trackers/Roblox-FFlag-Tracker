@@ -8285,13 +8285,13 @@
   "FFlagNewCSGAPIBetaFeature_Rollout": "True;60;2023-10-18T17:42:44",
   "FFlagSimCSGV3IncrementalTriangulationPhase1_Rollout": "True;60;2023-10-18T17:43:20",
   "FFlagRealtimeProtocolPublishRaw_Rollout": "True;60;2023-10-18T17:45:18",
-  "FFlagLuauReduceStackSpills_Rollout": "True;30;2023-10-18T17:46:37",
   "DFFlagFixSoundTunableCurveIssues_Rollout": "True;60;2023-10-18T17:55:41",
   "FFlagAppBridgeRemoveIsSignalREnabled_Rollout": "True;30;2023-10-18T17:59:32",
   "FFlagDeleteCaptureEnabled": "True",
   "DFFlagFixSoundTunableMemoryCurveIssueWithNonMonotonicity_Rollout": "True;30;2023-10-18T18:09:09",
   "FFlagExplorerUseSelectionProvider2_Rollout": "True;60;2023-10-18T18:12:43",
   "FFlagStudioSpotlight": "True",
+  "FFlagLuauReduceStackSpills": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8558,8 +8558,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FIntEnableCullableScene2HundredthPercent2_Rollout": "10000;60;2023-10-18T17:47:57",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "c51eaf234d2b0ec5d263c4b65148891a20e4f4a4",
-  "DFStringFlagRepoGitHashDynamicString": "c51eaf234d2b0ec5d263c4b65148891a20e4f4a4",
-  "FStringFlipTimeStampFastString": "2023-10-18T18:17:25.012Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T18:17:25.012Z"
+  "FStringFlagRepoGitHashFastString": "cacb43c5c4667061caaaff500ade325899805148",
+  "DFStringFlagRepoGitHashDynamicString": "cacb43c5c4667061caaaff500ade325899805148",
+  "FStringFlipTimeStampFastString": "2023-10-18T18:22:01.299Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-18T18:22:01.299Z"
 }
