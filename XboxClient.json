@@ -8286,6 +8286,7 @@
   "FFlagSimCSGV3IncrementalTriangulationPhase1_Rollout": "True;60;2023-10-18T17:43:20",
   "FFlagRealtimeProtocolPublishRaw_Rollout": "True;60;2023-10-18T17:45:18",
   "FFlagLuauReduceStackSpills_Rollout": "True;30;2023-10-18T17:46:37",
+  "DFFlagFixSoundTunableCurveIssues_Rollout": "True;60;2023-10-18T17:55:41",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8490,8 +8491,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryXBoxClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient",
-  "FStringFlagRepoGitHashFastString": "e1ba66813d8f1b8d149409d4c40815a6e5560227",
-  "DFStringFlagRepoGitHashDynamicString": "e1ba66813d8f1b8d149409d4c40815a6e5560227",
-  "FStringFlipTimeStampFastString": "2023-10-18T17:48:34.993Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T17:48:34.993Z"
+  "FStringFlagRepoGitHashFastString": "2779c8d4a1cf36276ac0279867d169e32e4c112e",
+  "DFStringFlagRepoGitHashDynamicString": "2779c8d4a1cf36276ac0279867d169e32e4c112e",
+  "FStringFlipTimeStampFastString": "2023-10-18T17:56:16.965Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-18T17:56:16.965Z"
 }
