@@ -8290,6 +8290,7 @@
   "FFlagAppBridgeRemoveIsSignalREnabled_Rollout": "True;30;2023-10-18T17:59:32",
   "FFlagDeleteCaptureEnabled": "True",
   "DFFlagFixSoundTunableMemoryCurveIssueWithNonMonotonicity_Rollout": "True;30;2023-10-18T18:09:09",
+  "FFlagExplorerUseSelectionProvider2_Rollout": "True;60;2023-10-18T18:12:43",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8494,8 +8495,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryXBoxClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient",
-  "FStringFlagRepoGitHashFastString": "fb699872eb52a5c777b0671f86c9b422aef14e7d",
-  "DFStringFlagRepoGitHashDynamicString": "fb699872eb52a5c777b0671f86c9b422aef14e7d",
-  "FStringFlipTimeStampFastString": "2023-10-18T18:09:47.042Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T18:09:47.042Z"
+  "FStringFlagRepoGitHashFastString": "a35b13e59e7718546192c6659eb5c33675c19956",
+  "DFStringFlagRepoGitHashDynamicString": "a35b13e59e7718546192c6659eb5c33675c19956",
+  "FStringFlipTimeStampFastString": "2023-10-18T18:13:32.538Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-18T18:13:32.538Z"
 }
