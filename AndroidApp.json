@@ -8301,6 +8301,8 @@
   "FFlagFriendCarouselContainerRefactor": "True",
   "FFlagAinFixCameraUse": "True",
   "FFlagAinFixPreviewDimensions": "True",
+  "FFlagVoiceChatWaitForBlockListLoadedBeforeSubscription": "True",
+  "FFlagAinRemoveRigVizProp": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8678,8 +8680,9 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
-  "FStringFlagRepoGitHashFastString": "c2f30a1c69afb9820b519bf212fd7a0d662f068b",
-  "DFStringFlagRepoGitHashDynamicString": "c2f30a1c69afb9820b519bf212fd7a0d662f068b",
-  "FStringFlipTimeStampFastString": "2023-10-18T23:12:37.700Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T23:12:37.700Z"
+  "FFlagEnablePerformanceControlStreamingDistance2_Rollout": "True;30;2023-10-18T23:19:02",
+  "FStringFlagRepoGitHashFastString": "8b55bf5de4262605e92f5d8f11c43e614645ac3f",
+  "DFStringFlagRepoGitHashDynamicString": "8b55bf5de4262605e92f5d8f11c43e614645ac3f",
+  "FStringFlipTimeStampFastString": "2023-10-18T23:20:30.661Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-18T23:20:30.661Z"
 }
