@@ -8295,9 +8295,9 @@
   "FFlagUseTDigestInPercentileMonitor": "True",
   "DFFlagRolloutPhaseTelemetry": "True",
   "FFlagDeleteCaptureFeatureEnabled_v4": "True",
-  "FFlagDiffExplorerTreeWidget_Rollout": "True;60;2023-10-18T19:53:27",
   "FFlagAUMApplyNoAnims_Rollout": "True;60;2023-10-18T20:11:02",
   "FFlagConvertCallbackModeToExcludedTunables": "True",
+  "FFlagDiffExplorerTreeWidget": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8563,8 +8563,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "25cf791707e40de7424ec801f220c2256d80e207",
-  "DFStringFlagRepoGitHashDynamicString": "25cf791707e40de7424ec801f220c2256d80e207",
-  "FStringFlipTimeStampFastString": "2023-10-18T20:42:05.956Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T20:42:05.956Z"
+  "FStringFlagRepoGitHashFastString": "f1c81a365f154271834facdf54b23073133071db",
+  "DFStringFlagRepoGitHashDynamicString": "f1c81a365f154271834facdf54b23073133071db",
+  "FStringFlipTimeStampFastString": "2023-10-18T21:02:18.390Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-18T21:02:18.390Z"
 }
