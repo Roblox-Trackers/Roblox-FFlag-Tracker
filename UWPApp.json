@@ -8265,7 +8265,7 @@
   "FFlagFixBigModelUploadCrash": "True",
   "FFlagUserProfilesLogErrorCodes": "True",
   "FFlagEnableIOSAudioFixV2": "True",
-  "DFIntScreenGuiSafeAreaPropertiesAnalyticsEventIngest_ReportHundredthsPercent": "1",
+  "DFIntScreenGuiSafeAreaPropertiesAnalyticsEventIngest_ReportHundredthsPercent": "5000",
   "FFlagStopRenderPixelBorderWhenUICornerPresent": "True",
   "DisablePauseSessionInCall2": "True",
   "FStringToolboxAssetConfigDisabledVideoSharingLearnMoreLink": "https://create.roblox.com/docs/ui/video-assets#video-asset-privacy-system",
@@ -8298,7 +8298,6 @@
   "FFlagDiffExplorerTreeWidget": "True",
   "FFlagAUMApplyNoAnims": "True",
   "FFlagAinTelemetryForSettings_Rollout": "True;60;2023-10-18T22:11:56",
-  "DFIntScreenGuiSafeAreaPropertiesAnalyticsEventIngest_ReportHundredthsPercent_Rollout": "5000;30;2023-10-18T22:24:58",
   "FFlagFriendCarouselContainerRefactor": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -8489,8 +8488,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "db86b9ea0bdd47acb7f2a07782f94ddd5c4bc5b5",
-  "DFStringFlagRepoGitHashDynamicString": "db86b9ea0bdd47acb7f2a07782f94ddd5c4bc5b5",
-  "FStringFlipTimeStampFastString": "2023-10-18T22:56:39.612Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T22:56:39.612Z"
+  "FStringFlagRepoGitHashFastString": "1482c43e93b99970fb0996190b065301fd2edc81",
+  "DFStringFlagRepoGitHashDynamicString": "1482c43e93b99970fb0996190b065301fd2edc81",
+  "FStringFlipTimeStampFastString": "2023-10-18T23:02:42.487Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-18T23:02:42.487Z"
 }
