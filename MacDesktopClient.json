@@ -8285,9 +8285,7 @@
   "FFlagStudioSpotlight": "True",
   "FFlagLuauReduceStackSpills": "True",
   "FFlagAppBridgeRemoveIsSignalREnabled": "True",
-  "FFlagUseTDigestInPercentileMonitor_Rollout": "True;60;2023-10-18T18:42:44",
   "FFlagEnableAssemblyCenterOfMassVisualization": "True",
-  "DFFlagRolloutPhaseTelemetry_Rollout": "True;60;2023-10-18T18:46:39",
   "FFlagRealtimeProtocolPublishRaw": "True",
   "FFlagNewCSGAPIBetaFeature": "True",
   "DFIntPerformanceControlSoundReloadThrashingMaxValue_Rollout": "0;60;2023-10-18T18:57:28",
@@ -8296,6 +8294,8 @@
   "DFFlagFixSoundTunableCurveIssues": "True",
   "FFlagExplorerUseSelectionProvider2": "True",
   "FFlagScreenshotsDeleteCaptureTransitionFixes_v2": "True",
+  "FFlagUseTDigestInPercentileMonitor": "True",
+  "DFFlagRolloutPhaseTelemetry": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8561,8 +8561,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
-  "FStringFlagRepoGitHashFastString": "efe385de31ed12ec08f0c65e22e1e44090aea56f",
-  "DFStringFlagRepoGitHashDynamicString": "efe385de31ed12ec08f0c65e22e1e44090aea56f",
-  "FStringFlipTimeStampFastString": "2023-10-18T19:51:05.772Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T19:51:05.772Z"
+  "FStringFlagRepoGitHashFastString": "481c080fa8733181c5975ce5a252481aca3b416a",
+  "DFStringFlagRepoGitHashDynamicString": "481c080fa8733181c5975ce5a252481aca3b416a",
+  "FStringFlipTimeStampFastString": "2023-10-18T19:51:56.379Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-18T19:51:56.379Z"
 }
