@@ -8282,7 +8282,6 @@
   "FFlagLuauOsTimegm": "True",
   "FFlagAllowGUIDAttributeThroughValidation": "True",
   "FFlagDeleteCaptureEnabled": "True",
-  "FFlagExplorerUseSelectionProvider2_Rollout": "True;60;2023-10-18T18:12:43",
   "FFlagStudioSpotlight": "True",
   "FFlagLuauReduceStackSpills": "True",
   "FFlagAppBridgeRemoveIsSignalREnabled": "True",
@@ -8295,6 +8294,7 @@
   "DFIntPerformanceControlSoundReloadLatencyMaxValue_Rollout": "0;60;2023-10-18T18:57:46",
   "FFlagLuauInlineArrConstOffset": "True",
   "DFFlagFixSoundTunableCurveIssues": "True",
+  "FFlagExplorerUseSelectionProvider2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8672,8 +8672,8 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
-  "FStringFlagRepoGitHashFastString": "b7c5c66e7079caaa8c3c232be82cddd527e20972",
-  "DFStringFlagRepoGitHashDynamicString": "b7c5c66e7079caaa8c3c232be82cddd527e20972",
-  "FStringFlipTimeStampFastString": "2023-10-18T19:08:33.109Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T19:08:33.109Z"
+  "FStringFlagRepoGitHashFastString": "5fee89e7ae471f5db247d4955908c0545f2a75a7",
+  "DFStringFlagRepoGitHashDynamicString": "5fee89e7ae471f5db247d4955908c0545f2a75a7",
+  "FStringFlipTimeStampFastString": "2023-10-18T19:21:48.452Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-18T19:21:48.452Z"
 }
