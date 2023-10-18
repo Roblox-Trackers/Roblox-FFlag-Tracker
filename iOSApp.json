@@ -8288,6 +8288,8 @@
   "FFlagLuauReduceStackSpills_Rollout": "True;30;2023-10-18T17:46:37",
   "DFFlagFixSoundTunableCurveIssues_Rollout": "True;60;2023-10-18T17:55:41",
   "FFlagAppBridgeRemoveIsSignalREnabled_Rollout": "True;30;2023-10-18T17:59:32",
+  "FFlagDeleteCaptureEnabled": "True",
+  "DFFlagFixSoundTunableMemoryCurveIssueWithNonMonotonicity_Rollout": "True;30;2023-10-18T18:09:09",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8627,8 +8629,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryiOS",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
-  "FStringFlagRepoGitHashFastString": "26f71255b5f80dee962a3c4fe15f709b3785b625",
-  "DFStringFlagRepoGitHashDynamicString": "26f71255b5f80dee962a3c4fe15f709b3785b625",
-  "FStringFlipTimeStampFastString": "2023-10-18T18:03:27.281Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T18:03:27.281Z"
+  "FStringFlagRepoGitHashFastString": "fb699872eb52a5c777b0671f86c9b422aef14e7d",
+  "DFStringFlagRepoGitHashDynamicString": "fb699872eb52a5c777b0671f86c9b422aef14e7d",
+  "FStringFlipTimeStampFastString": "2023-10-18T18:09:47.042Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-18T18:09:47.042Z"
 }
