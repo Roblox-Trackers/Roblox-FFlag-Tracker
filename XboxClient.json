@@ -8317,6 +8317,9 @@
   "DFFlagPolicyServiceMigrationEndpointsEnabled2": "False",
   "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "0",
   "FFlagPlayerEmulatorPolicyServiceEndpointMigrationEnabled": "False",
+  "FFlagUXForCameraPerformanceEnabled": "True",
+  "FFlagUXForCameraPerformanceIXPEnabled": "True",
+  "FStringUXForCameraPerformanceIXPLayerName": "AvatarChat.CameraPerfToast",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8550,8 +8553,8 @@
   "FFlagTenFootUiAddAutoFocusFailsafe": "True",
   "FFlagTenFootUiDetectFocusFailure": "True",
   "FFlagTenFootUiFixAutoFocusRace": "True",
-  "FStringFlagRepoGitHashFastString": "68a3be6aea2240a81ccfc05b35fd1728ba200c4a",
-  "DFStringFlagRepoGitHashDynamicString": "68a3be6aea2240a81ccfc05b35fd1728ba200c4a",
-  "FStringFlipTimeStampFastString": "2023-10-19T22:50:41.896Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-19T22:50:41.896Z"
+  "FStringFlagRepoGitHashFastString": "97863d36d1c39b936318e8ac4004ec61370bafd2",
+  "DFStringFlagRepoGitHashDynamicString": "97863d36d1c39b936318e8ac4004ec61370bafd2",
+  "FStringFlipTimeStampFastString": "2023-10-19T22:54:22.650Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-19T22:54:22.650Z"
 }
