@@ -8303,9 +8303,9 @@
   "FFlagVoiceChatWaitForBlockListLoadedBeforeSubscription": "True",
   "FFlagAinRemoveRigVizProp": "True",
   "FFlagAinTelemetryForSettings": "True",
-  "FFlagAUMApplyNoNecks_Rollout": "True;60;2023-10-18T23:46:18",
   "DFFlagSessionTelemetryPredictedOOMCounter": "True",
   "FIntCloudTestFetchTimeoutSeconds": "30",
+  "FFlagAUMApplyNoNecks": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8570,8 +8570,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
-  "FStringFlagRepoGitHashFastString": "bfbbbf5e62e0e3c9fcf254c31e3f65ebebe45b5a",
-  "DFStringFlagRepoGitHashDynamicString": "bfbbbf5e62e0e3c9fcf254c31e3f65ebebe45b5a",
-  "FStringFlipTimeStampFastString": "2023-10-18T23:56:52.137Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-18T23:56:52.137Z"
+  "FStringFlagRepoGitHashFastString": "f3431dc340b22d2593164c64fb1932f0ac3900b4",
+  "DFStringFlagRepoGitHashDynamicString": "f3431dc340b22d2593164c64fb1932f0ac3900b4",
+  "FStringFlipTimeStampFastString": "2023-10-19T00:51:39.223Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-19T00:51:39.223Z"
 }
