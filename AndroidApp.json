@@ -7944,7 +7944,6 @@
   "FFlagImprovePluginSpeedMoveDragger": "True",
   "FFlagImprovePluginSpeedRotateDragger": "True",
   "FFlagImprovePluginSpeedScaleDragger": "True",
-  "DFIntReportControllerManagerPercent": "100",
   "DFLogNetworkPauseLogging_PlaceFilter": "6;14515858837",
   "FFlagCustomVideoUploadBetaFeature": "True",
   "FFlagBulkImportShowVideoQuota": "True",
@@ -8315,6 +8314,7 @@
   "FFlagStudioAddScopeEnterExitTelemetry": "True",
   "FFlagLuauInlineArrConstOffset_Rollout": "True;30;2023-10-19T17:51:11",
   "FFlagUserVRVehicleCamera": "False",
+  "DFIntReportControllerManagerPercent_Rollout": "1000;10;2023-10-19T18:13:54",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8691,8 +8691,8 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
-  "FStringFlagRepoGitHashFastString": "29b816a85e7fed8aadaf7cdbbf4ec2b6a4c7c04f",
-  "DFStringFlagRepoGitHashDynamicString": "29b816a85e7fed8aadaf7cdbbf4ec2b6a4c7c04f",
-  "FStringFlipTimeStampFastString": "2023-10-19T18:09:51.511Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-19T18:09:51.511Z"
+  "FStringFlagRepoGitHashFastString": "3b1b94dcaebb23e7f38a4a556dcf33879b4a7d11",
+  "DFStringFlagRepoGitHashDynamicString": "3b1b94dcaebb23e7f38a4a556dcf33879b4a7d11",
+  "FStringFlipTimeStampFastString": "2023-10-19T18:14:18.056Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-19T18:14:18.056Z"
 }
