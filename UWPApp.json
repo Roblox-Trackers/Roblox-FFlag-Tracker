@@ -8312,6 +8312,11 @@
   "FFlagStudioAddScopeEnterExitTelemetry": "True",
   "FFlagUserVRVehicleCamera": "False",
   "DFIntReportControllerManagerPercent": "1000",
+  "DFFlagSimEnableSepOfConcerns_Rollout": "True;60;2023-10-19T22:49:02",
+  "DFFlagPolicyServiceGIEndpointsDisabled2": "False",
+  "DFFlagPolicyServiceMigrationEndpointsEnabled2": "False",
+  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "0",
+  "FFlagPlayerEmulatorPolicyServiceEndpointMigrationEnabled": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8501,8 +8506,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "cb43d4b7b771beb3c61c09ba95e28438f10da9f5",
-  "DFStringFlagRepoGitHashDynamicString": "cb43d4b7b771beb3c61c09ba95e28438f10da9f5",
-  "FStringFlipTimeStampFastString": "2023-10-19T22:46:32.150Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-19T22:46:32.150Z"
+  "FStringFlagRepoGitHashFastString": "68a3be6aea2240a81ccfc05b35fd1728ba200c4a",
+  "DFStringFlagRepoGitHashDynamicString": "68a3be6aea2240a81ccfc05b35fd1728ba200c4a",
+  "FStringFlipTimeStampFastString": "2023-10-19T22:50:41.896Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-19T22:50:41.896Z"
 }
