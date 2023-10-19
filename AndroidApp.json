@@ -8307,6 +8307,9 @@
   "FFlagAUMApplyNoNecks": "True",
   "DFIntVoiceChatMaxRoundsOfWaitForBlocklistLoad": "600",
   "FFlagVoiceChatRccControlPlaneFixNullRoomServiceClientAccess": "True",
+  "DFIntWebRtcStackGuardSizeKB_Rollout": "512;60;2023-10-19T16:14:57",
+  "DFIntWebRtcStackMaximumSizeKB_Rollout": "128;60;2023-10-19T16:14:57",
+  "FFlagWebRtcStackEnableLimits_Rollout": "True;60;2023-10-19T16:14:57",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8683,8 +8686,8 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
-  "FStringFlagRepoGitHashFastString": "56e316536e8397908502be631ea18a7af4171d56",
-  "DFStringFlagRepoGitHashDynamicString": "56e316536e8397908502be631ea18a7af4171d56",
-  "FStringFlipTimeStampFastString": "2023-10-19T16:14:13.901Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-19T16:14:13.901Z"
+  "FStringFlagRepoGitHashFastString": "aa98faabc5466761147b2179f2a810bafb411a34",
+  "DFStringFlagRepoGitHashDynamicString": "aa98faabc5466761147b2179f2a810bafb411a34",
+  "FStringFlipTimeStampFastString": "2023-10-19T16:15:14.715Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-19T16:15:14.715Z"
 }

@@ -8306,6 +8306,10 @@
   "FIntCloudTestFetchTimeoutSeconds": "30",
   "FFlagAUMApplyNoNecks": "True",
   "DFIntVoiceChatMaxRoundsOfWaitForBlocklistLoad": "600",
+  "FFlagVoiceChatRccControlPlaneFixNullRoomServiceClientAccess": "True",
+  "DFIntWebRtcStackGuardSizeKB_Rollout": "512;60;2023-10-19T16:14:57",
+  "DFIntWebRtcStackMaximumSizeKB_Rollout": "128;60;2023-10-19T16:14:57",
+  "FFlagWebRtcStackEnableLimits_Rollout": "True;60;2023-10-19T16:14:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8570,8 +8574,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
-  "FStringFlagRepoGitHashFastString": "9325f6c807c00e695dd808c433815535efa9ebf7",
-  "DFStringFlagRepoGitHashDynamicString": "9325f6c807c00e695dd808c433815535efa9ebf7",
-  "FStringFlipTimeStampFastString": "2023-10-19T16:13:49.499Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-19T16:13:49.499Z"
+  "FStringFlagRepoGitHashFastString": "aa98faabc5466761147b2179f2a810bafb411a34",
+  "DFStringFlagRepoGitHashDynamicString": "aa98faabc5466761147b2179f2a810bafb411a34",
+  "FStringFlipTimeStampFastString": "2023-10-19T16:15:14.715Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-19T16:15:14.715Z"
 }
