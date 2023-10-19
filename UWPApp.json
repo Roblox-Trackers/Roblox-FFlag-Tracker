@@ -8327,7 +8327,6 @@
   "FFlagAppConfigurationGUACHttpTelemetry_Rollout": "True;60;2023-10-19T23:14:42",
   "FFlagUpdateVoiceJoinTimeoutTimerIncludeSubscribe_Rollout": "True;30;2023-10-19T23:18:54",
   "FFlagStudioFlagComponentRegistration": "True",
-  "FFlagCOLLAB4879FixUniverseSearchCrash_Rollout": "True;10;2023-10-19T23:20:59",
   "DFFlagVoiceChatRccMigrationClientEventLoggingFix_Rollout": "True;30;2023-10-19T23:24:14",
   "FFlagUnifySettingSTFields_Rollout": "True;30;2023-10-19T23:27:39",
   "DFIntAppConfigurationTelemetryThrottleHundredthsPercent_Rollout": "100;60;2023-10-19T23:28:01",
@@ -8336,6 +8335,8 @@
   "DFFlagSimExtendMismatchedBodyUIDLogicToExplicitForceVisualization_Rollout": "True;60;2023-10-19T23:33:18",
   "FFlagCLI70377_Rollout": "True;60;2023-10-19T23:33:57",
   "FFlagSimSolverReplaceRigidConstraintAchievePositionWithConstraintBallInSocket_Rollout": "True;60;2023-10-19T23:35:20",
+  "FFlagCOLLAB4879FixUniverseSearchCrash": "True",
+  "FFlagAutocompleteReplaceOnlyOnTab_Rollout": "True;60;2023-10-19T23:37:10",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8525,8 +8526,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "551dc03f43e669bc1b3630e7641b0432a80e9dc3",
-  "DFStringFlagRepoGitHashDynamicString": "551dc03f43e669bc1b3630e7641b0432a80e9dc3",
-  "FStringFlipTimeStampFastString": "2023-10-19T23:35:49.453Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-19T23:35:49.453Z"
+  "FStringFlagRepoGitHashFastString": "a846963a5403ef139195825bc43f2c1de2cb26fa",
+  "DFStringFlagRepoGitHashDynamicString": "a846963a5403ef139195825bc43f2c1de2cb26fa",
+  "FStringFlipTimeStampFastString": "2023-10-19T23:37:35.970Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-19T23:37:35.970Z"
 }
