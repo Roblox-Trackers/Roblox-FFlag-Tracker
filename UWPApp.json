@@ -8338,6 +8338,7 @@
   "FFlagCOLLAB4879FixUniverseSearchCrash": "True",
   "FFlagAutocompleteReplaceOnlyOnTab_Rollout": "True;60;2023-10-19T23:37:10",
   "DFFlagAddRomarkPhasenameToEventIngest_Rollout": "True;60;2023-10-19T23:39:48",
+  "DFFlagAddPlaySessionIdToSimControllerManagerTelemetryEvent_Rollout": "True;60;2023-10-19T23:42:56",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8527,8 +8528,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "e73f43f54daa378e167974c3da1baaacb7cfce32",
-  "DFStringFlagRepoGitHashDynamicString": "e73f43f54daa378e167974c3da1baaacb7cfce32",
-  "FStringFlipTimeStampFastString": "2023-10-19T23:40:23.732Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-19T23:40:23.732Z"
+  "FStringFlagRepoGitHashFastString": "59ac7331f4e8e4d91a1299e47826bf188cffcbed",
+  "DFStringFlagRepoGitHashDynamicString": "59ac7331f4e8e4d91a1299e47826bf188cffcbed",
+  "FStringFlipTimeStampFastString": "2023-10-19T23:43:47.510Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-19T23:43:47.510Z"
 }
