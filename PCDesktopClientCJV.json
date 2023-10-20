@@ -8348,6 +8348,7 @@
   "DFFlagAddMultToEventIngest": "True",
   "DFFlagEfficientBitstreamPackingV2": "True",
   "DFFlagEnableAdaptiveEffectPredictorShadow": "True",
+  "DFIntVideoStatsInfluxReportHundredthsPercent_Rollout": "10;60;2023-10-20T22:44:10",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8613,8 +8614,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "313c450865fcd350b29cb331ae66a7441481f123",
-  "DFStringFlagRepoGitHashDynamicString": "313c450865fcd350b29cb331ae66a7441481f123",
-  "FStringFlipTimeStampFastString": "2023-10-20T20:16:54.048Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T20:16:54.048Z"
+  "FStringFlagRepoGitHashFastString": "a0e5c6f0a605966adab064f31f8a53ac22d2f7d3",
+  "DFStringFlagRepoGitHashDynamicString": "a0e5c6f0a605966adab064f31f8a53ac22d2f7d3",
+  "FStringFlipTimeStampFastString": "2023-10-20T22:44:33.071Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T22:44:33.071Z"
 }
