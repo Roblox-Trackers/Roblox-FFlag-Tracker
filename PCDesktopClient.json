@@ -796,7 +796,7 @@
   "DFFlagDebugEnableInstanceUniqueIdCrashOnCollision": "True",
   "FFlagDebugEnableInstanceUniqueIdCollisionDetection": "True",
   "DFFlagEnableMemProfilingStorePlaceId": "True",
-  "DFIntVideoStatsInfluxReportHundredthsPercent": "100",
+  "DFIntVideoStatsInfluxReportHundredthsPercent": "10",
   "DFFlagEnablePlayerNetworkPing2": "True",
   "DFFlagChatBotFloodCheck2": "True",
   "DFIntChatFloodCheckExpirySeconds": "180",
@@ -8348,7 +8348,6 @@
   "DFFlagAddMultToEventIngest": "True",
   "DFFlagEfficientBitstreamPackingV2": "True",
   "DFFlagEnableAdaptiveEffectPredictorShadow": "True",
-  "DFIntVideoStatsInfluxReportHundredthsPercent_Rollout": "10;60;2023-10-20T22:44:10",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8613,8 +8612,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
-  "FStringFlagRepoGitHashFastString": "a0e5c6f0a605966adab064f31f8a53ac22d2f7d3",
-  "DFStringFlagRepoGitHashDynamicString": "a0e5c6f0a605966adab064f31f8a53ac22d2f7d3",
-  "FStringFlipTimeStampFastString": "2023-10-20T22:44:33.071Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T22:44:33.071Z"
+  "FStringFlagRepoGitHashFastString": "dfb3f71c59065f32bec73d24ada58de5bdb385c5",
+  "DFStringFlagRepoGitHashDynamicString": "dfb3f71c59065f32bec73d24ada58de5bdb385c5",
+  "FStringFlipTimeStampFastString": "2023-10-20T23:51:51.398Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T23:51:51.398Z"
 }
