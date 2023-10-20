@@ -8312,8 +8312,8 @@
   "FFlagUserVRVehicleCamera": "False",
   "DFIntReportControllerManagerPercent": "1000",
   "DFFlagPolicyServiceGIEndpointsDisabled2": "False",
-  "DFFlagPolicyServiceMigrationEndpointsEnabled2": "False",
-  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "0",
+  "DFFlagPolicyServiceMigrationEndpointsEnabled2": "True",
+  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "1",
   "FFlagUXForCameraPerformanceEnabled": "True",
   "FFlagUXForCameraPerformanceIXPEnabled": "True",
   "FStringUXForCameraPerformanceIXPLayerName": "AvatarChat.CameraPerfToast",
@@ -8341,8 +8341,6 @@
   "DFFlagAddRomarkPhasenameToEventIngest": "True",
   "DFFlagAddPlaySessionIdToSimControllerManagerTelemetryEvent": "True",
   "FFlagRoactChatFixProfileClickFocus": "True",
-  "DFFlagPolicyServiceMigrationEndpointsEnabled2_Rollout": "True;60;2023-10-20T17:22:24",
-  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2_Rollout": "1;60;2023-10-20T17:22:24",
   "FFlagScriptEditorLiveEditingTelemetryRename2": "True",
   "FFlagImporterOpensAvatarPreviewer2": "True",
   "DFFlagAddMultToEventIngest_Rollout": "True;60;2023-10-20T17:50:30",
@@ -8728,8 +8726,8 @@
   "DFFlagIncludeExpandedAndroidAdviceStatsPerfData2": "True",
   "DFFlagMemoryAdviceReorderAPICheck": "True",
   "DFFlagUseAndroidMemoryAdviceLibrary6": "True",
-  "FStringFlagRepoGitHashFastString": "e2db91340ef40f43d913bc898dec2dfb089b115d",
-  "DFStringFlagRepoGitHashDynamicString": "e2db91340ef40f43d913bc898dec2dfb089b115d",
-  "FStringFlipTimeStampFastString": "2023-10-20T18:06:25.079Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T18:06:25.079Z"
+  "FStringFlagRepoGitHashFastString": "9573096c1b232554be9195b34f09c9c8a95206b8",
+  "DFStringFlagRepoGitHashDynamicString": "9573096c1b232554be9195b34f09c9c8a95206b8",
+  "FStringFlipTimeStampFastString": "2023-10-20T18:26:55.185Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T18:26:55.185Z"
 }
