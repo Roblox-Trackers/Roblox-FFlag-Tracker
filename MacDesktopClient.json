@@ -8325,8 +8325,6 @@
   "FFlagScriptEditorSkipEmptyOp": "True",
   "FFlagAppConfigurationGUACHttpTelemetry_Rollout": "True;60;2023-10-19T23:14:42",
   "FFlagStudioFlagComponentRegistration": "True",
-  "DFFlagVoiceChatRccMigrationClientEventLoggingFix_Rollout": "True;30;2023-10-19T23:24:14",
-  "FFlagUnifySettingSTFields_Rollout": "True;30;2023-10-19T23:27:39",
   "DFIntAppConfigurationTelemetryThrottleHundredthsPercent_Rollout": "100;60;2023-10-19T23:28:01",
   "FFlagGameSettingsCameraModeFixEnabled": "True",
   "FFlagSelfViewPositionDragFixEnabled": "True",
@@ -8342,6 +8340,8 @@
   "DFFlagLuauHandlerClose": "True",
   "DFFlagSimEnableSepOfConcerns": "True",
   "FFlagUpdateVoiceJoinTimeoutTimerIncludeSubscribe": "True",
+  "FFlagUnifySettingSTFields": "True",
+  "DFFlagVoiceChatRccMigrationClientEventLoggingFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8607,8 +8607,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
-  "FStringFlagRepoGitHashFastString": "cec2f391979b4e971855fa80e17c493102408f61",
-  "DFStringFlagRepoGitHashDynamicString": "cec2f391979b4e971855fa80e17c493102408f61",
-  "FStringFlipTimeStampFastString": "2023-10-19T23:59:29.141Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-19T23:59:29.141Z"
+  "FStringFlagRepoGitHashFastString": "40b13e321f0a53e5b9c2eb590efded6dbd95ea9b",
+  "DFStringFlagRepoGitHashDynamicString": "40b13e321f0a53e5b9c2eb590efded6dbd95ea9b",
+  "FStringFlipTimeStampFastString": "2023-10-20T00:01:57.043Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T00:01:57.043Z"
 }
