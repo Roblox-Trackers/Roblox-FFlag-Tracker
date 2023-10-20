@@ -8318,9 +8318,7 @@
   "FFlagUXForCameraPerformanceEnabled": "True",
   "FFlagUXForCameraPerformanceIXPEnabled": "True",
   "FStringUXForCameraPerformanceIXPLayerName": "AvatarChat.CameraPerfToast",
-  "FFlagStudioFixQmlShutdownCrash_Rollout": "True;60;2023-10-19T22:58:23",
   "FFlagEnableChromeMicShimmer": "True",
-  "FFlagFixBuggySidechains_Rollout": "True;60;2023-10-19T23:00:12",
   "FFlagMoveRealtimeProtocolToInstanceHolder_Rollout": "True;60;2023-10-19T23:09:27",
   "FFlagScriptEditorSkipEmptyOp": "True",
   "FFlagAppConfigurationGUACHttpTelemetry_Rollout": "True;60;2023-10-19T23:14:42",
@@ -8342,6 +8340,8 @@
   "FFlagUpdateVoiceJoinTimeoutTimerIncludeSubscribe": "True",
   "FFlagUnifySettingSTFields": "True",
   "DFFlagVoiceChatRccMigrationClientEventLoggingFix": "True",
+  "FFlagStudioFixQmlShutdownCrash": "True",
+  "FFlagFixBuggySidechains": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8607,8 +8607,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
-  "FStringFlagRepoGitHashFastString": "40b13e321f0a53e5b9c2eb590efded6dbd95ea9b",
-  "DFStringFlagRepoGitHashDynamicString": "40b13e321f0a53e5b9c2eb590efded6dbd95ea9b",
-  "FStringFlipTimeStampFastString": "2023-10-20T00:01:57.043Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T00:01:57.043Z"
+  "FStringFlagRepoGitHashFastString": "48f0da26d19b01c3bfb8e15a42249ae4143ddf96",
+  "DFStringFlagRepoGitHashDynamicString": "48f0da26d19b01c3bfb8e15a42249ae4143ddf96",
+  "FStringFlipTimeStampFastString": "2023-10-20T00:07:01.943Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T00:07:01.943Z"
 }
