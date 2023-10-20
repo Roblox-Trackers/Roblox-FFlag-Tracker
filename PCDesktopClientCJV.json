@@ -8002,7 +8002,7 @@
   "FFlagToolboxEnableAudioSearchOptions5": "True",
   "FFlagToolboxAddSortIntentFiltering": "True",
   "FFlagToolboxTrackCurrentSubcategory2": "True",
-  "DFFlagFixBoneTransformChangedCrash": "False",
+  "DFFlagFixBoneTransformChangedCrash": "True",
   "DFFlagPreserveCollisionGroupNameForUnion": "True",
   "FFlagTouchEventSupportStreamingEnabledAnalytics1": "False",
   "FFlagNewCameraControls_SmoothCursorDelta": "True",
@@ -8346,7 +8346,6 @@
   "FFlagUnibarRespawn": "True",
   "FFlagSetupIXPExperiment2": "True",
   "DFFlagAddMultToEventIngest": "True",
-  "DFFlagFixBoneTransformChangedCrash_Rollout": "True;60;2023-10-20T19:11:22",
   "DFFlagEfficientBitstreamPackingV2": "True",
   "DFFlagEnableAdaptiveEffectPredictorShadow": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8614,8 +8613,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "c532b02e89885c6a820a418ec16307cabfcdb0df",
-  "DFStringFlagRepoGitHashDynamicString": "c532b02e89885c6a820a418ec16307cabfcdb0df",
-  "FStringFlipTimeStampFastString": "2023-10-20T19:56:42.261Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T19:56:42.261Z"
+  "FStringFlagRepoGitHashFastString": "313c450865fcd350b29cb331ae66a7441481f123",
+  "DFStringFlagRepoGitHashDynamicString": "313c450865fcd350b29cb331ae66a7441481f123",
+  "FStringFlipTimeStampFastString": "2023-10-20T20:16:54.048Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T20:16:54.048Z"
 }
