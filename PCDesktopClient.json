@@ -5101,9 +5101,9 @@
   "DFFlagEnableAdUnitNameWhitelist": "True",
   "FFlagAinBuildSkinSubsetsAfterSimplify": "True",
   "DFIntPerformanceControlSoundReloadLatencyMaxValue": "0",
-  "DFIntPerformanceControlSoundReloadLatencyTargetUtility": "-1000",
+  "DFIntPerformanceControlSoundReloadLatencyTargetUtility": "-3000",
   "DFIntPerformanceControlSoundReloadThrashingMaxValue": "0",
-  "DFIntPerformanceControlSoundReloadThrashingTargetUtility": "-1000",
+  "DFIntPerformanceControlSoundReloadThrashingTargetUtility": "-3000",
   "FFlagAddDirectionToModifier": "True",
   "FFlagAinDropSkinningToRoot": "True",
   "FFlagProfileUpdatedRequestOriginSourceType": "True",
@@ -8344,8 +8344,6 @@
   "FFlagScriptEditorLiveEditingTelemetryRename2": "True",
   "FFlagImporterOpensAvatarPreviewer2": "True",
   "FFlagUnibarRespawn": "True",
-  "DFIntPerformanceControlSoundReloadThrashingTargetUtility_Rollout": "-3000;60;2023-10-20T18:49:54",
-  "DFIntPerformanceControlSoundReloadLatencyTargetUtility_Rollout": "-3000;60;2023-10-20T18:50:32",
   "FFlagSetupIXPExperiment2": "True",
   "DFFlagAddMultToEventIngest": "True",
   "DFFlagFixBoneTransformChangedCrash_Rollout": "True;60;2023-10-20T19:11:22",
@@ -8615,8 +8613,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
-  "FStringFlagRepoGitHashFastString": "4733aedf53340fdca0333054e9e03613c33dba55",
-  "DFStringFlagRepoGitHashDynamicString": "4733aedf53340fdca0333054e9e03613c33dba55",
-  "FStringFlipTimeStampFastString": "2023-10-20T19:52:13.566Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T19:52:13.566Z"
+  "FStringFlagRepoGitHashFastString": "c532b02e89885c6a820a418ec16307cabfcdb0df",
+  "DFStringFlagRepoGitHashDynamicString": "c532b02e89885c6a820a418ec16307cabfcdb0df",
+  "FStringFlipTimeStampFastString": "2023-10-20T19:56:42.261Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T19:56:42.261Z"
 }
