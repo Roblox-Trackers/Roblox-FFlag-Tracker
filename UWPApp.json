@@ -8343,13 +8343,13 @@
   "FFlagRoactChatFixProfileClickFocus": "True",
   "FFlagScriptEditorLiveEditingTelemetryRename2": "True",
   "FFlagImporterOpensAvatarPreviewer2": "True",
-  "DFFlagAddMultToEventIngest_Rollout": "True;60;2023-10-20T17:50:30",
   "FFlagUnibarRespawn": "True",
   "DFFlagEnableAdaptiveEffectPredictorShadow_Rollout": "True;60;2023-10-20T18:43:52",
   "DFFlagEfficientBitstreamPackingV2_Rollout": "True;60;2023-10-20T18:45:32",
   "DFIntPerformanceControlSoundReloadThrashingTargetUtility_Rollout": "-3000;60;2023-10-20T18:49:54",
   "DFIntPerformanceControlSoundReloadLatencyTargetUtility_Rollout": "-3000;60;2023-10-20T18:50:32",
   "FFlagSetupIXPExperiment2": "True",
+  "DFFlagAddMultToEventIngest": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8539,8 +8539,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "1d0156f76b7d160b7397d7293f0122b5448464f2",
-  "DFStringFlagRepoGitHashDynamicString": "1d0156f76b7d160b7397d7293f0122b5448464f2",
-  "FStringFlipTimeStampFastString": "2023-10-20T18:53:16.547Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T18:53:16.547Z"
+  "FStringFlagRepoGitHashFastString": "6c330a78dd773643e51e071e6ee522270bdf8d9a",
+  "DFStringFlagRepoGitHashDynamicString": "6c330a78dd773643e51e071e6ee522270bdf8d9a",
+  "FStringFlipTimeStampFastString": "2023-10-20T18:57:01.625Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T18:57:01.625Z"
 }
