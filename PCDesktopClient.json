@@ -8051,7 +8051,7 @@
   "DFFlagMemoryAdviceInitGuard": "True",
   "DFFlagMemoryAdvicePerformanceOptimization": "True",
   "DFFlagMemoryAdviceStartValueFix": "True",
-  "DFFlagUseAndroidMemoryAdviceLibrary4": "True",
+  "DFFlagUseAndroidMemoryAdviceLibrary4": "False",
   "FFlagMemoryAdviceIXPIntegrationEnabled": "True",
   "FFlagVideoErrorLogExcludeSuffix": "True",
   "FFlagDiscoverabilityWordingChange": "False",
@@ -8345,6 +8345,7 @@
   "DFFlagPolicyServiceMigrationEndpointsEnabled2_Rollout": "True;60;2023-10-20T17:22:24",
   "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2_Rollout": "1;60;2023-10-20T17:22:24",
   "FFlagScriptEditorLiveEditingTelemetryRename2": "True",
+  "FFlagImporterOpensAvatarPreviewer2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8609,8 +8610,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
-  "FStringFlagRepoGitHashFastString": "0aab228eadd50c7b9cc9a1e95476a3ff055db257",
-  "DFStringFlagRepoGitHashDynamicString": "0aab228eadd50c7b9cc9a1e95476a3ff055db257",
-  "FStringFlipTimeStampFastString": "2023-10-20T17:30:39.631Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T17:30:39.631Z"
+  "FStringFlagRepoGitHashFastString": "736efa59b9e758653261941c5e8168004cd8e484",
+  "DFStringFlagRepoGitHashDynamicString": "736efa59b9e758653261941c5e8168004cd8e484",
+  "FStringFlipTimeStampFastString": "2023-10-20T17:47:03.431Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T17:47:03.431Z"
 }
