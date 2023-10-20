@@ -8342,6 +8342,8 @@
   "DFFlagAddRomarkPhasenameToEventIngest": "True",
   "DFFlagAddPlaySessionIdToSimControllerManagerTelemetryEvent": "True",
   "FFlagRoactChatFixProfileClickFocus": "True",
+  "DFFlagPolicyServiceMigrationEndpointsEnabled2_Rollout": "True;60;2023-10-20T17:22:24",
+  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2_Rollout": "1;60;2023-10-20T17:22:24",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8680,8 +8682,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryiOS",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
-  "FStringFlagRepoGitHashFastString": "9179432e0188bdaafaedaf4b573d1d25be785d57",
-  "DFStringFlagRepoGitHashDynamicString": "9179432e0188bdaafaedaf4b573d1d25be785d57",
-  "FStringFlipTimeStampFastString": "2023-10-20T17:18:22.935Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T17:18:22.935Z"
+  "FStringFlagRepoGitHashFastString": "6c4d1919f00c3fa7f7cae5f68cfdbcc52a312956",
+  "DFStringFlagRepoGitHashDynamicString": "6c4d1919f00c3fa7f7cae5f68cfdbcc52a312956",
+  "FStringFlipTimeStampFastString": "2023-10-20T17:24:02.928Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T17:24:02.928Z"
 }
