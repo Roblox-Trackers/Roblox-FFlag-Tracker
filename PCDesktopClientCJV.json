@@ -8339,7 +8339,7 @@
   "DFFlagSimEnableSepOfConcerns": "True",
   "FFlagUpdateVoiceJoinTimeoutTimerIncludeSubscribe": "True",
   "FFlagUnifySettingSTFields": "True",
-  "DFFlagVoiceChatRccMigrationClientEventLoggingFix": "True",
+  "DFFlagVoiceChatRccMigrationClientEventLoggingFix": "False",
   "FFlagStudioFixQmlShutdownCrash": "True",
   "FFlagFixBuggySidechains": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8607,8 +8607,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "48f0da26d19b01c3bfb8e15a42249ae4143ddf96",
-  "DFStringFlagRepoGitHashDynamicString": "48f0da26d19b01c3bfb8e15a42249ae4143ddf96",
-  "FStringFlipTimeStampFastString": "2023-10-20T00:07:01.943Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T00:07:01.943Z"
+  "FStringFlagRepoGitHashFastString": "f3ad57489940a7d226b980777041a01e9441a3a4",
+  "DFStringFlagRepoGitHashDynamicString": "f3ad57489940a7d226b980777041a01e9441a3a4",
+  "FStringFlipTimeStampFastString": "2023-10-20T00:11:32.645Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T00:11:32.645Z"
 }
