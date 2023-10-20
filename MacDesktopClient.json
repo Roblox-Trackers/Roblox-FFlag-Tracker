@@ -8323,9 +8323,6 @@
   "FFlagStudioFlagComponentRegistration": "True",
   "FFlagGameSettingsCameraModeFixEnabled": "True",
   "FFlagSelfViewPositionDragFixEnabled": "True",
-  "DFFlagSimExtendMismatchedBodyUIDLogicToExplicitForceVisualization_Rollout": "True;60;2023-10-19T23:33:18",
-  "FFlagCLI70377_Rollout": "True;60;2023-10-19T23:33:57",
-  "FFlagSimSolverReplaceRigidConstraintAchievePositionWithConstraintBallInSocket_Rollout": "True;60;2023-10-19T23:35:20",
   "FFlagCOLLAB4879FixUniverseSearchCrash": "True",
   "FFlagAutocompleteReplaceOnlyOnTab_Rollout": "True;60;2023-10-19T23:37:10",
   "DFFlagAddRomarkPhasenameToEventIngest_Rollout": "True;60;2023-10-19T23:39:48",
@@ -8342,6 +8339,8 @@
   "FFlagMoveRealtimeProtocolToInstanceHolder": "True",
   "FFlagAppConfigurationGUACHttpTelemetry": "True",
   "DFIntAppConfigurationTelemetryThrottleHundredthsPercent": "100",
+  "DFFlagSimExtendMismatchedBodyUIDLogicToExplicitForceVisualization": "True",
+  "FFlagSimSolverReplaceRigidConstraintAchievePositionWithConstraintBallInSocket": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8607,8 +8606,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
-  "FStringFlagRepoGitHashFastString": "e5eb69c1fe97982ce495ea8fa28c5405924f2c52",
-  "DFStringFlagRepoGitHashDynamicString": "e5eb69c1fe97982ce495ea8fa28c5405924f2c52",
-  "FStringFlipTimeStampFastString": "2023-10-20T00:36:38.861Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T00:36:38.861Z"
+  "FStringFlagRepoGitHashFastString": "e01f8303986bbfc26ba34f2a9d1c48671c89ae08",
+  "DFStringFlagRepoGitHashDynamicString": "e01f8303986bbfc26ba34f2a9d1c48671c89ae08",
+  "FStringFlipTimeStampFastString": "2023-10-20T00:41:23.831Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T00:41:23.831Z"
 }
