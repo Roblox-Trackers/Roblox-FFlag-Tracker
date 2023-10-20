@@ -8336,7 +8336,7 @@
   "FFlagVoiceChatV2EnableSignalRKickUser_PlaceFilter": "True;9134756438;7137646352;8158601082;7376832747;9672950003;13523443036",
   "DFFlagLuauHandlerClose": "True",
   "DFFlagSimEnableSepOfConcerns": "True",
-  "FFlagUpdateVoiceJoinTimeoutTimerIncludeSubscribe": "True",
+  "FFlagUpdateVoiceJoinTimeoutTimerIncludeSubscribe": "False",
   "FFlagUnifySettingSTFields": "True",
   "DFFlagVoiceChatRccMigrationClientEventLoggingFix": "False",
   "FFlagStudioFixQmlShutdownCrash": "True",
@@ -8607,8 +8607,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
-  "FStringFlagRepoGitHashFastString": "61f5b6efb96d32f01e9cf038e38e7e86c75276ac",
-  "DFStringFlagRepoGitHashDynamicString": "61f5b6efb96d32f01e9cf038e38e7e86c75276ac",
-  "FStringFlipTimeStampFastString": "2023-10-20T00:17:38.738Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T00:17:38.738Z"
+  "FStringFlagRepoGitHashFastString": "364ded815ff977006c1ae3634cb7653e6285df59",
+  "DFStringFlagRepoGitHashDynamicString": "364ded815ff977006c1ae3634cb7653e6285df59",
+  "FStringFlipTimeStampFastString": "2023-10-20T00:18:52.156Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T00:18:52.156Z"
 }
