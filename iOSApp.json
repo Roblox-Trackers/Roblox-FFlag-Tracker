@@ -8346,6 +8346,7 @@
   "DFFlagAddMultToEventIngest_Rollout": "True;60;2023-10-20T17:50:30",
   "FFlagUnibarRespawn": "True",
   "DFFlagEnableAdaptiveEffectPredictorShadow_Rollout": "True;60;2023-10-20T18:43:52",
+  "DFFlagEfficientBitstreamPackingV2_Rollout": "True;60;2023-10-20T18:45:32",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8684,8 +8685,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryiOS",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
-  "FStringFlagRepoGitHashFastString": "c77f41f0c39ae5a188b08eac3c864e5dd5cbc456",
-  "DFStringFlagRepoGitHashDynamicString": "c77f41f0c39ae5a188b08eac3c864e5dd5cbc456",
-  "FStringFlipTimeStampFastString": "2023-10-20T18:44:15.672Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T18:44:15.672Z"
+  "FStringFlagRepoGitHashFastString": "6ac8320ec5d8ef9cc2b92d824ac5c5f84e98ea3d",
+  "DFStringFlagRepoGitHashDynamicString": "6ac8320ec5d8ef9cc2b92d824ac5c5f84e98ea3d",
+  "FStringFlipTimeStampFastString": "2023-10-20T18:46:11.644Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T18:46:11.644Z"
 }
