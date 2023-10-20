@@ -8320,7 +8320,6 @@
   "FStringUXForCameraPerformanceIXPLayerName": "AvatarChat.CameraPerfToast",
   "FFlagEnableChromeMicShimmer": "True",
   "FFlagScriptEditorSkipEmptyOp": "True",
-  "FFlagAppConfigurationGUACHttpTelemetry_Rollout": "True;60;2023-10-19T23:14:42",
   "FFlagStudioFlagComponentRegistration": "True",
   "DFIntAppConfigurationTelemetryThrottleHundredthsPercent_Rollout": "100;60;2023-10-19T23:28:01",
   "FFlagGameSettingsCameraModeFixEnabled": "True",
@@ -8342,6 +8341,7 @@
   "FFlagStudioFixQmlShutdownCrash": "True",
   "FFlagFixBuggySidechains": "True",
   "FFlagMoveRealtimeProtocolToInstanceHolder": "True",
+  "FFlagAppConfigurationGUACHttpTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8718,8 +8718,8 @@
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
-  "FStringFlagRepoGitHashFastString": "364ded815ff977006c1ae3634cb7653e6285df59",
-  "DFStringFlagRepoGitHashDynamicString": "364ded815ff977006c1ae3634cb7653e6285df59",
-  "FStringFlipTimeStampFastString": "2023-10-20T00:18:52.156Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-20T00:18:52.156Z"
+  "FStringFlagRepoGitHashFastString": "2af15461e9f4a934cac784722423294a0589f14f",
+  "DFStringFlagRepoGitHashDynamicString": "2af15461e9f4a934cac784722423294a0589f14f",
+  "FStringFlipTimeStampFastString": "2023-10-20T00:22:15.286Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-20T00:22:15.286Z"
 }
