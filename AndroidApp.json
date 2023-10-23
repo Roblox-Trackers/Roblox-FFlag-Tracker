@@ -8384,6 +8384,7 @@
   "FFlagDevConsoleUseThrottledMetrics": "True",
   "DFFlagOptimizeAutosaveIntervalRolloutEnabled_Rollout": "True;10;2023-10-23T20:34:57",
   "DFFlagOptimizeAutosaveInterval2": "True",
+  "DFIntFlagRolloutVariantDistributionRatio_Rollout": "80;60;2023-10-23T20:44:11",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8766,8 +8767,8 @@
   "DFFlagMemoryAdviceReorderAPICheck": "True",
   "DFFlagUseAndroidMemoryAdviceLibrary6": "True",
   "FFlagEnableSeamlessForceOTAUpdate2_Rollout": "True;60;2023-10-23T20:36:01",
-  "FStringFlagRepoGitHashFastString": "b24c1fc979f0770ca3911aaf5314ac340296f516",
-  "DFStringFlagRepoGitHashDynamicString": "b24c1fc979f0770ca3911aaf5314ac340296f516",
-  "FStringFlipTimeStampFastString": "2023-10-23T20:38:49.357Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T20:38:49.357Z"
+  "FStringFlagRepoGitHashFastString": "0fa1be13f212280aca68737d6dfc5c7228558ee0",
+  "DFStringFlagRepoGitHashDynamicString": "0fa1be13f212280aca68737d6dfc5c7228558ee0",
+  "FStringFlipTimeStampFastString": "2023-10-23T20:44:42.754Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T20:44:42.754Z"
 }
