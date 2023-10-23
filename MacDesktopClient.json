@@ -8318,7 +8318,7 @@
   "FFlagEnableChromeMicShimmer": "True",
   "FFlagScriptEditorSkipEmptyOp": "True",
   "FFlagStudioFlagComponentRegistration": "True",
-  "FFlagGameSettingsCameraModeFixEnabled": "True",
+  "FFlagGameSettingsCameraModeFixEnabled": "False",
   "FFlagSelfViewPositionDragFixEnabled": "True",
   "FFlagCOLLAB4879FixUniverseSearchCrash": "True",
   "FFlagVoiceChatV2EnableSignalRKickUser": "False",
@@ -8376,6 +8376,8 @@
   "DFFlagTeleportVIPPlayerPassThrough2": "True",
   "DFFlagVIPTeleportGJCatchall": "True",
   "DFFlagVIPTeleportGameJoin2": "True",
+  "FFlagGameSettingsCameraModeFixEnabled_PlaceFilter": "True;12867047376;12867089300;14066075418;11402255591;12796376276;13989579574;11460402982;12500012844;14030887154",
+  "FFlagSettingsHubButtonCanBeDisabled_Rollout": "True;60;2023-10-23T19:25:02",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8641,8 +8643,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryMacClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
-  "FStringFlagRepoGitHashFastString": "838483cb79dc58ce3b61f557d2afdca34c3eeae2",
-  "DFStringFlagRepoGitHashDynamicString": "838483cb79dc58ce3b61f557d2afdca34c3eeae2",
-  "FStringFlipTimeStampFastString": "2023-10-23T19:21:23.818Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T19:21:23.818Z"
+  "FStringFlagRepoGitHashFastString": "b3ac07e8720c563524c9ef1bd5ccfbddeb312983",
+  "DFStringFlagRepoGitHashDynamicString": "b3ac07e8720c563524c9ef1bd5ccfbddeb312983",
+  "FStringFlipTimeStampFastString": "2023-10-23T19:25:35.524Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T19:25:35.524Z"
 }
