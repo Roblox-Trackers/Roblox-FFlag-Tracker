@@ -8374,7 +8374,6 @@
   "DFFlagVIPTeleportGJCatchall": "True",
   "DFFlagVIPTeleportGameJoin2": "True",
   "FFlagGameSettingsCameraModeFixEnabled_PlaceFilter": "True;12867047376;12867089300;14066075418;11402255591;12796376276;13989579574;11460402982;12500012844;14030887154",
-  "FFlagSettingsHubButtonCanBeDisabled_Rollout": "True;60;2023-10-23T19:25:02",
   "DFIntCallsBetweenUnreliablePing": "4",
   "DFFlagDoVIPTeleport": "True",
   "FFlagShorthandPropertiesUpdate": "True",
@@ -8382,6 +8381,7 @@
   "DFFlagQueueDataPingFromSendData2_Rollout": "True;60;2023-10-23T20:20:25",
   "DFFlagOptimizeAutosaveInterval2_Rollout": "True;10;2023-10-23T20:23:56",
   "FFlagAXAutocompleteUseCDN": "True",
+  "FFlagSettingsHubButtonCanBeDisabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8720,8 +8720,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryiOS",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
-  "FStringFlagRepoGitHashFastString": "3c72501b9e6c99f6cfd4fc3414d243c7d1de3558",
-  "DFStringFlagRepoGitHashDynamicString": "3c72501b9e6c99f6cfd4fc3414d243c7d1de3558",
-  "FStringFlipTimeStampFastString": "2023-10-23T20:27:32.245Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T20:27:32.245Z"
+  "FStringFlagRepoGitHashFastString": "37a9c48180564c2dcb919a9edc44bc045da930b4",
+  "DFStringFlagRepoGitHashDynamicString": "37a9c48180564c2dcb919a9edc44bc045da930b4",
+  "FStringFlipTimeStampFastString": "2023-10-23T20:31:35.115Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T20:31:35.115Z"
 }
