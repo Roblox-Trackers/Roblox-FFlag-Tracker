@@ -894,7 +894,7 @@
   "FFlagUserFlagEnableNewVRSystem": "True",
   "DFIntReplicatorDataPingReportThresholdMs": "10000",
   "DFIntReplicatorDataPingReportHundredthPercentage": "10",
-  "DFIntPointsMods": "1000",
+  "DFIntPointsMods": "100",
   "DFIntStudioReportFatalErrorHundredthsPercentage": "10000",
   "FFlagLuaAppPhoneModeUnderTitleSearchBarIXP": "False",
   "FFlagUseGUACforFullscreenTitleBar": "True",
@@ -8354,7 +8354,6 @@
   "FFlagExperienceLeavePlaceId": "True",
   "DFFlagTimeCurveTickTypeUseInt": "True",
   "DFIntTimeCurveCurrentEncodingVersion": "1",
-  "DFIntPointsMods_Rollout": "100;60;2023-10-23T17:39:39",
   "FFlagProfileQrCodeScannerFollowUps": "True",
   "DFFlagLongAvatarAssetTelemetry": "True",
   "DFIntLongAvatarAssetTelemetryThrottleHundredthsPercent": "100",
@@ -8637,8 +8636,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
-  "FStringFlagRepoGitHashFastString": "95d465b605061a978227400dbde9a7d2faeadaf1",
-  "DFStringFlagRepoGitHashDynamicString": "95d465b605061a978227400dbde9a7d2faeadaf1",
-  "FStringFlipTimeStampFastString": "2023-10-23T18:44:37.666Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T18:44:37.666Z"
+  "FStringFlagRepoGitHashFastString": "f7e0239c02179ef09ae7eeb896a28eced34ea3cc",
+  "DFStringFlagRepoGitHashDynamicString": "f7e0239c02179ef09ae7eeb896a28eced34ea3cc",
+  "FStringFlipTimeStampFastString": "2023-10-23T18:46:30.250Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T18:46:30.250Z"
 }
