@@ -8389,6 +8389,7 @@
   "FIntAssetImportMaxPresetNameLength_Rollout": "50;60;2023-10-23T21:47:58",
   "DFIntFlagRolloutVariantDistributionRatio": "80",
   "FFlagApolloClientUserProfileReadPolicy": "True",
+  "FFlagFixPlayersLoadingState": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8654,8 +8655,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "a79f57e13efb033ce20d88b6080fde7dd5b10e00",
-  "DFStringFlagRepoGitHashDynamicString": "a79f57e13efb033ce20d88b6080fde7dd5b10e00",
-  "FStringFlipTimeStampFastString": "2023-10-23T22:13:21.187Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T22:13:21.187Z"
+  "FStringFlagRepoGitHashFastString": "a1dd0c600c0c1b6779ea7b0c04b52800fe23252c",
+  "DFStringFlagRepoGitHashDynamicString": "a1dd0c600c0c1b6779ea7b0c04b52800fe23252c",
+  "FStringFlipTimeStampFastString": "2023-10-23T22:25:37.132Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T22:25:37.132Z"
 }
