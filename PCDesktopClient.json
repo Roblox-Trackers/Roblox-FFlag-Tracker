@@ -8395,6 +8395,7 @@
   "FIntAssetImportMaxPresetNameLength": "50",
   "FFlagRemoveEnvMapLightgridCPUDependency_Rollout": "True;60;2023-10-23T23:06:04",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2023-10-23T23:13:20",
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2023-10-23T23:13:41",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8659,8 +8660,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
-  "FStringFlagRepoGitHashFastString": "68c1994a52c176aa0e3195290f7f325c5ab2bcbe",
-  "DFStringFlagRepoGitHashDynamicString": "68c1994a52c176aa0e3195290f7f325c5ab2bcbe",
-  "FStringFlipTimeStampFastString": "2023-10-23T23:13:53.329Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T23:13:53.329Z"
+  "FStringFlagRepoGitHashFastString": "aa4487e32b87db6f3d499bde46622c06ef7173e9",
+  "DFStringFlagRepoGitHashDynamicString": "aa4487e32b87db6f3d499bde46622c06ef7173e9",
+  "FStringFlipTimeStampFastString": "2023-10-23T23:14:02.005Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T23:14:02.005Z"
 }
