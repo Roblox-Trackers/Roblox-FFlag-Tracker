@@ -8348,7 +8348,7 @@
   "DFFlagEnableAdaptiveEffectPredictorShadow": "True",
   "DFIntLongAvatarAssetTelemetryThrottleHundredthsPercent_Rollout": "100;60;2023-10-23T16:42:54",
   "FFlagHumanoidDeferredSyncFunction5": "True",
-  "FFlagHumanoidParallelUseManager4": "False",
+  "FFlagHumanoidParallelUseManager4": "True",
   "DFFlagLongAvatarAssetTelemetry_Rollout": "True;60;2023-10-23T16:46:52",
   "FFlagEnablePlayerViewApi2": "False",
   "FFlagEnablePlayerViewApi2_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875",
@@ -8545,8 +8545,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "8a9c5f7c1a2057641af951158e7df77cd8a87bb6",
-  "DFStringFlagRepoGitHashDynamicString": "8a9c5f7c1a2057641af951158e7df77cd8a87bb6",
-  "FStringFlipTimeStampFastString": "2023-10-23T17:08:27.295Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T17:08:27.295Z"
+  "FStringFlagRepoGitHashFastString": "3a8487dd03fec00773a08a9c0e6e6737c64dd5ff",
+  "DFStringFlagRepoGitHashDynamicString": "3a8487dd03fec00773a08a9c0e6e6737c64dd5ff",
+  "FStringFlipTimeStampFastString": "2023-10-23T17:08:41.745Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T17:08:41.745Z"
 }
