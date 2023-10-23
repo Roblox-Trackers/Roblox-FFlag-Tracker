@@ -8352,6 +8352,7 @@
   "DFFlagLongAvatarAssetTelemetry_Rollout": "True;60;2023-10-23T16:46:52",
   "FFlagEnablePlayerViewApi2": "False",
   "FFlagEnablePlayerViewApi2_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875",
+  "DFIntLongAvatarAssetTelemetryMinimumMilliseconds_Rollout": "50;60;2023-10-23T16:50:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8616,8 +8617,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
-  "FStringFlagRepoGitHashFastString": "91c0b926b62350c7a4ca7971d9bc330411a16805",
-  "DFStringFlagRepoGitHashDynamicString": "91c0b926b62350c7a4ca7971d9bc330411a16805",
-  "FStringFlipTimeStampFastString": "2023-10-23T16:49:37.139Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T16:49:37.139Z"
+  "FStringFlagRepoGitHashFastString": "8838c47e54ef37bbfcb76b2f183f2311fa33096d",
+  "DFStringFlagRepoGitHashDynamicString": "8838c47e54ef37bbfcb76b2f183f2311fa33096d",
+  "FStringFlipTimeStampFastString": "2023-10-23T16:51:24.263Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T16:51:24.263Z"
 }
