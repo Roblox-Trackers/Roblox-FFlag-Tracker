@@ -8378,6 +8378,8 @@
   "DFIntCallsBetweenUnreliablePing": "4",
   "DFFlagDoVIPTeleport": "True",
   "FFlagShorthandPropertiesUpdate": "True",
+  "FFlagFixCrashOnForceUpgrade_Rollout": "True;60;2023-10-23T20:18:37",
+  "DFFlagQueueDataPingFromSendData2_Rollout": "True;60;2023-10-23T20:20:25",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8642,8 +8644,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryWindowsClient",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
-  "FStringFlagRepoGitHashFastString": "f953eac467bf9b90ca086e2091fdab51eab68ce3",
-  "DFStringFlagRepoGitHashDynamicString": "f953eac467bf9b90ca086e2091fdab51eab68ce3",
-  "FStringFlipTimeStampFastString": "2023-10-23T20:20:17.020Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T20:20:17.020Z"
+  "FStringFlagRepoGitHashFastString": "5d6d9e40a58ad30246ae00da77a942524b4140ce",
+  "DFStringFlagRepoGitHashDynamicString": "5d6d9e40a58ad30246ae00da77a942524b4140ce",
+  "FStringFlipTimeStampFastString": "2023-10-23T20:21:21.189Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T20:21:21.189Z"
 }
