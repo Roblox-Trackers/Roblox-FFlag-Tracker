@@ -8367,7 +8367,8 @@
   "DFIntCallsBetweenUnreliablePing_Rollout": "4;60;2023-10-23T18:29:51",
   "FFlagFixOutdoorIbl": "True",
   "FFlagAvatarPreviewerDedupeInsertion": "True",
-  "FFlagDescendantsAreRecursivelyInteractable2_Rollout": "True;1;2023-10-23T18:32:09",
+  "FFlagDescendantsAreRecursivelyInteractable2": "True",
+  "FFlagIrisGyroEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8706,8 +8707,8 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryiOS",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
-  "FStringFlagRepoGitHashFastString": "47e296efac4e30015b37294cf40794e4dc0958a5",
-  "DFStringFlagRepoGitHashDynamicString": "47e296efac4e30015b37294cf40794e4dc0958a5",
-  "FStringFlipTimeStampFastString": "2023-10-23T18:32:54.545Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T18:32:54.545Z"
+  "FStringFlagRepoGitHashFastString": "a579b13110bd94658107316705ff525c9f81fb7c",
+  "DFStringFlagRepoGitHashDynamicString": "a579b13110bd94658107316705ff525c9f81fb7c",
+  "FStringFlipTimeStampFastString": "2023-10-23T18:36:45.802Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T18:36:45.802Z"
 }
