@@ -8379,11 +8379,11 @@
   "FFlagShorthandPropertiesUpdate": "True",
   "FFlagFixCrashOnForceUpgrade_Rollout": "True;60;2023-10-23T20:18:37",
   "DFFlagQueueDataPingFromSendData2_Rollout": "True;60;2023-10-23T20:20:25",
-  "DFFlagOptimizeAutosaveInterval2_Rollout": "True;10;2023-10-23T20:23:56",
   "FFlagAXAutocompleteUseCDN": "True",
   "FFlagSettingsHubButtonCanBeDisabled": "True",
   "FFlagDevConsoleUseThrottledMetrics": "True",
   "DFFlagOptimizeAutosaveIntervalRolloutEnabled_Rollout": "True;10;2023-10-23T20:34:57",
+  "DFFlagOptimizeAutosaveInterval2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8722,8 +8722,9 @@
   "FStringUserProfilesRequestFailAfterRetry": "UserProfilesRequestFailAfterRetryiOS",
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
-  "FStringFlagRepoGitHashFastString": "bdf37e8f7ed544b25724984e3e519da966da65d9",
-  "DFStringFlagRepoGitHashDynamicString": "bdf37e8f7ed544b25724984e3e519da966da65d9",
-  "FStringFlipTimeStampFastString": "2023-10-23T20:35:27.974Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T20:35:27.974Z"
+  "FFlagEnableSeamlessForceOTAUpdate2_Rollout": "True;60;2023-10-23T20:36:01",
+  "FStringFlagRepoGitHashFastString": "0228795b3ee0539ad4c356ed3e77e8459298ed44",
+  "DFStringFlagRepoGitHashDynamicString": "0228795b3ee0539ad4c356ed3e77e8459298ed44",
+  "FStringFlipTimeStampFastString": "2023-10-23T20:37:11.496Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T20:37:11.496Z"
 }
