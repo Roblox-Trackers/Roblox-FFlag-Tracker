@@ -8368,7 +8368,6 @@
   "FFlagAvatarPreviewerDedupeInsertion": "True",
   "FFlagDescendantsAreRecursivelyInteractable2": "True",
   "FFlagIrisGyroEnabled": "True",
-  "DFFlagVIPTeleportLocalPlayerCheck_Rollout": "True;30;2023-10-23T18:42:23",
   "DFFlagVIPTeleportGJCatchall_Rollout": "True;30;2023-10-23T18:43:07",
   "DFFlagVIPTeleportGameJoin2_Rollout": "True;30;2023-10-23T18:43:30",
   "DFFlagTeleportVIPPlayerPassThrough2_Rollout": "True;30;2023-10-23T18:44:05",
@@ -8376,6 +8375,7 @@
   "FFlagShorthandPropertiesUpdate_Rollout": "True;60;2023-10-23T18:54:16",
   "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;60;2023-10-23T19:05:01",
   "FFlagFixKeyboardOffsetInExperience": "True",
+  "DFFlagVIPTeleportLocalPlayerCheck": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8641,8 +8641,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "6edb0af92b0c4203c4e0d38e7486e3235abfa72b",
-  "DFStringFlagRepoGitHashDynamicString": "6edb0af92b0c4203c4e0d38e7486e3235abfa72b",
-  "FStringFlipTimeStampFastString": "2023-10-23T19:10:32.591Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T19:10:32.591Z"
+  "FStringFlagRepoGitHashFastString": "46ba4cc7485ab021f7047eb0211ff7df548d1521",
+  "DFStringFlagRepoGitHashDynamicString": "46ba4cc7485ab021f7047eb0211ff7df548d1521",
+  "FStringFlipTimeStampFastString": "2023-10-23T19:16:10.531Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T19:16:10.531Z"
 }
