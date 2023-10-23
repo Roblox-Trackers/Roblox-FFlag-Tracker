@@ -8387,7 +8387,6 @@
   "DFIntFlagRolloutVariantDistributionRatio": "80",
   "FFlagApolloClientUserProfileReadPolicy": "True",
   "FFlagFixPlayersLoadingState": "True",
-  "FFlagFaceAnimatorIncludeDisableToastEventPrompt_Rollout": "False;60;2023-10-23T22:28:10",
   "FFlagPSWorldCharacters": "True",
   "FFlagOpenXrFixHandPoseValid": "True",
   "FFlagEnableDuaMissedCalls": "True",
@@ -8395,6 +8394,7 @@
   "FFlagDecodeToastPayload": "True",
   "FIntAssetImportMaxPresetNameLength": "50",
   "FFlagRemoveEnvMapLightgridCPUDependency_Rollout": "True;60;2023-10-23T23:06:04",
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2023-10-23T23:13:20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8658,8 +8658,8 @@
   "FFlagExperienceDetailsTextUseTokens": "True",
   "FFlagFixGamepadDisconnectHighlight2": "True",
   "FFlagLuaAppEnable10ftPrivacyLink": "True",
-  "FStringFlagRepoGitHashFastString": "3909c31c2bbf48e23a5ca796c04bb7bf45d790a5",
-  "DFStringFlagRepoGitHashDynamicString": "3909c31c2bbf48e23a5ca796c04bb7bf45d790a5",
-  "FStringFlipTimeStampFastString": "2023-10-23T23:06:35.931Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-23T23:06:35.931Z"
+  "FStringFlagRepoGitHashFastString": "68c1994a52c176aa0e3195290f7f325c5ab2bcbe",
+  "DFStringFlagRepoGitHashDynamicString": "68c1994a52c176aa0e3195290f7f325c5ab2bcbe",
+  "FStringFlipTimeStampFastString": "2023-10-23T23:13:53.329Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-23T23:13:53.329Z"
 }
