@@ -8396,7 +8396,6 @@
   "FFlagVoiceChatStreamingGrpcEnablePotentialRaceConditionFix2": "True",
   "FFlagVoiceChatGrpcSubscribeToRoomEvent": "False",
   "FFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;12123120785;9096881148;13772394625;12699642568;2788229376;735030788;142823291;2711375305;3808081382;2626227051;703124385;3317679266",
-  "FFlagLuauAutocompleteDoEnd_Rollout": "True;60;2023-10-24T19:43:39",
   "DFFlagPreventMaxOverWrite_Rollout": "True;60;2023-10-24T19:52:49",
   "FFlagToolboxInventoryFilterUsesRoact17": "True",
   "FFlagStudioFeatureActivityTracker_Rollout": "True;60;2023-10-24T20:00:50",
@@ -8409,6 +8408,7 @@
   "FFlagFixLoginErrorSizing": "True",
   "DFFlagUseUniqueReaders_Rollout": "True;60;2023-10-24T20:44:08",
   "DFIntWiringApiReportingHundredthsPercent_Rollout": "1000;60;2023-10-24T20:46:11",
+  "FFlagLuauAutocompleteDoEnd": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8672,8 +8672,8 @@
   "FFlagExperienceDetailsTextUseTokens": "True",
   "FFlagFixGamepadDisconnectHighlight2": "True",
   "FFlagLuaAppEnable10ftPrivacyLink": "True",
-  "FStringFlagRepoGitHashFastString": "ccb8f14f8e7d9cb6015eb073a41b034d37f2dff7",
-  "DFStringFlagRepoGitHashDynamicString": "ccb8f14f8e7d9cb6015eb073a41b034d37f2dff7",
-  "FStringFlipTimeStampFastString": "2023-10-24T20:46:44.612Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-24T20:46:44.612Z"
+  "FStringFlagRepoGitHashFastString": "bd96b63ecccc8169f2be885771dbc3e6388c3bbc",
+  "DFStringFlagRepoGitHashDynamicString": "bd96b63ecccc8169f2be885771dbc3e6388c3bbc",
+  "FStringFlipTimeStampFastString": "2023-10-24T20:51:45.822Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-24T20:51:45.822Z"
 }
