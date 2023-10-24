@@ -8393,6 +8393,7 @@
   "FFlagEnableIrisDua": "True",
   "FFlagDecodeToastPayload": "True",
   "FIntAssetImportMaxPresetNameLength": "50",
+  "DFIntCallsBetweenUnreliablePing_Rollout": "1;20;2023-10-24T16:08:12",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8582,8 +8583,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "64faecfb996cc00cd5c49672f916233540b5fe7b",
-  "DFStringFlagRepoGitHashDynamicString": "64faecfb996cc00cd5c49672f916233540b5fe7b",
-  "FStringFlipTimeStampFastString": "2023-10-24T16:05:54.022Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-24T16:05:54.022Z"
+  "FStringFlagRepoGitHashFastString": "73aa20b3c7888e88b4176fde1f1984aac0b064b5",
+  "DFStringFlagRepoGitHashDynamicString": "73aa20b3c7888e88b4176fde1f1984aac0b064b5",
+  "FStringFlipTimeStampFastString": "2023-10-24T16:10:22.017Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-24T16:10:22.017Z"
 }
