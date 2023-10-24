@@ -8397,6 +8397,7 @@
   "FFlagVoiceChatStreamingGrpcEnablePotentialRaceConditionFix2": "True",
   "FFlagVoiceChatGrpcSubscribeToRoomEvent": "True",
   "FFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;12123120785;9096881148;13772394625;12699642568;2788229376",
+  "DFIntWiringApiReportingHundredthsPercent_Rollout": "1000;60;2023-10-24T19:15:32",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8586,8 +8587,8 @@
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FStringFlagRepoGitHashFastString": "adb77afca2c180b30d6bc06f17fa70056e476a17",
-  "DFStringFlagRepoGitHashDynamicString": "adb77afca2c180b30d6bc06f17fa70056e476a17",
-  "FStringFlipTimeStampFastString": "2023-10-24T19:14:26.703Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-24T19:14:26.703Z"
+  "FStringFlagRepoGitHashFastString": "f91e5013fa7c6e4529160ed1e827e585b17bd119",
+  "DFStringFlagRepoGitHashDynamicString": "f91e5013fa7c6e4529160ed1e827e585b17bd119",
+  "FStringFlipTimeStampFastString": "2023-10-24T19:16:37.530Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-24T19:16:37.530Z"
 }
