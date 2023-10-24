@@ -8394,6 +8394,9 @@
   "FFlagDecodeToastPayload": "True",
   "FIntAssetImportMaxPresetNameLength": "50",
   "FFlagLuauInitializeStringMetatableInGlobalTypes": "True",
+  "FFlagVoiceChatStreamingGrpcEnablePotentialRaceConditionFix2": "True",
+  "FFlagVoiceChatGrpcSubscribeToRoomEvent": "False",
+  "FFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;12123120785;9096881148;13772394625",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8659,8 +8662,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "16a0504f137a169e7225cf054ffb274bf8757a0a",
-  "DFStringFlagRepoGitHashDynamicString": "16a0504f137a169e7225cf054ffb274bf8757a0a",
-  "FStringFlipTimeStampFastString": "2023-10-24T18:35:10.466Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-24T18:35:10.466Z"
+  "FStringFlagRepoGitHashFastString": "1df784cbe71c2bfed5d211fdb6fde4dac52a11b5",
+  "DFStringFlagRepoGitHashDynamicString": "1df784cbe71c2bfed5d211fdb6fde4dac52a11b5",
+  "FStringFlipTimeStampFastString": "2023-10-24T18:36:36.141Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-24T18:36:36.141Z"
 }
