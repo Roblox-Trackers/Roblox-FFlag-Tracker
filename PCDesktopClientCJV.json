@@ -8392,7 +8392,7 @@
   "FIntAssetImportMaxPresetNameLength": "50",
   "FFlagLuauInitializeStringMetatableInGlobalTypes": "True",
   "FFlagVoiceChatStreamingGrpcEnablePotentialRaceConditionFix2": "True",
-  "FFlagVoiceChatGrpcSubscribeToRoomEvent": "False",
+  "FFlagVoiceChatGrpcSubscribeToRoomEvent": "True",
   "FFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;12123120785;9096881148;13772394625;12699642568;2788229376;735030788;142823291;2711375305;3808081382;2626227051;703124385;3317679266",
   "FFlagToolboxInventoryFilterUsesRoact17": "True",
   "DFIntClientLightingEnvmapPlacementTelemetryHundredthsPercent": "100",
@@ -8413,6 +8413,7 @@
   "DFFlagUseUniqueReaders": "True",
   "FFlagLuauFixIndexerSubtypingOrdering_Rollout": "True;60;2023-10-24T21:53:05",
   "FFlagScriptEditorActivityTracking2_Rollout": "True;60;2023-10-24T22:05:00",
+  "FFlagLuauInstantiateInSubtyping_Rollout": "True;60;2023-10-24T22:10:02",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8678,8 +8679,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "ec250135e92a63f01c5fe12d9eb8c4171817bbad",
-  "DFStringFlagRepoGitHashDynamicString": "ec250135e92a63f01c5fe12d9eb8c4171817bbad",
-  "FStringFlipTimeStampFastString": "2023-10-24T22:05:44.282Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-24T22:05:44.282Z"
+  "FStringFlagRepoGitHashFastString": "1a0f03548091a898c6b676ff6640afdae0cb2583",
+  "DFStringFlagRepoGitHashDynamicString": "1a0f03548091a898c6b676ff6640afdae0cb2583",
+  "FStringFlipTimeStampFastString": "2023-10-24T22:10:25.734Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-24T22:10:25.734Z"
 }
