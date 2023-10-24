@@ -7665,7 +7665,6 @@
   "DFFlagGoogleAnalyticsUseEventIngest": "True",
   "FFlagExtendPropertyItemDelegate": "True",
   "FFlagProfileQRCodeRemove3DAvatarLogging": "True",
-  "FFlagFixCullingShadowObject": "True",
   "FFlagDoNotShrinkDegenerateHulls": "True",
   "FFlagFixShapeCastSupportPoint": "True",
   "FFlagLuaAppAddRetryHeader2": "True",
@@ -8403,6 +8402,8 @@
   "FFlagStudioFeatureActivityTracker_Rollout": "True;60;2023-10-24T20:00:50",
   "FFlagStudioFeatureActivityTrackerAllowEndNonExistentSession_Rollout": "True;60;2023-10-24T20:00:50",
   "FFlagStudioFeatureActivityTrackerFixCrashOnSleep_Rollout": "True;60;2023-10-24T20:00:50",
+  "DFIntClientLightingEnvmapPlacementTelemetryHundredthsPercent": "100",
+  "FFlagLightgridDependencyExperimentAnalytics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8742,8 +8743,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessiOS",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
-  "FStringFlagRepoGitHashFastString": "7b74ccbbe22e0a95d0ddacb418fc5ef02ad3c067",
-  "DFStringFlagRepoGitHashDynamicString": "7b74ccbbe22e0a95d0ddacb418fc5ef02ad3c067",
-  "FStringFlipTimeStampFastString": "2023-10-24T20:01:27.648Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-24T20:01:27.648Z"
+  "FStringFlagRepoGitHashFastString": "36f41538047af89acdecf65f622b00d8a535eba6",
+  "DFStringFlagRepoGitHashDynamicString": "36f41538047af89acdecf65f622b00d8a535eba6",
+  "FStringFlipTimeStampFastString": "2023-10-24T20:04:35.151Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-24T20:04:35.151Z"
 }
