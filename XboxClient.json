@@ -8373,7 +8373,7 @@
   "DFFlagVIPTeleportGJCatchall": "True",
   "DFFlagVIPTeleportGameJoin2": "True",
   "FFlagGameSettingsCameraModeFixEnabled_PlaceFilter": "True;12867047376;12867089300;14066075418;11402255591;12796376276;13989579574;11460402982;12500012844;14030887154",
-  "DFIntCallsBetweenUnreliablePing": "2",
+  "DFIntCallsBetweenUnreliablePing": "1",
   "DFFlagDoVIPTeleport": "True",
   "FFlagShorthandPropertiesUpdate": "True",
   "FFlagAXAutocompleteUseCDN": "True",
@@ -8393,7 +8393,6 @@
   "FFlagEnableIrisDua": "True",
   "FFlagDecodeToastPayload": "True",
   "FIntAssetImportMaxPresetNameLength": "50",
-  "DFIntCallsBetweenUnreliablePing_Rollout": "1;20;2023-10-24T16:08:12",
   "FFlagLuauInitializeStringMetatableInGlobalTypes_Rollout": "True;60;2023-10-24T16:14:24",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -8658,8 +8657,8 @@
   "FFlagExperienceDetailsTextUseTokens": "True",
   "FFlagFixGamepadDisconnectHighlight2": "True",
   "FFlagLuaAppEnable10ftPrivacyLink": "True",
-  "FStringFlagRepoGitHashFastString": "38bb8ec5cd18062d734241058baea641365c0140",
-  "DFStringFlagRepoGitHashDynamicString": "38bb8ec5cd18062d734241058baea641365c0140",
-  "FStringFlipTimeStampFastString": "2023-10-24T16:15:02.360Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-24T16:15:02.360Z"
+  "FStringFlagRepoGitHashFastString": "31aa5a98ca50c93946bd05bd68235b71f4dddc89",
+  "DFStringFlagRepoGitHashDynamicString": "31aa5a98ca50c93946bd05bd68235b71f4dddc89",
+  "FStringFlipTimeStampFastString": "2023-10-24T16:37:12.616Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-24T16:37:12.616Z"
 }
