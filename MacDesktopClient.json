@@ -7880,7 +7880,7 @@
   "FFlagBootcampCLI85206": "True",
   "FFlagCOLLAB4103FixAutoReconnectRetryCountReporting": "True",
   "FFlagCOLLAB4434FixSlicingInExceptionHandler": "True",
-  "DFIntVoiceChatInitialGrpcWithoutHbTimeoutMs": "10000",
+  "DFIntVoiceChatInitialGrpcWithoutHbTimeoutMs": "1000000000",
   "FFlagScreenshotsPreventPrivateServerInvites": "True",
   "FFlagCLI37642": "True",
   "FFlagFixKeepOutAreasCompatibility": "True",
@@ -8689,8 +8689,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
-  "FStringFlagRepoGitHashFastString": "1e5d09547dc925ea81bb6155db37b3d9480474b9",
-  "DFStringFlagRepoGitHashDynamicString": "1e5d09547dc925ea81bb6155db37b3d9480474b9",
-  "FStringFlipTimeStampFastString": "2023-10-25T20:57:18.299Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-25T20:57:18.299Z"
+  "FStringFlagRepoGitHashFastString": "64cef9616b2df3fcd177c8bf669225eb823998f5",
+  "DFStringFlagRepoGitHashDynamicString": "64cef9616b2df3fcd177c8bf669225eb823998f5",
+  "FStringFlipTimeStampFastString": "2023-10-25T21:04:26.849Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-25T21:04:26.849Z"
 }
