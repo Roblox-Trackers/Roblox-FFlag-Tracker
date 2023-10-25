@@ -7523,7 +7523,7 @@
   "FFlagTextureReloadFix3": "True",
   "DFFlagVisualizeNonAnchoredParts": "True",
   "FFlagCOLLAB3440UniverseSearchEndpointMigrationRollout2": "True",
-  "FFlagScriptEditorActivityTracking2": "False",
+  "FFlagScriptEditorActivityTracking2": "True",
   "DFFlagTEMPFixHairOrder": "True",
   "DFFlagTEMPFixHairOrderProperty": "True",
   "DFFlagMemoryStoreUpdateAsyncRetryUseExpBackoff_PlaceFilter": "False;8789237466",
@@ -8414,8 +8414,7 @@
   "FFlagOpenCloudCoreScriptLuaEnabled": "False",
   "FFlagOpenCloudCoreScriptLuaEnabled_PlaceFilter": "True;15107017654",
   "FFlagProfileRemoveQRCodeExperimentGating": "True",
-  "FFlagScriptEditorActivityTracking2_Rollout": "True;60;2023-10-25T17:08:50",
-  "DFIntPlayStationIAPTelemetryThrottleHundredthsPercent_Rollout": "10000;60;2023-10-25T17:13:49",
+  "DFIntPlayStationIAPTelemetryThrottleHundredthsPercent": "10000",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8682,8 +8681,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
-  "FStringFlagRepoGitHashFastString": "0dc6e513000a5f4711086c5c3486a4f4512aada3",
-  "DFStringFlagRepoGitHashDynamicString": "0dc6e513000a5f4711086c5c3486a4f4512aada3",
-  "FStringFlipTimeStampFastString": "2023-10-25T18:15:17.687Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-25T18:15:17.687Z"
+  "FStringFlagRepoGitHashFastString": "16972a5fb02ef06808a72afd0201fb233b7801a1",
+  "DFStringFlagRepoGitHashDynamicString": "16972a5fb02ef06808a72afd0201fb233b7801a1",
+  "FStringFlipTimeStampFastString": "2023-10-25T18:22:14.828Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-25T18:22:14.828Z"
 }
