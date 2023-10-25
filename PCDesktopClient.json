@@ -8416,6 +8416,7 @@
   "FFlagOpenCloudCoreScriptLuaEnabled_PlaceFilter": "True;15107017654",
   "FFlagProfileRemoveQRCodeExperimentGating": "True",
   "FFlagScriptEditorActivityTracking2_Rollout": "True;60;2023-10-25T17:08:50",
+  "DFIntPlayStationIAPTelemetryThrottleHundredthsPercent_Rollout": "10000;60;2023-10-25T17:13:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8681,8 +8682,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessWindowsClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
-  "FStringFlagRepoGitHashFastString": "c8fbe1a9d7ce900310b9ba019bb6e9f5e5aa6cb8",
-  "DFStringFlagRepoGitHashDynamicString": "c8fbe1a9d7ce900310b9ba019bb6e9f5e5aa6cb8",
-  "FStringFlipTimeStampFastString": "2023-10-25T17:15:30.850Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-25T17:15:30.850Z"
+  "FStringFlagRepoGitHashFastString": "1d8a28243cd15ba8fa2cb9f93af4cd80b40a9b30",
+  "DFStringFlagRepoGitHashDynamicString": "1d8a28243cd15ba8fa2cb9f93af4cd80b40a9b30",
+  "FStringFlipTimeStampFastString": "2023-10-25T17:15:47.964Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-25T17:15:47.964Z"
 }
