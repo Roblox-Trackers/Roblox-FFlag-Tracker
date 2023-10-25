@@ -8447,6 +8447,9 @@
   "FFlagLuauCompileFixContinueValidation2": "True",
   "FFlagLuaAppFixImpressionsTagUpdate": "True",
   "FFlagToolboxFixDefaultTabForCreations": "True",
+  "FFlagToolboxFixAudioExperimentRaceCondition": "True",
+  "FFlagToolboxImproveJestOutputSpam": "True",
+  "FFlagToolboxFixIXPLayerJoining": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8761,8 +8764,8 @@
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagNativeProductFallbackToPlatformService": "True",
-  "FStringFlagRepoGitHashFastString": "e26c72aee7ecc6051294dfc49399eda8bd3cad85",
-  "DFStringFlagRepoGitHashDynamicString": "e26c72aee7ecc6051294dfc49399eda8bd3cad85",
-  "FStringFlipTimeStampFastString": "2023-10-25T22:53:16.469Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-25T22:53:16.469Z"
+  "FStringFlagRepoGitHashFastString": "62baa6dedd2a63c5d0fd77aac9d5247785df37e0",
+  "DFStringFlagRepoGitHashDynamicString": "62baa6dedd2a63c5d0fd77aac9d5247785df37e0",
+  "FStringFlipTimeStampFastString": "2023-10-25T22:57:48.191Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-25T22:57:48.191Z"
 }
