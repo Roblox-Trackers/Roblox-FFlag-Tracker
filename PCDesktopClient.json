@@ -7880,7 +7880,7 @@
   "FFlagBootcampCLI85206": "True",
   "FFlagCOLLAB4103FixAutoReconnectRetryCountReporting": "True",
   "FFlagCOLLAB4434FixSlicingInExceptionHandler": "True",
-  "DFIntVoiceChatInitialGrpcWithoutHbTimeoutMs": "1000000000",
+  "DFIntVoiceChatInitialGrpcWithoutHbTimeoutMs": "10000",
   "FFlagScreenshotsPreventPrivateServerInvites": "True",
   "FFlagCLI37642": "True",
   "FFlagFixKeepOutAreasCompatibility": "True",
@@ -8455,6 +8455,9 @@
   "DFFlagStreamingDistanceUpdateTheMeasuredValueWhenUpdatingTunableValue2_Rollout": "True;60;2023-10-25T23:03:15",
   "DFFlagEnableProfilingForDefaultAsyncFlush_Rollout": "True;30;2023-10-25T23:06:04",
   "FFlagStudioInstanceProxyNoMutex": "True",
+  "FFlagStudioOutputLoginTelemetry": "True",
+  "FFlagSurfaceAppStoreCountryCodeToEngine2_PlaceFilter": "True;10974671112",
+  "FFlagLuaAppFixOmniFeedReorder": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8722,8 +8725,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
-  "FStringFlagRepoGitHashFastString": "d569b63ce21f47dbde95a2ed854fa472d3fb9511",
-  "DFStringFlagRepoGitHashDynamicString": "d569b63ce21f47dbde95a2ed854fa472d3fb9511",
-  "FStringFlipTimeStampFastString": "2023-10-25T23:09:02.869Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-25T23:09:02.869Z"
+  "FStringFlagRepoGitHashFastString": "a312edc48cb27c0885be15f25c18db564a6ec7af",
+  "DFStringFlagRepoGitHashDynamicString": "a312edc48cb27c0885be15f25c18db564a6ec7af",
+  "FStringFlipTimeStampFastString": "2023-10-25T23:09:53.582Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-25T23:09:53.582Z"
 }
