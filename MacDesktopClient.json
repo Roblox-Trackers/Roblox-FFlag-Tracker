@@ -8000,7 +8000,7 @@
   "FFlagToolboxTrackCurrentSubcategory2": "True",
   "DFFlagFixBoneTransformChangedCrash": "True",
   "DFFlagPreserveCollisionGroupNameForUnion": "True",
-  "FFlagTouchEventSupportStreamingEnabledAnalytics1": "False",
+  "FFlagTouchEventSupportStreamingEnabledAnalytics1": "True",
   "FFlagNewCameraControls_SmoothCursorDelta": "True",
   "FFlagToolboxAudioDiscoveryUXImprovements2": "True",
   "DFFlagCheckHeadsForInactiveControls": "False",
@@ -8452,6 +8452,7 @@
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagUseExperienceService": "True",
+  "FFlagGpuGeometryManager10": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8710,8 +8711,8 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessMacClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
-  "FStringFlagRepoGitHashFastString": "7e9a7956d90a25470526a91e5ee7a4d8fd774d73",
-  "DFStringFlagRepoGitHashDynamicString": "7e9a7956d90a25470526a91e5ee7a4d8fd774d73",
-  "FStringFlipTimeStampFastString": "2023-10-25T23:41:37.043Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-25T23:41:37.043Z"
+  "FStringFlagRepoGitHashFastString": "0846518230cd856ccdaca23853fe08261304ffc9",
+  "DFStringFlagRepoGitHashDynamicString": "0846518230cd856ccdaca23853fe08261304ffc9",
+  "FStringFlipTimeStampFastString": "2023-10-25T23:44:26.921Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-25T23:44:26.921Z"
 }
