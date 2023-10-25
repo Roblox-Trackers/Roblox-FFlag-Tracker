@@ -8425,6 +8425,13 @@
   "FFlagDraggerImprovementsCallout": "True",
   "FFlagLiveScriptingGuideHint": "True",
   "FFlagScriptEditorLiveEditingEnableRollout": "True",
+  "DFFlagCheckAdviceContextValid": "True",
+  "DFFlagIncludeAndroidAdviceAPIFreeOsMemForComparisonForSessionTracking3": "True",
+  "DFFlagIncludeExpandedAndroidAdviceStatsPerfData2": "True",
+  "DFFlagMemoryAdviceReorderAPICheck": "True",
+  "DFFlagUseAndroidMemoryAdviceLibrary6": "True",
+  "FFlagLSPServiceScriptOpenTelemetry": "True",
+  "FFlagDevConsoleLogTextLabelSizingFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8691,8 +8698,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
-  "FStringFlagRepoGitHashFastString": "82fb499215e8051089252a23092759d41d25437a",
-  "DFStringFlagRepoGitHashDynamicString": "82fb499215e8051089252a23092759d41d25437a",
-  "FStringFlipTimeStampFastString": "2023-10-25T22:21:30.379Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-25T22:21:30.379Z"
+  "FStringFlagRepoGitHashFastString": "398498c95dadf942c4c108b064cf8b723850594b",
+  "DFStringFlagRepoGitHashDynamicString": "398498c95dadf942c4c108b064cf8b723850594b",
+  "FStringFlipTimeStampFastString": "2023-10-25T22:22:22.770Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-25T22:22:22.770Z"
 }
