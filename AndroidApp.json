@@ -8415,7 +8415,7 @@
   "FFlagOpenCloudCoreScriptLuaEnabled_PlaceFilter": "True;15107017654",
   "FFlagProfileRemoveQRCodeExperimentGating": "True",
   "DFIntPlayStationIAPTelemetryThrottleHundredthsPercent": "10000",
-  "FLogExplorerEnhanced": "6",
+  "FLogExplorerEnhanced": "Verbose",
   "DFFlagCheckMaxCageDistance": "True",
   "DFIntMaxCageDistance": "10000",
   "FFlagEnableUIBloxLogger": "True",
@@ -8458,6 +8458,7 @@
   "FFlagStudioOutputLoginTelemetry": "True",
   "FFlagSurfaceAppStoreCountryCodeToEngine2_PlaceFilter": "True;10974671112",
   "FFlagLuaAppFixOmniFeedReorder": "True",
+  "FFlagEnableSubscriptionsSettingsPage_PlaceFilter": "True;10974671112",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8840,8 +8841,8 @@
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
   "DFFlagRealtimeClientDeduplicateNotifications": "True",
-  "FStringFlagRepoGitHashFastString": "6ae10419e6a6ced7ec28c5b6650cc4f692029bdd",
-  "DFStringFlagRepoGitHashDynamicString": "6ae10419e6a6ced7ec28c5b6650cc4f692029bdd",
-  "FStringFlipTimeStampFastString": "2023-10-25T23:11:06.898Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-25T23:11:06.898Z"
+  "FStringFlagRepoGitHashFastString": "047fce762cc9c0afb7d4eac45d9787cb3751092e",
+  "DFStringFlagRepoGitHashDynamicString": "047fce762cc9c0afb7d4eac45d9787cb3751092e",
+  "FStringFlipTimeStampFastString": "2023-10-25T23:13:35.752Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-25T23:13:35.752Z"
 }
