@@ -8422,6 +8422,7 @@
   "FFlagEnableUIBloxLogger": "True",
   "DFFlagStudioVideoUploadAssetsUploadApiCompat": "True",
   "FFlagUserProfilesLogCancelledRequests": "True",
+  "FFlagVoiceChatDisableBreakOutOfGrpcLoopOnTimeout": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8762,8 +8763,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
-  "FStringFlagRepoGitHashFastString": "40dd175c3514b9ae66a1b233576a9499c25dad9f",
-  "DFStringFlagRepoGitHashDynamicString": "40dd175c3514b9ae66a1b233576a9499c25dad9f",
-  "FStringFlipTimeStampFastString": "2023-10-25T20:45:57.745Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-25T20:45:57.745Z"
+  "FStringFlagRepoGitHashFastString": "5f962970a032a88a8449b33b79f37656f05cc907",
+  "DFStringFlagRepoGitHashDynamicString": "5f962970a032a88a8449b33b79f37656f05cc907",
+  "FStringFlipTimeStampFastString": "2023-10-25T20:55:32.304Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-25T20:55:32.304Z"
 }
