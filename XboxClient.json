@@ -8448,9 +8448,7 @@
   "DFFlagFixFloatCurveEmptyKeys": "True",
   "DFFlagSimActivateNewAlignTypes2": "True",
   "DFFlagSimAdaptivePreContactReorder2": "True",
-  "FFlagStudioDontCreateV1InstalledPluginDir_Rollout": "True;60;2023-10-26T16:23:02",
   "FFlagLuaAppFixOmniFeedReorder": "True",
-  "FFlagSTUDIOPLAT_32304_HangReportedOnShutdown_Rollout": "True;60;2023-10-26T16:25:01",
   "DFFlagEngineAPICloudProcessingServiceMasterSwitch": "False",
   "DFFlagEngineAPICloudProcessingServiceMasterSwitch_PlaceFilter": "True;15022282565",
   "FFlagLuaAppFixFeedItemButtonChange": "True",
@@ -8477,6 +8475,8 @@
   "FLogLifecycleManager": "Info",
   "FFlagMacStartBootstrapperOnFirstInstall_Rollout": "True;60;2023-10-26T17:28:13",
   "FFlagSimCSG3TelemetryConstraints_Rollout": "True;60;2023-10-26T17:31:12",
+  "FFlagSTUDIOPLAT_32304_HangReportedOnShutdown": "True",
+  "FFlagStudioDontCreateV1InstalledPluginDir": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8791,8 +8791,8 @@
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagNativeProductFallbackToPlatformService": "True",
-  "FStringFlagRepoGitHashFastString": "b444d432d20bb77279b84d92c5bffd6aeca22e00",
-  "DFStringFlagRepoGitHashDynamicString": "b444d432d20bb77279b84d92c5bffd6aeca22e00",
-  "FStringFlipTimeStampFastString": "2023-10-26T17:32:00.705Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T17:32:00.705Z"
+  "FStringFlagRepoGitHashFastString": "70c3323539a27250551825fc8cd6e8b263b081b4",
+  "DFStringFlagRepoGitHashDynamicString": "70c3323539a27250551825fc8cd6e8b263b081b4",
+  "FStringFlipTimeStampFastString": "2023-10-26T17:33:15.321Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T17:33:15.321Z"
 }
