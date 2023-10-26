@@ -8497,7 +8497,6 @@
   "FFlagUGCValidationValidateTransparencyServer": "False",
   "FFlagUGCValidationValidateTransparencyClient": "True",
   "DFIntImmersiveAdVideoVolumeToggledEventThrottleHundrethsPercent": "10000",
-  "FFlagStudioActionConversionGroup7_Rollout": "True;60;2023-10-26T19:49:38",
   "DFFlagEnabledRealtimeClientAnalyticsPipeline_Rollout": "True;60;2023-10-26T20:01:30",
   "FFlagStudioTasksAsyncConfiguration": "True",
   "DFIntPerfDataOnHiveLocalThrottleHundredthPercent": "10000",
@@ -8520,6 +8519,7 @@
   "FFlagFixResettingNonStickyMetrics_Rollout": "True;30;2023-10-26T20:51:48",
   "DFFlagRealtimeClientDeduplicateNotifications": "True",
   "DFFlagCliUseEngineContext_Rollout": "True;60;2023-10-26T20:56:24",
+  "FFlagStudioActionConversionGroup7": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8834,8 +8834,8 @@
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagNativeProductFallbackToPlatformService": "True",
-  "FStringFlagRepoGitHashFastString": "ed249e07d2cf1e31c0479a27fd283f5db007b96e",
-  "DFStringFlagRepoGitHashDynamicString": "ed249e07d2cf1e31c0479a27fd283f5db007b96e",
-  "FStringFlipTimeStampFastString": "2023-10-26T20:57:23.459Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T20:57:23.459Z"
+  "FStringFlagRepoGitHashFastString": "470e512b729a67263e6b7ad5d2faa8300202d61a",
+  "DFStringFlagRepoGitHashDynamicString": "470e512b729a67263e6b7ad5d2faa8300202d61a",
+  "FStringFlipTimeStampFastString": "2023-10-26T20:58:32.670Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T20:58:32.670Z"
 }
