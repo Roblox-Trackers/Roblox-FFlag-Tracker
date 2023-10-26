@@ -8303,7 +8303,7 @@
   "DFIntReportControllerManagerPercent": "1000",
   "DFFlagPolicyServiceGIEndpointsDisabled2": "False",
   "DFFlagPolicyServiceMigrationEndpointsEnabled2": "True",
-  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "5",
+  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "10",
   "FFlagUXForCameraPerformanceEnabled": "True",
   "FFlagUXForCameraPerformanceIXPEnabled": "True",
   "FStringUXForCameraPerformanceIXPLayerName": "AvatarChat.CameraPerfToast",
@@ -8537,6 +8537,7 @@
   "FFlagRemoveOpenApiParseArray": "True",
   "FFlagUseBuildTimeGeneratedDiscoveryApi": "True",
   "RemoveUserThemeSignalRReceiver": "True",
+  "FFlagRecordStartPageSort": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8805,8 +8806,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "e2548147b0bae59fdf964d71a9426cc132125c0c",
-  "DFStringFlagRepoGitHashDynamicString": "e2548147b0bae59fdf964d71a9426cc132125c0c",
-  "FStringFlipTimeStampFastString": "2023-10-26T22:11:01.360Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:11:01.360Z"
+  "FStringFlagRepoGitHashFastString": "2d7428d902f0929e92711fb28a0b0fb14283c1be",
+  "DFStringFlagRepoGitHashDynamicString": "2d7428d902f0929e92711fb28a0b0fb14283c1be",
+  "FStringFlipTimeStampFastString": "2023-10-26T22:13:35.955Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:13:35.955Z"
 }
