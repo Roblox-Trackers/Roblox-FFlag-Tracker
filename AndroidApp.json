@@ -8534,6 +8534,7 @@
   "FFlagLuaAppHomeJoinYourFriendsLogging3": "True",
   "FIntSessionTransitionFSMHundredthsPercent_Rollout": "200;30;2023-10-26T21:55:24",
   "DFFlagCliUseEngineContext": "True",
+  "DFFlagReportPostJoinSetsStats_Rollout": "True;60;2023-10-26T22:04:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8915,8 +8916,8 @@
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
-  "FStringFlagRepoGitHashFastString": "af322a4d3039316956ffaddafaf7b63b768213ff",
-  "DFStringFlagRepoGitHashDynamicString": "af322a4d3039316956ffaddafaf7b63b768213ff",
-  "FStringFlipTimeStampFastString": "2023-10-26T22:03:53.925Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:03:53.925Z"
+  "FStringFlagRepoGitHashFastString": "dc9fb65df593aa0e5db635b5b67d9b2862b2eb4a",
+  "DFStringFlagRepoGitHashDynamicString": "dc9fb65df593aa0e5db635b5b67d9b2862b2eb4a",
+  "FStringFlipTimeStampFastString": "2023-10-26T22:05:02.810Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:05:02.810Z"
 }
