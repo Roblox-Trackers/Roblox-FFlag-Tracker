@@ -8451,6 +8451,9 @@
   "FFlagStudioDontCreateV1InstalledPluginDir_Rollout": "True;60;2023-10-26T16:23:02",
   "FFlagLuaAppFixOmniFeedReorder": "True",
   "FFlagSTUDIOPLAT_32304_HangReportedOnShutdown_Rollout": "True;60;2023-10-26T16:25:01",
+  "DFFlagEngineAPICloudProcessingServiceMasterSwitch": "False",
+  "DFFlagEngineAPICloudProcessingServiceMasterSwitch_PlaceFilter": "True;15022282565",
+  "FFlagLuaAppFixFeedItemButtonChange": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8719,8 +8722,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "6a60a7ebefe86e8035fb57ea42812ea4f7744db1",
-  "DFStringFlagRepoGitHashDynamicString": "6a60a7ebefe86e8035fb57ea42812ea4f7744db1",
-  "FStringFlipTimeStampFastString": "2023-10-26T16:26:30.878Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T16:26:30.878Z"
+  "FStringFlagRepoGitHashFastString": "e017799ed052c1a179456ccc0e71bfa98b32e76e",
+  "DFStringFlagRepoGitHashDynamicString": "e017799ed052c1a179456ccc0e71bfa98b32e76e",
+  "FStringFlipTimeStampFastString": "2023-10-26T16:30:42.140Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T16:30:42.140Z"
 }
