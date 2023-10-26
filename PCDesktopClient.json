@@ -8529,7 +8529,6 @@
   "FFlagLuauFloorDivision_Rollout": "True;60;2023-10-26T21:51:47",
   "DFIntPerfDataOnHiveGlobalThrottleHundredthsPercent": "20",
   "FFlagLuaAppHomeJoinYourFriendsLogging3": "True",
-  "FIntSessionTransitionFSMHundredthsPercent_Rollout": "200;30;2023-10-26T21:55:24",
   "DFFlagCliUseEngineContext": "True",
   "DFFlagReportPostJoinSetsStats_Rollout": "True;60;2023-10-26T22:04:00",
   "FFlagRemoveOpenApiParseArray": "True",
@@ -8541,6 +8540,7 @@
   "FFlagStartPageContextMenuDisableArchive": "True",
   "FFlagStudioIgnoreOnboardingTemplates": "True",
   "FFlagSocialSquareTileStyleProps2": "True",
+  "FIntSessionTransitionFSMHundredthsPercent": "200",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8809,8 +8809,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "974ac50587176eccaa3174d41a55889277978acd",
-  "DFStringFlagRepoGitHashDynamicString": "974ac50587176eccaa3174d41a55889277978acd",
-  "FStringFlipTimeStampFastString": "2023-10-26T22:30:43.986Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:30:43.986Z"
+  "FStringFlagRepoGitHashFastString": "452d48b51d9fecd1d59351a3b75cce4cb1477c11",
+  "DFStringFlagRepoGitHashDynamicString": "452d48b51d9fecd1d59351a3b75cce4cb1477c11",
+  "FStringFlipTimeStampFastString": "2023-10-26T22:33:04.686Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:33:04.686Z"
 }
