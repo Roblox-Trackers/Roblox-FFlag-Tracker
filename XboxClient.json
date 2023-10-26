@@ -8503,7 +8503,6 @@
   "FFlagScriptSideWidgetSetTopMargin_Rollout": "True;60;2023-10-26T20:12:28",
   "DFFlagPerformanceControlEnableUtilityCurveCallback_Rollout": "True;60;2023-10-26T20:14:05",
   "FFlagEnableSecondaryMetricsLocking_Rollout": "True;60;2023-10-26T20:14:11",
-  "FFlagFastPhysicsMeshLoad2_Rollout": "True;30;2023-10-26T20:26:11",
   "FFlagUpgradeExpChatV4_2_5": "True",
   "DFFlagStreamingPreMinimumStats_Rollout": "True;60;2023-10-26T20:27:12",
   "DFIntPostJoinSetsStatsHundredths_Rollout": "100;60;2023-10-26T20:27:36",
@@ -8522,6 +8521,7 @@
   "FFlagStudioActionConversionGroup7": "True",
   "FFlagRemoveOpenApiParseArray_Rollout": "True;60;2023-10-26T20:59:54",
   "FFlagUseBuildTimeGeneratedDiscoveryApi_Rollout": "True;60;2023-10-26T20:59:54",
+  "FFlagFastPhysicsMeshLoad2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8836,8 +8836,8 @@
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagNativeProductFallbackToPlatformService": "True",
-  "FStringFlagRepoGitHashFastString": "916255ae6f2a752f8f046563049278b759d422a7",
-  "DFStringFlagRepoGitHashDynamicString": "916255ae6f2a752f8f046563049278b759d422a7",
-  "FStringFlipTimeStampFastString": "2023-10-26T21:00:58.703Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:00:58.703Z"
+  "FStringFlagRepoGitHashFastString": "6cc9a77329f4822ef438147eea6af72cb13db24d",
+  "DFStringFlagRepoGitHashDynamicString": "6cc9a77329f4822ef438147eea6af72cb13db24d",
+  "FStringFlipTimeStampFastString": "2023-10-26T21:03:31.695Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:03:31.695Z"
 }
