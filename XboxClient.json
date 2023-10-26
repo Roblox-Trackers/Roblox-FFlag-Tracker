@@ -8478,6 +8478,7 @@
   "FFlagVoiceChatSendInitialBatchEmpty": "True",
   "FIntMmapForMemProfStorageThrottle": "5000",
   "DFFlagEnableReducePortalValidate2": "True",
+  "DFIntAppConfigurationTelemetryThrottleHundredthsPercent_Rollout": "1000;60;2023-10-26T18:00:34",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8792,8 +8793,8 @@
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagNativeProductFallbackToPlatformService": "True",
-  "FStringFlagRepoGitHashFastString": "f60d4f967bf4a73cecf818b2d9af4f082c8eeaaa",
-  "DFStringFlagRepoGitHashDynamicString": "f60d4f967bf4a73cecf818b2d9af4f082c8eeaaa",
-  "FStringFlipTimeStampFastString": "2023-10-26T17:57:41.191Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T17:57:41.191Z"
+  "FStringFlagRepoGitHashFastString": "c7bcca9b5e01cf95050da7a90ed50fa7efce6930",
+  "DFStringFlagRepoGitHashDynamicString": "c7bcca9b5e01cf95050da7a90ed50fa7efce6930",
+  "FStringFlipTimeStampFastString": "2023-10-26T18:01:51.844Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T18:01:51.844Z"
 }
