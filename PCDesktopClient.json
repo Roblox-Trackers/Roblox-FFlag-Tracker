@@ -8461,8 +8461,6 @@
   "FLogLifecycleManager": "Info",
   "FFlagSTUDIOPLAT_32304_HangReportedOnShutdown": "True",
   "FFlagStudioDontCreateV1InstalledPluginDir": "True",
-  "DFFlagCoalesceTouchEventEnableDeserializer_Rollout": "True;60;2023-10-26T17:34:52",
-  "FFlagViewportFrameSnapshot_Rollout": "True;60;2023-10-26T17:37:19",
   "DFFlagEnableProfilingForDefaultAsyncFlush": "True",
   "FFlagVoiceChatFixUiRaceWithJoinByGroupIdToken": "True",
   "FFlagVoiceChatSendInitialBatchEmpty": "True",
@@ -8492,6 +8490,8 @@
   "FFlagSimCSG3TelemetryConstraints": "True",
   "FFlagMacStartBootstrapperOnFirstInstall": "True",
   "DFIntImmersiveAdVideoVolumeToggledEventThrottleHundrethsPercent_Rollout": "10000;60;2023-10-26T18:40:10",
+  "FFlagViewportFrameSnapshot": "True",
+  "DFFlagCoalesceTouchEventEnableDeserializer": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8760,8 +8760,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "2db77fb89294036ad4c8af30fe63118baadb5c93",
-  "DFStringFlagRepoGitHashDynamicString": "2db77fb89294036ad4c8af30fe63118baadb5c93",
-  "FStringFlipTimeStampFastString": "2023-10-26T18:43:47.557Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T18:43:47.557Z"
+  "FStringFlagRepoGitHashFastString": "435916aac6bd750b12ce262321e2edc1d81382cb",
+  "DFStringFlagRepoGitHashDynamicString": "435916aac6bd750b12ce262321e2edc1d81382cb",
+  "FStringFlipTimeStampFastString": "2023-10-26T18:44:07.164Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T18:44:07.164Z"
 }
