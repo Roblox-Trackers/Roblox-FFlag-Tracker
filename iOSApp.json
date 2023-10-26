@@ -8484,6 +8484,10 @@
   "FFlagScriptEditorStandardIcons": "True",
   "DFFlagPerfDataOnHiveUseSeparateThrottle": "True",
   "FIntLuaAppBatchedGameThumbnailFetchRollout": "25",
+  "FFlagEnableMmapForMemProfStorageFlushing_Rollout": "True;30;2023-10-26T18:31:43",
+  "FFlagPlaceManagerClosePlace3": "True",
+  "FFlagSTUDIOPLAT32368FixCloseStudioPlaceSessionScopeCrash": "True",
+  "FFlagStudioActionConversionGroup5a_Rollout": "True;60;2023-10-26T18:33:55",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8824,8 +8828,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
-  "FStringFlagRepoGitHashFastString": "cd4fa28c47958c47a1c0ef76034de8dc1dc40123",
-  "DFStringFlagRepoGitHashDynamicString": "cd4fa28c47958c47a1c0ef76034de8dc1dc40123",
-  "FStringFlipTimeStampFastString": "2023-10-26T18:34:43.699Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T18:34:43.699Z"
+  "FStringFlagRepoGitHashFastString": "f2da833cc05fcf6fdd9e8503859d643a1b5e6962",
+  "DFStringFlagRepoGitHashDynamicString": "f2da833cc05fcf6fdd9e8503859d643a1b5e6962",
+  "FStringFlipTimeStampFastString": "2023-10-26T18:36:31.255Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T18:36:31.255Z"
 }
