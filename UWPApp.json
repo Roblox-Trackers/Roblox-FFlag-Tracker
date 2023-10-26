@@ -8533,7 +8533,6 @@
   "FIntSessionTransitionFSMHundredthsPercent_Rollout": "200;30;2023-10-26T21:55:24",
   "DFFlagCliUseEngineContext": "True",
   "DFFlagReportPostJoinSetsStats_Rollout": "True;60;2023-10-26T22:04:00",
-  "FFlagFixAdjacentMask_Rollout": "True;60;2023-10-26T22:05:26",
   "FFlagRemoveOpenApiParseArray": "True",
   "FFlagUseBuildTimeGeneratedDiscoveryApi": "True",
   "FFlagRecordStartPageSort": "True",
@@ -8729,8 +8728,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "45f25777444f2184b0d49b2f259add816c53ab51",
-  "DFStringFlagRepoGitHashDynamicString": "45f25777444f2184b0d49b2f259add816c53ab51",
-  "FStringFlipTimeStampFastString": "2023-10-26T22:15:57.748Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:15:57.748Z"
+  "FStringFlagRepoGitHashFastString": "aacd306ccef17ba60f2eaa798d362dba10e18837",
+  "DFStringFlagRepoGitHashDynamicString": "aacd306ccef17ba60f2eaa798d362dba10e18837",
+  "FStringFlipTimeStampFastString": "2023-10-26T22:20:38.313Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:20:38.313Z"
 }
