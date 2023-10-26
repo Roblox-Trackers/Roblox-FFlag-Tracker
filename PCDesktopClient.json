@@ -8506,8 +8506,6 @@
   "DFFlagInferredCrashDoubleTickFlushFix": "True",
   "DFFlagRealtimeClientDeduplicateNotifications": "True",
   "FFlagStudioActionConversionGroup7": "True",
-  "FFlagRemoveOpenApiParseArray_Rollout": "True;60;2023-10-26T20:59:54",
-  "FFlagUseBuildTimeGeneratedDiscoveryApi_Rollout": "True;60;2023-10-26T20:59:54",
   "FFlagFastPhysicsMeshLoad2": "True",
   "DFFlagEnabledRealtimeClientAnalyticsPipeline": "True",
   "FFlagToolboxRedirectToGenericReportPage": "True",
@@ -8536,6 +8534,8 @@
   "DFFlagCliUseEngineContext": "True",
   "DFFlagReportPostJoinSetsStats_Rollout": "True;60;2023-10-26T22:04:00",
   "FFlagFixAdjacentMask_Rollout": "True;60;2023-10-26T22:05:26",
+  "FFlagRemoveOpenApiParseArray": "True",
+  "FFlagUseBuildTimeGeneratedDiscoveryApi": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8804,8 +8804,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "4a3c3b7ae67558348ac73785bde03e75bec68565",
-  "DFStringFlagRepoGitHashDynamicString": "4a3c3b7ae67558348ac73785bde03e75bec68565",
-  "FStringFlipTimeStampFastString": "2023-10-26T22:06:12.558Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:06:12.558Z"
+  "FStringFlagRepoGitHashFastString": "d1ef4eca63053c0208aef0294b055d1ac38a3b92",
+  "DFStringFlagRepoGitHashDynamicString": "d1ef4eca63053c0208aef0294b055d1ac38a3b92",
+  "FStringFlipTimeStampFastString": "2023-10-26T22:08:37.441Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:08:37.441Z"
 }
