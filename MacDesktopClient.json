@@ -8446,7 +8446,7 @@
   "FFlagVoiceChatStreamingGrpcDisableCallFinish": "True",
   "FFlagShrinkReportMenuForVisibility": "True",
   "DFFlagFixFloatCurveEmptyKeys": "True",
-  "DFFlagSimActivateNewAlignTypes2": "True",
+  "DFFlagSimActivateNewAlignTypes2": "False",
   "DFFlagSimAdaptivePreContactReorder2": "True",
   "FFlagLuaAppFixOmniFeedReorder": "True",
   "DFFlagEngineAPICloudProcessingServiceMasterSwitch": "False",
@@ -8494,6 +8494,7 @@
   "FFlagEnableMmapForMemProfStorageFlushing": "True",
   "DFFlagUpdateCollisionDataInKernelCleanUp": "True",
   "FFlagSupportAuxiliaryGuiRender": "True",
+  "DFFlagSimAdaptivePreContactReorder2_Rollout": "False;60;2023-10-26T19:14:20",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8762,8 +8763,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "3080f8d961d6eeaaaf7eeae5620824df8beaf28f",
-  "DFStringFlagRepoGitHashDynamicString": "3080f8d961d6eeaaaf7eeae5620824df8beaf28f",
-  "FStringFlipTimeStampFastString": "2023-10-26T19:12:52.671Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T19:12:52.671Z"
+  "FStringFlagRepoGitHashFastString": "c75b826dd001b67f085b5ecb024d5453e4ae1262",
+  "DFStringFlagRepoGitHashDynamicString": "c75b826dd001b67f085b5ecb024d5453e4ae1262",
+  "FStringFlipTimeStampFastString": "2023-10-26T19:15:18.135Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T19:15:18.135Z"
 }
