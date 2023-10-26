@@ -8515,6 +8515,8 @@
   "DFIntPostJoinSetsStatsHundredths_Rollout": "100;60;2023-10-26T20:27:36",
   "DFFlagSimAdaptivePreContactReorder2_Rollout": "True;60;2023-10-26T20:27:43",
   "FFlagSTUDIOPLAT31379MultiAccountCookies3_Rollout": "True;60;2023-10-26T20:30:14",
+  "FFlagToolboxFilterMeshPartsInBundleUpload": "True",
+  "FFlagMacUseUpdateController2_Rollout": "True;60;2023-10-26T20:36:33",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -8896,8 +8898,8 @@
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
   "DFFlagRealtimeClientDeduplicateNotifications": "True",
-  "FStringFlagRepoGitHashFastString": "cdc04e47bc063d70d5323ce4d96b4bc6d433b758",
-  "DFStringFlagRepoGitHashDynamicString": "cdc04e47bc063d70d5323ce4d96b4bc6d433b758",
-  "FStringFlipTimeStampFastString": "2023-10-26T20:37:09.199Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T20:37:09.199Z"
+  "FStringFlagRepoGitHashFastString": "1f2a2e93d5d8208632564335dc9df153edf85b00",
+  "DFStringFlagRepoGitHashDynamicString": "1f2a2e93d5d8208632564335dc9df153edf85b00",
+  "FStringFlipTimeStampFastString": "2023-10-26T20:38:35.104Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T20:38:35.104Z"
 }
