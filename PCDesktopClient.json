@@ -7509,7 +7509,6 @@
   "FFlagGameSettingsAddFloatEqualityCheck": "True",
   "DFFlagEnablePerformanceControlSoundCache3": "True",
   "FFlagEnableCondenseRobuxUpsell": "True",
-  "FFlagExplorerWidgetRootInstance": "True",
   "FFlagDragDetectorDragStyleAndResponseStyleChangesTriggerRestart": "True",
   "FFlagBootcampCLI84555": "True",
   "FFlagInsetForGuiLayerCollectorMaxSize2": "True",
@@ -8510,6 +8509,8 @@
   "DFFlagRealtimeClientDeduplicateNotifications_Rollout": "True;30;2023-10-26T20:13:36",
   "DFFlagPerformanceControlEnableUtilityCurveCallback_Rollout": "True;60;2023-10-26T20:14:05",
   "FFlagEnableSecondaryMetricsLocking_Rollout": "True;60;2023-10-26T20:14:11",
+  "FFlagFastPhysicsMeshLoad2_Rollout": "True;30;2023-10-26T20:26:11",
+  "FFlagUpgradeExpChatV4_2_5": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8778,8 +8779,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "241348c9a9e2a927d9ee760bf37cac12fc0bcab6",
-  "DFStringFlagRepoGitHashDynamicString": "241348c9a9e2a927d9ee760bf37cac12fc0bcab6",
-  "FStringFlipTimeStampFastString": "2023-10-26T20:24:25.219Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T20:24:25.219Z"
+  "FStringFlagRepoGitHashFastString": "6d028431d3e28a1c11767ab55b94558f57e038bf",
+  "DFStringFlagRepoGitHashDynamicString": "6d028431d3e28a1c11767ab55b94558f57e038bf",
+  "FStringFlipTimeStampFastString": "2023-10-26T20:28:01.342Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T20:28:01.342Z"
 }
