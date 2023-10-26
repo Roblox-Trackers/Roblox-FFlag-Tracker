@@ -8456,8 +8456,6 @@
   "DFFlagDataModelCookieCLI84135": "True",
   "DFFlagTouchEventSupportStreamingEnabledAnalyticsEarlyOut": "True",
   "FFlagLuaAppFixGamesListRootPage": "True",
-  "FFlagScriptEditorStandardIcons_Rollout": "True;60;2023-10-26T17:19:08",
-  "DFFlagPerfDataOnHiveUseSeparateThrottle_Rollout": "True;60;2023-10-26T17:20:44",
   "FFlagStudioInstanceProxyNoMutex": "True",
   "FFlagEnableSoundSessionTelemetry5": "True",
   "FLogLifecycleManager": "Info",
@@ -8482,6 +8480,9 @@
   "DFFlagGameUsesAtomicShutdown": "True",
   "FFlagStudioDoNotBakeDraftsIntoServerRbxl": "True",
   "FFlagStudioActionConversionGroup4": "True",
+  "DFFlagAdsFixInfinityAngle_Rollout": "True;60;2023-10-26T18:27:47",
+  "FFlagScriptEditorStandardIcons": "True",
+  "DFFlagPerfDataOnHiveUseSeparateThrottle": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8672,8 +8673,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "d9d9683834519745aeab3c8f386b4ae71a045462",
-  "DFStringFlagRepoGitHashDynamicString": "d9d9683834519745aeab3c8f386b4ae71a045462",
-  "FStringFlipTimeStampFastString": "2023-10-26T18:23:46.652Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T18:23:46.652Z"
+  "FStringFlagRepoGitHashFastString": "733a93bbee652f39e6797deebbe663ffe342280c",
+  "DFStringFlagRepoGitHashDynamicString": "733a93bbee652f39e6797deebbe663ffe342280c",
+  "FStringFlipTimeStampFastString": "2023-10-26T18:29:48.984Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T18:29:48.984Z"
 }
