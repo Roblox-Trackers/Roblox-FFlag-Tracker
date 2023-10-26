@@ -8553,6 +8553,7 @@
   "FFlagUIListLayoutUseHorizontalVerticalPaddingAsSourceOfTruth": "True",
   "FFlagLuaAppHomeJoinYourFriendsAlwaysWithFindFriends": "True",
   "CleanupHttpAgentOnRestart": "True",
+  "FIntSessionTrackingStorageFlushPeriodSec_Rollout": "5;30;2023-10-26T23:33:38",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8867,8 +8868,8 @@
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagNativeProductFallbackToPlatformService": "True",
-  "FStringFlagRepoGitHashFastString": "f8dab45b0c2c90f3dad0410ad4a6532e51b48507",
-  "DFStringFlagRepoGitHashDynamicString": "f8dab45b0c2c90f3dad0410ad4a6532e51b48507",
-  "FStringFlipTimeStampFastString": "2023-10-26T23:22:09.766Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T23:22:09.766Z"
+  "FStringFlagRepoGitHashFastString": "c2d16fa400d505d56ca650d974a5542baaa307b9",
+  "DFStringFlagRepoGitHashDynamicString": "c2d16fa400d505d56ca650d974a5542baaa307b9",
+  "FStringFlipTimeStampFastString": "2023-10-26T23:34:31.306Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T23:34:31.306Z"
 }
