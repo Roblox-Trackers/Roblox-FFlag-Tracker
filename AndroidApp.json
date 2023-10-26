@@ -8453,8 +8453,6 @@
   "DFFlagEngineAPICloudProcessingServiceMasterSwitch_PlaceFilter": "True;15022282565;15161459171",
   "FFlagLuaAppFixFeedItemButtonChange": "True",
   "FFlagSurfaceAppStoreCountryCodeToEngine2_PlaceFilter": "True;10974671112",
-  "FFlagDragDetectorIsEnabledForPlayerChecksIsEnabled_Rollout": "True;60;2023-10-26T17:02:19",
-  "FFlagViewBaseNullCheck_Rollout": "True;60;2023-10-26T17:02:31",
   "DFFlagDataModelCookieCLI84135": "True",
   "DFFlagTouchEventSupportStreamingEnabledAnalyticsEarlyOut": "True",
   "FFlagLuaAppFixGamesListRootPage": "True",
@@ -8480,8 +8478,10 @@
   "DFIntAppConfigurationTelemetryThrottleHundredthsPercent_Rollout": "1000;60;2023-10-26T18:00:34",
   "FFlagStudioOnboardingTutorialEligibility": "True",
   "DFFlagUpdateCollisionDataInKernelCleanUp_Rollout": "True;60;2023-10-26T18:02:10",
-  "DFFlagEnable64BitsMessage_Rollout": "True;5;2023-10-26T18:04:37",
   "FFlagSupportAuxiliaryGuiRender_Rollout": "True;60;2023-10-26T18:06:47",
+  "FFlagViewBaseNullCheck": "True",
+  "DFFlagEnable64BitsMessage": "True",
+  "FFlagDragDetectorIsEnabledForPlayerChecksIsEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8864,8 +8864,8 @@
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
   "DFFlagRealtimeClientDeduplicateNotifications": "True",
-  "FStringFlagRepoGitHashFastString": "8d8f82b39fb55494674c90c3ddf04375f1d04d15",
-  "DFStringFlagRepoGitHashDynamicString": "8d8f82b39fb55494674c90c3ddf04375f1d04d15",
-  "FStringFlipTimeStampFastString": "2023-10-26T18:11:23.404Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T18:11:23.404Z"
+  "FStringFlagRepoGitHashFastString": "029cc495d50f90ad8cf9cd3aedb930832ff62a96",
+  "DFStringFlagRepoGitHashDynamicString": "029cc495d50f90ad8cf9cd3aedb930832ff62a96",
+  "FStringFlipTimeStampFastString": "2023-10-26T18:13:41.898Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T18:13:41.898Z"
 }
