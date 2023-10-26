@@ -8459,7 +8459,6 @@
   "FFlagViewBaseNullCheck_Rollout": "True;60;2023-10-26T17:02:31",
   "DFFlagDataModelCookieCLI84135": "True",
   "DFFlagTouchEventSupportStreamingEnabledAnalyticsEarlyOut": "True",
-  "FFlagVoiceChatSendInitialBatchEmpty_Rollout": "True;30;2023-10-26T17:09:12",
   "FFlagLuaAppFixGamesListRootPage": "True",
   "FFlagStudioDoNotBakeDraftsIntoServerRbxl_Rollout": "True;60;2023-10-26T17:14:07",
   "DFFlagGameUsesAtomicShutdown_Rollout": "True;60;2023-10-26T17:14:16",
@@ -8478,6 +8477,7 @@
   "FFlagViewportFrameSnapshot_Rollout": "True;60;2023-10-26T17:37:19",
   "DFFlagEnableProfilingForDefaultAsyncFlush": "True",
   "FFlagVoiceChatFixUiRaceWithJoinByGroupIdToken": "True",
+  "FFlagVoiceChatSendInitialBatchEmpty": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8746,8 +8746,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "8da857dfbcf83c10040d42fccc3ba02fdf939455",
-  "DFStringFlagRepoGitHashDynamicString": "8da857dfbcf83c10040d42fccc3ba02fdf939455",
-  "FStringFlipTimeStampFastString": "2023-10-26T17:44:31.383Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T17:44:31.383Z"
+  "FStringFlagRepoGitHashFastString": "41ab1049f520d1f5ac599334de87fb093e2ffa5f",
+  "DFStringFlagRepoGitHashDynamicString": "41ab1049f520d1f5ac599334de87fb093e2ffa5f",
+  "FStringFlipTimeStampFastString": "2023-10-26T17:47:52.959Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T17:47:52.959Z"
 }
