@@ -8499,8 +8499,6 @@
   "DFIntImmersiveAdVideoVolumeToggledEventThrottleHundrethsPercent": "10000",
   "FFlagStudioTasksAsyncConfiguration": "True",
   "DFIntPerfDataOnHiveLocalThrottleHundredthPercent": "10000",
-  "DFFlagPerformanceControlEnableUtilityCurveCallback_Rollout": "True;60;2023-10-26T20:14:05",
-  "FFlagEnableSecondaryMetricsLocking_Rollout": "True;60;2023-10-26T20:14:11",
   "FFlagUpgradeExpChatV4_2_5": "True",
   "DFFlagStreamingPreMinimumStats_Rollout": "True;60;2023-10-26T20:27:12",
   "DFIntPostJoinSetsStatsHundredths_Rollout": "100;60;2023-10-26T20:27:36",
@@ -8524,6 +8522,8 @@
   "FFlagToolboxRedirectToGenericReportPage": "True",
   "DFFlagRemoveLingeringPPRMemory_Rollout": "True;60;2023-10-26T21:15:47",
   "FFlagScriptSideWidgetSetTopMargin": "True",
+  "DFFlagPerformanceControlEnableUtilityCurveCallback": "True",
+  "FFlagEnableSecondaryMetricsLocking": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8793,8 +8793,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagRenderEnableGlobalInstancingMetal_Rollout": "True;60;2023-10-26T20:39:02",
-  "FStringFlagRepoGitHashFastString": "9ba93502ea8b3a8910cbb4f9f699ddc14304b6a6",
-  "DFStringFlagRepoGitHashDynamicString": "9ba93502ea8b3a8910cbb4f9f699ddc14304b6a6",
-  "FStringFlipTimeStampFastString": "2023-10-26T21:18:12.606Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:18:12.606Z"
+  "FStringFlagRepoGitHashFastString": "2a096bb9d8095bba51f54f6523bcedb5384d837a",
+  "DFStringFlagRepoGitHashDynamicString": "2a096bb9d8095bba51f54f6523bcedb5384d837a",
+  "FStringFlipTimeStampFastString": "2023-10-26T21:23:20.259Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:23:20.259Z"
 }
