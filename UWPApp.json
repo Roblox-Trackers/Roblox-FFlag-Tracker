@@ -8503,7 +8503,6 @@
   "FFlagToolboxFilterMeshPartsInBundleUpload": "True",
   "DFFlagSingularAssetRequestReportAccessoryOrPartName2": "True",
   "FFlagDisableSkinningWorkspaceAnalytics": "True",
-  "DFIntPerfDataOnHiveGlobalThrottleHundredthsPercent_Rollout": "20;60;2023-10-26T20:43:38",
   "DFFlagInferredCrashDoubleTickFlushFix": "True",
   "DFFlagRealtimeClientDeduplicateNotifications": "True",
   "DFFlagCliUseEngineContext_Rollout": "True;60;2023-10-26T20:56:24",
@@ -8531,6 +8530,8 @@
   "FFlagMacUseUpdateController2": "True",
   "FFlagStudioActionConversionGroup8a": "True",
   "FFlagToolboxFixSwimlaneAssetImpressions": "True",
+  "FFlagLuauFloorDivision_Rollout": "True;60;2023-10-26T21:51:47",
+  "DFIntPerfDataOnHiveGlobalThrottleHundredthsPercent": "20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8721,8 +8722,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "9a686bb6ba350769c06a67eaf527032082de5bb4",
-  "DFStringFlagRepoGitHashDynamicString": "9a686bb6ba350769c06a67eaf527032082de5bb4",
-  "FStringFlipTimeStampFastString": "2023-10-26T21:51:40.026Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:51:40.026Z"
+  "FStringFlagRepoGitHashFastString": "0a7f76f90f8b234304e9a87a26695b231befe1a1",
+  "DFStringFlagRepoGitHashDynamicString": "0a7f76f90f8b234304e9a87a26695b231befe1a1",
+  "FStringFlipTimeStampFastString": "2023-10-26T21:53:05.364Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:53:05.364Z"
 }
