@@ -8465,6 +8465,7 @@
   "DFFlagEnableProfilingForDefaultAsyncFlush_Rollout": "True;30;2023-10-26T17:06:41",
   "FFlagVoiceChatFixUiRaceWithJoinByGroupIdToken_Rollout": "True;30;2023-10-26T17:08:04",
   "FFlagVoiceChatSendInitialBatchEmpty_Rollout": "True;30;2023-10-26T17:09:12",
+  "FFlagLuaAppFixGamesListRootPage": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8805,8 +8806,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
-  "FStringFlagRepoGitHashFastString": "10c3dc3f91ab41191c782e347f1680f0e6a7f910",
-  "DFStringFlagRepoGitHashDynamicString": "10c3dc3f91ab41191c782e347f1680f0e6a7f910",
-  "FStringFlipTimeStampFastString": "2023-10-26T17:10:12.843Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T17:10:12.843Z"
+  "FStringFlagRepoGitHashFastString": "8df77c849c481a8c0a0387b9d87c273df8a34d4e",
+  "DFStringFlagRepoGitHashDynamicString": "8df77c849c481a8c0a0387b9d87c273df8a34d4e",
+  "FStringFlipTimeStampFastString": "2023-10-26T17:12:55.134Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T17:12:55.134Z"
 }
