@@ -8545,6 +8545,8 @@
   "DFFlagFixKibanaAssertOnMapFields_Rollout": "True;30;2023-10-26T22:37:18",
   "FFlagUserSearchMoveImpressionsDetector": "True",
   "AndroidSoftwareCursorVisibleFix": "True",
+  "DFFlagDontUseCacheIfCapBitUnset_Rollout": "True;60;2023-10-26T22:49:01",
+  "FFlagStudioActionConversionGroup9_Rollout": "True;60;2023-10-26T22:49:43",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8926,8 +8928,8 @@
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
-  "FStringFlagRepoGitHashFastString": "c444bb6fc13151762b2c3f26c078e81691b3a28c",
-  "DFStringFlagRepoGitHashDynamicString": "c444bb6fc13151762b2c3f26c078e81691b3a28c",
-  "FStringFlipTimeStampFastString": "2023-10-26T22:49:06.403Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:49:06.403Z"
+  "FStringFlagRepoGitHashFastString": "aa3f3abd2799a3719c383713a56a1cd85195ef9e",
+  "DFStringFlagRepoGitHashDynamicString": "aa3f3abd2799a3719c383713a56a1cd85195ef9e",
+  "FStringFlipTimeStampFastString": "2023-10-26T22:50:31.377Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:50:31.377Z"
 }
