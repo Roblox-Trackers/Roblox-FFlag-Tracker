@@ -8446,8 +8446,10 @@
   "FFlagVoiceChatStreamingGrpcDisableCallFinish": "True",
   "FFlagShrinkReportMenuForVisibility": "True",
   "DFFlagFixFloatCurveEmptyKeys": "True",
-  "DFFlagSimAdaptivePreContactReorder2_Rollout": "True;1;2023-10-26T16:16:34",
-  "DFFlagSimActivateNewAlignTypes2_Rollout": "True;1;2023-10-26T16:16:38",
+  "DFFlagSimActivateNewAlignTypes2": "True",
+  "DFFlagSimAdaptivePreContactReorder2": "True",
+  "FFlagStudioDontCreateV1InstalledPluginDir_Rollout": "True;60;2023-10-26T16:23:02",
+  "FFlagLuaAppFixOmniFeedReorder": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8830,8 +8832,8 @@
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
   "DFFlagRealtimeClientDeduplicateNotifications": "True",
-  "FStringFlagRepoGitHashFastString": "71119be9a3623ee3ae246de92d9756ff4aa6cc02",
-  "DFStringFlagRepoGitHashDynamicString": "71119be9a3623ee3ae246de92d9756ff4aa6cc02",
-  "FStringFlipTimeStampFastString": "2023-10-26T16:22:37.159Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T16:22:37.159Z"
+  "FStringFlagRepoGitHashFastString": "ea71f0c815f426d9b202c225a4f04264577ddcc8",
+  "DFStringFlagRepoGitHashDynamicString": "ea71f0c815f426d9b202c225a4f04264577ddcc8",
+  "FStringFlipTimeStampFastString": "2023-10-26T16:24:58.774Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T16:24:58.774Z"
 }
