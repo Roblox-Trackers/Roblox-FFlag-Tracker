@@ -8500,7 +8500,6 @@
   "FFlagStudioTasksAsyncConfiguration": "True",
   "DFIntPerfDataOnHiveLocalThrottleHundredthPercent": "10000",
   "FFlagUpgradeExpChatV4_2_5": "True",
-  "FFlagSTUDIOPLAT31379MultiAccountCookies3_Rollout": "True;60;2023-10-26T20:30:14",
   "FFlagToolboxFilterMeshPartsInBundleUpload": "True",
   "FFlagMacUseUpdateController2_Rollout": "True;60;2023-10-26T20:36:33",
   "FFlagStudioActionConversionGroup8a_Rollout": "True;60;2023-10-26T20:38:16",
@@ -8529,6 +8528,7 @@
   "DFFlagStreamingPreMinimumStats": "True",
   "DFIntPostJoinSetsStatsHundredths": "100",
   "FFlagFindFriendsClickedEventEnabled": "True",
+  "FFlagSTUDIOPLAT31379MultiAccountCookies3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8843,8 +8843,8 @@
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "FFlagNativeProductFallbackToPlatformService": "True",
-  "FStringFlagRepoGitHashFastString": "a932dec5edd7707f6f66d46915eb9b5627237dbc",
-  "DFStringFlagRepoGitHashDynamicString": "a932dec5edd7707f6f66d46915eb9b5627237dbc",
-  "FStringFlipTimeStampFastString": "2023-10-26T21:35:43.883Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:35:43.883Z"
+  "FStringFlagRepoGitHashFastString": "401e869b2695d31f9c1352fdad84ca88f5969b0e",
+  "DFStringFlagRepoGitHashDynamicString": "401e869b2695d31f9c1352fdad84ca88f5969b0e",
+  "FStringFlipTimeStampFastString": "2023-10-26T21:38:14.837Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:38:14.837Z"
 }
