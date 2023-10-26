@@ -8525,7 +8525,6 @@
   "DFIntPerfDataOnHiveGlobalThrottleHundredthsPercent": "20",
   "FFlagLuaAppHomeJoinYourFriendsLogging3": "True",
   "DFFlagCliUseEngineContext": "True",
-  "DFFlagReportPostJoinSetsStats_Rollout": "True;60;2023-10-26T22:04:00",
   "FFlagRemoveOpenApiParseArray": "True",
   "FFlagUseBuildTimeGeneratedDiscoveryApi": "True",
   "FFlagRecordStartPageSort": "True",
@@ -8540,7 +8539,6 @@
   "FFlagLuaProfileStopCallingFriendRequests": "True",
   "FFlagStudioUseOauthV1UserInfo": "True",
   "DFFlagBoneSubmitTaskPerfFix": "True",
-  "DFFlagFixKibanaAssertOnMapFields_Rollout": "True;30;2023-10-26T22:37:18",
   "FFlagUserSearchMoveImpressionsDetector": "True",
   "AndroidSoftwareCursorVisibleFix": "True",
   "DFFlagDontUseCacheIfCapBitUnset_Rollout": "True;60;2023-10-26T22:49:01",
@@ -8548,6 +8546,8 @@
   "FFlagStudioUserScopedSignalR_Rollout": "True;60;2023-10-26T22:54:15",
   "FFlagLuauFloorDivision": "True",
   "FFlagACESortEventsTooltip": "True",
+  "DFFlagReportPostJoinSetsStats": "True",
+  "DFFlagFixKibanaAssertOnMapFields": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8816,8 +8816,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "7fa4b26aab1c1c72bcf1be46c699282f3196c651",
-  "DFStringFlagRepoGitHashDynamicString": "7fa4b26aab1c1c72bcf1be46c699282f3196c651",
-  "FStringFlipTimeStampFastString": "2023-10-26T23:12:39.404Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T23:12:39.404Z"
+  "FStringFlagRepoGitHashFastString": "61d12405e83eaa3673dcb6e75dd5c92ac45edf21",
+  "DFStringFlagRepoGitHashDynamicString": "61d12405e83eaa3673dcb6e75dd5c92ac45edf21",
+  "FStringFlipTimeStampFastString": "2023-10-26T23:13:51.327Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T23:13:51.327Z"
 }
