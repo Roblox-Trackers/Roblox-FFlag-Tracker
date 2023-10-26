@@ -8456,9 +8456,6 @@
   "DFFlagDataModelCookieCLI84135": "True",
   "DFFlagTouchEventSupportStreamingEnabledAnalyticsEarlyOut": "True",
   "FFlagLuaAppFixGamesListRootPage": "True",
-  "FFlagStudioDoNotBakeDraftsIntoServerRbxl_Rollout": "True;60;2023-10-26T17:14:07",
-  "DFFlagGameUsesAtomicShutdown_Rollout": "True;60;2023-10-26T17:14:16",
-  "FFlagStudioActionConversionGroup4_Rollout": "True;60;2023-10-26T17:16:00",
   "FFlagScriptEditorStandardIcons_Rollout": "True;60;2023-10-26T17:19:08",
   "DFFlagPerfDataOnHiveUseSeparateThrottle_Rollout": "True;60;2023-10-26T17:20:44",
   "FFlagStudioInstanceProxyNoMutex": "True",
@@ -8482,6 +8479,9 @@
   "FFlagViewBaseNullCheck": "True",
   "DFFlagEnable64BitsMessage": "True",
   "FFlagDragDetectorIsEnabledForPlayerChecksIsEnabled": "True",
+  "DFFlagGameUsesAtomicShutdown": "True",
+  "FFlagStudioDoNotBakeDraftsIntoServerRbxl": "True",
+  "FFlagStudioActionConversionGroup4": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8822,8 +8822,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
-  "FStringFlagRepoGitHashFastString": "f802e05a9c508f74eaec5c551281b0638fa625a2",
-  "DFStringFlagRepoGitHashDynamicString": "f802e05a9c508f74eaec5c551281b0638fa625a2",
-  "FStringFlipTimeStampFastString": "2023-10-26T18:17:56.459Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T18:17:56.459Z"
+  "FStringFlagRepoGitHashFastString": "d9d9683834519745aeab3c8f386b4ae71a045462",
+  "DFStringFlagRepoGitHashDynamicString": "d9d9683834519745aeab3c8f386b4ae71a045462",
+  "FStringFlipTimeStampFastString": "2023-10-26T18:23:46.652Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T18:23:46.652Z"
 }
