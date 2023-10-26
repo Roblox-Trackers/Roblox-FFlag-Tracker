@@ -2274,7 +2274,7 @@
   "FFlagCleanUpIsSubjectToDesktopPolicies": "True",
   "FStringLuaTopicsIXPLayer": "AvatarMarketplace.GuidedFeatures",
   "FFlagShowRatingsInAssetPreviewForAllPlugins": "True",
-  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView,PlayerApp.PhoneVerification.iOS,AvatarExperience.CameraButtonExposure,Social.DisplayNameSetting",
+  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView,PlayerApp.PhoneVerification.iOS,AvatarExperience.CameraButtonExposure,Social.DisplayNameSetting,Growth.Notifications.GameInviteMenu,Notification.Toast",
   "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent2": "1000",
   "DFIntStudioSyntaxHighlightingOnChangeAnalyticsThrottleHundredthsPercent2": "1000",
   "FFlagStudioLexMapChangeDocAnalytics2": "True",
@@ -8195,7 +8195,7 @@
   "FFlagCOLLAB4965AddNullCheck": "True",
   "FFlagTerrainGrassElongationFix1": "True",
   "FFlagEnableSubscriptionPromptScrollingFix": "True",
-  "FIntDiscoverabilityWordingChangeRollout": "90",
+  "FIntDiscoverabilityWordingChangeRollout": "0",
   "FFlagUserProfileBetterErrors": "True",
   "FFlagAvatarPreviewerFixPreviewerStylizerLoop": "True",
   "FFlagToolboxUseAssetPermissionsApiForCanManage": "True",
@@ -8712,8 +8712,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "ca1cbe2d98c6408f0ef121630315ddffa30085d8",
-  "DFStringFlagRepoGitHashDynamicString": "ca1cbe2d98c6408f0ef121630315ddffa30085d8",
-  "FStringFlipTimeStampFastString": "2023-10-26T21:08:26.305Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:08:26.305Z"
+  "FStringFlagRepoGitHashFastString": "62718aa07a0e095eb320162f99c9c434e25720d0",
+  "DFStringFlagRepoGitHashDynamicString": "62718aa07a0e095eb320162f99c9c434e25720d0",
+  "FStringFlipTimeStampFastString": "2023-10-26T21:08:47.560Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:08:47.560Z"
 }
