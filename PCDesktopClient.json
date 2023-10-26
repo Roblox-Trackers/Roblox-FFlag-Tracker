@@ -8500,8 +8500,6 @@
   "FFlagStudioTasksAsyncConfiguration": "True",
   "DFIntPerfDataOnHiveLocalThrottleHundredthPercent": "10000",
   "FFlagUpgradeExpChatV4_2_5": "True",
-  "DFFlagStreamingPreMinimumStats_Rollout": "True;60;2023-10-26T20:27:12",
-  "DFIntPostJoinSetsStatsHundredths_Rollout": "100;60;2023-10-26T20:27:36",
   "FFlagSTUDIOPLAT31379MultiAccountCookies3_Rollout": "True;60;2023-10-26T20:30:14",
   "FFlagToolboxFilterMeshPartsInBundleUpload": "True",
   "FFlagMacUseUpdateController2_Rollout": "True;60;2023-10-26T20:36:33",
@@ -8527,6 +8525,9 @@
   "DFFlagBoneSubmitTaskPerfFix_Rollout": "True;60;2023-10-26T21:28:34",
   "FIntSessionTrackingStorageFlushPeriodMs": "20000",
   "FFlagStudioUseOauthV1UserInfo_Rollout": "True;60;2023-10-26T21:31:56",
+  "FFlagInvokeCallbackWithLockedMessage": "True",
+  "DFFlagStreamingPreMinimumStats": "True",
+  "DFIntPostJoinSetsStatsHundredths": "100",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8795,8 +8796,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "c8a1425f9de1a69b3124d95991730ae96d9521c6",
-  "DFStringFlagRepoGitHashDynamicString": "c8a1425f9de1a69b3124d95991730ae96d9521c6",
-  "FStringFlipTimeStampFastString": "2023-10-26T21:33:25.085Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:33:25.085Z"
+  "FStringFlagRepoGitHashFastString": "7a87ce1c4dbd4b2b48570d5da695a871391898ea",
+  "DFStringFlagRepoGitHashDynamicString": "7a87ce1c4dbd4b2b48570d5da695a871391898ea",
+  "FStringFlipTimeStampFastString": "2023-10-26T21:33:43.805Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:33:43.805Z"
 }
