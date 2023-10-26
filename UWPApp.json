@@ -8525,6 +8525,7 @@
   "FFlagFixResettingNonStickyMetrics": "True",
   "FFlagGameSettingsRenameCollabEditToDrafts": "True",
   "DFFlagBoneSubmitTaskPerfFix_Rollout": "True;60;2023-10-26T21:28:34",
+  "FIntSessionTrackingStorageFlushPeriodMs": "20000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8715,8 +8716,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "6e0e34ff0f9de5c80a3eee5fd479a0bb1167db3c",
-  "DFStringFlagRepoGitHashDynamicString": "6e0e34ff0f9de5c80a3eee5fd479a0bb1167db3c",
-  "FStringFlipTimeStampFastString": "2023-10-26T21:29:44.722Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:29:44.722Z"
+  "FStringFlagRepoGitHashFastString": "7bb9f95d978232dce96ef78f58742d8b228be67f",
+  "DFStringFlagRepoGitHashDynamicString": "7bb9f95d978232dce96ef78f58742d8b228be67f",
+  "FStringFlipTimeStampFastString": "2023-10-26T21:30:48.249Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T21:30:48.249Z"
 }
