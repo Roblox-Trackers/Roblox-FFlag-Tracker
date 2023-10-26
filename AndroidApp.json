@@ -7600,7 +7600,7 @@
   "DFStringAutosaveIntervalOptInPlaceIds": "12252783835,14355111754",
   "FFlagUISelectionJumping3": "True",
   "DFFlagMaxPhysicsPacketCounter": "True",
-  "DFIntTelemetryProfilerHundredthsPercentage": "10",
+  "DFIntTelemetryProfilerHundredthsPercentage": "1",
   "DFFlagCLI82175": "True",
   "FFlagStudioRequireWaypointByDefault": "True",
   "FFlagStudioDebuggerDropdownMenuSelectionRerender": "True",
@@ -8021,7 +8021,6 @@
   "FFlagEnableVRComfortSettingsTelemetry": "True",
   "FFlagResizeWebViewViewCheck": "True",
   "FFlagVoiceMuteUnmuteAnalytics": "True",
-  "FFlagUserVRPlayerScriptsMisc": "False",
   "FFlagStudioDebuggerShowExceptionPopup2": "True",
   "FFlagAinStatusMove1": "True",
   "FFlagAinStatusMoveCageValidation": "True",
@@ -8547,6 +8546,7 @@
   "AndroidSoftwareCursorVisibleFix": "True",
   "DFFlagDontUseCacheIfCapBitUnset_Rollout": "True;60;2023-10-26T22:49:01",
   "FFlagStudioActionConversionGroup9_Rollout": "True;60;2023-10-26T22:49:43",
+  "FFlagExplorerWidgetRootInstance_Rollout": "True;60;2023-10-26T22:53:13",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8928,8 +8928,8 @@
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
-  "FStringFlagRepoGitHashFastString": "aa3f3abd2799a3719c383713a56a1cd85195ef9e",
-  "DFStringFlagRepoGitHashDynamicString": "aa3f3abd2799a3719c383713a56a1cd85195ef9e",
-  "FStringFlipTimeStampFastString": "2023-10-26T22:50:31.377Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:50:31.377Z"
+  "FStringFlagRepoGitHashFastString": "08260091b207dc6f81fa97572f76112bb08f0392",
+  "DFStringFlagRepoGitHashDynamicString": "08260091b207dc6f81fa97572f76112bb08f0392",
+  "FStringFlipTimeStampFastString": "2023-10-26T22:54:14.959Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:54:14.959Z"
 }
