@@ -8464,6 +8464,7 @@
   "DFFlagTouchEventSupportStreamingEnabledAnalyticsEarlyOut": "True",
   "DFFlagEnableProfilingForDefaultAsyncFlush_Rollout": "True;30;2023-10-26T17:06:41",
   "FFlagVoiceChatFixUiRaceWithJoinByGroupIdToken_Rollout": "True;30;2023-10-26T17:08:04",
+  "FFlagVoiceChatSendInitialBatchEmpty_Rollout": "True;30;2023-10-26T17:09:12",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8804,8 +8805,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
-  "FStringFlagRepoGitHashFastString": "bccc013eeecd82c8bda4058d8b73cc1ad95654a9",
-  "DFStringFlagRepoGitHashDynamicString": "bccc013eeecd82c8bda4058d8b73cc1ad95654a9",
-  "FStringFlipTimeStampFastString": "2023-10-26T17:09:18.410Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T17:09:18.410Z"
+  "FStringFlagRepoGitHashFastString": "10c3dc3f91ab41191c782e347f1680f0e6a7f910",
+  "DFStringFlagRepoGitHashDynamicString": "10c3dc3f91ab41191c782e347f1680f0e6a7f910",
+  "FStringFlipTimeStampFastString": "2023-10-26T17:10:12.843Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T17:10:12.843Z"
 }
