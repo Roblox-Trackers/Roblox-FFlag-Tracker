@@ -8509,6 +8509,8 @@
   "DFIntPerfDataOnHiveLocalThrottleHundredthPercent": "10000",
   "FFlagScriptSideWidgetSetTopMargin_Rollout": "True;60;2023-10-26T20:12:28",
   "AllowVideoPreRoll": "True",
+  "DFFlagPerformanceControlEnableUtilityCurveCallback_Rollout": "True;60;2023-10-26T20:14:05",
+  "FFlagEnableSecondaryMetricsLocking_Rollout": "True;60;2023-10-26T20:14:11",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -8890,8 +8892,8 @@
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
   "DFFlagRealtimeClientDeduplicateNotifications": "True",
-  "FStringFlagRepoGitHashFastString": "80114fde840026c9e6708eb17769985b9fbdd946",
-  "DFStringFlagRepoGitHashDynamicString": "80114fde840026c9e6708eb17769985b9fbdd946",
-  "FStringFlipTimeStampFastString": "2023-10-26T20:14:41.073Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T20:14:41.073Z"
+  "FStringFlagRepoGitHashFastString": "aff1160f97accd5ece5e56b8ddb565e684d75dda",
+  "DFStringFlagRepoGitHashDynamicString": "aff1160f97accd5ece5e56b8ddb565e684d75dda",
+  "FStringFlipTimeStampFastString": "2023-10-26T20:16:25.253Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T20:16:25.253Z"
 }
