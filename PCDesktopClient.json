@@ -8445,7 +8445,7 @@
   "FFlagVoiceChatStreamingGrpcDisableCallFinish": "True",
   "FFlagShrinkReportMenuForVisibility": "True",
   "DFFlagFixFloatCurveEmptyKeys": "True",
-  "DFFlagSimActivateNewAlignTypes2": "False",
+  "DFFlagSimActivateNewAlignTypes2": "True",
   "DFFlagSimAdaptivePreContactReorder2": "False",
   "FFlagLuaAppFixOmniFeedReorder": "True",
   "DFFlagEngineAPICloudProcessingServiceMasterSwitch": "False",
@@ -8520,7 +8520,6 @@
   "DFIntPostJoinSetsStatsHundredths": "100",
   "FFlagFindFriendsClickedEventEnabled": "True",
   "FFlagSTUDIOPLAT31379MultiAccountCookies3": "True",
-  "DFFlagSimActivateNewAlignTypes2_Rollout": "True;60;2023-10-26T21:39:41",
   "FFlagMacUseUpdateController2": "True",
   "FFlagStudioActionConversionGroup8a": "True",
   "FFlagToolboxFixSwimlaneAssetImpressions": "True",
@@ -8812,8 +8811,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "61d96625194708460b92bb43598487a833d87b3e",
-  "DFStringFlagRepoGitHashDynamicString": "61d96625194708460b92bb43598487a833d87b3e",
-  "FStringFlipTimeStampFastString": "2023-10-26T22:38:24.024Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:38:24.024Z"
+  "FStringFlagRepoGitHashFastString": "f3c7f872a682a96c6e0e6250ea8a11f11ce753a2",
+  "DFStringFlagRepoGitHashDynamicString": "f3c7f872a682a96c6e0e6250ea8a11f11ce753a2",
+  "FStringFlipTimeStampFastString": "2023-10-26T22:47:56.860Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-26T22:47:56.860Z"
 }
