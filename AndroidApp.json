@@ -8462,7 +8462,7 @@
   "DFFlagEnableProfilingForDefaultAsyncFlush": "True",
   "FFlagVoiceChatFixUiRaceWithJoinByGroupIdToken": "True",
   "FFlagVoiceChatSendInitialBatchEmpty": "True",
-  "FIntMmapForMemProfStorageThrottle": "5000",
+  "FIntMmapForMemProfStorageThrottle": "10000",
   "DFFlagEnableReducePortalValidate2": "True",
   "FFlagStudioOnboardingTutorialEligibility": "True",
   "FFlagViewBaseNullCheck": "True",
@@ -8554,7 +8554,6 @@
   "FFlagStudioUserScopedSignalR": "True",
   "DFFlagSimVisualizeForceFromGravity_Rollout": "True;60;2023-10-27T16:06:55",
   "DFFlagSimConstraintAndContactForcesVizForModelsFix_Rollout": "True;60;2023-10-27T16:07:55",
-  "FIntMmapForMemProfStorageThrottle_Rollout": "10000;30;2023-10-27T16:18:19",
   "FFlagRecommendedExperienceTilesAnalyticsFix": "True",
   "FFlagTooltipNullLscCrashFix_Rollout": "True;30;2023-10-27T16:26:38",
   "FFlagJoinByUserTakesOptionalPlaceId": "True",
@@ -8941,8 +8940,8 @@
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
-  "FStringFlagRepoGitHashFastString": "6a917d0b188adcd2e70b34bbe073e5523667b5bd",
-  "DFStringFlagRepoGitHashDynamicString": "6a917d0b188adcd2e70b34bbe073e5523667b5bd",
-  "FStringFlipTimeStampFastString": "2023-10-27T17:01:41.581Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-27T17:01:41.581Z"
+  "FStringFlagRepoGitHashFastString": "435314f662eb77f738e2aa665c5a760a19563644",
+  "DFStringFlagRepoGitHashDynamicString": "435314f662eb77f738e2aa665c5a760a19563644",
+  "FStringFlipTimeStampFastString": "2023-10-27T17:02:58.626Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-27T17:02:58.626Z"
 }
