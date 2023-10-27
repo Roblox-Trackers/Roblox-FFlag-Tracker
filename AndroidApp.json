@@ -8952,13 +8952,13 @@
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
   "DFFlagHttpCacheReportSlowWrites": "True",
-  "DFIntHttpCacheReportSlowWritesHundredthPercentageSent": "1000",
-  "DFIntHttpCacheReportSlowWritesMinDuration": "10000",
+  "DFIntHttpCacheReportSlowWritesHundredthPercentageSent": "5000",
+  "DFIntHttpCacheReportSlowWritesMinDuration": "5000",
   "FFlagRealtimeProtocolNewInterface": "True",
   "DFIntStreamingDistanceEmergencyGcUtility": "2500",
   "DFFlagSimThreadsafeAssemblyVelocityGetter_Rollout": "True;60;2023-10-27T18:37:22",
-  "FStringFlagRepoGitHashFastString": "50c98e227d2b4722d1ab0acf923edbe4a93017e0",
-  "DFStringFlagRepoGitHashDynamicString": "50c98e227d2b4722d1ab0acf923edbe4a93017e0",
-  "FStringFlipTimeStampFastString": "2023-10-27T18:51:26.184Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-27T18:51:26.184Z"
+  "FStringFlagRepoGitHashFastString": "85fe7e34087ab6cf60c873783060a13d0019b2b8",
+  "DFStringFlagRepoGitHashDynamicString": "85fe7e34087ab6cf60c873783060a13d0019b2b8",
+  "FStringFlipTimeStampFastString": "2023-10-27T18:58:46.874Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-27T18:58:46.874Z"
 }
