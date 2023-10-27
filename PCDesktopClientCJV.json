@@ -6920,7 +6920,7 @@
   "FFlagDraggerFixGetGeometry": "True",
   "DFFlagOrientationNeverMinus180": "True",
   "FFlagAddPivotRibbonTool": "True",
-  "DFFlagEnableV2POCStat": "True",
+  "DFFlagEnableV2POCStat": "False",
   "FFlagAssetImportGltfApplyBindShapeScale": "True",
   "FFlagAssetImportGltfMeshJointAndSkinningSupport": "True",
   "FFlagDetectGltfScaleAndWeightAnimations": "True",
@@ -8564,7 +8564,6 @@
   "FFlagUIBloxUpgradeCoPlayFooter3": "True",
   "FFlagSmoothClusterDirtyFlagFix": "True",
   "FFlagSTUDIOPLAT31379MultiAccountCookies3": "True",
-  "DFFlagEnableV2POCStat_Rollout": "False;60;2023-10-27T21:31:29",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8834,8 +8833,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "b350fc6d5dbab39c64a018094e87a2f52c7fa858",
-  "DFStringFlagRepoGitHashDynamicString": "b350fc6d5dbab39c64a018094e87a2f52c7fa858",
-  "FStringFlipTimeStampFastString": "2023-10-27T21:32:18.340Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-27T21:32:18.340Z"
+  "FStringFlagRepoGitHashFastString": "ff2f5be0c06ff3e1e86321560808126655e2bc2a",
+  "DFStringFlagRepoGitHashDynamicString": "ff2f5be0c06ff3e1e86321560808126655e2bc2a",
+  "FStringFlipTimeStampFastString": "2023-10-27T22:40:31.510Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-27T22:40:31.510Z"
 }
