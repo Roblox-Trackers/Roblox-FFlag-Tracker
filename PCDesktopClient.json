@@ -8564,6 +8564,8 @@
   "FIntSessionTrackingStorageFlushPeriodSec_Rollout": "1;30;2023-10-27T18:05:10",
   "FFlagVoiceUseUpdatedAudibilityTracking2_Rollout": "True;60;2023-10-27T18:15:01",
   "DFFlagSimDeleteLegacyAngVelConstraint": "True",
+  "FIntAudioEmitterPannerMinDistanceNumerator_Rollout": "6;60;2023-10-27T18:17:44",
+  "FFlagStudioAuthTokenManagerEmitUserIdWithAccessToken_Rollout": "True;60;2023-10-27T18:18:31",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8832,8 +8834,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "1c521ea142c9cc4b2306157778ea026a557e81eb",
-  "DFStringFlagRepoGitHashDynamicString": "1c521ea142c9cc4b2306157778ea026a557e81eb",
-  "FStringFlipTimeStampFastString": "2023-10-27T18:19:14.664Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-27T18:19:14.664Z"
+  "FStringFlagRepoGitHashFastString": "df044ff5ee7120a7a58b514ab0141292986f7ee4",
+  "DFStringFlagRepoGitHashDynamicString": "df044ff5ee7120a7a58b514ab0141292986f7ee4",
+  "FStringFlipTimeStampFastString": "2023-10-27T18:20:22.137Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-27T18:20:22.137Z"
 }
