@@ -8555,10 +8555,10 @@
   "DFFlagSimVisualizeForceFromGravity_Rollout": "True;60;2023-10-27T16:06:55",
   "DFFlagSimConstraintAndContactForcesVizForModelsFix_Rollout": "True;60;2023-10-27T16:07:55",
   "FFlagRecommendedExperienceTilesAnalyticsFix": "True",
-  "FFlagTooltipNullLscCrashFix_Rollout": "True;30;2023-10-27T16:26:38",
   "FFlagJoinByUserTakesOptionalPlaceId": "True",
   "AndroidPlayWithUserOptionalPlaceIdParam": "True",
   "FFlagPlayWithUserPassesMoreParamsIos": "True",
+  "FFlagTooltipNullLscCrashFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8827,8 +8827,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "435314f662eb77f738e2aa665c5a760a19563644",
-  "DFStringFlagRepoGitHashDynamicString": "435314f662eb77f738e2aa665c5a760a19563644",
-  "FStringFlipTimeStampFastString": "2023-10-27T17:02:58.626Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-27T17:02:58.626Z"
+  "FStringFlagRepoGitHashFastString": "c50a306a44a8e6b740e85b70361c9e80802945fa",
+  "DFStringFlagRepoGitHashDynamicString": "c50a306a44a8e6b740e85b70361c9e80802945fa",
+  "FStringFlipTimeStampFastString": "2023-10-27T17:04:32.704Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-27T17:04:32.704Z"
 }
