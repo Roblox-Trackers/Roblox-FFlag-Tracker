@@ -8187,7 +8187,7 @@
   "FFlagAESGraphDetailsOnATCSaveFailure": "True",
   "FFlagDoNotSetupVTShaders": "True",
   "FFlagVTFeedbackShadersSetupFix": "True",
-  "FFlagRenderEnableGlobalInstancing6": "True",
+  "FFlagRenderEnableGlobalInstancing6": "False",
   "DFFlagSynchronizeSurfaceControllerStopWithRender": "True",
   "FIntRakNetDatagramMessageIdArrayLength": "2048",
   "DFFlagFixTrueCast": "True",
@@ -8832,8 +8832,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "8483d1759d588569120b3fc00b80db103e19a106",
-  "DFStringFlagRepoGitHashDynamicString": "8483d1759d588569120b3fc00b80db103e19a106",
-  "FStringFlipTimeStampFastString": "2023-10-27T22:43:17.838Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-27T22:43:17.838Z"
+  "FStringFlagRepoGitHashFastString": "79ede2c768780fac020145e6194567ed5cdc0d9b",
+  "DFStringFlagRepoGitHashDynamicString": "79ede2c768780fac020145e6194567ed5cdc0d9b",
+  "FStringFlipTimeStampFastString": "2023-10-27T23:55:00.489Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-27T23:55:00.489Z"
 }
