@@ -8557,13 +8557,13 @@
   "AndroidPlayWithUserOptionalPlaceIdParam": "True",
   "FFlagPlayWithUserPassesMoreParamsIos": "True",
   "FFlagTooltipNullLscCrashFix": "True",
-  "DFFlagSimDeleteLegacyAngVelConstraint_Rollout": "True;60;2023-10-27T17:05:46",
   "DFFlagSimConstraintAndContactForcesVizForModelsFix": "True",
   "DFFlagSimVisualizeForceFromGravity": "True",
   "FFlagStudioActionConversionGroup10_Rollout": "True;60;2023-10-27T17:18:29",
   "FFlagSmoothClusterDirtyFlagFix_Rollout": "True;60;2023-10-27T17:33:54",
   "FIntSessionTrackingStorageFlushPeriodSec_Rollout": "1;30;2023-10-27T18:05:10",
   "FFlagVoiceUseUpdatedAudibilityTracking2_Rollout": "True;60;2023-10-27T18:15:01",
+  "DFFlagSimDeleteLegacyAngVelConstraint": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8833,8 +8833,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "ea4109cbe610b30a855ccf32f164de164b89c1d0",
-  "DFStringFlagRepoGitHashDynamicString": "ea4109cbe610b30a855ccf32f164de164b89c1d0",
-  "FStringFlipTimeStampFastString": "2023-10-27T18:15:45.508Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-27T18:15:45.508Z"
+  "FStringFlagRepoGitHashFastString": "1c521ea142c9cc4b2306157778ea026a557e81eb",
+  "DFStringFlagRepoGitHashDynamicString": "1c521ea142c9cc4b2306157778ea026a557e81eb",
+  "FStringFlipTimeStampFastString": "2023-10-27T18:19:14.664Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-27T18:19:14.664Z"
 }
