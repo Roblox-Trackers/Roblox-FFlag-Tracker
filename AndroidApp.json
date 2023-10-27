@@ -8566,6 +8566,9 @@
   "FIntAudioEmitterPannerMinDistanceNumerator_Rollout": "6;60;2023-10-27T18:17:44",
   "FFlagStudioAuthTokenManagerEmitUserIdWithAccessToken_Rollout": "True;60;2023-10-27T18:18:31",
   "FFlagStudioActionConversionGroup10": "True",
+  "FFlagEnableSocialContextToast": "True",
+  "FFlagEnableSocialContextToastNonRootPlace": "True",
+  "FFlagUIBloxUpgradeCoPlayFooter3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8952,8 +8955,8 @@
   "DFIntHttpCacheReportSlowWritesMinDuration": "10000",
   "FFlagRealtimeProtocolNewInterface": "True",
   "DFIntStreamingDistanceEmergencyGcUtility": "2500",
-  "FStringFlagRepoGitHashFastString": "af8454399199f48427f25e7dd8ad6a668e65f61f",
-  "DFStringFlagRepoGitHashDynamicString": "af8454399199f48427f25e7dd8ad6a668e65f61f",
-  "FStringFlipTimeStampFastString": "2023-10-27T18:28:36.331Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-27T18:28:36.331Z"
+  "FStringFlagRepoGitHashFastString": "58bb6041c42ea873413ef7b251d2f6496172e8b6",
+  "DFStringFlagRepoGitHashDynamicString": "58bb6041c42ea873413ef7b251d2f6496172e8b6",
+  "FStringFlipTimeStampFastString": "2023-10-27T18:36:08.692Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-27T18:36:08.692Z"
 }
