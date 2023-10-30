@@ -8587,8 +8587,6 @@
   "FFlagHttpRequestMsxmlLeakFix": "True",
   "DFFlagHttpStatsIncludeUniverseId": "True",
   "FFlagAXUseItemTileDetailButton": "True",
-  "FFlagFixBadNormals_Rollout": "True;60;2023-10-30T18:54:37",
-  "FFlagInGameChromeSignalAPIAnalytics_Rollout": "False;60;2023-10-30T18:55:28",
   "FFlagScriptContextRemovePostCloseCalls_Rollout": "True;60;2023-10-30T18:58:09",
   "FFlagUseConcurrentUsersOverlayPill3": "True",
   "FFlagEnableDesktopToastNotificationIxp2": "True",
@@ -8614,6 +8612,8 @@
   "FFlagShowFriendVisitsForTile2": "True",
   "FFlagUseLongRatingStats": "True",
   "FFlagAddEnabledAndExperimentNameToPerformanceControl": "True",
+  "FFlagFixBadNormals": "True",
+  "FFlagInGameChromeSignalAPIAnalytics": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8882,8 +8882,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "e3d5b4884005ceea5ece6b4bc0776ef3b96d07fa",
-  "DFStringFlagRepoGitHashDynamicString": "e3d5b4884005ceea5ece6b4bc0776ef3b96d07fa",
-  "FStringFlipTimeStampFastString": "2023-10-30T19:57:37.192Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T19:57:37.192Z"
+  "FStringFlagRepoGitHashFastString": "790e1367239ed8a9ad58f264935f5c2094b3ffb3",
+  "DFStringFlagRepoGitHashDynamicString": "790e1367239ed8a9ad58f264935f5c2094b3ffb3",
+  "FStringFlipTimeStampFastString": "2023-10-30T20:03:29.029Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T20:03:29.029Z"
 }
