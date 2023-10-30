@@ -8564,8 +8564,6 @@
   "FFlagSTUDIOPLAT31379MultiAccountCookies3": "True",
   "FFlagMutedNotSendOnLeavingOrEnded": "True",
   "DFFlagVideoStreamMetricsAddAdGuiTag": "True",
-  "DFFlagSolverSavedWorld_Rollout": "True;60;2023-10-30T16:58:34",
-  "FFlagExplorerWidgetRootInstance_Rollout": "True;60;2023-10-30T17:01:53",
   "FFlagTutorialsStudioTour2LaunchFix": "True",
   "DFFlagDontDeallocateImmediatelyOnStreamError_Rollout": "True;60;2023-10-30T17:07:22",
   "EnableAndroidRealtimeProtocolCheckV599": "True",
@@ -8584,6 +8582,9 @@
   "FIntAudioEmitterPannerMinDistanceNumerator": "6",
   "DFFlagHttpStatsIncludeUniverseId_Rollout": "True;30;2023-10-30T17:57:37",
   "FFlagScriptEditorAddBreakpointsToScrollBar_Rollout": "True;60;2023-10-30T18:00:15",
+  "FFlagGetFFlagCleanupGamesAPISearch": "True",
+  "DFFlagSolverSavedWorld": "True",
+  "FFlagExplorerWidgetRootInstance": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8852,8 +8853,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "1acfef0967b78ca1064ab7b0776271d1f23127d5",
-  "DFStringFlagRepoGitHashDynamicString": "1acfef0967b78ca1064ab7b0776271d1f23127d5",
-  "FStringFlipTimeStampFastString": "2023-10-30T18:04:46.615Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T18:04:46.615Z"
+  "FStringFlagRepoGitHashFastString": "f26199a6729ebebd22a9353867d394f53ac7eda5",
+  "DFStringFlagRepoGitHashDynamicString": "f26199a6729ebebd22a9353867d394f53ac7eda5",
+  "FStringFlipTimeStampFastString": "2023-10-30T18:10:00.581Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T18:10:00.581Z"
 }
