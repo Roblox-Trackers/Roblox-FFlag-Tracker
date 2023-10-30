@@ -8409,7 +8409,7 @@
   "DFIntOpenCloudInvokeAsyncPerMinuteThrottle_PlaceFilter": "100;15107017654",
   "FFlagOpenCloudCoreScriptLuaEnabled": "False",
   "FFlagOpenCloudCoreScriptLuaEnabled_PlaceFilter": "True;15107017654",
-  "FFlagProfileRemoveQRCodeExperimentGating": "False",
+  "FFlagProfileRemoveQRCodeExperimentGating": "True",
   "DFIntPlayStationIAPTelemetryThrottleHundredthsPercent": "10000",
   "DFFlagCheckMaxCageDistance": "True",
   "DFIntMaxCageDistance": "10000",
@@ -8958,8 +8958,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
-  "FStringFlagRepoGitHashFastString": "293a5b4e25295335c9baf63490a572cdf6c65244",
-  "DFStringFlagRepoGitHashDynamicString": "293a5b4e25295335c9baf63490a572cdf6c65244",
-  "FStringFlipTimeStampFastString": "2023-10-30T20:31:55.535Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T20:31:55.535Z"
+  "FStringFlagRepoGitHashFastString": "8598485aa2d992efa6835dbef889197d593c9815",
+  "DFStringFlagRepoGitHashDynamicString": "8598485aa2d992efa6835dbef889197d593c9815",
+  "FStringFlipTimeStampFastString": "2023-10-30T20:33:57.011Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T20:33:57.011Z"
 }
