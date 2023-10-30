@@ -8563,7 +8563,6 @@
   "FFlagUIBloxUpgradeCoPlayFooter3": "True",
   "FFlagSmoothClusterDirtyFlagFix": "True",
   "FFlagSTUDIOPLAT31379MultiAccountCookies3": "True",
-  "FFlagLuauCompileIfElseAndOr_Rollout": "True;60;2023-10-30T16:15:17",
   "FFlagMutedNotSendOnLeavingOrEnded": "True",
   "DFFlagVideoStreamMetricsAddAdGuiTag": "True",
   "DFFlagSimTeamCreateIkMoveToFix_Rollout": "True;60;2023-10-30T16:47:50",
@@ -8579,6 +8578,7 @@
   "DFFlagEnableAndroidFixResumeRenderOnForeground": "True",
   "DFIntPlayStationSessionRequestTimeoutMs": "10000",
   "FFlagFixAdjacentMask_Rollout": "True;60;2023-10-30T17:20:34",
+  "FFlagLuauCompileIfElseAndOr": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8919,8 +8919,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
-  "FStringFlagRepoGitHashFastString": "e86926a46b0d4e09cd2dc8827f6e29a87d5ab828",
-  "DFStringFlagRepoGitHashDynamicString": "e86926a46b0d4e09cd2dc8827f6e29a87d5ab828",
-  "FStringFlipTimeStampFastString": "2023-10-30T17:21:32.546Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T17:21:32.546Z"
+  "FStringFlagRepoGitHashFastString": "27a7024332861649f5c40b919e84a2bea0684738",
+  "DFStringFlagRepoGitHashDynamicString": "27a7024332861649f5c40b919e84a2bea0684738",
+  "FStringFlipTimeStampFastString": "2023-10-30T17:22:40.453Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T17:22:40.453Z"
 }
