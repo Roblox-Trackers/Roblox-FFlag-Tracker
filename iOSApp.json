@@ -8645,6 +8645,7 @@
   "DFFlagAdsPreloadInteractivityAssets": "True",
   "FFlagUGCValidationUseUniverseId": "True",
   "DFFlagEnablePromptNativePurchaseWithPayload": "True",
+  "FFlagRemoveChannelImplicitConversion_Rollout": "True;60;2023-10-30T22:58:21",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8985,8 +8986,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
-  "FStringFlagRepoGitHashFastString": "f3e6565ba2b95cca4c9d3a13e0acf212ef4b1509",
-  "DFStringFlagRepoGitHashDynamicString": "f3e6565ba2b95cca4c9d3a13e0acf212ef4b1509",
-  "FStringFlipTimeStampFastString": "2023-10-30T22:56:01.630Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T22:56:01.630Z"
+  "FStringFlagRepoGitHashFastString": "964caff7cebdf00c1df1c26f83344bcfb7dba34a",
+  "DFStringFlagRepoGitHashDynamicString": "964caff7cebdf00c1df1c26f83344bcfb7dba34a",
+  "FStringFlipTimeStampFastString": "2023-10-30T23:00:12.108Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T23:00:12.108Z"
 }
