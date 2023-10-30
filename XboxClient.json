@@ -8591,6 +8591,8 @@
   "DFFlagDontDeallocateImmediatelyOnStreamError": "True",
   "FFlagFixMissingPermissionsAnalytics": "True",
   "DFFlagMemoryBufferForHarmony": "True",
+  "FFlagDragDetectorsXAxisRotationFix_Rollout": "True;60;2023-10-30T18:17:10",
+  "DFFlagEnableSubscriptionPurchaseConfirmation_Rollout": "True;60;2023-10-30T18:17:24",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -8925,8 +8927,8 @@
   "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagUIBloxEnableNewMenuLayout": "True",
   "FFlagUIBloxFixScrollBarLayout10ft": "True",
-  "FStringFlagRepoGitHashFastString": "8dd765d45e8c800f1aeb19c4fb00b9613720f337",
-  "DFStringFlagRepoGitHashDynamicString": "8dd765d45e8c800f1aeb19c4fb00b9613720f337",
-  "FStringFlipTimeStampFastString": "2023-10-30T18:17:55.283Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T18:17:55.283Z"
+  "FStringFlagRepoGitHashFastString": "878a47ef42059e7bac406ca4f53ca3b6eb321784",
+  "DFStringFlagRepoGitHashDynamicString": "878a47ef42059e7bac406ca4f53ca3b6eb321784",
+  "FStringFlipTimeStampFastString": "2023-10-30T18:18:13.981Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T18:18:13.981Z"
 }
