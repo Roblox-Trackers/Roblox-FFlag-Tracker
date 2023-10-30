@@ -8575,7 +8575,6 @@
   "FFlagLuauCompileIfElseAndOr": "True",
   "FFlagHttpRequestMsxmlLeakFix_Rollout": "True;60;2023-10-30T17:27:07",
   "FFlagInGameChromeSignalAPIAnalytics_Rollout": "True;60;2023-10-30T17:39:25",
-  "DFFlagMemoryBufferForHarmony_Rollout": "True;30;2023-10-30T17:41:03",
   "FFlagPassRequestIntentToOmniRecs": "True",
   "DFFlagSimTeamCreateIkMoveToFix": "True",
   "FIntAudioEmitterPannerMinDistanceNumerator": "6",
@@ -8591,6 +8590,7 @@
   "DFFlagEnablePreparePurchaseHttpPost_Rollout": "True;60;2023-10-30T18:12:15",
   "DFFlagDontDeallocateImmediatelyOnStreamError": "True",
   "FFlagFixMissingPermissionsAnalytics": "True",
+  "DFFlagMemoryBufferForHarmony": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8931,8 +8931,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryiOS",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
-  "FStringFlagRepoGitHashFastString": "2f9251759ed37579c5579eab8a0022e648dc0c24",
-  "DFStringFlagRepoGitHashDynamicString": "2f9251759ed37579c5579eab8a0022e648dc0c24",
-  "FStringFlipTimeStampFastString": "2023-10-30T18:14:41.334Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T18:14:41.334Z"
+  "FStringFlagRepoGitHashFastString": "8dd765d45e8c800f1aeb19c4fb00b9613720f337",
+  "DFStringFlagRepoGitHashDynamicString": "8dd765d45e8c800f1aeb19c4fb00b9613720f337",
+  "FStringFlipTimeStampFastString": "2023-10-30T18:17:55.283Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T18:17:55.283Z"
 }
