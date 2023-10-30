@@ -8565,7 +8565,6 @@
   "FFlagMutedNotSendOnLeavingOrEnded": "True",
   "DFFlagVideoStreamMetricsAddAdGuiTag": "True",
   "FFlagTutorialsStudioTour2LaunchFix": "True",
-  "DFFlagDontDeallocateImmediatelyOnStreamError_Rollout": "True;60;2023-10-30T17:07:22",
   "EnableAndroidRealtimeProtocolCheckV599": "True",
   "EnableAndroidRealtimeProtocolHundredthPercentV599": "3000",
   "DFFlagDCFilterDM_Rollout": "True;60;2023-10-30T17:16:04",
@@ -8590,6 +8589,8 @@
   "FFlagSmoothClusterOpportunisticBfs_Rollout": "True;60;2023-10-30T18:11:14",
   "FFlagGetFFlagGamesSearchPageHandleNilSearchInGame": "True",
   "DFFlagEnablePreparePurchaseHttpPost_Rollout": "True;60;2023-10-30T18:12:15",
+  "DFFlagDontDeallocateImmediatelyOnStreamError": "True",
+  "FFlagFixMissingPermissionsAnalytics": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -8924,8 +8925,8 @@
   "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagUIBloxEnableNewMenuLayout": "True",
   "FFlagUIBloxFixScrollBarLayout10ft": "True",
-  "FStringFlagRepoGitHashFastString": "c202f7df70c49036a523d4e56fb9608a3b862d42",
-  "DFStringFlagRepoGitHashDynamicString": "c202f7df70c49036a523d4e56fb9608a3b862d42",
-  "FStringFlipTimeStampFastString": "2023-10-30T18:13:16.302Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T18:13:16.302Z"
+  "FStringFlagRepoGitHashFastString": "2f9251759ed37579c5579eab8a0022e648dc0c24",
+  "DFStringFlagRepoGitHashDynamicString": "2f9251759ed37579c5579eab8a0022e648dc0c24",
+  "FStringFlipTimeStampFastString": "2023-10-30T18:14:41.334Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T18:14:41.334Z"
 }
