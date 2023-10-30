@@ -8630,7 +8630,6 @@
   "FFlagLuaAppEnable10ftPrivacyLink": "True",
   "FFlagLuaAppEnableRelinkingCooldownError": "True",
   "FFlagLuaAppFix10ftSignUpDropdown": "True",
-  "DFFlagEnableHideInteractivityControls_Rollout": "True;60;2023-10-30T21:56:46",
   "DFFlagAnimInstanceAllocs2": "True",
   "FFlagSmoothClusterSortUpdates_Rollout": "True;60;2023-10-30T22:06:12",
   "NativePurchaseWithPayload": "True",
@@ -8651,6 +8650,7 @@
   "FFlagPublicDiffIncludePackageVersion_Rollout": "True;20;2023-10-30T23:01:29",
   "FFlagContactListEnabled2": "False",
   "FFlagContactListEnabled2_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929",
+  "DFFlagEnableHideInteractivityControls": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8841,8 +8841,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "5dc857a6683e6f7fb38ab117a52afb4a631c8c50",
-  "DFStringFlagRepoGitHashDynamicString": "5dc857a6683e6f7fb38ab117a52afb4a631c8c50",
-  "FStringFlipTimeStampFastString": "2023-10-30T23:04:57.887Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T23:04:57.887Z"
+  "FStringFlagRepoGitHashFastString": "349f8b58489e60c2b776391b1fb3e5c06adfb1f8",
+  "DFStringFlagRepoGitHashDynamicString": "349f8b58489e60c2b776391b1fb3e5c06adfb1f8",
+  "FStringFlipTimeStampFastString": "2023-10-30T23:05:42.225Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T23:05:42.225Z"
 }
