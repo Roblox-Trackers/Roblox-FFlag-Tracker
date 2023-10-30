@@ -8620,7 +8620,6 @@
   "FFlagUGCValidationResetPhysicsData": "True",
   "FFlagTranscodingResetPhysicsData": "True",
   "FFlagIrisUpdateCallIdForUserRemoteEventEnabled": "False",
-  "DFFlagAnimInstanceAllocs2_Rollout": "True;60;2023-10-30T20:53:52",
   "FFlagUsePlayStationNativePrice": "True",
   "FFlagUGCValidateThumbnailConfiguration": "True",
   "FFlagExplorerItemPackageIconsOnLink": "True",
@@ -8635,6 +8634,7 @@
   "FFlagLuaAppEnableRelinkingCooldownError": "True",
   "FFlagLuaAppFix10ftSignUpDropdown": "True",
   "DFFlagEnableHideInteractivityControls_Rollout": "True;60;2023-10-30T21:56:46",
+  "DFFlagAnimInstanceAllocs2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8904,8 +8904,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "a922d2496868600e2e4aa7dce326cf8ce2840a6b",
-  "DFStringFlagRepoGitHashDynamicString": "a922d2496868600e2e4aa7dce326cf8ce2840a6b",
-  "FStringFlipTimeStampFastString": "2023-10-30T21:57:39.844Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T21:57:39.844Z"
+  "FStringFlagRepoGitHashFastString": "4e402bb1eb8bfef18f962c3aef613ef336cff492",
+  "DFStringFlagRepoGitHashDynamicString": "4e402bb1eb8bfef18f962c3aef613ef336cff492",
+  "FStringFlipTimeStampFastString": "2023-10-30T22:03:36.047Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T22:03:36.047Z"
 }
