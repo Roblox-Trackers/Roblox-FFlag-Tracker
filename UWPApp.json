@@ -8638,6 +8638,8 @@
   "FFlagSmoothClusterSortUpdates_Rollout": "True;60;2023-10-30T22:06:12",
   "NativePurchaseWithPayload": "True",
   "FFlagStudioOpenPlaceReportRetryableFailure": "True",
+  "FFlagLuauLoopControlFlowAnalysis": "True",
+  "FFlagRemoveRecommendedExperienceSeeAllButton": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8828,8 +8830,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "5876671142f50af5094b983f09b1d50c1935cdb5",
-  "DFStringFlagRepoGitHashDynamicString": "5876671142f50af5094b983f09b1d50c1935cdb5",
-  "FStringFlipTimeStampFastString": "2023-10-30T22:17:19.757Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T22:17:19.757Z"
+  "FStringFlagRepoGitHashFastString": "0ad8ce395fd32423fdd71cf590d2b93024a6469d",
+  "DFStringFlagRepoGitHashDynamicString": "0ad8ce395fd32423fdd71cf590d2b93024a6469d",
+  "FStringFlipTimeStampFastString": "2023-10-30T22:20:54.691Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T22:20:54.691Z"
 }
