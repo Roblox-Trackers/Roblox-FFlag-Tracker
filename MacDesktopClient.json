@@ -8606,7 +8606,6 @@
   "FFlagStudioActionConversionGroup11": "True",
   "FFlagFixNormalOutOfBounds": "True",
   "FFlagEnableIrisToastNotification": "True",
-  "FFlagUsePlayStationNativePrice_Rollout": "True;60;2023-10-30T19:51:06",
   "FFlagShowFriendVisitsForTile2": "True",
   "FFlagUseLongRatingStats": "True",
   "FFlagAddEnabledAndExperimentNameToPerformanceControl": "True",
@@ -8625,6 +8624,8 @@
   "FFlagTranscodingResetPhysicsData": "True",
   "FFlagIrisUpdateCallIdForUserRemoteEventEnabled": "False",
   "DFFlagAnimInstanceAllocs2_Rollout": "True;60;2023-10-30T20:53:52",
+  "FFlagUsePlayStationNativePrice": "True",
+  "FFlagUGCValidateThumbnailConfiguration": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8893,8 +8894,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "5c6f0499d9c3e5441ba129161689df1de4ef7610",
-  "DFStringFlagRepoGitHashDynamicString": "5c6f0499d9c3e5441ba129161689df1de4ef7610",
-  "FStringFlipTimeStampFastString": "2023-10-30T20:54:44.498Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T20:54:44.498Z"
+  "FStringFlagRepoGitHashFastString": "0658e576164940dc20f0aeaa206eee7bb40a659f",
+  "DFStringFlagRepoGitHashDynamicString": "0658e576164940dc20f0aeaa206eee7bb40a659f",
+  "FStringFlipTimeStampFastString": "2023-10-30T20:58:17.852Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T20:58:17.852Z"
 }
