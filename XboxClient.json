@@ -8272,7 +8272,7 @@
   "FFlagAppBridgeRemoveIsSignalREnabled": "True",
   "FFlagEnableAssemblyCenterOfMassVisualization": "True",
   "FFlagRealtimeProtocolPublishRaw": "True",
-  "FFlagNewCSGAPIBetaFeature": "True",
+  "FFlagNewCSGAPIBetaFeature": "False",
   "FFlagLuauInlineArrConstOffset": "True",
   "DFFlagFixSoundTunableCurveIssues": "True",
   "FFlagScreenshotsDeleteCaptureTransitionFixes_v2": "True",
@@ -8616,6 +8616,8 @@
   "FFlagDiffExplorerTreeWidget": "True",
   "FFlagExplorerItemPackageIconsOnLink_Rollout": "True;60;2023-10-30T20:14:12",
   "FFlagDescendantsAreRecursivelyInteractable2_Rollout": "False;1;2023-10-30T20:28:20",
+  "DFFlagImprovedGetFullName_Rollout": "True;60;2023-10-30T20:30:12",
+  "FFlagCreationDBServiceEnable_Rollout": "True;60;2023-10-30T20:30:52",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8950,8 +8952,8 @@
   "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagUIBloxEnableNewMenuLayout": "True",
   "FFlagUIBloxFixScrollBarLayout10ft": "True",
-  "FStringFlagRepoGitHashFastString": "56e0268aa2a5573867ea41674632a6202d269998",
-  "DFStringFlagRepoGitHashDynamicString": "56e0268aa2a5573867ea41674632a6202d269998",
-  "FStringFlipTimeStampFastString": "2023-10-30T20:29:13.814Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T20:29:13.814Z"
+  "FStringFlagRepoGitHashFastString": "293a5b4e25295335c9baf63490a572cdf6c65244",
+  "DFStringFlagRepoGitHashDynamicString": "293a5b4e25295335c9baf63490a572cdf6c65244",
+  "FStringFlipTimeStampFastString": "2023-10-30T20:31:55.535Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T20:31:55.535Z"
 }
