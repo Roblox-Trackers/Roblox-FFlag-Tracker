@@ -7105,7 +7105,6 @@
   "FFlagUpdatedTaskDefinitions": "True",
   "FFlagTerrainEditorOverhaul": "True",
   "DFIntGuiServiceChromeSignalAPIAnalytics_ReportHundredthsPercent": "10000",
-  "FFlagInGameChromeSignalAPIAnalytics": "False",
   "FLogVoiceChatLogs": "Info",
   "DFIntRobloxTelemetryClientDisconnectPointsThrottleHundredthsPercent": "100",
   "DFIntRobloxTelemetryRccDisconnectPointsThrottleHundredthsPercent": "100",
@@ -8580,6 +8579,7 @@
   "FFlagFixAdjacentMask_Rollout": "True;60;2023-10-30T17:20:34",
   "FFlagLuauCompileIfElseAndOr": "True",
   "AllowVideoPreRoll": "True",
+  "FFlagInGameChromeSignalAPIAnalytics_Rollout": "True;60;2023-10-30T17:39:25",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -8914,8 +8914,8 @@
   "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagUIBloxEnableNewMenuLayout": "True",
   "FFlagUIBloxFixScrollBarLayout10ft": "True",
-  "FStringFlagRepoGitHashFastString": "ec98c4ec3ab487c08a24eb766d7548c915efbb64",
-  "DFStringFlagRepoGitHashDynamicString": "ec98c4ec3ab487c08a24eb766d7548c915efbb64",
-  "FStringFlipTimeStampFastString": "2023-10-30T17:37:50.233Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T17:37:50.233Z"
+  "FStringFlagRepoGitHashFastString": "c9efee525c5710ff238853b9748eb2de7ef5bf14",
+  "DFStringFlagRepoGitHashDynamicString": "c9efee525c5710ff238853b9748eb2de7ef5bf14",
+  "FStringFlipTimeStampFastString": "2023-10-30T17:40:17.800Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T17:40:17.800Z"
 }
