@@ -8603,6 +8603,7 @@
   "FFlagInGameChromeSignalAPIAnalytics_Rollout": "False;60;2023-10-30T18:55:28",
   "FFlagScriptContextRemovePostCloseCalls_Rollout": "True;60;2023-10-30T18:58:09",
   "FFlagUseConcurrentUsersOverlayPill3": "True",
+  "FFlagEnableDesktopToastNotificationIxp2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8793,8 +8794,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "0bfe8c3649c35f077a61c00562ce85cc8ffce455",
-  "DFStringFlagRepoGitHashDynamicString": "0bfe8c3649c35f077a61c00562ce85cc8ffce455",
-  "FStringFlipTimeStampFastString": "2023-10-30T18:59:43.192Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T18:59:43.192Z"
+  "FStringFlagRepoGitHashFastString": "733edd9fb38080078cffd647e4122c3859675aab",
+  "DFStringFlagRepoGitHashDynamicString": "733edd9fb38080078cffd647e4122c3859675aab",
+  "FStringFlipTimeStampFastString": "2023-10-30T19:03:38.130Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T19:03:38.130Z"
 }
