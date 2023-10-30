@@ -8627,6 +8627,7 @@
   "FFlagUGCValidateThumbnailConfiguration": "True",
   "FFlagExplorerItemPackageIconsOnLink": "True",
   "FFlagEnableModifiedPropertyTracking_Rollout": "True;60;2023-10-30T21:29:02",
+  "DFFlagPointsServiceDisabled_Rollout": "True;60;2023-10-30T21:33:48",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8895,8 +8896,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "55c885be7dc8c365bf1a19ec29243fdd3dafc189",
-  "DFStringFlagRepoGitHashDynamicString": "55c885be7dc8c365bf1a19ec29243fdd3dafc189",
-  "FStringFlipTimeStampFastString": "2023-10-30T21:29:51.355Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T21:29:51.355Z"
+  "FStringFlagRepoGitHashFastString": "c5f039f6c89717e08916ca313ef8aad9171151ea",
+  "DFStringFlagRepoGitHashDynamicString": "c5f039f6c89717e08916ca313ef8aad9171151ea",
+  "FStringFlipTimeStampFastString": "2023-10-30T21:34:34.265Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T21:34:34.265Z"
 }
