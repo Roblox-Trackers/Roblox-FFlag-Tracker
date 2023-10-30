@@ -8570,7 +8570,6 @@
   "FFlagInferredCrashProfileSyncFlushSwitchGuard": "True",
   "DFFlagEnableAndroidFixResumeRenderOnForeground": "True",
   "DFIntPlayStationSessionRequestTimeoutMs": "10000",
-  "FFlagFixAdjacentMask_Rollout": "True;60;2023-10-30T17:20:34",
   "FFlagLuauCompileIfElseAndOr": "True",
   "AllowVideoPreRoll": "True",
   "FFlagInGameChromeSignalAPIAnalytics_Rollout": "True;60;2023-10-30T17:39:25",
@@ -8595,6 +8594,7 @@
   "FFlagLuaAppUseGridTiles7": "True",
   "FFlagPlayStationgetMBSysRAMuseTotalMem_Rollout": "True;60;2023-10-30T18:20:30",
   "DFFlagDCFilterDM": "True",
+  "FFlagFixAdjacentMask": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -8929,8 +8929,8 @@
   "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagUIBloxEnableNewMenuLayout": "True",
   "FFlagUIBloxFixScrollBarLayout10ft": "True",
-  "FStringFlagRepoGitHashFastString": "24b4af9e24263b1bf3c95c78ee68de9019393621",
-  "DFStringFlagRepoGitHashDynamicString": "24b4af9e24263b1bf3c95c78ee68de9019393621",
-  "FStringFlipTimeStampFastString": "2023-10-30T18:27:16.479Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T18:27:16.479Z"
+  "FStringFlagRepoGitHashFastString": "bbce2850911f6159f9ecccba6c7ab8f55d564ff7",
+  "DFStringFlagRepoGitHashDynamicString": "bbce2850911f6159f9ecccba6c7ab8f55d564ff7",
+  "FStringFlipTimeStampFastString": "2023-10-30T18:28:19.368Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T18:28:19.368Z"
 }
