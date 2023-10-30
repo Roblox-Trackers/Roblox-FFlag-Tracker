@@ -8613,7 +8613,6 @@
   "FFlagInGameChromeSignalAPIAnalytics": "False",
   "FFlagScriptContextRemovePostCloseCalls": "True",
   "FFlagDiffExplorerTreeWidget": "True",
-  "FFlagExplorerItemPackageIconsOnLink_Rollout": "True;60;2023-10-30T20:14:12",
   "DFFlagImprovedGetFullName_Rollout": "True;60;2023-10-30T20:30:12",
   "FFlagCreationDBServiceEnable_Rollout": "True;60;2023-10-30T20:30:52",
   "FFlagAppEnableSurfaceControllerNullReport": "True",
@@ -8626,6 +8625,7 @@
   "DFFlagAnimInstanceAllocs2_Rollout": "True;60;2023-10-30T20:53:52",
   "FFlagUsePlayStationNativePrice": "True",
   "FFlagUGCValidateThumbnailConfiguration": "True",
+  "FFlagExplorerItemPackageIconsOnLink": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8894,8 +8894,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "0658e576164940dc20f0aeaa206eee7bb40a659f",
-  "DFStringFlagRepoGitHashDynamicString": "0658e576164940dc20f0aeaa206eee7bb40a659f",
-  "FStringFlipTimeStampFastString": "2023-10-30T20:58:17.852Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T20:58:17.852Z"
+  "FStringFlagRepoGitHashFastString": "03a1281fff92302c4f35552c48d6d8b1f81bf6b7",
+  "DFStringFlagRepoGitHashDynamicString": "03a1281fff92302c4f35552c48d6d8b1f81bf6b7",
+  "FStringFlipTimeStampFastString": "2023-10-30T21:22:47.372Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T21:22:47.372Z"
 }
