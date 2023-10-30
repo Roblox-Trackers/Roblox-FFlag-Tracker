@@ -8602,7 +8602,6 @@
   "FFlagPlayStationgetMBSysRAMuseTotalMem": "True",
   "FFlagDisableSkinningMeshpartWarning": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
-  "FFlagDiffExplorerTreeWidget_Rollout": "True;30;2023-10-30T19:36:05",
   "DFFlagHttpSslCertCacheEnabled2": "True",
   "FFlagStudioActionConversionGroup11": "True",
   "FFlagFixNormalOutOfBounds": "True",
@@ -8614,6 +8613,7 @@
   "FFlagFixBadNormals": "True",
   "FFlagInGameChromeSignalAPIAnalytics": "False",
   "FFlagScriptContextRemovePostCloseCalls": "True",
+  "FFlagDiffExplorerTreeWidget": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8883,8 +8883,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d1a8e49a51ee5742025137444f24cc229716b9da",
-  "DFStringFlagRepoGitHashDynamicString": "d1a8e49a51ee5742025137444f24cc229716b9da",
-  "FStringFlipTimeStampFastString": "2023-10-30T20:08:06.619Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T20:08:06.619Z"
+  "FStringFlagRepoGitHashFastString": "e19b0af84afd53628e019e27bd18a6bcf08f2618",
+  "DFStringFlagRepoGitHashDynamicString": "e19b0af84afd53628e019e27bd18a6bcf08f2618",
+  "FStringFlipTimeStampFastString": "2023-10-30T20:12:43.992Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T20:12:43.992Z"
 }
