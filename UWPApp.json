@@ -8563,10 +8563,8 @@
   "FFlagUIBloxUpgradeCoPlayFooter3": "True",
   "FFlagSmoothClusterDirtyFlagFix": "True",
   "FFlagSTUDIOPLAT31379MultiAccountCookies3": "True",
-  "DFFlagEnableAndroidFixResumeRenderOnForeground_Rollout": "True;60;2023-10-30T16:10:39",
   "FFlagLuauCompileIfElseAndOr_Rollout": "True;60;2023-10-30T16:15:17",
   "FFlagMutedNotSendOnLeavingOrEnded": "True",
-  "FFlagInferredCrashProfileSyncFlushSwitchGuard_Rollout": "True;30;2023-10-30T16:39:22",
   "DFFlagVideoStreamMetricsAddAdGuiTag": "True",
   "DFFlagSimTeamCreateIkMoveToFix_Rollout": "True;60;2023-10-30T16:47:50",
   "FIntAudioEmitterPannerMinDistanceNumerator_Rollout": "6;60;2023-10-30T16:51:04",
@@ -8578,6 +8576,8 @@
   "EnableAndroidRealtimeProtocolHundredthPercentV599": "0",
   "FFlagMSRefactor3_Rollout": "True;60;2023-10-30T17:13:17",
   "DFFlagDCFilterDM_Rollout": "True;60;2023-10-30T17:16:04",
+  "FFlagInferredCrashProfileSyncFlushSwitchGuard": "True",
+  "DFFlagEnableAndroidFixResumeRenderOnForeground": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8768,8 +8768,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "13d91e874e90e42e0ec14fa61bc59e85c4b4b53e",
-  "DFStringFlagRepoGitHashDynamicString": "13d91e874e90e42e0ec14fa61bc59e85c4b4b53e",
-  "FStringFlipTimeStampFastString": "2023-10-30T17:16:52.442Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T17:16:52.442Z"
+  "FStringFlagRepoGitHashFastString": "e1dbf7e75629d3624242e35cc2efd512c6932032",
+  "DFStringFlagRepoGitHashDynamicString": "e1dbf7e75629d3624242e35cc2efd512c6932032",
+  "FStringFlipTimeStampFastString": "2023-10-30T17:18:07.330Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-30T17:18:07.330Z"
 }
