@@ -8686,7 +8686,6 @@
   "FFlagEnableVoiceModalV2": "True",
   "FFlagVoiceConsentCopyV2": "True",
   "FFlagVoiceUpsellNewAnalytics": "True",
-  "FFlagFmodWasapiRecordBTHeadsetMatching_Rollout": "True;60;2023-10-31T18:07:48",
   "FStringEnableChromeDefaultOpenForcedUserIds": "2585422222;166540505;3747048826;",
   "FStringEnableChromePinnedChatForcedUserIds": "3878426504;3831379140;2570103006;959520514;",
   "FFlagStudioUseSafeFormatStandardOutQString_Rollout": "True;60;2023-10-31T18:26:14",
@@ -8712,6 +8711,7 @@
   "FFlagFontPropertyItemNoDatamodel": "True",
   "DFIntReportTimeBetweenTTClientHundredthsPercentage": "500",
   "DFIntReportTimeBetweenTTServerHundredthsPercentage": "500",
+  "FFlagFmodWasapiRecordBTHeadsetMatching": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9063,8 +9063,8 @@
   "FFlagXboxGameProtocol": "True",
   "FFlagXboxKeyboardType": "True",
   "FFlagXboxNixValidSessionPoller": "True",
-  "FStringFlagRepoGitHashFastString": "65f1d594f563ef0e300c82f224c3801c5cfe481c",
-  "DFStringFlagRepoGitHashDynamicString": "65f1d594f563ef0e300c82f224c3801c5cfe481c",
-  "FStringFlipTimeStampFastString": "2023-10-31T19:07:48.355Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T19:07:48.355Z"
+  "FStringFlagRepoGitHashFastString": "66c68fa0856078291363b5adbb11c97f1e187274",
+  "DFStringFlagRepoGitHashDynamicString": "66c68fa0856078291363b5adbb11c97f1e187274",
+  "FStringFlipTimeStampFastString": "2023-10-31T19:13:38.811Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T19:13:38.811Z"
 }
