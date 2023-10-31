@@ -8718,7 +8718,6 @@
   "FFlagLuaEnableGameInviteModalInvitePrompt": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnification": "True",
   "FFlagFixDeserializeSSRace_Rollout": "True;60;2023-10-31T21:44:33",
-  "DFFlagEnableStayInFullscreenAndKeepVolumeOnRotation_Rollout": "True;30;2023-10-31T21:47:57",
   "DFFlagEnableAdVolumeToggleReporting_Rollout": "True;30;2023-10-31T21:50:22",
   "FFlagEnableRewardedVideoCompletion_Rollout": "True;30;2023-10-31T21:58:50",
   "DFFlagSimResetHistoryOnTickle_Rollout": "True;60;2023-10-31T21:59:39",
@@ -8728,6 +8727,8 @@
   "DFFlagEnableSeamlessFullscreenAnimationOnRotation": "True",
   "FFlagEnableAdPlaybackReporting2_Rollout": "True;30;2023-10-31T22:17:14",
   "FFlagScriptProfilerFrequencyControl": "True",
+  "DFFlagEnableStayInFullscreenAndKeepVolumeOnRotation": "True",
+  "FFlagEnableSmoothFullscreenZoom_Rollout": "True;30;2023-10-31T22:22:09",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8997,8 +8998,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "6f48980e85a63a4cc6abb70f92db00ffa0155d8b",
-  "DFStringFlagRepoGitHashDynamicString": "6f48980e85a63a4cc6abb70f92db00ffa0155d8b",
-  "FStringFlipTimeStampFastString": "2023-10-31T22:21:48.708Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T22:21:48.708Z"
+  "FStringFlagRepoGitHashFastString": "26e915b0369eb894080a10c14b7e26056268b79c",
+  "DFStringFlagRepoGitHashDynamicString": "26e915b0369eb894080a10c14b7e26056268b79c",
+  "FStringFlipTimeStampFastString": "2023-10-31T22:22:58.807Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T22:22:58.807Z"
 }
