@@ -8718,7 +8718,6 @@
   "FFlagLuaEnableGameInviteModalInvitePrompt": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnification": "True",
   "FFlagFixDeserializeSSRace_Rollout": "True;60;2023-10-31T21:44:33",
-  "FFlagEnableRewardedVideoCompletion_Rollout": "True;30;2023-10-31T21:58:50",
   "DFFlagSimResetHistoryOnTickle_Rollout": "True;60;2023-10-31T21:59:39",
   "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599_Rollout": "10000;60;2023-10-31T22:04:24",
   "FFlagEnableiOSRealtimeProtocolForAllV599_Rollout": "True;60;2023-10-31T22:04:24",
@@ -8731,6 +8730,8 @@
   "DFFlagEnableAdVolumeToggleReporting": "True",
   "AxisAdornmentGrabSize": "12",
   "AllowVideoPreRoll": "True",
+  "FFlagEnableRewardedVideoCompletion": "True",
+  "FFlagAdsEnableClickAnywhereToExit_Rollout": "True;30;2023-10-31T22:32:44",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8997,8 +8998,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "e4d8550e80733e5cc3a11b78d83802962205d532",
-  "DFStringFlagRepoGitHashDynamicString": "e4d8550e80733e5cc3a11b78d83802962205d532",
-  "FStringFlipTimeStampFastString": "2023-10-31T22:29:43.549Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T22:29:43.549Z"
+  "FStringFlagRepoGitHashFastString": "95803f9682b2a081ea71cdb3370eac9ffd88b228",
+  "DFStringFlagRepoGitHashDynamicString": "95803f9682b2a081ea71cdb3370eac9ffd88b228",
+  "FStringFlipTimeStampFastString": "2023-10-31T22:33:23.478Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T22:33:23.478Z"
 }
