@@ -8721,7 +8721,6 @@
   "DFFlagEnableSeamlessFullscreenAnimationOnRotation": "True",
   "FFlagScriptProfilerFrequencyControl": "True",
   "DFFlagEnableStayInFullscreenAndKeepVolumeOnRotation": "True",
-  "FFlagEnableSmoothFullscreenZoom_Rollout": "True;30;2023-10-31T22:22:09",
   "DFFlagEnableAdVolumeToggleReporting": "True",
   "DFFlagDisableControllerManagerAsChild2_Rollout": "True;60;2023-10-31T22:28:54",
   "DFFlagSimHumanoidPhysics_Rollout": "True;60;2023-10-31T22:28:54",
@@ -8735,6 +8734,7 @@
   "FFlagEnableAdPlayback_Rollout": "True;60;2023-10-31T22:49:43",
   "FFlagFixDeserializeSSRace": "True",
   "FFlagEnableAdPlaybackReporting2": "True",
+  "FFlagEnableSmoothFullscreenZoom": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9078,8 +9078,8 @@
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagRealtimeProtocolNewInterface": "True",
   "FFlagViewportFrameSnapshot_PlaceFilter": "False;14669969560",
-  "FStringFlagRepoGitHashFastString": "46f80a6fdcce67ceb0aac28ed7b25a76302fae72",
-  "DFStringFlagRepoGitHashDynamicString": "46f80a6fdcce67ceb0aac28ed7b25a76302fae72",
-  "FStringFlipTimeStampFastString": "2023-10-31T22:52:53.613Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T22:52:53.613Z"
+  "FStringFlagRepoGitHashFastString": "e7b92b1f04443c056aa188ad76b2c59ca209855b",
+  "DFStringFlagRepoGitHashDynamicString": "e7b92b1f04443c056aa188ad76b2c59ca209855b",
+  "FStringFlipTimeStampFastString": "2023-10-31T22:57:41.245Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T22:57:41.245Z"
 }
