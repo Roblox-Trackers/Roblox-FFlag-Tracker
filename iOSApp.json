@@ -8669,6 +8669,8 @@
   "FFlagScriptProfilerTreeFormatV2_Rollout": "True;60;2023-10-31T16:44:18",
   "FFlagScriptProfilerSessionTimeStamps_Rollout": "True;60;2023-10-31T16:44:47",
   "DFFlagReportTimeBetweenTTClient_Rollout": "True;60;2023-10-31T16:54:17",
+  "DFFlagReportTimeBetweenTTServer_Rollout": "True;60;2023-10-31T16:54:22",
+  "DFFlagPerformanceControlEnableUtilityCurveCallback_Rollout": "False;60;2023-10-31T16:56:04",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9011,8 +9013,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagRealtimeProtocolNewInterface": "True",
-  "FStringFlagRepoGitHashFastString": "c2cbb2c224a1025f2aa02927e43655827c8d4ceb",
-  "DFStringFlagRepoGitHashDynamicString": "c2cbb2c224a1025f2aa02927e43655827c8d4ceb",
-  "FStringFlipTimeStampFastString": "2023-10-31T16:55:43.469Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T16:55:43.469Z"
+  "FStringFlagRepoGitHashFastString": "9678f9830d92c7293936d8b0a0c8acd6411f95c7",
+  "DFStringFlagRepoGitHashDynamicString": "9678f9830d92c7293936d8b0a0c8acd6411f95c7",
+  "FStringFlipTimeStampFastString": "2023-10-31T16:56:46.966Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T16:56:46.966Z"
 }
