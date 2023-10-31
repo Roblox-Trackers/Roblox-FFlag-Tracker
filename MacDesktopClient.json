@@ -8648,7 +8648,6 @@
   "FFlagPlayerSetCharacterAllowActors_PlaceFilter": "True;15221258110",
   "DFFlagAnimatorIsThrottledPropertyEnabled_PlaceFilter": "True;15221258110",
   "DFFlagLuaArgumentsHandleCompositorAtomics_PlaceFilter": "True;15221258110",
-  "DFFlagMarkerCurveDecodeFix2_PlaceFilter": "True;15221258110",
   "DFFlagScriptContextGetGlobalStateForActor_PlaceFilter": "True;15221258110",
   "FFlagAnimationParallelUseHybridQueue_PlaceFilter": "True;15221258110",
   "FFlagAnimatorAndADFRefactorInternal_PlaceFilter": "True;15221258110",
@@ -8671,6 +8670,9 @@
   "DFFlagReportTimeBetweenTTClient_Rollout": "True;60;2023-10-31T16:54:17",
   "DFFlagReportTimeBetweenTTServer_Rollout": "True;60;2023-10-31T16:54:22",
   "DFFlagPerformanceControlEnableUtilityCurveCallback_Rollout": "False;60;2023-10-31T16:56:04",
+  "DFFlagMarkerCurveDecodeFix2": "True",
+  "DFFlagAnimationRetargeting_V2": "True",
+  "DFFlagMarkerCurveEncodeDecodeNew": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8939,8 +8941,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "9678f9830d92c7293936d8b0a0c8acd6411f95c7",
-  "DFStringFlagRepoGitHashDynamicString": "9678f9830d92c7293936d8b0a0c8acd6411f95c7",
-  "FStringFlipTimeStampFastString": "2023-10-31T16:56:46.966Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T16:56:46.966Z"
+  "FStringFlagRepoGitHashFastString": "b0d6bda07cd89f4e4e821c4180fae09d205dc590",
+  "DFStringFlagRepoGitHashDynamicString": "b0d6bda07cd89f4e4e821c4180fae09d205dc590",
+  "FStringFlipTimeStampFastString": "2023-10-31T16:59:04.141Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T16:59:04.141Z"
 }
