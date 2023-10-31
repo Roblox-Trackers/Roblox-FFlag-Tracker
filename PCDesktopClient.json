@@ -5489,7 +5489,7 @@
   "FFlagSimEnableCSGV3": "True",
   "FFlagLuaAppCrossDeviceLoginRefactor": "True",
   "DFFlagStaticallyInferArgumentCount": "True",
-  "FFlagFetchMeshPartAccessories3": "False",
+  "FFlagFetchMeshPartAccessories3": "True",
   "FFlagAinRefactorApplySettings": "True",
   "FFlagContactListEnabled": "False",
   "FFlagContactListEnabled_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929",
@@ -8426,7 +8426,7 @@
   "DFFlagUseAndroidMemoryAdviceLibrary6": "True",
   "FFlagLSPServiceScriptOpenTelemetry": "True",
   "FFlagDevConsoleLogTextLabelSizingFix": "True",
-  "DFIntLiveScriptingSessionRolloutPercent": "5",
+  "DFIntLiveScriptingSessionRolloutPercent": "20",
   "FFlagUseDataModelPatchCategory": "True",
   "FFlagUseProfilerTag": "True",
   "FFlagUseScriptContextScopeInResume": "True",
@@ -8987,8 +8987,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "650b32d619ac05305115be54072356102483aad1",
-  "DFStringFlagRepoGitHashDynamicString": "650b32d619ac05305115be54072356102483aad1",
-  "FStringFlipTimeStampFastString": "2023-10-31T21:41:53.122Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T21:41:53.122Z"
+  "FStringFlagRepoGitHashFastString": "0fd4e5f502ff82a5361c7162dd46b3478486e244",
+  "DFStringFlagRepoGitHashDynamicString": "0fd4e5f502ff82a5361c7162dd46b3478486e244",
+  "FStringFlipTimeStampFastString": "2023-10-31T21:43:08.771Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T21:43:08.771Z"
 }
