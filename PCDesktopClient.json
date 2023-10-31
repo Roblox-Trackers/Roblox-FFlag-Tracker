@@ -8689,7 +8689,7 @@
   "FStringEnableChromePinnedChatForcedUserIds": "3878426504;3831379140;2570103006;959520514;",
   "FStringVoiceUpsellLayer": "",
   "FFlagEnableiOSRealtimeProtocolCheckV599": "True",
-  "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599": "0",
+  "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599": "10000",
   "FFlagIrisJoinTimeIos1": "True",
   "EnableAccessibilitySettingsEffectsAndroidWebView": "True",
   "FFlagEnableAccessibilitySettingsAPIV2": "True",
@@ -8715,8 +8715,6 @@
   "FFlagLuaEnableGameInviteModalSettingsHub": "True",
   "FFlagLuaEnableGameInviteModalInvitePrompt": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnification": "True",
-  "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599_Rollout": "10000;60;2023-10-31T22:04:24",
-  "FFlagEnableiOSRealtimeProtocolForAllV599_Rollout": "True;60;2023-10-31T22:04:24",
   "DFFlagEnableSeamlessFullscreenAnimationOnRotation": "True",
   "FFlagScriptProfilerFrequencyControl": "True",
   "DFFlagEnableStayInFullscreenAndKeepVolumeOnRotation": "True",
@@ -8738,6 +8736,7 @@
   "DFFlagControllerDontScaleMoveSpeedFactor_Rollout": "True;60;2023-10-31T23:07:42",
   "DFFlagSimResetHistoryOnTickle": "True",
   "FFlagAdsEnableClickAnywhereToExit": "True",
+  "FFlagEnableiOSRealtimeProtocolForAllV599": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9004,8 +9003,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "5974077dddfe085dd22a7c75838a2126500c8be4",
-  "DFStringFlagRepoGitHashDynamicString": "5974077dddfe085dd22a7c75838a2126500c8be4",
-  "FStringFlipTimeStampFastString": "2023-10-31T23:08:38.513Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T23:08:38.513Z"
+  "FStringFlagRepoGitHashFastString": "d6eaf89ff27e67cbafa92852e18d0865f295f8ef",
+  "DFStringFlagRepoGitHashDynamicString": "d6eaf89ff27e67cbafa92852e18d0865f295f8ef",
+  "FStringFlipTimeStampFastString": "2023-10-31T23:14:08.435Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T23:14:08.435Z"
 }
