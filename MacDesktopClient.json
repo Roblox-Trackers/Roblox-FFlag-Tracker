@@ -8674,8 +8674,6 @@
   "FFlagAvatarPreviewerFixBadAssetTypes": "True",
   "DFFlagMemoryStoreGetAsyncEnableSortKey_PlaceFilter": "True;6998620093;6989419355",
   "DFFlagMemoryStoreSetAsyncEnableSortKey_PlaceFilter": "True;6989419355;6998620093",
-  "FFlagEnableiOSRealtimeProtocolCheckV599_Rollout": "True;60;2023-10-31T17:31:20",
-  "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599_Rollout": "0;60;2023-10-31T17:31:20",
   "DFFlagMemoryStoreGetRangeAsyncEnableSortKey_PlaceFilter": "True;6989419355;6998620093",
   "DFFlagMemoryStoreUpdateAsyncEnableSortKey_PlaceFilter": "True;6989419355;6998620093",
   "DFFlagParallelWorkQueueEarlyOutWhenNoWork": "True",
@@ -8701,6 +8699,9 @@
   "FStringVoiceUpsellLayer": "",
   "FStringVoiceUpsellV2ExperimentLayerEngine": "",
   "FStringVoiceUpsellV2ExperimentLayerLua": "",
+  "FFlagEnableiOSRealtimeProtocolCheckV599": "True",
+  "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599": "0",
+  "FFlagEnableSessionCheckInEngine1_Rollout": "True;60;2023-10-31T18:37:36",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8969,8 +8970,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "2cd66f27c6c962893d8495380ec2c56f330fea5b",
-  "DFStringFlagRepoGitHashDynamicString": "2cd66f27c6c962893d8495380ec2c56f330fea5b",
-  "FStringFlipTimeStampFastString": "2023-10-31T18:31:09.738Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T18:31:09.738Z"
+  "FStringFlagRepoGitHashFastString": "ae82cc9c9cadc261a484e1e77cb00abe0c3b348f",
+  "DFStringFlagRepoGitHashDynamicString": "ae82cc9c9cadc261a484e1e77cb00abe0c3b348f",
+  "FStringFlipTimeStampFastString": "2023-10-31T18:38:25.084Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T18:38:25.084Z"
 }
