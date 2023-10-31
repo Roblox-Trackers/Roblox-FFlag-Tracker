@@ -8688,7 +8688,6 @@
   "FFlagVoiceUpsellNewAnalytics": "True",
   "FStringEnableChromeDefaultOpenForcedUserIds": "2585422222;166540505;3747048826;",
   "FStringEnableChromePinnedChatForcedUserIds": "3878426504;3831379140;2570103006;959520514;",
-  "FFlagStudioUseSafeFormatStandardOutQString_Rollout": "True;60;2023-10-31T18:26:14",
   "FStringVoiceUpsellLayer": "",
   "FStringVoiceUpsellV2ExperimentLayerEngine": "",
   "FStringVoiceUpsellV2ExperimentLayerLua": "",
@@ -8696,7 +8695,6 @@
   "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599": "0",
   "FFlagEnableSessionCheckInEngine1_Rollout": "True;60;2023-10-31T18:37:36",
   "FFlagIrisJoinTimeIos1": "True",
-  "FFlagToggleButtonRowComponentObeyEditableFlag_Rollout": "True;30;2023-10-31T18:54:28",
   "EnableAccessibilitySettingsEffectsAndroidWebView": "True",
   "FFlagEnableAccessibilitySettingsAPIV2": "True",
   "FFlagEnableAccessibilitySettingsEffectsInCoreScripts2": "True",
@@ -8713,6 +8711,8 @@
   "DFIntReportTimeBetweenTTServerHundredthsPercentage": "500",
   "FFlagFmodWasapiRecordBTHeadsetMatching": "True",
   "FFlagUIBloxEnableRateCountBackgroundContrast": "True",
+  "FFlagToggleButtonRowComponentObeyEditableFlag": "True",
+  "FFlagStudioUseSafeFormatStandardOutQString": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8982,8 +8982,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d62fb95d661c9dfc2a6a23279ce4fbf2577e0747",
-  "DFStringFlagRepoGitHashDynamicString": "d62fb95d661c9dfc2a6a23279ce4fbf2577e0747",
-  "FStringFlipTimeStampFastString": "2023-10-31T19:32:09.938Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T19:32:09.938Z"
+  "FStringFlagRepoGitHashFastString": "6a4b1acbb4ecabfc3deca0a1099e4a4bf38786ba",
+  "DFStringFlagRepoGitHashDynamicString": "6a4b1acbb4ecabfc3deca0a1099e4a4bf38786ba",
+  "FStringFlipTimeStampFastString": "2023-10-31T19:33:15.222Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T19:33:15.222Z"
 }
