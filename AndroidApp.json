@@ -3329,7 +3329,6 @@
   "FFlagEnableStringListRobloxTelemetry": "True",
   "FFlagRefactorGetProgram": "True",
   "DFIntGeometricStiffnessAlpha": "50",
-  "DFIntGeometricStiffnessAlpha_PlaceFilter": "100;8130047126",
   "FIntLuaAppRecommendedGamesCount": "20",
   "FFlagLuaAppIncreaseRecommendedGamesFetchLimit": "True",
   "FFlagUseSignalRInNotificationManager": "True",
@@ -8728,6 +8727,7 @@
   "FFlagEnableFullscreenZoom2_Rollout": "True;30;2023-10-31T22:11:30",
   "DFFlagEnableSeamlessFullscreenAnimationOnRotation": "True",
   "FFlagEnableAdPlaybackReporting2_Rollout": "True;30;2023-10-31T22:17:14",
+  "FFlagScriptProfilerFrequencyControl": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9117,8 +9117,8 @@
   "DFStringMemoryBufferForHarmonyData": "{\\\"memCurve\\\":[{\\\"maxsize\\\":1024,\\\"reserve\\\":0.10}]}",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagGpuGeometryManager10_Rollout": "True;60;2023-10-31T21:30:55",
-  "FStringFlagRepoGitHashFastString": "f4103356641c4734160e3f89860fa0526da0bc3c",
-  "DFStringFlagRepoGitHashDynamicString": "f4103356641c4734160e3f89860fa0526da0bc3c",
-  "FStringFlipTimeStampFastString": "2023-10-31T22:18:04.530Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T22:18:04.530Z"
+  "FStringFlagRepoGitHashFastString": "6f48980e85a63a4cc6abb70f92db00ffa0155d8b",
+  "DFStringFlagRepoGitHashDynamicString": "6f48980e85a63a4cc6abb70f92db00ffa0155d8b",
+  "FStringFlipTimeStampFastString": "2023-10-31T22:21:48.708Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T22:21:48.708Z"
 }
