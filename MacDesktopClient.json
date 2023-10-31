@@ -8715,7 +8715,6 @@
   "FFlagLuaEnableGameInviteModalSettingsHub": "True",
   "FFlagLuaEnableGameInviteModalInvitePrompt": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnification": "True",
-  "DFFlagSimResetHistoryOnTickle_Rollout": "True;60;2023-10-31T21:59:39",
   "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599_Rollout": "10000;60;2023-10-31T22:04:24",
   "FFlagEnableiOSRealtimeProtocolForAllV599_Rollout": "True;60;2023-10-31T22:04:24",
   "DFFlagEnableSeamlessFullscreenAnimationOnRotation": "True",
@@ -8725,7 +8724,6 @@
   "AxisAdornmentGrabSize": "12",
   "AllowVideoPreRoll": "True",
   "FFlagEnableRewardedVideoCompletion": "True",
-  "FFlagAdsEnableClickAnywhereToExit_Rollout": "True;30;2023-10-31T22:32:44",
   "FFlagGraphicsVulkanFixInputBindingGaps2": "True",
   "FFlagStudioAuthTokenManagerEmitUserIdWithAccessToken": "True",
   "FFlagNullCheckCloudsRendering_Rollout": "True;60;2023-10-31T22:44:01",
@@ -8737,6 +8735,9 @@
   "FFlagEnableSmoothFullscreenZoom": "True",
   "DFFlagPerformanceControlEnableUtilityCurveCallback_Rollout": "True;60;2023-10-31T23:02:20",
   "FFlagUIListLayoutReplicateHorizontalVerticalPadding": "True",
+  "DFFlagControllerDontScaleMoveSpeedFactor_Rollout": "True;60;2023-10-31T23:07:42",
+  "DFFlagSimResetHistoryOnTickle": "True",
+  "FFlagAdsEnableClickAnywhereToExit": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9003,8 +9004,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "863f6844530e648b9018031782b26249e0f86202",
-  "DFStringFlagRepoGitHashDynamicString": "863f6844530e648b9018031782b26249e0f86202",
-  "FStringFlipTimeStampFastString": "2023-10-31T23:08:19.394Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T23:08:19.394Z"
+  "FStringFlagRepoGitHashFastString": "5974077dddfe085dd22a7c75838a2126500c8be4",
+  "DFStringFlagRepoGitHashDynamicString": "5974077dddfe085dd22a7c75838a2126500c8be4",
+  "FStringFlipTimeStampFastString": "2023-10-31T23:08:38.513Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T23:08:38.513Z"
 }
