@@ -8719,8 +8719,6 @@
   "FFlagScriptProfilerFrequencyControl": "True",
   "DFFlagEnableStayInFullscreenAndKeepVolumeOnRotation": "True",
   "DFFlagEnableAdVolumeToggleReporting": "True",
-  "DFFlagDisableControllerManagerAsChild2_Rollout": "True;60;2023-10-31T22:28:54",
-  "DFFlagSimHumanoidPhysics_Rollout": "True;60;2023-10-31T22:28:54",
   "FFlagEnableRewardedVideoCompletion": "True",
   "FFlagGraphicsVulkanFixInputBindingGaps2": "True",
   "FFlagStudioAuthTokenManagerEmitUserIdWithAccessToken": "True",
@@ -8740,6 +8738,9 @@
   "FFlagContactListClientEnabled": "True",
   "FFlagDeterministicCofmInertiaTenzor_Rollout": "True;60;2023-10-31T23:17:33",
   "DFFlagEnableRewardedVideoCompletionDynamic_Rollout": "True;60;2023-10-31T23:29:32",
+  "DFFlagDisableControllerManagerAsChild2": "True",
+  "DFFlagSimHumanoidPhysics": "True",
+  "FFlagAddFriendsFixAutomaticSize": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9082,8 +9083,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagRealtimeProtocolNewInterface": "True",
-  "FStringFlagRepoGitHashFastString": "c8373a55f86c2d1afa23c599ad887cb261d4aecd",
-  "DFStringFlagRepoGitHashDynamicString": "c8373a55f86c2d1afa23c599ad887cb261d4aecd",
-  "FStringFlipTimeStampFastString": "2023-10-31T23:30:32.623Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T23:30:32.623Z"
+  "FStringFlagRepoGitHashFastString": "d5d45a6d46b50d75b455db591a4c6d9387c5c833",
+  "DFStringFlagRepoGitHashDynamicString": "d5d45a6d46b50d75b455db591a4c6d9387c5c833",
+  "FStringFlipTimeStampFastString": "2023-10-31T23:37:43.198Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T23:37:43.198Z"
 }
