@@ -8719,7 +8719,6 @@
   "DFFlagSimResetHistoryOnTickle_Rollout": "True;60;2023-10-31T21:59:39",
   "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599_Rollout": "10000;60;2023-10-31T22:04:24",
   "FFlagEnableiOSRealtimeProtocolForAllV599_Rollout": "True;60;2023-10-31T22:04:24",
-  "FFlagEnableFullscreenZoom2_Rollout": "True;30;2023-10-31T22:11:30",
   "DFFlagEnableSeamlessFullscreenAnimationOnRotation": "True",
   "FFlagEnableAdPlaybackReporting2_Rollout": "True;30;2023-10-31T22:17:14",
   "FFlagScriptProfilerFrequencyControl": "True",
@@ -8733,6 +8732,8 @@
   "FFlagGraphicsVulkanFixInputBindingGaps2": "True",
   "FFlagStudioAuthTokenManagerEmitUserIdWithAccessToken": "True",
   "FFlagNullCheckCloudsRendering_Rollout": "True;60;2023-10-31T22:44:01",
+  "FFlagRetrieveCapturesOrderingFixEnabled2": "True",
+  "FFlagEnableFullscreenZoom2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8999,8 +9000,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "beb6b1e830d8693605abf2760b2009ecaa1837e3",
-  "DFStringFlagRepoGitHashDynamicString": "beb6b1e830d8693605abf2760b2009ecaa1837e3",
-  "FStringFlipTimeStampFastString": "2023-10-31T22:44:49.057Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T22:44:49.057Z"
+  "FStringFlagRepoGitHashFastString": "2c2b3dcd98199bdd2da31e78d3957dabde5e1f98",
+  "DFStringFlagRepoGitHashDynamicString": "2c2b3dcd98199bdd2da31e78d3957dabde5e1f98",
+  "FStringFlipTimeStampFastString": "2023-10-31T22:48:26.399Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T22:48:26.399Z"
 }
