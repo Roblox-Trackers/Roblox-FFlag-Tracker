@@ -8334,7 +8334,7 @@
   "FFlagSetupIXPExperiment2": "True",
   "DFFlagAddMultToEventIngest": "True",
   "DFFlagEfficientBitstreamPackingV2": "True",
-  "DFFlagEnableAdaptiveEffectPredictorShadow": "True",
+  "DFFlagEnableAdaptiveEffectPredictorShadow": "False",
   "FFlagHumanoidDeferredSyncFunction5": "True",
   "FFlagHumanoidParallelUseManager4": "True",
   "FFlagEnablePlayerViewApi2": "False",
@@ -8667,7 +8667,6 @@
   "DFFlagAnimationRetargeting_V2": "True",
   "DFFlagMarkerCurveEncodeDecodeNew": "True",
   "FFlagRCCStopSTDOutput": "True",
-  "DFFlagEnableAdaptiveEffectPredictorShadow_Rollout": "False;60;2023-10-31T17:19:07",
   "FFlagAvatarPreviewerContextualAccessoryDropdowns": "True",
   "FFlagAvatarPreviewerLayeredOrRigidClothingSubtitle": "True",
   "FFlagAvatarPreviewerEyebrowsAndEyelashes": "True",
@@ -8967,8 +8966,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "93ab65c8c1a7949961097e6a856b1e6e6340c852",
-  "DFStringFlagRepoGitHashDynamicString": "93ab65c8c1a7949961097e6a856b1e6e6340c852",
-  "FStringFlipTimeStampFastString": "2023-10-31T18:26:39.520Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T18:26:39.520Z"
+  "FStringFlagRepoGitHashFastString": "50ddb24c29f7e68fc08eeb5d9cdba1362e728a99",
+  "DFStringFlagRepoGitHashDynamicString": "50ddb24c29f7e68fc08eeb5d9cdba1362e728a99",
+  "FStringFlipTimeStampFastString": "2023-10-31T18:27:46.304Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T18:27:46.304Z"
 }
