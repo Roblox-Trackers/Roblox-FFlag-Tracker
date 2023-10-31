@@ -8640,7 +8640,6 @@
   "DFFlagAdsPreloadInteractivityAssets": "True",
   "FFlagUGCValidationUseUniverseId": "True",
   "DFFlagEnablePromptNativePurchaseWithPayload": "True",
-  "FFlagRemoveChannelImplicitConversion_Rollout": "True;60;2023-10-30T22:58:21",
   "FFlagContactImporterFilterEmptyStrings": "True",
   "FFlagContactListEnabled2": "False",
   "FFlagContactListEnabled2_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929",
@@ -8664,6 +8663,7 @@
   "FFlagRemovePackagePropertyItemsDMDependency": "True",
   "FIntHttpWrapperTelemetryHundredthsPercent": "1000",
   "FFlagEnablePrivacySettingsDeeplinks": "True",
+  "FFlagRemoveChannelImplicitConversion": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8996,8 +8996,8 @@
   "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagUIBloxEnableNewMenuLayout": "True",
   "FFlagUIBloxFixScrollBarLayout10ft": "True",
-  "FStringFlagRepoGitHashFastString": "a571c6081ffc65371f7df512c11efd96d9ac408a",
-  "DFStringFlagRepoGitHashDynamicString": "a571c6081ffc65371f7df512c11efd96d9ac408a",
-  "FStringFlipTimeStampFastString": "2023-10-30T23:59:16.601Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-30T23:59:16.601Z"
+  "FStringFlagRepoGitHashFastString": "0d06c1b7d12efa3de226eb239a341f16ccee81d9",
+  "DFStringFlagRepoGitHashDynamicString": "0d06c1b7d12efa3de226eb239a341f16ccee81d9",
+  "FStringFlipTimeStampFastString": "2023-10-31T00:07:35.566Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T00:07:35.566Z"
 }
