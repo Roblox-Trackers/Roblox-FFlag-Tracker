@@ -8689,7 +8689,6 @@
   "FFlagVoiceConsentCopyV2": "True",
   "FFlagVoiceUpsellNewAnalytics": "True",
   "FFlagFmodWasapiRecordBTHeadsetMatching_Rollout": "True;60;2023-10-31T18:07:48",
-  "FFlagFontPropertyItemNoDatamodel_Rollout": "True;30;2023-10-31T18:19:01",
   "FStringEnableChromeDefaultOpenForcedUserIds": "2585422222;166540505;3747048826;",
   "FStringEnableChromePinnedChatForcedUserIds": "3878426504;3831379140;2570103006;959520514;",
   "FFlagStudioUseSafeFormatStandardOutQString_Rollout": "True;60;2023-10-31T18:26:14",
@@ -8712,6 +8711,7 @@
   "FFlagEnableAccessibilitySettingsInAppShellSettings2": "True",
   "FFlagEnableAccessibilitySettingsInExperienceMenu2": "True",
   "FFlagUIBloxFixResponsiveCarouselRowZIndex": "True",
+  "FFlagFontPropertyItemNoDatamodel": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9055,8 +9055,8 @@
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagRealtimeProtocolNewInterface": "True",
   "FFlagViewportFrameSnapshot_PlaceFilter": "False;14669969560",
-  "FStringFlagRepoGitHashFastString": "60c26951e0b6e44eb4cf5c9df604ee58b145bd90",
-  "DFStringFlagRepoGitHashDynamicString": "60c26951e0b6e44eb4cf5c9df604ee58b145bd90",
-  "FStringFlipTimeStampFastString": "2023-10-31T18:56:28.138Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T18:56:28.138Z"
+  "FStringFlagRepoGitHashFastString": "419fb485c12342ce220718e6b4367457adbb7a00",
+  "DFStringFlagRepoGitHashDynamicString": "419fb485c12342ce220718e6b4367457adbb7a00",
+  "FStringFlipTimeStampFastString": "2023-10-31T18:57:36.969Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T18:57:36.969Z"
 }
