@@ -8715,6 +8715,8 @@
   "FFlagGraphicsVulkanFixInputBindingGaps2_Rollout": "True;60;2023-10-31T21:31:27",
   "FFlagStudioAuthTokenManagerEmitUserIdWithAccessToken_Rollout": "True;60;2023-10-31T21:31:54",
   "FFlagLuaEnableGameInviteModal2023V5": "True",
+  "DFFlagEnableSeamlessFullscreenAnimationOnRotation_Rollout": "True;30;2023-10-31T21:33:24",
+  "FFlagLuaEnableGameInviteModalSettingsHub": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8984,8 +8986,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "2ff758c06fc2e95daa90e0d28c7196c29b548d8d",
-  "DFStringFlagRepoGitHashDynamicString": "2ff758c06fc2e95daa90e0d28c7196c29b548d8d",
-  "FStringFlipTimeStampFastString": "2023-10-31T21:33:34.183Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T21:33:34.183Z"
+  "FStringFlagRepoGitHashFastString": "dfe4611f3c846845134ff1cdb06a7235eb12c7de",
+  "DFStringFlagRepoGitHashDynamicString": "dfe4611f3c846845134ff1cdb06a7235eb12c7de",
+  "FStringFlipTimeStampFastString": "2023-10-31T21:34:29.244Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T21:34:29.244Z"
 }
