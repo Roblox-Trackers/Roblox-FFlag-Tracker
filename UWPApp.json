@@ -8663,8 +8663,6 @@
   "FFlagRemoveChannelImplicitConversion": "True",
   "DFFlagEnableInteractivityControls3": "True",
   "DFFlagSimSolverSoftLockServoAtTargetOnlyOptionally": "True",
-  "FFlagScriptProfilerTreeFormatV2_Rollout": "True;60;2023-10-31T16:44:18",
-  "FFlagScriptProfilerSessionTimeStamps_Rollout": "True;60;2023-10-31T16:44:47",
   "DFFlagReportTimeBetweenTTClient_Rollout": "True;60;2023-10-31T16:54:17",
   "DFFlagReportTimeBetweenTTServer_Rollout": "True;60;2023-10-31T16:54:22",
   "DFFlagPerformanceControlEnableUtilityCurveCallback_Rollout": "False;60;2023-10-31T16:56:04",
@@ -8689,6 +8687,8 @@
   "FFlagSelfViewMultiTouchFix2": "True",
   "FFlagAinPreviewLighting2": "True",
   "FFlagIrisJoinTimeIos1_Rollout": "True;60;2023-10-31T17:39:10",
+  "FFlagScriptProfilerSessionTimeStamps": "True",
+  "FFlagScriptProfilerTreeFormatV2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8879,8 +8879,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "9eab47db94fd27ca75288223eac73a6e486a23d1",
-  "DFStringFlagRepoGitHashDynamicString": "9eab47db94fd27ca75288223eac73a6e486a23d1",
-  "FStringFlipTimeStampFastString": "2023-10-31T17:51:24.564Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T17:51:24.564Z"
+  "FStringFlagRepoGitHashFastString": "a619baa74ee739ca085cecb6c6682e6e56c1da42",
+  "DFStringFlagRepoGitHashDynamicString": "a619baa74ee739ca085cecb6c6682e6e56c1da42",
+  "FStringFlipTimeStampFastString": "2023-10-31T17:52:28.465Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T17:52:28.465Z"
 }
