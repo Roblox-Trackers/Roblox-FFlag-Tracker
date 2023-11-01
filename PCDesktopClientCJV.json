@@ -8741,12 +8741,12 @@
   "FFlagDeterministicCofmInertiaTenzor": "True",
   "DFFlagEnableRewardedVideoCompletionDynamic": "True",
   "FFlagPlayStationNpCppWebApiAsync": "True",
-  "FFlagFixResumeRenderOnForeground_Rollout": "True;60;2023-11-01T16:31:19",
   "DFFlagClampLoopPoints_Rollout": "True;60;2023-11-01T16:36:31",
   "FFlagFixSkinningOnM1_Rollout": "True;60;2023-11-01T16:48:48",
   "DFIntRobloxTelemetryCreationDBInstanceStats_Rollout": "1;60;2023-11-01T17:33:47",
   "FStringVoiceUpsellV2ExperimentLayerEngine": "SocialVoice.VoiceUpsell2",
   "FStringVoiceUpsellV2ExperimentLayerLua": "SocialVoice.VoiceUpsell2",
+  "FFlagFixResumeRenderOnForeground": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9014,8 +9014,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "6ee03c694ae6b27127546fff8370658b14e47c1e",
-  "DFStringFlagRepoGitHashDynamicString": "6ee03c694ae6b27127546fff8370658b14e47c1e",
-  "FStringFlipTimeStampFastString": "2023-11-01T17:36:46.969Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T17:36:46.969Z"
+  "FStringFlagRepoGitHashFastString": "c28468c87914df4bece54f99ffcb028d386e1666",
+  "DFStringFlagRepoGitHashDynamicString": "c28468c87914df4bece54f99ffcb028d386e1666",
+  "FStringFlipTimeStampFastString": "2023-11-01T17:38:15.959Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T17:38:15.959Z"
 }
