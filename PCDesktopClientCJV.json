@@ -8745,6 +8745,8 @@
   "DFFlagClampLoopPoints_Rollout": "True;60;2023-11-01T16:36:31",
   "FFlagFixSkinningOnM1_Rollout": "True;60;2023-11-01T16:48:48",
   "DFIntRobloxTelemetryCreationDBInstanceStats_Rollout": "1;60;2023-11-01T17:33:47",
+  "FStringVoiceUpsellV2ExperimentLayerEngine": "SocialVoice.VoiceUpsell2",
+  "FStringVoiceUpsellV2ExperimentLayerLua": "SocialVoice.VoiceUpsell2",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9012,8 +9014,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "ad609d17618c325d1adc185cecea450aa5070d83",
-  "DFStringFlagRepoGitHashDynamicString": "ad609d17618c325d1adc185cecea450aa5070d83",
-  "FStringFlipTimeStampFastString": "2023-11-01T17:34:21.371Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T17:34:21.371Z"
+  "FStringFlagRepoGitHashFastString": "6ee03c694ae6b27127546fff8370658b14e47c1e",
+  "DFStringFlagRepoGitHashDynamicString": "6ee03c694ae6b27127546fff8370658b14e47c1e",
+  "FStringFlipTimeStampFastString": "2023-11-01T17:36:46.969Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T17:36:46.969Z"
 }
