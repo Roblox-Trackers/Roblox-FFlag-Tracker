@@ -8724,7 +8724,6 @@
   "FFlagStudioAuthTokenManagerEmitUserIdWithAccessToken": "True",
   "FFlagRetrieveCapturesOrderingFixEnabled2": "True",
   "FFlagEnableFullscreenZoom2": "True",
-  "FFlagEnableAdPlayback_Rollout": "True;60;2023-10-31T22:49:43",
   "FFlagFixDeserializeSSRace": "True",
   "FFlagEnableAdPlaybackReporting2": "True",
   "FFlagEnableSmoothFullscreenZoom": "True",
@@ -8744,6 +8743,7 @@
   "FFlagNullCheckCloudsRendering": "True",
   "FFlagEnableiOSRealtimeProtocolForAllV599_Rollout": "False;60;2023-10-31T23:57:42",
   "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599_Rollout": "0;60;2023-10-31T23:57:42",
+  "FFlagEnableAdPlayback": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8934,8 +8934,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "ff0bbe41d467604c3d35b836689c5c036581f1f5",
-  "DFStringFlagRepoGitHashDynamicString": "ff0bbe41d467604c3d35b836689c5c036581f1f5",
-  "FStringFlipTimeStampFastString": "2023-10-31T23:58:30.071Z",
-  "DFStringFlipTimeStampDynamicString": "2023-10-31T23:58:30.071Z"
+  "FStringFlagRepoGitHashFastString": "c3dc0ddb3ccaed73e875633aa6e057dc93af57b5",
+  "DFStringFlagRepoGitHashDynamicString": "c3dc0ddb3ccaed73e875633aa6e057dc93af57b5",
+  "FStringFlipTimeStampFastString": "2023-10-31T23:58:38.758Z",
+  "DFStringFlipTimeStampDynamicString": "2023-10-31T23:58:38.758Z"
 }
