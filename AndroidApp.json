@@ -5488,7 +5488,7 @@
   "FFlagSimEnableCSGV3": "True",
   "FFlagLuaAppCrossDeviceLoginRefactor": "True",
   "DFFlagStaticallyInferArgumentCount": "True",
-  "FFlagFetchMeshPartAccessories3": "True",
+  "FFlagFetchMeshPartAccessories3": "False",
   "FFlagAinRefactorApplySettings": "True",
   "FFlagContactListEnabled": "False",
   "FFlagContactListEnabled_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929",
@@ -9150,8 +9150,8 @@
   "DFStringMemoryBufferForHarmonyData": "{\\\"memCurve\\\":[{\\\"maxsize\\\":1024,\\\"reserve\\\":0.10}]}",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagGpuGeometryManager10": "True",
-  "FStringFlagRepoGitHashFastString": "6c92b067abae2047fa35e5b91862c1d059c18cc6",
-  "DFStringFlagRepoGitHashDynamicString": "6c92b067abae2047fa35e5b91862c1d059c18cc6",
-  "FStringFlipTimeStampFastString": "2023-11-01T18:53:56.266Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T18:53:56.266Z"
+  "FStringFlagRepoGitHashFastString": "cecb42a0df820999e1f5f8f40f6381846f143509",
+  "DFStringFlagRepoGitHashDynamicString": "cecb42a0df820999e1f5f8f40f6381846f143509",
+  "FStringFlipTimeStampFastString": "2023-11-01T18:55:14.070Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T18:55:14.070Z"
 }
