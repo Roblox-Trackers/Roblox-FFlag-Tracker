@@ -8760,7 +8760,6 @@
   "FFlagDontCreatePingJob2": "True",
   "FFlagToolboxDisableContextualRecommendationRetries": "True",
   "FFlagACEFixRigUtilsMigration": "True",
-  "FFlagDisableRenderTabforNon3D_Rollout": "True;60;2023-11-01T21:33:07",
   "DFFlagVoiceChatGrpcCqBreakOnNotOk": "False",
   "DFFlagVoiceChatGrpcCqBreakOnNotOk_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;9096881148;12699642568;2711375305;3808081382;2626227051;703124385;3317679266;12123120785;13344085926;14292367294;12339044345;189707",
   "DFFlagVoiceChatSubmitTagNotFoundAndInsertFailedError": "False",
@@ -8782,6 +8781,7 @@
   "FFlagPackageDiffCanActRecheck_Rollout": "True;60;2023-11-01T22:34:58",
   "FFlagAdjustPathLabelWidth": "True",
   "FFlagVersionsBeforeHistoryIdFix": "True",
+  "FFlagDisableRenderTabforNon3D": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9047,8 +9047,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "841e6289c1f6607b170efec265420684ea302cd0",
-  "DFStringFlagRepoGitHashDynamicString": "841e6289c1f6607b170efec265420684ea302cd0",
-  "FStringFlipTimeStampFastString": "2023-11-01T22:41:38.845Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T22:41:38.845Z"
+  "FStringFlagRepoGitHashFastString": "603afcee17d1f1d3826d8c9b16016befc9d5dc80",
+  "DFStringFlagRepoGitHashDynamicString": "603afcee17d1f1d3826d8c9b16016befc9d5dc80",
+  "FStringFlipTimeStampFastString": "2023-11-01T22:42:58.283Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T22:42:58.283Z"
 }
