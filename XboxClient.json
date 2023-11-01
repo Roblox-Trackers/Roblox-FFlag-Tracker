@@ -8502,7 +8502,7 @@
   "FFlagToolboxRedirectToGenericReportPage": "True",
   "FFlagScriptSideWidgetSetTopMargin": "True",
   "DFFlagPerformanceControlEnableUtilityCurveCallback": "True",
-  "FFlagEnableSecondaryMetricsLocking": "True",
+  "FFlagEnableSecondaryMetricsLocking": "False",
   "FFlagFixResettingNonStickyMetrics": "True",
   "FFlagGameSettingsRenameCollabEditToDrafts": "True",
   "FIntSessionTrackingStorageFlushPeriodMs": "20000",
@@ -8743,7 +8743,6 @@
   "FStringVoiceUpsellV2ExperimentLayerLua": "SocialVoice.VoiceUpsell2",
   "FFlagFixResumeRenderOnForeground": "True",
   "FFlagEnableiOSUpdateAdapter": "True",
-  "FFlagEnableSecondaryMetricsLocking_Rollout": "False;60;2023-11-01T17:48:54",
   "DFFlagClampLoopPoints": "True",
   "FFlagFixSkinningOnM1": "True",
   "FFlagIrisUpdateCallIdForUserRemoteEventEnabled2": "False",
@@ -9112,8 +9111,8 @@
   "FFlagXboxGameProtocol": "True",
   "FFlagXboxKeyboardType": "True",
   "FFlagXboxNixValidSessionPoller": "True",
-  "FStringFlagRepoGitHashFastString": "cecb42a0df820999e1f5f8f40f6381846f143509",
-  "DFStringFlagRepoGitHashDynamicString": "cecb42a0df820999e1f5f8f40f6381846f143509",
-  "FStringFlipTimeStampFastString": "2023-11-01T18:55:14.070Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T18:55:14.070Z"
+  "FStringFlagRepoGitHashFastString": "bdbd3843472c8d27df4568d271d1421ab3d8c569",
+  "DFStringFlagRepoGitHashDynamicString": "bdbd3843472c8d27df4568d271d1421ab3d8c569",
+  "FStringFlipTimeStampFastString": "2023-11-01T18:58:39.596Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T18:58:39.596Z"
 }
