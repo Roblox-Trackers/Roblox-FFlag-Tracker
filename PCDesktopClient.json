@@ -8771,7 +8771,6 @@
   "FFlagScriptDiffWidget1": "True",
   "DFFlagEnableVideoAdsOptOut": "True",
   "DFFlagAudioListenerSanitizeCFrames": "True",
-  "FFlagPackageDiffCanActRecheck_Rollout": "True;60;2023-11-01T22:34:58",
   "FFlagAdjustPathLabelWidth": "True",
   "FFlagVersionsBeforeHistoryIdFix": "True",
   "FFlagDisableRenderTabforNon3D": "True",
@@ -8786,6 +8785,7 @@
   "FFlagPackageDiffActivityTracking": "True",
   "FFlagStreamingSolverDenseSet": "True",
   "FFlagVoiceInputUseNewAudioApi4_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929;12867089300;14066075418;12796376276;13989579574;12500012844;14030887154",
+  "FFlagPackageDiffCanActRecheck": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9052,8 +9052,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "48e69d8eeef816ba401cff184eedd2f43e8fdf7a",
-  "DFStringFlagRepoGitHashDynamicString": "48e69d8eeef816ba401cff184eedd2f43e8fdf7a",
-  "FStringFlipTimeStampFastString": "2023-11-01T23:39:39.842Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T23:39:39.842Z"
+  "FStringFlagRepoGitHashFastString": "5568a4a14ffa37d24d3b974e257fab30a29d223d",
+  "DFStringFlagRepoGitHashDynamicString": "5568a4a14ffa37d24d3b974e257fab30a29d223d",
+  "FStringFlipTimeStampFastString": "2023-11-01T23:43:12.218Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T23:43:12.218Z"
 }
