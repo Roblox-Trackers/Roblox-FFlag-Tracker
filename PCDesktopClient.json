@@ -8774,6 +8774,7 @@
   "DFFlagVoiceChatSubmitTagNotFoundAndInsertFailedError_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;9096881148;12699642568;2711375305;3808081382;2626227051;703124385;3317679266;12123120785;13344085926;14292367294;12339044345;189707",
   "FFlagVoiceChatStreamingGrpcTagFix": "False",
   "FFlagVoiceChatStreamingGrpcTagFix_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;9096881148;12699642568;2711375305;3808081382;2626227051;703124385;3317679266;12123120785;13344085926;14292367294;12339044345;189707",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -8782,7 +8783,6 @@
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagUseExperienceService": "True",
   "FFlagGpuGeometryManager10": "True",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9040,8 +9040,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "19b00fe0668a7858ea08c04dd7d16b4c4b89af56",
-  "DFStringFlagRepoGitHashDynamicString": "19b00fe0668a7858ea08c04dd7d16b4c4b89af56",
-  "FStringFlipTimeStampFastString": "2023-11-01T21:45:54.271Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T21:45:54.271Z"
+  "FStringFlagRepoGitHashFastString": "901bb6aec8579a67b0255360ea739289529d29e0",
+  "DFStringFlagRepoGitHashDynamicString": "901bb6aec8579a67b0255360ea739289529d29e0",
+  "FStringFlipTimeStampFastString": "2023-11-01T21:46:53.713Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T21:46:53.713Z"
 }
