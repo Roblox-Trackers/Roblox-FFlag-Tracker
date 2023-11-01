@@ -8766,7 +8766,6 @@
   "FFlagAdjustPathLabelWidth_Rollout": "True;60;2023-11-01T21:31:59",
   "FFlagVersionsBeforeHistoryIdFix_Rollout": "True;60;2023-11-01T21:32:09",
   "FFlagDisableRenderTabforNon3D_Rollout": "True;60;2023-11-01T21:33:07",
-  "FFlagScriptDiffWidget1_Rollout": "True;30;2023-11-01T21:39:03",
   "DFFlagVoiceChatGrpcCqBreakOnNotOk": "False",
   "DFFlagVoiceChatGrpcCqBreakOnNotOk_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;9096881148;12699642568;2711375305;3808081382;2626227051;703124385;3317679266;12123120785;13344085926;14292367294;12339044345;189707",
   "DFFlagVoiceChatSubmitTagNotFoundAndInsertFailedError": "False",
@@ -8778,6 +8777,8 @@
   "FFlagToolboxUseToolboxServiceForGroupAnimations": "True",
   "FFlagACEFilterEvents": "True",
   "DFFlagSimResetHistoryOnTickle_Rollout": "False;30;2023-11-01T21:57:58",
+  "FFlagInternetPingUponDisconnect_Rollout": "True;60;2023-11-01T22:16:43",
+  "FFlagScriptDiffWidget1": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9044,8 +9045,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "5642531bcce69860d6fbe416d0d532ce110422c8",
-  "DFStringFlagRepoGitHashDynamicString": "5642531bcce69860d6fbe416d0d532ce110422c8",
-  "FStringFlipTimeStampFastString": "2023-11-01T21:58:58.050Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T21:58:58.050Z"
+  "FStringFlagRepoGitHashFastString": "5deb2f6f1102609b87614aa60af37d3c08809c0c",
+  "DFStringFlagRepoGitHashDynamicString": "5deb2f6f1102609b87614aa60af37d3c08809c0c",
+  "FStringFlipTimeStampFastString": "2023-11-01T22:18:01.239Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T22:18:01.239Z"
 }
