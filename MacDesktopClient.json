@@ -8728,7 +8728,6 @@
   "FFlagEnableAdPlaybackReporting2": "True",
   "FFlagEnableSmoothFullscreenZoom": "True",
   "FFlagUIListLayoutReplicateHorizontalVerticalPadding": "True",
-  "DFFlagControllerDontScaleMoveSpeedFactor_Rollout": "True;60;2023-10-31T23:07:42",
   "DFFlagSimResetHistoryOnTickle": "True",
   "FFlagAdsEnableClickAnywhereToExit": "True",
   "FFlagEnableiOSRealtimeProtocolForAllV599": "True",
@@ -8743,6 +8742,7 @@
   "FFlagEnableiOSRealtimeProtocolForAllV599_Rollout": "False;60;2023-10-31T23:57:42",
   "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599_Rollout": "0;60;2023-10-31T23:57:42",
   "FFlagEnableAdPlayback": "True",
+  "DFFlagControllerDontScaleMoveSpeedFactor": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9009,8 +9009,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "ac1a2141f9857e1c8ef0ccb75f5430f77193a95a",
-  "DFStringFlagRepoGitHashDynamicString": "ac1a2141f9857e1c8ef0ccb75f5430f77193a95a",
-  "FStringFlipTimeStampFastString": "2023-11-01T00:07:52.897Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T00:07:52.897Z"
+  "FStringFlagRepoGitHashFastString": "f26168b3be4b7e11cc17ef786acf8f8c91467035",
+  "DFStringFlagRepoGitHashDynamicString": "f26168b3be4b7e11cc17ef786acf8f8c91467035",
+  "FStringFlipTimeStampFastString": "2023-11-01T00:18:22.435Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T00:18:22.435Z"
 }
