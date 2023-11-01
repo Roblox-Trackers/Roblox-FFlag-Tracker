@@ -8774,7 +8774,6 @@
   "FFlagAdjustPathLabelWidth": "True",
   "FFlagVersionsBeforeHistoryIdFix": "True",
   "FFlagDisableRenderTabforNon3D": "True",
-  "DFFlagSimSolverClampConstraintLegacyGyroAngularVelocityParameters_Rollout": "True;60;2023-11-01T22:48:55",
   "FFlagStudioMoveCreateQmlEngine_Rollout": "True;60;2023-11-01T22:59:35",
   "FFlagStudioStartPageUIControllerStateMachine3": "True",
   "FFlagStudioAddFlagRepoInfoToCrashReports_Rollout": "True;60;2023-11-01T23:16:20",
@@ -8786,6 +8785,7 @@
   "FFlagStreamingSolverDenseSet": "True",
   "FFlagVoiceInputUseNewAudioApi4_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929;12867089300;14066075418;12796376276;13989579574;12500012844;14030887154",
   "FFlagPackageDiffCanActRecheck": "True",
+  "DFFlagSimSolverClampConstraintLegacyGyroAngularVelocityParameters": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9128,8 +9128,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagRealtimeProtocolNewInterface": "True",
-  "FStringFlagRepoGitHashFastString": "5568a4a14ffa37d24d3b974e257fab30a29d223d",
-  "DFStringFlagRepoGitHashDynamicString": "5568a4a14ffa37d24d3b974e257fab30a29d223d",
-  "FStringFlipTimeStampFastString": "2023-11-01T23:43:12.218Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T23:43:12.218Z"
+  "FStringFlagRepoGitHashFastString": "479a787aa0548e856e43c54aefdf1e435090d782",
+  "DFStringFlagRepoGitHashDynamicString": "479a787aa0548e856e43c54aefdf1e435090d782",
+  "FStringFlipTimeStampFastString": "2023-11-01T23:58:07.945Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T23:58:07.945Z"
 }
