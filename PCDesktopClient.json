@@ -8749,6 +8749,7 @@
   "FFlagEnableSecondaryMetricsLocking_Rollout": "False;60;2023-11-01T17:48:54",
   "DFFlagClampLoopPoints": "True",
   "FFlagFixSkinningOnM1": "True",
+  "FFlagIrisUpdateCallIdForUserRemoteEventEnabled2": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9015,8 +9016,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "5666766a0c02759ef622288ef989c24b304b2a13",
-  "DFStringFlagRepoGitHashDynamicString": "5666766a0c02759ef622288ef989c24b304b2a13",
-  "FStringFlipTimeStampFastString": "2023-11-01T17:58:29.212Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T17:58:29.212Z"
+  "FStringFlagRepoGitHashFastString": "79320e370aef64731d98d4d4433f751b4f0c3967",
+  "DFStringFlagRepoGitHashDynamicString": "79320e370aef64731d98d4d4433f751b4f0c3967",
+  "FStringFlipTimeStampFastString": "2023-11-01T18:02:57.931Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T18:02:57.931Z"
 }
