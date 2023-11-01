@@ -8756,13 +8756,14 @@
   "FFlagChatTranslationUIEnabled": "True",
   "FFlagTextChatServiceSettingsSaved": "True",
   "DFIntRobloxTelemetryCreationDBInstanceStats": "1",
-  "DFFlagSimOnlyShowCenterOfMassVisualizationForSelected_Rollout": "True;60;2023-11-01T18:53:14",
   "FFlagSetTeamCreateConnectionDialogName": "True",
   "FFlagUseGeneralizedPeakRMS": "True",
   "FFlagEnableSecondaryMetricsLocking_Rollout": "True;60;2023-11-01T19:33:47",
   "FFlagDontCreatePingJob2_Rollout": "True;60;2023-11-01T19:46:41",
   "FFlagEnableiOSRealtimeProtocolForAllV599_Rollout": "True;60;2023-11-01T20:01:12",
   "FIntEnableiOSRealtimeProtocolRolloutHundredthPercentV599_Rollout": "10000;60;2023-11-01T20:01:12",
+  "DFFlagEnableVideoAdsOptOut_Rollout": "True;60;2023-11-01T20:02:25",
+  "DFFlagSimOnlyShowCenterOfMassVisualizationForSelected": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9152,8 +9153,8 @@
   "DFStringMemoryBufferForHarmonyData": "{\\\"memCurve\\\":[{\\\"maxsize\\\":1024,\\\"reserve\\\":0.10}]}",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagGpuGeometryManager10": "True",
-  "FStringFlagRepoGitHashFastString": "37616c26796509974231153b7fda5c0bf611a66e",
-  "DFStringFlagRepoGitHashDynamicString": "37616c26796509974231153b7fda5c0bf611a66e",
-  "FStringFlipTimeStampFastString": "2023-11-01T20:01:44.412Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T20:01:44.412Z"
+  "FStringFlagRepoGitHashFastString": "21ad9f4fda674b437cfb3cc69e7865acae7ba7ce",
+  "DFStringFlagRepoGitHashDynamicString": "21ad9f4fda674b437cfb3cc69e7865acae7ba7ce",
+  "FStringFlipTimeStampFastString": "2023-11-01T20:03:02.001Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T20:03:02.001Z"
 }
