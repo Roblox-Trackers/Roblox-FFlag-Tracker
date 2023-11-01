@@ -8760,6 +8760,7 @@
   "FFlagSetTeamCreateConnectionDialogName": "True",
   "FFlagUseGeneralizedPeakRMS": "True",
   "FFlagEnableSecondaryMetricsLocking_Rollout": "True;60;2023-11-01T19:33:47",
+  "FFlagDontCreatePingJob2_Rollout": "True;60;2023-11-01T19:46:41",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9102,8 +9103,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagRealtimeProtocolNewInterface": "True",
-  "FStringFlagRepoGitHashFastString": "4f00cdc393a1b7f0acc19acaf18576e00b756a37",
-  "DFStringFlagRepoGitHashDynamicString": "4f00cdc393a1b7f0acc19acaf18576e00b756a37",
-  "FStringFlipTimeStampFastString": "2023-11-01T19:34:36.428Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-01T19:34:36.428Z"
+  "FStringFlagRepoGitHashFastString": "0309590d4eabfec79cf0eeaedc6c080a66cf9014",
+  "DFStringFlagRepoGitHashDynamicString": "0309590d4eabfec79cf0eeaedc6c080a66cf9014",
+  "FStringFlipTimeStampFastString": "2023-11-01T19:47:54.700Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-01T19:47:54.700Z"
 }
