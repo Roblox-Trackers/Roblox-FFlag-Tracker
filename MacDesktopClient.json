@@ -8831,7 +8831,6 @@
   "FFlagSimVisuallyMovedNoThread": "True",
   "FFlagLuaAppDeprecateGameTileColors": "True",
   "DFFlagSimUnifyConstraintForceVisDesignWithAero_Rollout": "True;60;2023-11-02T22:39:24",
-  "FFlagTrackPrimitiveCount2_Rollout": "True;30;2023-11-02T22:46:05",
   "DFFlagReportExitReasonErrorCodeInSessionTracking_Rollout": "True;60;2023-11-02T22:47:57",
   "DFFlagReportHangDetectedInSessionTracking_Rollout": "True;60;2023-11-02T22:48:45",
   "DFIntRCCMergeSameTouchesTimeoutInMS_Rollout": "1200;30;2023-11-02T22:56:49",
@@ -8839,6 +8838,7 @@
   "FFlagLuaAppChallengeDialogEventReceiverEnabled": "False",
   "FFlagUGCValidateTestInactiveControls2": "True",
   "FFlagAllowCrossRSRequiresInTests_Rollout": "True;60;2023-11-02T23:17:30",
+  "FFlagTrackPrimitiveCount2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9104,8 +9104,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "50",
-  "FStringFlagRepoGitHashFastString": "714c37512af44f92cf5e22ffadca2e06bc934058",
-  "DFStringFlagRepoGitHashDynamicString": "714c37512af44f92cf5e22ffadca2e06bc934058",
-  "FStringFlipTimeStampFastString": "2023-11-02T23:18:35.438Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T23:18:35.438Z"
+  "FStringFlagRepoGitHashFastString": "96290cb00ff215172be3f71477629e3de8efd803",
+  "DFStringFlagRepoGitHashDynamicString": "96290cb00ff215172be3f71477629e3de8efd803",
+  "FStringFlipTimeStampFastString": "2023-11-02T23:22:45.871Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T23:22:45.871Z"
 }
