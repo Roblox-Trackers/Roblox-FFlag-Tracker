@@ -8815,7 +8815,6 @@
   "FFlagBodyFirstInAssetsCategory": "True",
   "DFFlagStreamingDistanceTunablePrefetchDisabledForLowMemory": "True",
   "DFFlagStreamingDistanceUpdateTheMeasuredValueWhenUpdatingTunableValue2": "True",
-  "DFFlagMemoryStoreUpdateAsyncEnableSortKey_Rollout": "True;30;2023-11-02T19:53:25",
   "DFFlagMemoryStoreGetAsyncEnableSortKey": "True",
   "DFFlagMemoryStoreSetAsyncEnableSortKey": "True",
   "FFlagRealtimeProtocolUserControllerLogin": "True",
@@ -8828,6 +8827,8 @@
   "FFlagDiffWindowExplorerSizing_Rollout": "True;60;2023-11-02T20:19:20",
   "FFlagCOLLAB3591PlaceNameInDocs_Rollout": "True;60;2023-11-02T20:27:31",
   "FFlagLuaAppOnPeekViewCloseProp": "True",
+  "DFFlagMemoryStoreUpdateAsyncEnableSortKey": "True",
+  "FFlagPackageDiffDmDirtyFix_Rollout": "True;60;2023-11-02T20:39:05",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9018,8 +9019,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "9f9ae05820272675c0d29b0cb805250149fae423",
-  "DFStringFlagRepoGitHashDynamicString": "9f9ae05820272675c0d29b0cb805250149fae423",
-  "FStringFlipTimeStampFastString": "2023-11-02T20:38:56.851Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T20:38:56.851Z"
+  "FStringFlagRepoGitHashFastString": "ec476dd6af3f7929a8f8ffa4429b3e2ca08b147c",
+  "DFStringFlagRepoGitHashDynamicString": "ec476dd6af3f7929a8f8ffa4429b3e2ca08b147c",
+  "FStringFlipTimeStampFastString": "2023-11-02T20:40:13.739Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T20:40:13.739Z"
 }
