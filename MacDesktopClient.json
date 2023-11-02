@@ -8793,6 +8793,7 @@
   "FFlagUGCValidateFixAccessories": "True",
   "FFlagRenderUseFutureCap_Rollout": "True;30;2023-11-02T16:48:56",
   "DFFlagEncapsulateIntoBaseRemoteEvent_Rollout": "True;60;2023-11-02T16:56:06",
+  "FFlagLuauInstantiateInSubtyping_Rollout": "True;60;2023-11-02T17:01:22",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9059,8 +9060,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "4188838d738cdcc672da66609563f8f7993b7761",
-  "DFStringFlagRepoGitHashDynamicString": "4188838d738cdcc672da66609563f8f7993b7761",
-  "FStringFlipTimeStampFastString": "2023-11-02T16:57:02.420Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T16:57:02.420Z"
+  "FStringFlagRepoGitHashFastString": "cc9ca64fcaed05de0fb15c1d557793bb08fad933",
+  "DFStringFlagRepoGitHashDynamicString": "cc9ca64fcaed05de0fb15c1d557793bb08fad933",
+  "FStringFlipTimeStampFastString": "2023-11-02T17:07:59.336Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T17:07:59.336Z"
 }
