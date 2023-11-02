@@ -8810,7 +8810,6 @@
   "DFFlagMemoryStoreGetAsyncEnableSortKey": "True",
   "DFFlagMemoryStoreSetAsyncEnableSortKey": "True",
   "FFlagRealtimeProtocolUserControllerLogin": "True",
-  "FFlagWindowsRealtimeProtocolEnabled_Rollout": "True;30;2023-11-02T21:12:43",
   "DFFlagHumanoidTouchProtocol_Rollout": "True;60;2023-11-02T21:13:57",
   "FFlagEnableVoiceMuteAnalytics": "True",
   "DFFlagMemoryStoreUpdateAsyncEnableSortKey": "True",
@@ -8824,6 +8823,7 @@
   "FFlagDiffWindowExplorerSizing_Rollout": "True;30;2023-11-02T21:42:14",
   "DFIntReportRTLSupportThrottleHundrethsPercent2": "10",
   "FFlagSwitchToMsGranularityForFlushIntervalPeriod_Rollout": "True;14;2023-11-02T21:44:58",
+  "FFlagWindowsRealtimeProtocolEnabled": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9092,8 +9092,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "eb9b17884c7dafc95564fccccbaf7d96ecbd5865",
-  "DFStringFlagRepoGitHashDynamicString": "eb9b17884c7dafc95564fccccbaf7d96ecbd5865",
-  "FStringFlipTimeStampFastString": "2023-11-02T21:46:09.283Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T21:46:09.283Z"
+  "FStringFlagRepoGitHashFastString": "61b24a019a2432cc24d1e7099afcb9cbe99b9777",
+  "DFStringFlagRepoGitHashDynamicString": "61b24a019a2432cc24d1e7099afcb9cbe99b9777",
+  "FStringFlipTimeStampFastString": "2023-11-02T21:48:29.921Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T21:48:29.921Z"
 }
