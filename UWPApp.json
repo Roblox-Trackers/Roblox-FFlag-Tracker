@@ -8820,13 +8820,14 @@
   "FFlagSimVisuallyMovedNoThread_Rollout": "True;60;2023-11-02T21:28:10",
   "FFlagAvatarPublishAddGuidToInstances": "True",
   "FFlagFixLaunchExperienceFromSource": "True",
-  "FFlagDiffWindowExplorerSizing_Rollout": "True;30;2023-11-02T21:42:14",
   "DFIntReportRTLSupportThrottleHundrethsPercent2": "10",
   "FFlagWindowsRealtimeProtocolEnabled": "True",
   "FFlagUIBloxUseNewGenericTextLabelProps2": "True",
   "FFlagSwitchToMsGranularityForFlushIntervalPeriod": "True",
   "FFlagUGCValidateTestInactiveControls2_Rollout": "True;60;2023-11-02T22:01:52",
   "FIntSessionTrackingStorageFlushPeriodMs_Rollout": "250;30;2023-11-02T22:11:18",
+  "FFlagDiffWindowExplorerSizing": "True",
+  "FFlagLinkingProtocolHandleGetLastPendingUrl": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9016,8 +9017,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "ed665372b39d912249f6dd663bae42b46236641e",
-  "DFStringFlagRepoGitHashDynamicString": "ed665372b39d912249f6dd663bae42b46236641e",
-  "FStringFlipTimeStampFastString": "2023-11-02T22:11:50.673Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T22:11:50.673Z"
+  "FStringFlagRepoGitHashFastString": "13dfc61ada96bfb1d7efd70c9153bf1f9b36d7d7",
+  "DFStringFlagRepoGitHashDynamicString": "13dfc61ada96bfb1d7efd70c9153bf1f9b36d7d7",
+  "FStringFlipTimeStampFastString": "2023-11-02T22:20:28.900Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T22:20:28.900Z"
 }
