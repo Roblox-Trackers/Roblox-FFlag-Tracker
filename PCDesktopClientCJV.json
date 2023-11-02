@@ -8790,7 +8790,6 @@
   "FFlagPackageDiffUI": "True",
   "FFlagEnableUGCToolboxFixAccessories2": "True",
   "FFlagUGCValidateFixAccessories": "True",
-  "DFFlagEncapsulateIntoBaseRemoteEvent_Rollout": "True;60;2023-11-02T16:56:06",
   "FFlagLuauInstantiateInSubtyping_Rollout": "True;60;2023-11-02T17:01:22",
   "FFlagEnableDataModelDeserializeMetric": "True",
   "FFlagEnableDataModelVerifyMetric": "True",
@@ -8809,6 +8808,7 @@
   "DFFlagEnableHumanoidStateChangeTelemtry_Rollout": "False;60;2023-11-02T17:54:27",
   "FFlagUpdateAssetUploadResultBundleConfigureLink2": "True",
   "FFlagLuaAppSystemBarAddBG": "True",
+  "DFFlagEncapsulateIntoBaseRemoteEvent": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9076,8 +9076,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "19f0b5304527c9fe84d610055b6e9e6fd839ca6d",
-  "DFStringFlagRepoGitHashDynamicString": "19f0b5304527c9fe84d610055b6e9e6fd839ca6d",
-  "FStringFlipTimeStampFastString": "2023-11-02T18:02:07.031Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T18:02:07.031Z"
+  "FStringFlagRepoGitHashFastString": "15b9fcd7544652e863ae02142dcf0cb72853b5a2",
+  "DFStringFlagRepoGitHashDynamicString": "15b9fcd7544652e863ae02142dcf0cb72853b5a2",
+  "FStringFlipTimeStampFastString": "2023-11-02T18:03:26.421Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T18:03:26.421Z"
 }
