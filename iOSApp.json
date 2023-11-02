@@ -8813,7 +8813,7 @@
   "DFFlagMemoryStoreUpdateAsyncEnableSortKey": "True",
   "FFlagLuaAppOnPeekViewCloseProp": "True",
   "DFFlagMemoryStoreGetRangeAsyncEnableSortKey": "True",
-  "DFIntReportNonInteractableThrottleHundrethsPercent": "100",
+  "DFIntReportNonInteractableThrottleHundrethsPercent": "2000",
   "FFlagAvatarPublishAddGuidToInstances": "True",
   "FFlagFixLaunchExperienceFromSource": "True",
   "DFIntReportRTLSupportThrottleHundrethsPercent2": "10",
@@ -8837,7 +8837,6 @@
   "DFIntRCCMergeSameTouchesTimeoutInMS_Rollout": "1200;30;2023-11-02T22:56:49",
   "FFlagGetFFlagLuaAppChallengeDialogContainerPageEnabled": "True",
   "FFlagLuaAppChallengeDialogEventReceiverEnabled": "True",
-  "DFIntReportNonInteractableThrottleHundrethsPercent_Rollout": "2000;1;2023-11-02T23:05:29",
   "FFlagUGCValidateTestInactiveControls2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -9180,8 +9179,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagRealtimeProtocolNewInterface": "True",
   "FIntScrollingPerfTrackerKibana": "50",
-  "FStringFlagRepoGitHashFastString": "444f25c9e695bc57476bd7c4affcc652d3bba33c",
-  "DFStringFlagRepoGitHashDynamicString": "444f25c9e695bc57476bd7c4affcc652d3bba33c",
-  "FStringFlipTimeStampFastString": "2023-11-02T23:07:16.075Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T23:07:16.075Z"
+  "FStringFlagRepoGitHashFastString": "93ef1e9b7dd33d3eab59b57d09957f5fe8ff53e0",
+  "DFStringFlagRepoGitHashDynamicString": "93ef1e9b7dd33d3eab59b57d09957f5fe8ff53e0",
+  "FStringFlipTimeStampFastString": "2023-11-02T23:12:18.238Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T23:12:18.238Z"
 }
