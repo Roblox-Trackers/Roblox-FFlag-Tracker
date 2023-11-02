@@ -8818,6 +8818,7 @@
   "DFIntSubscriptionPurchaseConfirmEventThrottleHundredthPercent": "10000",
   "DFFlagMemoryStoreSetAsyncEnableSortKey_Rollout": "True;30;2023-11-02T19:22:57",
   "FFlagEnableSubscriptionPurchaseInstrumentation": "True",
+  "FFlagPropertiesWidgetDisableHoverHighlight_Rollout": "True;60;2023-11-02T19:26:12",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9168,8 +9169,8 @@
   "FFlagXboxGameProtocol": "True",
   "FFlagXboxKeyboardType": "True",
   "FFlagXboxNixValidSessionPoller": "True",
-  "FStringFlagRepoGitHashFastString": "da8e13ea584fcc688555428cab4306a0a4a40a11",
-  "DFStringFlagRepoGitHashDynamicString": "da8e13ea584fcc688555428cab4306a0a4a40a11",
-  "FStringFlipTimeStampFastString": "2023-11-02T19:23:50.572Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:23:50.572Z"
+  "FStringFlagRepoGitHashFastString": "e9c40498b04fa017045a7681bffde93991e14961",
+  "DFStringFlagRepoGitHashDynamicString": "e9c40498b04fa017045a7681bffde93991e14961",
+  "FStringFlipTimeStampFastString": "2023-11-02T19:26:57.832Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:26:57.832Z"
 }
