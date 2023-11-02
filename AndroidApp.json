@@ -8824,6 +8824,7 @@
   "FFlagAvatarPublishAddGuidToInstances": "True",
   "FFlagACEBoneReferences2": "True",
   "DFIntReportNonInteractableThrottleHundrethsPercent": "10",
+  "FFlagSwitchToMsGranularityForFlushIntervalPeriod_Rollout": "True;30;2023-11-02T20:15:29",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9212,8 +9213,8 @@
   "DFStringMemoryBufferForHarmonyData": "{\\\"memCurve\\\":[{\\\"maxsize\\\":1024,\\\"reserve\\\":0.10}]}",
   "FFlagGpuGeometryManager10": "True",
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
-  "FStringFlagRepoGitHashFastString": "847bc5a523cb819ab00418b8feb8fe279d54662d",
-  "DFStringFlagRepoGitHashDynamicString": "847bc5a523cb819ab00418b8feb8fe279d54662d",
-  "FStringFlipTimeStampFastString": "2023-11-02T20:13:42.762Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T20:13:42.762Z"
+  "FStringFlagRepoGitHashFastString": "33c6d8d209a80d79b829424621dabdff181bcff5",
+  "DFStringFlagRepoGitHashDynamicString": "33c6d8d209a80d79b829424621dabdff181bcff5",
+  "FStringFlipTimeStampFastString": "2023-11-02T20:16:49.017Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T20:16:49.017Z"
 }
