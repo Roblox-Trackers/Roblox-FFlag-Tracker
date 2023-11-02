@@ -8799,9 +8799,6 @@
   "FFlagLuaAppSystemBarAddBG": "True",
   "DFFlagEncapsulateIntoBaseRemoteEvent": "True",
   "FFlagLuauInstantiateInSubtyping": "True",
-  "DFIntSubscriptionPurchaseConfirmEventThrottleHundredthPercent_Rollout": "10000;60;2023-11-02T18:10:05",
-  "FFlagAssetImportIncludeFacsJoint_Rollout": "True;60;2023-11-02T18:12:04",
-  "FFlagGltfFacsSupport_Rollout": "True;60;2023-11-02T18:12:04",
   "FFlagEnableSubscriptionPurchaseInstrumentation_Rollout": "True;60;2023-11-02T18:14:33",
   "DFFlagSolverNOUAddedUnderSetOptimized2": "True",
   "FFlagLuaAppEnable10ftPlatformName": "True",
@@ -8818,6 +8815,9 @@
   "DFFlagStreamingDistanceTunablePrefetchDisabledForLowMemory_Rollout": "True;30;2023-11-02T19:06:06",
   "DFFlagStreamingDistanceUpdateTheMeasuredValueWhenUpdatingTunableValue2_Rollout": "True;30;2023-11-02T19:06:41",
   "FFlagStudioUpdateLoginDialogForMultiAccountSupport": "True",
+  "FFlagAssetImportIncludeFacsJoint": "True",
+  "FFlagGltfFacsSupport": "True",
+  "DFIntSubscriptionPurchaseConfirmEventThrottleHundredthPercent": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9206,8 +9206,8 @@
   "DFStringMemoryBufferForHarmonyData": "{\\\"memCurve\\\":[{\\\"maxsize\\\":1024,\\\"reserve\\\":0.10}]}",
   "FFlagGpuGeometryManager10": "True",
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
-  "FStringFlagRepoGitHashFastString": "4e7ad424c1421d250d4668dab23a1661d65db8ef",
-  "DFStringFlagRepoGitHashDynamicString": "4e7ad424c1421d250d4668dab23a1661d65db8ef",
-  "FStringFlipTimeStampFastString": "2023-11-02T19:13:08.620Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:13:08.620Z"
+  "FStringFlagRepoGitHashFastString": "ac5601b8785ce7b1b6f702dd1f68503e05d2631e",
+  "DFStringFlagRepoGitHashDynamicString": "ac5601b8785ce7b1b6f702dd1f68503e05d2631e",
+  "FStringFlipTimeStampFastString": "2023-11-02T19:17:42.578Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:17:42.578Z"
 }
