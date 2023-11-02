@@ -8826,7 +8826,6 @@
   "DFFlagHumanoidTouchProtocol": "True",
   "FFlagPackageDiffDmDirtyFix": "True",
   "FFlagEnableSoundTelemetry3": "True",
-  "FFlagModelLodStats2_Rollout": "True;60;2023-11-02T22:36:41",
   "FFlagSimVisuallyMovedNoThread": "True",
   "FFlagLuaAppDeprecateGameTileColors": "True",
   "DFFlagSimUnifyConstraintForceVisDesignWithAero_Rollout": "True;60;2023-11-02T22:39:24",
@@ -8843,6 +8842,7 @@
   "FFlagPropertiesWidgetDisableHoverHighlight_Rollout": "True;30;2023-11-02T23:27:17",
   "DFIntRCCMergeSameTouchesTimeoutInMS": "1200",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
+  "FFlagModelLodStats2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9113,8 +9113,8 @@
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagRenderDebugCheckThreading2_Rollout": "True;60;2023-11-02T23:14:15",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "06b3f9120afbcdfe7d359c03b4a7db0da9288aa9",
-  "DFStringFlagRepoGitHashDynamicString": "06b3f9120afbcdfe7d359c03b4a7db0da9288aa9",
-  "FStringFlipTimeStampFastString": "2023-11-02T23:37:36.321Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T23:37:36.321Z"
+  "FStringFlagRepoGitHashFastString": "669bb53743b990bf7034f49dff8e0031cce6bdfd",
+  "DFStringFlagRepoGitHashDynamicString": "669bb53743b990bf7034f49dff8e0031cce6bdfd",
+  "FStringFlipTimeStampFastString": "2023-11-02T23:42:10.367Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T23:42:10.367Z"
 }
