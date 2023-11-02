@@ -8798,7 +8798,6 @@
   "FFlagUpdateAssetUploadResultBundleConfigureLink2": "True",
   "FFlagLuaAppSystemBarAddBG": "True",
   "DFFlagEncapsulateIntoBaseRemoteEvent": "True",
-  "FFlagStudioUpdateLoginDialogForMultiAccountSupport_Rollout": "True;60;2023-11-02T18:03:27",
   "FFlagLuauInstantiateInSubtyping": "True",
   "DFIntSubscriptionPurchaseConfirmEventThrottleHundredthPercent_Rollout": "10000;60;2023-11-02T18:10:05",
   "FFlagAssetImportIncludeFacsJoint_Rollout": "True;60;2023-11-02T18:12:04",
@@ -8818,6 +8817,7 @@
   "FFlagUGCValidateMoveDynamicHeadTest3": "True",
   "DFFlagStreamingDistanceTunablePrefetchDisabledForLowMemory_Rollout": "True;30;2023-11-02T19:06:06",
   "DFFlagStreamingDistanceUpdateTheMeasuredValueWhenUpdatingTunableValue2_Rollout": "True;30;2023-11-02T19:06:41",
+  "FFlagStudioUpdateLoginDialogForMultiAccountSupport": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9159,8 +9159,8 @@
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagRealtimeProtocolNewInterface": "True",
-  "FStringFlagRepoGitHashFastString": "f42da1366da7cbf5a920fab8fe91bb37afc3d004",
-  "DFStringFlagRepoGitHashDynamicString": "f42da1366da7cbf5a920fab8fe91bb37afc3d004",
-  "FStringFlipTimeStampFastString": "2023-11-02T19:09:41.090Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:09:41.090Z"
+  "FStringFlagRepoGitHashFastString": "4e7ad424c1421d250d4668dab23a1661d65db8ef",
+  "DFStringFlagRepoGitHashDynamicString": "4e7ad424c1421d250d4668dab23a1661d65db8ef",
+  "FStringFlipTimeStampFastString": "2023-11-02T19:13:08.620Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:13:08.620Z"
 }
