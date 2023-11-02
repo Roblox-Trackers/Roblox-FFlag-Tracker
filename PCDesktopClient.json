@@ -8079,7 +8079,7 @@
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client": "True",
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC": "False",
-  "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;7376832747;9672950003;13523443036;2317712696;12123120785;13344085926;14292367294;12339044345;301549746;189707;6884319169",
+  "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;7376832747;9672950003;13523443036;2317712696;12123120785;13344085926;14292367294;12339044345;301549746;189707",
   "FFlagVideoFrameFixTextureDestroyedWrongContext2": "True",
   "DFIntReportSSThresholdHundredthsPercentage": "50",
   "FFlagBatchThumbnailFetcherUseExponentialFallback": "True",
@@ -8665,7 +8665,6 @@
   "FFlagAvatarPreviewerEyebrowsAndEyelashes": "True",
   "FFlagTerrainEditorFixStudioTheme": "True",
   "FFlagAvatarPreviewerFixBadAssetTypes": "True",
-  "DFFlagMemoryStoreSetAsyncEnableSortKey_PlaceFilter": "True;6989419355;6998620093;15228094211",
   "DFFlagMemoryStoreGetRangeAsyncEnableSortKey_PlaceFilter": "True;6989419355;6998620093;15228094211",
   "DFFlagMemoryStoreUpdateAsyncEnableSortKey_PlaceFilter": "True;6989419355;6998620093;15228094211",
   "DFFlagParallelWorkQueueEarlyOutWhenNoWork": "True",
@@ -8818,6 +8817,7 @@
   "FFlagAssetImportIncludeFacsJoint": "True",
   "FFlagGltfFacsSupport": "True",
   "DFIntSubscriptionPurchaseConfirmEventThrottleHundredthPercent": "10000",
+  "DFFlagMemoryStoreSetAsyncEnableSortKey_Rollout": "True;30;2023-11-02T19:22:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9084,8 +9084,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "888bda3df697f45ba2230e509539eab7b19c6119",
-  "DFStringFlagRepoGitHashDynamicString": "888bda3df697f45ba2230e509539eab7b19c6119",
-  "FStringFlipTimeStampFastString": "2023-11-02T19:22:22.257Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:22:22.257Z"
+  "FStringFlagRepoGitHashFastString": "7f5f82dd38edcc0dee26456865f4912196f82777",
+  "DFStringFlagRepoGitHashDynamicString": "7f5f82dd38edcc0dee26456865f4912196f82777",
+  "FStringFlipTimeStampFastString": "2023-11-02T19:23:42.358Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:23:42.358Z"
 }
