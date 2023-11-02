@@ -8823,6 +8823,7 @@
   "FFlagEnableVoiceMuteAnalytics": "True",
   "DFFlagMemoryStoreUpdateAsyncEnableSortKey": "True",
   "DFIntReportNonInteractableThrottleHundrethsPercent_Rollout": "8;1;2023-11-02T21:18:57",
+  "FFlagPackageDiffDmDirtyFix_Rollout": "True;60;2023-11-02T21:20:56",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
