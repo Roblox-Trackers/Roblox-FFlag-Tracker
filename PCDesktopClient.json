@@ -8840,6 +8840,7 @@
   "FFlagAllowCrossRSRequiresInTests_Rollout": "True;60;2023-11-02T23:17:30",
   "FFlagTrackPrimitiveCount2": "True",
   "DFFlagEnableRandomStatVerification_Rollout": "True;60;2023-11-02T23:23:02",
+  "DFFlagAddAbilityToConfigureTheStreamingGCTimeForTunable_Rollout": "True;30;2023-11-02T23:24:59",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9109,8 +9110,8 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagRenderDebugCheckThreading2_Rollout": "True;60;2023-11-02T23:14:15",
-  "FStringFlagRepoGitHashFastString": "e4d28b4b59b26120d88023df9788219342615ab9",
-  "DFStringFlagRepoGitHashDynamicString": "e4d28b4b59b26120d88023df9788219342615ab9",
-  "FStringFlipTimeStampFastString": "2023-11-02T23:23:48.113Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T23:23:48.113Z"
+  "FStringFlagRepoGitHashFastString": "ce4f1d371b8db5f1717124e9d4996245d77ceb70",
+  "DFStringFlagRepoGitHashDynamicString": "ce4f1d371b8db5f1717124e9d4996245d77ceb70",
+  "FStringFlipTimeStampFastString": "2023-11-02T23:25:49.059Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T23:25:49.059Z"
 }
