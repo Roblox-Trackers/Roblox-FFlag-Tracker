@@ -8824,7 +8824,6 @@
   "FFlagLinkingProtocolHandleGetLastPendingUrl": "True",
   "DFFlagHttpCacheReportSlowWritesWriteOK": "True",
   "DFFlagHumanoidTouchProtocol": "True",
-  "DFFlagCoalesceTouchEventOnServer_Rollout": "True;60;2023-11-02T22:21:22",
   "FFlagPackageDiffDmDirtyFix": "True",
   "FFlagEnableSoundTelemetry3": "True",
   "FFlagModelLodStats2_Rollout": "True;60;2023-11-02T22:36:41",
@@ -8841,6 +8840,8 @@
   "FFlagTrackPrimitiveCount2": "True",
   "DFFlagEnableRandomStatVerification_Rollout": "True;60;2023-11-02T23:23:02",
   "DFFlagAddAbilityToConfigureTheStreamingGCTimeForTunable_Rollout": "True;30;2023-11-02T23:24:59",
+  "DFFlagCoalesceTouchEventOnServer": "True",
+  "FFlagPropertiesWidgetDisableHoverHighlight_Rollout": "True;30;2023-11-02T23:27:17",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9229,8 +9230,8 @@
   "FFlagGpuGeometryManager10": "True",
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FIntScrollingPerfTrackerKibana": "50",
-  "FStringFlagRepoGitHashFastString": "ce4f1d371b8db5f1717124e9d4996245d77ceb70",
-  "DFStringFlagRepoGitHashDynamicString": "ce4f1d371b8db5f1717124e9d4996245d77ceb70",
-  "FStringFlipTimeStampFastString": "2023-11-02T23:25:49.059Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T23:25:49.059Z"
+  "FStringFlagRepoGitHashFastString": "da6c5da4627e5988ab9865094ae399ddfadb94b1",
+  "DFStringFlagRepoGitHashDynamicString": "da6c5da4627e5988ab9865094ae399ddfadb94b1",
+  "FStringFlipTimeStampFastString": "2023-11-02T23:27:49.897Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T23:27:49.897Z"
 }
