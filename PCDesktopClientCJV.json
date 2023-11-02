@@ -8826,6 +8826,7 @@
   "FFlagUIBloxUseNewGenericTextLabelProps2": "True",
   "FFlagSwitchToMsGranularityForFlushIntervalPeriod": "True",
   "FFlagUGCValidateTestInactiveControls2_Rollout": "True;60;2023-11-02T22:01:52",
+  "FIntSessionTrackingStorageFlushPeriodMs_Rollout": "250;30;2023-11-02T22:11:18",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9094,8 +9095,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "42d87b25c0d8f16daed7c04cceedcca6cc592511",
-  "DFStringFlagRepoGitHashDynamicString": "42d87b25c0d8f16daed7c04cceedcca6cc592511",
-  "FStringFlipTimeStampFastString": "2023-11-02T22:03:50.148Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T22:03:50.148Z"
+  "FStringFlagRepoGitHashFastString": "ed665372b39d912249f6dd663bae42b46236641e",
+  "DFStringFlagRepoGitHashDynamicString": "ed665372b39d912249f6dd663bae42b46236641e",
+  "FStringFlipTimeStampFastString": "2023-11-02T22:11:50.673Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T22:11:50.673Z"
 }
