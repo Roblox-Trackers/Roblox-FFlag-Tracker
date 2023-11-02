@@ -8666,7 +8666,6 @@
   "FFlagTerrainEditorFixStudioTheme": "True",
   "FFlagAvatarPreviewerFixBadAssetTypes": "True",
   "DFFlagMemoryStoreGetRangeAsyncEnableSortKey_PlaceFilter": "True;6989419355;6998620093;15228094211",
-  "DFFlagMemoryStoreUpdateAsyncEnableSortKey_PlaceFilter": "True;6989419355;6998620093;15228094211",
   "DFFlagParallelWorkQueueEarlyOutWhenNoWork": "True",
   "FFlagStudio3dAuxiliaryWindow": "True",
   "FFlagSelfViewMultiTouchFix2": "True",
@@ -8820,6 +8819,7 @@
   "FFlagBodyFirstInAssetsCategory": "True",
   "DFFlagStreamingDistanceTunablePrefetchDisabledForLowMemory": "True",
   "DFFlagStreamingDistanceUpdateTheMeasuredValueWhenUpdatingTunableValue2": "True",
+  "DFFlagMemoryStoreUpdateAsyncEnableSortKey_Rollout": "True;30;2023-11-02T19:53:25",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9087,8 +9087,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "DFFlagSimThreadsafeAssemblyVelocityGetter_Rollout": "True;60;2023-11-02T19:46:37",
-  "FStringFlagRepoGitHashFastString": "58148956df47217b85efafebf5cd08b9c05f1373",
-  "DFStringFlagRepoGitHashDynamicString": "58148956df47217b85efafebf5cd08b9c05f1373",
-  "FStringFlipTimeStampFastString": "2023-11-02T19:47:26.947Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:47:26.947Z"
+  "FStringFlagRepoGitHashFastString": "33c11d06dea3fa1c31082f2fa55e9a40d4913428",
+  "DFStringFlagRepoGitHashDynamicString": "33c11d06dea3fa1c31082f2fa55e9a40d4913428",
+  "FStringFlipTimeStampFastString": "2023-11-02T19:54:20.585Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:54:20.585Z"
 }
