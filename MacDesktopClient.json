@@ -8789,6 +8789,8 @@
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagScrollingPerfTrackerSampleLocalId": "True",
   "FFlagPackageDiffUI": "True",
+  "FFlagEnableUGCToolboxFixAccessories2": "True",
+  "FFlagUGCValidateFixAccessories": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9055,8 +9057,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "0b02310193bb15facd3bc132f0ee299948f6f93b",
-  "DFStringFlagRepoGitHashDynamicString": "0b02310193bb15facd3bc132f0ee299948f6f93b",
-  "FStringFlipTimeStampFastString": "2023-11-02T16:47:04.001Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T16:47:04.001Z"
+  "FStringFlagRepoGitHashFastString": "b4bcaee719dac6d204cbd25c7c9a5c2e535b2033",
+  "DFStringFlagRepoGitHashDynamicString": "b4bcaee719dac6d204cbd25c7c9a5c2e535b2033",
+  "FStringFlipTimeStampFastString": "2023-11-02T16:48:11.977Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T16:48:11.977Z"
 }
