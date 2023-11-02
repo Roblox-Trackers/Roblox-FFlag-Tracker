@@ -8665,7 +8665,6 @@
   "FFlagAvatarPreviewerEyebrowsAndEyelashes": "True",
   "FFlagTerrainEditorFixStudioTheme": "True",
   "FFlagAvatarPreviewerFixBadAssetTypes": "True",
-  "DFFlagMemoryStoreGetAsyncEnableSortKey_PlaceFilter": "True;6998620093;6989419355;15228094211",
   "DFFlagMemoryStoreSetAsyncEnableSortKey_PlaceFilter": "True;6989419355;6998620093;15228094211",
   "DFFlagMemoryStoreGetRangeAsyncEnableSortKey_PlaceFilter": "True;6989419355;6998620093;15228094211",
   "DFFlagMemoryStoreUpdateAsyncEnableSortKey_PlaceFilter": "True;6989419355;6998620093;15228094211",
@@ -8816,6 +8815,7 @@
   "DFFlagSimReportControllerManagerUsageAWT": "True",
   "DFFlagSimUseMaxDisplacementForSleepWake": "True",
   "FFlagRealtimeProtocolUserControllerLogin_Rollout": "True;60;2023-11-02T18:49:48",
+  "DFFlagMemoryStoreGetAsyncEnableSortKey_Rollout": "True;60;2023-11-02T18:50:29",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9006,8 +9006,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "b6377254a986a23a4f4a0382225fdd4c8a50f61e",
-  "DFStringFlagRepoGitHashDynamicString": "b6377254a986a23a4f4a0382225fdd4c8a50f61e",
-  "FStringFlipTimeStampFastString": "2023-11-02T18:50:41.221Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T18:50:41.221Z"
+  "FStringFlagRepoGitHashFastString": "2e114f466cacec0e44ffc4ac9b644012960ea703",
+  "DFStringFlagRepoGitHashDynamicString": "2e114f466cacec0e44ffc4ac9b644012960ea703",
+  "FStringFlipTimeStampFastString": "2023-11-02T18:51:24.094Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T18:51:24.094Z"
 }
