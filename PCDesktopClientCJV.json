@@ -8773,7 +8773,6 @@
   "DFFlagSimSolverClampConstraintLegacyGyroAngularVelocityParameters": "True",
   "FFlagStudioMoveCreateQmlEngine": "True",
   "FFlagStudioAddFlagRepoInfoToCrashReports": "True",
-  "FIntScrollingPerfTrackerKibana": "0",
   "FFlagScrollingPerfTrackerSampleLocalId": "True",
   "FFlagPackageDiffUI": "True",
   "FFlagEnableUGCToolboxFixAccessories2": "True",
@@ -9104,9 +9103,10 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
+  "FIntScrollingPerfTrackerKibana": "50",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "4dbdb196757aba0df1a2189978fccff23c3005e4",
-  "DFStringFlagRepoGitHashDynamicString": "4dbdb196757aba0df1a2189978fccff23c3005e4",
-  "FStringFlipTimeStampFastString": "2023-11-02T22:57:10.145Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T22:57:10.145Z"
+  "FStringFlagRepoGitHashFastString": "7b7f54298e6370d005e21aac4bddba58ec2bd58a",
+  "DFStringFlagRepoGitHashDynamicString": "7b7f54298e6370d005e21aac4bddba58ec2bd58a",
+  "FStringFlipTimeStampFastString": "2023-11-02T22:58:02.489Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T22:58:02.489Z"
 }
