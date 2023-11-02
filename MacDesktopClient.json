@@ -8333,7 +8333,7 @@
   "FFlagHumanoidDeferredSyncFunction5": "True",
   "FFlagHumanoidParallelUseManager4": "True",
   "FFlagEnablePlayerViewApi2": "False",
-  "FFlagEnablePlayerViewApi2_PlaceFilter": "True;11402255591;11460402982;12444504875;12796376276;13989579574;12867047376;12867089300;14066075418;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929",
+  "FFlagEnablePlayerViewApi2_PlaceFilter": "True;11402255591;11460402982;12444504875;12796376276;13989579574;12867047376;12867089300;14066075418;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929;12500012844",
   "FFlagStudioAsyncComponent": "True",
   "FFlagExperienceLeavePlaceId": "True",
   "DFFlagTimeCurveTickTypeUseInt": "True",
@@ -8796,6 +8796,7 @@
   "FFlagEnableDataModelDeserializeMetric": "True",
   "FFlagEnableDataModelVerifyMetric": "True",
   "FFlagStudioFixInitQmlResources": "True",
+  "DFFlagSolverNOUAddedUnderSetOptimized2_Rollout": "True;60;2023-11-02T17:20:00",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9062,8 +9063,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryMacClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyMacClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "7a986b00e62388d0825581e07181c16bbd8db89f",
-  "DFStringFlagRepoGitHashDynamicString": "7a986b00e62388d0825581e07181c16bbd8db89f",
-  "FStringFlipTimeStampFastString": "2023-11-02T17:18:01.764Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T17:18:01.764Z"
+  "FStringFlagRepoGitHashFastString": "ce94b947464686bb252b23b810522357107a2570",
+  "DFStringFlagRepoGitHashDynamicString": "ce94b947464686bb252b23b810522357107a2570",
+  "FStringFlipTimeStampFastString": "2023-11-02T17:20:34.763Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T17:20:34.763Z"
 }
