@@ -8785,7 +8785,6 @@
   "DFFlagSimSolverClampConstraintLegacyGyroAngularVelocityParameters": "True",
   "FFlagStudioMoveCreateQmlEngine": "True",
   "FFlagStudioAddFlagRepoInfoToCrashReports": "True",
-  "FFlagStudioFixInitQmlResources_Rollout": "True;60;2023-11-02T16:05:19",
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagScrollingPerfTrackerSampleLocalId": "True",
   "FFlagPackageDiffUI": "True",
@@ -8796,6 +8795,7 @@
   "FFlagLuauInstantiateInSubtyping_Rollout": "True;60;2023-11-02T17:01:22",
   "FFlagEnableDataModelDeserializeMetric": "True",
   "FFlagEnableDataModelVerifyMetric": "True",
+  "FFlagStudioFixInitQmlResources": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9062,8 +9062,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "209190d2badf4ca980a2f34636cc616765b86be1",
-  "DFStringFlagRepoGitHashDynamicString": "209190d2badf4ca980a2f34636cc616765b86be1",
-  "FStringFlipTimeStampFastString": "2023-11-02T17:13:00.981Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T17:13:00.981Z"
+  "FStringFlagRepoGitHashFastString": "9c9d8ae43ce03b4f8fa919efb5b29bfa13754c89",
+  "DFStringFlagRepoGitHashDynamicString": "9c9d8ae43ce03b4f8fa919efb5b29bfa13754c89",
+  "FStringFlipTimeStampFastString": "2023-11-02T17:15:59.770Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T17:15:59.770Z"
 }
