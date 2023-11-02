@@ -8559,7 +8559,7 @@
   "DFFlagVideoStreamMetricsAddAdGuiTag": "True",
   "FFlagTutorialsStudioTour2LaunchFix": "True",
   "EnableAndroidRealtimeProtocolCheckV599": "True",
-  "EnableAndroidRealtimeProtocolHundredthPercentV599": "6000",
+  "EnableAndroidRealtimeProtocolHundredthPercentV599": "10000",
   "FFlagInferredCrashProfileSyncFlushSwitchGuard": "True",
   "DFFlagEnableAndroidFixResumeRenderOnForeground": "True",
   "DFIntPlayStationSessionRequestTimeoutMs": "10000",
@@ -8591,7 +8591,7 @@
   "DisableTaskSchedulerBackgroundInExperience": "True",
   "DFFlagEnableSubscriptionPurchaseConfirmation": "True",
   "FFlagDragDetectorsXAxisRotationFix": "True",
-  "EnableAndroidRealtimeProtocolForAllV599": "False",
+  "EnableAndroidRealtimeProtocolForAllV599": "True",
   "FFlagPlayStationgetMBSysRAMuseTotalMem": "True",
   "FFlagDisableSkinningMeshpartWarning": "True",
   "FFlagEnableToastNotificationInAppFromWebExperienceJoinFix": "True",
@@ -9062,8 +9062,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "9c9d8ae43ce03b4f8fa919efb5b29bfa13754c89",
-  "DFStringFlagRepoGitHashDynamicString": "9c9d8ae43ce03b4f8fa919efb5b29bfa13754c89",
-  "FStringFlipTimeStampFastString": "2023-11-02T17:15:59.770Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T17:15:59.770Z"
+  "FStringFlagRepoGitHashFastString": "7a986b00e62388d0825581e07181c16bbd8db89f",
+  "DFStringFlagRepoGitHashDynamicString": "7a986b00e62388d0825581e07181c16bbd8db89f",
+  "FStringFlipTimeStampFastString": "2023-11-02T17:18:01.764Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T17:18:01.764Z"
 }
