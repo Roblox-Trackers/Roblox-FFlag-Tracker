@@ -8810,8 +8810,6 @@
   "FFlagEnableNativeSubscriptionPurchase3": "True",
   "FFlagSurfaceAppStoreCountryCodeToEngine2": "True",
   "FFlagUGCValidateMoveDynamicHeadTest3": "True",
-  "DFFlagStreamingDistanceTunablePrefetchDisabledForLowMemory_Rollout": "True;30;2023-11-02T19:06:06",
-  "DFFlagStreamingDistanceUpdateTheMeasuredValueWhenUpdatingTunableValue2_Rollout": "True;30;2023-11-02T19:06:41",
   "FFlagStudioUpdateLoginDialogForMultiAccountSupport": "True",
   "FFlagAssetImportIncludeFacsJoint": "True",
   "FFlagGltfFacsSupport": "True",
@@ -8820,6 +8818,8 @@
   "FFlagEnableSubscriptionPurchaseInstrumentation": "True",
   "FFlagPropertiesWidgetDisableHoverHighlight_Rollout": "True;60;2023-11-02T19:26:12",
   "FFlagBodyFirstInAssetsCategory": "True",
+  "DFFlagStreamingDistanceTunablePrefetchDisabledForLowMemory": "True",
+  "DFFlagStreamingDistanceUpdateTheMeasuredValueWhenUpdatingTunableValue2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9010,8 +9010,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "119cb3ab48574fd735280528afed25c194b07297",
-  "DFStringFlagRepoGitHashDynamicString": "119cb3ab48574fd735280528afed25c194b07297",
-  "FStringFlipTimeStampFastString": "2023-11-02T19:34:51.002Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:34:51.002Z"
+  "FStringFlagRepoGitHashFastString": "0842f9b41557f9310c510cf5dfd8ca0cc69ac75c",
+  "DFStringFlagRepoGitHashDynamicString": "0842f9b41557f9310c510cf5dfd8ca0cc69ac75c",
+  "FStringFlipTimeStampFastString": "2023-11-02T19:43:17.668Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T19:43:17.668Z"
 }
