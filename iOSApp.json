@@ -8815,7 +8815,6 @@
   "FFlagLuaAppOnPeekViewCloseProp": "True",
   "DFFlagMemoryStoreGetRangeAsyncEnableSortKey": "True",
   "DFIntReportNonInteractableThrottleHundrethsPercent": "100",
-  "FFlagSimVisuallyMovedNoThread_Rollout": "True;60;2023-11-02T21:28:10",
   "FFlagAvatarPublishAddGuidToInstances": "True",
   "FFlagFixLaunchExperienceFromSource": "True",
   "DFIntReportRTLSupportThrottleHundrethsPercent2": "10",
@@ -8832,6 +8831,8 @@
   "FFlagPackageDiffDmDirtyFix": "True",
   "FFlagEnableSoundTelemetry3": "True",
   "FFlagModelLodStats2_Rollout": "True;60;2023-11-02T22:36:41",
+  "FFlagSimVisuallyMovedNoThread": "True",
+  "FFlagLuaAppDeprecateGameTileColors": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9172,8 +9173,8 @@
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FFlagRealtimeProtocolNewInterface": "True",
-  "FStringFlagRepoGitHashFastString": "79f1f56aba2ad9e1004c51fabdad6cf9f41aa109",
-  "DFStringFlagRepoGitHashDynamicString": "79f1f56aba2ad9e1004c51fabdad6cf9f41aa109",
-  "FStringFlipTimeStampFastString": "2023-11-02T22:37:06.884Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T22:37:06.884Z"
+  "FStringFlagRepoGitHashFastString": "06b961b984ea254d35301b7310cb3f46b2aa48d9",
+  "DFStringFlagRepoGitHashDynamicString": "06b961b984ea254d35301b7310cb3f46b2aa48d9",
+  "FStringFlipTimeStampFastString": "2023-11-02T22:38:06.481Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T22:38:06.481Z"
 }
