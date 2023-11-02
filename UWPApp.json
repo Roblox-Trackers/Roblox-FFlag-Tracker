@@ -8813,12 +8813,12 @@
   "FFlagRealtimeProtocolUserControllerLogin": "True",
   "FFlagWindowsRealtimeProtocolEnabled_Rollout": "True;30;2023-11-02T21:12:43",
   "DFFlagHumanoidTouchProtocol_Rollout": "True;60;2023-11-02T21:13:57",
-  "DFFlagMemoryStoreGetRangeAsyncEnableSortKey_Rollout": "True;5;2023-11-02T21:16:15",
   "FFlagEnableVoiceMuteAnalytics": "True",
   "DFFlagMemoryStoreUpdateAsyncEnableSortKey": "True",
-  "DFIntReportNonInteractableThrottleHundrethsPercent_Rollout": "8;1;2023-11-02T21:18:57",
   "FFlagPackageDiffDmDirtyFix_Rollout": "True;60;2023-11-02T21:20:56",
   "FFlagLuaAppOnPeekViewCloseProp": "True",
+  "DFFlagMemoryStoreGetRangeAsyncEnableSortKey": "True",
+  "DFIntReportNonInteractableThrottleHundrethsPercent": "8",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9008,8 +9008,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "1e490bc12212ad3ceb6215f840c21feb6369ee3a",
-  "DFStringFlagRepoGitHashDynamicString": "1e490bc12212ad3ceb6215f840c21feb6369ee3a",
-  "FStringFlipTimeStampFastString": "2023-11-02T21:24:13.348Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T21:24:13.348Z"
+  "FStringFlagRepoGitHashFastString": "388221ce94ea76b2d707251ae3dd5f3602c00486",
+  "DFStringFlagRepoGitHashDynamicString": "388221ce94ea76b2d707251ae3dd5f3602c00486",
+  "FStringFlipTimeStampFastString": "2023-11-02T21:27:43.902Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T21:27:43.902Z"
 }
