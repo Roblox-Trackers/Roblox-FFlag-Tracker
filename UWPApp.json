@@ -8785,7 +8785,6 @@
   "DFFlagSimSolverClampConstraintLegacyGyroAngularVelocityParameters": "True",
   "FFlagStudioMoveCreateQmlEngine": "True",
   "FFlagStudioAddFlagRepoInfoToCrashReports": "True",
-  "FFlagStudioFixInitQmlResources_Rollout": "True;60;2023-11-02T16:05:19",
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagScrollingPerfTrackerSampleLocalId": "True",
   "FFlagPackageDiffUI": "True",
@@ -8796,6 +8795,7 @@
   "FFlagLuauInstantiateInSubtyping_Rollout": "True;60;2023-11-02T17:01:22",
   "FFlagEnableDataModelDeserializeMetric": "True",
   "FFlagEnableDataModelVerifyMetric": "True",
+  "FFlagStudioFixInitQmlResources": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -8986,8 +8986,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "209190d2badf4ca980a2f34636cc616765b86be1",
-  "DFStringFlagRepoGitHashDynamicString": "209190d2badf4ca980a2f34636cc616765b86be1",
-  "FStringFlipTimeStampFastString": "2023-11-02T17:13:00.981Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T17:13:00.981Z"
+  "FStringFlagRepoGitHashFastString": "6b0efced8b489cfa8747f75e5c0deb2358a8ce1f",
+  "DFStringFlagRepoGitHashDynamicString": "6b0efced8b489cfa8747f75e5c0deb2358a8ce1f",
+  "FStringFlipTimeStampFastString": "2023-11-02T17:15:41.136Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T17:15:41.136Z"
 }
