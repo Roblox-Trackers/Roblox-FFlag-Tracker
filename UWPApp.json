@@ -8795,7 +8795,6 @@
   "FFlagUserSearchAddSessionIdToURL_v1": "True",
   "FFlagRigScaleShouldAffectBones": "True",
   "FFlagUGCValidateAccessoriesScaleType": "True",
-  "FFlagSurfaceAppStoreCountryCodeToEngine2_Rollout": "True;60;2023-11-02T17:47:35",
   "DFFlagEnableHumanoidStateChangeTelemtry_Rollout": "False;60;2023-11-02T17:54:27",
   "FFlagUpdateAssetUploadResultBundleConfigureLink2": "True",
   "FFlagLuaAppSystemBarAddBG": "True",
@@ -8816,6 +8815,7 @@
   "FFlagRealtimeProtocolUserControllerLogin_Rollout": "True;60;2023-11-02T18:49:48",
   "DFFlagMemoryStoreGetAsyncEnableSortKey_Rollout": "True;60;2023-11-02T18:50:29",
   "FFlagEnableNativeSubscriptionPurchase3": "True",
+  "FFlagSurfaceAppStoreCountryCodeToEngine2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9006,8 +9006,8 @@
   "FFlagDisableAppLaunchFlowThrottling": "False",
   "FFlagFixExperienceDetailsPageIssues2": "True",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "065a176f5530362a74c4cafa3c4e6109f288cc2f",
-  "DFStringFlagRepoGitHashDynamicString": "065a176f5530362a74c4cafa3c4e6109f288cc2f",
-  "FStringFlipTimeStampFastString": "2023-11-02T18:52:36.196Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T18:52:36.196Z"
+  "FStringFlagRepoGitHashFastString": "08337f3b373063dadd396e9abfecd213ed9d0b94",
+  "DFStringFlagRepoGitHashDynamicString": "08337f3b373063dadd396e9abfecd213ed9d0b94",
+  "FStringFlipTimeStampFastString": "2023-11-02T18:58:09.074Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T18:58:09.074Z"
 }
