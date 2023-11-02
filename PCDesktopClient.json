@@ -8496,7 +8496,7 @@
   "FFlagEnableSecondaryMetricsLocking": "True",
   "FFlagFixResettingNonStickyMetrics": "True",
   "FFlagGameSettingsRenameCollabEditToDrafts": "True",
-  "FIntSessionTrackingStorageFlushPeriodMs": "1000",
+  "FIntSessionTrackingStorageFlushPeriodMs": "250",
   "FFlagInvokeCallbackWithLockedMessage": "True",
   "DFFlagStreamingPreMinimumStats": "True",
   "DFIntPostJoinSetsStatsHundredths": "100",
@@ -8822,7 +8822,6 @@
   "FFlagUIBloxUseNewGenericTextLabelProps2": "True",
   "FFlagSwitchToMsGranularityForFlushIntervalPeriod": "True",
   "FFlagUGCValidateTestInactiveControls2_Rollout": "True;60;2023-11-02T22:01:52",
-  "FIntSessionTrackingStorageFlushPeriodMs_Rollout": "250;30;2023-11-02T22:11:18",
   "FFlagDiffWindowExplorerSizing": "True",
   "FFlagLinkingProtocolHandleGetLastPendingUrl": "True",
   "DFFlagHttpCacheReportSlowWritesWriteOK": "True",
@@ -8834,6 +8833,7 @@
   "FFlagSimVisuallyMovedNoThread": "True",
   "FFlagLuaAppDeprecateGameTileColors": "True",
   "DFFlagSimUnifyConstraintForceVisDesignWithAero_Rollout": "True;60;2023-11-02T22:39:24",
+  "FFlagTrackPrimitiveCount2_Rollout": "True;30;2023-11-02T22:46:05",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9101,8 +9101,8 @@
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryWindowsClient",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
-  "FStringFlagRepoGitHashFastString": "9ad6405b0b88f7f62ed59df55385b60b05769e50",
-  "DFStringFlagRepoGitHashDynamicString": "9ad6405b0b88f7f62ed59df55385b60b05769e50",
-  "FStringFlipTimeStampFastString": "2023-11-02T22:40:31.464Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-02T22:40:31.464Z"
+  "FStringFlagRepoGitHashFastString": "1888fc8ab1b8e332046968a092b3175759b8b68b",
+  "DFStringFlagRepoGitHashDynamicString": "1888fc8ab1b8e332046968a092b3175759b8b68b",
+  "FStringFlipTimeStampFastString": "2023-11-02T22:47:00.991Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-02T22:47:00.991Z"
 }
