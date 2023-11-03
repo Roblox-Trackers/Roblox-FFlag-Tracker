@@ -8847,6 +8847,8 @@
   "FFlagXboxBetterShowAccountPicker": "True",
   "FFlagAddPerfControlExperimentNameToBacktraceReports": "True",
   "FFlagValidateUserAndUniverseNoModeration": "True",
+  "DFIntPerformanceControlSoundReloadThrashingTargetUtility_Rollout": "-1000;60;2023-11-03T17:20:45",
+  "DFIntPerformanceControlSoundReloadLatencyTargetUtility_Rollout": "-1000;60;2023-11-03T17:20:46",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9190,8 +9192,8 @@
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "148676e47a1c90efad3ec0598b9f732312abcf26",
-  "DFStringFlagRepoGitHashDynamicString": "148676e47a1c90efad3ec0598b9f732312abcf26",
-  "FStringFlipTimeStampFastString": "2023-11-03T17:18:34.484Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-03T17:18:34.484Z"
+  "FStringFlagRepoGitHashFastString": "9a10beda90f757e9e16702c34a801f73c2c6c760",
+  "DFStringFlagRepoGitHashDynamicString": "9a10beda90f757e9e16702c34a801f73c2c6c760",
+  "FStringFlipTimeStampFastString": "2023-11-03T17:21:30.952Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-03T17:21:30.952Z"
 }
