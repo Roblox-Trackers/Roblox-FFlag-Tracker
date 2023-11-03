@@ -8845,8 +8845,6 @@
   "FFlagAddPerfControlExperimentNameToBacktraceReports": "True",
   "FFlagValidateUserAndUniverseNoModeration": "True",
   "DFIntRobloxTelemetryStatThresholdHundredthsPercent": "10",
-  "FFlagUndoTextureManagerStudioCursorHack_Rollout": "True;60;2023-11-03T17:29:26",
-  "FFlagFixLocalScriptsUnderTestService3_Rollout": "True;60;2023-11-03T17:30:09",
   "FFlagVoiceChatThreadPoolShutdownFix_Rollout": "True;60;2023-11-03T17:34:18",
   "DFIntRobloxTelemetryCreationDBInstanceStats_Rollout": "0;60;2023-11-03T17:36:14",
   "DFIntPerformanceControlSoundReloadLatencyExponentTenThousandths_Rollout": "100;60;2023-11-03T17:52:39",
@@ -8855,6 +8853,8 @@
   "FFlagChangeUIBloxLoadingStrategy": "True",
   "FFlagTrackSessionHistory": "True",
   "DFIntMappedFileThrottleHundrethPercent": "100",
+  "FFlagFixLocalScriptsUnderTestService3": "True",
+  "FFlagUndoTextureManagerStudioCursorHack": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9121,8 +9121,8 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "77cca5075b4c316ebba2f29fdd8de87458ba6ef4",
-  "DFStringFlagRepoGitHashDynamicString": "77cca5075b4c316ebba2f29fdd8de87458ba6ef4",
-  "FStringFlipTimeStampFastString": "2023-11-03T18:27:48.097Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-03T18:27:48.097Z"
+  "FStringFlagRepoGitHashFastString": "ebe02db2344451596ab0207af252d1904ce74056",
+  "DFStringFlagRepoGitHashDynamicString": "ebe02db2344451596ab0207af252d1904ce74056",
+  "FStringFlipTimeStampFastString": "2023-11-03T18:37:26.912Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-03T18:37:26.912Z"
 }
