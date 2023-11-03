@@ -8855,6 +8855,8 @@
   "DFIntMappedFileThrottleHundrethPercent_Rollout": "1000;15;2023-11-03T17:49:15",
   "DFIntPerformanceControlSoundReloadLatencyExponentTenThousandths_Rollout": "100;60;2023-11-03T17:52:39",
   "DFIntPerformanceControlSoundReloadThrashingExponentTenThousandths_Rollout": "100;60;2023-11-03T17:52:48",
+  "DFIntMemoryStoreErrorHundredthsPercent_Rollout": "250;30;2023-11-03T18:05:39",
+  "FFlagChangeUIBloxLoadingStrategy": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9121,8 +9123,8 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "0296274dd5d0d817f8cffadaee646e1cf824e53b",
-  "DFStringFlagRepoGitHashDynamicString": "0296274dd5d0d817f8cffadaee646e1cf824e53b",
-  "FStringFlipTimeStampFastString": "2023-11-03T18:00:42.325Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-03T18:00:42.325Z"
+  "FStringFlagRepoGitHashFastString": "f9ad314e404eb3c275f92bf332ee0e28781e9b59",
+  "DFStringFlagRepoGitHashDynamicString": "f9ad314e404eb3c275f92bf332ee0e28781e9b59",
+  "FStringFlipTimeStampFastString": "2023-11-03T18:15:06.177Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-03T18:15:06.177Z"
 }
