@@ -8496,7 +8496,7 @@
   "FFlagEnableSecondaryMetricsLocking": "True",
   "FFlagFixResettingNonStickyMetrics": "True",
   "FFlagGameSettingsRenameCollabEditToDrafts": "True",
-  "FIntSessionTrackingStorageFlushPeriodMs": "1000",
+  "FIntSessionTrackingStorageFlushPeriodMs": "250",
   "FFlagInvokeCallbackWithLockedMessage": "True",
   "DFFlagStreamingPreMinimumStats": "True",
   "DFIntPostJoinSetsStatsHundredths": "100",
@@ -9189,8 +9189,8 @@
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "012c1af989aab117f5537cd80e884239f30a118c",
-  "DFStringFlagRepoGitHashDynamicString": "012c1af989aab117f5537cd80e884239f30a118c",
-  "FStringFlipTimeStampFastString": "2023-11-03T17:10:57.498Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-03T17:10:57.498Z"
+  "FStringFlagRepoGitHashFastString": "1b4b78cd1d7ac4ec048968080be2c274cfd184b0",
+  "DFStringFlagRepoGitHashDynamicString": "1b4b78cd1d7ac4ec048968080be2c274cfd184b0",
+  "FStringFlipTimeStampFastString": "2023-11-03T17:13:47.064Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-03T17:13:47.064Z"
 }
