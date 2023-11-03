@@ -8830,7 +8830,6 @@
   "FFlagGetFFlagLuaAppChallengeDialogContainerPageEnabled": "False",
   "FFlagLuaAppChallengeDialogEventReceiverEnabled": "False",
   "FFlagUGCValidateTestInactiveControls2": "True",
-  "FFlagAllowCrossRSRequiresInTests_Rollout": "True;60;2023-11-02T23:17:30",
   "FFlagTrackPrimitiveCount2": "True",
   "DFFlagEnableRandomStatVerification_Rollout": "True;60;2023-11-02T23:23:02",
   "DFFlagCoalesceTouchEventOnServer": "True",
@@ -8842,6 +8841,7 @@
   "DFFlagReportHangDetectedInSessionTracking": "True",
   "DFFlagAddAbilityToConfigureTheStreamingGCTimeForTunable": "True",
   "FFlagPropertiesWidgetDisableHoverHighlight": "True",
+  "FFlagAllowCrossRSRequiresInTests": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9110,8 +9110,8 @@
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyWindowsClient",
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "50",
-  "FStringFlagRepoGitHashFastString": "93d0f94c0c38a2b7956b10336ccf468c524f8389",
-  "DFStringFlagRepoGitHashDynamicString": "93d0f94c0c38a2b7956b10336ccf468c524f8389",
-  "FStringFlipTimeStampFastString": "2023-11-03T00:17:46.711Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-03T00:17:46.711Z"
+  "FStringFlagRepoGitHashFastString": "1fe97512d43a74a83a4c706185e86ea70ae3ad54",
+  "DFStringFlagRepoGitHashDynamicString": "1fe97512d43a74a83a4c706185e86ea70ae3ad54",
+  "FStringFlipTimeStampFastString": "2023-11-03T00:22:28.770Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-03T00:22:28.770Z"
 }
