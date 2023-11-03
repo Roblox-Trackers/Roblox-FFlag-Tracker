@@ -8844,6 +8844,7 @@
   "DFFlagEnableRandomStatVerification": "True",
   "DFIntRobloxTelemetryStatThresholdHundredthsPercent_Rollout": "10;60;2023-11-03T16:15:10",
   "DFIntRobloxTelemetryCreationDBInstanceStats_Rollout": "10;60;2023-11-03T16:16:43",
+  "FFlagAddPerfControlExperimentNameToBacktraceReports_Rollout": "True;30;2023-11-03T16:41:45",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9110,8 +9111,8 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "0da0583b32a1f7c0de21a2374bac27cfed129427",
-  "DFStringFlagRepoGitHashDynamicString": "0da0583b32a1f7c0de21a2374bac27cfed129427",
-  "FStringFlipTimeStampFastString": "2023-11-03T16:20:58.597Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-03T16:20:58.597Z"
+  "FStringFlagRepoGitHashFastString": "c961cef8961d42cd357c3089f1a4c8d3a439eb06",
+  "DFStringFlagRepoGitHashDynamicString": "c961cef8961d42cd357c3089f1a4c8d3a439eb06",
+  "FStringFlipTimeStampFastString": "2023-11-03T16:42:11.076Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-03T16:42:11.076Z"
 }
