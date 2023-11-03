@@ -8831,7 +8831,6 @@
   "FFlagLuaAppChallengeDialogEventReceiverEnabled": "False",
   "FFlagUGCValidateTestInactiveControls2": "True",
   "FFlagTrackPrimitiveCount2": "True",
-  "DFFlagEnableRandomStatVerification_Rollout": "True;60;2023-11-02T23:23:02",
   "DFFlagCoalesceTouchEventOnServer": "True",
   "DFIntRCCMergeSameTouchesTimeoutInMS": "1200",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
@@ -8842,6 +8841,7 @@
   "DFFlagAddAbilityToConfigureTheStreamingGCTimeForTunable": "True",
   "FFlagPropertiesWidgetDisableHoverHighlight": "True",
   "FFlagAllowCrossRSRequiresInTests": "True",
+  "DFFlagEnableRandomStatVerification": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9184,8 +9184,8 @@
   "FFlagRealtimeProtocolNewInterface": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagUpdateCheckOnLogin": "True",
-  "FStringFlagRepoGitHashFastString": "1fe97512d43a74a83a4c706185e86ea70ae3ad54",
-  "DFStringFlagRepoGitHashDynamicString": "1fe97512d43a74a83a4c706185e86ea70ae3ad54",
-  "FStringFlipTimeStampFastString": "2023-11-03T00:22:28.770Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-03T00:22:28.770Z"
+  "FStringFlagRepoGitHashFastString": "44181ea38cde79db832322b038b0635af37be07c",
+  "DFStringFlagRepoGitHashDynamicString": "44181ea38cde79db832322b038b0635af37be07c",
+  "FStringFlipTimeStampFastString": "2023-11-03T00:32:51.402Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-03T00:32:51.402Z"
 }
