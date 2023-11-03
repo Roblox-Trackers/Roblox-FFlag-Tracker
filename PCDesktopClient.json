@@ -8854,6 +8854,8 @@
   "DFIntRobloxTelemetryCreationDBInstanceStats_Rollout": "0;60;2023-11-03T17:36:14",
   "FFlagTrackSessionHistory_Rollout": "True;30;2023-11-03T17:39:40",
   "DFIntMappedFileThrottleHundrethPercent_Rollout": "1000;15;2023-11-03T17:49:15",
+  "DFIntPerformanceControlSoundReloadLatencyExponentTenThousandths_Rollout": "100;60;2023-11-03T17:52:39",
+  "DFIntPerformanceControlSoundReloadThrashingExponentTenThousandths_Rollout": "100;60;2023-11-03T17:52:48",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9124,8 +9126,8 @@
   "FIntScrollingPerfTrackerKibana": "50",
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3_Rollout": "10000;30;2023-11-03T17:35:20",
-  "FStringFlagRepoGitHashFastString": "81898c4f7827f1d1d8cfb14edf99d4dda05da2cc",
-  "DFStringFlagRepoGitHashDynamicString": "81898c4f7827f1d1d8cfb14edf99d4dda05da2cc",
-  "FStringFlipTimeStampFastString": "2023-11-03T17:50:03.625Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-03T17:50:03.625Z"
+  "FStringFlagRepoGitHashFastString": "6bc35eab147d7cf355a4bf00bff79be7422a5b32",
+  "DFStringFlagRepoGitHashDynamicString": "6bc35eab147d7cf355a4bf00bff79be7422a5b32",
+  "FStringFlipTimeStampFastString": "2023-11-03T17:54:00.031Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-03T17:54:00.031Z"
 }
