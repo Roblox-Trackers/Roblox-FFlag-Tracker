@@ -8875,7 +8875,6 @@
   "FFlagTenFootUiFixAutoFocusRace": "True",
   "DFFlagRemoveTelemetryFlushOnJobClose": "True",
   "FFlagStudioOrientationIndicatorFix": "True",
-  "DFFlagFixScaleToCrash_Rollout": "True;60;2023-11-06T21:04:29",
   "FFlagConsolesPlatformUserId": "True",
   "DFFlagEnableAutomaticZoomOutOnRotation_Rollout": "True;60;2023-11-06T21:20:16",
   "FFlagOpusDecoderDedupBuffer": "True",
@@ -8885,6 +8884,7 @@
   "FFlagSimVisualizeAeroForces": "True",
   "FFlagCloseWebViewBeforeExperience_Rollout": "True;60;2023-11-06T22:04:09",
   "FFlagUpdatedVecMinMaxApi_Rollout": "True;60;2023-11-06T22:07:18",
+  "DFFlagFixScaleToCrash": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9157,8 +9157,8 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagEnableCullableSceneOctree4_Rollout": "True;30;2023-11-06T22:11:15",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "1bf48519df9f214d8bb518795751af7799e25934",
-  "DFStringFlagRepoGitHashDynamicString": "1bf48519df9f214d8bb518795751af7799e25934",
-  "FStringFlipTimeStampFastString": "2023-11-06T22:12:00.134Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-06T22:12:00.134Z"
+  "FStringFlagRepoGitHashFastString": "6496eca16d94e99ca117e5dd86ada983b0bcfcd5",
+  "DFStringFlagRepoGitHashDynamicString": "6496eca16d94e99ca117e5dd86ada983b0bcfcd5",
+  "FStringFlipTimeStampFastString": "2023-11-06T22:13:01.997Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-06T22:13:01.997Z"
 }
