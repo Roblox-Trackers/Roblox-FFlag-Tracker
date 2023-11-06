@@ -8859,10 +8859,7 @@
   "FFlagPermissionsEarlyOutStallsQueue": "True",
   "FFlagSelfViewCameraDefaultButtonInViewPort": "True",
   "FFlagUseCameraDeviceGrantedSignal": "True",
-  "DFFlagSkipAudioAssetTags_Rollout": "True;60;2023-11-06T18:57:47",
-  "DFFlagDisableAudioFileMetadata_Rollout": "True;60;2023-11-06T18:58:01",
   "FFlagEmoteMenuSupportScriptRunContext": "True",
-  "FFlagAudioFixVolumetricSoundAssert2_Rollout": "True;60;2023-11-06T19:01:00",
   "FFlagPCMFriendshipOriginType_v2": "True",
   "FFlagCatalogAdaptiveScrollingIXPEnabled4": "True",
   "DFFlagRemoveTelemetryFlushOnJobClose_Rollout": "True;60;2023-11-06T19:25:28",
@@ -8874,6 +8871,9 @@
   "DFFlagCreateSetForModelExtraGuard": "True",
   "DFFlagFixNanHandling": "True",
   "FFlagReportNegligibleMeshAvatarImport": "True",
+  "FFlagAudioFixVolumetricSoundAssert2": "True",
+  "DFFlagDisableAudioFileMetadata": "True",
+  "DFFlagSkipAudioAssetTags": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9263,8 +9263,8 @@
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "3ddfcc62fc7c6b3f4b248f2ff3a42e8eff491b84",
-  "DFStringFlagRepoGitHashDynamicString": "3ddfcc62fc7c6b3f4b248f2ff3a42e8eff491b84",
-  "FStringFlipTimeStampFastString": "2023-11-06T20:06:41.441Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-06T20:06:41.441Z"
+  "FStringFlagRepoGitHashFastString": "06cad81a364c13f46326498afdd04ada4d4bbb4c",
+  "DFStringFlagRepoGitHashDynamicString": "06cad81a364c13f46326498afdd04ada4d4bbb4c",
+  "FStringFlipTimeStampFastString": "2023-11-06T20:07:41.084Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-06T20:07:41.084Z"
 }
