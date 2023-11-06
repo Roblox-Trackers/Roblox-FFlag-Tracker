@@ -8875,6 +8875,7 @@
   "DFFlagDisableAudioFileMetadata": "True",
   "DFFlagSkipAudioAssetTags": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
+  "FFlagTenFootUiFixAutoFocusRace": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9218,8 +9219,8 @@
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "48f6154041c2e2cd402394f141418d2481a0360c",
-  "DFStringFlagRepoGitHashDynamicString": "48f6154041c2e2cd402394f141418d2481a0360c",
-  "FStringFlipTimeStampFastString": "2023-11-06T20:17:49.699Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-06T20:17:49.699Z"
+  "FStringFlagRepoGitHashFastString": "01a94c6e99e409d7c2368c3789dba08cfcfad98c",
+  "DFStringFlagRepoGitHashDynamicString": "01a94c6e99e409d7c2368c3789dba08cfcfad98c",
+  "FStringFlipTimeStampFastString": "2023-11-06T20:18:50.019Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-06T20:18:50.019Z"
 }
