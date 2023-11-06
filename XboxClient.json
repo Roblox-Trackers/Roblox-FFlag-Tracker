@@ -8891,6 +8891,8 @@
   "DFFlagSimDebrisServicePartRemovalCrashDebug": "True",
   "FFlagGraphicsD3D11UnbindOnBeginCompute": "True",
   "FFlagFixBackgroundMute": "True",
+  "FFlagAddSearchFeedParamsToTelemetry": "True",
+  "FFlagFixSearchResultsTextBannerTruncation": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9238,8 +9240,8 @@
   "FFlagXboxNixValidSessionPoller": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
-  "FStringFlagRepoGitHashFastString": "b6d8cf48d0559cf1b768a47c6f9686c2eb43ca73",
-  "DFStringFlagRepoGitHashDynamicString": "b6d8cf48d0559cf1b768a47c6f9686c2eb43ca73",
-  "FStringFlipTimeStampFastString": "2023-11-06T23:54:09.923Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-06T23:54:09.923Z"
+  "FStringFlagRepoGitHashFastString": "2b78b837bf8989cd75d2ebad00de91c7a227e862",
+  "DFStringFlagRepoGitHashDynamicString": "2b78b837bf8989cd75d2ebad00de91c7a227e862",
+  "FStringFlipTimeStampFastString": "2023-11-06T23:55:18.446Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-06T23:55:18.446Z"
 }
