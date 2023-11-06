@@ -8855,6 +8855,7 @@
   "FFlagEnableMmapForMemProfStorageFlushing": "False",
   "DFFlagSkipAudioAssetTags_Rollout": "True;60;2023-11-06T17:31:09",
   "DFFlagDisableAudioFileMetadata_Rollout": "True;60;2023-11-06T17:31:37",
+  "FFlagRenderFib3ProperConstantBufferSize_Rollout": "True;30;2023-11-06T17:34:57",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9198,8 +9199,8 @@
   "FIntScrollingPerfTrackerKibana": "50",
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "c01a729a4862cb4219588dc760a49a8479249215",
-  "DFStringFlagRepoGitHashDynamicString": "c01a729a4862cb4219588dc760a49a8479249215",
-  "FStringFlipTimeStampFastString": "2023-11-06T17:34:17.890Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-06T17:34:17.890Z"
+  "FStringFlagRepoGitHashFastString": "b8cda0c3ca843207f1cabdf5812c2803c3162e24",
+  "DFStringFlagRepoGitHashDynamicString": "b8cda0c3ca843207f1cabdf5812c2803c3162e24",
+  "FStringFlipTimeStampFastString": "2023-11-06T17:35:54.407Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-06T17:35:54.407Z"
 }
