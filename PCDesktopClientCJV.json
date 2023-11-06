@@ -8844,7 +8844,6 @@
   "FFlagAddPerfControlExperimentNameToBacktraceReports": "True",
   "FFlagValidateUserAndUniverseNoModeration": "True",
   "DFIntRobloxTelemetryStatThresholdHundredthsPercent": "10",
-  "FFlagChangeUIBloxLoadingStrategy": "True",
   "FFlagTrackSessionHistory": "True",
   "DFIntMappedFileThrottleHundrethPercent": "100",
   "FFlagFixLocalScriptsUnderTestService3": "True",
@@ -8867,6 +8866,8 @@
   "DFFlagDisableAudioFileMetadata_Rollout": "True;60;2023-11-06T18:58:01",
   "FFlagEmoteMenuSupportScriptRunContext": "True",
   "FFlagAudioFixVolumetricSoundAssert2_Rollout": "True;60;2023-11-06T19:01:00",
+  "FFlagPCMFriendshipOriginType_v2": "True",
+  "FFlagCatalogAdaptiveScrollingIXPEnabled4": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9138,8 +9139,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d576ddc502fdccbd0d92bcc5a1f4b8d4acd36ab0",
-  "DFStringFlagRepoGitHashDynamicString": "d576ddc502fdccbd0d92bcc5a1f4b8d4acd36ab0",
-  "FStringFlipTimeStampFastString": "2023-11-06T19:01:44.238Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-06T19:01:44.238Z"
+  "FStringFlagRepoGitHashFastString": "f010e9dfa38f99d7d398bda278282ec1eeb25282",
+  "DFStringFlagRepoGitHashDynamicString": "f010e9dfa38f99d7d398bda278282ec1eeb25282",
+  "FStringFlipTimeStampFastString": "2023-11-06T19:13:16.245Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-06T19:13:16.245Z"
 }
