@@ -8829,7 +8829,7 @@
   "FFlagLuaAppChallengeDialogEventReceiverEnabled": "False",
   "FFlagUGCValidateTestInactiveControls2": "True",
   "FFlagTrackPrimitiveCount2": "True",
-  "DFFlagCoalesceTouchEventOnServer": "False",
+  "DFFlagCoalesceTouchEventOnServer": "True",
   "DFIntRCCMergeSameTouchesTimeoutInMS": "1500",
   "FFlagOnlyMakeInputsForVoiceUsers": "True",
   "FFlagModelLodStats2": "True",
@@ -8861,7 +8861,6 @@
   "FFlagSelfViewCameraDefaultButtonInViewPort": "True",
   "FFlagUseCameraDeviceGrantedSignal": "True",
   "DFFlagFixNanHandling_Rollout": "True;60;2023-11-06T18:57:16",
-  "DFFlagCoalesceTouchEventOnServer_Rollout": "True;30;2023-11-06T18:57:41",
   "DFFlagSkipAudioAssetTags_Rollout": "True;60;2023-11-06T18:57:47",
   "DFFlagDisableAudioFileMetadata_Rollout": "True;60;2023-11-06T18:58:01",
   "FFlagEmoteMenuSupportScriptRunContext": "True",
@@ -9061,8 +9060,8 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "6d8c9178ae7c2104c5d9afb0261c7ae629ebd6b9",
-  "DFStringFlagRepoGitHashDynamicString": "6d8c9178ae7c2104c5d9afb0261c7ae629ebd6b9",
-  "FStringFlipTimeStampFastString": "2023-11-06T19:30:22.410Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-06T19:30:22.410Z"
+  "FStringFlagRepoGitHashFastString": "c4dca70bd0a4e110530de8d9263a59ddcbc230eb",
+  "DFStringFlagRepoGitHashDynamicString": "c4dca70bd0a4e110530de8d9263a59ddcbc230eb",
+  "FStringFlipTimeStampFastString": "2023-11-06T19:32:37.685Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-06T19:32:37.685Z"
 }
