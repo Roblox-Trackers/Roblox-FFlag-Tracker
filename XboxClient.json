@@ -8862,7 +8862,6 @@
   "FFlagEmoteMenuSupportScriptRunContext": "True",
   "FFlagPCMFriendshipOriginType_v2": "True",
   "FFlagCatalogAdaptiveScrollingIXPEnabled4": "True",
-  "DFFlagRemoveTelemetryFlushOnJobClose_Rollout": "True;60;2023-11-06T19:25:28",
   "FFlagStudioOrientationIndicatorFix_Rollout": "True;60;2023-11-06T19:29:32",
   "EnableProductDetailsNotSupportedCheck": "True",
   "FFlagIXPServerTimeForExposure": "True",
@@ -8876,6 +8875,7 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagTenFootUiFixAutoFocusRace": "True",
   "FFlagOpusDecoderDedupBuffer_Rollout": "True;60;2023-11-06T20:24:47",
+  "DFFlagRemoveTelemetryFlushOnJobClose": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9224,8 +9224,8 @@
   "FFlagXboxKeyboardType": "True",
   "FFlagXboxNixValidSessionPoller": "True",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "941cabba9e0ce394cca5c5f4c61829f52528f52a",
-  "DFStringFlagRepoGitHashDynamicString": "941cabba9e0ce394cca5c5f4c61829f52528f52a",
-  "FStringFlipTimeStampFastString": "2023-11-06T20:27:43.575Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-06T20:27:43.575Z"
+  "FStringFlagRepoGitHashFastString": "71e70e53e140be1c484513c468153bdbc1202b84",
+  "DFStringFlagRepoGitHashDynamicString": "71e70e53e140be1c484513c468153bdbc1202b84",
+  "FStringFlipTimeStampFastString": "2023-11-06T20:32:43.012Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-06T20:32:43.012Z"
 }
