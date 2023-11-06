@@ -8880,7 +8880,6 @@
   "FFlagTenFootUiAddAutoFocusFailsafe": "True",
   "FFlagSimVisualizeAeroForces": "True",
   "DFFlagFixScaleToCrash": "True",
-  "FFlagOpusDecoderSupportFloat_Rollout": "True;60;2023-11-06T22:13:44",
   "DFFlagEnableAutomaticZoomOutOnRotation": "True",
   "FFlagTabsFillDirection": "True",
   "DFFlagSimDebrisServicePartRemovalCrashDebug_Rollout": "True;60;2023-11-06T22:33:23",
@@ -8891,6 +8890,7 @@
   "FFlagCloseWebViewBeforeExperience": "True",
   "FFlagUpdatedVecMinMaxApi": "True",
   "FFlagLuaAppFlushCachedUserOnTime": "True",
+  "FFlagOpusDecoderSupportFloat": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9162,8 +9162,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagEnableCullableSceneOctree4": "True",
-  "FStringFlagRepoGitHashFastString": "f442abee75fd90cc358c73448e8aef107bb83266",
-  "DFStringFlagRepoGitHashDynamicString": "f442abee75fd90cc358c73448e8aef107bb83266",
-  "FStringFlipTimeStampFastString": "2023-11-06T23:18:01.341Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-06T23:18:01.341Z"
+  "FStringFlagRepoGitHashFastString": "47b18a49987bc76f24850cc5da0a21bb0885664b",
+  "DFStringFlagRepoGitHashDynamicString": "47b18a49987bc76f24850cc5da0a21bb0885664b",
+  "FStringFlipTimeStampFastString": "2023-11-06T23:22:20.175Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-06T23:22:20.175Z"
 }
