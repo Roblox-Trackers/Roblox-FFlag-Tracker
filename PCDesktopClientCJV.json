@@ -8928,7 +8928,6 @@
   "DFFlagCapsLoadString": "True",
   "FFlagEnableCaptures13Experiment": "True",
   "DFFlagCapsRequire": "True",
-  "DFIntRobloxTelemetryStatV2POCRandomRange_Rollout": "1000;60;2023-11-07T21:43:52",
   "DFFlagOptimizeComputeIsCollide_Rollout": "True;60;2023-11-07T21:51:15",
   "FFlagRenderDebugCheckThreading2_Rollout": "True;60;2023-11-07T22:07:19",
   "DFFlagSimLimitAssemblyCount2": "True",
@@ -8937,6 +8936,8 @@
   "FFlagStudioRepositionAttachedWidgetOnResize": "True",
   "FFlagInGameChromeSignalAPIAnalytics_Rollout": "True;60;2023-11-07T22:49:38",
   "FFlagSupportSmoothScaleRichText_Rollout": "True;60;2023-11-07T22:51:24",
+  "DFIntRobloxTelemetryStatV2POCRandomRange": "1000",
+  "FFlagCOLLAB3591PlaceNameInDocs": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9207,8 +9208,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "134fb74aea697703b4bda2f503825650a5094323",
-  "DFStringFlagRepoGitHashDynamicString": "134fb74aea697703b4bda2f503825650a5094323",
-  "FStringFlipTimeStampFastString": "2023-11-07T22:52:06.492Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-07T22:52:06.492Z"
+  "FStringFlagRepoGitHashFastString": "b00f1837e695139526f0f49432d5cd5aed552d9f",
+  "DFStringFlagRepoGitHashDynamicString": "b00f1837e695139526f0f49432d5cd5aed552d9f",
+  "FStringFlipTimeStampFastString": "2023-11-07T22:53:48.240Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-07T22:53:48.240Z"
 }
