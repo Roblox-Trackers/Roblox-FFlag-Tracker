@@ -8926,7 +8926,6 @@
   "FFlagNewInferredCrashBackgroundHandling": "True",
   "FFlagSkipPurgeSessionStorageFileOnBackgrounding": "True",
   "FFlagAICOLiveScriptingCompatibility": "True",
-  "DFFlagSimLimitAssemblyCount2_Rollout": "True;60;2023-11-07T21:10:58",
   "DFFlagCapsLoadString": "True",
   "FFlagEnableCaptures13Experiment": "True",
   "FFlagStudioSetFixedSizeOnOgreWidgetToo_Rollout": "True;60;2023-11-07T21:17:02",
@@ -8935,6 +8934,7 @@
   "DFIntRobloxTelemetryStatV2POCRandomRange_Rollout": "1000;60;2023-11-07T21:43:52",
   "DFFlagOptimizeComputeIsCollide_Rollout": "True;60;2023-11-07T21:51:15",
   "FFlagRenderDebugCheckThreading2_Rollout": "True;60;2023-11-07T22:07:19",
+  "DFFlagSimLimitAssemblyCount2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9280,8 +9280,8 @@
   "FFlagXboxNixValidSessionPoller": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
-  "FStringFlagRepoGitHashFastString": "11645d3c90eb851a6a4ecfede96fd37ef7be47bd",
-  "DFStringFlagRepoGitHashDynamicString": "11645d3c90eb851a6a4ecfede96fd37ef7be47bd",
-  "FStringFlipTimeStampFastString": "2023-11-07T22:09:49.870Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-07T22:09:49.870Z"
+  "FStringFlagRepoGitHashFastString": "d9e9f194eddfb0a7d2c4debce8ed939722cd5703",
+  "DFStringFlagRepoGitHashDynamicString": "d9e9f194eddfb0a7d2c4debce8ed939722cd5703",
+  "FStringFlipTimeStampFastString": "2023-11-07T22:19:01.050Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-07T22:19:01.050Z"
 }
