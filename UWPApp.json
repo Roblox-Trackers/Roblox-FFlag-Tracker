@@ -8912,7 +8912,6 @@
   "FFlagSaveCaptureFeatureEnabled_v4": "True",
   "FFlagSaveCaptureToExternalStorageEnabled": "True",
   "FFlagTutorialsTelemetryIdFix": "True",
-  "DFFlagCapsLoadString_Rollout": "True;60;2023-11-07T20:04:15",
   "FFlagLuauLowerAltLoopForn": "True",
   "FFlagLuauReuseArrSlots2": "True",
   "DFFlagCapsRequire_Rollout": "True;60;2023-11-07T20:10:04",
@@ -8929,6 +8928,7 @@
   "FFlagSkipPurgeSessionStorageFileOnBackgrounding": "True",
   "FFlagAICOLiveScriptingCompatibility": "True",
   "DFFlagSimLimitAssemblyCount2_Rollout": "True;60;2023-11-07T21:10:58",
+  "DFFlagCapsLoadString": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9119,8 +9119,8 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "b43725fdd3af71169419c3f8bc80524765884716",
-  "DFStringFlagRepoGitHashDynamicString": "b43725fdd3af71169419c3f8bc80524765884716",
-  "FStringFlipTimeStampFastString": "2023-11-07T21:12:01.702Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-07T21:12:01.702Z"
+  "FStringFlagRepoGitHashFastString": "a5c6077597c0f6fb061614bdbfab4d3db5463957",
+  "DFStringFlagRepoGitHashDynamicString": "a5c6077597c0f6fb061614bdbfab4d3db5463957",
+  "FStringFlipTimeStampFastString": "2023-11-07T21:13:55.582Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-07T21:13:55.582Z"
 }
