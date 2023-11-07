@@ -8899,7 +8899,6 @@
   "FFlagQuestAppBackgroundSound": "True",
   "FFlagUseRoduxFriends41": "True",
   "FFlagFixExperienceDetailsPageIssues2": "True",
-  "FFlagAuthDisclaimerUseArgs": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9106,6 +9105,7 @@
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFFlagHttpCacheReportCleanReason": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "1048576",
+  "FFlagAuthDisclaimerUseArgs": "True",
   "FFlagAddMenuNavigationToggleDialog": "True",
   "FFlagAddPreviousPageToLuaPageLoad": "True",
   "FFlagAvatarSceneManagerSwitchTabFix": "True",
@@ -9245,8 +9245,8 @@
   "FFlagXboxNixValidSessionPoller": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
-  "FStringFlagRepoGitHashFastString": "2a682bb0c1748a1d0708e6530e78c758289f3ce2",
-  "DFStringFlagRepoGitHashDynamicString": "2a682bb0c1748a1d0708e6530e78c758289f3ce2",
-  "FStringFlipTimeStampFastString": "2023-11-07T00:39:30.594Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-07T00:39:30.594Z"
+  "FStringFlagRepoGitHashFastString": "5fbe5159b492e3666c2b3192eceeabc21c4e7cf9",
+  "DFStringFlagRepoGitHashDynamicString": "5fbe5159b492e3666c2b3192eceeabc21c4e7cf9",
+  "FStringFlipTimeStampFastString": "2023-11-07T00:52:24.713Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-07T00:52:24.713Z"
 }
