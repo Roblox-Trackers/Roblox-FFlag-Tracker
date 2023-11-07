@@ -8922,6 +8922,8 @@
   "FIntStudioDeviceEmulatorNotchedScreenSupportBetaFeatureRolloutPercent_Rollout": "100;30;2023-11-07T19:37:28",
   "FFlagSkipPurgeSessionStorageFileOnBackgrounding_Rollout": "True;60;2023-11-07T19:44:02",
   "FFlagNewInferredCrashBackgroundHandling_Rollout": "True;60;2023-11-07T19:44:16",
+  "FFlagSaveCaptureFeatureEnabled_v4": "True",
+  "FFlagSaveCaptureToExternalStorageEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9112,8 +9114,8 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "50",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "22f61fcfbddb26a95d37d2f173cf2421bc055956",
-  "DFStringFlagRepoGitHashDynamicString": "22f61fcfbddb26a95d37d2f173cf2421bc055956",
-  "FStringFlipTimeStampFastString": "2023-11-07T19:44:40.626Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-07T19:44:40.626Z"
+  "FStringFlagRepoGitHashFastString": "2088ca972a1627333cfc6e6379c97b2dc73d7f2b",
+  "DFStringFlagRepoGitHashDynamicString": "2088ca972a1627333cfc6e6379c97b2dc73d7f2b",
+  "FStringFlipTimeStampFastString": "2023-11-07T19:46:29.548Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-07T19:46:29.548Z"
 }
