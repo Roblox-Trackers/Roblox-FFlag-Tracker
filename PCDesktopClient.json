@@ -8914,7 +8914,6 @@
   "FFlagTutorialsTelemetryIdFix": "True",
   "FFlagLuauLowerAltLoopForn": "True",
   "FFlagLuauReuseArrSlots2": "True",
-  "DFFlagCapsRequire_Rollout": "True;60;2023-11-07T20:10:04",
   "FIntStudioDeviceEmulatorNotchedScreenSupportBetaFeatureRolloutPercent": "100",
   "DFFlagSimEnableAirBuoyancy": "True",
   "DFFlagSimFluidAddFluidFidelityCntToFluidSaveOrPublishStats": "True",
@@ -8931,6 +8930,7 @@
   "DFFlagCapsLoadString": "True",
   "FFlagEnableCaptures13Experiment": "True",
   "FFlagStudioSetFixedSizeOnOgreWidgetToo_Rollout": "True;60;2023-11-07T21:17:02",
+  "DFFlagCapsRequire": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9199,8 +9199,8 @@
   "FIntScrollingPerfTrackerKibana": "50",
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "FStringFlagRepoGitHashFastString": "1abf542fe8575cf60f92347b5a09264721311ae9",
-  "DFStringFlagRepoGitHashDynamicString": "1abf542fe8575cf60f92347b5a09264721311ae9",
-  "FStringFlipTimeStampFastString": "2023-11-07T21:18:02.599Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-07T21:18:02.599Z"
+  "FStringFlagRepoGitHashFastString": "31117b87640e442500ba8424876c70015feb3426",
+  "DFStringFlagRepoGitHashDynamicString": "31117b87640e442500ba8424876c70015feb3426",
+  "FStringFlipTimeStampFastString": "2023-11-07T21:20:07.729Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-07T21:20:07.729Z"
 }
