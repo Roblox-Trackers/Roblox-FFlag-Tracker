@@ -8943,6 +8943,7 @@
   "FFlagVersionedFlags_Dev_Rollout": "True;60;2023-11-08T18:25:42",
   "FFlagRealtimeProtocolNewInterface_Rollout": "True;30;2023-11-08T18:32:09",
   "FFlagRemoveInitLuaAppInJNI_Rollout": "True;30;2023-11-08T18:55:57",
+  "FFlagCapsReparent_Rollout": "True;60;2023-11-08T18:58:54",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9133,8 +9134,8 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "983f98c51d05a2aa47fa81ff82bd53b9ccda68b0",
-  "DFStringFlagRepoGitHashDynamicString": "983f98c51d05a2aa47fa81ff82bd53b9ccda68b0",
-  "FStringFlipTimeStampFastString": "2023-11-08T18:56:57.053Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-08T18:56:57.053Z"
+  "FStringFlagRepoGitHashFastString": "2f901da5f1116c0978de9b1c42bd590c6e31e95c",
+  "DFStringFlagRepoGitHashDynamicString": "2f901da5f1116c0978de9b1c42bd590c6e31e95c",
+  "FStringFlipTimeStampFastString": "2023-11-08T19:01:12.811Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-08T19:01:12.811Z"
 }
