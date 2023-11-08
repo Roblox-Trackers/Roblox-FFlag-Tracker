@@ -8573,7 +8573,7 @@
   "FFlagUseConcurrentUsersOverlayPill3": "True",
   "FFlagEnableDesktopToastNotificationIxp2": "False",
   "FFlagScriptEditorAddBreakpointsToScrollBar": "True",
-  "FFlagIXPPerformanceControlMemoryBufferExp": "True",
+  "FFlagIXPPerformanceControlMemoryBufferExp": "False",
   "DFFlagEnablePreparePurchaseHttpPost": "True",
   "DFFlagEnableSubscriptionApiInputValidation": "True",
   "FFlagExplorerUseSelectionProvider2": "True",
@@ -8945,6 +8945,10 @@
   "FFlagCapsReparent_Rollout": "True;60;2023-11-08T18:58:54",
   "DFFlagMemoryStoreUpdateAsyncEnableSortKey_PlaceFilter": "False;6924499023",
   "FFlagRealtimeProtocolNewInterface": "True",
+  "FFlagEditableImageBasicReplicationEnabled": "False",
+  "FFlagEditableImageBasicReplicationEnabled_PlaceFilter": "True;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
+  "FFlagEditableImageEnabled": "False",
+  "FFlagEditableImageEnabled_PlaceFilter": "True;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9214,8 +9218,8 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "f59d7f3ab802bc9b88c76a36aa2f8f7bbcd0edcb",
-  "DFStringFlagRepoGitHashDynamicString": "f59d7f3ab802bc9b88c76a36aa2f8f7bbcd0edcb",
-  "FStringFlipTimeStampFastString": "2023-11-08T19:14:07.945Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-08T19:14:07.945Z"
+  "FStringFlagRepoGitHashFastString": "797579317fccdb75a4346884154e97e40995774b",
+  "DFStringFlagRepoGitHashDynamicString": "797579317fccdb75a4346884154e97e40995774b",
+  "FStringFlipTimeStampFastString": "2023-11-08T19:19:56.439Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-08T19:19:56.439Z"
 }
