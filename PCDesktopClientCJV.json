@@ -8949,6 +8949,9 @@
   "FFlagEditableImageBasicReplicationEnabled_PlaceFilter": "True;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
   "FFlagEditableImageEnabled": "False",
   "FFlagEditableImageEnabled_PlaceFilter": "True;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
+  "DFFlagMemoryStoreGetAsyncEnableSortKey_PlaceFilter": "False;6924499023",
+  "DFFlagMemoryStoreSetAsyncEnableSortKey_PlaceFilter": "False;6924499023",
+  "DFFlagMemoryStoreGetRangeAsyncEnableSortKey_PlaceFilter": "False;6924499023",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9219,8 +9222,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "797579317fccdb75a4346884154e97e40995774b",
-  "DFStringFlagRepoGitHashDynamicString": "797579317fccdb75a4346884154e97e40995774b",
-  "FStringFlipTimeStampFastString": "2023-11-08T19:19:56.439Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-08T19:19:56.439Z"
+  "FStringFlagRepoGitHashFastString": "0ee9fbe683205f10dcee99e903573c81c5ca4463",
+  "DFStringFlagRepoGitHashDynamicString": "0ee9fbe683205f10dcee99e903573c81c5ca4463",
+  "FStringFlipTimeStampFastString": "2023-11-08T19:21:15.979Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-08T19:21:15.979Z"
 }
