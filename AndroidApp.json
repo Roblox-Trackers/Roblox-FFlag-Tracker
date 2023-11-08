@@ -8940,7 +8940,6 @@
   "FFlagAccountForCameraUpVectorInCameraFacingCFrame": "True",
   "FFlagOptimizeNamesFetch": "True",
   "FFlagRefactorFormatUserProfileFields": "True",
-  "FFlagCapsReparent_Rollout": "True;60;2023-11-08T18:58:54",
   "FFlagRealtimeProtocolNewInterface": "True",
   "FFlagEditableImageBasicReplicationEnabled": "False",
   "FFlagEditableImageBasicReplicationEnabled_PlaceFilter": "True;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
@@ -8954,6 +8953,7 @@
   "DFFlagVoiceChatFixRepeatingLeaveOp": "True",
   "DFFlagVoiceChatSendPubAbandonedToClient": "True",
   "FFlagIkControlDriftFix_Rollout": "True;60;2023-11-08T19:58:05",
+  "FFlagCapsReparent": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9342,8 +9342,8 @@
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "04d6dd16d9111a429cd715ce2fd4795ced83ec1b",
-  "DFStringFlagRepoGitHashDynamicString": "04d6dd16d9111a429cd715ce2fd4795ced83ec1b",
-  "FStringFlipTimeStampFastString": "2023-11-08T19:59:09.199Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-08T19:59:09.199Z"
+  "FStringFlagRepoGitHashFastString": "b3343a2d1ced88794fb7de7f61902e76210d99f7",
+  "DFStringFlagRepoGitHashDynamicString": "b3343a2d1ced88794fb7de7f61902e76210d99f7",
+  "FStringFlipTimeStampFastString": "2023-11-08T20:09:19.782Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-08T20:09:19.782Z"
 }
