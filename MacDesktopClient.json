@@ -8942,6 +8942,7 @@
   "FFlagRefactorFormatUserProfileFields": "True",
   "FFlagVersionedFlags_Dev_Rollout": "True;60;2023-11-08T18:25:42",
   "FFlagRealtimeProtocolNewInterface_Rollout": "True;30;2023-11-08T18:32:09",
+  "FFlagRemoveInitLuaAppInJNI_Rollout": "True;30;2023-11-08T18:55:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9211,8 +9212,8 @@
   "DFFlagInferredCrashProfileSyncFlushSwitch": "True",
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
-  "FStringFlagRepoGitHashFastString": "67a4157ccb996c2f39548a2a5fc4261cd9441301",
-  "DFStringFlagRepoGitHashDynamicString": "67a4157ccb996c2f39548a2a5fc4261cd9441301",
-  "FStringFlipTimeStampFastString": "2023-11-08T18:33:01.108Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-08T18:33:01.108Z"
+  "FStringFlagRepoGitHashFastString": "983f98c51d05a2aa47fa81ff82bd53b9ccda68b0",
+  "DFStringFlagRepoGitHashDynamicString": "983f98c51d05a2aa47fa81ff82bd53b9ccda68b0",
+  "FStringFlipTimeStampFastString": "2023-11-08T18:56:57.053Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-08T18:56:57.053Z"
 }
