@@ -8953,6 +8953,7 @@
   "DFFlagVoiceChatDebugRepeatingLeaveOp": "True",
   "DFFlagVoiceChatFixRepeatingLeaveOp": "True",
   "DFFlagVoiceChatSendPubAbandonedToClient": "True",
+  "FFlagIkControlDriftFix_Rollout": "True;60;2023-11-08T19:58:05",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
