@@ -5378,7 +5378,7 @@
   "DFFlagContentProviderSupportsSymlinks": "True",
   "DFFlagSimReportAveWorldstepTimeEventIngest": "True",
   "FFlagCOLLAB3777LostEditAccessMsg": "True",
-  "DFFlagTouchedEventInvestigation": "True",
+  "DFFlagTouchedEventInvestigation": "False",
   "DFFlagWorldAnalyticsRefactor": "True",
   "FFlagContextualServiceVisibility2": "True",
   "FFlagLuaAppGameImpressionCounts": "True",
@@ -8937,7 +8937,6 @@
   "FFlagStudioDontSanitizeRecentItemNames": "True",
   "FFlagInGameChromeSignalAPIAnalytics": "True",
   "FFlagStudioWidgetEnableSetSize3": "True",
-  "DFFlagTouchedEventInvestigation_Rollout": "False;60;2023-11-08T01:02:55",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9283,8 +9282,8 @@
   "FFlagXboxNixValidSessionPoller": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
-  "FStringFlagRepoGitHashFastString": "dffea6affb8c60bbb164a9fb1a3142b4e5dcb8df",
-  "DFStringFlagRepoGitHashDynamicString": "dffea6affb8c60bbb164a9fb1a3142b4e5dcb8df",
-  "FStringFlipTimeStampFastString": "2023-11-08T01:59:39.543Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-08T01:59:39.543Z"
+  "FStringFlagRepoGitHashFastString": "77754c01dd47779d19034671bb440f80dfa5e006",
+  "DFStringFlagRepoGitHashDynamicString": "77754c01dd47779d19034671bb440f80dfa5e006",
+  "FStringFlipTimeStampFastString": "2023-11-08T02:14:14.107Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-08T02:14:14.107Z"
 }
