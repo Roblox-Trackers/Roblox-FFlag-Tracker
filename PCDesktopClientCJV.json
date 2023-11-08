@@ -8941,7 +8941,6 @@
   "FFlagOptimizeNamesFetch": "True",
   "FFlagRefactorFormatUserProfileFields": "True",
   "FFlagCapsReparent_Rollout": "True;60;2023-11-08T18:58:54",
-  "DFFlagMemoryStoreUpdateAsyncEnableSortKey_PlaceFilter": "False;6924499023",
   "FFlagRealtimeProtocolNewInterface": "True",
   "FFlagEditableImageBasicReplicationEnabled": "False",
   "FFlagEditableImageBasicReplicationEnabled_PlaceFilter": "True;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
@@ -8949,6 +8948,7 @@
   "FFlagEditableImageEnabled_PlaceFilter": "True;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
   "FFlagAddDetailToProfilePeekViewDeeplinks": "True",
   "FFlagRemoveInitLuaAppInJNI": "True",
+  "FFlagFixSettingsHubVRBackgroundError": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9219,8 +9219,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "cb68273dc83a04546da2abc414c5e7cdf9c49392",
-  "DFStringFlagRepoGitHashDynamicString": "cb68273dc83a04546da2abc414c5e7cdf9c49392",
-  "FStringFlipTimeStampFastString": "2023-11-08T19:51:09.450Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-08T19:51:09.450Z"
+  "FStringFlagRepoGitHashFastString": "26aca350a637be58372282cb7fa89cb45b7102d0",
+  "DFStringFlagRepoGitHashDynamicString": "26aca350a637be58372282cb7fa89cb45b7102d0",
+  "FStringFlipTimeStampFastString": "2023-11-08T19:52:15.961Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-08T19:52:15.961Z"
 }
