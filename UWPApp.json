@@ -9037,6 +9037,7 @@
   "FFlagFixJapaneseIMECommitMac_Rollout": "True;60;2023-11-09T22:58:53",
   "DFIntEditableMeshInitTrackingHundredthsPercentage": "10000",
   "FFlagEnableSTFSMTeardown": "True",
+  "FFlagSTFSMIgnoreOperationsAfterTermination_Rollout": "True;30;2023-11-09T23:12:51",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9228,8 +9229,8 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
-  "FStringFlagRepoGitHashFastString": "78bc734ec8f3ce0fa32b6ea15df93d96b50c18f8",
-  "DFStringFlagRepoGitHashDynamicString": "78bc734ec8f3ce0fa32b6ea15df93d96b50c18f8",
-  "FStringFlipTimeStampFastString": "2023-11-09T23:07:10.998Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T23:07:10.998Z"
+  "FStringFlagRepoGitHashFastString": "8a4f0a95783b17318f03c87b99df23da80341985",
+  "DFStringFlagRepoGitHashDynamicString": "8a4f0a95783b17318f03c87b99df23da80341985",
+  "FStringFlipTimeStampFastString": "2023-11-09T23:14:20.410Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T23:14:20.410Z"
 }
