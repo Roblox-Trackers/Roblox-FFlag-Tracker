@@ -8992,7 +8992,6 @@
   "FStringVoiceChatRollOffIxpLayer": "Voice.RolloffConfig",
   "FStringVoiceChatRollOffVariantIxpParam": "EnableRolloff",
   "FFlagExperienceDetailsTextSizeCorrection": "True",
-  "DFFlagSolverAllocStats_Rollout": "True;60;2023-11-09T18:36:46",
   "FFlagReportBackgroundEvents_Rollout": "True;60;2023-11-09T18:46:07",
   "FFlagPlayStationSystemUtilUpdates_Rollout": "True;60;2023-11-09T18:50:19",
   "FFlagPlayerListChromePushdown": "True",
@@ -9000,6 +8999,7 @@
   "FFlagWrongLogForLiveScriptingModeMismatch": "True",
   "DFFlagSimSolverSanitizeDtScaledLimits": "True",
   "FStringAndroidVfsLowspecHwCondition": "{\"or\":[ {\"=\":[\"app_bitness()\",32]}, {\"and\":[ {\">\":[\"ram_size_mb()\",0]}, {\"<\":[\"ram_size_mb()\",\"3700\"]} ]} ]}",
+  "DFFlagSolverAllocStats": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9272,8 +9272,8 @@
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f0f089ef7150bdddb3989051acadf946e9591eb2",
-  "DFStringFlagRepoGitHashDynamicString": "f0f089ef7150bdddb3989051acadf946e9591eb2",
-  "FStringFlipTimeStampFastString": "2023-11-09T19:36:57.628Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T19:36:57.628Z"
+  "FStringFlagRepoGitHashFastString": "328d3d924232840204cd7c960097d5a00d02b119",
+  "DFStringFlagRepoGitHashDynamicString": "328d3d924232840204cd7c960097d5a00d02b119",
+  "FStringFlipTimeStampFastString": "2023-11-09T19:42:13.592Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T19:42:13.592Z"
 }
