@@ -9011,6 +9011,7 @@
   "FFlagReportBackgroundEvents": "True",
   "DFFlagEnablePreparePurchaseInExperienceApi_Rollout": "True;60;2023-11-09T19:55:47",
   "FFlagPlayStationSystemUtilUpdates": "True",
+  "DFFlagFixSubscriptionStatusCacheInClient_Rollout": "True;60;2023-11-09T19:57:23",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9283,8 +9284,8 @@
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "ad2021d7f82af84e4e891ea9f4b17043342b27fe",
-  "DFStringFlagRepoGitHashDynamicString": "ad2021d7f82af84e4e891ea9f4b17043342b27fe",
-  "FStringFlipTimeStampFastString": "2023-11-09T19:57:05.278Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T19:57:05.278Z"
+  "FStringFlagRepoGitHashFastString": "9c0e001695b862c3ead48d1bb3c2ccfc57149e57",
+  "DFStringFlagRepoGitHashDynamicString": "9c0e001695b862c3ead48d1bb3c2ccfc57149e57",
+  "FStringFlipTimeStampFastString": "2023-11-09T19:58:03.460Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T19:58:03.460Z"
 }

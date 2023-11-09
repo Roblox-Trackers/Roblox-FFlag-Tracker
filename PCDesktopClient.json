@@ -8992,7 +8992,6 @@
   "FStringVoiceChatRollOffIxpLayer": "Voice.RolloffConfig",
   "FStringVoiceChatRollOffVariantIxpParam": "EnableRolloff",
   "FFlagExperienceDetailsTextSizeCorrection": "True",
-  "FFlagPlayStationSystemUtilUpdates_Rollout": "True;60;2023-11-09T18:50:19",
   "FFlagPlayerListChromePushdown": "True",
   "FFlagRightAlignMicText": "True",
   "FFlagWrongLogForLiveScriptingModeMismatch": "True",
@@ -9011,6 +9010,8 @@
   "FFlagVoiceChatAuditionNewRollOffs_Rollout": "True;60;2023-11-09T19:51:24",
   "FFlagReportBackgroundEvents": "True",
   "DFFlagEnablePreparePurchaseInExperienceApi_Rollout": "True;60;2023-11-09T19:55:47",
+  "FFlagPlayStationSystemUtilUpdates": "True",
+  "DFFlagFixSubscriptionStatusCacheInClient_Rollout": "True;60;2023-11-09T19:57:23",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9282,8 +9283,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "4595aff871c5e1d17bcc00568f53884a3b0769dc",
-  "DFStringFlagRepoGitHashDynamicString": "4595aff871c5e1d17bcc00568f53884a3b0769dc",
-  "FStringFlipTimeStampFastString": "2023-11-09T19:56:35.071Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T19:56:35.071Z"
+  "FStringFlagRepoGitHashFastString": "9c0e001695b862c3ead48d1bb3c2ccfc57149e57",
+  "DFStringFlagRepoGitHashDynamicString": "9c0e001695b862c3ead48d1bb3c2ccfc57149e57",
+  "FStringFlipTimeStampFastString": "2023-11-09T19:58:03.460Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T19:58:03.460Z"
 }
