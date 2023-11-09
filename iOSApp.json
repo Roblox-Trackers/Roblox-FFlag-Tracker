@@ -9011,6 +9011,7 @@
   "FFlagPlayStationSystemUtilUpdates": "True",
   "DFFlagFixSubscriptionStatusCacheInClient_Rollout": "True;60;2023-11-09T19:57:23",
   "FFlagLuaAppDeprecateGameTileImageSetLabel": "False",
+  "FFlagACERigUtilsMigration2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9355,8 +9356,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMoveNonRtlToUseSegment_Rollout": "True;60;2023-11-09T19:48:08",
-  "FStringFlagRepoGitHashFastString": "ce01d6d0e89d7056ab70a04a24c8bd904f5ff2fa",
-  "DFStringFlagRepoGitHashDynamicString": "ce01d6d0e89d7056ab70a04a24c8bd904f5ff2fa",
-  "FStringFlipTimeStampFastString": "2023-11-09T20:20:16.169Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T20:20:16.169Z"
+  "FStringFlagRepoGitHashFastString": "50bdc95d532427c97b400d56b8fd9b568a942c39",
+  "DFStringFlagRepoGitHashDynamicString": "50bdc95d532427c97b400d56b8fd9b568a942c39",
+  "FStringFlipTimeStampFastString": "2023-11-09T20:25:10.710Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T20:25:10.710Z"
 }
