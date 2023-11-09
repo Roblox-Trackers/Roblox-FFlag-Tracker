@@ -8998,6 +8998,7 @@
   "FStringAndroidVfsLowspecHwCondition_Rollout": "{\"or\":[ {\"=\":[\"app_bitness()\",32]}, {\"and\":[ {\">\":[\"ram_size_mb()\",0]}, {\"<\":[\"ram_size_mb()\",\"3700\"]} ]} ]};60;2023-11-09T18:28:15",
   "DFFlagSolverAllocStats_Rollout": "True;60;2023-11-09T18:36:46",
   "FFlagReportBackgroundEvents_Rollout": "True;60;2023-11-09T18:46:07",
+  "FFlagPlayStationSystemUtilUpdates_Rollout": "True;60;2023-11-09T18:50:19",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9269,8 +9270,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "8620439ec91441c410e8837905691867132e167c",
-  "DFStringFlagRepoGitHashDynamicString": "8620439ec91441c410e8837905691867132e167c",
-  "FStringFlipTimeStampFastString": "2023-11-09T18:46:37.108Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T18:46:37.108Z"
+  "FStringFlagRepoGitHashFastString": "b149120029cdc57ba7046a8ec4bcbff9406faa10",
+  "DFStringFlagRepoGitHashDynamicString": "b149120029cdc57ba7046a8ec4bcbff9406faa10",
+  "FStringFlipTimeStampFastString": "2023-11-09T18:51:08.749Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T18:51:08.749Z"
 }
