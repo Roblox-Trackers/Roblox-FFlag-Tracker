@@ -8972,8 +8972,6 @@
   "FFlagLuauParseImpreciseNumber": "True",
   "FFlagEnableUGCAgreedCreationFeeConnection": "True",
   "FFlagACENamedKeyframesChannel": "True",
-  "FFlagGraphicsRenderComputeBarrierFix_Rollout": "True;60;2023-11-08T23:01:02",
-  "FFlagPackageViewChangesTelemetry_Rollout": "True;60;2023-11-08T23:02:37",
   "FFlagContentProviderUseRealPlaceId": "True",
   "DFFlagSimBodyPositionPDFix": "True",
   "FFlagDragDetectorFixDragEndCallsOnDisable": "True",
@@ -8988,6 +8986,8 @@
   "DFFlagFixStreamingDistanceNotAllowingOvershootingForTargetValue_Rollout": "True;30;2023-11-09T00:07:52",
   "FFlagRefactorRCCJobs3_Rollout": "True;60;2023-11-09T00:08:56",
   "DFIntReportRTLSupportThrottleHundrethsPercent2_Rollout": "2000;60;2023-11-09T00:13:36",
+  "FFlagPackageViewChangesTelemetry": "True",
+  "FFlagGraphicsRenderComputeBarrierFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9257,10 +9257,10 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
-  "FFlagImprovedModelStreaming_Rollout": "True;60;2023-11-08T23:04:03",
+  "FFlagImprovedModelStreaming": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "ca7b60193084ff98e6dffa8c56f98014cb9fc90b",
-  "DFStringFlagRepoGitHashDynamicString": "ca7b60193084ff98e6dffa8c56f98014cb9fc90b",
-  "FStringFlipTimeStampFastString": "2023-11-09T00:18:19.464Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T00:18:19.464Z"
+  "FStringFlagRepoGitHashFastString": "ffe0f917b26b048b854ab7a2b5c7f5a350b39a82",
+  "DFStringFlagRepoGitHashDynamicString": "ffe0f917b26b048b854ab7a2b5c7f5a350b39a82",
+  "FStringFlipTimeStampFastString": "2023-11-09T00:19:37.151Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T00:19:37.151Z"
 }
