@@ -9017,11 +9017,11 @@
   "DFFlagFixSubscriptionStatusCacheInClient": "True",
   "FixAudioDeviceCrash": "True",
   "FFlagScriptProfilerSessionLength": "True",
-  "FFlagMoveNonRtlToUseSegment_Rollout": "True;10;2023-11-09T21:29:10",
   "DFFlagEnableMessageRouterMigration": "False",
   "DFFlagEnableMessageRouterMigration_PlaceFilter": "True;15297586239",
   "FFlagACERigUtilsMigration3": "True",
   "FFlagScaleToVelocityFix2": "True",
+  "FFlagMoveNonRtlToUseSegment": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9412,8 +9412,8 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagImprovedModelStreaming": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "5ddb97685619d0b0bce5b60f340ac6a39ea972f0",
-  "DFStringFlagRepoGitHashDynamicString": "5ddb97685619d0b0bce5b60f340ac6a39ea972f0",
-  "FStringFlipTimeStampFastString": "2023-11-09T21:40:11.692Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T21:40:11.692Z"
+  "FStringFlagRepoGitHashFastString": "049010caf5bcd4de7a03181276bf3c7966b907c9",
+  "DFStringFlagRepoGitHashDynamicString": "049010caf5bcd4de7a03181276bf3c7966b907c9",
+  "FStringFlipTimeStampFastString": "2023-11-09T21:42:24.156Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T21:42:24.156Z"
 }
