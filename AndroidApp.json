@@ -8286,7 +8286,7 @@
   "DFIntReportControllerManagerPercent": "1000",
   "DFFlagPolicyServiceGIEndpointsDisabled2": "False",
   "DFFlagPolicyServiceMigrationEndpointsEnabled2": "True",
-  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "4000",
+  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "7000",
   "FFlagUXForCameraPerformanceEnabled": "True",
   "FFlagUXForCameraPerformanceIXPEnabled": "True",
   "FStringUXForCameraPerformanceIXPLayerName": "AvatarChat.CameraPerfToast",
@@ -9023,7 +9023,6 @@
   "FFlagScaleToVelocityFix2": "True",
   "FFlagMoveNonRtlToUseSegment": "True",
   "FFlagStudioDebuggerHoverBreakpointIcon2": "True",
-  "FFlagAsyncAuthCode_Rollout": "True;60;2023-11-09T21:44:15",
   "DFFlagEnableMessageRouterV2": "False",
   "DFFlagEnableMessageRouterV2_PlaceFilter": "True;15297586239",
   "FFlagStudioUsePublishInProgressScreen": "True",
@@ -9035,6 +9034,7 @@
   "FFlagTenFootStackViewCardIdentityFix": "True",
   "DFIntEditableMeshInitLoggingHundredthsPercentage": "10000",
   "FFlagNotifySessionTrackingShutdown_Rollout": "True;60;2023-11-09T22:43:13",
+  "FFlagAsyncAuthCode": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9425,8 +9425,8 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagImprovedModelStreaming": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "23a2d005b13f8453e69ec345d470b71a766b2cbc",
-  "DFStringFlagRepoGitHashDynamicString": "23a2d005b13f8453e69ec345d470b71a766b2cbc",
-  "FStringFlipTimeStampFastString": "2023-11-09T22:49:22.161Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T22:49:22.161Z"
+  "FStringFlagRepoGitHashFastString": "b8714b2272f1b0238e6fe416918a8707ee9c59fc",
+  "DFStringFlagRepoGitHashDynamicString": "b8714b2272f1b0238e6fe416918a8707ee9c59fc",
+  "FStringFlipTimeStampFastString": "2023-11-09T22:52:43.503Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T22:52:43.503Z"
 }
