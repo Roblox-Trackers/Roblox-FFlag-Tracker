@@ -8998,6 +8998,8 @@
   "DFFlagSolverAllocStats_Rollout": "True;60;2023-11-09T18:36:46",
   "FFlagReportBackgroundEvents_Rollout": "True;60;2023-11-09T18:46:07",
   "FFlagPlayStationSystemUtilUpdates_Rollout": "True;60;2023-11-09T18:50:19",
+  "FFlagPlayerListChromePushdown": "True",
+  "FFlagRightAlignMicText": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9189,8 +9191,8 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
-  "FStringFlagRepoGitHashFastString": "0b7283f5476a0d43941fc401a48f4b52ef1986a8",
-  "DFStringFlagRepoGitHashDynamicString": "0b7283f5476a0d43941fc401a48f4b52ef1986a8",
-  "FStringFlipTimeStampFastString": "2023-11-09T19:12:20.501Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T19:12:20.501Z"
+  "FStringFlagRepoGitHashFastString": "fdcf62322d8ebe512ffb6144f642f5a4bb355c23",
+  "DFStringFlagRepoGitHashDynamicString": "fdcf62322d8ebe512ffb6144f642f5a4bb355c23",
+  "FStringFlipTimeStampFastString": "2023-11-09T19:16:53.640Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T19:16:53.640Z"
 }
