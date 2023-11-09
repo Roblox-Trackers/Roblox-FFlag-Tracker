@@ -9030,7 +9030,6 @@
   "FFlagInteractableStateForGuiObjects3_PlaceFilter": "True;6428584;855272243;12728998078",
   "FFlagTenFootStackViewCardIdentityFix": "True",
   "DFIntEditableMeshInitLoggingHundredthsPercentage": "10000",
-  "FFlagNotifySessionTrackingShutdown_Rollout": "True;60;2023-11-09T22:43:13",
   "FFlagAsyncAuthCode": "True",
   "DFFlagReportTooManyChannelErrorsSeparately_Rollout": "True;60;2023-11-09T22:54:22",
   "FFlagUIListLayoutFlexFeaturesBetaFeature": "True",
@@ -9038,6 +9037,7 @@
   "DFIntEditableMeshInitTrackingHundredthsPercentage": "10000",
   "FFlagEnableSTFSMTeardown": "True",
   "FFlagSTFSMIgnoreOperationsAfterTermination": "True",
+  "FFlagNotifySessionTrackingShutdown": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9229,8 +9229,8 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
-  "FStringFlagRepoGitHashFastString": "7ed2ccbc070476c8cb78a5529ff5fa08aa4c0169",
-  "DFStringFlagRepoGitHashDynamicString": "7ed2ccbc070476c8cb78a5529ff5fa08aa4c0169",
-  "FStringFlipTimeStampFastString": "2023-11-09T23:46:30.202Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T23:46:30.202Z"
+  "FStringFlagRepoGitHashFastString": "6589ceb2ae198c26bd928ef15e6c2e0c6b7956eb",
+  "DFStringFlagRepoGitHashDynamicString": "6589ceb2ae198c26bd928ef15e6c2e0c6b7956eb",
+  "FStringFlipTimeStampFastString": "2023-11-09T23:51:18.121Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T23:51:18.121Z"
 }
