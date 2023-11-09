@@ -9022,6 +9022,7 @@
   "FFlagMoveNonRtlToUseSegment_Rollout": "True;10;2023-11-09T21:29:10",
   "DFFlagEnableMessageRouterMigration": "False",
   "DFFlagEnableMessageRouterMigration_PlaceFilter": "True;15297586239",
+  "FFlagACERigUtilsMigration3": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9293,8 +9294,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "671ee49416652cee9162bfc4c17ee36054187949",
-  "DFStringFlagRepoGitHashDynamicString": "671ee49416652cee9162bfc4c17ee36054187949",
-  "FStringFlipTimeStampFastString": "2023-11-09T21:34:32.104Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T21:34:32.104Z"
+  "FStringFlagRepoGitHashFastString": "4de8c298022d3724e28a11bfbed355d8e62ac6c9",
+  "DFStringFlagRepoGitHashDynamicString": "4de8c298022d3724e28a11bfbed355d8e62ac6c9",
+  "FStringFlipTimeStampFastString": "2023-11-09T21:39:58.974Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T21:39:58.974Z"
 }
