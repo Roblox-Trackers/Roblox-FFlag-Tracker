@@ -8988,6 +8988,7 @@
   "DFFlagFixStreamingDistanceNotAllowingOvershootingForTargetValue": "True",
   "FFlagRefactorRCCJobs3": "True",
   "DFIntReportRTLSupportThrottleHundrethsPercent2": "2000",
+  "FStringAndroidVfsLowspecHwCondition_Rollout": "{\"and\":[ {\"=\":[\"app_bitness()\",32]}, {\"starts_with\":[\"soc()\",\"mt\"]} ]};60;2023-11-09T17:04:29",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9333,8 +9334,8 @@
   "FFlagXboxNixValidSessionPoller": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
-  "FStringFlagRepoGitHashFastString": "dd8b34d5f783a354a3bd1393dedf3c857076c128",
-  "DFStringFlagRepoGitHashDynamicString": "dd8b34d5f783a354a3bd1393dedf3c857076c128",
-  "FStringFlipTimeStampFastString": "2023-11-09T01:22:00.932Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T01:22:00.932Z"
+  "FStringFlagRepoGitHashFastString": "6907028171d0a471e08b84db2e6aed18cf4b6e35",
+  "DFStringFlagRepoGitHashDynamicString": "6907028171d0a471e08b84db2e6aed18cf4b6e35",
+  "FStringFlipTimeStampFastString": "2023-11-09T17:05:18.540Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T17:05:18.540Z"
 }
