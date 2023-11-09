@@ -8257,7 +8257,7 @@
   "FFlagAppBridgeRemoveIsSignalREnabled": "True",
   "FFlagEnableAssemblyCenterOfMassVisualization": "True",
   "FFlagRealtimeProtocolPublishRaw": "True",
-  "FFlagNewCSGAPIBetaFeature": "False",
+  "FFlagNewCSGAPIBetaFeature": "True",
   "FFlagLuauInlineArrConstOffset": "True",
   "DFFlagFixSoundTunableCurveIssues": "True",
   "FFlagScreenshotsDeleteCaptureTransitionFixes_v2": "True",
@@ -8987,7 +8987,6 @@
   "FFlagRefactorRCCJobs3": "True",
   "DFIntReportRTLSupportThrottleHundrethsPercent2": "2000",
   "FFlagXboxSharedPlatform": "True",
-  "FFlagNewCSGAPIBetaFeature_Rollout": "True;60;2023-11-09T17:54:59",
   "FFlagACERigUtilsMigration": "True",
   "FStringAndroidVfsLowspecHwCondition": "{\"and\":[ {\"=\":[\"app_bitness()\",32]}, {\"starts_with\":[\"soc()\",\"mt\"]} ]}",
   "DFFlagCheckAllForAnimation": "True",
@@ -9271,8 +9270,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "b149120029cdc57ba7046a8ec4bcbff9406faa10",
-  "DFStringFlagRepoGitHashDynamicString": "b149120029cdc57ba7046a8ec4bcbff9406faa10",
-  "FStringFlipTimeStampFastString": "2023-11-09T18:51:08.749Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T18:51:08.749Z"
+  "FStringFlagRepoGitHashFastString": "7e7148851ffb90d33335f2f150307fecd7613b1a",
+  "DFStringFlagRepoGitHashDynamicString": "7e7148851ffb90d33335f2f150307fecd7613b1a",
+  "FStringFlipTimeStampFastString": "2023-11-09T19:05:44.665Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T19:05:44.665Z"
 }
