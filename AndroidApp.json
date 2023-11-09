@@ -8806,7 +8806,6 @@
   "DFFlagMemoryStoreSetAsyncEnableSortKey": "True",
   "FFlagRealtimeProtocolUserControllerLogin": "True",
   "FFlagEnableVoiceMuteAnalytics": "True",
-  "DFFlagMemoryStoreUpdateAsyncEnableSortKey": "True",
   "FFlagLuaAppOnPeekViewCloseProp": "True",
   "DFFlagMemoryStoreGetRangeAsyncEnableSortKey": "True",
   "DFIntReportNonInteractableThrottleHundrethsPercent": "2000",
@@ -8965,7 +8964,6 @@
   "DFFlagMemoryStoreGetAsyncEnableSortKey_PlaceFilter": "False;6924499023",
   "DFFlagMemoryStoreSetAsyncEnableSortKey_PlaceFilter": "False;6924499023",
   "DFFlagMemoryStoreGetRangeAsyncEnableSortKey_PlaceFilter": "False;6924499023",
-  "DFFlagMemoryStoreUpdateAsyncEnableSortKey_PlaceFilter": "False;6924499023",
   "FFlagPathfindingLabelsDrawWithFrustum": "True",
   "FFlagLuauParseImpreciseNumber": "True",
   "FFlagEnableUGCAgreedCreationFeeConnection": "True",
@@ -9403,8 +9401,8 @@
   "FFlagImprovedModelStreaming": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMoveNonRtlToUseSegment_Rollout": "True;60;2023-11-09T19:48:08",
-  "FStringFlagRepoGitHashFastString": "3f1cb3b0ecbb007f2ca050c9a5d82d508b2f2987",
-  "DFStringFlagRepoGitHashDynamicString": "3f1cb3b0ecbb007f2ca050c9a5d82d508b2f2987",
-  "FStringFlipTimeStampFastString": "2023-11-09T20:01:09.983Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T20:01:09.983Z"
+  "FStringFlagRepoGitHashFastString": "ecefe63533e7d2f45ab355742105a4a1d5785d94",
+  "DFStringFlagRepoGitHashDynamicString": "ecefe63533e7d2f45ab355742105a4a1d5785d94",
+  "FStringFlipTimeStampFastString": "2023-11-09T20:11:23.854Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T20:11:23.854Z"
 }
