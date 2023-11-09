@@ -9003,10 +9003,6 @@
   "FFlagEnableLoadPatchMetric": "True",
   "FFlagUseExperienceService": "True",
   "FFlagGpuGeometryManager10": "True",
-  "FFlagEnableRealtimeProtocolCheckV601": "True",
-  "FFlagEnableRealtimeProtocolRolloutV601": "True",
-  "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
-  "FFlagEnableRealtimeProtocolForAllV601": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9265,8 +9261,12 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagImprovedModelStreaming": "True",
-  "FStringFlagRepoGitHashFastString": "a6286d62d92b64a3ff4e59d5df233fd5c489d757",
-  "DFStringFlagRepoGitHashDynamicString": "a6286d62d92b64a3ff4e59d5df233fd5c489d757",
-  "FStringFlipTimeStampFastString": "2023-11-09T18:17:15.327Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T18:17:15.327Z"
+  "FFlagEnableRealtimeProtocolCheckV601": "True",
+  "FFlagEnableRealtimeProtocolForAllV601": "True",
+  "FFlagEnableRealtimeProtocolRolloutV601": "True",
+  "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
+  "FStringFlagRepoGitHashFastString": "40f8278a55e82b7f7de1d58ab44f3cdfaf733262",
+  "DFStringFlagRepoGitHashDynamicString": "40f8278a55e82b7f7de1d58ab44f3cdfaf733262",
+  "FStringFlipTimeStampFastString": "2023-11-09T18:23:35.882Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T18:23:35.882Z"
 }
