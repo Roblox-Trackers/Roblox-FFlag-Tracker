@@ -8996,6 +8996,7 @@
   "FFlagExperienceDetailsTextSizeCorrection": "True",
   "DFFlagSimSolverSanitizeDtScaledLimits_Rollout": "True;60;2023-11-09T18:26:38",
   "FStringAndroidVfsLowspecHwCondition_Rollout": "{\"or\":[ {\"=\":[\"app_bitness()\",32]}, {\"and\":[ {\">\":[\"ram_size_mb()\",0]}, {\"<\":[\"ram_size_mb()\",\"3700\"]} ]} ]};60;2023-11-09T18:28:15",
+  "DFFlagSolverAllocStats_Rollout": "True;60;2023-11-09T18:36:46",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9339,8 +9340,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "59b21b5c57653d77700eca7fc7957f684c894ce7",
-  "DFStringFlagRepoGitHashDynamicString": "59b21b5c57653d77700eca7fc7957f684c894ce7",
-  "FStringFlipTimeStampFastString": "2023-11-09T18:37:07.342Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T18:37:07.342Z"
+  "FStringFlagRepoGitHashFastString": "e634f36931db90d04b1ee16c6bb7903fc1db01bc",
+  "DFStringFlagRepoGitHashDynamicString": "e634f36931db90d04b1ee16c6bb7903fc1db01bc",
+  "FStringFlipTimeStampFastString": "2023-11-09T18:39:55.687Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T18:39:55.687Z"
 }
