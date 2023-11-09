@@ -8989,6 +8989,8 @@
   "FFlagRefactorRCCJobs3": "True",
   "DFIntReportRTLSupportThrottleHundrethsPercent2": "2000",
   "FStringAndroidVfsLowspecHwCondition_Rollout": "{\"and\":[ {\"=\":[\"app_bitness()\",32]}, {\"starts_with\":[\"soc()\",\"mt\"]} ]};60;2023-11-09T17:04:29",
+  "DFFlagCheckAllForAnimation_Rollout": "True;60;2023-11-09T17:04:54",
+  "FStringVoiceChatRollOffIxpLayer_Rollout": "Voice.RolloffConfig;60;2023-11-09T17:05:07",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9259,8 +9261,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagImprovedModelStreaming": "True",
-  "FStringFlagRepoGitHashFastString": "6907028171d0a471e08b84db2e6aed18cf4b6e35",
-  "DFStringFlagRepoGitHashDynamicString": "6907028171d0a471e08b84db2e6aed18cf4b6e35",
-  "FStringFlipTimeStampFastString": "2023-11-09T17:05:18.540Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T17:05:18.540Z"
+  "FStringFlagRepoGitHashFastString": "3241a3a01f212e37c89bac0ceda76c3e57812834",
+  "DFStringFlagRepoGitHashDynamicString": "3241a3a01f212e37c89bac0ceda76c3e57812834",
+  "FStringFlipTimeStampFastString": "2023-11-09T17:06:15.845Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T17:06:15.845Z"
 }
