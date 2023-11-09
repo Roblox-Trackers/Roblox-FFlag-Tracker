@@ -8286,7 +8286,7 @@
   "DFIntReportControllerManagerPercent": "1000",
   "DFFlagPolicyServiceGIEndpointsDisabled2": "False",
   "DFFlagPolicyServiceMigrationEndpointsEnabled2": "True",
-  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "2000",
+  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "4000",
   "FFlagUXForCameraPerformanceEnabled": "True",
   "FFlagUXForCameraPerformanceIXPEnabled": "True",
   "FStringUXForCameraPerformanceIXPLayerName": "AvatarChat.CameraPerfToast",
@@ -9218,8 +9218,8 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
-  "FStringFlagRepoGitHashFastString": "7fbf820e72e7128f5f8294e13453b22dda01beb5",
-  "DFStringFlagRepoGitHashDynamicString": "7fbf820e72e7128f5f8294e13453b22dda01beb5",
-  "FStringFlipTimeStampFastString": "2023-11-09T21:55:00.962Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T21:55:00.962Z"
+  "FStringFlagRepoGitHashFastString": "91a40fdbff0063766bb61255b3afca2646152418",
+  "DFStringFlagRepoGitHashDynamicString": "91a40fdbff0063766bb61255b3afca2646152418",
+  "FStringFlipTimeStampFastString": "2023-11-09T22:08:44.212Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T22:08:44.212Z"
 }
