@@ -9016,6 +9016,7 @@
   "FStringAndroidVfsLowspecHwCondition_Rollout": "{\"or\":[ {\"=\":[\"app_bitness()\",32]}, {\"starts_with\":[\"soc()\",\"mt\"]}, {\"and\":[ {\">\":[\"ram_size_mb()\",0]}, {\"<\":[\"ram_size_mb()\",\"3700\"]} ]} ]};60;2023-11-09T20:31:36",
   "FFlagScaleToVelocityFix2_Rollout": "True;60;2023-11-09T20:32:55",
   "FFlagACERestrictVideoToR15": "True",
+  "FStringUIOcclusionMetricsUnibarMenuVerList": "v6.1t8,v6.2t8,v6.3t8",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9207,8 +9208,8 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
-  "FStringFlagRepoGitHashFastString": "77774975558f3bf8dade02f35a00d9f2f632c403",
-  "DFStringFlagRepoGitHashDynamicString": "77774975558f3bf8dade02f35a00d9f2f632c403",
-  "FStringFlipTimeStampFastString": "2023-11-09T20:48:08.080Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T20:48:08.080Z"
+  "FStringFlagRepoGitHashFastString": "e44343128223472fbe1a0f9fa70d24001bd67386",
+  "DFStringFlagRepoGitHashDynamicString": "e44343128223472fbe1a0f9fa70d24001bd67386",
+  "FStringFlipTimeStampFastString": "2023-11-09T20:53:10.399Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-09T20:53:10.399Z"
 }
