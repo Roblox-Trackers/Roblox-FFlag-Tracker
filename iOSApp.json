@@ -8368,7 +8368,7 @@
   "FFlagDecodeToastPayload": "True",
   "FIntAssetImportMaxPresetNameLength": "50",
   "FFlagLuauInitializeStringMetatableInGlobalTypes": "True",
-  "FFlagVoiceChatStreamingGrpcEnablePotentialRaceConditionFix2": "False",
+  "FFlagVoiceChatStreamingGrpcEnablePotentialRaceConditionFix2": "True",
   "FFlagVoiceChatGrpcSubscribeToRoomEvent": "True",
   "FFlagVoiceChatGrpcSubscribeToRoomEvent_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;9096881148;12699642568;2711375305;3808081382;2626227051;703124385;3317679266;12123120785;13344085926;14292367294;12339044345;189707;6884319169",
   "FFlagToolboxInventoryFilterUsesRoact17": "True",
@@ -9394,8 +9394,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "40195c51d08416905810840904bc567edacea13d",
-  "DFStringFlagRepoGitHashDynamicString": "40195c51d08416905810840904bc567edacea13d",
-  "FStringFlipTimeStampFastString": "2023-11-10T20:51:54.110Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-10T20:51:54.110Z"
+  "FStringFlagRepoGitHashFastString": "ae7fc408bbeb0f71d4189a1aab3dd92b9d2f5687",
+  "DFStringFlagRepoGitHashDynamicString": "ae7fc408bbeb0f71d4189a1aab3dd92b9d2f5687",
+  "FStringFlipTimeStampFastString": "2023-11-10T21:48:57.962Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-10T21:48:57.962Z"
 }
