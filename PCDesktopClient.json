@@ -9043,8 +9043,8 @@
   "FFlagWebRtcStackEnableLimits": "False",
   "DFIntEditableMeshUnpublishLoggingHundredthsPercentage": "10000",
   "DFIntEditableMeshUnpublishTrackingHundredthsPercentage": "100",
-  "FFlagRemoveInitLuaAppInJNI_Rollout": "True;30;2023-11-10T17:06:42",
   "FStringAndroidVfsLowspecHwCondition_Rollout": "{\"and\":[ {\"=\":[\"app_bitness()\",32]}, {\"not\":[ {\"is_any_of\":[\"manufacturer()\",\"samsung\",\"amazon\",\"lge\",\"lg\",\"vivo\"]} ]} ]};60;2023-11-10T17:12:38",
+  "FFlagRemoveInitLuaAppInJNI": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9316,8 +9316,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "324f1c52113a2dcbd58c1a74d6b6daf73dfe79b9",
-  "DFStringFlagRepoGitHashDynamicString": "324f1c52113a2dcbd58c1a74d6b6daf73dfe79b9",
-  "FStringFlipTimeStampFastString": "2023-11-10T17:13:46.020Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-10T17:13:46.020Z"
+  "FStringFlagRepoGitHashFastString": "ccccde375b59569031f3ddd88234a240d4b23e73",
+  "DFStringFlagRepoGitHashDynamicString": "ccccde375b59569031f3ddd88234a240d4b23e73",
+  "FStringFlipTimeStampFastString": "2023-11-10T17:41:27.206Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-10T17:41:27.206Z"
 }
