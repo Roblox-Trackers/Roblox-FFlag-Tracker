@@ -9043,10 +9043,10 @@
   "DFIntEditableMeshUnpublishLoggingHundredthsPercentage": "10000",
   "DFIntEditableMeshUnpublishTrackingHundredthsPercentage": "100",
   "FFlagRemoveInitLuaAppInJNI": "True",
-  "FFlagEngagementScreenContinueEvent_Rollout": "True;60;2023-11-10T18:27:04",
   "DFFlagLogUnreliableEventBeforeInstance": "True",
   "FFlagEnableIXPPerformanceControlSoundTunableUtility_Rollout": "True;60;2023-11-10T19:13:28",
   "FFlagLogReloadLatencyMsPerTotalPlays_Rollout": "True;60;2023-11-10T19:15:20",
+  "FFlagEngagementScreenContinueEvent": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9318,8 +9318,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "dff08bd014452ca9dfd156fb0af91d74575aa4a9",
-  "DFStringFlagRepoGitHashDynamicString": "dff08bd014452ca9dfd156fb0af91d74575aa4a9",
-  "FStringFlipTimeStampFastString": "2023-11-10T19:24:23.428Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-10T19:24:23.428Z"
+  "FStringFlagRepoGitHashFastString": "bff61e41323bcac02a7b1e13e5c97bd7ea8a8be3",
+  "DFStringFlagRepoGitHashDynamicString": "bff61e41323bcac02a7b1e13e5c97bd7ea8a8be3",
+  "FStringFlipTimeStampFastString": "2023-11-10T19:31:44.106Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-10T19:31:44.106Z"
 }
