@@ -9043,6 +9043,7 @@
   "FFlagWebRtcStackEnableLimits": "False",
   "DFIntEditableMeshUnpublishLoggingHundredthsPercentage": "10000",
   "DFIntEditableMeshUnpublishTrackingHundredthsPercentage": "100",
+  "FFlagRemoveInitLuaAppInJNI_Rollout": "True;30;2023-11-10T17:06:42",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9386,8 +9387,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "7f52969904c1413b9c616297cfdec77220b21871",
-  "DFStringFlagRepoGitHashDynamicString": "7f52969904c1413b9c616297cfdec77220b21871",
-  "FStringFlipTimeStampFastString": "2023-11-10T00:42:39.443Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-10T00:42:39.443Z"
+  "FStringFlagRepoGitHashFastString": "181a43ca570533f62cbcb0678fbd1a303e4ed160",
+  "DFStringFlagRepoGitHashDynamicString": "181a43ca570533f62cbcb0678fbd1a303e4ed160",
+  "FStringFlipTimeStampFastString": "2023-11-10T17:08:35.544Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-10T17:08:35.544Z"
 }
