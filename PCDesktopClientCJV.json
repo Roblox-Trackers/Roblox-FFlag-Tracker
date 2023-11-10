@@ -8286,7 +8286,7 @@
   "DFIntReportControllerManagerPercent": "1000",
   "DFFlagPolicyServiceGIEndpointsDisabled2": "False",
   "DFFlagPolicyServiceMigrationEndpointsEnabled2": "True",
-  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "7000",
+  "DFIntPolicyServiceEndpointMigrationDualReadHundredthsPercentage2": "10000",
   "FFlagUXForCameraPerformanceEnabled": "True",
   "FFlagUXForCameraPerformanceIXPEnabled": "True",
   "FStringUXForCameraPerformanceIXPLayerName": "AvatarChat.CameraPerfToast",
@@ -9041,6 +9041,7 @@
   "DFIntEditableMeshUnpublishTrackingHundredthsPercentage_Rollout": "100;30;2023-11-10T00:05:22",
   "DFIntEditableMeshUnpublishLoggingHundredthsPercentage_Rollout": "10000;30;2023-11-10T00:05:33",
   "FFlagFixJapaneseIMECommitMac": "True",
+  "FFlagVoiceChatEnableIrisMuteStateFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9313,8 +9314,8 @@
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "510e00440bdd17b4f05f695f11b6677e32dffe27",
-  "DFStringFlagRepoGitHashDynamicString": "510e00440bdd17b4f05f695f11b6677e32dffe27",
-  "FStringFlipTimeStampFastString": "2023-11-10T00:22:41.540Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-10T00:22:41.540Z"
+  "FStringFlagRepoGitHashFastString": "775e5d1e2c7e7cd797e53466d66706e46c8337bb",
+  "DFStringFlagRepoGitHashDynamicString": "775e5d1e2c7e7cd797e53466d66706e46c8337bb",
+  "FStringFlipTimeStampFastString": "2023-11-10T00:24:07.122Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-10T00:24:07.122Z"
 }
