@@ -9031,13 +9031,14 @@
   "FFlagTenFootStackViewCardIdentityFix": "True",
   "DFIntEditableMeshInitLoggingHundredthsPercentage": "10000",
   "FFlagAsyncAuthCode": "True",
-  "DFFlagReportTooManyChannelErrorsSeparately_Rollout": "True;60;2023-11-09T22:54:22",
   "FFlagUIListLayoutFlexFeaturesBetaFeature": "True",
   "FFlagFixJapaneseIMECommitMac_Rollout": "True;60;2023-11-09T22:58:53",
   "DFIntEditableMeshInitTrackingHundredthsPercentage": "10000",
   "FFlagEnableSTFSMTeardown": "True",
   "FFlagSTFSMIgnoreOperationsAfterTermination": "True",
   "FFlagNotifySessionTrackingShutdown": "True",
+  "EnableAndroidAccountProtocol": "True",
+  "DFFlagReportTooManyChannelErrorsSeparately": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9309,8 +9310,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "6589ceb2ae198c26bd928ef15e6c2e0c6b7956eb",
-  "DFStringFlagRepoGitHashDynamicString": "6589ceb2ae198c26bd928ef15e6c2e0c6b7956eb",
-  "FStringFlipTimeStampFastString": "2023-11-09T23:51:18.121Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-09T23:51:18.121Z"
+  "FStringFlagRepoGitHashFastString": "4afd560739dfbb04d728e1b8a4130f787f9a5947",
+  "DFStringFlagRepoGitHashDynamicString": "4afd560739dfbb04d728e1b8a4130f787f9a5947",
+  "FStringFlipTimeStampFastString": "2023-11-10T00:03:00.198Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-10T00:03:00.198Z"
 }
