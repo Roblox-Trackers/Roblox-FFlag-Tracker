@@ -8993,7 +8993,7 @@
   "FFlagRightAlignMicText": "True",
   "FFlagWrongLogForLiveScriptingModeMismatch": "True",
   "DFFlagSimSolverSanitizeDtScaledLimits": "True",
-  "FStringAndroidVfsLowspecHwCondition": "{\"or\":[ {\"=\":[\"app_bitness()\",32]}, {\"starts_with\":[\"soc()\",\"mt\"]}, {\"and\":[ {\">\":[\"ram_size_mb()\",0]}, {\"<\":[\"ram_size_mb()\",\"3700\"]} ]} ]}",
+  "FStringAndroidVfsLowspecHwCondition": "{\"and\":[ {\"=\":[\"app_bitness()\",32]}, {\"not\":[ {\"is_any_of\":[\"manufacturer()\",\"samsung\",\"amazon\",\"lge\",\"lg\",\"vivo\"]} ]} ]}",
   "DFFlagSolverAllocStats": "True",
   "FFlagEasierUnmuting3": "True",
   "FFlagEasierUnmutingFixNonexistentCharacter": "True",
@@ -9042,7 +9042,6 @@
   "FFlagWebRtcStackEnableLimits": "False",
   "DFIntEditableMeshUnpublishLoggingHundredthsPercentage": "10000",
   "DFIntEditableMeshUnpublishTrackingHundredthsPercentage": "100",
-  "FStringAndroidVfsLowspecHwCondition_Rollout": "{\"and\":[ {\"=\":[\"app_bitness()\",32]}, {\"not\":[ {\"is_any_of\":[\"manufacturer()\",\"samsung\",\"amazon\",\"lge\",\"lg\",\"vivo\"]} ]} ]};60;2023-11-10T17:12:38",
   "FFlagRemoveInitLuaAppInJNI": "True",
   "DFFlagLogUnreliableEventBeforeInstance_Rollout": "True;60;2023-11-10T18:00:07",
   "AllowVideoPreRoll": "True",
@@ -9435,8 +9434,8 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagImprovedModelStreaming": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "f9e1e5b5a0249e3cb2b5c85222ca73315cba5581",
-  "DFStringFlagRepoGitHashDynamicString": "f9e1e5b5a0249e3cb2b5c85222ca73315cba5581",
-  "FStringFlipTimeStampFastString": "2023-11-10T18:21:53.475Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-10T18:21:53.475Z"
+  "FStringFlagRepoGitHashFastString": "201876d872343af8dfaae1f065d77dc9aad9ab08",
+  "DFStringFlagRepoGitHashDynamicString": "201876d872343af8dfaae1f065d77dc9aad9ab08",
+  "FStringFlipTimeStampFastString": "2023-11-10T18:22:25.859Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-10T18:22:25.859Z"
 }
