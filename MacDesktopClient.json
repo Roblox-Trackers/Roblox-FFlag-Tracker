@@ -9053,13 +9053,13 @@
   "FFlagLuaAppEnablePsImpressions": "True",
   "FFlagCLI88742": "True",
   "FFlagImprovedModelStreaming": "True",
-  "DFFlagAESUseSupersetForATCSaveFailures_Rollout": "True;60;2023-11-13T19:04:13",
   "FFlagIrisLaunchTimeBugFix": "True",
   "DFFlagContentProviderRecursiveLockingNoLockWhenCallingLua2": "True",
   "DFIntMemoryStoreErrorHundredthsPercent_Rollout": "100;30;2023-11-13T19:39:38",
   "FFlagBatchThumbnailFetcherDoNotUsePendingUrl_Rollout": "True;60;2023-11-13T19:55:54",
   "FFlagRemoveGImageEncodeOutDataPtr": "True",
   "DFFlagCheckAllForAnimation": "True",
+  "DFFlagAESUseSupersetForATCSaveFailures": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9330,8 +9330,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "b907f5097c851112eba892ae92ac2a3bec1297a2",
-  "DFStringFlagRepoGitHashDynamicString": "b907f5097c851112eba892ae92ac2a3bec1297a2",
-  "FStringFlipTimeStampFastString": "2023-11-13T20:06:34.692Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T20:06:34.692Z"
+  "FStringFlagRepoGitHashFastString": "e7e97f717a94e82c1188a674d9ae0f1e67d6c96e",
+  "DFStringFlagRepoGitHashDynamicString": "e7e97f717a94e82c1188a674d9ae0f1e67d6c96e",
+  "FStringFlipTimeStampFastString": "2023-11-13T20:12:05.251Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T20:12:05.251Z"
 }
