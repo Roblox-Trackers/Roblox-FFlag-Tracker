@@ -9053,12 +9053,12 @@
   "FFlagLuaAppEnablePsImpressions": "True",
   "FFlagCLI88742": "True",
   "FFlagImprovedModelStreaming": "True",
-  "DFFlagContentProviderRecursiveLockingNoLockWhenCallingLua2_Rollout": "True;60;2023-11-13T18:25:30",
   "DFFlagCheckAllForAnimation_Rollout": "True;60;2023-11-13T18:59:05",
   "FFlagRemoveGImageEncodeOutDataPtr_Rollout": "True;60;2023-11-13T19:00:47",
   "DFFlagAESUseSupersetForATCSaveFailures_Rollout": "True;60;2023-11-13T19:04:13",
   "FFlagIrisLaunchTimeBugFix": "True",
   "DFIntEditableMeshUnpublishTrackingHundredthsPercentage_Rollout": "1000;30;2023-11-13T19:07:20",
+  "DFFlagContentProviderRecursiveLockingNoLockWhenCallingLua2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9447,8 +9447,8 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "7951026e4bacc8c09273af4b500575a69b9b897b",
-  "DFStringFlagRepoGitHashDynamicString": "7951026e4bacc8c09273af4b500575a69b9b897b",
-  "FStringFlipTimeStampFastString": "2023-11-13T19:08:05.942Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T19:08:05.942Z"
+  "FStringFlagRepoGitHashFastString": "497dd835c6d6c2d1a5a636e1610490a30e1eb838",
+  "DFStringFlagRepoGitHashDynamicString": "497dd835c6d6c2d1a5a636e1610490a30e1eb838",
+  "FStringFlipTimeStampFastString": "2023-11-13T19:31:39.703Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T19:31:39.703Z"
 }
