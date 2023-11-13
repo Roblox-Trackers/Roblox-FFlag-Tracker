@@ -9059,7 +9059,6 @@
   "DFFlagCheckAllForAnimation": "True",
   "DFFlagAESUseSupersetForATCSaveFailures": "True",
   "FLogStudioDocking": "Verbose",
-  "FFlagBetaSupportAutoenrollSetting_Rollout": "True;60;2023-11-13T20:59:38",
   "FFlagBatchThumbnailFetcherDoNotUsePendingUrl": "True",
   "EnableUpdatedAcknowledgePurchaseComplete": "True",
   "FLogStudioPluginRelay": "Verbose",
@@ -9073,6 +9072,7 @@
   "FFlagFocusScrollAreaOnNewMessage": "True",
   "DFFlagGameJoinStringViews_Rollout": "True;60;2023-11-13T22:01:30",
   "FFlagLuaAppSessionUseGetActiveRoute2": "True",
+  "FFlagBetaSupportAutoenrollSetting": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9416,8 +9416,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "fb470fb6f6d0d12178df22228f5579ac161f98ce",
-  "DFStringFlagRepoGitHashDynamicString": "fb470fb6f6d0d12178df22228f5579ac161f98ce",
-  "FStringFlipTimeStampFastString": "2023-11-13T22:05:01.818Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T22:05:01.818Z"
+  "FStringFlagRepoGitHashFastString": "674a9c7e707e63a5b4261796d13f66af14774338",
+  "DFStringFlagRepoGitHashDynamicString": "674a9c7e707e63a5b4261796d13f66af14774338",
+  "FStringFlipTimeStampFastString": "2023-11-13T22:07:14.312Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T22:07:14.312Z"
 }
