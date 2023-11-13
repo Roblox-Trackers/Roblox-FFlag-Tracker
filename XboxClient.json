@@ -9065,7 +9065,6 @@
   "EnableBuildOrientedConfig": "True",
   "FStringCAPWelcomeMessageOverride": "Hi, I\u2019m your Assistant. If you have questions about creating on Roblox, I\u2019m here to help. <b>You can also ask me to:</b>\n- Add simple scripts to a Part or MeshPart you've selected \n- Explain what a script snippet you selected in the script editor does \n- Generate a new material \n\n I may not be able to help with everything, but I\u2019m learning. The more context you give me, the better. Use the Thumbs Up or Thumbs Down buttons to give me feedback.",
   "FFlagEnableDistributionConfig": "True",
-  "FFlagScrollRightColumnSelect_Rollout": "True;60;2023-11-13T21:38:03",
   "DFFlagPerformanceControlEnableMemoryProbing2": "True",
   "FFlagCAPTimeoutMessaging": "True",
   "FFlagFocusScrollAreaOnNewMessage": "True",
@@ -9078,6 +9077,7 @@
   "FFlagLuaAppResetNavigationHistoryLanding": "True",
   "DFFlagAllowOversizedLogToUser": "True",
   "FFlagAddPerfControlExperimentNameToBacktraceReportsForiOS_Rollout": "True;30;2023-11-13T22:45:00",
+  "FFlagScrollRightColumnSelect": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9423,8 +9423,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
-  "FStringFlagRepoGitHashFastString": "ffae465244ae97afbcc112e87f5d85c71acb2b4c",
-  "DFStringFlagRepoGitHashDynamicString": "ffae465244ae97afbcc112e87f5d85c71acb2b4c",
-  "FStringFlipTimeStampFastString": "2023-11-13T22:45:20.952Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T22:45:20.952Z"
+  "FStringFlagRepoGitHashFastString": "9f6dc0656521864b52facadf427aa559b53b7168",
+  "DFStringFlagRepoGitHashDynamicString": "9f6dc0656521864b52facadf427aa559b53b7168",
+  "FStringFlipTimeStampFastString": "2023-11-13T22:46:54.878Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T22:46:54.878Z"
 }
