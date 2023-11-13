@@ -9061,6 +9061,8 @@
   "DFFlagAESUseSupersetForATCSaveFailures": "True",
   "FStringCAPWelcomeMessageOverride_Rollout": "\"Hi, I\u2019m your Assistant. If you have questions about creating on Roblox, I\u2019m here to help. <b>You can also ask me to:</b>\\n- Add simple scripts to a Part or MeshPart you've selected \\n- Explain what a script snippet you selected in the script editor does \\n- Generate a new material \\n\\n I may not be able to help with everything, but I\u2019m learning. The more context you give me, the better. Use the ?? or ?? buttons to give me feedback.\";60;2023-11-13T20:14:07",
   "DFFlagPerformanceControlEnableMemoryProbing2_Rollout": "True;60;2023-11-13T20:32:06",
+  "FFlagCAPTimeoutMessaging_Rollout": "True;60;2023-11-13T20:41:35",
+  "FFlagFocusScrollAreaOnNewMessage_Rollout": "True;60;2023-11-13T20:42:20",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9331,8 +9333,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "7694ee413c82c537827a77943d03b104d59a5dd7",
-  "DFStringFlagRepoGitHashDynamicString": "7694ee413c82c537827a77943d03b104d59a5dd7",
-  "FStringFlipTimeStampFastString": "2023-11-13T20:33:02.116Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T20:33:02.116Z"
+  "FStringFlagRepoGitHashFastString": "cfc46d3609c2111b8cf886f7d9149da19ef5ac32",
+  "DFStringFlagRepoGitHashDynamicString": "cfc46d3609c2111b8cf886f7d9149da19ef5ac32",
+  "FStringFlipTimeStampFastString": "2023-11-13T20:42:56.350Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T20:42:56.350Z"
 }
