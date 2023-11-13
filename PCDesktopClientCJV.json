@@ -9073,13 +9073,13 @@
   "FFlagUseNewMaterialConvAIUX": "True",
   "FFlagLuaAppResetNavigationHistoryLanding": "True",
   "DFFlagAllowOversizedLogToUser": "True",
-  "FFlagAddPerfControlExperimentNameToBacktraceReportsForiOS_Rollout": "True;30;2023-11-13T22:45:00",
   "FFlagScrollRightColumnSelect": "True",
   "DFFlagVoiceChatV2CapabilityCheckDefault_PlaceFilter": "False;15349284027",
   "FFlagAccountService": "True",
   "FFlagEngineStylingEnabled2_Rollout": "True;60;2023-11-13T23:02:58",
   "DFFlagGameJoinStringViews": "True",
   "FFlagFixSignalRDuplicateMessage_Rollout": "True;60;2023-11-13T23:16:34",
+  "FFlagAddPerfControlExperimentNameToBacktraceReportsForiOS": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9352,8 +9352,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1d\",\"pos\":[1,-56,0,10],\"size\":[0,44,0,48]},{\"id\":\"a2d\",\"pos\":[1,-100,0,10],\"size\":[0,88,0,48]},{\"id\":\"a4d\",\"pos\":[1,-418,0,10],\"size\":[0,406,0,48]},{\"id\":\"a5d\",\"pos\":[0.5,-102,0,10],\"size\":[0,204,0,48]},{\"id\":\"a5dl\",\"pos\":[0.5,-305,0,10],\"size\":[0,204,0,48]},{\"id\":\"lrd\",\"pos\":[0,12,0,10],\"size\":[0,44,0,48]},{\"id\":\"l1d\",\"pos\":[0,68,0,10],\"size\":[0,44,0,48]},{\"id\":\"l2d\",\"pos\":[0,68,0,10],\"size\":[0,88,0,48]},{\"id\":\"l4d\",\"pos\":[0,68,0,10],\"size\":[0,406,0,48]}];30;2023-11-13T23:05:02",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "0857b5eba6332d3753da8068c801e842ff807c52",
-  "DFStringFlagRepoGitHashDynamicString": "0857b5eba6332d3753da8068c801e842ff807c52",
-  "FStringFlipTimeStampFastString": "2023-11-13T23:17:23.138Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T23:17:23.138Z"
+  "FStringFlagRepoGitHashFastString": "cec5a08d20b6f8929e78b3aab56c48e8ee24c0a0",
+  "DFStringFlagRepoGitHashDynamicString": "cec5a08d20b6f8929e78b3aab56c48e8ee24c0a0",
+  "FStringFlipTimeStampFastString": "2023-11-13T23:21:49.793Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T23:21:49.793Z"
 }
