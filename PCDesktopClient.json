@@ -388,7 +388,7 @@
   "FIntEnableFriendFooterOnHomePageV369": "100",
   "FIntEnableTencentSignupCleanup": "100",
   "FIntHttpCacheRedirectsTimeoutMs": "14400000",
-  "FIntLuaAppBacktraceErrorReportPercentage": "100",
+  "FIntLuaAppBacktraceErrorReportPercentage": "10",
   "FIntLuaAppNonFinalThumbnailMaxRetries": "1",
   "FIntLuaAppPercentRollOutNewThumbnailsApiV3": "100",
   "FIntLuaAppPercentRolloutGameDetailShareButtonUseAppsflyer": "100",
@@ -9338,8 +9338,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "0837a801614c78792401e0196b03268978911d73",
-  "DFStringFlagRepoGitHashDynamicString": "0837a801614c78792401e0196b03268978911d73",
-  "FStringFlipTimeStampFastString": "2023-11-13T21:22:12.513Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T21:22:12.513Z"
+  "FStringFlagRepoGitHashFastString": "fa5fae5341b66c107211cc1388a3e64c5d7c7694",
+  "DFStringFlagRepoGitHashDynamicString": "fa5fae5341b66c107211cc1388a3e64c5d7c7694",
+  "FStringFlipTimeStampFastString": "2023-11-13T21:25:12.154Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T21:25:12.154Z"
 }
