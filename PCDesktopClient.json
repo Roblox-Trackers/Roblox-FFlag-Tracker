@@ -9064,6 +9064,7 @@
   "FFlagCAPTimeoutMessaging_Rollout": "True;60;2023-11-13T20:41:35",
   "FFlagFocusScrollAreaOnNewMessage_Rollout": "True;60;2023-11-13T20:42:20",
   "FLogStudioDocking": "Verbose",
+  "FFlagBetaSupportAutoenrollSetting_Rollout": "True;60;2023-11-13T20:59:38",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9334,8 +9335,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "b9bc51a6f007aacb14e4449bedaccdfbad9e3c31",
-  "DFStringFlagRepoGitHashDynamicString": "b9bc51a6f007aacb14e4449bedaccdfbad9e3c31",
-  "FStringFlipTimeStampFastString": "2023-11-13T20:55:09.643Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T20:55:09.643Z"
+  "FStringFlagRepoGitHashFastString": "0a171127fb1648a0b27ced647ee27020ff1e5d6a",
+  "DFStringFlagRepoGitHashDynamicString": "0a171127fb1648a0b27ced647ee27020ff1e5d6a",
+  "FStringFlipTimeStampFastString": "2023-11-13T21:00:02.849Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T21:00:02.849Z"
 }
