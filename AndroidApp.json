@@ -9066,6 +9066,8 @@
   "FFlagBetaSupportAutoenrollSetting_Rollout": "True;60;2023-11-13T20:59:38",
   "FFlagBatchThumbnailFetcherDoNotUsePendingUrl": "True",
   "EnableUpdatedAcknowledgePurchaseComplete": "True",
+  "FLogStudioPluginRelay": "Verbose",
+  "EnableBuildOrientedConfig": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9455,8 +9457,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FStringPerformanceControlIncludedTunables_Rollout": "IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure;30;2023-11-13T21:09:25",
-  "FStringFlagRepoGitHashFastString": "0450e078116046f985c1f8754f09546f44aa0dfa",
-  "DFStringFlagRepoGitHashDynamicString": "0450e078116046f985c1f8754f09546f44aa0dfa",
-  "FStringFlipTimeStampFastString": "2023-11-13T21:09:57.245Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T21:09:57.245Z"
+  "FStringFlagRepoGitHashFastString": "d65123d9b8e47e4460063f59b3f3d6d35aa3e8a0",
+  "DFStringFlagRepoGitHashDynamicString": "d65123d9b8e47e4460063f59b3f3d6d35aa3e8a0",
+  "FStringFlipTimeStampFastString": "2023-11-13T21:22:02.342Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T21:22:02.342Z"
 }
