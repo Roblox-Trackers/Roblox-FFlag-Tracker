@@ -6591,7 +6591,7 @@
   "DFFlagBrickColorRandomDoesNotUseRand": "True",
   "FFlagSimCSG3AsyncChangeToNewPerformAPI": "True",
   "FFlagAppBridgeRewrite": "True",
-  "FStringUIOcclusionMetricsRectQueryList": "[{\"id\":\"a1d\", \"pos\":[1, -56, 0, 10], \"size\":[0, 44, 0, 48]}, {\"id\":\"a2d\", \"pos\":[1, -100, 0, 10], \"size\":[0, 88, 0, 48]}, {\"id\":\"a4d\", \"pos\":[1, -418, 0, 10], \"size\":[0, 406, 0, 48]}, {\"id\":\"a5d\", \"pos\":[0.5, -102, 0, 10], \"size\":[0, 204, 0, 48]}, {\"id\":\"a5dl\", \"pos\":[0.5, -305, 0, 10], \"size\":[0, 204, 0, 48]}]",
+  "FStringUIOcclusionMetricsRectQueryList": "[{\"id\":\"a1d\",\"pos\":[1,-56,0,10],\"size\":[0,44,0,48]},{\"id\":\"a2d\",\"pos\":[1,-100,0,10],\"size\":[0,88,0,48]},{\"id\":\"a4d\",\"pos\":[1,-418,0,10],\"size\":[0,406,0,48]},{\"id\":\"a5d\",\"pos\":[0.5,-102,0,10],\"size\":[0,204,0,48]},{\"id\":\"a5dl\",\"pos\":[0.5,-305,0,10],\"size\":[0,204,0,48]},{\"id\":\"lrd\",\"pos\":[0,12,0,10],\"size\":[0,44,0,48]},{\"id\":\"l1d\",\"pos\":[0,68,0,10],\"size\":[0,44,0,48]},{\"id\":\"l2d\",\"pos\":[0,68,0,10],\"size\":[0,88,0,48]},{\"id\":\"l4d\",\"pos\":[0,68,0,10],\"size\":[0,406,0,48]}]",
   "FFlagIncrementalPatchBuilderDoNotReuseSignInfo": "True",
   "DFFlagIdempotentRejectionReporting": "True",
   "FFlagHttpCacheMetrics2": "True",
@@ -9428,9 +9428,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
-  "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1d\",\"pos\":[1,-56,0,10],\"size\":[0,44,0,48]},{\"id\":\"a2d\",\"pos\":[1,-100,0,10],\"size\":[0,88,0,48]},{\"id\":\"a4d\",\"pos\":[1,-418,0,10],\"size\":[0,406,0,48]},{\"id\":\"a5d\",\"pos\":[0.5,-102,0,10],\"size\":[0,204,0,48]},{\"id\":\"a5dl\",\"pos\":[0.5,-305,0,10],\"size\":[0,204,0,48]},{\"id\":\"lrd\",\"pos\":[0,12,0,10],\"size\":[0,44,0,48]},{\"id\":\"l1d\",\"pos\":[0,68,0,10],\"size\":[0,44,0,48]},{\"id\":\"l2d\",\"pos\":[0,68,0,10],\"size\":[0,88,0,48]},{\"id\":\"l4d\",\"pos\":[0,68,0,10],\"size\":[0,406,0,48]}];30;2023-11-13T23:05:02",
-  "FStringFlagRepoGitHashFastString": "2cad56780f7e11bbfde61a5ac8dcec5cd7c93677",
-  "DFStringFlagRepoGitHashDynamicString": "2cad56780f7e11bbfde61a5ac8dcec5cd7c93677",
-  "FStringFlipTimeStampFastString": "2023-11-13T23:38:31.755Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T23:38:31.755Z"
+  "FStringFlagRepoGitHashFastString": "0df0fea73dfbb3f5ad06ac25af3ee473b08638dd",
+  "DFStringFlagRepoGitHashDynamicString": "0df0fea73dfbb3f5ad06ac25af3ee473b08638dd",
+  "FStringFlipTimeStampFastString": "2023-11-13T23:42:20.750Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T23:42:20.750Z"
 }
