@@ -9052,9 +9052,9 @@
   "FFlagStudioFixMultiAccountSupportLogout": "True",
   "FFlagImprovedModelStreaming_Rollout": "True;60;2023-11-13T17:15:36",
   "FFlagACERhodium": "True",
-  "FFlagCLI88742_Rollout": "True;30;2023-11-13T17:39:45",
   "FFlagLuaAppEnablePsImpressions": "True",
   "FStringAndroidVfsLowspecHwCondition_Rollout": "{\"and\":[ {\"=\":[\"app_bitness()\",32]}, {\"not\":[ {\"is_any_of\":[\"manufacturer()\",\"samsung\",\"amazon\",\"lge\",\"lg\",\"lg electronics\",\"vivo\"]} ]} ]};10;2023-11-13T18:07:11",
+  "FFlagCLI88742": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9398,8 +9398,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "870d842630e8da23af40abd87f38093ae5fc0fc4",
-  "DFStringFlagRepoGitHashDynamicString": "870d842630e8da23af40abd87f38093ae5fc0fc4",
-  "FStringFlipTimeStampFastString": "2023-11-13T18:09:43.336Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T18:09:43.336Z"
+  "FStringFlagRepoGitHashFastString": "2f979f26cc96554f2fc27cbc3f073a0174435c2a",
+  "DFStringFlagRepoGitHashDynamicString": "2f979f26cc96554f2fc27cbc3f073a0174435c2a",
+  "FStringFlipTimeStampFastString": "2023-11-13T18:17:04.880Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T18:17:04.880Z"
 }
