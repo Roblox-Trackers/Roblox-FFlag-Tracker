@@ -9081,6 +9081,7 @@
   "FFlagFixSignalRDuplicateMessage_Rollout": "True;60;2023-11-13T23:16:34",
   "FFlagAddPerfControlExperimentNameToBacktraceReportsForiOS": "True",
   "FFlagShowViewportContextVisualization": "True",
+  "FFlagEndRequestWhenDisplayErrorMessage": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9352,8 +9353,8 @@
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1d\",\"pos\":[1,-56,0,10],\"size\":[0,44,0,48]},{\"id\":\"a2d\",\"pos\":[1,-100,0,10],\"size\":[0,88,0,48]},{\"id\":\"a4d\",\"pos\":[1,-418,0,10],\"size\":[0,406,0,48]},{\"id\":\"a5d\",\"pos\":[0.5,-102,0,10],\"size\":[0,204,0,48]},{\"id\":\"a5dl\",\"pos\":[0.5,-305,0,10],\"size\":[0,204,0,48]},{\"id\":\"lrd\",\"pos\":[0,12,0,10],\"size\":[0,44,0,48]},{\"id\":\"l1d\",\"pos\":[0,68,0,10],\"size\":[0,44,0,48]},{\"id\":\"l2d\",\"pos\":[0,68,0,10],\"size\":[0,88,0,48]},{\"id\":\"l4d\",\"pos\":[0,68,0,10],\"size\":[0,406,0,48]}];30;2023-11-13T23:05:02",
-  "FStringFlagRepoGitHashFastString": "b1434c517d3aa8590b870e200492f5dd1b299558",
-  "DFStringFlagRepoGitHashDynamicString": "b1434c517d3aa8590b870e200492f5dd1b299558",
-  "FStringFlipTimeStampFastString": "2023-11-13T23:22:40.550Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T23:22:40.550Z"
+  "FStringFlagRepoGitHashFastString": "93e57d2f2a4853f76b3264be70a2e9c52c99d55a",
+  "DFStringFlagRepoGitHashDynamicString": "93e57d2f2a4853f76b3264be70a2e9c52c99d55a",
+  "FStringFlipTimeStampFastString": "2023-11-13T23:26:58.550Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T23:26:58.550Z"
 }
