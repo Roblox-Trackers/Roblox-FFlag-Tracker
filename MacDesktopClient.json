@@ -5646,7 +5646,7 @@
   "FFlagMultilayerWrapFixBetaFeature": "True",
   "FFlagContentProviderScopeFix": "True",
   "FFlagLuauCloneSkipNonInternalVisit": "True",
-  "DFIntMemoryStoreErrorHundredthsPercent": "250",
+  "DFIntMemoryStoreErrorHundredthsPercent": "100",
   "FFlagSimCSGV3AddModifiedFacesTracking": "True",
   "FFlagDoNotSendPremiumUpsellMetrics": "True",
   "FFlagFriendsPageAllowMultipleUIStates_v1": "True",
@@ -9055,7 +9055,6 @@
   "FFlagImprovedModelStreaming": "True",
   "FFlagIrisLaunchTimeBugFix": "True",
   "DFFlagContentProviderRecursiveLockingNoLockWhenCallingLua2": "True",
-  "DFIntMemoryStoreErrorHundredthsPercent_Rollout": "100;30;2023-11-13T19:39:38",
   "FFlagBatchThumbnailFetcherDoNotUsePendingUrl_Rollout": "True;60;2023-11-13T19:55:54",
   "FFlagRemoveGImageEncodeOutDataPtr": "True",
   "DFFlagCheckAllForAnimation": "True",
@@ -9331,8 +9330,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "59900f59a02083c93ae769b36afb7c91080e6b07",
-  "DFStringFlagRepoGitHashDynamicString": "59900f59a02083c93ae769b36afb7c91080e6b07",
-  "FStringFlipTimeStampFastString": "2023-11-13T20:14:54.258Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T20:14:54.258Z"
+  "FStringFlagRepoGitHashFastString": "b12cac97d07eb2e74468633132be67f101280a15",
+  "DFStringFlagRepoGitHashDynamicString": "b12cac97d07eb2e74468633132be67f101280a15",
+  "FStringFlipTimeStampFastString": "2023-11-13T20:17:09.379Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T20:17:09.379Z"
 }
