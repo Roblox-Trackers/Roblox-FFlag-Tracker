@@ -9058,7 +9058,6 @@
   "FFlagRemoveGImageEncodeOutDataPtr": "True",
   "DFFlagCheckAllForAnimation": "True",
   "DFFlagAESUseSupersetForATCSaveFailures": "True",
-  "DFFlagPerformanceControlEnableMemoryProbing2_Rollout": "True;60;2023-11-13T20:32:06",
   "FFlagCAPTimeoutMessaging_Rollout": "True;60;2023-11-13T20:41:35",
   "FFlagFocusScrollAreaOnNewMessage_Rollout": "True;60;2023-11-13T20:42:20",
   "FLogStudioDocking": "Verbose",
@@ -9071,6 +9070,7 @@
   "FFlagEnableDistributionConfig": "True",
   "DFFlagAllowOversizedLogToUser_Rollout": "True;60;2023-11-13T21:33:14",
   "FFlagScrollRightColumnSelect_Rollout": "True;60;2023-11-13T21:38:03",
+  "DFFlagPerformanceControlEnableMemoryProbing2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9416,8 +9416,8 @@
   "FFlagXboxNixValidSessionPoller": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
-  "FStringFlagRepoGitHashFastString": "db4518f19f65f3d98d56d96192975c511ca0ad5f",
-  "DFStringFlagRepoGitHashDynamicString": "db4518f19f65f3d98d56d96192975c511ca0ad5f",
-  "FStringFlipTimeStampFastString": "2023-11-13T21:38:29.198Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T21:38:29.198Z"
+  "FStringFlagRepoGitHashFastString": "fd5b960cff8c5382ffe4e742f36e2c4dab2ecbb4",
+  "DFStringFlagRepoGitHashDynamicString": "fd5b960cff8c5382ffe4e742f36e2c4dab2ecbb4",
+  "FStringFlipTimeStampFastString": "2023-11-13T21:42:05.830Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T21:42:05.830Z"
 }
