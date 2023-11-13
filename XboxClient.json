@@ -9066,7 +9066,6 @@
   "DFFlagPerformanceControlEnableMemoryProbing2": "True",
   "FFlagCAPTimeoutMessaging": "True",
   "FFlagFocusScrollAreaOnNewMessage": "True",
-  "DFFlagGameJoinStringViews_Rollout": "True;60;2023-11-13T22:01:30",
   "FFlagLuaAppSessionUseGetActiveRoute2": "True",
   "FFlagBetaSupportAutoenrollSetting": "True",
   "FLogStudioQtCategoryLog_qtitan_docking": "Verbose",
@@ -9079,6 +9078,7 @@
   "DFFlagVoiceChatV2CapabilityCheckDefault_PlaceFilter": "False;15349284027",
   "FFlagAccountService": "True",
   "FFlagEngineStylingEnabled2_Rollout": "True;60;2023-11-13T23:02:58",
+  "DFFlagGameJoinStringViews": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9425,8 +9425,8 @@
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
   "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1d\",\"pos\":[1,-56,0,10],\"size\":[0,44,0,48]},{\"id\":\"a2d\",\"pos\":[1,-100,0,10],\"size\":[0,88,0,48]},{\"id\":\"a4d\",\"pos\":[1,-418,0,10],\"size\":[0,406,0,48]},{\"id\":\"a5d\",\"pos\":[0.5,-102,0,10],\"size\":[0,204,0,48]},{\"id\":\"a5dl\",\"pos\":[0.5,-305,0,10],\"size\":[0,204,0,48]},{\"id\":\"lrd\",\"pos\":[0,12,0,10],\"size\":[0,44,0,48]},{\"id\":\"l1d\",\"pos\":[0,68,0,10],\"size\":[0,44,0,48]},{\"id\":\"l2d\",\"pos\":[0,68,0,10],\"size\":[0,88,0,48]},{\"id\":\"l4d\",\"pos\":[0,68,0,10],\"size\":[0,406,0,48]}];30;2023-11-13T23:05:02",
-  "FStringFlagRepoGitHashFastString": "fe14a6167cade045ddba4c17fbc15ccc7a51ff6a",
-  "DFStringFlagRepoGitHashDynamicString": "fe14a6167cade045ddba4c17fbc15ccc7a51ff6a",
-  "FStringFlipTimeStampFastString": "2023-11-13T23:05:57.110Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-13T23:05:57.110Z"
+  "FStringFlagRepoGitHashFastString": "5a748e29a06492e2c43d586d924c2f81bf58ce81",
+  "DFStringFlagRepoGitHashDynamicString": "5a748e29a06492e2c43d586d924c2f81bf58ce81",
+  "FStringFlipTimeStampFastString": "2023-11-13T23:06:47.619Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-13T23:06:47.619Z"
 }
