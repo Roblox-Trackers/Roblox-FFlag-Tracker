@@ -9097,11 +9097,11 @@
   "FFlagMemoryBufferForHarmony2": "True",
   "FFlagTenFootUiEnableCrossPlay": "True",
   "FFlagLuaAppEnableDeviceIntegrity": "True",
-  "DFIntProbesReportThrottleMS_Rollout": "30000;60;2023-11-14T20:54:29",
   "DFFlagPerfDataSetInitialValueOptional": "True",
   "DFIntRobloxTelemetryCreationDBInstanceStats_Rollout": "10;60;2023-11-14T21:47:03",
   "DFFlagEnableFilteredTextEnrichment_Rollout": "True;60;2023-11-14T21:58:40",
   "FFlagAddFriendsDiagEvents": "True",
+  "DFIntProbesReportThrottleMS": "30000",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9372,8 +9372,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "b03918fe42bc41b2eb75ae906ee64520c4d2d351",
-  "DFStringFlagRepoGitHashDynamicString": "b03918fe42bc41b2eb75ae906ee64520c4d2d351",
-  "FStringFlipTimeStampFastString": "2023-11-14T22:00:03.987Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-14T22:00:03.987Z"
+  "FStringFlagRepoGitHashFastString": "44667b42fd1d7196c4210bbf9568b418e20b453d",
+  "DFStringFlagRepoGitHashDynamicString": "44667b42fd1d7196c4210bbf9568b418e20b453d",
+  "FStringFlipTimeStampFastString": "2023-11-14T22:03:28.920Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-14T22:03:28.920Z"
 }
