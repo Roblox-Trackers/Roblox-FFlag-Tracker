@@ -9081,7 +9081,6 @@
   "FFlagShowViewportContextVisualization": "True",
   "FFlagEndRequestWhenDisplayErrorMessage": "True",
   "FFlagControlBetaBadgeWithGuac": "True",
-  "FFlagReportUIOcclusionMetrics6_Rollout": "True;30;2023-11-13T23:50:44",
   "DFIntSimSepConcernLimit_Rollout": "3333;30;2023-11-14T00:07:26",
   "FIntLuaAppChallengeDialogEventReceiverRetryIntervalSeconds": "1",
   "FIntLuaAppChallengeDialogEventReceiverRetryTimes": "3",
@@ -9093,6 +9092,7 @@
   "FFlagEnableOptionalPlaceIdForUserIdGameJoins": "True",
   "FFlagEnableSocialContextToastFollowFriend5": "True",
   "FFlagEnableSocialContextToastInviteBack3": "True",
+  "FFlagReportUIOcclusionMetrics6": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9437,8 +9437,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
-  "FStringFlagRepoGitHashFastString": "28df6a2cff98709b00613f9c87f83f8eb5ed1b50",
-  "DFStringFlagRepoGitHashDynamicString": "28df6a2cff98709b00613f9c87f83f8eb5ed1b50",
-  "FStringFlipTimeStampFastString": "2023-11-14T00:24:32.665Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-14T00:24:32.665Z"
+  "FStringFlagRepoGitHashFastString": "1b304a3cc74dfa6bd5c47a554c1d1dae4dcfb824",
+  "DFStringFlagRepoGitHashDynamicString": "1b304a3cc74dfa6bd5c47a554c1d1dae4dcfb824",
+  "FStringFlipTimeStampFastString": "2023-11-14T00:27:28.035Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-14T00:27:28.035Z"
 }
