@@ -2271,7 +2271,7 @@
   "FFlagCleanUpIsSubjectToDesktopPolicies": "True",
   "FStringLuaTopicsIXPLayer": "AvatarMarketplace.GuidedFeatures",
   "FFlagShowRatingsInAssetPreviewForAllPlugins": "True",
-  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView,PlayerApp.PhoneVerification.iOS,AvatarExperience.CameraButtonExposure,Social.DisplayNameSetting,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,UserCommunities.EDP.CommunityLinks,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts",
+  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView,PlayerApp.PhoneVerification.iOS,AvatarExperience.CameraButtonExposure,Social.DisplayNameSetting,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,UserCommunities.EDP.CommunityLinks,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Social.ContactList",
   "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent2": "1000",
   "DFIntStudioSyntaxHighlightingOnChangeAnalyticsThrottleHundredthsPercent2": "1000",
   "FFlagStudioLexMapChangeDocAnalytics2": "True",
@@ -9369,8 +9369,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "247805d79a449c879c994ddfb2e84aee500cc290",
-  "DFStringFlagRepoGitHashDynamicString": "247805d79a449c879c994ddfb2e84aee500cc290",
-  "FStringFlipTimeStampFastString": "2023-11-14T21:00:13.695Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-14T21:00:13.695Z"
+  "FStringFlagRepoGitHashFastString": "e58b0fdd777c60d6742378e66b95d4d88f96a5e7",
+  "DFStringFlagRepoGitHashDynamicString": "e58b0fdd777c60d6742378e66b95d4d88f96a5e7",
+  "FStringFlipTimeStampFastString": "2023-11-14T21:04:26.609Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-14T21:04:26.609Z"
 }
