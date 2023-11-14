@@ -9076,7 +9076,6 @@
   "FFlagScrollRightColumnSelect": "True",
   "DFFlagVoiceChatV2CapabilityCheckDefault_PlaceFilter": "False;15349284027",
   "FFlagAccountService": "True",
-  "FFlagEngineStylingEnabled2_Rollout": "True;60;2023-11-13T23:02:58",
   "DFFlagGameJoinStringViews": "True",
   "FFlagFixSignalRDuplicateMessage_Rollout": "True;60;2023-11-13T23:16:34",
   "FFlagAddPerfControlExperimentNameToBacktraceReportsForiOS": "True",
@@ -9087,6 +9086,7 @@
   "DFIntSimSepConcernLimit_Rollout": "3333;30;2023-11-14T00:07:26",
   "FIntLuaAppChallengeDialogEventReceiverRetryIntervalSeconds": "1",
   "FIntLuaAppChallengeDialogEventReceiverRetryTimes": "3",
+  "FFlagEngineStylingEnabled2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9359,8 +9359,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMacClientSupportIME9": "True",
   "FFlagMacClientSupportIME9_Rollout": "False;5;2023-11-14T00:10:46",
-  "FStringFlagRepoGitHashFastString": "8b1ae2405092366628ab6200d141f9c7014338e8",
-  "DFStringFlagRepoGitHashDynamicString": "8b1ae2405092366628ab6200d141f9c7014338e8",
-  "FStringFlipTimeStampFastString": "2023-11-14T00:11:22.410Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-14T00:11:22.410Z"
+  "FStringFlagRepoGitHashFastString": "ba833974fc20463cb7d97579125c5914b608c834",
+  "DFStringFlagRepoGitHashDynamicString": "ba833974fc20463cb7d97579125c5914b608c834",
+  "FStringFlipTimeStampFastString": "2023-11-14T00:12:07.288Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-14T00:12:07.288Z"
 }
