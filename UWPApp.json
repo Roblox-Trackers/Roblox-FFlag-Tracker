@@ -9090,11 +9090,11 @@
   "FFlagEnableSocialContextToastInviteBack3": "True",
   "FFlagReportUIOcclusionMetrics6": "True",
   "DFIntSimSepConcernLimit": "3333",
-  "DFIntEditableMeshSessionTrackingHundredthsPercentage_Rollout": "10000;30;2023-11-14T00:45:01",
-  "DFIntEditableMeshSessionLoggingHundredthsPercentage_Rollout": "10000;30;2023-11-14T00:45:14",
   "DFIntSimSepConcernThreshold": "5",
   "DFIntEditableMeshAPIUsageLoggingHundredthsPercentage": "100",
   "DFIntEditableMeshAPIUsageTrackingHundredthsPercentage": "10000",
+  "DFIntEditableMeshSessionLoggingHundredthsPercentage": "10000",
+  "DFIntEditableMeshSessionTrackingHundredthsPercentage": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9286,8 +9286,8 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
-  "FStringFlagRepoGitHashFastString": "fe4ba91fd8ceab4c63936bc172462503d8cc7ccc",
-  "DFStringFlagRepoGitHashDynamicString": "fe4ba91fd8ceab4c63936bc172462503d8cc7ccc",
-  "FStringFlipTimeStampFastString": "2023-11-14T00:47:16.969Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-14T00:47:16.969Z"
+  "FStringFlagRepoGitHashFastString": "9ba2999dd014249cf934a94048f2c2f1f9bb81c8",
+  "DFStringFlagRepoGitHashDynamicString": "9ba2999dd014249cf934a94048f2c2f1f9bb81c8",
+  "FStringFlipTimeStampFastString": "2023-11-14T01:26:39.974Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-14T01:26:39.974Z"
 }
