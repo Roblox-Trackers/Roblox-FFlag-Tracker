@@ -9077,7 +9077,6 @@
   "DFFlagVoiceChatV2CapabilityCheckDefault_PlaceFilter": "False;15349284027",
   "FFlagAccountService": "True",
   "DFFlagGameJoinStringViews": "True",
-  "FFlagFixSignalRDuplicateMessage_Rollout": "True;60;2023-11-13T23:16:34",
   "FFlagAddPerfControlExperimentNameToBacktraceReportsForiOS": "True",
   "FFlagShowViewportContextVisualization": "True",
   "FFlagEndRequestWhenDisplayErrorMessage": "True",
@@ -9090,6 +9089,7 @@
   "DFIntSimSepConcernThreshold_Rollout": "5;30;2023-11-14T00:12:14",
   "DFIntEditableMeshAPIUsageTrackingHundredthsPercentage_Rollout": "10000;30;2023-11-14T00:12:19",
   "DFIntEditableMeshAPIUsageLoggingHundredthsPercentage_Rollout": "100;30;2023-11-14T00:12:25",
+  "FFlagFixSignalRDuplicateMessage": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9434,8 +9434,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
-  "FStringFlagRepoGitHashFastString": "987665fe8791bd273caf499043b683731d007c22",
-  "DFStringFlagRepoGitHashDynamicString": "987665fe8791bd273caf499043b683731d007c22",
-  "FStringFlipTimeStampFastString": "2023-11-14T00:13:13.965Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-14T00:13:13.965Z"
+  "FStringFlagRepoGitHashFastString": "8a53f3336d79fa30b3b23901d0a5235cce6f8ed4",
+  "DFStringFlagRepoGitHashDynamicString": "8a53f3336d79fa30b3b23901d0a5235cce6f8ed4",
+  "FStringFlipTimeStampFastString": "2023-11-14T00:23:03.563Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-14T00:23:03.563Z"
 }
