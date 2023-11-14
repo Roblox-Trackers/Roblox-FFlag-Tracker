@@ -9095,6 +9095,7 @@
   "RemoveDeprecatedCookieSyncManagerSync": "True",
   "FFlagMemoryBufferForHarmony2_Rollout": "True;30;2023-11-14T19:46:52",
   "FFlagXboxFixInviteFlow": "True",
+  "FFlagTenFootUiEnableCrossPlay_Rollout": "True;30;2023-11-14T19:58:37",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9365,8 +9366,8 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FStringFlagRepoGitHashFastString": "9d0bbb56a20ef49b891a85f3bb5bd0a9970c66f1",
-  "DFStringFlagRepoGitHashDynamicString": "9d0bbb56a20ef49b891a85f3bb5bd0a9970c66f1",
-  "FStringFlipTimeStampFastString": "2023-11-14T19:54:28.090Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-14T19:54:28.090Z"
+  "FStringFlagRepoGitHashFastString": "20f588de4d202759ba319e068ea76c54909187a3",
+  "DFStringFlagRepoGitHashDynamicString": "20f588de4d202759ba319e068ea76c54909187a3",
+  "FStringFlipTimeStampFastString": "2023-11-14T19:58:58.295Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-14T19:58:58.295Z"
 }
