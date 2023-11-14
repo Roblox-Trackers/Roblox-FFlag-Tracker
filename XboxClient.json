@@ -9094,9 +9094,10 @@
   "DFIntEditableMeshSessionTrackingHundredthsPercentage": "10000",
   "RemoveDeprecatedCookieSyncManagerSync": "True",
   "FFlagXboxFixInviteFlow": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagMemoryBufferForHarmony2": "True",
   "DFFlagPerfDataSetInitialValueOptional_Rollout": "True;60;2023-11-14T20:26:07",
+  "FFlagTenFootUiEnableCrossPlay": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9378,7 +9379,6 @@
   "FFlagTenFootUiCategoryTabSafeArea": "True",
   "FFlagShareGamePageNullCheckEnabled": "True",
   "FFlagTenFootGameSortImpressionsScrollFix": "True",
-  "FFlagTenFootUiEnableCrossPlay": "True",
   "FFlagSetNotificationServiceThemeToOverride10ft": "True",
   "FFlagTenFootUiAvatar4": "True",
   "FFlagRefactorPlayerNameTag2": "True",
@@ -9441,8 +9441,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
-  "FStringFlagRepoGitHashFastString": "57faa93923b9eac5737d8f272064a58a049dc0ca",
-  "DFStringFlagRepoGitHashDynamicString": "57faa93923b9eac5737d8f272064a58a049dc0ca",
-  "FStringFlipTimeStampFastString": "2023-11-14T20:26:29.329Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-14T20:26:29.329Z"
+  "FStringFlagRepoGitHashFastString": "6ff5d6e59ec37e0c94a86f43f48626e9bc0a0c88",
+  "DFStringFlagRepoGitHashDynamicString": "6ff5d6e59ec37e0c94a86f43f48626e9bc0a0c88",
+  "FStringFlipTimeStampFastString": "2023-11-14T20:32:04.403Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-14T20:32:04.403Z"
 }
