@@ -9100,6 +9100,7 @@
   "DFIntProbesReportThrottleMS_Rollout": "30000;60;2023-11-14T20:54:29",
   "DFFlagPerfDataSetInitialValueOptional": "True",
   "DFIntRobloxTelemetryCreationDBInstanceStats_Rollout": "10;60;2023-11-14T21:47:03",
+  "DFFlagEnableFilteredTextEnrichment_Rollout": "True;60;2023-11-14T21:58:40",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9489,8 +9490,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagAndroidEnableQoS_Rollout": "True;60;2023-11-14T21:55:31",
-  "FStringFlagRepoGitHashFastString": "fe6a52bccf3853dbf129512e91da146aa9896ba0",
-  "DFStringFlagRepoGitHashDynamicString": "fe6a52bccf3853dbf129512e91da146aa9896ba0",
-  "FStringFlipTimeStampFastString": "2023-11-14T21:55:56.723Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-14T21:55:56.723Z"
+  "FStringFlagRepoGitHashFastString": "54761002d85cef5a5f03e2baba9128f9d56d9621",
+  "DFStringFlagRepoGitHashDynamicString": "54761002d85cef5a5f03e2baba9128f9d56d9621",
+  "FStringFlipTimeStampFastString": "2023-11-14T21:59:25.501Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-14T21:59:25.501Z"
 }
