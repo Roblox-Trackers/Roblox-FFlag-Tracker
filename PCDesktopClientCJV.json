@@ -9114,7 +9114,6 @@
   "FFlagEnableChromeEscapeFix": "True",
   "FFlagFixResumeSourceAnalytics": "True",
   "FFlagAXRetryAvatarLoadOnTabSwitch": "True",
-  "FFlagFixCrashInDiffViewDestructor_Rollout": "True;60;2023-11-15T19:08:55",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent_Rollout": "3;60;2023-11-15T19:18:18",
   "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent_Rollout": "3;60;2023-11-15T19:18:21",
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent_Rollout": "3;60;2023-11-15T19:18:24",
@@ -9129,6 +9128,7 @@
   "FFlagStudioDraggerToolboxDragFix": "True",
   "DFIntCollectedProbeDataThrottleHundrethsPercent_Rollout": "5000;60;2023-11-15T20:06:03",
   "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "1",
+  "FFlagFixCrashInDiffViewDestructor": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9401,8 +9401,8 @@
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "276425501d437e1938b35dfd8ca7dbfe304ad6ce",
-  "DFStringFlagRepoGitHashDynamicString": "276425501d437e1938b35dfd8ca7dbfe304ad6ce",
-  "FStringFlipTimeStampFastString": "2023-11-15T20:12:03.616Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T20:12:03.616Z"
+  "FStringFlagRepoGitHashFastString": "04ca3166efa70bb67ec86f6f6401de4965cea846",
+  "DFStringFlagRepoGitHashDynamicString": "04ca3166efa70bb67ec86f6f6401de4965cea846",
+  "FStringFlipTimeStampFastString": "2023-11-15T20:17:12.757Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T20:17:12.757Z"
 }
