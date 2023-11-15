@@ -9154,7 +9154,6 @@
   "DFFlagDSTelemetryIncludeScopeAndDataModel": "True",
   "FFlagTenFootUiAvatar4": "True",
   "FFlagTeleportShutdownFixOrder": "True",
-  "DFFlagDSTelemetryPublishToEventIngest_Rollout": "True;30;2023-11-15T23:09:03",
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagAvatarPreviewerFixLayeredClothingOrdering": "True",
   "FFlagAvatarPreviewerSweaters": "True",
@@ -9167,6 +9166,8 @@
   "FFlagLuauCompileSideEffects": "True",
   "FFlagLuauCompileDeadIf": "True",
   "FFlagLuauImproveInsertIr": "True",
+  "DFFlagDSTelemetryPublishToEventIngest": "True",
+  "FFlagHideEmptyInputDeviceSelector": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9556,8 +9557,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagAndroidEnableQoS": "True",
-  "FStringFlagRepoGitHashFastString": "c93077e47ed986773fa8278c4e294f1bd5549838",
-  "DFStringFlagRepoGitHashDynamicString": "c93077e47ed986773fa8278c4e294f1bd5549838",
-  "FStringFlipTimeStampFastString": "2023-11-15T23:43:11.072Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:43:11.072Z"
+  "FStringFlagRepoGitHashFastString": "437f480d027683e3026b8145f484165b8dacb954",
+  "DFStringFlagRepoGitHashDynamicString": "437f480d027683e3026b8145f484165b8dacb954",
+  "FStringFlipTimeStampFastString": "2023-11-15T23:47:27.063Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:47:27.063Z"
 }
