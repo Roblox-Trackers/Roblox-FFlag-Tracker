@@ -9127,8 +9127,6 @@
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent": "3",
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent": "3",
   "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent": "3",
-  "DFFlagStepContactAsyncTouchTelemetryNewParam_Rollout": "True;30;2023-11-15T20:54:58",
-  "DFFlagRCCCheckCoalescedTouchEventualConsistency_Rollout": "True;30;2023-11-15T20:55:04",
   "FFlagUseVoiceChatEventLogger": "True",
   "FFlagUIBloxUseNewGenericTextLabelProps3": "True",
   "FFlagAICOChatBotCodeSampleWidget": "True",
@@ -9147,6 +9145,8 @@
   "DFIntCollectedProbeDataThrottleHundrethsPercent": "5000",
   "FFlagTeleportShutdownFixOrder_Rollout": "True;30;2023-11-15T21:21:36",
   "DFIntCollectedProbeDataThrottleHundrethsPercent_Rollout": "10000;30;2023-11-15T21:24:42",
+  "DFFlagRCCCheckCoalescedTouchEventualConsistency": "True",
+  "DFFlagStepContactAsyncTouchTelemetryNewParam": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9492,8 +9492,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagGpuGeometryManager11_Rollout": "True;60;2023-11-15T20:39:51",
-  "FStringFlagRepoGitHashFastString": "983b6783d69a754ebe90e708de7173a06797b6b8",
-  "DFStringFlagRepoGitHashDynamicString": "983b6783d69a754ebe90e708de7173a06797b6b8",
-  "FStringFlipTimeStampFastString": "2023-11-15T21:26:09.082Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T21:26:09.082Z"
+  "FStringFlagRepoGitHashFastString": "35d6a73efa725c4abd39ceb959e8c4d6f8dd826e",
+  "DFStringFlagRepoGitHashDynamicString": "35d6a73efa725c4abd39ceb959e8c4d6f8dd826e",
+  "FStringFlipTimeStampFastString": "2023-11-15T21:32:38.563Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T21:32:38.563Z"
 }
