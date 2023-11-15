@@ -9168,6 +9168,8 @@
   "FFlagLuauImproveInsertIr": "True",
   "DFFlagDSTelemetryPublishToEventIngest": "True",
   "FFlagHideEmptyInputDeviceSelector": "True",
+  "FFlagVoiceChatV2EnableSignalRKickUser3": "True",
+  "FFlagLiveScriptingHintDisplayOnce": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9513,8 +9515,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagGpuGeometryManager11": "True",
-  "FStringFlagRepoGitHashFastString": "68f42f759a102fd9b09ceebc7b15f0a3a0ea3ff2",
-  "DFStringFlagRepoGitHashDynamicString": "68f42f759a102fd9b09ceebc7b15f0a3a0ea3ff2",
-  "FStringFlipTimeStampFastString": "2023-11-15T23:49:39.805Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:49:39.805Z"
+  "FStringFlagRepoGitHashFastString": "f27299f83fe3eedc41ca81dd9b96221e107af459",
+  "DFStringFlagRepoGitHashDynamicString": "f27299f83fe3eedc41ca81dd9b96221e107af459",
+  "FStringFlipTimeStampFastString": "2023-11-15T23:51:13.902Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:51:13.902Z"
 }
