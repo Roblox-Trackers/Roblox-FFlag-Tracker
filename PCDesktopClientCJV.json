@@ -7909,7 +7909,7 @@
   "FFlagUserSearchAddSessionIdToURL": "False",
   "FFlagAutoUpgradeEnableVersionCheckWithChannels": "True",
   "FFlagUGCValidationAnalytics": "True",
-  "FFlagSimSolverEnableLookAtConstraint2": "False",
+  "FFlagSimSolverEnableLookAtConstraint2": "True",
   "FFlagEnableCanPerformBinaryUpdate": "True",
   "FFlagDisableAddFriendsInCarousel": "True",
   "FFlagFixNonSelfCalls": "True",
@@ -9144,7 +9144,6 @@
   "DFFlagRCCCheckCoalescedTouchEventualConsistency": "True",
   "DFFlagStepContactAsyncTouchTelemetryNewParam": "True",
   "DFIntRCCCheckCoalescedTouchEventualConsistencyInMS": "100",
-  "FFlagSimSolverEnableLookAtConstraint2_Rollout": "True;60;2023-11-15T22:01:15",
   "FFlagCAPDisableMessageUpdatesOnClear": "True",
   "FFlagSetNotificationServiceThemeToOverride10ft": "True",
   "FFlagEnableAccountSettingsUpsell": "True",
@@ -9432,8 +9431,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "ca77dde1e2f94eef54b41bba04189967314d9012",
-  "DFStringFlagRepoGitHashDynamicString": "ca77dde1e2f94eef54b41bba04189967314d9012",
-  "FStringFlipTimeStampFastString": "2023-11-15T23:13:37.014Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:13:37.014Z"
+  "FStringFlagRepoGitHashFastString": "71b713b5e717f7f7ece7ab99ee818fff568eb1c3",
+  "DFStringFlagRepoGitHashDynamicString": "71b713b5e717f7f7ece7ab99ee818fff568eb1c3",
+  "FStringFlipTimeStampFastString": "2023-11-15T23:16:07.224Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:16:07.224Z"
 }
