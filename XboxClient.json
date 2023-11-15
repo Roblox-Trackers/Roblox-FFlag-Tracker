@@ -9124,11 +9124,11 @@
   "FIntMaterialGenerationServiceGenerateHttpTimeoutMs": "30000",
   "FStringGpuGeometryManagerGpuBlacklistRegex": ".*A10.*",
   "FFlagIXPPerformanceControlMemoryBufferExp2": "True",
-  "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "1;30;2023-11-15T19:36:55",
   "FFlagAppConfigurerEnabled2": "True",
   "FFlagUseVoiceChatEventLogger_Rollout": "True;60;2023-11-15T19:47:30",
   "FFlagStudioDraggerToolboxDragFix": "True",
   "DFIntCollectedProbeDataThrottleHundrethsPercent_Rollout": "5000;60;2023-11-15T20:06:03",
+  "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "1",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9470,8 +9470,8 @@
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement_Rollout": "True;60;2023-11-15T19:18:50",
-  "FStringFlagRepoGitHashFastString": "9e58bb5f21abf4257e1d599acfc4b6350a378f2a",
-  "DFStringFlagRepoGitHashDynamicString": "9e58bb5f21abf4257e1d599acfc4b6350a378f2a",
-  "FStringFlipTimeStampFastString": "2023-11-15T20:11:17.531Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T20:11:17.531Z"
+  "FStringFlagRepoGitHashFastString": "276425501d437e1938b35dfd8ca7dbfe304ad6ce",
+  "DFStringFlagRepoGitHashDynamicString": "276425501d437e1938b35dfd8ca7dbfe304ad6ce",
+  "FStringFlipTimeStampFastString": "2023-11-15T20:12:03.616Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T20:12:03.616Z"
 }
