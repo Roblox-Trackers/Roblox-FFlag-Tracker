@@ -9151,7 +9151,6 @@
   "FFlagFixGameInviteModalLoadTimeIncrease": "True",
   "FFlagGameInviteModalAnalyticsEmptyEventContextFix": "True",
   "FFlagLuaVoiceChatAnalyticsBanMessageV3": "True",
-  "DFFlagMemoryStoreUpdateAsyncEnableSortKey2_Rollout": "True;60;2023-11-15T22:24:50",
   "DFFlagDSTelemetryIncludeScopeAndDataModel": "True",
   "FFlagTenFootUiAvatar4": "True",
   "FFlagTeleportShutdownFixOrder": "True",
@@ -9164,6 +9163,7 @@
   "FFlagGameInviteModalIncludeLinkIdInShareButton": "True",
   "FFlagRenderEnableGlobalInstancing7": "True",
   "FFlagPerformanceControlIXPWithMemoryAdviceEnabled_Rollout": "True;30;2023-11-15T23:29:07",
+  "DFFlagMemoryStoreUpdateAsyncEnableSortKey2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9553,8 +9553,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagAndroidEnableQoS": "True",
-  "FStringFlagRepoGitHashFastString": "d96f946daeaf4631f0767fb83ab5e4e3b75f0626",
-  "DFStringFlagRepoGitHashDynamicString": "d96f946daeaf4631f0767fb83ab5e4e3b75f0626",
-  "FStringFlipTimeStampFastString": "2023-11-15T23:29:28.800Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:29:28.800Z"
+  "FStringFlagRepoGitHashFastString": "0e7965597136454e443a7eb4b14eb73f413b480c",
+  "DFStringFlagRepoGitHashDynamicString": "0e7965597136454e443a7eb4b14eb73f413b480c",
+  "FStringFlipTimeStampFastString": "2023-11-15T23:31:57.882Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:31:57.882Z"
 }
