@@ -9133,7 +9133,6 @@
   "FFlagCAP273SettingsButtonDoubleToggle": "True",
   "FFlagCAPAddSliderAndCheckboxToMaterialGeneration2": "True",
   "FFlagCAPAddTimestampMilliseconds": "True",
-  "FFlagCAPDisableMessageUpdatesOnClear_Rollout": "True;60;2023-11-15T21:00:52",
   "FFlagConvAIHideRetryButtonWhenQuotaExceed": "True",
   "FFlagConvAIParentToService": "True",
   "FFlagConvAIPreventDoubleEndRequest": "True",
@@ -9148,6 +9147,8 @@
   "DFFlagDSTelemetryIncludeScopeAndDataModel_Rollout": "True;30;2023-11-15T21:55:51",
   "FFlagSimSolverEnableLookAtConstraint2_Rollout": "True;60;2023-11-15T22:01:15",
   "DFFlagVoiceChatLogOldJoinCalledTime_Rollout": "True;1;2023-11-15T22:05:09",
+  "FFlagCAPDisableMessageUpdatesOnClear": "True",
+  "FFlagSetNotificationServiceThemeToOverride10ft": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9427,7 +9428,6 @@
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagTenFootUiCategoryTabSafeArea": "True",
   "FFlagShareGamePageNullCheckEnabled": "True",
-  "FFlagSetNotificationServiceThemeToOverride10ft": "True",
   "FFlagTenFootUiAvatar4": "True",
   "FFlagRefactorPlayerNameTag2": "True",
   "FFlagPassInCloseCentralOverlayToChildren": "True",
@@ -9489,8 +9489,8 @@
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement": "True",
-  "FStringFlagRepoGitHashFastString": "86568b24e55d55af3ea3533de84d12bd1906a905",
-  "DFStringFlagRepoGitHashDynamicString": "86568b24e55d55af3ea3533de84d12bd1906a905",
-  "FStringFlipTimeStampFastString": "2023-11-15T22:06:28.847Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T22:06:28.847Z"
+  "FStringFlagRepoGitHashFastString": "5a4dd11f1bfd9d0abada34158fcfdd712fae08f5",
+  "DFStringFlagRepoGitHashDynamicString": "5a4dd11f1bfd9d0abada34158fcfdd712fae08f5",
+  "FStringFlipTimeStampFastString": "2023-11-15T22:10:36.757Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T22:10:36.757Z"
 }
