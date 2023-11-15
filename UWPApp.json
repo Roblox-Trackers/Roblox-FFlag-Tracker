@@ -9146,6 +9146,7 @@
   "DFFlagRCCCheckCoalescedTouchEventualConsistency": "True",
   "DFFlagStepContactAsyncTouchTelemetryNewParam": "True",
   "DFIntRCCCheckCoalescedTouchEventualConsistencyInMS": "100",
+  "DFFlagDSTelemetryIncludeScopeAndDataModel_Rollout": "True;30;2023-11-15T21:55:51",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9337,8 +9338,8 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
-  "FStringFlagRepoGitHashFastString": "d1326ead41ec23d3d2850bb9db3c9be511e26f77",
-  "DFStringFlagRepoGitHashDynamicString": "d1326ead41ec23d3d2850bb9db3c9be511e26f77",
-  "FStringFlipTimeStampFastString": "2023-11-15T21:52:18.082Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T21:52:18.082Z"
+  "FStringFlagRepoGitHashFastString": "4a43063acfdedc5d06155876b1e26b383ee19890",
+  "DFStringFlagRepoGitHashDynamicString": "4a43063acfdedc5d06155876b1e26b383ee19890",
+  "FStringFlipTimeStampFastString": "2023-11-15T22:00:59.851Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T22:00:59.851Z"
 }
