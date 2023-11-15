@@ -9165,6 +9165,8 @@
   "FFlagPerformanceControlIXPWithMemoryAdviceEnabled_Rollout": "True;30;2023-11-15T23:29:07",
   "DFFlagMemoryStoreUpdateAsyncEnableSortKey2": "True",
   "FFlagLuauCompileSideEffects": "True",
+  "FFlagLuauCompileDeadIf": "True",
+  "FFlagLuauImproveInsertIr": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9504,8 +9506,8 @@
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement": "True",
-  "FStringFlagRepoGitHashFastString": "b5de949582f78c95e845231f8e920ead3fe38eef",
-  "DFStringFlagRepoGitHashDynamicString": "b5de949582f78c95e845231f8e920ead3fe38eef",
-  "FStringFlipTimeStampFastString": "2023-11-15T23:36:46.124Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:36:46.124Z"
+  "FStringFlagRepoGitHashFastString": "cb2145189582cbad87fa5924dfce20a8ee0f3fde",
+  "DFStringFlagRepoGitHashDynamicString": "cb2145189582cbad87fa5924dfce20a8ee0f3fde",
+  "FStringFlipTimeStampFastString": "2023-11-15T23:37:43.008Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:37:43.008Z"
 }
