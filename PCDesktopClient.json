@@ -9121,7 +9121,7 @@
   "FFlagIXPPerformanceControlMemoryBufferExp2": "True",
   "FFlagAppConfigurerEnabled2": "True",
   "FFlagStudioDraggerToolboxDragFix": "True",
-  "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "1",
+  "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "100",
   "FFlagFixCrashInDiffViewDestructor": "True",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent": "3",
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent": "3",
@@ -9157,7 +9157,6 @@
   "FFlagEnableUniversalAppGameInviteUnification": "True",
   "FFlagAvatarPreviewerFixLayeredClothingOrdering": "True",
   "FFlagAvatarPreviewerSweaters": "True",
-  "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "100;30;2023-11-15T23:20:18",
   "FFlagAllowIXPToSetMemoryBufferDataForPerfControl": "True",
   "FFlagGameInviteModalIncludeLinkIdInShareButton": "True",
   "FFlagRenderEnableGlobalInstancing7": "True",
@@ -9170,6 +9169,7 @@
   "FFlagHideEmptyInputDeviceSelector": "True",
   "FFlagVoiceChatV2EnableSignalRKickUser3": "True",
   "FFlagLiveScriptingHintDisplayOnce": "True",
+  "DFFlagHlsFixDurationPrecision": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9443,8 +9443,8 @@
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagRefactorGuiRTCacheImpl2": "True",
-  "FStringFlagRepoGitHashFastString": "81e246d2757fadde9f89cc1a1335e5e11c4ac567",
-  "DFStringFlagRepoGitHashDynamicString": "81e246d2757fadde9f89cc1a1335e5e11c4ac567",
-  "FStringFlipTimeStampFastString": "2023-11-15T23:55:31.332Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:55:31.332Z"
+  "FStringFlagRepoGitHashFastString": "d372fa3de0148ae8fe4f2e4b83415dc792a949ad",
+  "DFStringFlagRepoGitHashDynamicString": "d372fa3de0148ae8fe4f2e4b83415dc792a949ad",
+  "FStringFlipTimeStampFastString": "2023-11-15T23:57:11.519Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:57:11.519Z"
 }
