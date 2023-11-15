@@ -9119,6 +9119,9 @@
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent_Rollout": "3;60;2023-11-15T19:18:18",
   "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent_Rollout": "3;60;2023-11-15T19:18:21",
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent_Rollout": "3;60;2023-11-15T19:18:24",
+  "FFlagTenFootGameSortImpressionsScrollFix": "True",
+  "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent_Rollout": "3;60;2023-11-15T19:19:00",
+  "DFIntOptimizeAutosaveIntervalRolloutPercentage_Rollout": "50;10;2023-11-15T19:20:06",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9399,7 +9402,6 @@
   "FFlagRefactorGuiRTCacheImpl2": "True",
   "FFlagTenFootUiCategoryTabSafeArea": "True",
   "FFlagShareGamePageNullCheckEnabled": "True",
-  "FFlagTenFootGameSortImpressionsScrollFix": "True",
   "FFlagSetNotificationServiceThemeToOverride10ft": "True",
   "FFlagTenFootUiAvatar4": "True",
   "FFlagRefactorPlayerNameTag2": "True",
@@ -9461,8 +9463,9 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
-  "FStringFlagRepoGitHashFastString": "f9d1814f3e109a46f9ede16ea5fc44f189f1a95a",
-  "DFStringFlagRepoGitHashDynamicString": "f9d1814f3e109a46f9ede16ea5fc44f189f1a95a",
-  "FStringFlipTimeStampFastString": "2023-11-15T19:19:57.793Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T19:19:57.793Z"
+  "FFlagXboxFlagRolloutCrashImprovement_Rollout": "True;60;2023-11-15T19:18:50",
+  "FStringFlagRepoGitHashFastString": "c13b27cad27e56fa883fabe02d0cf1476ad0b17f",
+  "DFStringFlagRepoGitHashDynamicString": "c13b27cad27e56fa883fabe02d0cf1476ad0b17f",
+  "FStringFlipTimeStampFastString": "2023-11-15T19:20:46.851Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T19:20:46.851Z"
 }
