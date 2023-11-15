@@ -9154,7 +9154,6 @@
   "DFFlagMemoryStoreUpdateAsyncEnableSortKey2_Rollout": "True;60;2023-11-15T22:24:50",
   "DFFlagDSTelemetryIncludeScopeAndDataModel": "True",
   "FFlagTenFootUiAvatar4": "True",
-  "FFlagRenderEnableGlobalInstancing7_Rollout": "True;30;2023-11-15T22:48:18",
   "FFlagTeleportShutdownFixOrder": "True",
   "DFFlagDSTelemetryPublishToEventIngest_Rollout": "True;30;2023-11-15T23:09:03",
   "FFlagEnableUniversalAppGameInviteUnification": "True",
@@ -9163,6 +9162,7 @@
   "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "100;30;2023-11-15T23:20:18",
   "FFlagAllowIXPToSetMemoryBufferDataForPerfControl": "True",
   "FFlagGameInviteModalIncludeLinkIdInShareButton": "True",
+  "FFlagRenderEnableGlobalInstancing7": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9502,8 +9502,8 @@
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
   "FFlagXboxFlagRolloutCrashImprovement": "True",
-  "FStringFlagRepoGitHashFastString": "07c1edd33a1b761bbfcf90366f4b25994a4812b0",
-  "DFStringFlagRepoGitHashDynamicString": "07c1edd33a1b761bbfcf90366f4b25994a4812b0",
-  "FStringFlipTimeStampFastString": "2023-11-15T23:22:03.457Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:22:03.457Z"
+  "FStringFlagRepoGitHashFastString": "ec359aa24eac213947df167ecce42e173ef84dea",
+  "DFStringFlagRepoGitHashDynamicString": "ec359aa24eac213947df167ecce42e173ef84dea",
+  "FStringFlipTimeStampFastString": "2023-11-15T23:24:00.393Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:24:00.393Z"
 }
