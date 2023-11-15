@@ -9143,7 +9143,6 @@
   "FFlagStudioOnboardingStartPageCTA": "True",
   "DFIntRCCCheckCoalescedTouchEventualConsistencyInMS_Rollout": "100;30;2023-11-15T21:10:34",
   "DFIntCollectedProbeDataThrottleHundrethsPercent": "5000",
-  "FFlagTeleportShutdownFixOrder_Rollout": "True;30;2023-11-15T21:21:36",
   "DFIntCollectedProbeDataThrottleHundrethsPercent_Rollout": "10000;30;2023-11-15T21:24:42",
   "DFFlagRCCCheckCoalescedTouchEventualConsistency": "True",
   "DFFlagStepContactAsyncTouchTelemetryNewParam": "True",
@@ -9338,8 +9337,8 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
-  "FStringFlagRepoGitHashFastString": "35d6a73efa725c4abd39ceb959e8c4d6f8dd826e",
-  "DFStringFlagRepoGitHashDynamicString": "35d6a73efa725c4abd39ceb959e8c4d6f8dd826e",
-  "FStringFlipTimeStampFastString": "2023-11-15T21:32:38.563Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T21:32:38.563Z"
+  "FStringFlagRepoGitHashFastString": "75b4ac8a3ccbc85f54f228b746d40eaa8b7bace3",
+  "DFStringFlagRepoGitHashDynamicString": "75b4ac8a3ccbc85f54f228b746d40eaa8b7bace3",
+  "FStringFlipTimeStampFastString": "2023-11-15T21:38:11.765Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T21:38:11.765Z"
 }
