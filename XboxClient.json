@@ -9116,6 +9116,9 @@
   "FFlagIXPPerformanceControlMemoryBufferExp2_Rollout": "True;30;2023-11-15T18:59:53",
   "FFlagAXRetryAvatarLoadOnTabSwitch": "True",
   "FFlagFixCrashInDiffViewDestructor_Rollout": "True;60;2023-11-15T19:08:55",
+  "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent_Rollout": "3;60;2023-11-15T19:18:18",
+  "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent_Rollout": "3;60;2023-11-15T19:18:21",
+  "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent_Rollout": "3;60;2023-11-15T19:18:24",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9458,8 +9461,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppAuthHardenErrorHandling": "True",
   "FFlagNewSelectionCursor": "True",
-  "FStringFlagRepoGitHashFastString": "9cc448634f1ab271c71e0e84d71c4a6651820c8b",
-  "DFStringFlagRepoGitHashDynamicString": "9cc448634f1ab271c71e0e84d71c4a6651820c8b",
-  "FStringFlipTimeStampFastString": "2023-11-15T19:09:18.536Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T19:09:18.536Z"
+  "FStringFlagRepoGitHashFastString": "f9d1814f3e109a46f9ede16ea5fc44f189f1a95a",
+  "DFStringFlagRepoGitHashDynamicString": "f9d1814f3e109a46f9ede16ea5fc44f189f1a95a",
+  "FStringFlipTimeStampFastString": "2023-11-15T19:19:57.793Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T19:19:57.793Z"
 }
