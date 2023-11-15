@@ -9163,6 +9163,7 @@
   "FFlagAllowIXPToSetMemoryBufferDataForPerfControl": "True",
   "FFlagGameInviteModalIncludeLinkIdInShareButton": "True",
   "FFlagRenderEnableGlobalInstancing7": "True",
+  "FFlagPerformanceControlIXPWithMemoryAdviceEnabled_Rollout": "True;30;2023-11-15T23:29:07",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9435,8 +9436,8 @@
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagRefactorGuiRTCacheImpl2": "True",
-  "FStringFlagRepoGitHashFastString": "ec359aa24eac213947df167ecce42e173ef84dea",
-  "DFStringFlagRepoGitHashDynamicString": "ec359aa24eac213947df167ecce42e173ef84dea",
-  "FStringFlipTimeStampFastString": "2023-11-15T23:24:00.393Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:24:00.393Z"
+  "FStringFlagRepoGitHashFastString": "d96f946daeaf4631f0767fb83ab5e4e3b75f0626",
+  "DFStringFlagRepoGitHashDynamicString": "d96f946daeaf4631f0767fb83ab5e4e3b75f0626",
+  "FStringFlipTimeStampFastString": "2023-11-15T23:29:28.800Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T23:29:28.800Z"
 }
