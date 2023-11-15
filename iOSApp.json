@@ -9120,7 +9120,6 @@
   "FStringGpuGeometryManagerGpuBlacklistRegex": ".*A10.*",
   "FFlagIXPPerformanceControlMemoryBufferExp2": "True",
   "FFlagAppConfigurerEnabled2": "True",
-  "FFlagUseVoiceChatEventLogger_Rollout": "True;60;2023-11-15T19:47:30",
   "FFlagStudioDraggerToolboxDragFix": "True",
   "DFIntCollectedProbeDataThrottleHundrethsPercent_Rollout": "5000;60;2023-11-15T20:06:03",
   "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "1",
@@ -9131,6 +9130,8 @@
   "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent": "3",
   "DFFlagStepContactAsyncTouchTelemetryNewParam_Rollout": "True;30;2023-11-15T20:54:58",
   "DFFlagRCCCheckCoalescedTouchEventualConsistency_Rollout": "True;30;2023-11-15T20:55:04",
+  "FFlagUseVoiceChatEventLogger": "True",
+  "FFlagUIBloxUseNewGenericTextLabelProps3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9476,8 +9477,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagGpuGeometryManager11_Rollout": "True;60;2023-11-15T20:39:51",
-  "FStringFlagRepoGitHashFastString": "b334498ebaf348660b83251b9838f0ffe4ebe90b",
-  "DFStringFlagRepoGitHashDynamicString": "b334498ebaf348660b83251b9838f0ffe4ebe90b",
-  "FStringFlipTimeStampFastString": "2023-11-15T20:56:01.643Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T20:56:01.643Z"
+  "FStringFlagRepoGitHashFastString": "d674d051395bdaf7e074fcb9311a238ffb8473aa",
+  "DFStringFlagRepoGitHashDynamicString": "d674d051395bdaf7e074fcb9311a238ffb8473aa",
+  "FStringFlipTimeStampFastString": "2023-11-15T20:58:00.787Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T20:58:00.787Z"
 }
