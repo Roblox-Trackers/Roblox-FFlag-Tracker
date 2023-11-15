@@ -9111,6 +9111,8 @@
   "FFlagNameAgnosticNeckFinding": "True",
   "FFlagEnableSubscriptionsSettingsPage": "True",
   "FFlagUIBloxUsePlatformContentKeyLabels": "True",
+  "FFlagEnableChromeEscapeFix": "True",
+  "FFlagFixResumeSourceAnalytics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9302,8 +9304,8 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
-  "FStringFlagRepoGitHashFastString": "c311ed84050a4932f06afe3bcfa66752e3ba7a0c",
-  "DFStringFlagRepoGitHashDynamicString": "c311ed84050a4932f06afe3bcfa66752e3ba7a0c",
-  "FStringFlipTimeStampFastString": "2023-11-15T18:55:40.971Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-15T18:55:40.971Z"
+  "FStringFlagRepoGitHashFastString": "14d91e38ad1f7b32a1b7388b50bf5421749f6bbf",
+  "DFStringFlagRepoGitHashDynamicString": "14d91e38ad1f7b32a1b7388b50bf5421749f6bbf",
+  "FStringFlipTimeStampFastString": "2023-11-15T18:56:59.569Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-15T18:56:59.569Z"
 }
