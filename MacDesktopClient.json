@@ -9180,6 +9180,7 @@
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:01:48",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:30",
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:33",
+  "FFlagEnableSessionTransitionFSM_Rollout": "True;30;2023-11-16T18:09:42",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
