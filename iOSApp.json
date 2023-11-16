@@ -9187,6 +9187,7 @@
   "FFlagLuaAppEnableExperienceDetailsPageTabletRelease": "True",
   "DFIntLogMessageTruncateLimit_Rollout": "980000;60;2023-11-16T19:24:30",
   "FStringGpuGeometryManagerGpuBlacklistRegex_Rollout": ".*A10.*|.*A9.*;1;2023-11-16T19:32:26",
+  "DFFlagSimResetHistoryOnTickle_Rollout": "True;60;2023-11-16T19:35:48",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9532,8 +9533,8 @@
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagGpuGeometryManager11": "True",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "d26b0abdfa6ae65e969f603cee611a3a717be105",
-  "DFStringFlagRepoGitHashDynamicString": "d26b0abdfa6ae65e969f603cee611a3a717be105",
-  "FStringFlipTimeStampFastString": "2023-11-16T19:33:04.468Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T19:33:04.468Z"
+  "FStringFlagRepoGitHashFastString": "132252aedac98cf5c9fd1e26c37090731831c8cc",
+  "DFStringFlagRepoGitHashDynamicString": "132252aedac98cf5c9fd1e26c37090731831c8cc",
+  "FStringFlipTimeStampFastString": "2023-11-16T19:36:20.241Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T19:36:20.241Z"
 }

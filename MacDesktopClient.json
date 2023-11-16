@@ -9187,6 +9187,7 @@
   "FFlagLuaAppEnableExperienceDetailsPageTabletRelease": "True",
   "DFIntLogMessageTruncateLimit_Rollout": "980000;60;2023-11-16T19:24:30",
   "FStringGpuGeometryManagerGpuBlacklistRegex_Rollout": ".*A10.*|.*A9.*;1;2023-11-16T19:32:26",
+  "DFFlagSimResetHistoryOnTickle_Rollout": "True;60;2023-11-16T19:35:48",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
