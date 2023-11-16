@@ -8520,7 +8520,7 @@
   "FFlagACESortEventsTooltip": "True",
   "DFFlagReportPostJoinSetsStats": "True",
   "DFFlagFixKibanaAssertOnMapFields": "True",
-  "FFlagEnableSocialServiceIrisInviteV3": "True",
+  "FFlagEnableSocialServiceIrisInviteV3": "False",
   "FFlagUIListLayoutUseHorizontalVerticalPaddingAsSourceOfTruth": "True",
   "FFlagLuaAppHomeJoinYourFriendsAlwaysWithFindFriends": "True",
   "CleanupHttpAgentOnRestart": "True",
@@ -9205,6 +9205,7 @@
   "DFFlagBankSync_Rollout": "True;60;2023-11-16T21:57:53",
   "FFlagChangeUIBloxLoadingStrategy2": "True",
   "DFFlagNewMathSerializers_Rollout": "True;60;2023-11-16T22:08:21",
+  "FFlagEnableSocialServiceIrisInviteV3_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929;12867089300;14066075418;12796376276;13989579574;12500012844;14030887154;15308759682;15309910919;15309911904",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9551,8 +9552,8 @@
   "FFlagGpuGeometryManager11": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagRenderEnableGlobalInstancingMetal_Rollout": "True;60;2023-11-16T21:33:13",
-  "FStringFlagRepoGitHashFastString": "703e2c1ca015669730c01737b3b8f9730e4ff711",
-  "DFStringFlagRepoGitHashDynamicString": "703e2c1ca015669730c01737b3b8f9730e4ff711",
-  "FStringFlipTimeStampFastString": "2023-11-16T22:32:56.818Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T22:32:56.818Z"
+  "FStringFlagRepoGitHashFastString": "246ec542f234b30fbd38c2ecee3fef6bf4a71112",
+  "DFStringFlagRepoGitHashDynamicString": "246ec542f234b30fbd38c2ecee3fef6bf4a71112",
+  "FStringFlipTimeStampFastString": "2023-11-16T22:36:04.730Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T22:36:04.730Z"
 }
