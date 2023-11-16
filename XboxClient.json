@@ -9187,6 +9187,7 @@
   "DFFlagSimResetHistoryOnTickle_Rollout": "True;60;2023-11-16T19:35:48",
   "DFFlagEnableLogMessageTruncate": "True",
   "FFlagDenseComponentToSetMap": "True",
+  "DFFlagLogSystemSinkSupport2_Rollout": "True;30;2023-11-16T19:41:52",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9527,8 +9528,8 @@
   "FFlagXboxFlagRolloutCrashImprovement": "True",
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
   "FFlagXboxCleanupArchive": "True",
-  "FStringFlagRepoGitHashFastString": "b50492a99be8a629d778096a4618fa88c515eb9a",
-  "DFStringFlagRepoGitHashDynamicString": "b50492a99be8a629d778096a4618fa88c515eb9a",
-  "FStringFlipTimeStampFastString": "2023-11-16T19:37:43.437Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T19:37:43.437Z"
+  "FStringFlagRepoGitHashFastString": "63825eb3a200a65151a2498672cbbec29fa9842e",
+  "DFStringFlagRepoGitHashDynamicString": "63825eb3a200a65151a2498672cbbec29fa9842e",
+  "FStringFlipTimeStampFastString": "2023-11-16T19:42:56.085Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T19:42:56.085Z"
 }
