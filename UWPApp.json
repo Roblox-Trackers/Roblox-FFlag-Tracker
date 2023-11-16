@@ -9124,7 +9124,7 @@
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent": "3",
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent": "0",
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent": "3",
-  "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent": "3",
+  "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent": "10000",
   "FFlagUseVoiceChatEventLogger": "True",
   "FFlagUIBloxUseNewGenericTextLabelProps3": "True",
   "FFlagAICOChatBotCodeSampleWidget": "True",
@@ -9170,7 +9170,6 @@
   "FFlagPerformanceControlIXPWithMemoryAdviceEnabled": "True",
   "FFlagFixiOSCommandlineChannel": "True",
   "FFlagUpgradeExpChatV4_2_6": "True",
-  "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:01:43",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:30",
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:33",
   "FFlagUseBatchRequestFriendStatus": "True",
@@ -9379,8 +9378,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "045aa65727c839566c7e7b5d15555219814662d6",
-  "DFStringFlagRepoGitHashDynamicString": "045aa65727c839566c7e7b5d15555219814662d6",
-  "FStringFlipTimeStampFastString": "2023-11-16T19:00:45.016Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T19:00:45.016Z"
+  "FStringFlagRepoGitHashFastString": "6543ed8b7e0cf565560b32f48172e73b97ddd910",
+  "DFStringFlagRepoGitHashDynamicString": "6543ed8b7e0cf565560b32f48172e73b97ddd910",
+  "FStringFlipTimeStampFastString": "2023-11-16T19:07:12.269Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T19:07:12.269Z"
 }
