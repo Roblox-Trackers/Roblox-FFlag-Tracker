@@ -9170,7 +9170,6 @@
   "FFlagPerformanceControlIXPWithMemoryAdviceEnabled": "True",
   "FFlagFixiOSCommandlineChannel": "True",
   "FFlagUpgradeExpChatV4_2_6": "True",
-  "DFFlagSimThreadsafeAssemblyVelocityGetter_Rollout": "True;60;2023-11-16T17:35:56",
   "DFFlagYieldInsideSpinLoopOnPlayStation_Rollout": "True;60;2023-11-16T17:43:52",
   "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:01:43",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:30",
@@ -9183,6 +9182,8 @@
   "DFFlagEnableLogMessageTruncate_Rollout": "True;60;2023-11-16T18:27:37",
   "FFlagPropertiesWidgetDmSwitchCleanupFix": "True",
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent_Rollout": "0;10;2023-11-16T18:29:13",
+  "FFlagVideoCaptureUseWeakThis_Rollout": "True;60;2023-11-16T18:41:36",
+  "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9461,8 +9462,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "da6f83a57e2c986bb0efd0da21b0d36e6d953468",
-  "DFStringFlagRepoGitHashDynamicString": "da6f83a57e2c986bb0efd0da21b0d36e6d953468",
-  "FStringFlipTimeStampFastString": "2023-11-16T18:30:42.264Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:30:42.264Z"
+  "FStringFlagRepoGitHashFastString": "4b22bd1ae25cc9234b4f4a0975627771def3e7c7",
+  "DFStringFlagRepoGitHashDynamicString": "4b22bd1ae25cc9234b4f4a0975627771def3e7c7",
+  "FStringFlipTimeStampFastString": "2023-11-16T18:42:34.138Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:42:34.138Z"
 }
