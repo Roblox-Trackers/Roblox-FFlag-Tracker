@@ -8041,7 +8041,7 @@
   "FFlagDevFrameworkSelectInputIcon": "True",
   "FFlagDisplayTopbarSafeInsetsInStudio": "True",
   "DFFlagMd5FlagHashMethodExperiment2": "True",
-  "DFFlagYieldInsideSpinLoopOnPlayStation": "False",
+  "DFFlagYieldInsideSpinLoopOnPlayStation": "True",
   "DFFlagAtomicPlayerStarterGuiNoReset_PlaceFilter": "False;15010330779",
   "FFlagSimAdornRendererAfterPhysicsSettingsChange_PlaceFilter": "False;15010330779",
   "FFlagPlayStationConditionedRunLoop": "True",
@@ -9170,7 +9170,6 @@
   "FFlagPerformanceControlIXPWithMemoryAdviceEnabled": "True",
   "FFlagFixiOSCommandlineChannel": "True",
   "FFlagUpgradeExpChatV4_2_6": "True",
-  "DFFlagYieldInsideSpinLoopOnPlayStation_Rollout": "True;60;2023-11-16T17:43:52",
   "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:01:43",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:30",
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:33",
@@ -9573,8 +9572,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagAndroidEnableQoS": "True",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "0c3b8bf574f16002a8aef88719f71b5d545e30b8",
-  "DFStringFlagRepoGitHashDynamicString": "0c3b8bf574f16002a8aef88719f71b5d545e30b8",
-  "FStringFlipTimeStampFastString": "2023-11-16T18:49:40.232Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:49:40.232Z"
+  "FStringFlagRepoGitHashFastString": "77aca3299a651a38808bf3be3576ededa044a975",
+  "DFStringFlagRepoGitHashDynamicString": "77aca3299a651a38808bf3be3576ededa044a975",
+  "FStringFlipTimeStampFastString": "2023-11-16T18:52:11.043Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:52:11.043Z"
 }
