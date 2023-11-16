@@ -9185,7 +9185,6 @@
   "FFlagEnablePlayerCharacterDestroyBehavior": "True",
   "FFlagInstancedClusterUseExtentsCFrameWorld2": "True",
   "FFlagSimCSGV3TriangulationNormalFix2": "True",
-  "DFFlagSensorUsePrimWorld_Rollout": "True;60;2023-11-16T20:29:27",
   "DFIntLogMessageTruncateLimit": "980000",
   "FFlagLuaAppDeprecateGamesImageSetLabel": "True",
   "DFFlagCollectibleItemPurchaseDevApiLocalPromptResellAuthEnabled": "True",
@@ -9201,6 +9200,7 @@
   "DFFlagHandleProfileSyncFlushCallWithoutMemoryTracking": "True",
   "FFlagDeprecateAncientInferredCrash": "True",
   "FFlagSkipUWPSpecificInferredCrashInitialization": "True",
+  "DFFlagSensorUsePrimWorld": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9393,8 +9393,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "b9b48da1abd5821599faaaa50647a05747a94243",
-  "DFStringFlagRepoGitHashDynamicString": "b9b48da1abd5821599faaaa50647a05747a94243",
-  "FStringFlipTimeStampFastString": "2023-11-16T21:35:46.696Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T21:35:46.696Z"
+  "FStringFlagRepoGitHashFastString": "5adc354d6bb54cd773900d1a8338c17675e1e93b",
+  "DFStringFlagRepoGitHashDynamicString": "5adc354d6bb54cd773900d1a8338c17675e1e93b",
+  "FStringFlipTimeStampFastString": "2023-11-16T21:39:42.281Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T21:39:42.281Z"
 }
