@@ -9185,7 +9185,6 @@
   "FFlagEnablePlayerCharacterDestroyBehavior": "True",
   "FFlagInstancedClusterUseExtentsCFrameWorld2": "True",
   "FFlagSimCSGV3TriangulationNormalFix2": "True",
-  "FFlagTDigestNotUseSharedPtr_Rollout": "True;60;2023-11-16T20:17:38",
   "FFlagDeprecateAncientInferredCrash_Rollout": "True;60;2023-11-16T20:28:54",
   "FFlagSkipUWPSpecificInferredCrashInitialization_Rollout": "True;60;2023-11-16T20:29:05",
   "DFFlagHandleProfileSyncFlushCallWithoutMemoryTracking_Rollout": "True;60;2023-11-16T20:29:10",
@@ -9199,6 +9198,7 @@
   "FFlagDisplayCollectiblesIcon": "True",
   "DFFlagRccSetPartitionIdInCrashHandler": "True",
   "FFlagImprovedModelStreaming_PlaceFilter": "False;6698800091;5482759415",
+  "FFlagTDigestNotUseSharedPtr": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9544,8 +9544,8 @@
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagGpuGeometryManager11": "True",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "30ff4614e73a7c3f7a53ddee8d6bc57037c557b3",
-  "DFStringFlagRepoGitHashDynamicString": "30ff4614e73a7c3f7a53ddee8d6bc57037c557b3",
-  "FStringFlipTimeStampFastString": "2023-11-16T21:26:14.219Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T21:26:14.219Z"
+  "FStringFlagRepoGitHashFastString": "ccfd2aee1dac06b8de7f178464301c7d8e4f71aa",
+  "DFStringFlagRepoGitHashDynamicString": "ccfd2aee1dac06b8de7f178464301c7d8e4f71aa",
+  "FStringFlipTimeStampFastString": "2023-11-16T21:27:49.063Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T21:27:49.063Z"
 }
