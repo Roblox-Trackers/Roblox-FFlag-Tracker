@@ -8510,7 +8510,7 @@
   "FFlagStartPageContextMenuDisableArchive": "True",
   "FFlagStudioIgnoreOnboardingTemplates": "True",
   "FFlagSocialSquareTileStyleProps2": "True",
-  "FIntSessionTransitionFSMHundredthsPercent": "2500",
+  "FIntSessionTransitionFSMHundredthsPercent": "5000",
   "FFlagMaterialFrameworkUpdates": "True",
   "FFlagLuaProfileStopCallingFriendRequests": "True",
   "FFlagStudioUseOauthV1UserInfo": "True",
@@ -9478,10 +9478,9 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMacClientSupportIME9": "False",
   "FFlagEnableSocialContextToast": "True",
-  "FIntSessionTransitionFSMHundredthsPercent_Rollout": "5000;30;2023-11-16T21:07:25",
   "FFlagRenderEnableGlobalInstancingMetal_Rollout": "True;60;2023-11-16T21:33:13",
-  "FStringFlagRepoGitHashFastString": "5adc354d6bb54cd773900d1a8338c17675e1e93b",
-  "DFStringFlagRepoGitHashDynamicString": "5adc354d6bb54cd773900d1a8338c17675e1e93b",
-  "FStringFlipTimeStampFastString": "2023-11-16T21:39:42.281Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T21:39:42.281Z"
+  "FStringFlagRepoGitHashFastString": "e94434af4ac58a5665326d8d3c93831f22d33116",
+  "DFStringFlagRepoGitHashDynamicString": "e94434af4ac58a5665326d8d3c93831f22d33116",
+  "FStringFlipTimeStampFastString": "2023-11-16T21:42:20.871Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T21:42:20.871Z"
 }
