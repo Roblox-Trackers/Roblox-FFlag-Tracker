@@ -2387,7 +2387,7 @@
   "FFlagFixTextFieldNilCrash": "True",
   "FFlagUIBloxHorizontalCarouselSetState": "True",
   "FFlagShowContactImporterTooltipOnce": "True",
-  "FFlagSignalRHubConnectionKeepAliveTimeout2MetricsOnly": "True",
+  "FFlagSignalRHubConnectionKeepAliveTimeout2MetricsOnly": "False",
   "FFlagPathfindingRemoveTrackEvent": "True",
   "DFFlagVoiceChatEnablePlayerModeratedSignal": "True",
   "FFlagStudioFixSecondaryScreenMaxSizeBug": "True",
@@ -9171,7 +9171,6 @@
   "DFFlagHlsFixDurationPrecision": "True",
   "FFlagPerformanceControlIXPWithMemoryAdviceEnabled": "True",
   "FFlagFixiOSCommandlineChannel": "True",
-  "FFlagSignalRHubConnectionKeepAliveTimeout2MetricsOnly_Rollout": "False;1;2023-11-16T02:21:21",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9363,8 +9362,8 @@
   "FIntScrollingPerfTrackerKibana": "20",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
-  "FStringFlagRepoGitHashFastString": "c945920113a12c9d2e3dac923d00cfb52de95f10",
-  "DFStringFlagRepoGitHashDynamicString": "c945920113a12c9d2e3dac923d00cfb52de95f10",
-  "FStringFlipTimeStampFastString": "2023-11-16T02:21:45.672Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T02:21:45.672Z"
+  "FStringFlagRepoGitHashFastString": "be2e9e603e53f45f711e1ba4592864a9e807ec5f",
+  "DFStringFlagRepoGitHashDynamicString": "be2e9e603e53f45f711e1ba4592864a9e807ec5f",
+  "FStringFlipTimeStampFastString": "2023-11-16T02:27:10.066Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T02:27:10.066Z"
 }
