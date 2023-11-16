@@ -9180,6 +9180,7 @@
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:01:48",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:30",
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:33",
+  "FFlagEnableSessionTransitionFSM_Rollout": "True;30;2023-11-16T18:09:42",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9458,8 +9459,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "50156361e765a16bf6b43bdded4782d2ed3e6ba3",
-  "DFStringFlagRepoGitHashDynamicString": "50156361e765a16bf6b43bdded4782d2ed3e6ba3",
-  "FStringFlipTimeStampFastString": "2023-11-16T18:03:15.361Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:03:15.361Z"
+  "FStringFlagRepoGitHashFastString": "200e5771bfec8de7320af356d7ab04e38c9119b8",
+  "DFStringFlagRepoGitHashDynamicString": "200e5771bfec8de7320af356d7ab04e38c9119b8",
+  "FStringFlipTimeStampFastString": "2023-11-16T18:10:26.435Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:10:26.435Z"
 }
