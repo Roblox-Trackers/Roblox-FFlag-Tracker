@@ -5964,7 +5964,7 @@
   "FFlagEnableSurveyPrompts": "True",
   "FFlagEnableSurveyTextCustomization": "True",
   "FFlagAppShellMutedErrorOnBadUserThumbnail": "True",
-  "DFFlagLogSystemSinkSupport2": "False",
+  "DFFlagLogSystemSinkSupport2": "True",
   "FFlagCloudTestFetchTimeoutFInt": "True",
   "FFlagDetectGltfJoints": "False",
   "DFFlagControllerManagerBetterDirections": "True",
@@ -9183,7 +9183,6 @@
   "DFFlagSimResetHistoryOnTickle_Rollout": "True;60;2023-11-16T19:35:48",
   "DFFlagEnableLogMessageTruncate": "True",
   "FFlagDenseComponentToSetMap": "True",
-  "DFFlagLogSystemSinkSupport2_Rollout": "True;30;2023-11-16T19:41:52",
   "FFlagVideoCaptureUseWeakThis": "True",
   "DFFlagRccSetPartitionIdInCrashHandler_Rollout": "True;60;2023-11-16T19:56:02",
   "FFlagEnablePlayerCharacterDestroyBehavior": "True",
@@ -9465,8 +9464,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagMacClientSupportIME9": "False",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "4eb63c547bcfb1eefa26732498f25d73ec4ee949",
-  "DFStringFlagRepoGitHashDynamicString": "4eb63c547bcfb1eefa26732498f25d73ec4ee949",
-  "FStringFlipTimeStampFastString": "2023-11-16T20:15:42.252Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T20:15:42.252Z"
+  "FStringFlagRepoGitHashFastString": "d97ea660cd6e4928966eda1d787afa2df3693b9d",
+  "DFStringFlagRepoGitHashDynamicString": "d97ea660cd6e4928966eda1d787afa2df3693b9d",
+  "FStringFlipTimeStampFastString": "2023-11-16T20:17:27.698Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T20:17:27.698Z"
 }
