@@ -9174,7 +9174,6 @@
   "DFFlagEnableUnreliableTimeout": "True",
   "FFlagPropertiesWidgetDmMatchCheck": "True",
   "FFlagPropertiesWidgetDmSwitchCleanupFix": "True",
-  "FFlagVideoCaptureUseWeakThis_Rollout": "True;60;2023-11-16T18:41:36",
   "DFFlagSimThreadsafeAssemblyVelocityGetter": "True",
   "FFlagEnableSessionTransitionFSM": "True",
   "FFlagAXFixCatalogResultsListForGamepad": "True",
@@ -9188,6 +9187,7 @@
   "DFFlagEnableLogMessageTruncate": "True",
   "FFlagDenseComponentToSetMap": "True",
   "DFFlagLogSystemSinkSupport2_Rollout": "True;30;2023-11-16T19:41:52",
+  "FFlagVideoCaptureUseWeakThis": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9533,8 +9533,8 @@
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagGpuGeometryManager11": "True",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "63825eb3a200a65151a2498672cbbec29fa9842e",
-  "DFStringFlagRepoGitHashDynamicString": "63825eb3a200a65151a2498672cbbec29fa9842e",
-  "FStringFlipTimeStampFastString": "2023-11-16T19:42:56.085Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T19:42:56.085Z"
+  "FStringFlagRepoGitHashFastString": "4adce67a53b2d2d482a44c67645bbac4b50c7067",
+  "DFStringFlagRepoGitHashDynamicString": "4adce67a53b2d2d482a44c67645bbac4b50c7067",
+  "FStringFlipTimeStampFastString": "2023-11-16T19:48:37.404Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T19:48:37.404Z"
 }
