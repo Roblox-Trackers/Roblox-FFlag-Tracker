@@ -9169,8 +9169,6 @@
   "DFFlagHlsFixDurationPrecision": "True",
   "FFlagPerformanceControlIXPWithMemoryAdviceEnabled": "True",
   "FFlagFixiOSCommandlineChannel": "True",
-  "DFFlagEnableUnreliableTimeout_Rollout": "True;60;2023-11-16T17:12:12",
-  "FFlagPropertiesWidgetDmMatchCheck_Rollout": "True;60;2023-11-16T17:12:16",
   "FFlagPropertiesWidgetDmSwitchCleanupFix_Rollout": "True;60;2023-11-16T17:19:46",
   "FFlagUpgradeExpChatV4_2_6": "True",
   "DFFlagSimThreadsafeAssemblyVelocityGetter_Rollout": "True;60;2023-11-16T17:35:56",
@@ -9181,6 +9179,8 @@
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:33",
   "FFlagEnableSessionTransitionFSM_Rollout": "True;30;2023-11-16T18:09:42",
   "FFlagUseBatchRequestFriendStatus": "True",
+  "DFFlagEnableUnreliableTimeout": "True",
+  "FFlagPropertiesWidgetDmMatchCheck": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9459,8 +9459,8 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "8831b218ab33b9206dd8ce33e8600ee2456890d1",
-  "DFStringFlagRepoGitHashDynamicString": "8831b218ab33b9206dd8ce33e8600ee2456890d1",
-  "FStringFlipTimeStampFastString": "2023-11-16T18:16:41.376Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:16:41.376Z"
+  "FStringFlagRepoGitHashFastString": "240a1661c2ecee296a2cdb34543881ef76f5ff6f",
+  "DFStringFlagRepoGitHashDynamicString": "240a1661c2ecee296a2cdb34543881ef76f5ff6f",
+  "FStringFlipTimeStampFastString": "2023-11-16T18:18:18.653Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:18:18.653Z"
 }
