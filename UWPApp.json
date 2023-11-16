@@ -9181,6 +9181,7 @@
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:33",
   "FFlagEnableSessionTransitionFSM_Rollout": "True;30;2023-11-16T18:09:42",
   "FFlagUseBatchRequestFriendStatus": "True",
+  "DFFlagEnableUnreliableTimeout": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
