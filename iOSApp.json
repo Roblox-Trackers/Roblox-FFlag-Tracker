@@ -9169,7 +9169,6 @@
   "DFFlagHlsFixDurationPrecision": "True",
   "FFlagPerformanceControlIXPWithMemoryAdviceEnabled": "True",
   "FFlagFixiOSCommandlineChannel": "True",
-  "FFlagPropertiesWidgetDmSwitchCleanupFix_Rollout": "True;60;2023-11-16T17:19:46",
   "FFlagUpgradeExpChatV4_2_6": "True",
   "DFFlagSimThreadsafeAssemblyVelocityGetter_Rollout": "True;60;2023-11-16T17:35:56",
   "DFFlagYieldInsideSpinLoopOnPlayStation_Rollout": "True;60;2023-11-16T17:43:52",
@@ -9181,6 +9180,9 @@
   "DFFlagEnableUnreliableTimeout": "True",
   "FFlagPropertiesWidgetDmMatchCheck": "True",
   "FFlagDenseComponentToSetMap_Rollout": "True;60;2023-11-16T18:27:22",
+  "DFFlagEnableLogMessageTruncate_Rollout": "True;60;2023-11-16T18:27:37",
+  "FFlagPropertiesWidgetDmSwitchCleanupFix": "True",
+  "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent_Rollout": "0;10;2023-11-16T18:29:13",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9526,8 +9528,8 @@
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagGpuGeometryManager11": "True",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "e4a2c6e284ddd256dbe7e06add70375f2eff3837",
-  "DFStringFlagRepoGitHashDynamicString": "e4a2c6e284ddd256dbe7e06add70375f2eff3837",
-  "FStringFlipTimeStampFastString": "2023-11-16T18:29:33.199Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:29:33.199Z"
+  "FStringFlagRepoGitHashFastString": "da6f83a57e2c986bb0efd0da21b0d36e6d953468",
+  "DFStringFlagRepoGitHashDynamicString": "da6f83a57e2c986bb0efd0da21b0d36e6d953468",
+  "FStringFlipTimeStampFastString": "2023-11-16T18:30:42.264Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:30:42.264Z"
 }
