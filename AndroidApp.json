@@ -9182,7 +9182,6 @@
   "DFFlagEnableLogMessageTruncate": "True",
   "FFlagDenseComponentToSetMap": "True",
   "FFlagVideoCaptureUseWeakThis": "True",
-  "DFFlagRccSetPartitionIdInCrashHandler_Rollout": "True;60;2023-11-16T19:56:02",
   "FFlagEnablePlayerCharacterDestroyBehavior": "True",
   "FFlagInstancedClusterUseExtentsCFrameWorld2": "True",
   "FFlagSimCSGV3TriangulationNormalFix2": "True",
@@ -9193,6 +9192,12 @@
   "DFFlagSensorUsePrimWorld_Rollout": "True;60;2023-11-16T20:29:27",
   "DFIntLogMessageTruncateLimit": "980000",
   "FFlagLuaAppDeprecateGamesImageSetLabel": "True",
+  "DFFlagCollectibleItemPurchaseDevApiLocalPromptResellAuthEnabled": "True",
+  "DFFlagCollectibleItemPurchaseDevApiResellEnabled": "True",
+  "DFFlagCollectibleItemPurchaseResellEnabled": "True",
+  "FFlagCollectibleItemPurchaseResellNetworkEnabled": "True",
+  "FFlagDisplayCollectiblesIcon": "True",
+  "DFFlagRccSetPartitionIdInCrashHandler": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9582,8 +9587,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagAndroidEnableQoS": "True",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "5716022dd0bd9ab3be921544bd331e0dc5bce5b6",
-  "DFStringFlagRepoGitHashDynamicString": "5716022dd0bd9ab3be921544bd331e0dc5bce5b6",
-  "FStringFlipTimeStampFastString": "2023-11-16T20:52:34.021Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T20:52:34.021Z"
+  "FStringFlagRepoGitHashFastString": "615f47fe3413f326e3a0c491764d3af6744790dc",
+  "DFStringFlagRepoGitHashDynamicString": "615f47fe3413f326e3a0c491764d3af6744790dc",
+  "FStringFlipTimeStampFastString": "2023-11-16T21:03:17.114Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T21:03:17.114Z"
 }
