@@ -8704,7 +8704,7 @@
   "FFlagEnableAdPlaybackReporting2": "True",
   "FFlagEnableSmoothFullscreenZoom": "True",
   "FFlagUIListLayoutReplicateHorizontalVerticalPadding": "True",
-  "DFFlagSimResetHistoryOnTickle": "False",
+  "DFFlagSimResetHistoryOnTickle": "True",
   "FFlagAdsEnableClickAnywhereToExit": "True",
   "FFlagEnableiOSRealtimeProtocolForAllV599": "True",
   "FFlagContactListClientEnabled": "True",
@@ -9179,7 +9179,6 @@
   "FFlagAXFixCatalogResultsListForGamepad": "True",
   "FFlagACEMultiSelectionTransform2": "True",
   "FFlagLuaAppEnableExperienceDetailsPageTabletRelease": "True",
-  "DFFlagSimResetHistoryOnTickle_Rollout": "True;60;2023-11-16T19:35:48",
   "DFFlagEnableLogMessageTruncate": "True",
   "FFlagDenseComponentToSetMap": "True",
   "FFlagVideoCaptureUseWeakThis": "True",
@@ -9471,8 +9470,8 @@
   "FFlagMacClientSupportIME9": "False",
   "FFlagEnableSocialContextToast": "True",
   "FIntSessionTransitionFSMHundredthsPercent_Rollout": "2500;30;2023-11-16T20:17:43",
-  "FStringFlagRepoGitHashFastString": "0c2417b762a3d35d8ad06d34e0faa12e0d194237",
-  "DFStringFlagRepoGitHashDynamicString": "0c2417b762a3d35d8ad06d34e0faa12e0d194237",
-  "FStringFlipTimeStampFastString": "2023-11-16T20:37:23.376Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T20:37:23.376Z"
+  "FStringFlagRepoGitHashFastString": "7b8f7600b2e0784c112b6ad8d1cbfdedc9679350",
+  "DFStringFlagRepoGitHashDynamicString": "7b8f7600b2e0784c112b6ad8d1cbfdedc9679350",
+  "FStringFlipTimeStampFastString": "2023-11-16T20:42:29.136Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T20:42:29.136Z"
 }
