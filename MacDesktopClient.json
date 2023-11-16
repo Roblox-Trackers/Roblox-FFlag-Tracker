@@ -9178,7 +9178,6 @@
   "FFlagEnableSessionTransitionFSM": "True",
   "FFlagAXFixCatalogResultsListForGamepad": "True",
   "FFlagACEMultiSelectionTransform2": "True",
-  "FFlagEnablePlayerCharacterDestroyBehavior_Rollout": "True;60;2023-11-16T18:55:02",
   "FFlagInstancedClusterUseExtentsCFrameWorld2_Rollout": "True;60;2023-11-16T18:59:14",
   "FFlagSimCSGV3TriangulationNormalFix2_Rollout": "True;60;2023-11-16T19:06:46",
   "FFlagLuaAppEnableExperienceDetailsPageTabletRelease": "True",
@@ -9189,6 +9188,7 @@
   "DFFlagLogSystemSinkSupport2_Rollout": "True;30;2023-11-16T19:41:52",
   "FFlagVideoCaptureUseWeakThis": "True",
   "DFFlagRccSetPartitionIdInCrashHandler_Rollout": "True;60;2023-11-16T19:56:02",
+  "FFlagEnablePlayerCharacterDestroyBehavior": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9466,8 +9466,8 @@
   "FFlagMacClientSupportIME9": "False",
   "FFlagEnableSocialContextToast": "True",
   "FIntSessionTransitionFSMHundredthsPercent_Rollout": "500;30;2023-11-16T19:31:33",
-  "FStringFlagRepoGitHashFastString": "0aceb8ce50aa64f8e6ca25ea04b88a1e492d7b14",
-  "DFStringFlagRepoGitHashDynamicString": "0aceb8ce50aa64f8e6ca25ea04b88a1e492d7b14",
-  "FStringFlipTimeStampFastString": "2023-11-16T20:00:51.894Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T20:00:51.894Z"
+  "FStringFlagRepoGitHashFastString": "36666261587a896f4425cd3b2f49692b9682abeb",
+  "DFStringFlagRepoGitHashDynamicString": "36666261587a896f4425cd3b2f49692b9682abeb",
+  "FStringFlipTimeStampFastString": "2023-11-16T20:04:08.107Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T20:04:08.107Z"
 }
