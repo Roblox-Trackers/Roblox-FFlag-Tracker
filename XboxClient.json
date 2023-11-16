@@ -9139,7 +9139,7 @@
   "FFlagFixContextMenuExternalLink": "True",
   "FFlagLegalMessageStyleUpdate": "True",
   "FFlagStudioOnboardingStartPageCTA": "True",
-  "DFIntCollectedProbeDataThrottleHundrethsPercent": "10000",
+  "DFIntCollectedProbeDataThrottleHundrethsPercent": "3",
   "DFFlagRCCCheckCoalescedTouchEventualConsistency": "True",
   "DFFlagStepContactAsyncTouchTelemetryNewParam": "True",
   "DFIntRCCCheckCoalescedTouchEventualConsistencyInMS": "100",
@@ -9176,8 +9176,10 @@
   "FFlagUpgradeExpChatV4_2_6": "True",
   "DFFlagSimThreadsafeAssemblyVelocityGetter_Rollout": "True;60;2023-11-16T17:35:56",
   "DFFlagYieldInsideSpinLoopOnPlayStation_Rollout": "True;60;2023-11-16T17:43:52",
-  "DFIntCollectedProbeDataThrottleHundrethsPercent_Rollout": "3;10;2023-11-16T17:48:46",
   "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:01:43",
+  "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:01:48",
+  "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:30",
+  "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9519,8 +9521,8 @@
   "FFlagXboxFlagRolloutCrashImprovement": "True",
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
   "FFlagXboxCleanupArchive_Rollout": "True;30;2023-11-16T17:34:28",
-  "FStringFlagRepoGitHashFastString": "497f04cf2b20d1d38fee5d9adc2e189520b3b047",
-  "DFStringFlagRepoGitHashDynamicString": "497f04cf2b20d1d38fee5d9adc2e189520b3b047",
-  "FStringFlipTimeStampFastString": "2023-11-16T18:02:18.190Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:02:18.190Z"
+  "FStringFlagRepoGitHashFastString": "50156361e765a16bf6b43bdded4782d2ed3e6ba3",
+  "DFStringFlagRepoGitHashDynamicString": "50156361e765a16bf6b43bdded4782d2ed3e6ba3",
+  "FStringFlipTimeStampFastString": "2023-11-16T18:03:15.361Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:03:15.361Z"
 }
