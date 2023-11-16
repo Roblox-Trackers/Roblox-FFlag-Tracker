@@ -9195,7 +9195,6 @@
   "DFFlagRccSetPartitionIdInCrashHandler": "True",
   "FFlagImprovedModelStreaming_PlaceFilter": "False;6698800091;5482759415",
   "FFlagTDigestNotUseSharedPtr": "True",
-  "DFFlagCreateSetForModelDense_Rollout": "True;60;2023-11-16T21:28:48",
   "DFFlagLuauStricterUtf8": "True",
   "DFFlagHandleProfileSyncFlushCallWithoutMemoryTracking": "True",
   "FFlagDeprecateAncientInferredCrash": "True",
@@ -9206,6 +9205,7 @@
   "FFlagChangeUIBloxLoadingStrategy2": "True",
   "DFFlagNewMathSerializers_Rollout": "True;60;2023-11-16T22:08:21",
   "FFlagEnableSocialServiceIrisInviteV3_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929;12867089300;14066075418;12796376276;13989579574;12500012844;14030887154;15308759682;15309910919;15309911904",
+  "DFFlagCreateSetForModelDense": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9484,8 +9484,8 @@
   "FFlagMacClientSupportIME9": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagRenderEnableGlobalInstancingMetal_Rollout": "True;60;2023-11-16T21:33:13",
-  "FStringFlagRepoGitHashFastString": "246ec542f234b30fbd38c2ecee3fef6bf4a71112",
-  "DFStringFlagRepoGitHashDynamicString": "246ec542f234b30fbd38c2ecee3fef6bf4a71112",
-  "FStringFlipTimeStampFastString": "2023-11-16T22:36:04.730Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T22:36:04.730Z"
+  "FStringFlagRepoGitHashFastString": "2366e2d8eb75851488cb711384a9419134e5fed3",
+  "DFStringFlagRepoGitHashDynamicString": "2366e2d8eb75851488cb711384a9419134e5fed3",
+  "FStringFlipTimeStampFastString": "2023-11-16T22:40:01.079Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T22:40:01.079Z"
 }
