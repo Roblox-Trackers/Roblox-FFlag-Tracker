@@ -9056,7 +9056,7 @@
   "FFlagBatchThumbnailFetcherDoNotUsePendingUrl": "True",
   "EnableUpdatedAcknowledgePurchaseComplete": "True",
   "EnableBuildOrientedConfig": "True",
-  "FStringCAPWelcomeMessageOverride": "Hi, I\u2019m your Assistant. If you have questions about creating on Roblox, I\u2019m here to help. Need ideas? \n- Select part of a script in the Script Editor and ask me to \"Explain this code\" \n- Select a part in the scene and ask me to \"Insert a script to propel this part when touched by the player\" \n- Ask me to \"Generate a new rainbow pebble material\" \n\n I may not be able to help with everything, but I\u2019m learning. The more context you give me, the better. Use the Thumbs Up or Thumbs Down buttons to give me feedback.",
+  "FStringCAPWelcomeMessageOverride": "Hi, I\u2019m an experimental feature called Assistant. If you have questions about creating on Roblox, I\u2019m here to help. Let\u2019s get started: \n- Add a part to the scene. Select that part in the scene and ask me to \"Insert a script to propel this part when touched by the player\" \n- With the part still selected, ask me to \"Generate a new rainbow pebble material\". Click on the texture you like to apply it to the part. You can adjust the settings to get the best look. \n- Open the script we generated in Explorer by double clicking it. Highlight part of the script, right click on it and select \"Explain code\" to see what the code does \n- Press Play to try out your experience! \n\n That gives you an idea of the things I can do. I may not be able to help with everything, but I\u2019m learning. \n\n Try some prompts. The more context you give me, the better. Use the Thumbs Up or Thumbs Down buttons to give me feedback.",
   "FFlagEnableDistributionConfig": "True",
   "DFFlagPerformanceControlEnableMemoryProbing2": "True",
   "FFlagCAPTimeoutMessaging": "True",
@@ -9380,8 +9380,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "4adce67a53b2d2d482a44c67645bbac4b50c7067",
-  "DFStringFlagRepoGitHashDynamicString": "4adce67a53b2d2d482a44c67645bbac4b50c7067",
-  "FStringFlipTimeStampFastString": "2023-11-16T19:48:37.404Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T19:48:37.404Z"
+  "FStringFlagRepoGitHashFastString": "d80d0c2366e79c486eedbab602567593bf08a49c",
+  "DFStringFlagRepoGitHashDynamicString": "d80d0c2366e79c486eedbab602567593bf08a49c",
+  "FStringFlipTimeStampFastString": "2023-11-16T19:50:17.602Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T19:50:17.602Z"
 }
