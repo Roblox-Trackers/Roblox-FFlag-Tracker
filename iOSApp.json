@@ -9174,13 +9174,13 @@
   "DFFlagSimThreadsafeAssemblyVelocityGetter_Rollout": "True;60;2023-11-16T17:35:56",
   "DFFlagYieldInsideSpinLoopOnPlayStation_Rollout": "True;60;2023-11-16T17:43:52",
   "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:01:43",
-  "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:01:48",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:30",
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:33",
   "FFlagEnableSessionTransitionFSM_Rollout": "True;30;2023-11-16T18:09:42",
   "FFlagUseBatchRequestFriendStatus": "True",
   "DFFlagEnableUnreliableTimeout": "True",
   "FFlagPropertiesWidgetDmMatchCheck": "True",
+  "FFlagDenseComponentToSetMap_Rollout": "True;60;2023-11-16T18:27:22",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9526,8 +9526,8 @@
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagGpuGeometryManager11": "True",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "240a1661c2ecee296a2cdb34543881ef76f5ff6f",
-  "DFStringFlagRepoGitHashDynamicString": "240a1661c2ecee296a2cdb34543881ef76f5ff6f",
-  "FStringFlipTimeStampFastString": "2023-11-16T18:18:18.653Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:18:18.653Z"
+  "FStringFlagRepoGitHashFastString": "e4a2c6e284ddd256dbe7e06add70375f2eff3837",
+  "DFStringFlagRepoGitHashDynamicString": "e4a2c6e284ddd256dbe7e06add70375f2eff3837",
+  "FStringFlipTimeStampFastString": "2023-11-16T18:29:33.199Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:29:33.199Z"
 }

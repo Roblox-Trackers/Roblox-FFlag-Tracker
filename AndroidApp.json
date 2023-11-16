@@ -9174,7 +9174,6 @@
   "AllowVideoPreRoll": "True",
   "DFFlagYieldInsideSpinLoopOnPlayStation_Rollout": "True;60;2023-11-16T17:43:52",
   "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:01:43",
-  "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:01:48",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:30",
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent_Rollout": "10000;60;2023-11-16T18:02:33",
   "FFlagEnableSessionTransitionFSM_Rollout": "True;30;2023-11-16T18:09:42",
@@ -9570,8 +9569,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagAndroidEnableQoS": "True",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "240a1661c2ecee296a2cdb34543881ef76f5ff6f",
-  "DFStringFlagRepoGitHashDynamicString": "240a1661c2ecee296a2cdb34543881ef76f5ff6f",
-  "FStringFlipTimeStampFastString": "2023-11-16T18:18:18.653Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:18:18.653Z"
+  "FStringFlagRepoGitHashFastString": "ad785cf03b563060ec2c68906fefc75231278ab0",
+  "DFStringFlagRepoGitHashDynamicString": "ad785cf03b563060ec2c68906fefc75231278ab0",
+  "FStringFlipTimeStampFastString": "2023-11-16T18:28:33.229Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-16T18:28:33.229Z"
 }
