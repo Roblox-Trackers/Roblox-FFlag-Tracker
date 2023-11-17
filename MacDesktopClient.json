@@ -9218,6 +9218,7 @@
   "FFlagLuaAppChallengeDialogFetchDialogConditionally": "True",
   "DFFlagOversizedUnreliableItems": "True",
   "FFlagCheckPhase02WhenCheckingSupported_Rollout": "True;60;2023-11-17T18:58:51",
+  "FFlagUseParallelTypecheckInLSP2_Rollout": "True;30;2023-11-17T19:18:50",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9496,8 +9497,8 @@
   "FFlagMacClientSupportIME9": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
-  "FStringFlagRepoGitHashFastString": "7ff809452cb6c04c1d3b616971c8a14004ce91df",
-  "DFStringFlagRepoGitHashDynamicString": "7ff809452cb6c04c1d3b616971c8a14004ce91df",
-  "FStringFlipTimeStampFastString": "2023-11-17T18:59:56.844Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-17T18:59:56.844Z"
+  "FStringFlagRepoGitHashFastString": "8987855898b4bff63a68e5dedf6f1264549a5d69",
+  "DFStringFlagRepoGitHashDynamicString": "8987855898b4bff63a68e5dedf6f1264549a5d69",
+  "FStringFlipTimeStampFastString": "2023-11-17T19:19:39.220Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-17T19:19:39.220Z"
 }
