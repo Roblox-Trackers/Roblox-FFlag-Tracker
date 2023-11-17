@@ -9010,7 +9010,7 @@
   "FixAudioDeviceCrash": "True",
   "FFlagScriptProfilerSessionLength": "True",
   "DFFlagEnableMessageRouterMigration": "False",
-  "DFFlagEnableMessageRouterMigration_PlaceFilter": "True;15297586239;4572547530;14237218987;13967668166;12509674646;8147712744;4282985734",
+  "DFFlagEnableMessageRouterMigration_PlaceFilter": "True;15297586239;4572547530;14237218987;13967668166;12509674646;8147712744;4282985734;7774892351",
   "FFlagACERigUtilsMigration3": "True",
   "FFlagScaleToVelocityFix2": "True",
   "FFlagMoveNonRtlToUseSegment": "True",
@@ -9060,7 +9060,7 @@
   "FFlagEnableDistributionConfig": "True",
   "DFFlagPerformanceControlEnableMemoryProbing2": "True",
   "FFlagCAPTimeoutMessaging": "True",
-  "FFlagFocusScrollAreaOnNewMessage": "True",
+  "FFlagFocusScrollAreaOnNewMessage": "False",
   "FFlagLuaAppSessionUseGetActiveRoute2": "True",
   "FFlagBetaSupportAutoenrollSetting": "True",
   "FLogStudioQtCategoryLog_qtitan_docking": "Verbose",
@@ -9494,8 +9494,8 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FIntSessionTransitionFSMHundredthsPercent_Rollout": "10000;30;2023-11-17T00:21:29",
-  "FStringFlagRepoGitHashFastString": "c3e2e28ef4936053d6ecc4b2666c3e5592d4a601",
-  "DFStringFlagRepoGitHashDynamicString": "c3e2e28ef4936053d6ecc4b2666c3e5592d4a601",
-  "FStringFlipTimeStampFastString": "2023-11-17T00:44:27.978Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-17T00:44:27.978Z"
+  "FStringFlagRepoGitHashFastString": "0253205d75791a4b71421a204c380d9a01300c10",
+  "DFStringFlagRepoGitHashDynamicString": "0253205d75791a4b71421a204c380d9a01300c10",
+  "FStringFlipTimeStampFastString": "2023-11-17T00:46:35.028Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-17T00:46:35.028Z"
 }
