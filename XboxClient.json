@@ -9206,8 +9206,6 @@
   "DFFlagVoiceAndAvatarChatPermissionsRetryEnabled": "True",
   "DFFlagBankSync": "True",
   "DFFlagNewMathSerializers": "True",
-  "DFFlagAddTeamCreateStatToTTStats_Rollout": "True;60;2023-11-16T23:34:59",
-  "FFlagAdsEnableFullscreenPermission_Rollout": "True;60;2023-11-16T23:36:31",
   "DFFlagBypassCallToIXP": "True",
   "FFlagAvatarPreviewerFixMultiplePartHandling": "True",
   "FFlagShadowMapOrbisUseSingleMoment_Rollout": "True;60;2023-11-16T23:52:45",
@@ -9217,6 +9215,8 @@
   "DFIntStreamingSolverMapModifyCountsHundredthsPercentage_Rollout": "1000;60;2023-11-17T00:27:17",
   "FFlagRenderFullTransparentUniqueEntityFix": "True",
   "FFlagPendingLinkEvent2": "True",
+  "FFlagAdsEnableFullscreenPermission": "True",
+  "DFFlagAddTeamCreateStatToTTStats": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9559,8 +9559,8 @@
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
   "FFlagGpuGeometryManager11": "True",
-  "FStringFlagRepoGitHashFastString": "74afc1cd985afcf2f11ad6e41028e94616aada0e",
-  "DFStringFlagRepoGitHashDynamicString": "74afc1cd985afcf2f11ad6e41028e94616aada0e",
-  "FStringFlipTimeStampFastString": "2023-11-17T00:38:18.830Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-17T00:38:18.830Z"
+  "FStringFlagRepoGitHashFastString": "116c873ff41ec580795b9b732b1e89f8f068e5a6",
+  "DFStringFlagRepoGitHashDynamicString": "116c873ff41ec580795b9b732b1e89f8f068e5a6",
+  "FStringFlipTimeStampFastString": "2023-11-17T00:42:48.656Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-17T00:42:48.656Z"
 }
