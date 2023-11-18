@@ -6398,7 +6398,7 @@
   "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "500",
   "FStringDebugCollectQtDiagnosticsPrefix": "QObject::connect",
   "FFlag9SliceEditorShorterLoadTime": "True",
-  "DFFlagFlagRolloutTestDynamicBool0": "False",
+  "DFFlagFlagRolloutTestDynamicBool0": "True",
   "FFlagUserSearchLayerPassAllProps": "True",
   "FFlagPlayerSearchNewEmptyPageEnabled_v3": "True",
   "FFlagUnifyAddFriendsPageRouterName": "True",
@@ -9217,7 +9217,6 @@
   "FFlagSTFSMDisableLateCrashEvaluation": "True",
   "FFlagCheckPhase02WhenCheckingSupported": "True",
   "FFlagScriptEditorPreciseTooltipPos": "True",
-  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2023-11-17T23:29:35",
   "FFlagDebugFmodEnableInputProcessingPatch": "False",
   "FFlagDebugFmodEnableInputProcessingPatch_PlaceFilter": "True;9174692858",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9498,8 +9497,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagRefactorGuiRTCacheImpl2": "False",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "b1f145ab999b377b6738d0dcd75d63062754554c",
-  "DFStringFlagRepoGitHashDynamicString": "b1f145ab999b377b6738d0dcd75d63062754554c",
-  "FStringFlipTimeStampFastString": "2023-11-18T00:31:49.433Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-18T00:31:49.433Z"
+  "FStringFlagRepoGitHashFastString": "7cfa08da90f9dd598d0be89586bd3b07b688536f",
+  "DFStringFlagRepoGitHashDynamicString": "7cfa08da90f9dd598d0be89586bd3b07b688536f",
+  "FStringFlipTimeStampFastString": "2023-11-18T00:37:02.383Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-18T00:37:02.383Z"
 }
