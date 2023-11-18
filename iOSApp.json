@@ -4604,7 +4604,7 @@
   "FFlagSupportOffCenterOriginClickDrag": "True",
   "FFlagSupportOffCenterOriginTriangleMeshComputeExtents": "True",
   "DFFlagFlagRolloutTestDynamicBool3": "False",
-  "FFlagFlagRolloutTestStaticBool0": "True",
+  "FFlagFlagRolloutTestStaticBool0": "False",
   "FFlagFlagRolloutTestStaticBool1": "False",
   "FFlagFlagRolloutTestStaticBool3": "True",
   "FFlagFlagRolloutTestStaticBool4": "False",
@@ -9217,7 +9217,6 @@
   "FFlagSTFSMDisableLateCrashEvaluation": "True",
   "FFlagCheckPhase02WhenCheckingSupported": "True",
   "FFlagScriptEditorPreciseTooltipPos": "True",
-  "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2023-11-17T23:24:40",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2023-11-17T23:29:35",
   "FFlagDebugFmodEnableInputProcessingPatch": "False",
   "FFlagDebugFmodEnableInputProcessingPatch_PlaceFilter": "True;9174692858",
@@ -9567,8 +9566,8 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagUpdateCheckOnLogin": "True",
-  "FStringFlagRepoGitHashFastString": "33f18e1eef5b5bed6eaa3d3f402defc7656886c9",
-  "DFStringFlagRepoGitHashDynamicString": "33f18e1eef5b5bed6eaa3d3f402defc7656886c9",
-  "FStringFlipTimeStampFastString": "2023-11-17T23:39:02.577Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-17T23:39:02.577Z"
+  "FStringFlagRepoGitHashFastString": "b1f145ab999b377b6738d0dcd75d63062754554c",
+  "DFStringFlagRepoGitHashDynamicString": "b1f145ab999b377b6738d0dcd75d63062754554c",
+  "FStringFlipTimeStampFastString": "2023-11-18T00:31:49.433Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-18T00:31:49.433Z"
 }
