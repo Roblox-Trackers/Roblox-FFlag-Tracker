@@ -9028,7 +9028,7 @@
   "FFlagFixJapaneseIMECommitMac": "True",
   "FFlagVoiceChatEnableIrisMuteStateFix": "True",
   "EnablePlayIntegrityTokenProvider": "True",
-  "FFlagWebRtcStackEnableLimits": "True",
+  "FFlagWebRtcStackEnableLimits": "False",
   "DFIntEditableMeshUnpublishLoggingHundredthsPercentage": "10000",
   "DFIntEditableMeshUnpublishTrackingHundredthsPercentage": "1000",
   "FFlagRemoveInitLuaAppInJNI": "True",
@@ -9411,8 +9411,8 @@
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
-  "FStringFlagRepoGitHashFastString": "03bb58b266f3a828c952dce1afd4d0de682a31ca",
-  "DFStringFlagRepoGitHashDynamicString": "03bb58b266f3a828c952dce1afd4d0de682a31ca",
-  "FStringFlipTimeStampFastString": "2023-11-18T02:13:29.693Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-18T02:13:29.693Z"
+  "FStringFlagRepoGitHashFastString": "2c5af7457bb1064b8fc80fd6798020e5731bba0b",
+  "DFStringFlagRepoGitHashDynamicString": "2c5af7457bb1064b8fc80fd6798020e5731bba0b",
+  "FStringFlipTimeStampFastString": "2023-11-18T03:17:24.492Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-18T03:17:24.492Z"
 }
