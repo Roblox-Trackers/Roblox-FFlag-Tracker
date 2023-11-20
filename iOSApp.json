@@ -9219,6 +9219,7 @@
   "FFlagDebugFmodEnableInputProcessingPatch": "False",
   "FFlagDebugFmodEnableInputProcessingPatch_PlaceFilter": "True;9174692858",
   "DFIntSecretsStoreFetchTimeoutMs_Rollout": "4000;30;2023-11-20T17:16:15",
+  "DFFlagPlayerCharacterDestroyBehaviorProperty_Rollout": "True;60;2023-11-20T17:36:02",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9565,8 +9566,8 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagUpdateCheckOnLogin": "True",
-  "FStringFlagRepoGitHashFastString": "ead3b18645437e2f2c8e19c4da2fedd9337e9312",
-  "DFStringFlagRepoGitHashDynamicString": "ead3b18645437e2f2c8e19c4da2fedd9337e9312",
-  "FStringFlipTimeStampFastString": "2023-11-20T17:16:50.066Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T17:16:50.066Z"
+  "FStringFlagRepoGitHashFastString": "1fb70227c2f24328abe82b08d707e65f556119d7",
+  "DFStringFlagRepoGitHashDynamicString": "1fb70227c2f24328abe82b08d707e65f556119d7",
+  "FStringFlipTimeStampFastString": "2023-11-20T17:36:27.138Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T17:36:27.138Z"
 }
