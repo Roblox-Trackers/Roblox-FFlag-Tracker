@@ -8847,7 +8847,7 @@
   "FFlagPermissionsEarlyOutStallsQueue": "True",
   "FFlagSelfViewCameraDefaultButtonInViewPort": "True",
   "FFlagUseCameraDeviceGrantedSignal": "True",
-  "FFlagEmoteMenuSupportScriptRunContext": "False",
+  "FFlagEmoteMenuSupportScriptRunContext": "True",
   "FFlagPCMFriendshipOriginType_v2": "True",
   "FFlagCatalogAdaptiveScrollingIXPEnabled4": "True",
   "EnableProductDetailsNotSupportedCheck": "True",
@@ -9230,6 +9230,7 @@
   "DFFlagPlayerCharacterDestroyBehaviorProperty": "True",
   "FFlagTextureManagerOrbisUseDxtAssetFormat_Rollout": "True;30;2023-11-20T18:51:48",
   "FFlagEnableAEScrollingListSelectionFix": "True",
+  "FFlagVoiceInputUseNewAudioApi4_PlaceFilter": "True;15382034501",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9509,8 +9510,8 @@
   "FFlagRefactorGuiRTCacheImpl2": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "a263f8f6af0a2a31eeedab5d27a85893978c48cc",
-  "DFStringFlagRepoGitHashDynamicString": "a263f8f6af0a2a31eeedab5d27a85893978c48cc",
-  "FStringFlipTimeStampFastString": "2023-11-20T18:57:22.575Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T18:57:22.575Z"
+  "FStringFlagRepoGitHashFastString": "9de52b33eea3d4c56c39c38e915fd565d4c07f24",
+  "DFStringFlagRepoGitHashDynamicString": "9de52b33eea3d4c56c39c38e915fd565d4c07f24",
+  "FStringFlipTimeStampFastString": "2023-11-20T18:58:40.362Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T18:58:40.362Z"
 }
