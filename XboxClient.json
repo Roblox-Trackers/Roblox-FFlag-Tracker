@@ -9240,7 +9240,6 @@
   "FFlagRoactChatRefactorNavigation": "True",
   "DFIntUnreliableItemTimeoutMs": "500",
   "DFIntEventDualWriteToV2CounterHundredthsPercent": "10000",
-  "FFlagFixMismatchTelemetryFields_Rollout": "True;60;2023-11-20T22:04:24",
   "FFlagEnableCreateUGCBundleCreationFeeErrorCodes2": "True",
   "FFlagNoReloadEditorFromSourceCorrectDraftMode": "True",
   "DFFlagUseNewTextWrappedPropertyChangedSignal": "True",
@@ -9249,6 +9248,7 @@
   "FFlagEnableWidgetTiles": "True",
   "FFlagRestructureWidgetsReducer": "True",
   "FFlagStoreWidgetHydrationData": "True",
+  "FFlagFixMismatchTelemetryFields": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9589,8 +9589,8 @@
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
-  "FStringFlagRepoGitHashFastString": "b7b387349ec9df08743cc57dba6b9168222a0471",
-  "DFStringFlagRepoGitHashDynamicString": "b7b387349ec9df08743cc57dba6b9168222a0471",
-  "FStringFlipTimeStampFastString": "2023-11-20T22:57:20.068Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T22:57:20.068Z"
+  "FStringFlagRepoGitHashFastString": "f1d84f35bf0d1b52575631ece7af270f4fd8b76b",
+  "DFStringFlagRepoGitHashDynamicString": "f1d84f35bf0d1b52575631ece7af270f4fd8b76b",
+  "FStringFlipTimeStampFastString": "2023-11-20T23:11:53.782Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T23:11:53.782Z"
 }
