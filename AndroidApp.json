@@ -9218,7 +9218,6 @@
   "FFlagScriptEditorPreciseTooltipPos": "True",
   "FFlagDebugFmodEnableInputProcessingPatch": "False",
   "FFlagDebugFmodEnableInputProcessingPatch_PlaceFilter": "True;9174692858",
-  "DFFlagPlayerCharacterDestroyBehaviorProperty_Rollout": "True;60;2023-11-20T17:36:02",
   "DFIntSecretsStoreFetchTimeoutMs": "4000",
   "FFlagLuaAppFixCloseGameDetailsPage": "True",
   "FFlagSelfViewFixes": "True",
@@ -9228,6 +9227,7 @@
   "FFlagReportExitReason_Rollout": "True;60;2023-11-20T18:02:38",
   "FFlagReportSessionResultV2_Rollout": "True;60;2023-11-20T18:02:38",
   "DFFlagDebugEvaluationSuppressDebugCallback_Rollout": "True;60;2023-11-20T18:15:25",
+  "DFFlagPlayerCharacterDestroyBehaviorProperty": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9619,8 +9619,8 @@
   "FFlagEnableSocialContextToast": "True",
   "DFIntCriticalThermalStatusThreshold_Rollout": "4;60;2023-11-20T18:02:38",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "867d09a09328455278e4d6df47e0c85049c1923e",
-  "DFStringFlagRepoGitHashDynamicString": "867d09a09328455278e4d6df47e0c85049c1923e",
-  "FStringFlipTimeStampFastString": "2023-11-20T18:40:38.496Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T18:40:38.496Z"
+  "FStringFlagRepoGitHashFastString": "502e3a7cfd401c3a3448adc3590facd64596b4e9",
+  "DFStringFlagRepoGitHashDynamicString": "502e3a7cfd401c3a3448adc3590facd64596b4e9",
+  "FStringFlipTimeStampFastString": "2023-11-20T18:46:40.197Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T18:46:40.197Z"
 }
