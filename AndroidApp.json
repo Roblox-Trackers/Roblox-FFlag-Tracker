@@ -8519,7 +8519,7 @@
   "FFlagACESortEventsTooltip": "True",
   "DFFlagReportPostJoinSetsStats": "True",
   "DFFlagFixKibanaAssertOnMapFields": "True",
-  "FFlagEnableSocialServiceIrisInviteV3": "False",
+  "FFlagEnableSocialServiceIrisInviteV3": "True",
   "FFlagUIListLayoutUseHorizontalVerticalPaddingAsSourceOfTruth": "True",
   "FFlagLuaAppHomeJoinYourFriendsAlwaysWithFindFriends": "True",
   "CleanupHttpAgentOnRestart": "True",
@@ -9195,7 +9195,6 @@
   "FFlagSkipUWPSpecificInferredCrashInitialization": "True",
   "DFFlagSensorUsePrimWorld": "True",
   "FFlagChangeUIBloxLoadingStrategy2": "True",
-  "FFlagEnableSocialServiceIrisInviteV3_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929;12867089300;14066075418;12796376276;13989579574;12500012844;14030887154;15308759682;15309910919;15309911904",
   "DFFlagCreateSetForModelDense": "True",
   "DFFlagVoiceAndAvatarChatPermissionsRetryEnabled": "True",
   "DFFlagBankSync": "True",
@@ -9628,8 +9627,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "4",
   "FIntSessionTransitionFSMHundredthsPercent_Rollout": "1000;60;2023-11-20T19:31:26",
-  "FStringFlagRepoGitHashFastString": "8e524f910a34d19af91c1206fc280278ba8348a8",
-  "DFStringFlagRepoGitHashDynamicString": "8e524f910a34d19af91c1206fc280278ba8348a8",
-  "FStringFlipTimeStampFastString": "2023-11-20T19:59:58.461Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T19:59:58.461Z"
+  "FStringFlagRepoGitHashFastString": "d20b4cc7c755a6bb308fc79ea3a316e2938212e0",
+  "DFStringFlagRepoGitHashDynamicString": "d20b4cc7c755a6bb308fc79ea3a316e2938212e0",
+  "FStringFlipTimeStampFastString": "2023-11-20T20:02:46.943Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T20:02:46.943Z"
 }
