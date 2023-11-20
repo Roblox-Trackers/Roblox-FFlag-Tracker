@@ -9235,6 +9235,8 @@
   "FIntAudioEmitterPannerMinDistanceNumerator_Rollout": "4;60;2023-11-20T19:21:20",
   "FFlagTextureManagerOrbisUseDxtAssetFormat": "True",
   "DFFlagEnableDualWriteEventCrashToV2Counter_Rollout": "False;60;2023-11-20T19:52:13",
+  "DFFlagEnableDualWriteEphemeralCounterCrashToV2Counter_Rollout": "False;60;2023-11-20T19:53:16",
+  "FFlagPushKitKeyLoggedInCheckV2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9514,8 +9516,8 @@
   "FFlagRefactorGuiRTCacheImpl2": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "78275b7d02d57f89a77e482b428991d13bc619a8",
-  "DFStringFlagRepoGitHashDynamicString": "78275b7d02d57f89a77e482b428991d13bc619a8",
-  "FStringFlipTimeStampFastString": "2023-11-20T19:52:51.323Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T19:52:51.323Z"
+  "FStringFlagRepoGitHashFastString": "7b3edbeef4b2909e73ad010e9dffdc5bbeaf0c1a",
+  "DFStringFlagRepoGitHashDynamicString": "7b3edbeef4b2909e73ad010e9dffdc5bbeaf0c1a",
+  "FStringFlipTimeStampFastString": "2023-11-20T19:53:59.998Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T19:53:59.998Z"
 }
