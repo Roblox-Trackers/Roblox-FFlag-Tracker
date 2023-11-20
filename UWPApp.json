@@ -1367,9 +1367,9 @@
   "FFlagCreateAnimationFromVideoBetaFeature": "True",
   "FIntCreateAnimationFromVideoBetaFeatureRoleSet": "4",
   "FIntCreateAnimationFromVideoBetaFeatureRolloutPercent": "0",
-  "DFStringHttpRetryOverridesDsv2": "",
+  "DFStringHttpRetryOverridesDsv2": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6",
   "DFStringHttpRetryOverridesDsv2_PlaceFilter": "429:GET:api.roblox.com:/marketplace/game-pass-product-info:none::;8357510970",
-  "FStringHttpRetryOverridesDsv2Static": "",
+  "FStringHttpRetryOverridesDsv2Static": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6",
   "FStringHttpRetryOverridesDsv2Static_PlaceFilter": "429:GET:api.roblox.com:/marketplace/game-pass-product-info:none::;8357510970",
   "DFFlagReportTopReplicationContainerAndAvatarStats": "True",
   "DFIntReportTopReplicationContainerAndAvatarStatsHundredths": "1",
@@ -9238,8 +9238,6 @@
   "FFlagRoactChatRefactorChatParticipantSelectionContainers": "True",
   "FFlagRoactChatRefactorGameCardContainers": "True",
   "FFlagRoactChatRefactorNavigation": "True",
-  "DFStringHttpRetryOverridesDsv2_Rollout": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6;60;2023-11-20T21:16:00",
-  "FStringHttpRetryOverridesDsv2Static_Rollout": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6;60;2023-11-20T21:16:00",
   "DFIntUnreliableItemTimeoutMs": "500",
   "FFlagConvAIEnableSequentialNumberCheck_Rollout": "True;60;2023-11-20T21:34:25",
   "DFIntEventDualWriteToV2CounterHundredthsPercent": "10000",
@@ -9439,8 +9437,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "556c0a2f7f87ac0a702ee0eb076ece29edeb7c32",
-  "DFStringFlagRepoGitHashDynamicString": "556c0a2f7f87ac0a702ee0eb076ece29edeb7c32",
-  "FStringFlipTimeStampFastString": "2023-11-20T22:23:29.141Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T22:23:29.141Z"
+  "FStringFlagRepoGitHashFastString": "e79107731d59baad25116446a907cddf8dfa44c5",
+  "DFStringFlagRepoGitHashDynamicString": "e79107731d59baad25116446a907cddf8dfa44c5",
+  "FStringFlipTimeStampFastString": "2023-11-20T22:32:25.387Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T22:32:25.387Z"
 }
