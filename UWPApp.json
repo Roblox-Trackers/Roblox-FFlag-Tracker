@@ -9240,6 +9240,8 @@
   "FFlagRoactChatRefactorChatParticipantSelectionContainers": "True",
   "FFlagRoactChatRefactorGameCardContainers": "True",
   "FFlagRoactChatRefactorNavigation": "True",
+  "DFStringHttpRetryOverridesDsv2_Rollout": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6;60;2023-11-20T21:16:00",
+  "FStringHttpRetryOverridesDsv2Static_Rollout": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6;60;2023-11-20T21:16:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9433,8 +9435,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "e5b583aeec148587f98b271b973c824d5a277e0e",
-  "DFStringFlagRepoGitHashDynamicString": "e5b583aeec148587f98b271b973c824d5a277e0e",
-  "FStringFlipTimeStampFastString": "2023-11-20T21:07:28.755Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T21:07:28.755Z"
+  "FStringFlagRepoGitHashFastString": "aad4f95a62b2add363ef80950655bc3061268aa7",
+  "DFStringFlagRepoGitHashDynamicString": "aad4f95a62b2add363ef80950655bc3061268aa7",
+  "FStringFlipTimeStampFastString": "2023-11-20T21:16:26.448Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T21:16:26.448Z"
 }
