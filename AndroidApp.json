@@ -9227,6 +9227,7 @@
   "DFIntCriticalBatteryLevelPercentage_Rollout": "5;60;2023-11-20T18:02:38",
   "FFlagReportExitReason_Rollout": "True;60;2023-11-20T18:02:38",
   "FFlagReportSessionResultV2_Rollout": "True;60;2023-11-20T18:02:38",
+  "DFFlagDebugEvaluationSuppressDebugCallback_Rollout": "True;60;2023-11-20T18:15:25",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9617,8 +9618,8 @@
   "FFlagAndroidEnableQoS": "True",
   "FFlagEnableSocialContextToast": "True",
   "DFIntCriticalThermalStatusThreshold_Rollout": "4;60;2023-11-20T18:02:38",
-  "FStringFlagRepoGitHashFastString": "882d0e642168f500c2cbe3c06bb08054b6297ce0",
-  "DFStringFlagRepoGitHashDynamicString": "882d0e642168f500c2cbe3c06bb08054b6297ce0",
-  "FStringFlipTimeStampFastString": "2023-11-20T18:03:50.713Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T18:03:50.713Z"
+  "FStringFlagRepoGitHashFastString": "c7799827e35473906d0fd348a61811dce195202f",
+  "DFStringFlagRepoGitHashDynamicString": "c7799827e35473906d0fd348a61811dce195202f",
+  "FStringFlipTimeStampFastString": "2023-11-20T18:15:59.638Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T18:15:59.638Z"
 }
