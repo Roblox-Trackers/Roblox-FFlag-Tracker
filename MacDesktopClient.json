@@ -9245,6 +9245,7 @@
   "DFIntEventDualWriteToV2CounterHundredthsPercent": "10000",
   "FFlagFixMismatchTelemetryFields_Rollout": "True;60;2023-11-20T22:04:24",
   "DFFlagUseNewTextWrappedPropertyChangedSignal_Rollout": "True;30;2023-11-20T22:07:08",
+  "FFlagEnableCreateUGCBundleCreationFeeErrorCodes2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9524,8 +9525,8 @@
   "FFlagMacClientSupportIME9": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "90d2cf569e96db82609fa4db6dd16f3915103b95",
-  "DFStringFlagRepoGitHashDynamicString": "90d2cf569e96db82609fa4db6dd16f3915103b95",
-  "FStringFlipTimeStampFastString": "2023-11-20T22:13:40.178Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T22:13:40.178Z"
+  "FStringFlagRepoGitHashFastString": "556c0a2f7f87ac0a702ee0eb076ece29edeb7c32",
+  "DFStringFlagRepoGitHashDynamicString": "556c0a2f7f87ac0a702ee0eb076ece29edeb7c32",
+  "FStringFlipTimeStampFastString": "2023-11-20T22:23:29.141Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T22:23:29.141Z"
 }
