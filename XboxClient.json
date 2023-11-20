@@ -9233,7 +9233,6 @@
   "DFFlagDebugEvaluationSuppressDebugCallback": "True",
   "FFlagTextureManagerOrbisUseDxtAssetFormat": "True",
   "FFlagPushKitKeyLoggedInCheckV2": "True",
-  "DFIntUnreliableItemTimeoutMs_Rollout": "500;60;2023-11-20T20:28:37",
   "DFIntEventDualWriteToV2CounterHundredthsPercent_Rollout": "10000;60;2023-11-20T20:55:19",
   "FFlagRoactChatRefactorChatDetailDialogComponents": "True",
   "FFlagRoactChatRefactorChatDetailsDialogContainers": "True",
@@ -9242,6 +9241,7 @@
   "FFlagRoactChatRefactorNavigation": "True",
   "DFStringHttpRetryOverridesDsv2_Rollout": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6;60;2023-11-20T21:16:00",
   "FStringHttpRetryOverridesDsv2Static_Rollout": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6;60;2023-11-20T21:16:00",
+  "DFIntUnreliableItemTimeoutMs": "500",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9582,8 +9582,8 @@
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
-  "FStringFlagRepoGitHashFastString": "aad4f95a62b2add363ef80950655bc3061268aa7",
-  "DFStringFlagRepoGitHashDynamicString": "aad4f95a62b2add363ef80950655bc3061268aa7",
-  "FStringFlipTimeStampFastString": "2023-11-20T21:16:26.448Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T21:16:26.448Z"
+  "FStringFlagRepoGitHashFastString": "d778f26ac3f0a94ddcc20d71b91b0540f0ab04e9",
+  "DFStringFlagRepoGitHashDynamicString": "d778f26ac3f0a94ddcc20d71b91b0540f0ab04e9",
+  "FStringFlipTimeStampFastString": "2023-11-20T21:34:00.704Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T21:34:00.704Z"
 }
