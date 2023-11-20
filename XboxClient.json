@@ -9221,7 +9221,6 @@
   "DFIntSecretsStoreFetchTimeoutMs": "4000",
   "FFlagLuaAppFixCloseGameDetailsPage": "True",
   "FFlagSelfViewFixes": "True",
-  "DFFlagDebugEvaluationSuppressDebugCallback_Rollout": "True;60;2023-11-20T18:15:25",
   "DFFlagPlayerCharacterDestroyBehaviorProperty": "True",
   "FFlagTextureManagerOrbisUseDxtAssetFormat_Rollout": "True;30;2023-11-20T18:51:48",
   "FFlagEnableAEScrollingListSelectionFix": "True",
@@ -9233,6 +9232,8 @@
   "FFlagReportSessionResultV2": "True",
   "FFlagEnableAgeReportingLogging": "True",
   "FFlagIrisUpdateCurrentCallRemoteEventEnabled2": "True",
+  "DFFlagDebugEvaluationSuppressDebugCallback": "True",
+  "FIntAudioEmitterPannerMinDistanceNumerator_Rollout": "4;60;2023-11-20T19:21:20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9573,8 +9574,8 @@
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
-  "FStringFlagRepoGitHashFastString": "82782d7978c6b7167a7138b6d2401c86775f832d",
-  "DFStringFlagRepoGitHashDynamicString": "82782d7978c6b7167a7138b6d2401c86775f832d",
-  "FStringFlipTimeStampFastString": "2023-11-20T19:19:26.530Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T19:19:26.530Z"
+  "FStringFlagRepoGitHashFastString": "7c12efd0700d7f7f7e09e390d93c73514e6b9bfc",
+  "DFStringFlagRepoGitHashDynamicString": "7c12efd0700d7f7f7e09e390d93c73514e6b9bfc",
+  "FStringFlipTimeStampFastString": "2023-11-20T19:22:02.668Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T19:22:02.668Z"
 }
