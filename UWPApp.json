@@ -768,7 +768,7 @@
   "DFLogRuppTokenClientLog": "0",
   "DFLogRuppTokenClientLog_DataCenterFilter": "12;349;316",
   "DFLogRuppTokenLog": "0",
-  "DFLogRuppTokenLog_DataCenterFilter": "12;349;316;384",
+  "DFLogRuppTokenLog_DataCenterFilter": "12;349;316;384;191",
   "DFIntLuaGcMaxKb": "200",
   "FFlagEnableVoiceChatDeviceChangeDebounce": "True",
   "FFlagLuaAppPlayerSearchFixResultForSensitive": "True",
@@ -9222,7 +9222,6 @@
   "FFlagLuaAppFixCloseGameDetailsPage": "True",
   "FFlagSelfViewFixes": "True",
   "DFFlagPlayerCharacterDestroyBehaviorProperty": "True",
-  "FFlagTextureManagerOrbisUseDxtAssetFormat_Rollout": "True;30;2023-11-20T18:51:48",
   "FFlagEnableAEScrollingListSelectionFix": "True",
   "FFlagVoiceInputUseNewAudioApi4_PlaceFilter": "True;15382034501",
   "DFFlagBatteryLevelCriticalOnlyWhenNotCharging": "True",
@@ -9234,6 +9233,7 @@
   "FFlagIrisUpdateCurrentCallRemoteEventEnabled2": "True",
   "DFFlagDebugEvaluationSuppressDebugCallback": "True",
   "FIntAudioEmitterPannerMinDistanceNumerator_Rollout": "4;60;2023-11-20T19:21:20",
+  "FFlagTextureManagerOrbisUseDxtAssetFormat": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9427,8 +9427,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "7c12efd0700d7f7f7e09e390d93c73514e6b9bfc",
-  "DFStringFlagRepoGitHashDynamicString": "7c12efd0700d7f7f7e09e390d93c73514e6b9bfc",
-  "FStringFlipTimeStampFastString": "2023-11-20T19:22:02.668Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T19:22:02.668Z"
+  "FStringFlagRepoGitHashFastString": "a69ac26dc66f1fa142be6f8141d119f1d1dd5b75",
+  "DFStringFlagRepoGitHashDynamicString": "a69ac26dc66f1fa142be6f8141d119f1d1dd5b75",
+  "FStringFlipTimeStampFastString": "2023-11-20T19:27:12.442Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T19:27:12.442Z"
 }
