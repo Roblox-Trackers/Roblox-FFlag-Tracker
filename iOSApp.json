@@ -8223,7 +8223,7 @@
   "FStringEasierUnmutingIXPLayerValueTCS": "VoiceEasierUnmutingEnabled",
   "FStringAXDefaultAvatarToShopLayer3": "AvatarMarketplace.ShoppingCart",
   "FFlagFixPlayerListOpenOnLaunch": "True",
-  "FFlagRoactChatRefactorChatDetailsPageEnabled": "False",
+  "FFlagRoactChatRefactorChatDetailsPageEnabled": "True",
   "DFFlagFixUnder13": "True",
   "DFIntOptimizeAutosaveIntervalRolloutPercentage": "50",
   "FFlagAssetImportRefactorUiComponents": "True",
@@ -9235,6 +9235,11 @@
   "FFlagPushKitKeyLoggedInCheckV2": "True",
   "DFIntUnreliableItemTimeoutMs_Rollout": "500;60;2023-11-20T20:28:37",
   "DFIntEventDualWriteToV2CounterHundredthsPercent_Rollout": "10000;60;2023-11-20T20:55:19",
+  "FFlagRoactChatRefactorChatDetailDialogComponents": "True",
+  "FFlagRoactChatRefactorChatDetailsDialogContainers": "True",
+  "FFlagRoactChatRefactorChatParticipantSelectionContainers": "True",
+  "FFlagRoactChatRefactorGameCardContainers": "True",
+  "FFlagRoactChatRefactorNavigation": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9583,8 +9588,8 @@
   "FFlagUpdateCheckOnLogin": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "3",
-  "FStringFlagRepoGitHashFastString": "924f3d2485a6ffb41b1797078703b69d2bcb8b52",
-  "DFStringFlagRepoGitHashDynamicString": "924f3d2485a6ffb41b1797078703b69d2bcb8b52",
-  "FStringFlipTimeStampFastString": "2023-11-20T21:05:22.149Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-20T21:05:22.149Z"
+  "FStringFlagRepoGitHashFastString": "e5b583aeec148587f98b271b973c824d5a277e0e",
+  "DFStringFlagRepoGitHashDynamicString": "e5b583aeec148587f98b271b973c824d5a277e0e",
+  "FStringFlipTimeStampFastString": "2023-11-20T21:07:28.755Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-20T21:07:28.755Z"
 }
