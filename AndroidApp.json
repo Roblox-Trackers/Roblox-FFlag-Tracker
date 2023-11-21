@@ -9248,6 +9248,9 @@
   "FFlagFixMismatchTelemetryFields": "True",
   "FFlagVoiceChatEventLoggerSetOperationId": "True",
   "FFlagConsoleGenderSelectorExperimentIXP": "True",
+  "FFlagAXEnableExperienceWidgets": "True",
+  "FFlagAXFixGameDetailsViewTitle": "True",
+  "FFlagAXWidgetSeeAllButton": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9639,8 +9642,8 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "4",
-  "FStringFlagRepoGitHashFastString": "2132eb76392daa9f93e9bb5259df9fa6664cf3df",
-  "DFStringFlagRepoGitHashDynamicString": "2132eb76392daa9f93e9bb5259df9fa6664cf3df",
-  "FStringFlipTimeStampFastString": "2023-11-21T17:42:11.686Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-21T17:42:11.686Z"
+  "FStringFlagRepoGitHashFastString": "7f4c2fd7f8a04060744db8b7678b037e391d1f41",
+  "DFStringFlagRepoGitHashDynamicString": "7f4c2fd7f8a04060744db8b7678b037e391d1f41",
+  "FStringFlipTimeStampFastString": "2023-11-21T17:54:46.137Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-21T17:54:46.137Z"
 }
