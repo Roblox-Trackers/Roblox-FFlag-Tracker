@@ -9263,6 +9263,7 @@
   "FFlagContactImportButtonsExperimentEnabled": "True",
   "FFlagLuaAppLogDropdownMenuEvents": "True",
   "FFlagMacForwardProtocolString_Rollout": "True;60;2023-11-21T19:22:51",
+  "FFlagTDigestNotUseSharedPtr_Rollout": "False;30;2023-11-21T19:35:50",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9603,8 +9604,8 @@
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
-  "FStringFlagRepoGitHashFastString": "e370ea008b13f6686e0800a04d14d93e80976312",
-  "DFStringFlagRepoGitHashDynamicString": "e370ea008b13f6686e0800a04d14d93e80976312",
-  "FStringFlipTimeStampFastString": "2023-11-21T19:32:22.443Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-21T19:32:22.443Z"
+  "FStringFlagRepoGitHashFastString": "1e59daecb05d1933c706fcdf2f0290e13d56e07f",
+  "DFStringFlagRepoGitHashDynamicString": "1e59daecb05d1933c706fcdf2f0290e13d56e07f",
+  "FStringFlipTimeStampFastString": "2023-11-21T19:36:20.263Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-21T19:36:20.263Z"
 }
