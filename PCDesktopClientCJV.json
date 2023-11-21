@@ -9254,6 +9254,13 @@
   "FFlagLuaAppGameJoinFailureAnalytics": "True",
   "DFFlagSupportLooksInBatchThumbnailFetcher": "True",
   "FFlagAXIgnoreEmptyWidgets": "True",
+  "FFlagEnableLeaveCatalogToAvatarPromptOverride": "True",
+  "FFlagEnablePeekViewStateOnMountParam": "True",
+  "FFlagEnableSearchWidgets3": "True",
+  "FFlagEnableTryOnLooksOutfitInTryOnManager4": "True",
+  "FFlagExtendedWidgetAnalytics2": "True",
+  "FFlagFixWidgetHydrationEmptyTile": "True",
+  "FFlagFixWidgetsRefs": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9533,8 +9540,8 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "ddbe66694af072610e536ee90d6c315d04d58dc8",
-  "DFStringFlagRepoGitHashDynamicString": "ddbe66694af072610e536ee90d6c315d04d58dc8",
-  "FStringFlipTimeStampFastString": "2023-11-21T18:14:32.535Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-21T18:14:32.535Z"
+  "FStringFlagRepoGitHashFastString": "0553605e6dfb954284936efd318d3eefee23bb63",
+  "DFStringFlagRepoGitHashDynamicString": "0553605e6dfb954284936efd318d3eefee23bb63",
+  "FStringFlipTimeStampFastString": "2023-11-21T18:17:24.659Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-21T18:17:24.659Z"
 }
