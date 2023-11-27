@@ -9270,6 +9270,8 @@
   "FStringNewDockingBetaFeatureUrl": "https://devforum.roblox.com/t/docking-updates-studio-beta/2701154",
   "FFlagXboxRemoveSetDefaultTeleportImpl": "True",
   "FFlagConvertNilNames": "True",
+  "FFlagFixOutdatedParticles_Rollout": "True;60;2023-11-27T20:34:54",
+  "DFIntStreamingDistanceTunableTotalTimeSpentForGcMicroSeconds_Rollout": "8000;60;2023-11-27T20:35:39",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9551,8 +9553,8 @@
   "FFlagEnableCullableSceneOctree5": "True",
   "FFlagEnableSTFSMTeardown": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "3cd24e2e1c632817304836e83548dbb8316a2cbf",
-  "DFStringFlagRepoGitHashDynamicString": "3cd24e2e1c632817304836e83548dbb8316a2cbf",
-  "FStringFlipTimeStampFastString": "2023-11-27T20:28:52.417Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-27T20:28:52.417Z"
+  "FStringFlagRepoGitHashFastString": "fb4d6b99f2769530de0b3c0fd4a949bf0afd5629",
+  "DFStringFlagRepoGitHashDynamicString": "fb4d6b99f2769530de0b3c0fd4a949bf0afd5629",
+  "FStringFlipTimeStampFastString": "2023-11-27T20:36:10.707Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-27T20:36:10.707Z"
 }
