@@ -9275,6 +9275,9 @@
   "FFlagFixOutdatedParticles": "True",
   "FFlagCallBarRefactor": "True",
   "DFIntEditableMeshRuntimeErrorLoggingHundredthsPercentage": "10000",
+  "FFlagBlake3SerializerBinary": "True",
+  "FFlagBlake3SharedString": "True",
+  "FFlagDMPatchCoreScriptsBlake3Deserialize": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9615,8 +9618,8 @@
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": "10000",
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
-  "FStringFlagRepoGitHashFastString": "f8ae087db70ceff2ac1028c1924e09cac634d197",
-  "DFStringFlagRepoGitHashDynamicString": "f8ae087db70ceff2ac1028c1924e09cac634d197",
-  "FStringFlipTimeStampFastString": "2023-11-27T22:02:16.414Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-27T22:02:16.414Z"
+  "FStringFlagRepoGitHashFastString": "f1e908938f937fc772dd5f60bf10a66f31651be7",
+  "DFStringFlagRepoGitHashDynamicString": "f1e908938f937fc772dd5f60bf10a66f31651be7",
+  "FStringFlipTimeStampFastString": "2023-11-27T22:05:26.361Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-27T22:05:26.361Z"
 }
