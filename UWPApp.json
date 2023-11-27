@@ -9186,7 +9186,7 @@
   "FFlagDisplayCollectiblesIcon": "True",
   "DFFlagRccSetPartitionIdInCrashHandler": "True",
   "FFlagImprovedModelStreaming_PlaceFilter": "False;6698800091;5482759415",
-  "FFlagTDigestNotUseSharedPtr": "False",
+  "FFlagTDigestNotUseSharedPtr": "True",
   "DFFlagLuauStricterUtf8": "True",
   "DFFlagHandleProfileSyncFlushCallWithoutMemoryTracking": "True",
   "FFlagDeprecateAncientInferredCrash": "False",
@@ -9265,7 +9265,6 @@
   "FFlagMacForwardProtocolString": "True",
   "FFlagSurveyUserIdFix": "True",
   "DFFlagCheckAllForAnimation_PlaceFilter": "False;7180042682;5985232436",
-  "FFlagTDigestNotUseSharedPtr_Rollout": "True;60;2023-11-27T18:51:42",
   "FFlagSharedTableStringKeyWithEmbeddedNull": "True",
   "DFFlagStreamingSolverMapModifyCounts": "True",
   "FFlagFmodWasapiGetDeviceBusType": "True",
@@ -9464,8 +9463,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "52bc62e0cafbc3f6f942f8e08f7f273ada4df35a",
-  "DFStringFlagRepoGitHashDynamicString": "52bc62e0cafbc3f6f942f8e08f7f273ada4df35a",
-  "FStringFlipTimeStampFastString": "2023-11-27T19:53:20.703Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-27T19:53:20.703Z"
+  "FStringFlagRepoGitHashFastString": "feac398782d798a2306c489c6d66f544589774af",
+  "DFStringFlagRepoGitHashDynamicString": "feac398782d798a2306c489c6d66f544589774af",
+  "FStringFlipTimeStampFastString": "2023-11-27T19:57:03.364Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-27T19:57:03.364Z"
 }
