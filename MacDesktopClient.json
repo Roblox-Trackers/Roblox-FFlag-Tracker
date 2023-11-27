@@ -9279,6 +9279,7 @@
   "FFlagBlake3SharedString": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize": "True",
   "DFFlagDoNotReportPlaceIdZero_Rollout": "True;60;2023-11-27T22:06:02",
+  "FIntMmapForMemProfStorageThrottle_Rollout": "5000;10;2023-11-27T22:28:12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9561,8 +9562,8 @@
   "FFlagEnableSTFSMTeardown": "True",
   "DFFlagAddErrorCodeToMappedFileFailures": "True",
   "DFFlagFixClosingBugForMappedFile": "True",
-  "FStringFlagRepoGitHashFastString": "37f3db775e4868b8898d0716c33b7afff0cad865",
-  "DFStringFlagRepoGitHashDynamicString": "37f3db775e4868b8898d0716c33b7afff0cad865",
-  "FStringFlipTimeStampFastString": "2023-11-27T22:23:04.114Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-27T22:23:04.114Z"
+  "FStringFlagRepoGitHashFastString": "2738f4e483a2fd8b333cd91158f9ce5226ce2c14",
+  "DFStringFlagRepoGitHashDynamicString": "2738f4e483a2fd8b333cd91158f9ce5226ce2c14",
+  "FStringFlipTimeStampFastString": "2023-11-27T22:31:00.080Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-27T22:31:00.080Z"
 }
