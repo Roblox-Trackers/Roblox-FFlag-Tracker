@@ -9282,6 +9282,7 @@
   "FFlagUIBloxFixFixedHeightMenuFrameSelectable": "True",
   "DFFlagDoNotReportPlaceIdZero": "True",
   "FFlagEnableOctreeValidation_Rollout": "True;60;2023-11-27T23:29:31",
+  "FFlagEnableSTFSMTeardown": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9560,15 +9561,13 @@
   "FFlagMacClientSupportIME9": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FFlagEnableSTFSMTeardown": "True",
   "DFFlagAddErrorCodeToMappedFileFailures": "True",
   "DFFlagFixClosingBugForMappedFile": "True",
-  "FFlagRealtimeReliabilityMeasurementEnable_Rollout": "True;30;2023-11-27T23:21:23",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagEnableCullableSceneOctree5": "True",
-  "FStringFlagRepoGitHashFastString": "cd948b8f6e9556683d6ab2c3ffb202e7c5193a4e",
-  "DFStringFlagRepoGitHashDynamicString": "cd948b8f6e9556683d6ab2c3ffb202e7c5193a4e",
-  "FStringFlipTimeStampFastString": "2023-11-27T23:47:44.376Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-27T23:47:44.376Z"
+  "FStringFlagRepoGitHashFastString": "554f68d22813c7a9040657cc0b7a3f4b43b3a3c6",
+  "DFStringFlagRepoGitHashDynamicString": "554f68d22813c7a9040657cc0b7a3f4b43b3a3c6",
+  "FStringFlipTimeStampFastString": "2023-11-27T23:57:09.873Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-27T23:57:09.873Z"
 }
