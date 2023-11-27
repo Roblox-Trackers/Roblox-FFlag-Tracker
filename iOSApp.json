@@ -9270,10 +9270,10 @@
   "FStringNewDockingBetaFeatureUrl": "https://devforum.roblox.com/t/docking-updates-studio-beta/2701154",
   "FFlagXboxRemoveSetDefaultTeleportImpl": "True",
   "FFlagConvertNilNames": "True",
-  "FFlagFixOutdatedParticles_Rollout": "True;60;2023-11-27T20:34:54",
-  "DFIntStreamingDistanceTunableTotalTimeSpentForGcMicroSeconds_Rollout": "8000;60;2023-11-27T20:35:39",
   "DFIntEditableMeshRuntimeErrorLoggingHundredthsPercentage_Rollout": "10000;30;2023-11-27T21:23:47",
   "FFlagReportLogStatsTelemetry_Rollout": "True;60;2023-11-27T21:34:46",
+  "DFIntStreamingDistanceTunableTotalTimeSpentForGcMicroSeconds": "8000",
+  "FFlagFixOutdatedParticles": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9623,8 +9623,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "3",
   "FFlagAXEnableExperienceWidgets": "True",
-  "FStringFlagRepoGitHashFastString": "265f8833f72a99ee291d2f89f0fa324f4fcb5a24",
-  "DFStringFlagRepoGitHashDynamicString": "265f8833f72a99ee291d2f89f0fa324f4fcb5a24",
-  "FStringFlipTimeStampFastString": "2023-11-27T21:35:13.895Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-27T21:35:13.895Z"
+  "FStringFlagRepoGitHashFastString": "377c2b637ffdafea13d71344c5000a68dc1b0bad",
+  "DFStringFlagRepoGitHashDynamicString": "377c2b637ffdafea13d71344c5000a68dc1b0bad",
+  "FStringFlipTimeStampFastString": "2023-11-27T21:42:06.226Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-27T21:42:06.226Z"
 }
