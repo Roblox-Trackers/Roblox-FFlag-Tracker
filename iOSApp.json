@@ -8726,7 +8726,7 @@
   "FFlagCommonExperienceLaunch": "True",
   "FFlagRigScaleShouldAffectAnimations": "True",
   "FFlagEnableMaquettesAgeBracketReporting": "True",
-  "DFFlagEnableTCSChatTranslationABTest": "True",
+  "DFFlagEnableTCSChatTranslationABTest": "False",
   "FFlagChatTranslationEnableSystemMessage": "True",
   "FFlagChatTranslationSettingEnabled3": "True",
   "FFlagChatTranslationShowFTUX": "True",
@@ -9611,7 +9611,7 @@
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyiOS",
   "FIntScrollingPerfTrackerKibana": "20",
-  "DFFlagEnableTCSChatTranslation": "True",
+  "DFFlagEnableTCSChatTranslation": "False",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
   "FFlagEnableSocialContextToast": "True",
@@ -9620,8 +9620,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "3",
   "FFlagAXEnableExperienceWidgets": "True",
-  "FStringFlagRepoGitHashFastString": "6bfdcc8317ea5aa7f99b0f374b1c1b9766992be4",
-  "DFStringFlagRepoGitHashDynamicString": "6bfdcc8317ea5aa7f99b0f374b1c1b9766992be4",
-  "FStringFlipTimeStampFastString": "2023-11-27T20:07:02.454Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-27T20:07:02.454Z"
+  "FStringFlagRepoGitHashFastString": "fc605190cb50df575c7021a605009dfcc2df3c9f",
+  "DFStringFlagRepoGitHashDynamicString": "fc605190cb50df575c7021a605009dfcc2df3c9f",
+  "FStringFlipTimeStampFastString": "2023-11-27T20:08:57.992Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-27T20:08:57.992Z"
 }
