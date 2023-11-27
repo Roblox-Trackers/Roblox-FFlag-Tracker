@@ -9281,6 +9281,7 @@
   "FFlagStreamingSolverDenseSet2_Rollout": "True;60;2023-11-27T22:55:56",
   "FFlagUIBloxFixFixedHeightMenuFrameSelectable": "True",
   "DFFlagDoNotReportPlaceIdZero": "True",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9295,7 +9296,6 @@
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9564,9 +9564,9 @@
   "FFlagEnableOctreeValidation": "True",
   "DFFlagAddErrorCodeToMappedFileFailures": "True",
   "DFFlagFixClosingBugForMappedFile": "True",
-  "FFlagEnableMmapForMemProfStorageFlushing2_Rollout": "True;30;2023-11-27T22:54:33",
-  "FStringFlagRepoGitHashFastString": "8bfc1a0a65dcc3c07d22d04d57383cb8c2ba52e5",
-  "DFStringFlagRepoGitHashDynamicString": "8bfc1a0a65dcc3c07d22d04d57383cb8c2ba52e5",
-  "FStringFlipTimeStampFastString": "2023-11-27T23:28:14.857Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-27T23:28:14.857Z"
+  "FFlagEnableMmapForMemProfStorageFlushing2": "True",
+  "FStringFlagRepoGitHashFastString": "31f92cb7101e0ccbc8d0d9b90cc5d403c2367db3",
+  "DFStringFlagRepoGitHashDynamicString": "31f92cb7101e0ccbc8d0d9b90cc5d403c2367db3",
+  "FStringFlipTimeStampFastString": "2023-11-27T23:30:21.527Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-27T23:30:21.527Z"
 }
