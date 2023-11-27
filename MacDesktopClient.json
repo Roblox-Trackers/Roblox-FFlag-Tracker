@@ -9292,9 +9292,8 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "1",
+  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
-  "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "5;60;2023-11-27T21:25:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9562,8 +9561,8 @@
   "FFlagEnableSTFSMTeardown": "True",
   "DFFlagAddErrorCodeToMappedFileFailures": "True",
   "DFFlagFixClosingBugForMappedFile": "True",
-  "FStringFlagRepoGitHashFastString": "2738f4e483a2fd8b333cd91158f9ce5226ce2c14",
-  "DFStringFlagRepoGitHashDynamicString": "2738f4e483a2fd8b333cd91158f9ce5226ce2c14",
-  "FStringFlipTimeStampFastString": "2023-11-27T22:31:00.080Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-27T22:31:00.080Z"
+  "FStringFlagRepoGitHashFastString": "46b82149a986de928737ec89b6ae081fef69d2a1",
+  "DFStringFlagRepoGitHashDynamicString": "46b82149a986de928737ec89b6ae081fef69d2a1",
+  "FStringFlipTimeStampFastString": "2023-11-27T22:35:52.035Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-27T22:35:52.035Z"
 }
