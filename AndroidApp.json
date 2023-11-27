@@ -9263,7 +9263,6 @@
   "FFlagContactImportButtonsExperimentEnabled": "True",
   "FFlagLuaAppLogDropdownMenuEvents": "True",
   "FFlagMacForwardProtocolString": "True",
-  "FFlagSharedTableStringKeyWithEmbeddedNull_Rollout": "True;60;2023-11-27T18:04:02",
   "FFlagSurveyUserIdFix": "True",
   "DFFlagStreamingSolverMapModifyCounts_Rollout": "True;60;2023-11-27T18:32:33",
   "FFlagFmodWasapiGetDeviceBusType_Rollout": "True;60;2023-11-27T18:34:21",
@@ -9271,6 +9270,7 @@
   "FFlagDeprecateAncientInferredCrash_Rollout": "False;30;2023-11-27T18:41:46",
   "DFIntAndroidAdviceChohortHundredthsPercent_Rollout": "0;30;2023-11-27T18:41:56",
   "FFlagTDigestNotUseSharedPtr_Rollout": "True;60;2023-11-27T18:51:42",
+  "FFlagSharedTableStringKeyWithEmbeddedNull": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9663,8 +9663,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
-  "FStringFlagRepoGitHashFastString": "16f591a96edb2ee136658f6f2fc80943cf61b49d",
-  "DFStringFlagRepoGitHashDynamicString": "16f591a96edb2ee136658f6f2fc80943cf61b49d",
-  "FStringFlipTimeStampFastString": "2023-11-27T19:09:38.595Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-27T19:09:38.595Z"
+  "FStringFlagRepoGitHashFastString": "4396ef1ede2849fa7f2d38c419064cd6552ad0eb",
+  "DFStringFlagRepoGitHashDynamicString": "4396ef1ede2849fa7f2d38c419064cd6552ad0eb",
+  "FStringFlipTimeStampFastString": "2023-11-27T19:11:54.425Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-27T19:11:54.425Z"
 }
