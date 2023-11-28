@@ -9286,6 +9286,7 @@
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2023-11-28T18:46:11",
   "FFlagLuaAppMorePageRefactor2": "True",
   "FFlagFlagRolloutTestStaticBool3_Rollout": "False;60;2023-11-28T19:15:20",
+  "FIntSessionTrackingStorageFlushPeriodMs_Rollout": "250;10;2023-11-28T19:27:55",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9569,8 +9570,8 @@
   "DFFlagFixClosingBugForMappedFile": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
-  "FStringFlagRepoGitHashFastString": "0a2774a7dc5f6eb05a84e2b9a4b74ca22ebfeb8c",
-  "DFStringFlagRepoGitHashDynamicString": "0a2774a7dc5f6eb05a84e2b9a4b74ca22ebfeb8c",
-  "FStringFlipTimeStampFastString": "2023-11-28T19:16:03.508Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-28T19:16:03.508Z"
+  "FStringFlagRepoGitHashFastString": "01f2e86b0a186efd75ebc942416e29ac3cb7c6dc",
+  "DFStringFlagRepoGitHashDynamicString": "01f2e86b0a186efd75ebc942416e29ac3cb7c6dc",
+  "FStringFlipTimeStampFastString": "2023-11-28T19:28:18.293Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-28T19:28:18.293Z"
 }
