@@ -4606,7 +4606,7 @@
   "DFFlagFlagRolloutTestDynamicBool3": "False",
   "FFlagFlagRolloutTestStaticBool0": "False",
   "FFlagFlagRolloutTestStaticBool1": "False",
-  "FFlagFlagRolloutTestStaticBool3": "True",
+  "FFlagFlagRolloutTestStaticBool3": "False",
   "FFlagFlagRolloutTestStaticBool4": "False",
   "FFlagFlagRolloutTestStaticBool5": "False",
   "FFlagFlagRolloutTestStaticBool6": "True",
@@ -9283,7 +9283,6 @@
   "DFFlagSimEditableMeshDefaultName": "True",
   "FFlagAX10ftUIPadding2": "True",
   "FFlagLuaAppMorePageRefactor2": "True",
-  "FFlagFlagRolloutTestStaticBool3_Rollout": "False;60;2023-11-28T19:15:20",
   "FFlagSimCSGV3VerticesCloneFix_Rollout": "True;60;2023-11-28T19:32:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -9677,8 +9676,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
-  "FStringFlagRepoGitHashFastString": "a92e0ee574fa61b72f14b2c24103f0eb87aec063",
-  "DFStringFlagRepoGitHashDynamicString": "a92e0ee574fa61b72f14b2c24103f0eb87aec063",
-  "FStringFlipTimeStampFastString": "2023-11-28T20:11:29.315Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-28T20:11:29.315Z"
+  "FStringFlagRepoGitHashFastString": "dc905c9e0b3c21f58dbf4a43fbbc4c3e52b0bebe",
+  "DFStringFlagRepoGitHashDynamicString": "dc905c9e0b3c21f58dbf4a43fbbc4c3e52b0bebe",
+  "FStringFlipTimeStampFastString": "2023-11-28T20:21:41.995Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-28T20:21:41.995Z"
 }
