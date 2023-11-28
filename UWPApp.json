@@ -9289,6 +9289,8 @@
   "AllowVideoPreRoll": "True",
   "FFlagMoveFocusNavigationProvider2": "True",
   "FFlagTenFootModerationPromptFocus": "True",
+  "FFlagFixDescendantHasFocusInitialValue": "True",
+  "FFlagCancelAutoFocusTask": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9481,8 +9483,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "c34ae6f1e51d00ceba457315a07539923d9a431f",
-  "DFStringFlagRepoGitHashDynamicString": "c34ae6f1e51d00ceba457315a07539923d9a431f",
-  "FStringFlipTimeStampFastString": "2023-11-28T20:57:31.888Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-28T20:57:31.888Z"
+  "FStringFlagRepoGitHashFastString": "4ba8b0fb6830943cedc97caa6551025101ada3ed",
+  "DFStringFlagRepoGitHashDynamicString": "4ba8b0fb6830943cedc97caa6551025101ada3ed",
+  "FStringFlipTimeStampFastString": "2023-11-28T21:01:34.353Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-28T21:01:34.353Z"
 }
