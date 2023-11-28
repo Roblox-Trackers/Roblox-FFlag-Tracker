@@ -9293,8 +9293,6 @@
   "EnableBuildOrientedConfigPhase2": "True",
   "FFlagIntegerDivisionTypesForVectors": "True",
   "DFFlagInferredCrashSystemSuccessReportMove": "True",
-  "DFFlagReportSharedStringEvent_Rollout": "True;60;2023-11-28T21:52:11",
-  "DFIntReportSharedStringEventItemsHundredths_Rollout": "100;60;2023-11-28T21:52:11",
   "FFlagDevFrameworkFixTextInputAutocomplete": "True",
   "FFlagEnableTopBarPageWrapper": "True",
   "FFlagUIBloxIncreaseImageResolutionForTenFoot": "True",
@@ -9305,6 +9303,8 @@
   "FFlagEnableSignalBehaviorAncestryDeferred2": "True",
   "FFlagFixRichTextLineHeight2": "True",
   "FFlagCrossDeviceDesignTokens": "True",
+  "DFFlagReportSharedStringEvent": "True",
+  "DFIntReportSharedStringEventItemsHundredths": "100",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9590,8 +9590,8 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "5b198842aba10e883abf8166f256a5b2a393d71b",
-  "DFStringFlagRepoGitHashDynamicString": "5b198842aba10e883abf8166f256a5b2a393d71b",
-  "FStringFlipTimeStampFastString": "2023-11-28T22:58:55.079Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-28T22:58:55.079Z"
+  "FStringFlagRepoGitHashFastString": "ac6e3a5b7de8e8707cd65edd5990fb4f117780c6",
+  "DFStringFlagRepoGitHashDynamicString": "ac6e3a5b7de8e8707cd65edd5990fb4f117780c6",
+  "FStringFlipTimeStampFastString": "2023-11-28T23:02:04.394Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-28T23:02:04.394Z"
 }
