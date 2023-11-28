@@ -6398,7 +6398,7 @@
   "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "500",
   "FStringDebugCollectQtDiagnosticsPrefix": "QObject::connect",
   "FFlag9SliceEditorShorterLoadTime": "True",
-  "DFFlagFlagRolloutTestDynamicBool0": "True",
+  "DFFlagFlagRolloutTestDynamicBool0": "False",
   "FFlagUserSearchLayerPassAllProps": "True",
   "FFlagPlayerSearchNewEmptyPageEnabled_v3": "True",
   "FFlagUnifyAddFriendsPageRouterName": "True",
@@ -9282,7 +9282,6 @@
   "DFFlagEnableMessageRouterV2": "True",
   "DFFlagSimEditableMeshDefaultName": "True",
   "FFlagAX10ftUIPadding2": "True",
-  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2023-11-28T18:46:11",
   "FFlagLuaAppMorePageRefactor2": "True",
   "FFlagFlagRolloutTestStaticBool3_Rollout": "False;60;2023-11-28T19:15:20",
   "FFlagSimCSGV3VerticesCloneFix_Rollout": "True;60;2023-11-28T19:32:18",
@@ -9678,8 +9677,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
-  "FStringFlagRepoGitHashFastString": "4d8f84fa7a5646492b5d7b285a9daabdbbac9dca",
-  "DFStringFlagRepoGitHashDynamicString": "4d8f84fa7a5646492b5d7b285a9daabdbbac9dca",
-  "FStringFlipTimeStampFastString": "2023-11-28T19:50:19.342Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-28T19:50:19.342Z"
+  "FStringFlagRepoGitHashFastString": "31f6421ca87c266db247b32cb5b6db2aa2cae282",
+  "DFStringFlagRepoGitHashDynamicString": "31f6421ca87c266db247b32cb5b6db2aa2cae282",
+  "FStringFlipTimeStampFastString": "2023-11-28T19:51:32.222Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-28T19:51:32.222Z"
 }
