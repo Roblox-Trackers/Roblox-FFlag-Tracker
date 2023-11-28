@@ -9290,8 +9290,6 @@
   "FFlagCancelAutoFocusTask": "True",
   "FFlagShareGamePageNullCheckEnabled": "True",
   "FFlagAvatarPublishAddGuidToInstances2": "True",
-  "DFFlagSolverCBStats_Rollout": "True;60;2023-11-28T21:27:59",
-  "FFlagDualWriteFlowDurationToV2Stats_Rollout": "True;60;2023-11-28T21:28:15",
   "EnableBuildOrientedConfigPhase2": "True",
   "FFlagIntegerDivisionTypesForVectors": "True",
   "FFlagEnableSignalBehaviorAncestryDeferred2_Rollout": "True;60;2023-11-28T21:47:58",
@@ -9303,6 +9301,8 @@
   "FFlagEnableTopBarPageWrapper": "True",
   "FFlagUIBloxIncreaseImageResolutionForTenFoot": "True",
   "FFlagMorePageUserInfo": "True",
+  "FFlagDualWriteFlowDurationToV2Stats": "True",
+  "DFFlagSolverCBStats": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9588,8 +9588,8 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage_Rollout": "100;60;2023-11-28T21:46:36",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "c0ef216f8f727b58efb73d3de1cfaaace9e9e6a9",
-  "DFStringFlagRepoGitHashDynamicString": "c0ef216f8f727b58efb73d3de1cfaaace9e9e6a9",
-  "FStringFlipTimeStampFastString": "2023-11-28T22:34:08.170Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-28T22:34:08.170Z"
+  "FStringFlagRepoGitHashFastString": "8548ed9e4383aa5e81eb8568281996c0b946fbbd",
+  "DFStringFlagRepoGitHashDynamicString": "8548ed9e4383aa5e81eb8568281996c0b946fbbd",
+  "FStringFlipTimeStampFastString": "2023-11-28T22:36:47.584Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-28T22:36:47.584Z"
 }
