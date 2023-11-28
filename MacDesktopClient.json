@@ -9106,7 +9106,7 @@
   "FFlagTenFootGameSortImpressionsScrollFix": "True",
   "DFFlagAvatarChatServiceFixUserPermissionsBanned": "True",
   "FIntMaterialGenerationServiceGenerateHttpTimeoutMs": "30000",
-  "FStringGpuGeometryManagerGpuBlacklistRegex": ".*A11.*|.*A10.*|.*A9.*|.*A8.*|.*A7.*",
+  "FStringGpuGeometryManagerGpuBlacklistRegex": ".*A11.*|.*A9.*|.*A8.*|.*A7.*",
   "FFlagIXPPerformanceControlMemoryBufferExp2": "True",
   "FFlagAppConfigurerEnabled2": "True",
   "FFlagStudioDraggerToolboxDragFix": "True",
@@ -9284,6 +9284,7 @@
   "FFlagAX10ftUIPadding2": "True",
   "FFlagLuaAppMorePageRefactor2": "True",
   "FFlagSimCSGV3VerticesCloneFix_Rollout": "True;60;2023-11-28T19:32:18",
+  "FFlagRoactChatConversationActionsAll3": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9566,8 +9567,8 @@
   "DFFlagFixClosingBugForMappedFile": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FFlagEnableCullableSceneOctree5": "True",
-  "FStringFlagRepoGitHashFastString": "db507f3a2a261c26e3270aca724e3f307bffc646",
-  "DFStringFlagRepoGitHashDynamicString": "db507f3a2a261c26e3270aca724e3f307bffc646",
-  "FStringFlipTimeStampFastString": "2023-11-28T20:27:28.616Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-28T20:27:28.616Z"
+  "FStringFlagRepoGitHashFastString": "fd2f8af23cdcb70a0188296124266c40275da474",
+  "DFStringFlagRepoGitHashDynamicString": "fd2f8af23cdcb70a0188296124266c40275da474",
+  "FStringFlipTimeStampFastString": "2023-11-28T20:29:35.668Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-28T20:29:35.668Z"
 }
