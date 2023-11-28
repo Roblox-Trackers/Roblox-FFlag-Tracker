@@ -9297,6 +9297,9 @@
   "FFlagIntegerDivisionTypesForVectors": "True",
   "FFlagEnableSignalBehaviorAncestryDeferred2_Rollout": "True;60;2023-11-28T21:47:58",
   "DFFlagInferredCrashSystemSuccessReportMove": "True",
+  "FFlagFixRichTextLineHeight2_Rollout": "True;60;2023-11-28T21:51:41",
+  "DFFlagReportSharedStringEvent_Rollout": "True;60;2023-11-28T21:52:11",
+  "DFIntReportSharedStringEventItemsHundredths_Rollout": "100;60;2023-11-28T21:52:11",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9580,9 +9583,10 @@
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage_Rollout": "100;60;2023-11-28T21:46:36",
+  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage_Rollout": "100;30;2023-11-28T21:51:31",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "3bc9f9226808d4238edd32e19e1a913044c6c44f",
-  "DFStringFlagRepoGitHashDynamicString": "3bc9f9226808d4238edd32e19e1a913044c6c44f",
-  "FStringFlipTimeStampFastString": "2023-11-28T21:51:40.814Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-28T21:51:40.814Z"
+  "FStringFlagRepoGitHashFastString": "d19d3fc0ca04657df634c4f54f3dc1664d04baf9",
+  "DFStringFlagRepoGitHashDynamicString": "d19d3fc0ca04657df634c4f54f3dc1664d04baf9",
+  "FStringFlipTimeStampFastString": "2023-11-28T21:52:50.262Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-28T21:52:50.262Z"
 }
