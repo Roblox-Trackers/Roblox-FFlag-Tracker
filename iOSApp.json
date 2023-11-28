@@ -9283,6 +9283,7 @@
   "FFlagEnableSTFSMTeardown": "False",
   "FFlagStreamingSolverDenseSet2": "True",
   "FFlagEnableOctreeValidation": "True",
+  "DFFlagEnableMessageRouterV2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9635,8 +9636,8 @@
   "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
-  "FStringFlagRepoGitHashFastString": "fe05765e32c474bf908645a871c7f0ca07dde689",
-  "DFStringFlagRepoGitHashDynamicString": "fe05765e32c474bf908645a871c7f0ca07dde689",
-  "FStringFlipTimeStampFastString": "2023-11-28T00:42:48.695Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-28T00:42:48.695Z"
+  "FStringFlagRepoGitHashFastString": "7e36ba1470c16ecf6d77ba20ff111d3974f5e63a",
+  "DFStringFlagRepoGitHashDynamicString": "7e36ba1470c16ecf6d77ba20ff111d3974f5e63a",
+  "FStringFlipTimeStampFastString": "2023-11-28T00:46:04.953Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-28T00:46:04.953Z"
 }
