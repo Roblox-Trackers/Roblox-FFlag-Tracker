@@ -9312,7 +9312,7 @@
   "DFFlagStreamJobPostLocationTime": "True",
   "FFlagAXWidgetSeeAllButton": "True",
   "FFlagLuauFixIndexerSubtypingOrdering": "True",
-  "DFIntLogReportingStatsHundredthsPercent": "1000",
+  "DFIntLogReportingStatsHundredthsPercent": "500",
   "FFlagContactRecs_v4": "True",
   "FFlagContactRecs": "True",
   "FFlagContactRecs_v1": "True",
@@ -9327,7 +9327,6 @@
   "FStringGraphicsVulkanFutureGPUNameBlacklist": "Adreno (TM) 530;Adreno (TM) 618;Adreno (TM) 619;Adreno (TM) 504;PowerVR Rogue GE8320;Adreno (TM) 612",
   "FFlagExperienceLaunchTelemetry": "True",
   "DFFlagUnreliableEventsThrowBeforeRelease": "False",
-  "DFIntLogReportingStatsHundredthsPercent_Rollout": "500;60;2023-11-29T22:48:12",
   "FFlagXboxKeyboardType": "True",
   "FFlagUniversalThirdPartyUser2": "True",
   "FFlagExperienceLaunchExtraTelemetry": "True",
@@ -9618,8 +9617,8 @@
   "DFFlagFixClosingBugForMappedFile": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FFlagEnableCullableSceneOctree5": "True",
-  "FStringFlagRepoGitHashFastString": "a82fe71176f70c461f71de408d3b2e8f7477da05",
-  "DFStringFlagRepoGitHashDynamicString": "a82fe71176f70c461f71de408d3b2e8f7477da05",
-  "FStringFlipTimeStampFastString": "2023-11-29T23:47:09.705Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-29T23:47:09.705Z"
+  "FStringFlagRepoGitHashFastString": "24536a2bcf79ea3fe666336e0f48007e8f083ad4",
+  "DFStringFlagRepoGitHashDynamicString": "24536a2bcf79ea3fe666336e0f48007e8f083ad4",
+  "FStringFlipTimeStampFastString": "2023-11-29T23:56:49.226Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-29T23:56:49.226Z"
 }
