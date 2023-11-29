@@ -9333,6 +9333,8 @@
   "FFlagUnreliableEvents_Rollout": "True;20;2023-11-29T22:41:53",
   "FFlagUnreliableEventsStudioAwareness_Rollout": "True;20;2023-11-29T22:44:34",
   "DFFlagUnreliableEventsThrowBeforeRelease": "False",
+  "DFIntLogReportingStatsHundredthsPercent_Rollout": "500;60;2023-11-29T22:48:12",
+  "FFlagXboxKeyboardType": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9525,8 +9527,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "9b6405c1ae87935f3828aa440e33372ccfb87600",
-  "DFStringFlagRepoGitHashDynamicString": "9b6405c1ae87935f3828aa440e33372ccfb87600",
-  "FStringFlipTimeStampFastString": "2023-11-29T22:49:17.085Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-29T22:49:17.085Z"
+  "FStringFlagRepoGitHashFastString": "a826d4e2a6252dddded338d57f24ef1f7e27f3a1",
+  "DFStringFlagRepoGitHashDynamicString": "a826d4e2a6252dddded338d57f24ef1f7e27f3a1",
+  "FStringFlipTimeStampFastString": "2023-11-29T22:49:47.659Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-29T22:49:47.659Z"
 }
