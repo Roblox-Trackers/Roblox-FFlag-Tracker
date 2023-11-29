@@ -9318,6 +9318,7 @@
   "FFlagContactRecs_v4": "True",
   "FFlagContactRecs": "True",
   "FFlagContactRecs_v1": "True",
+  "FFlagUseExperienceService": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9645,7 +9646,6 @@
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
   "FFlagDisableAppLaunchFlowThrottling": "False",
-  "FFlagUseExperienceService": "True",
   "FFlagEditProfileSetupNewExperimentFlow": "True",
   "FFlagNotchSupportExperimentTrackExposure": "True",
   "FStringEditProfileOpened": "EditProfileOpenediOS",
@@ -9671,8 +9671,8 @@
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FLogDebugQuadTreeLogging2_PlaceFilter": "6;12640776771;11902022172",
-  "FStringFlagRepoGitHashFastString": "556bed52442585c2eb8acfe4fd316dfc9af4c2df",
-  "DFStringFlagRepoGitHashDynamicString": "556bed52442585c2eb8acfe4fd316dfc9af4c2df",
-  "FStringFlipTimeStampFastString": "2023-11-29T19:24:37.201Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-29T19:24:37.201Z"
+  "FStringFlagRepoGitHashFastString": "23023a9e491901c57efb6a25b4a11e24677bbd56",
+  "DFStringFlagRepoGitHashDynamicString": "23023a9e491901c57efb6a25b4a11e24677bbd56",
+  "FStringFlipTimeStampFastString": "2023-11-29T19:28:08.399Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-29T19:28:08.399Z"
 }
