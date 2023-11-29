@@ -9326,6 +9326,7 @@
   "FFlagRenderUseMediump": "True",
   "FFlagVideoCameraAsyncEnabled": "True",
   "FStringGraphicsVulkanFutureGPUNameBlacklist": "Adreno (TM) 530;Adreno (TM) 618;Adreno (TM) 619;Adreno (TM) 504;PowerVR Rogue GE8320;Adreno (TM) 612",
+  "FFlagXboxGameProtocol_Rollout": "True;60;2023-11-29T22:26:52",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9678,8 +9679,8 @@
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FLogDebugQuadTreeLogging2_PlaceFilter": "6;12640776771;11902022172",
-  "FStringFlagRepoGitHashFastString": "dabc5d9362eccf5195f986ff80e46dfe702db153",
-  "DFStringFlagRepoGitHashDynamicString": "dabc5d9362eccf5195f986ff80e46dfe702db153",
-  "FStringFlipTimeStampFastString": "2023-11-29T22:25:20.735Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-29T22:25:20.735Z"
+  "FStringFlagRepoGitHashFastString": "d7a77b6cab7aa6bba0186702f38c9fa5d6602c60",
+  "DFStringFlagRepoGitHashDynamicString": "d7a77b6cab7aa6bba0186702f38c9fa5d6602c60",
+  "FStringFlipTimeStampFastString": "2023-11-29T22:28:22.246Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-29T22:28:22.246Z"
 }
