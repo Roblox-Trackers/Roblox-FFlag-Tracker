@@ -9337,6 +9337,7 @@
   "FFlagUniversalThirdPartyUser2": "True",
   "FFlagExperienceLaunchExtraTelemetry": "True",
   "FFlagUnreliableEvents": "True",
+  "FFlagVideoReportDPI_Rollout": "True;60;2023-11-29T23:09:55",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9689,8 +9690,8 @@
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FLogDebugQuadTreeLogging2_PlaceFilter": "6;12640776771;11902022172",
-  "FStringFlagRepoGitHashFastString": "447db81df8f7d7a224669709edf1148e0ab2bd47",
-  "DFStringFlagRepoGitHashDynamicString": "447db81df8f7d7a224669709edf1148e0ab2bd47",
-  "FStringFlipTimeStampFastString": "2023-11-29T23:07:17.185Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-29T23:07:17.185Z"
+  "FStringFlagRepoGitHashFastString": "3396ad4cd4f1b1005c984dc4bc21d76c26100cb3",
+  "DFStringFlagRepoGitHashDynamicString": "3396ad4cd4f1b1005c984dc4bc21d76c26100cb3",
+  "FStringFlipTimeStampFastString": "2023-11-29T23:10:32.667Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-29T23:10:32.667Z"
 }
