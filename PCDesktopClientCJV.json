@@ -9321,10 +9321,10 @@
   "DFFlagSimCollectPhysicsSteppingMethod": "True",
   "FFlagContactRecs_v2": "True",
   "FFlagContactRecs_v3": "True",
-  "FFlagVideoCameraAsyncEnabled_Rollout": "True;60;2023-11-29T20:24:12",
   "FFlagVideoCaptureStopNotPassStream": "True",
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagRenderUseMediump": "True",
+  "FFlagVideoCameraAsyncEnabled": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9609,8 +9609,8 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "fc14178a107bcba229719aa8022accc13dc00ea4",
-  "DFStringFlagRepoGitHashDynamicString": "fc14178a107bcba229719aa8022accc13dc00ea4",
-  "FStringFlipTimeStampFastString": "2023-11-29T21:28:44.394Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-29T21:28:44.394Z"
+  "FStringFlagRepoGitHashFastString": "137e0e1486a888510d3f3d79164aa47f1aa2074d",
+  "DFStringFlagRepoGitHashDynamicString": "137e0e1486a888510d3f3d79164aa47f1aa2074d",
+  "FStringFlipTimeStampFastString": "2023-11-29T21:29:52.078Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-29T21:29:52.078Z"
 }
