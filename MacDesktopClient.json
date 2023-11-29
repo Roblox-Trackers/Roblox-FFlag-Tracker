@@ -9330,7 +9330,6 @@
   "DFIntReportSharedStringEventItemsHundredths_Rollout": "1000;60;2023-11-29T22:41:46",
   "DFFlagUnrelSharedStringEvent_Rollout": "True;60;2023-11-29T22:41:46",
   "DFIntUnrelReportSharedStringEventItemsHundredths_Rollout": "10000;60;2023-11-29T22:41:46",
-  "FFlagUnreliableEventsStudioAwareness_Rollout": "True;20;2023-11-29T22:44:34",
   "DFFlagUnreliableEventsThrowBeforeRelease": "False",
   "DFIntLogReportingStatsHundredthsPercent_Rollout": "500;60;2023-11-29T22:48:12",
   "FFlagXboxKeyboardType": "True",
@@ -9338,6 +9337,7 @@
   "FFlagExperienceLaunchExtraTelemetry": "True",
   "FFlagUnreliableEvents": "True",
   "FFlagVideoReportDPI_Rollout": "True;60;2023-11-29T23:09:55",
+  "FFlagUnreliableEventsStudioAwareness": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9618,8 +9618,8 @@
   "DFFlagFixClosingBugForMappedFile": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FFlagEnableCullableSceneOctree5": "True",
-  "FStringFlagRepoGitHashFastString": "3396ad4cd4f1b1005c984dc4bc21d76c26100cb3",
-  "DFStringFlagRepoGitHashDynamicString": "3396ad4cd4f1b1005c984dc4bc21d76c26100cb3",
-  "FStringFlipTimeStampFastString": "2023-11-29T23:10:32.667Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-29T23:10:32.667Z"
+  "FStringFlagRepoGitHashFastString": "fc64308ff2716cf5e139163f7192f41386bd4934",
+  "DFStringFlagRepoGitHashDynamicString": "fc64308ff2716cf5e139163f7192f41386bd4934",
+  "FStringFlipTimeStampFastString": "2023-11-29T23:12:19.250Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-29T23:12:19.250Z"
 }
