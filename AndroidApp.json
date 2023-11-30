@@ -9359,7 +9359,6 @@
   "IrisLaunchTimeBugFixForLoggedOutUser": "True",
   "FFlagAXRefactorAnimationManagerAnimSelection8": "True",
   "FFlagFixiOSDNDMode": "True",
-  "DFFlagAddCommonTagsForV2CounterAndStats_Rollout": "True;30;2023-11-30T23:20:48",
   "DFFlagTeleportInsights_Rollout": "True;60;2023-11-30T23:23:41",
   "DFFlagResetOptimizedTouchCollisionCheck_Rollout": "True;60;2023-11-30T23:27:23",
   "FFlagAlwaysCloneEnabled_Rollout": "True;30;2023-11-30T23:28:08",
@@ -9373,6 +9372,7 @@
   "FFlagParseIsolationTagFromMetadata_Rollout": "True;60;2023-11-30T23:34:08",
   "FFlagBetterPartSize_Rollout": "True;60;2023-11-30T23:46:41",
   "DFFlagSSReportLSCount_Rollout": "True;60;2023-11-30T23:55:00",
+  "DFFlagAddCommonTagsForV2CounterAndStats": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9765,8 +9765,8 @@
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2_PlaceFilter": "6;12640776771;11902022172",
-  "FStringFlagRepoGitHashFastString": "3d4037fcd80afa454f93b0b0630e804e38c2e26a",
-  "DFStringFlagRepoGitHashDynamicString": "3d4037fcd80afa454f93b0b0630e804e38c2e26a",
-  "FStringFlipTimeStampFastString": "2023-11-30T23:55:24.198Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-30T23:55:24.198Z"
+  "FStringFlagRepoGitHashFastString": "cbda58b21c5e55caba3c83328323a33e70897b95",
+  "DFStringFlagRepoGitHashDynamicString": "cbda58b21c5e55caba3c83328323a33e70897b95",
+  "FStringFlipTimeStampFastString": "2023-11-30T23:56:37.797Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-30T23:56:37.797Z"
 }
