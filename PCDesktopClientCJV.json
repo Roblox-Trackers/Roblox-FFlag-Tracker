@@ -9371,6 +9371,7 @@
   "DFIntTeleportInsightsTimingCounterThrottleHundredthsPercentage": "10",
   "DFIntTeleportInsightsTrustedCounterThrottleHundredthsPercentage": "10",
   "FFlagParseIsolationTagFromMetadata_Rollout": "True;60;2023-11-30T23:34:08",
+  "FFlagBetterPartSize_Rollout": "True;60;2023-11-30T23:46:41",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9655,8 +9656,8 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "a011a205b92343af8585cc4938527bda30a76738",
-  "DFStringFlagRepoGitHashDynamicString": "a011a205b92343af8585cc4938527bda30a76738",
-  "FStringFlipTimeStampFastString": "2023-11-30T23:41:25.956Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-30T23:41:25.956Z"
+  "FStringFlagRepoGitHashFastString": "c79d52c5054775c71e19c689786f53de840a8025",
+  "DFStringFlagRepoGitHashDynamicString": "c79d52c5054775c71e19c689786f53de840a8025",
+  "FStringFlipTimeStampFastString": "2023-11-30T23:47:07.623Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-30T23:47:07.623Z"
 }
