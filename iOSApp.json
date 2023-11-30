@@ -9361,6 +9361,8 @@
   "FFlagFixiOSDNDMode": "True",
   "DFFlagAddCommonTagsForV2CounterAndStats_Rollout": "True;30;2023-11-30T23:20:48",
   "DFFlagTeleportInsights_Rollout": "True;60;2023-11-30T23:23:41",
+  "DFFlagResetOptimizedTouchCollisionCheck_Rollout": "True;60;2023-11-30T23:27:23",
+  "FFlagAlwaysCloneEnabled_Rollout": "True;30;2023-11-30T23:28:08",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9713,8 +9715,8 @@
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FLogDebugQuadTreeLogging2_PlaceFilter": "6;12640776771;11902022172",
-  "FStringFlagRepoGitHashFastString": "12dc66944d21b07036b3b3e1133c84481f9300f8",
-  "DFStringFlagRepoGitHashDynamicString": "12dc66944d21b07036b3b3e1133c84481f9300f8",
-  "FStringFlipTimeStampFastString": "2023-11-30T23:24:20.715Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-30T23:24:20.715Z"
+  "FStringFlagRepoGitHashFastString": "4d448e4ecb66747fb3fa67d7a613a57af4ab06e3",
+  "DFStringFlagRepoGitHashDynamicString": "4d448e4ecb66747fb3fa67d7a613a57af4ab06e3",
+  "FStringFlipTimeStampFastString": "2023-11-30T23:28:31.659Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-30T23:28:31.659Z"
 }
