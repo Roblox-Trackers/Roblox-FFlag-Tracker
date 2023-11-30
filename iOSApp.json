@@ -9343,6 +9343,7 @@
   "FFlagPlatformFriendsService_Rollout": "True;60;2023-11-30T18:23:09",
   "FFlagXboxFixTextBoxesOnReturnToApp": "True",
   "FFlagEnableSubscriptionCompactTitle": "True",
+  "FFlagUseCoreScriptsRootProviderForSubscriptionPurchase": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9695,8 +9696,8 @@
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FLogDebugQuadTreeLogging2_PlaceFilter": "6;12640776771;11902022172",
-  "FStringFlagRepoGitHashFastString": "5daf30bd458da959bbb0ed8059124b19d524343b",
-  "DFStringFlagRepoGitHashDynamicString": "5daf30bd458da959bbb0ed8059124b19d524343b",
-  "FStringFlipTimeStampFastString": "2023-11-30T19:01:56.744Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-30T19:01:56.744Z"
+  "FStringFlagRepoGitHashFastString": "f838a8591eee28fdff4ff80b505d273bba487bc1",
+  "DFStringFlagRepoGitHashDynamicString": "f838a8591eee28fdff4ff80b505d273bba487bc1",
+  "FStringFlipTimeStampFastString": "2023-11-30T19:05:09.898Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-30T19:05:09.898Z"
 }
