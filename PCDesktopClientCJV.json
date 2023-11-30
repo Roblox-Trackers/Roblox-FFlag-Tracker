@@ -6804,7 +6804,6 @@
   "FFlagAvatarChatBanMessageV2": "True",
   "FFlagAssetPreviewContentAttribution3": "True",
   "FFlagUGCBodiesAndHeadsBetaFeature": "True",
-  "FIntUGCBodiesAndHeadsBetaFeatureRoleSet": "4",
   "FIntUGCBodiesAndHeadsBetaFeatureRolloutPercent": "100",
   "FStringUGCBodiesAndHeadsBetaFeatureUrl": "https://devforum.roblox.com/t/ugc-program-expanding-creation-and-monetization-with-avatar-bodies-and-heads/2531046",
   "FFlagToolboxAddNewUGCAssetTypes3": "True",
@@ -9343,6 +9342,7 @@
   "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagPlatformFriendsService_Rollout": "True;60;2023-11-30T18:23:09",
   "FFlagXboxFixTextBoxesOnReturnToApp": "True",
+  "FFlagEnableSubscriptionCompactTitle": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9627,8 +9627,8 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "babd0b06c91e843fac073594c71d82bfabc90049",
-  "DFStringFlagRepoGitHashDynamicString": "babd0b06c91e843fac073594c71d82bfabc90049",
-  "FStringFlipTimeStampFastString": "2023-11-30T18:56:37.894Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-30T18:56:37.894Z"
+  "FStringFlagRepoGitHashFastString": "5daf30bd458da959bbb0ed8059124b19d524343b",
+  "DFStringFlagRepoGitHashDynamicString": "5daf30bd458da959bbb0ed8059124b19d524343b",
+  "FStringFlipTimeStampFastString": "2023-11-30T19:01:56.744Z",
+  "DFStringFlipTimeStampDynamicString": "2023-11-30T19:01:56.744Z"
 }
