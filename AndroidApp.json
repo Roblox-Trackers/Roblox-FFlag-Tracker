@@ -9395,7 +9395,6 @@
   "FIntCAPTOSVersion": "1",
   "FFlagEditableImageMeshBetaFeature": "True",
   "FFlagQrCodePageEnabledUsePolicy": "True",
-  "FFlagPluginCalloutCustomOnShutdown_Rollout": "True;60;2023-12-01T00:53:45",
   "FFlagBetterPartSize": "True",
   "DFIntVideoOldEncryptedVideoFormatMetricsReportHundredthsPercent": "10000",
   "DFFlagSSReportLSCount": "True",
@@ -9403,6 +9402,7 @@
   "FFlagExposeGuiObjectStateEnums": "True",
   "DFFlagOptimizeComputeIsCollideFeaturePoly": "True",
   "FFlagCAPAddTutorialWorkflowLinks": "True",
+  "FFlagPluginCalloutCustomOnShutdown": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9794,8 +9794,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
-  "FStringFlagRepoGitHashFastString": "d8c9567e796fcd8b26147c7a5a804e8084c64866",
-  "DFStringFlagRepoGitHashDynamicString": "d8c9567e796fcd8b26147c7a5a804e8084c64866",
-  "FStringFlipTimeStampFastString": "2023-12-01T01:36:28.454Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-01T01:36:28.454Z"
+  "FStringFlagRepoGitHashFastString": "3204fa87445693d9c0b669ea79759494c5556841",
+  "DFStringFlagRepoGitHashDynamicString": "3204fa87445693d9c0b669ea79759494c5556841",
+  "FStringFlipTimeStampFastString": "2023-12-01T02:01:58.226Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-01T02:01:58.226Z"
 }
