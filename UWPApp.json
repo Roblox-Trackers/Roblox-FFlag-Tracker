@@ -9367,7 +9367,6 @@
   "DFIntTeleportInsightsTimingCounterThrottleHundredthsPercentage": "10",
   "DFIntTeleportInsightsTrustedCounterThrottleHundredthsPercentage": "10",
   "DFFlagAddCommonTagsForV2CounterAndStats": "True",
-  "FFlagExposeGuiObjectStateEnums_Rollout": "True;60;2023-11-30T23:59:34",
   "FFlagAlwaysCloneEnabled": "True",
   "DFIntMaxPollForCrossPublish": "8",
   "DFIntUniverseCopyPermissionsPollingPeriodSec": "2",
@@ -9400,9 +9399,10 @@
   "FFlagQrCodePageEnabledUsePolicy": "True",
   "FFlagPluginCalloutCustomOnShutdown_Rollout": "True;60;2023-12-01T00:53:45",
   "FFlagBetterPartSize": "True",
-  "FFlagNewDockingBetaFeature_Rollout": "True;5;2023-12-01T00:58:11",
   "DFIntVideoOldEncryptedVideoFormatMetricsReportHundredthsPercent": "10000",
   "DFFlagSSReportLSCount": "True",
+  "FFlagNewDockingBetaFeature": "True",
+  "FFlagExposeGuiObjectStateEnums": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9595,8 +9595,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "a3bf163217c982740b1f284c7111a915e2bbfa0c",
-  "DFStringFlagRepoGitHashDynamicString": "a3bf163217c982740b1f284c7111a915e2bbfa0c",
-  "FStringFlipTimeStampFastString": "2023-12-01T01:02:10.695Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-01T01:02:10.695Z"
+  "FStringFlagRepoGitHashFastString": "dea2c67c02019c4b54b8f25f88ff9e0b98e47ca7",
+  "DFStringFlagRepoGitHashDynamicString": "dea2c67c02019c4b54b8f25f88ff9e0b98e47ca7",
+  "FStringFlipTimeStampFastString": "2023-12-01T01:06:47.003Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-01T01:06:47.003Z"
 }
