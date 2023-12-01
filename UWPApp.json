@@ -9385,6 +9385,8 @@
   "DFFlagEnableCsmReceiveCounter": "False",
   "DFFlagEnableCsmReceiveCounter_PlaceFilter": "True;15297586239",
   "DFFlagTeleportInsights": "True",
+  "FFlagDraggerBetaFixes": "True",
+  "FFlagLuaAppConcurrentUsersPillHover": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9577,8 +9579,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "2324b4e64d57dd6f6a1b6d5d1b0f2d24e56190e0",
-  "DFStringFlagRepoGitHashDynamicString": "2324b4e64d57dd6f6a1b6d5d1b0f2d24e56190e0",
-  "FStringFlipTimeStampFastString": "2023-12-01T00:31:37.286Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-01T00:31:37.286Z"
+  "FStringFlagRepoGitHashFastString": "0d1ee567184e224736d51208f03ec24c3224ce44",
+  "DFStringFlagRepoGitHashDynamicString": "0d1ee567184e224736d51208f03ec24c3224ce44",
+  "FStringFlipTimeStampFastString": "2023-12-01T00:33:17.036Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-01T00:33:17.036Z"
 }
