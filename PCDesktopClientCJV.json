@@ -9410,10 +9410,11 @@
   "FFlagAXBypassScrollPanel": "True",
   "FFlagPlatformFriendsProfile": "True",
   "FIntStudioNotificationsBetaFeatureRolloutPercent": "100",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagUIBloxUseTokensInPlayerTile": "True",
   "FFlagEnableSetAndroidUpdateAdapter2_Rollout": "True;60;2023-12-01T18:50:56",
   "FFlagLiveScriptingReadOnlyIfNoRemoteEvent": "True",
+  "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -9422,7 +9423,6 @@
   "FFlagGpuGeometryManager10": "True",
   "FFlagGpuGeometryManager11": "True",
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
-  "FFlagRealtimeMetricsEnabledInConnectionManager": "True",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -9699,8 +9699,8 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "9ac6b05fff380fdb224b8e2d48f1a70777e88d4e",
-  "DFStringFlagRepoGitHashDynamicString": "9ac6b05fff380fdb224b8e2d48f1a70777e88d4e",
-  "FStringFlipTimeStampFastString": "2023-12-01T19:08:20.700Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-01T19:08:20.700Z"
+  "FStringFlagRepoGitHashFastString": "3f7d4bd63575a1a6ae6b5e421a791c9117d35fe9",
+  "DFStringFlagRepoGitHashDynamicString": "3f7d4bd63575a1a6ae6b5e421a791c9117d35fe9",
+  "FStringFlipTimeStampFastString": "2023-12-01T19:11:33.740Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-01T19:11:33.740Z"
 }
