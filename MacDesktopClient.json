@@ -9676,16 +9676,15 @@
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "FFlagMacClientSupportIME9": "False",
+  "FFlagMacClientSupportIME9": "True",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFFlagAddErrorCodeToMappedFileFailures": "True",
   "DFFlagFixClosingBugForMappedFile": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FFlagEnableCullableSceneOctree5": "True",
-  "FFlagMacClientSupportIME9_Rollout": "True;60;2023-12-01T00:29:27",
-  "FStringFlagRepoGitHashFastString": "eb770a349cf6db5a155c84daa6405a5bad9ff666",
-  "DFStringFlagRepoGitHashDynamicString": "eb770a349cf6db5a155c84daa6405a5bad9ff666",
-  "FStringFlipTimeStampFastString": "2023-12-01T01:34:58.601Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-01T01:34:58.601Z"
+  "FStringFlagRepoGitHashFastString": "d8c9567e796fcd8b26147c7a5a804e8084c64866",
+  "DFStringFlagRepoGitHashDynamicString": "d8c9567e796fcd8b26147c7a5a804e8084c64866",
+  "FStringFlipTimeStampFastString": "2023-12-01T01:36:28.454Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-01T01:36:28.454Z"
 }
