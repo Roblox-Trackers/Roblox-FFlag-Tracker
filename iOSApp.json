@@ -9374,6 +9374,7 @@
   "DFFlagSSReportLSCount_Rollout": "True;60;2023-11-30T23:55:00",
   "DFFlagAddCommonTagsForV2CounterAndStats": "True",
   "DFIntVideoOldEncryptedVideoFormatMetricsReportHundredthsPercent_Rollout": "10000;60;2023-11-30T23:57:09",
+  "FFlagExposeGuiObjectStateEnums_Rollout": "True;60;2023-11-30T23:59:34",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9726,8 +9727,8 @@
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FLogDebugQuadTreeLogging2_PlaceFilter": "6;12640776771;11902022172",
-  "FStringFlagRepoGitHashFastString": "8b7fa6747881406533864c5fe6228033731b1700",
-  "DFStringFlagRepoGitHashDynamicString": "8b7fa6747881406533864c5fe6228033731b1700",
-  "FStringFlipTimeStampFastString": "2023-11-30T23:57:40.688Z",
-  "DFStringFlipTimeStampDynamicString": "2023-11-30T23:57:40.688Z"
+  "FStringFlagRepoGitHashFastString": "4784239e980c68e3fc106619938c0799d1415820",
+  "DFStringFlagRepoGitHashDynamicString": "4784239e980c68e3fc106619938c0799d1415820",
+  "FStringFlipTimeStampFastString": "2023-12-01T00:00:02.031Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-01T00:00:02.031Z"
 }
