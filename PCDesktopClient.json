@@ -9378,11 +9378,11 @@
   "DFIntMaxPollForCrossPublish": "8",
   "DFIntUniverseCopyPermissionsPollingPeriodSec": "2",
   "FFlagFixRichTextLineHeight2_PlaceFilter": "False;14767738361;8907562327",
-  "FFlagGrantPermissionsOnPaste2_Rollout": "True;10;2023-12-01T00:12:04",
-  "FFlagImplicitGrantOnPublishAs3_Rollout": "True;10;2023-12-01T00:12:59",
   "DFFlagOptimizeComputeIsCollideFeaturePoly_Rollout": "True;60;2023-12-01T00:13:15",
   "FFlagUIBloxUseNewZindex": "True",
-  "FFlagSendChatSpecialKey_Rollout": "True;5;2023-12-01T00:18:01",
+  "FFlagGrantPermissionsOnPaste2": "True",
+  "FFlagImplicitGrantOnPublishAs3": "True",
+  "FFlagSendChatSpecialKey": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9666,8 +9666,8 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
-  "FStringFlagRepoGitHashFastString": "0f79dc416e96a67837c24617fabbd0e729c071dd",
-  "DFStringFlagRepoGitHashDynamicString": "0f79dc416e96a67837c24617fabbd0e729c071dd",
-  "FStringFlipTimeStampFastString": "2023-12-01T00:24:15.249Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-01T00:24:15.249Z"
+  "FStringFlagRepoGitHashFastString": "87a10d1eb5aca767c878af0fe60c6c537b15da15",
+  "DFStringFlagRepoGitHashDynamicString": "87a10d1eb5aca767c878af0fe60c6c537b15da15",
+  "FStringFlipTimeStampFastString": "2023-12-01T00:26:29.928Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-01T00:26:29.928Z"
 }
