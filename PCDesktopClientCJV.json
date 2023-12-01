@@ -9375,6 +9375,8 @@
   "DFIntVideoOldEncryptedVideoFormatMetricsReportHundredthsPercent_Rollout": "10000;60;2023-11-30T23:57:09",
   "FFlagExposeGuiObjectStateEnums_Rollout": "True;60;2023-11-30T23:59:34",
   "FFlagAlwaysCloneEnabled": "True",
+  "DFIntMaxPollForCrossPublish": "8",
+  "DFIntUniverseCopyPermissionsPollingPeriodSec": "2",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9659,8 +9661,8 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "dbc90cb0e5e44fccd166d6baa7160331f31055c8",
-  "DFStringFlagRepoGitHashDynamicString": "dbc90cb0e5e44fccd166d6baa7160331f31055c8",
-  "FStringFlipTimeStampFastString": "2023-12-01T00:02:44.875Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-01T00:02:44.875Z"
+  "FStringFlagRepoGitHashFastString": "cdbe0e1ac7567e7928e7eb965eb8a0c049e32086",
+  "DFStringFlagRepoGitHashDynamicString": "cdbe0e1ac7567e7928e7eb965eb8a0c049e32086",
+  "FStringFlipTimeStampFastString": "2023-12-01T00:08:02.662Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-01T00:08:02.662Z"
 }
