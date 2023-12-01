@@ -9359,7 +9359,6 @@
   "IrisLaunchTimeBugFixForLoggedOutUser": "True",
   "FFlagAXRefactorAnimationManagerAnimSelection8": "True",
   "FFlagFixiOSDNDMode": "True",
-  "DFFlagTeleportInsights_Rollout": "True;60;2023-11-30T23:23:41",
   "DFFlagResetOptimizedTouchCollisionCheck_Rollout": "True;60;2023-11-30T23:27:23",
   "DFIntGameClientTeleportInsightsCounterThrottleHundredthsPercentage": "10",
   "DFIntTeleportInsightsFailedEventCounterThrottleHundredthsPercentage": "10",
@@ -9385,6 +9384,7 @@
   "FFlagSendChatSpecialKey": "True",
   "DFFlagEnableCsmReceiveCounter": "False",
   "DFFlagEnableCsmReceiveCounter_PlaceFilter": "True;15297586239",
+  "DFFlagTeleportInsights": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9577,8 +9577,8 @@
   "FFlagLuaAppFixLoggedOutInSessionJitter": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
-  "FStringFlagRepoGitHashFastString": "ca6ffd703cfce8d40b6ca7d342c60cef2936a1a4",
-  "DFStringFlagRepoGitHashDynamicString": "ca6ffd703cfce8d40b6ca7d342c60cef2936a1a4",
-  "FStringFlipTimeStampFastString": "2023-12-01T00:29:49.819Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-01T00:29:49.819Z"
+  "FStringFlagRepoGitHashFastString": "2324b4e64d57dd6f6a1b6d5d1b0f2d24e56190e0",
+  "DFStringFlagRepoGitHashDynamicString": "2324b4e64d57dd6f6a1b6d5d1b0f2d24e56190e0",
+  "FStringFlipTimeStampFastString": "2023-12-01T00:31:37.286Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-01T00:31:37.286Z"
 }
