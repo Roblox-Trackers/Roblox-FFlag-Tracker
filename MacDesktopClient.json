@@ -9321,7 +9321,7 @@
   "FFlagVideoCaptureStopNotPassStream": "True",
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagRenderUseMediump": "True",
-  "FFlagVideoCameraAsyncEnabled": "True",
+  "FFlagVideoCameraAsyncEnabled": "False",
   "FStringGraphicsVulkanFutureGPUNameBlacklist": "Adreno (TM) 530;Adreno (TM) 618;Adreno (TM) 619;Adreno (TM) 504;PowerVR Rogue GE8320;Adreno (TM) 612",
   "FFlagExperienceLaunchTelemetry": "True",
   "DFFlagUnreliableEventsThrowBeforeRelease": "False",
@@ -9700,8 +9700,8 @@
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FFlagEnableCullableSceneOctree5": "True",
   "FStringRealtimeClientTargetName": "osx",
-  "FStringFlagRepoGitHashFastString": "fe458b456934f658680b398f31ebf2a6d00cb970",
-  "DFStringFlagRepoGitHashDynamicString": "fe458b456934f658680b398f31ebf2a6d00cb970",
-  "FStringFlipTimeStampFastString": "2023-12-02T00:01:16.669Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-02T00:01:16.669Z"
+  "FStringFlagRepoGitHashFastString": "594fc250e3b98cf53671442fe0363031363e1c94",
+  "DFStringFlagRepoGitHashDynamicString": "594fc250e3b98cf53671442fe0363031363e1c94",
+  "FStringFlipTimeStampFastString": "2023-12-02T00:28:21.690Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-02T00:28:21.690Z"
 }
