@@ -9420,10 +9420,7 @@
   "DFIntQosEventThrottle": "20",
   "DFFlagRealtimeClientTargetAnalytics": "True",
   "FFlagNotificationsExperienceDetailsUpdate3": "True",
-  "DFFlagAddSessionIdToCrashPad_Rollout": "True;60;2023-12-04T17:17:28",
-  "FFlagMacRestartClientOnWarmWebLaunch_Rollout": "True;60;2023-12-04T17:19:29",
   "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "False",
-  "FFlagRealtimeReliabilityMeasurementEnable_Rollout": "True;30;2023-12-04T17:49:58",
   "FFlagLuauBit32Byteswap_Rollout": "True;30;2023-12-04T17:57:01",
   "FFlagVoiceInputUseNewAudioApi5_Rollout": "True;60;2023-12-04T17:59:36",
   "DFFlagAvoidEraseAddedInstancesUnderModels_Rollout": "True;60;2023-12-04T18:04:43",
@@ -9440,6 +9437,9 @@
   "DFFlagEnableRetryForSubscribeOnReconnect_PlaceFilter": "True;15297586239",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2023-12-04T18:25:26",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2023-12-04T18:25:51",
+  "FFlagRealtimeReliabilityMeasurementEnable": "True",
+  "DFFlagAddSessionIdToCrashPad": "True",
+  "FFlagMacRestartClientOnWarmWebLaunch": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9763,8 +9763,8 @@
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
   "FStringRealtimeClientTargetName": "XBox",
-  "FStringFlagRepoGitHashFastString": "d9f9758e97572b84df01f6d375d413842aa7745c",
-  "DFStringFlagRepoGitHashDynamicString": "d9f9758e97572b84df01f6d375d413842aa7745c",
-  "FStringFlipTimeStampFastString": "2023-12-04T18:26:18.125Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T18:26:18.125Z"
+  "FStringFlagRepoGitHashFastString": "8abf1a4543db4179133b0586a48d56c73dcefe70",
+  "DFStringFlagRepoGitHashDynamicString": "8abf1a4543db4179133b0586a48d56c73dcefe70",
+  "FStringFlipTimeStampFastString": "2023-12-04T18:26:38.410Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T18:26:38.410Z"
 }
