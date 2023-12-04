@@ -9444,6 +9444,8 @@
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FFlagPhysicalPropertiesReadOnlyFix_Rollout": "True;30;2023-12-04T19:12:57",
   "DFFlagFixClosingBugForMappedFile": "True",
+  "FFlagNoItemSharedPtrInNetworkLatencyScopes_Rollout": "True;60;2023-12-04T19:24:14",
+  "DFIntPublishPerMinuteLimitBase_Rollout": "300;30;2023-12-04T19:24:53",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9793,8 +9795,8 @@
   "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
-  "FStringFlagRepoGitHashFastString": "68acc0d2757b3d12d895ebcd2abb4f6ca57ac722",
-  "DFStringFlagRepoGitHashDynamicString": "68acc0d2757b3d12d895ebcd2abb4f6ca57ac722",
-  "FStringFlipTimeStampFastString": "2023-12-04T19:21:59.763Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T19:21:59.763Z"
+  "FStringFlagRepoGitHashFastString": "c891079e8c1c3403473571fc3e1ec3ac56c564df",
+  "DFStringFlagRepoGitHashDynamicString": "c891079e8c1c3403473571fc3e1ec3ac56c564df",
+  "FStringFlipTimeStampFastString": "2023-12-04T19:25:36.073Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T19:25:36.073Z"
 }
