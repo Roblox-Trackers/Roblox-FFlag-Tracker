@@ -9463,6 +9463,7 @@
   "FFlagTerrainVoxelChannel_Rollout": "True;60;2023-12-04T22:26:32",
   "FStringReportAbuseMenuRoactForcedUserIds": "3501323813;4249672033;4903090547;2029193318;",
   "DFFlagEnableRetryForSubscribeOnReconnect_Rollout": "True;60;2023-12-04T22:35:02",
+  "DFFlagEngineStabilityUseSessionResultV2_Rollout": "True;60;2023-12-04T22:35:48",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9785,11 +9786,11 @@
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
   "FStringRealtimeClientTargetName": "XBox",
-  "FFlagHangDetectionJobV2_Rollout": "True;60;2023-12-04T21:30:16",
-  "DFIntHangDetectionJobV2TimeoutMs_Rollout": "0;60;2023-12-04T21:30:47",
   "FFlagXboxSystemUtilDeviceName": "True",
-  "FStringFlagRepoGitHashFastString": "275811abdb9a78f40f30b5f570dad21c20d74ca6",
-  "DFStringFlagRepoGitHashDynamicString": "275811abdb9a78f40f30b5f570dad21c20d74ca6",
-  "FStringFlipTimeStampFastString": "2023-12-04T22:35:23.748Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:35:23.748Z"
+  "DFIntHangDetectionJobV2TimeoutMs": "0",
+  "FFlagHangDetectionJobV2": "True",
+  "FStringFlagRepoGitHashFastString": "94fb23ca08ece91ba1af5e18e03bcaf31da81ddc",
+  "DFStringFlagRepoGitHashDynamicString": "94fb23ca08ece91ba1af5e18e03bcaf31da81ddc",
+  "FStringFlipTimeStampFastString": "2023-12-04T22:36:44.246Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:36:44.246Z"
 }
