@@ -9425,7 +9425,6 @@
   "DFFlagAddSessionIdToCrashPad_Rollout": "True;60;2023-12-04T17:17:28",
   "FFlagMacRestartClientOnWarmWebLaunch_Rollout": "True;60;2023-12-04T17:19:29",
   "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "False",
-  "FFlagLuauBufferTypeck_Rollout": "True;30;2023-12-04T17:33:46",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagLuauBit32Byteswap_Rollout": "True;30;2023-12-04T17:57:01",
   "FFlagVoiceInputUseNewAudioApi5_Rollout": "True;60;2023-12-04T17:59:36",
@@ -9433,6 +9432,7 @@
   "FFlagLuaAppShowPillContainsStrongLanguageIXP": "True",
   "FFlagLuauBufferBetterMsg": "True",
   "DFIntOptimizeAutosaveIntervalRolloutPercentage_Rollout": "100;10;2023-12-04T18:09:04",
+  "FFlagLuauBufferTypeck": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -9712,8 +9712,8 @@
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FFlagEnableCullableSceneOctree5": "True",
   "FStringRealtimeClientTargetName": "osx",
-  "FStringFlagRepoGitHashFastString": "082fe5273ef58e50408f99d2940b47f3c5790e7f",
-  "DFStringFlagRepoGitHashDynamicString": "082fe5273ef58e50408f99d2940b47f3c5790e7f",
-  "FStringFlipTimeStampFastString": "2023-12-04T18:09:56.888Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T18:09:56.888Z"
+  "FStringFlagRepoGitHashFastString": "95fb09d6dbaecc3a3494cecf30cf3dd6b2c8f358",
+  "DFStringFlagRepoGitHashDynamicString": "95fb09d6dbaecc3a3494cecf30cf3dd6b2c8f358",
+  "FStringFlipTimeStampFastString": "2023-12-04T18:11:40.609Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T18:11:40.609Z"
 }
