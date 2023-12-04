@@ -6799,7 +6799,6 @@
   "FFlagMaterialGeneratorEnableTests": "True",
   "FFlagDevFrameworkGridCellGroups": "True",
   "FFlagContentProviderFixVideoPreload": "True",
-  "FFlagContentProviderFixVideoPreload_PlaceFilter": "False;12734143030",
   "DFFlagSimAddAveWorldStepDtPlaySessionId": "True",
   "FFlagAvatarChatBanMessageV2": "True",
   "FFlagAssetPreviewContentAttribution3": "True",
@@ -9420,6 +9419,7 @@
   "DFFlagDSTelemetryIncludeScopeAndDmForListingApis": "True",
   "DFIntQosEventThrottle": "20",
   "DFFlagRealtimeClientTargetAnalytics": "True",
+  "DFFlagAddSessionIdToCrashPadStudio_Rollout": "True;60;2023-12-04T17:15:12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9700,8 +9700,8 @@
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FFlagEnableCullableSceneOctree5": "True",
   "FStringRealtimeClientTargetName": "osx",
-  "FStringFlagRepoGitHashFastString": "594fc250e3b98cf53671442fe0363031363e1c94",
-  "DFStringFlagRepoGitHashDynamicString": "594fc250e3b98cf53671442fe0363031363e1c94",
-  "FStringFlipTimeStampFastString": "2023-12-02T00:28:21.690Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-02T00:28:21.690Z"
+  "FStringFlagRepoGitHashFastString": "d2f55a4fd30833339fa22f90ae7a11e2027f960b",
+  "DFStringFlagRepoGitHashDynamicString": "d2f55a4fd30833339fa22f90ae7a11e2027f960b",
+  "FStringFlipTimeStampFastString": "2023-12-04T17:16:09.533Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T17:16:09.533Z"
 }
