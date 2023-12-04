@@ -9442,6 +9442,7 @@
   "FFlagLuauBit32Byteswap": "True",
   "FFlagChromeSurveySupport": "True",
   "FFlagStudioFixEnterMultiplePlacesCrash2": "True",
+  "AllowVideoPreRoll": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -9452,7 +9453,6 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9720,8 +9720,8 @@
   "FFlagEnableMmapForMemProfStorageFlushing2": "True",
   "FFlagEnableCullableSceneOctree5": "True",
   "FStringRealtimeClientTargetName": "osx",
-  "FStringFlagRepoGitHashFastString": "4d3373a3273bfacf6c9c598e3a95169b5a2d3f91",
-  "DFStringFlagRepoGitHashDynamicString": "4d3373a3273bfacf6c9c598e3a95169b5a2d3f91",
-  "FStringFlipTimeStampFastString": "2023-12-04T18:58:43.230Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T18:58:43.230Z"
+  "FStringFlagRepoGitHashFastString": "6680cc554940106ae27d23970a7d993a80aaaf6f",
+  "DFStringFlagRepoGitHashDynamicString": "6680cc554940106ae27d23970a7d993a80aaaf6f",
+  "FStringFlipTimeStampFastString": "2023-12-04T19:05:50.527Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T19:05:50.527Z"
 }
