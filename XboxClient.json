@@ -9336,7 +9336,7 @@
   "FFlagXboxRespectPermissionsGameJoin": "True",
   "DFIntLogExperienceLaunchAttemptThrottleHundredthsPercentage": "100",
   "DFIntLogExperienceLaunchFailureThrottleHundredthsPercentage": "100",
-  "FFlagVoiceInputUseNewAudioApi5": "False",
+  "FFlagVoiceInputUseNewAudioApi5": "True",
   "FFlagVoiceInputUseNewAudioApi5_PlaceFilter": "True;15382034501;15499999688;15422875287",
   "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagXboxFixTextBoxesOnReturnToApp": "True",
@@ -9421,7 +9421,6 @@
   "DFFlagRealtimeClientTargetAnalytics": "True",
   "FFlagNotificationsExperienceDetailsUpdate3": "True",
   "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "False",
-  "FFlagVoiceInputUseNewAudioApi5_Rollout": "True;60;2023-12-04T17:59:36",
   "DFFlagAvoidEraseAddedInstancesUnderModels_Rollout": "True;60;2023-12-04T18:04:43",
   "FFlagLuaAppShowPillContainsStrongLanguageIXP": "True",
   "FFlagLuauBufferBetterMsg": "True",
@@ -9767,8 +9766,8 @@
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
   "FStringRealtimeClientTargetName": "XBox",
-  "FStringFlagRepoGitHashFastString": "9501d99e6d39816d1680b3beb5552c3bc6cad1ef",
-  "DFStringFlagRepoGitHashDynamicString": "9501d99e6d39816d1680b3beb5552c3bc6cad1ef",
-  "FStringFlipTimeStampFastString": "2023-12-04T19:07:30.049Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T19:07:30.049Z"
+  "FStringFlagRepoGitHashFastString": "b3f6a5605dd511bcf7e8f2e1af55d4769d40e0cf",
+  "DFStringFlagRepoGitHashDynamicString": "b3f6a5605dd511bcf7e8f2e1af55d4769d40e0cf",
+  "FStringFlipTimeStampFastString": "2023-12-04T19:08:37.877Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T19:08:37.877Z"
 }
