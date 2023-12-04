@@ -9467,6 +9467,7 @@
   "DFFlagAllExitReasonsUseStringArray_Rollout": "True;60;2023-12-04T22:36:44",
   "DFFlagStopFlushTimerWhenInferredCrashDestruct_Rollout": "True;60;2023-12-04T22:37:17",
   "DFFlagModelStreamingBehaviorField_Rollout": "True;60;2023-12-04T22:39:50",
+  "DFFlagConsistentLoadCharacterCallbacks2_Rollout": "True;60;2023-12-04T22:40:02",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9742,8 +9743,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "FFlagEnableCullableSceneOctree5": "True",
   "FStringRealtimeClientTargetName": "osx",
-  "FStringFlagRepoGitHashFastString": "0d7a10d1ca39cdd8b73fca2d82acc4980b706275",
-  "DFStringFlagRepoGitHashDynamicString": "0d7a10d1ca39cdd8b73fca2d82acc4980b706275",
-  "FStringFlipTimeStampFastString": "2023-12-04T22:40:26.489Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:40:26.489Z"
+  "FStringFlagRepoGitHashFastString": "c654804521c31ce49d5e68c209d06565ef5dd934",
+  "DFStringFlagRepoGitHashDynamicString": "c654804521c31ce49d5e68c209d06565ef5dd934",
+  "FStringFlipTimeStampFastString": "2023-12-04T22:40:45.834Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:40:45.834Z"
 }
