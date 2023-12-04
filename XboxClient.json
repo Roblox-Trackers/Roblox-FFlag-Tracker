@@ -9782,10 +9782,11 @@
   "FFlagXboxCleanupArchive": "True",
   "FFlagTenFootUiSearchLoadMore": "False",
   "FStringRealtimeClientTargetName": "XBox",
-  "FFlagXboxSystemUtilDeviceName_Rollout": "True;60;2023-12-04T20:22:16",
   "FFlagHangDetectionJobV2_Rollout": "True;60;2023-12-04T21:30:16",
-  "FStringFlagRepoGitHashFastString": "e35bf3879cfa7c148f114197d0ffcbbc980884e6",
-  "DFStringFlagRepoGitHashDynamicString": "e35bf3879cfa7c148f114197d0ffcbbc980884e6",
-  "FStringFlipTimeStampFastString": "2023-12-04T21:30:36.157Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T21:30:36.157Z"
+  "DFIntHangDetectionJobV2TimeoutMs_Rollout": "0;60;2023-12-04T21:30:47",
+  "FFlagXboxSystemUtilDeviceName": "True",
+  "FStringFlagRepoGitHashFastString": "8ec35d3619ba95601581222298857d90fb2c7d27",
+  "DFStringFlagRepoGitHashDynamicString": "8ec35d3619ba95601581222298857d90fb2c7d27",
+  "FStringFlipTimeStampFastString": "2023-12-04T21:31:41.645Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T21:31:41.645Z"
 }
