@@ -9424,6 +9424,8 @@
   "FFlagNotificationsExperienceDetailsUpdate3": "True",
   "DFFlagAddSessionIdToCrashPad_Rollout": "True;60;2023-12-04T17:17:28",
   "FFlagMacRestartClientOnWarmWebLaunch_Rollout": "True;60;2023-12-04T17:19:29",
+  "FFlagLuauBufferBetterMsg_Rollout": "True;30;2023-12-04T17:29:02",
+  "FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9618,8 +9620,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "5bb7b9277ae8a762b3c86c433ba2738ab39b246b",
-  "DFStringFlagRepoGitHashDynamicString": "5bb7b9277ae8a762b3c86c433ba2738ab39b246b",
-  "FStringFlipTimeStampFastString": "2023-12-04T17:27:31.770Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T17:27:31.770Z"
+  "FStringFlagRepoGitHashFastString": "669c04724dd2535f7803be9adb8d2af05ae8818b",
+  "DFStringFlagRepoGitHashDynamicString": "669c04724dd2535f7803be9adb8d2af05ae8818b",
+  "FStringFlipTimeStampFastString": "2023-12-04T17:30:41.269Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T17:30:41.269Z"
 }
