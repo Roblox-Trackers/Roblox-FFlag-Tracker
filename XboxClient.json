@@ -9452,7 +9452,6 @@
   "DFIntSubscriptionsPerServerBase": "10",
   "FFlagHideExperienceLoadingJudder2": "True",
   "FFlagNoItemSharedPtrInNetworkLatencyScopes": "True",
-  "FFlagCFrameLookAlong_Rollout": "True;60;2023-12-04T20:46:56",
   "EnableChargeRequestIdPurchases2": "True",
   "EnablePendingPurchaseWithUserId": "True",
   "FFlagVoiceUpsellSeenModalFix": "True",
@@ -9461,6 +9460,7 @@
   "FFlagUniversalAppCameraEnabled4": "True",
   "FFlagEnableSocialServiceIrisInitCallPlacedUpdate": "True",
   "FFlagEnableMmapForMemProfStorageFlushing2_Rollout": "True;30;2023-12-04T21:34:04",
+  "FFlagCFrameLookAlong": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9786,8 +9786,8 @@
   "FFlagHangDetectionJobV2_Rollout": "True;60;2023-12-04T21:30:16",
   "DFIntHangDetectionJobV2TimeoutMs_Rollout": "0;60;2023-12-04T21:30:47",
   "FFlagXboxSystemUtilDeviceName": "True",
-  "FStringFlagRepoGitHashFastString": "6fc3e2a60cd7e728b377b2dcb89f164b1bd746bf",
-  "DFStringFlagRepoGitHashDynamicString": "6fc3e2a60cd7e728b377b2dcb89f164b1bd746bf",
-  "FStringFlipTimeStampFastString": "2023-12-04T21:48:43.624Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T21:48:43.624Z"
+  "FStringFlagRepoGitHashFastString": "645443dabbded097b7314b409888e20917672db7",
+  "DFStringFlagRepoGitHashDynamicString": "645443dabbded097b7314b409888e20917672db7",
+  "FStringFlipTimeStampFastString": "2023-12-04T21:51:29.098Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T21:51:29.098Z"
 }
