@@ -9464,6 +9464,8 @@
   "FStringReportAbuseMenuRoactForcedUserIds": "3501323813;4249672033;4903090547;2029193318;",
   "DFFlagEnableRetryForSubscribeOnReconnect_Rollout": "True;60;2023-12-04T22:35:02",
   "DFFlagEngineStabilityUseSessionResultV2_Rollout": "True;60;2023-12-04T22:35:48",
+  "DFFlagAllExitReasonsUseStringArray_Rollout": "True;60;2023-12-04T22:36:44",
+  "DFFlagStopFlushTimerWhenInferredCrashDestruct_Rollout": "True;60;2023-12-04T22:37:17",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9743,8 +9745,8 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
-  "FStringFlagRepoGitHashFastString": "94fb23ca08ece91ba1af5e18e03bcaf31da81ddc",
-  "DFStringFlagRepoGitHashDynamicString": "94fb23ca08ece91ba1af5e18e03bcaf31da81ddc",
-  "FStringFlipTimeStampFastString": "2023-12-04T22:36:44.246Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:36:44.246Z"
+  "FStringFlagRepoGitHashFastString": "6e4ea76b76f452e1225298535923207bf88b10cc",
+  "DFStringFlagRepoGitHashDynamicString": "6e4ea76b76f452e1225298535923207bf88b10cc",
+  "FStringFlipTimeStampFastString": "2023-12-04T22:37:46.488Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:37:46.488Z"
 }
