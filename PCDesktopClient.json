@@ -9444,6 +9444,7 @@
   "DFFlagAvoidEraseAddedInstancesUnderModels": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "20",
   "FStringNewDockingBetaFeatureUrl_Rollout": "https://devforum.roblox.com/t/docking-updates-studio-beta/2729762;1;2023-12-04T19:12:53",
+  "FFlagPhysicalPropertiesReadOnlyFix_Rollout": "True;30;2023-12-04T19:12:57",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9724,8 +9725,8 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
-  "FStringFlagRepoGitHashFastString": "2fda307639b555ca59040ae7fee9b9d11e83ad9c",
-  "DFStringFlagRepoGitHashDynamicString": "2fda307639b555ca59040ae7fee9b9d11e83ad9c",
-  "FStringFlipTimeStampFastString": "2023-12-04T19:13:25.344Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T19:13:25.344Z"
+  "FStringFlagRepoGitHashFastString": "46e07d6b7f95052ba66210a7e46b04e679d9aeb7",
+  "DFStringFlagRepoGitHashDynamicString": "46e07d6b7f95052ba66210a7e46b04e679d9aeb7",
+  "FStringFlipTimeStampFastString": "2023-12-04T19:13:34.822Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T19:13:34.822Z"
 }
