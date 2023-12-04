@@ -9468,11 +9468,12 @@
   "DFFlagConsistentLoadCharacterCallbacks2_Rollout": "True;60;2023-12-04T22:40:02",
   "FFlagLuaEnableGameInviteModalInvitePromptV2": "True",
   "FFlagStudioResetLayoutForCurrentRevisionOnly2": "True",
-  "FFlagLuauFullLoopLuserdata_Rollout": "True;30;2023-12-04T23:01:05",
   "FFlagFmodMacGetDeviceBusType_Rollout": "True;60;2023-12-04T23:22:53",
   "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "500;30;2023-12-04T23:26:19",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent_Rollout": "10;30;2023-12-04T23:28:32",
   "FFlagTerrainVoxelChannel": "True",
+  "FFlagLuaAppFixGameTileActionBarReporting": "True",
+  "FFlagLuauFullLoopLuserdata": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9798,8 +9799,8 @@
   "FFlagXboxSystemUtilDeviceName": "True",
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
-  "FStringFlagRepoGitHashFastString": "54c9d41056bbd3b838fb08326e15eea50f234038",
-  "DFStringFlagRepoGitHashDynamicString": "54c9d41056bbd3b838fb08326e15eea50f234038",
-  "FStringFlipTimeStampFastString": "2023-12-04T23:32:02.680Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T23:32:02.680Z"
+  "FStringFlagRepoGitHashFastString": "8486c7990a05ec785cc8ae21f5a22e34d729bc02",
+  "DFStringFlagRepoGitHashDynamicString": "8486c7990a05ec785cc8ae21f5a22e34d729bc02",
+  "FStringFlipTimeStampFastString": "2023-12-04T23:36:39.445Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T23:36:39.445Z"
 }
