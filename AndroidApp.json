@@ -9439,11 +9439,11 @@
   "FFlagLuauBit32Byteswap": "True",
   "FFlagChromeSurveySupport": "True",
   "FFlagStudioFixEnterMultiplePlacesCrash2": "True",
-  "DFFlagFixClosingBugForMappedFile_Rollout": "True;15;2023-12-04T19:01:39",
   "DFFlagAddErrorCodeToMappedFileFailures_Rollout": "True;30;2023-12-04T19:05:01",
   "DFFlagAvoidEraseAddedInstancesUnderModels": "True",
   "FIntRealtimeReliabilityMeasurementEnableHundredthPercent": "5",
   "FFlagPhysicalPropertiesReadOnlyFix_Rollout": "True;30;2023-12-04T19:12:57",
+  "DFFlagFixClosingBugForMappedFile": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9835,8 +9835,8 @@
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
   "FStringRealtimeClientTargetName": "Android",
-  "FStringFlagRepoGitHashFastString": "a6790604cb66562ca285b56b7c18e80db8e16575",
-  "DFStringFlagRepoGitHashDynamicString": "a6790604cb66562ca285b56b7c18e80db8e16575",
-  "FStringFlipTimeStampFastString": "2023-12-04T19:16:54.318Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T19:16:54.318Z"
+  "FStringFlagRepoGitHashFastString": "68acc0d2757b3d12d895ebcd2abb4f6ca57ac722",
+  "DFStringFlagRepoGitHashDynamicString": "68acc0d2757b3d12d895ebcd2abb4f6ca57ac722",
+  "FStringFlipTimeStampFastString": "2023-12-04T19:21:59.763Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T19:21:59.763Z"
 }
