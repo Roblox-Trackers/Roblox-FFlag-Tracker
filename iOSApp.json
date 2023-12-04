@@ -8685,7 +8685,6 @@
   "FFlagEnableSessionCheckInEngine1": "True",
   "FFlagLuaEnableGameInviteModal2023V5": "True",
   "FFlagLuaEnableGameInviteModalSettingsHub": "True",
-  "FFlagLuaEnableGameInviteModalInvitePrompt": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnification": "True",
   "DFFlagEnableSeamlessFullscreenAnimationOnRotation": "True",
   "FFlagScriptProfilerFrequencyControl": "True",
@@ -9469,6 +9468,7 @@
   "DFFlagModelStreamingBehaviorField_Rollout": "True;60;2023-12-04T22:39:50",
   "DFFlagConsistentLoadCharacterCallbacks2_Rollout": "True;60;2023-12-04T22:40:02",
   "FFlagStudioResetLayoutForCurrentRevisionOnly2_Rollout": "True;1;2023-12-04T22:53:47",
+  "FFlagLuaEnableGameInviteModalInvitePromptV2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9818,8 +9818,8 @@
   "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
-  "FStringFlagRepoGitHashFastString": "56c3b188a1840bad3824e2d39b2a6b187c44710a",
-  "DFStringFlagRepoGitHashDynamicString": "56c3b188a1840bad3824e2d39b2a6b187c44710a",
-  "FStringFlipTimeStampFastString": "2023-12-04T22:54:31.852Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:54:31.852Z"
+  "FStringFlagRepoGitHashFastString": "baee5983b70272ad18d648def311d3709fcfd71c",
+  "DFStringFlagRepoGitHashDynamicString": "baee5983b70272ad18d648def311d3709fcfd71c",
+  "FStringFlipTimeStampFastString": "2023-12-04T22:55:06.465Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:55:06.465Z"
 }

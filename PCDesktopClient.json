@@ -8685,7 +8685,6 @@
   "FFlagEnableSessionCheckInEngine1": "True",
   "FFlagLuaEnableGameInviteModal2023V5": "True",
   "FFlagLuaEnableGameInviteModalSettingsHub": "True",
-  "FFlagLuaEnableGameInviteModalInvitePrompt": "True",
   "FFlagLuaInExperienceCoreScriptsGameInviteUnification": "True",
   "DFFlagEnableSeamlessFullscreenAnimationOnRotation": "True",
   "FFlagScriptProfilerFrequencyControl": "True",
@@ -9468,6 +9467,8 @@
   "DFFlagStopFlushTimerWhenInferredCrashDestruct_Rollout": "True;60;2023-12-04T22:37:17",
   "DFFlagModelStreamingBehaviorField_Rollout": "True;60;2023-12-04T22:39:50",
   "DFFlagConsistentLoadCharacterCallbacks2_Rollout": "True;60;2023-12-04T22:40:02",
+  "FFlagStudioResetLayoutForCurrentRevisionOnly2_Rollout": "True;1;2023-12-04T22:53:47",
+  "FFlagLuaEnableGameInviteModalInvitePromptV2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9747,8 +9748,8 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
-  "FStringFlagRepoGitHashFastString": "36859da975852d4e7f8289cab5e67887e2e5053b",
-  "DFStringFlagRepoGitHashDynamicString": "36859da975852d4e7f8289cab5e67887e2e5053b",
-  "FStringFlipTimeStampFastString": "2023-12-04T22:54:03.678Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:54:03.678Z"
+  "FStringFlagRepoGitHashFastString": "baee5983b70272ad18d648def311d3709fcfd71c",
+  "DFStringFlagRepoGitHashDynamicString": "baee5983b70272ad18d648def311d3709fcfd71c",
+  "FStringFlipTimeStampFastString": "2023-12-04T22:55:06.465Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:55:06.465Z"
 }
