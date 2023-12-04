@@ -9363,7 +9363,7 @@
   "DFIntTeleportInsightsMethodCounterThrottleHundredthsPercentage": "10",
   "DFIntTeleportInsightsMethodFailureCounterThrottleHundredthsPercentage": "10",
   "DFIntTeleportInsightsMethodSuccessCounterThrottleHundredthsPercentage": "10",
-  "DFIntTeleportInsightsTimingCounterThrottleHundredthsPercentage": "10",
+  "DFIntTeleportInsightsTimingCounterThrottleHundredthsPercentage": "100",
   "DFIntTeleportInsightsTrustedCounterThrottleHundredthsPercentage": "10",
   "DFFlagAddCommonTagsForV2CounterAndStats": "True",
   "FFlagAlwaysCloneEnabled": "True",
@@ -9810,8 +9810,8 @@
   "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
-  "FStringFlagRepoGitHashFastString": "e9ceb20c7e3b07f47db00dd6490c21afd42fe8d5",
-  "DFStringFlagRepoGitHashDynamicString": "e9ceb20c7e3b07f47db00dd6490c21afd42fe8d5",
-  "FStringFlipTimeStampFastString": "2023-12-04T22:11:50.219Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:11:50.219Z"
+  "FStringFlagRepoGitHashFastString": "76c367c1f34182bfb603834a91ca56867c2fdb86",
+  "DFStringFlagRepoGitHashDynamicString": "76c367c1f34182bfb603834a91ca56867c2fdb86",
+  "FStringFlipTimeStampFastString": "2023-12-04T22:17:32.638Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:17:32.638Z"
 }
