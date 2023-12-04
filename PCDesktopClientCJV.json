@@ -9426,7 +9426,6 @@
   "FFlagLuauBufferTypeck": "True",
   "DFFlagSimSolverBinExplosionsByIslandSize": "True",
   "DFFlagAddSessionIdToCrashPadStudio": "True",
-  "DFFlagEnableRetryForSubscribeOnReconnect_PlaceFilter": "True;15297586239",
   "FFlagRealtimeReliabilityMeasurementEnable": "True",
   "DFFlagAddSessionIdToCrashPad": "True",
   "FFlagMacRestartClientOnWarmWebLaunch": "True",
@@ -9463,6 +9462,7 @@
   "DFFlagEnableCsmRateLimit": "True",
   "FFlagTerrainVoxelChannel_Rollout": "True;60;2023-12-04T22:26:32",
   "FStringReportAbuseMenuRoactForcedUserIds": "3501323813;4249672033;4903090547;2029193318;",
+  "DFFlagEnableRetryForSubscribeOnReconnect_Rollout": "True;60;2023-12-04T22:35:02",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9743,8 +9743,8 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "33e93f5c658e2a7886dfd04b84fc425a57e1fd3f",
-  "DFStringFlagRepoGitHashDynamicString": "33e93f5c658e2a7886dfd04b84fc425a57e1fd3f",
-  "FStringFlipTimeStampFastString": "2023-12-04T22:28:12.708Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:28:12.708Z"
+  "FStringFlagRepoGitHashFastString": "275811abdb9a78f40f30b5f570dad21c20d74ca6",
+  "DFStringFlagRepoGitHashDynamicString": "275811abdb9a78f40f30b5f570dad21c20d74ca6",
+  "FStringFlipTimeStampFastString": "2023-12-04T22:35:23.748Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:35:23.748Z"
 }
