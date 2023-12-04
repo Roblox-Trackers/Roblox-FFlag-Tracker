@@ -9459,8 +9459,9 @@
   "DFFlagEnableCsmRateLimit_Rollout": "True;60;2023-12-04T21:18:03",
   "FFlagUniversalAppCameraEnabled4": "True",
   "FFlagEnableSocialServiceIrisInitCallPlacedUpdate": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagCFrameLookAlong": "True",
+  "FFlagEnableMmapForMemProfStorageFlushing2": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9851,9 +9852,8 @@
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
   "FStringRealtimeClientTargetName": "Android",
-  "FFlagEnableMmapForMemProfStorageFlushing2": "True",
-  "FStringFlagRepoGitHashFastString": "645443dabbded097b7314b409888e20917672db7",
-  "DFStringFlagRepoGitHashDynamicString": "645443dabbded097b7314b409888e20917672db7",
-  "FStringFlipTimeStampFastString": "2023-12-04T21:51:29.098Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T21:51:29.098Z"
+  "FStringFlagRepoGitHashFastString": "e9ceb20c7e3b07f47db00dd6490c21afd42fe8d5",
+  "DFStringFlagRepoGitHashDynamicString": "e9ceb20c7e3b07f47db00dd6490c21afd42fe8d5",
+  "FStringFlipTimeStampFastString": "2023-12-04T22:11:50.219Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T22:11:50.219Z"
 }
