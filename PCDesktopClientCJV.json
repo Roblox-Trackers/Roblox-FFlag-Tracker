@@ -9424,7 +9424,6 @@
   "FFlagLuaAppShowPillContainsStrongLanguageIXP": "True",
   "FFlagLuauBufferBetterMsg": "True",
   "FFlagLuauBufferTypeck": "True",
-  "FFlagMacClientPrepAsProtocolHandler_Rollout": "True;60;2023-12-04T18:18:22",
   "DFFlagSimSolverBinExplosionsByIslandSize": "True",
   "DFFlagAddSessionIdToCrashPadStudio": "True",
   "DFIntPhysicsSolverExplosionsHundrethsPercentage_Rollout": "1000;60;2023-12-04T18:23:54",
@@ -9448,6 +9447,9 @@
   "DFIntPublishPerMinuteLimitBase_Rollout": "300;30;2023-12-04T19:24:53",
   "DFIntPublishPerPlayerPerMinute_Rollout": "120;30;2023-12-04T19:25:33",
   "DFIntSubscribePerMinuteLimit_Rollout": "120;30;2023-12-04T19:26:09",
+  "FFlagMacClientPrepAsProtocolHandler": "True",
+  "DFIntSubscriptionsPerServerBase_Rollout": "10;30;2023-12-04T19:27:06",
+  "DFIntSubscriptionsPerPlayer_Rollout": "4;30;2023-12-04T19:27:35",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9729,8 +9731,8 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "a28a11e8a2ad3b3d2ece522561a5932d3c565af5",
-  "DFStringFlagRepoGitHashDynamicString": "a28a11e8a2ad3b3d2ece522561a5932d3c565af5",
-  "FStringFlipTimeStampFastString": "2023-12-04T19:26:46.977Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T19:26:46.977Z"
+  "FStringFlagRepoGitHashFastString": "19ed1c99656c31ebd36a80457004138e9a2ef0ae",
+  "DFStringFlagRepoGitHashDynamicString": "19ed1c99656c31ebd36a80457004138e9a2ef0ae",
+  "FStringFlipTimeStampFastString": "2023-12-04T19:27:55.629Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T19:27:55.629Z"
 }
