@@ -9460,8 +9460,6 @@
   "FFlagEnableMmapForMemProfStorageFlushing2": "False",
   "DFFlagEnableCsmRateLimit": "True",
   "FStringReportAbuseMenuRoactForcedUserIds": "3501323813;4249672033;4903090547;2029193318;",
-  "DFFlagModelStreamingBehaviorField_Rollout": "True;60;2023-12-04T22:39:50",
-  "DFFlagConsistentLoadCharacterCallbacks2_Rollout": "True;60;2023-12-04T22:40:02",
   "FFlagLuaEnableGameInviteModalInvitePromptV2": "True",
   "FFlagStudioResetLayoutForCurrentRevisionOnly2": "True",
   "FFlagFmodMacGetDeviceBusType_Rollout": "True;60;2023-12-04T23:22:53",
@@ -9474,6 +9472,8 @@
   "DFFlagEngineStabilityUseSessionResultV2": "True",
   "DFFlagStopFlushTimerWhenInferredCrashDestruct": "True",
   "DFFlagEnableRetryForSubscribeOnReconnect": "True",
+  "DFFlagModelStreamingBehaviorField": "True",
+  "DFFlagConsistentLoadCharacterCallbacks2": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9822,8 +9822,8 @@
   "FFlagAXEnableExperienceWidgets": "True",
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
-  "FStringFlagRepoGitHashFastString": "debcb46482638ccb749006b07405ea7a5276c517",
-  "DFStringFlagRepoGitHashDynamicString": "debcb46482638ccb749006b07405ea7a5276c517",
-  "FStringFlipTimeStampFastString": "2023-12-04T23:42:08.090Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-04T23:42:08.090Z"
+  "FStringFlagRepoGitHashFastString": "6eb04b20d1889a3dbf79c045d239580639b6954a",
+  "DFStringFlagRepoGitHashDynamicString": "6eb04b20d1889a3dbf79c045d239580639b6954a",
+  "FStringFlipTimeStampFastString": "2023-12-04T23:47:11.385Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-04T23:47:11.385Z"
 }
