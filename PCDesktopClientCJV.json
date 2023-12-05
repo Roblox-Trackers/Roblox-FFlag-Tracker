@@ -9514,6 +9514,7 @@
   "FFlagProperlyHandleDelayedErrorReporting": "True",
   "DFFlagEnableVideoCompleteDefraud_Rollout": "True;60;2023-12-05T23:44:08",
   "FLogWebRTC": "Error",
+  "FFlagDeleteSoundsOnAsyncThread": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
