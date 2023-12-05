@@ -9106,7 +9106,7 @@
   "FFlagIXPPerformanceControlMemoryBufferExp2": "True",
   "FFlagAppConfigurerEnabled2": "True",
   "FFlagStudioDraggerToolboxDragFix": "True",
-  "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "500",
+  "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "1000",
   "FFlagFixCrashInDiffViewDestructor": "True",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent": "10000",
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent": "0",
@@ -9497,7 +9497,6 @@
   "FFlagEnableShimmerForLooks": "True",
   "FFlagSupportAlreadyOwnedItemPurchaseStatus": "True",
   "FFlagWidgetSeeAllPadding": "True",
-  "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "1000;30;2023-12-05T19:41:55",
   "FFlagVRFixScrollingAfterPurchase": "True",
   "FFlagDuplicateSoundCacheMetricsTrackingInAudioPlayer_Rollout": "True;60;2023-12-05T19:59:49",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
@@ -9893,8 +9892,8 @@
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
   "FStringRealtimeClientTargetName": "Android",
-  "FStringFlagRepoGitHashFastString": "d45b101fe469de7afc1358e76046ca4dbfd44dbb",
-  "DFStringFlagRepoGitHashDynamicString": "d45b101fe469de7afc1358e76046ca4dbfd44dbb",
-  "FStringFlipTimeStampFastString": "2023-12-05T20:03:54.095Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T20:03:54.095Z"
+  "FStringFlagRepoGitHashFastString": "28df02d339bd460b205da64658f672bbece255eb",
+  "DFStringFlagRepoGitHashDynamicString": "28df02d339bd460b205da64658f672bbece255eb",
+  "FStringFlipTimeStampFastString": "2023-12-05T20:16:47.371Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T20:16:47.371Z"
 }
