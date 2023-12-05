@@ -9480,6 +9480,7 @@
   "FFlagClientAvatarUsesColor3sForBodyParts4": "False",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2023-12-05T18:44:52",
   "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2023-12-05T18:45:08",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9490,7 +9491,6 @@
   "FFlagGpuGeometryManager11": "True",
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9760,8 +9760,8 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "44e204b45cce838ffcf53e13bebb483e1a41a00f",
-  "DFStringFlagRepoGitHashDynamicString": "44e204b45cce838ffcf53e13bebb483e1a41a00f",
-  "FStringFlipTimeStampFastString": "2023-12-05T18:45:46.674Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T18:45:46.674Z"
+  "FStringFlagRepoGitHashFastString": "d0adf38d80acec4bb966a045eeee72e1ed438be2",
+  "DFStringFlagRepoGitHashDynamicString": "d0adf38d80acec4bb966a045eeee72e1ed438be2",
+  "FStringFlipTimeStampFastString": "2023-12-05T18:57:42.319Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T18:57:42.319Z"
 }
