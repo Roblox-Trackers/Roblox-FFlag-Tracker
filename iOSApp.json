@@ -9506,7 +9506,6 @@
   "FFlagXboxDataModelServices": "True",
   "FFlagXboxUniversalApp": "True",
   "FFlagSupportsOverscanPolicy": "True",
-  "FFlagDeleteSoundsOnAsyncThread_Rollout": "True;60;2023-12-05T22:51:50",
   "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagVectorIntegerFunctions": "True",
   "FFlagTenFootUiAchievements": "True",
@@ -9514,6 +9513,7 @@
   "FFlagProperlyHandleDelayedErrorReporting": "True",
   "DFFlagEnableVideoCompleteDefraud_Rollout": "True;60;2023-12-05T23:44:08",
   "FLogWebRTC": "Error",
+  "FFlagDeleteSoundsOnAsyncThread": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9864,8 +9864,8 @@
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
   "FIntInitialMmapSizeForMemProfStorageKB": "64",
-  "FStringFlagRepoGitHashFastString": "4a8acff09fba34bfdb5a5ce937c9a07a65eccf20",
-  "DFStringFlagRepoGitHashDynamicString": "4a8acff09fba34bfdb5a5ce937c9a07a65eccf20",
-  "FStringFlipTimeStampFastString": "2023-12-05T23:49:44.283Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T23:49:44.283Z"
+  "FStringFlagRepoGitHashFastString": "143e33f887354eb885fae690e92b0a9ff5ddd6b0",
+  "DFStringFlagRepoGitHashDynamicString": "143e33f887354eb885fae690e92b0a9ff5ddd6b0",
+  "FStringFlipTimeStampFastString": "2023-12-05T23:56:39.397Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T23:56:39.397Z"
 }
