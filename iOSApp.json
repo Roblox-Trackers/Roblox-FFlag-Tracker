@@ -9481,7 +9481,6 @@
   "FFlagEditableImagePlaceFilterSupport_PlaceFilter": "True;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
   "FFlagCheckCameraAvailabilityBeforePermissions": "True",
   "FFlagEnableAlwaysAvailableCamera": "True",
-  "DFFlagHttpServiceInsights_Rollout": "True;60;2023-12-05T19:21:30",
   "DFIntHttpServiceInsightsCounterThrottleHundredthsPercentage_Rollout": "1;60;2023-12-05T19:22:46",
   "FFlagAXEnableSceneManagerResetFullViewFix1": "True",
   "FFlagAXExperienceCardWithDynamicFooterTextSize": "True",
@@ -9498,6 +9497,7 @@
   "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagRealtimeClientRaiseReconnecting_Rollout": "True;60;2023-12-05T20:03:34",
   "FFlagCAPRegenerateConversationIdOnClear_Rollout": "True;60;2023-12-05T20:19:21",
+  "DFFlagHttpServiceInsights": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9848,8 +9848,8 @@
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
   "FIntInitialMmapSizeForMemProfStorageKB": "64",
-  "FStringFlagRepoGitHashFastString": "eb550020c314025643d67d9632b1536a318a0ed2",
-  "DFStringFlagRepoGitHashDynamicString": "eb550020c314025643d67d9632b1536a318a0ed2",
-  "FStringFlipTimeStampFastString": "2023-12-05T20:21:31.791Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T20:21:31.791Z"
+  "FStringFlagRepoGitHashFastString": "e1d8784bcc02d8bed3e087e20391815883b0c54f",
+  "DFStringFlagRepoGitHashDynamicString": "e1d8784bcc02d8bed3e087e20391815883b0c54f",
+  "FStringFlipTimeStampFastString": "2023-12-05T20:26:30.717Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T20:26:30.717Z"
 }
