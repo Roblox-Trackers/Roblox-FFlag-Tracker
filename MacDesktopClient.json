@@ -9491,6 +9491,7 @@
   "FFlagCheckCameraAvailabilityBeforePermissions": "True",
   "FFlagEnableAlwaysAvailableCamera": "True",
   "DFFlagHttpServiceInsights_Rollout": "True;60;2023-12-05T19:21:30",
+  "DFIntHttpServiceInsightsCounterThrottleHundredthsPercentage_Rollout": "1;60;2023-12-05T19:22:46",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9767,8 +9768,8 @@
   "FStringRealtimeClientTargetName": "osx",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
-  "FStringFlagRepoGitHashFastString": "c337f9a839dc07b1d46074283157d57d522232fa",
-  "DFStringFlagRepoGitHashDynamicString": "c337f9a839dc07b1d46074283157d57d522232fa",
-  "FStringFlipTimeStampFastString": "2023-12-05T19:21:56.379Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T19:21:56.379Z"
+  "FStringFlagRepoGitHashFastString": "0d6db610237875ba15553edfbdc829d82b2bd492",
+  "DFStringFlagRepoGitHashDynamicString": "0d6db610237875ba15553edfbdc829d82b2bd492",
+  "FStringFlipTimeStampFastString": "2023-12-05T19:23:20.283Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T19:23:20.283Z"
 }
