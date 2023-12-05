@@ -9493,7 +9493,6 @@
   "FFlagWidgetSeeAllPadding": "True",
   "FFlagVRFixScrollingAfterPurchase": "True",
   "FFlagEnableGetImageForKeyCodeAPI": "True",
-  "DFFlagRealtimeClientRaiseReconnecting_Rollout": "True;60;2023-12-05T20:03:34",
   "FFlagCAPRegenerateConversationIdOnClear_Rollout": "True;60;2023-12-05T20:19:21",
   "DFFlagHttpServiceInsights": "True",
   "DFIntHttpServiceInsightsCounterThrottleHundredthsPercentage": "1",
@@ -9501,6 +9500,8 @@
   "FFlagUIBloxEnableTableCellFullBackgroundOverride": "True",
   "FFlagUIBloxEnableTextButtonsInActionBar": "True",
   "FFlagDuplicateSoundCacheMetricsTrackingInAudioPlayer": "True",
+  "DFIntReportControllerManagerPercent_PlaceFilter": "10000;14484773887",
+  "DFFlagRealtimeClientRaiseReconnecting": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9852,8 +9853,8 @@
   "FStringRealtimeClientTargetName": "iOS",
   "FIntInitialMmapSizeForMemProfStorageKB": "64",
   "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache;60;2023-12-05T21:08:33",
-  "FStringFlagRepoGitHashFastString": "af392d3b8520ebf40940b59500d512c02cc8811f",
-  "DFStringFlagRepoGitHashDynamicString": "af392d3b8520ebf40940b59500d512c02cc8811f",
-  "FStringFlipTimeStampFastString": "2023-12-05T21:09:08.148Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T21:09:08.148Z"
+  "FStringFlagRepoGitHashFastString": "b24417435b87ffbac3041a64b0b92aa1c1a43f4a",
+  "DFStringFlagRepoGitHashDynamicString": "b24417435b87ffbac3041a64b0b92aa1c1a43f4a",
+  "FStringFlipTimeStampFastString": "2023-12-05T21:11:37.960Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T21:11:37.960Z"
 }
