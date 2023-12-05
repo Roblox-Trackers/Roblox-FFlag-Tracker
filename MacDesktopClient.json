@@ -7468,7 +7468,7 @@
   "FFlagFixDoubleSpacesAfterPrefixText": "True",
   "FFlagHideLocalPlayerControlBubbleForVR": "True",
   "FFlagUpgradeExpChatV4_1_10": "True",
-  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
+  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache",
   "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "True",
   "FFlagGridDesignTokens3": "True",
   "FFlagTenFootUiMoreSettings": "True",
@@ -9517,7 +9517,6 @@
   "FFlagGpuGeometryManager11": "True",
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache;60;2023-12-05T21:08:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9785,8 +9784,8 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
-  "FStringFlagRepoGitHashFastString": "b4701ff3958ec6b7d966c866743f8b78302fa2f0",
-  "DFStringFlagRepoGitHashDynamicString": "b4701ff3958ec6b7d966c866743f8b78302fa2f0",
-  "FStringFlipTimeStampFastString": "2023-12-05T22:12:50.281Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T22:12:50.281Z"
+  "FStringFlagRepoGitHashFastString": "f1d9527baf656ec879fd79fc8fb2388131a9e07e",
+  "DFStringFlagRepoGitHashDynamicString": "f1d9527baf656ec879fd79fc8fb2388131a9e07e",
+  "FStringFlipTimeStampFastString": "2023-12-05T22:16:13.646Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T22:16:13.646Z"
 }
