@@ -7511,7 +7511,7 @@
   "DFFlagTEMPFixHairOrderProperty": "True",
   "DFFlagMemoryStoreUpdateAsyncRetryUseExpBackoff_PlaceFilter": "False;8789237466",
   "DFFlagSensorSkipIfManual": "True",
-  "FFlagFlagRolloutTestStaticBool2": "False",
+  "FFlagFlagRolloutTestStaticBool2": "True",
   "FFlagSocialUserSearchSource": "True",
   "FIntCOLLAB3440UniverseSearchEndpointMigrationRollout2HundredthPercent": "10000",
   "FFlagSimExpandSetOfSolverConstraintTypesThatAreIrrelevantToIkDragger": "True",
@@ -9472,7 +9472,6 @@
   "DFFlagModelStreamingBehaviorField": "True",
   "DFFlagConsistentLoadCharacterCallbacks2": "True",
   "FStringLuaGameInviteMenuLayer": "Growth.Notifications.GameInviteMenu.InExperience",
-  "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2023-12-05T00:13:27",
   "FFlagSkipOpenScriptLog": "True",
   "NativePurchaseWithUserId": "True",
   "FFlagAinMoveStatusWarnings": "True",
@@ -9761,8 +9760,8 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
-  "FStringFlagRepoGitHashFastString": "52417027ea10be084601216be27bc46988558fbc",
-  "DFStringFlagRepoGitHashDynamicString": "52417027ea10be084601216be27bc46988558fbc",
-  "FStringFlipTimeStampFastString": "2023-12-05T01:16:45.926Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T01:16:45.926Z"
+  "FStringFlagRepoGitHashFastString": "0476ffcd0fb9e6e30c3b2ee4f1deebad5ebbabc7",
+  "DFStringFlagRepoGitHashDynamicString": "0476ffcd0fb9e6e30c3b2ee4f1deebad5ebbabc7",
+  "FStringFlipTimeStampFastString": "2023-12-05T01:21:43.960Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T01:21:43.960Z"
 }
