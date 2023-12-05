@@ -9462,7 +9462,6 @@
   "FStringReportAbuseMenuRoactForcedUserIds": "3501323813;4249672033;4903090547;2029193318;",
   "FFlagLuaEnableGameInviteModalInvitePromptV2": "True",
   "FFlagStudioResetLayoutForCurrentRevisionOnly2": "True",
-  "FFlagFmodMacGetDeviceBusType_Rollout": "True;60;2023-12-04T23:22:53",
   "FFlagTerrainVoxelChannel": "True",
   "FFlagLuaAppFixGameTileActionBarReporting": "True",
   "FFlagLuauFullLoopLuserdata": "True",
@@ -9476,7 +9475,6 @@
   "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2023-12-04T23:52:28",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2023-12-04T23:54:10",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2023-12-04T23:54:50",
-  "FFlagTrackLastReportingOrSessionHistorySymbol_Rollout": "True;30;2023-12-04T23:57:09",
   "FStringLuaGameInviteMenuLayer": "Growth.Notifications.GameInviteMenu.InExperience",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "True;60;2023-12-05T00:11:49",
   "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2023-12-05T00:13:27",
@@ -9484,6 +9482,8 @@
   "FFlagSkipOpenScriptLog": "True",
   "NativePurchaseWithUserId": "True",
   "FFlagAinMoveStatusWarnings": "True",
+  "FFlagTrackLastReportingOrSessionHistorySymbol": "True",
+  "FFlagFmodMacGetDeviceBusType": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9763,8 +9763,8 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
-  "FStringFlagRepoGitHashFastString": "02a597eb66780d36cf82e4c22b74f1d49cea05f6",
-  "DFStringFlagRepoGitHashDynamicString": "02a597eb66780d36cf82e4c22b74f1d49cea05f6",
-  "FStringFlipTimeStampFastString": "2023-12-05T00:26:26.941Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T00:26:26.941Z"
+  "FStringFlagRepoGitHashFastString": "b5ad106704ce7b08d83b7e8c2aca7aa004bdf37c",
+  "DFStringFlagRepoGitHashDynamicString": "b5ad106704ce7b08d83b7e8c2aca7aa004bdf37c",
+  "FStringFlipTimeStampFastString": "2023-12-05T00:32:02.432Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T00:32:02.432Z"
 }
