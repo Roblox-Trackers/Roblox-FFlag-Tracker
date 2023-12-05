@@ -9477,7 +9477,6 @@
   "FFlagFmodMacGetDeviceBusType": "True",
   "FFlagHideAvatarBuildCategoryInVR": "True",
   "FFlagClientAvatarUsesColor3sForBodyParts4": "False",
-  "AllowVideoPreRoll": "True",
   "FFlagEditableImagePlaceFilterSupport": "False",
   "FFlagEditableImagePlaceFilterSupport_PlaceFilter": "True;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2023-12-05T19:14:18",
@@ -9501,6 +9500,8 @@
   "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "1000;30;2023-12-05T19:41:55",
   "FFlagVRFixScrollingAfterPurchase": "True",
   "FFlagDuplicateSoundCacheMetricsTrackingInAudioPlayer_Rollout": "True;60;2023-12-05T19:59:49",
+  "FFlagEnableGetImageForKeyCodeAPI": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9681,7 +9682,6 @@
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FFlagSignalRLogTotalMessageDelivered": "True",
   "DFFlagCLI82264": "True",
-  "FFlagEnableGetImageForKeyCodeAPI": "True",
   "DFFlagHttpCacheTrackAllAssets2": "True",
   "FFlagTTIDelayExperimentEnabled": "False",
   "FFlagTTIDelayExperimentReportFullTelemetryEnabled": "True",
@@ -9694,8 +9694,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "5cd7426e3c2291a5ca55c28cab6d529f24a085bf",
-  "DFStringFlagRepoGitHashDynamicString": "5cd7426e3c2291a5ca55c28cab6d529f24a085bf",
-  "FStringFlipTimeStampFastString": "2023-12-05T20:00:09.337Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T20:00:09.337Z"
+  "FStringFlagRepoGitHashFastString": "7168223a88107b8f8f58cdaf11e8c72a398cba60",
+  "DFStringFlagRepoGitHashDynamicString": "7168223a88107b8f8f58cdaf11e8c72a398cba60",
+  "FStringFlipTimeStampFastString": "2023-12-05T20:01:24.173Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T20:01:24.173Z"
 }
