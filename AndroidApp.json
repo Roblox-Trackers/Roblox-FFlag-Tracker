@@ -8342,7 +8342,7 @@
   "DFFlagVIPTeleportGJCatchall": "True",
   "DFFlagVIPTeleportGameJoin2": "True",
   "FFlagGameSettingsCameraModeFixEnabled_PlaceFilter": "True;12867047376;12867089300;14066075418;11402255591;12796376276;13989579574;11460402982;12500012844;14030887154",
-  "DFIntCallsBetweenUnreliablePing": "1",
+  "DFIntCallsBetweenUnreliablePing": "0",
   "DFFlagDoVIPTeleport": "True",
   "FFlagShorthandPropertiesUpdate": "True",
   "FFlagAXAutocompleteUseCDN": "True",
@@ -9478,7 +9478,6 @@
   "FStringLuaGameInviteMenuLayer": "Growth.Notifications.GameInviteMenu.InExperience",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "True;60;2023-12-05T00:11:49",
   "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2023-12-05T00:13:27",
-  "DFIntCallsBetweenUnreliablePing_Rollout": "0;30;2023-12-05T00:14:12",
   "FFlagSkipOpenScriptLog": "True",
   "NativePurchaseWithUserId": "True",
   "FFlagAinMoveStatusWarnings": "True",
@@ -9879,8 +9878,8 @@
   "DFIntCriticalThermalStatusThreshold": "4",
   "FFlagAXEnableExperienceWidgets": "True",
   "FStringRealtimeClientTargetName": "Android",
-  "FStringFlagRepoGitHashFastString": "f1f889497fd1c4fd1a186c73a432b0ed3a8cc5f0",
-  "DFStringFlagRepoGitHashDynamicString": "f1f889497fd1c4fd1a186c73a432b0ed3a8cc5f0",
-  "FStringFlipTimeStampFastString": "2023-12-05T00:50:05.281Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T00:50:05.281Z"
+  "FStringFlagRepoGitHashFastString": "dd40e3d8272a539451b4b84a799dceaa7d749345",
+  "DFStringFlagRepoGitHashDynamicString": "dd40e3d8272a539451b4b84a799dceaa7d749345",
+  "FStringFlipTimeStampFastString": "2023-12-05T00:51:42.041Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T00:51:42.041Z"
 }
