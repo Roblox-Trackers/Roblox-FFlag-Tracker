@@ -9505,13 +9505,13 @@
   "FFlagLuaAppLocalizationConsistencyFixes": "True",
   "FFlagXboxDataModelServices": "True",
   "FFlagXboxUniversalApp": "True",
-  "FFlagProperlyHandleDelayedErrorReporting_Rollout": "True;60;2023-12-05T22:32:50",
   "FFlagSupportsOverscanPolicy": "True",
   "FFlagDeleteSoundsOnAsyncThread_Rollout": "True;60;2023-12-05T22:51:50",
   "FFlagTreatDnsResolveErrorAsDisconnect": "True",
   "FFlagVectorIntegerFunctions": "True",
   "FFlagTenFootUiAchievements": "True",
   "DFFlagNewAppCoreSerializers": "True",
+  "FFlagProperlyHandleDelayedErrorReporting": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9705,8 +9705,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "12a713c3d4abc47ed6931a7f5492bb74341b22fa",
-  "DFStringFlagRepoGitHashDynamicString": "12a713c3d4abc47ed6931a7f5492bb74341b22fa",
-  "FStringFlipTimeStampFastString": "2023-12-05T23:36:41.711Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T23:36:41.711Z"
+  "FStringFlagRepoGitHashFastString": "69a6aefd07aa27e76133cc3b53342535fff86772",
+  "DFStringFlagRepoGitHashDynamicString": "69a6aefd07aa27e76133cc3b53342535fff86772",
+  "FStringFlipTimeStampFastString": "2023-12-05T23:41:59.161Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T23:41:59.161Z"
 }
