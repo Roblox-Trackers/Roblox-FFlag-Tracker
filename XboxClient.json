@@ -9510,6 +9510,7 @@
   "FFlagPlatformFriendsService_Rollout": "True;60;2023-12-05T22:20:11",
   "DFFlagNewAppCoreSerializers_Rollout": "True;60;2023-12-05T22:27:38",
   "FFlagProperlyHandleDelayedErrorReporting_Rollout": "True;60;2023-12-05T22:32:50",
+  "FFlagSupportsOverscanPolicy": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9771,7 +9772,6 @@
   "FFlagRefactorAuthPageForTenFoot": "True",
   "FFlagRefactorBirthdayPicker": "True",
   "FFlagTenFootUiDisableContactImporter": "True",
-  "FFlagSupportsOverscanPolicy": "True",
   "FFlagTenFootUiAchievements": "True",
   "FFlagTenFootUiCategoryTabRemovePadding": "True",
   "FFlagTenFootUiDisableInviteFriends": "True",
@@ -9831,8 +9831,8 @@
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
   "FFlagEnableNativeSubscriptionPurchase3_Rollout": "True;60;2023-12-05T21:53:25",
-  "FStringFlagRepoGitHashFastString": "827b9383f22237d49a5e357413c12cc87691bb03",
-  "DFStringFlagRepoGitHashDynamicString": "827b9383f22237d49a5e357413c12cc87691bb03",
-  "FStringFlipTimeStampFastString": "2023-12-05T22:33:19.700Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T22:33:19.700Z"
+  "FStringFlagRepoGitHashFastString": "088dbc3864fd1177043e37f4b9faba48d27287c0",
+  "DFStringFlagRepoGitHashDynamicString": "088dbc3864fd1177043e37f4b9faba48d27287c0",
+  "FStringFlipTimeStampFastString": "2023-12-05T22:41:24.405Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T22:41:24.405Z"
 }
