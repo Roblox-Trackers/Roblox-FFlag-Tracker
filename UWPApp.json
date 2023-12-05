@@ -8837,7 +8837,7 @@
   "DFIntPerformanceControlSoundReloadLatencyExponentTenThousandths": "100",
   "DFIntPerformanceControlSoundReloadThrashingExponentTenThousandths": "100",
   "FFlagACEBoneReferences2": "True",
-  "DFFlagAvatarChatServiceStudioEditModeUniverseDefaults": "False",
+  "DFFlagAvatarChatServiceStudioEditModeUniverseDefaults": "True",
   "FFlagDecoupleHasAndRequestPermissions": "True",
   "FFlagDoNotPromptCameraPermissionsOnMount": "True",
   "FFlagPermissionsEarlyOutStallsQueue": "True",
@@ -9488,6 +9488,9 @@
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2023-12-05T19:15:04",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2023-12-05T19:15:07",
   "DFFlagRealtimeClientTargetAnalytics_Rollout": "False;30;2023-12-05T19:16:50",
+  "FFlagCheckCameraAvailabilityBeforePermissions": "True",
+  "FFlagEnableAlwaysAvailableCamera": "True",
+  "DFFlagHttpServiceInsights_Rollout": "True;60;2023-12-05T19:21:30",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9681,8 +9684,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "be2f3bde7b91a49b989ebc182054b1a6288a3fcd",
-  "DFStringFlagRepoGitHashDynamicString": "be2f3bde7b91a49b989ebc182054b1a6288a3fcd",
-  "FStringFlipTimeStampFastString": "2023-12-05T19:17:16.548Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T19:17:16.548Z"
+  "FStringFlagRepoGitHashFastString": "c337f9a839dc07b1d46074283157d57d522232fa",
+  "DFStringFlagRepoGitHashDynamicString": "c337f9a839dc07b1d46074283157d57d522232fa",
+  "FStringFlipTimeStampFastString": "2023-12-05T19:21:56.379Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T19:21:56.379Z"
 }
