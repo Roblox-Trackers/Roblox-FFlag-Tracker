@@ -9483,6 +9483,9 @@
   "AllowVideoPreRoll": "True",
   "FFlagEditableImagePlaceFilterSupport": "False",
   "FFlagEditableImagePlaceFilterSupport_PlaceFilter": "True;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2023-12-05T19:14:18",
+  "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2023-12-05T19:14:21",
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2023-12-05T19:15:04",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9807,8 +9810,8 @@
   "FFlagXboxSystemUtilDeviceName": "True",
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
-  "FStringFlagRepoGitHashFastString": "26c9e646154d16d2838d8e39c3ed7781f6e9066b",
-  "DFStringFlagRepoGitHashDynamicString": "26c9e646154d16d2838d8e39c3ed7781f6e9066b",
-  "FStringFlipTimeStampFastString": "2023-12-05T19:11:05.845Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T19:11:05.845Z"
+  "FStringFlagRepoGitHashFastString": "f36f921cefe4f1c995a390b9067645ec275ab15e",
+  "DFStringFlagRepoGitHashDynamicString": "f36f921cefe4f1c995a390b9067645ec275ab15e",
+  "FStringFlipTimeStampFastString": "2023-12-05T19:15:29.132Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T19:15:29.132Z"
 }
