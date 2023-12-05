@@ -9503,6 +9503,7 @@
   "DFFlagRealtimeClientRaiseReconnecting": "True",
   "FFlagCAPRegenerateConversationIdOnClear": "True",
   "FFlagFixGetUserRecentExperiencesPromiseReturn": "True",
+  "FFlagLuaAppLocalizationConsistencyFixes": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9895,8 +9896,8 @@
   "FFlagAXEnableExperienceWidgets": "True",
   "FStringRealtimeClientTargetName": "Android",
   "FStringPerformanceControlIncludedTunables_Rollout": "IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache;60;2023-12-05T21:08:33",
-  "FStringFlagRepoGitHashFastString": "b003a023f6fff00114f71e04874e68c347da2879",
-  "DFStringFlagRepoGitHashDynamicString": "b003a023f6fff00114f71e04874e68c347da2879",
-  "FStringFlipTimeStampFastString": "2023-12-05T21:27:08.746Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T21:27:08.746Z"
+  "FStringFlagRepoGitHashFastString": "c8fb6a38cbcf74852e6babed5d52908cf0e82a6d",
+  "DFStringFlagRepoGitHashDynamicString": "c8fb6a38cbcf74852e6babed5d52908cf0e82a6d",
+  "FStringFlipTimeStampFastString": "2023-12-05T21:34:38.288Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T21:34:38.288Z"
 }
