@@ -9498,6 +9498,8 @@
   "FFlagCAPRegenerateConversationIdOnClear_Rollout": "True;60;2023-12-05T20:19:21",
   "DFFlagHttpServiceInsights": "True",
   "DFIntHttpServiceInsightsCounterThrottleHundredthsPercentage": "1",
+  "FFlagRemoveEnvMapLightgridCPUDependency2": "True",
+  "FFlagUIBloxEnableTableCellFullBackgroundOverride": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9777,8 +9779,8 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "e6d27d63b7d615a29fb6e94fdee1a35a4897372c",
-  "DFStringFlagRepoGitHashDynamicString": "e6d27d63b7d615a29fb6e94fdee1a35a4897372c",
-  "FStringFlipTimeStampFastString": "2023-12-05T20:31:31.987Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-05T20:31:31.987Z"
+  "FStringFlagRepoGitHashFastString": "32432df2d7c78cf770d261cb7356c29f19da17fb",
+  "DFStringFlagRepoGitHashDynamicString": "32432df2d7c78cf770d261cb7356c29f19da17fb",
+  "FStringFlipTimeStampFastString": "2023-12-05T20:34:29.978Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-05T20:34:29.978Z"
 }
