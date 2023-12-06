@@ -9525,6 +9525,7 @@
   "DFIntMacClientProtcolURLHandlingThrottleHundrethsPercent_Rollout": "10000;60;2023-12-06T21:54:34",
   "DFFlagVoiceChatControlPlaneEnableOperationTimeout": "True",
   "FFlagEnableAppUpgradeKeyConfig_Rollout": "True;60;2023-12-06T22:12:44",
+  "FFlagStudioDeviceEmulatorShowPS4InNotchBeta_Rollout": "True;30;2023-12-06T22:23:26",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9917,8 +9918,8 @@
   "FFlagAXEnableExperienceWidgets": "True",
   "FStringRealtimeClientTargetName": "Android",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
-  "FStringFlagRepoGitHashFastString": "c6ac4be1c92bc7205589ce89f289318d6bc7d142",
-  "DFStringFlagRepoGitHashDynamicString": "c6ac4be1c92bc7205589ce89f289318d6bc7d142",
-  "FStringFlipTimeStampFastString": "2023-12-06T22:21:10.505Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-06T22:21:10.505Z"
+  "FStringFlagRepoGitHashFastString": "736332ffbccb9adddf64c5f76e8b2b309d98753f",
+  "DFStringFlagRepoGitHashDynamicString": "736332ffbccb9adddf64c5f76e8b2b309d98753f",
+  "FStringFlipTimeStampFastString": "2023-12-06T22:23:59.492Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-06T22:23:59.492Z"
 }
