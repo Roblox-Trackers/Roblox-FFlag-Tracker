@@ -9517,7 +9517,6 @@
   "FFlagUseLowDensityLinkButtons": "True",
   "DFFlagEnableVideoCompleteDefraud": "True",
   "DFIntHttpServiceInsightsErrorStatusCodeThrottleHundredthsPercentage": "1",
-  "FFlagDualWriteFlowDurationToV2Stats_Rollout": "True;60;2023-12-06T21:24:58",
   "FFlagLuaAppUseNewNumberLocalization2": "True",
   "FFlagSwitchCSRootProviderTranslationsPackage": "True",
   "DFIntDetectCrashEarlyPercentage_Rollout": "0;60;2023-12-06T21:43:38",
@@ -9526,6 +9525,7 @@
   "DFFlagVoiceChatControlPlaneEnableOperationTimeout": "True",
   "FFlagEnableAppUpgradeKeyConfig_Rollout": "True;60;2023-12-06T22:12:44",
   "FFlagStudioDeviceEmulatorShowPS4InNotchBeta_Rollout": "True;30;2023-12-06T22:23:26",
+  "FFlagDualWriteFlowDurationToV2Stats": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9805,8 +9805,8 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "138f352092e6f13be428e788077ad4278b3af7ba",
-  "DFStringFlagRepoGitHashDynamicString": "138f352092e6f13be428e788077ad4278b3af7ba",
-  "FStringFlipTimeStampFastString": "2023-12-06T22:26:51.514Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-06T22:26:51.514Z"
+  "FStringFlagRepoGitHashFastString": "b60239bdaf84e0c88726ad9aea6c85f985397970",
+  "DFStringFlagRepoGitHashDynamicString": "b60239bdaf84e0c88726ad9aea6c85f985397970",
+  "FStringFlipTimeStampFastString": "2023-12-06T22:31:53.832Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-06T22:31:53.832Z"
 }
