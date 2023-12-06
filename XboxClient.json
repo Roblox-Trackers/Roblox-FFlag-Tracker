@@ -9511,7 +9511,6 @@
   "FFlagTenFootUiAchievements": "True",
   "DFFlagNewAppCoreSerializers": "True",
   "FFlagProperlyHandleDelayedErrorReporting": "True",
-  "DFFlagEnableVideoCompleteDefraud_Rollout": "True;60;2023-12-05T23:44:08",
   "FLogWebRTC": "Error",
   "FFlagDeleteSoundsOnAsyncThread": "True",
   "FFlagDisableChromeDefaultOpen": "True",
@@ -9519,6 +9518,7 @@
   "FFlagUseLowDensityLinkButtons": "True",
   "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "2000;30;2023-12-06T00:23:48",
   "DFIntHttpServiceInsightsErrorStatusCodeThrottleHundredthsPercentage_Rollout": "1;30;2023-12-06T00:40:27",
+  "DFFlagEnableVideoCompleteDefraud": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9836,8 +9836,8 @@
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
-  "FStringFlagRepoGitHashFastString": "4ad6c249773345fca3f7edca2706f66c3a50e02b",
-  "DFStringFlagRepoGitHashDynamicString": "4ad6c249773345fca3f7edca2706f66c3a50e02b",
-  "FStringFlipTimeStampFastString": "2023-12-06T00:47:23.208Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-06T00:47:23.208Z"
+  "FStringFlagRepoGitHashFastString": "be56682e4e24c83dd1c2df639fb29ad3f3ed633e",
+  "DFStringFlagRepoGitHashDynamicString": "be56682e4e24c83dd1c2df639fb29ad3f3ed633e",
+  "FStringFlipTimeStampFastString": "2023-12-06T00:51:58.791Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-06T00:51:58.791Z"
 }
