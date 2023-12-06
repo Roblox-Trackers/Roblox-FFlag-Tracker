@@ -9514,6 +9514,8 @@
   "DFFlagEnableVideoCompleteDefraud_Rollout": "True;60;2023-12-05T23:44:08",
   "FLogWebRTC": "Error",
   "FFlagDeleteSoundsOnAsyncThread": "True",
+  "FFlagDisableChromeDefaultOpen": "True",
+  "FFlagDisableChromeUnibar": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9864,8 +9866,8 @@
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
   "FIntInitialMmapSizeForMemProfStorageKB": "64",
-  "FStringFlagRepoGitHashFastString": "270405c38f4ca921ae423e821c48f9e387e6566e",
-  "DFStringFlagRepoGitHashDynamicString": "270405c38f4ca921ae423e821c48f9e387e6566e",
-  "FStringFlipTimeStampFastString": "2023-12-06T00:02:28.238Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-06T00:02:28.238Z"
+  "FStringFlagRepoGitHashFastString": "c1bad2891f78fe3aaf9ac670a3e72d7ec9f4bd6f",
+  "DFStringFlagRepoGitHashDynamicString": "c1bad2891f78fe3aaf9ac670a3e72d7ec9f4bd6f",
+  "FStringFlipTimeStampFastString": "2023-12-06T00:08:30.230Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-06T00:08:30.230Z"
 }
