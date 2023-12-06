@@ -9522,6 +9522,8 @@
   "FFlagLuaAppUseNewNumberLocalization2": "True",
   "FFlagSwitchCSRootProviderTranslationsPackage": "True",
   "DFIntDetectCrashEarlyPercentage_Rollout": "0;60;2023-12-06T21:43:38",
+  "FFlagVoiceChatResendSdpAnswerOnSubsTimeout": "True",
+  "DFIntMacClientProtcolURLHandlingThrottleHundrethsPercent_Rollout": "10000;60;2023-12-06T21:54:34",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9872,8 +9874,8 @@
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
   "FIntInitialMmapSizeForMemProfStorageKB": "64",
-  "FStringFlagRepoGitHashFastString": "9d6b4eea178768af5a052aae8ee5db1803d7ff3f",
-  "DFStringFlagRepoGitHashDynamicString": "9d6b4eea178768af5a052aae8ee5db1803d7ff3f",
-  "FStringFlipTimeStampFastString": "2023-12-06T21:53:35.992Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-06T21:53:35.992Z"
+  "FStringFlagRepoGitHashFastString": "80228b6fc27cfb5cc682d40880ba0172ed77563d",
+  "DFStringFlagRepoGitHashDynamicString": "80228b6fc27cfb5cc682d40880ba0172ed77563d",
+  "FStringFlipTimeStampFastString": "2023-12-06T21:55:02.701Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-06T21:55:02.701Z"
 }
