@@ -9516,6 +9516,8 @@
   "FFlagDeleteSoundsOnAsyncThread": "True",
   "FFlagDisableChromeDefaultOpen": "True",
   "FFlagDisableChromeUnibar": "True",
+  "FFlagUseLowDensityLinkButtons": "True",
+  "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "2000;30;2023-12-06T00:23:48",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9794,8 +9796,8 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "100",
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
-  "FStringFlagRepoGitHashFastString": "c1bad2891f78fe3aaf9ac670a3e72d7ec9f4bd6f",
-  "DFStringFlagRepoGitHashDynamicString": "c1bad2891f78fe3aaf9ac670a3e72d7ec9f4bd6f",
-  "FStringFlipTimeStampFastString": "2023-12-06T00:08:30.230Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-06T00:08:30.230Z"
+  "FStringFlagRepoGitHashFastString": "3aa79b961331dbda430a4f95bc5cde0a1cd51b17",
+  "DFStringFlagRepoGitHashDynamicString": "3aa79b961331dbda430a4f95bc5cde0a1cd51b17",
+  "FStringFlipTimeStampFastString": "2023-12-06T00:24:25.603Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-06T00:24:25.603Z"
 }
