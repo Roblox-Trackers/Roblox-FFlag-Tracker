@@ -9520,12 +9520,12 @@
   "FFlagLuaAppUseNewNumberLocalization2": "True",
   "FFlagSwitchCSRootProviderTranslationsPackage": "True",
   "FFlagVoiceChatResendSdpAnswerOnSubsTimeout": "True",
-  "DFIntMacClientProtcolURLHandlingThrottleHundrethsPercent_Rollout": "10000;60;2023-12-06T21:54:34",
   "DFFlagVoiceChatControlPlaneEnableOperationTimeout": "True",
   "FFlagEnableAppUpgradeKeyConfig_Rollout": "True;60;2023-12-06T22:12:44",
-  "FFlagStudioDeviceEmulatorShowPS4InNotchBeta_Rollout": "True;30;2023-12-06T22:23:26",
   "FFlagDualWriteFlowDurationToV2Stats": "True",
   "DFIntDataStoreBudgetOnCloseBase_PlaceFilter": "1200;3317771874",
+  "FFlagStudioDeviceEmulatorShowPS4InNotchBeta": "True",
+  "DFIntMacClientProtcolURLHandlingThrottleHundrethsPercent": "10000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9843,8 +9843,8 @@
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
-  "FStringFlagRepoGitHashFastString": "8030dd74e762ed96b5bd747355940e10344d5c03",
-  "DFStringFlagRepoGitHashDynamicString": "8030dd74e762ed96b5bd747355940e10344d5c03",
-  "FStringFlipTimeStampFastString": "2023-12-06T22:53:29.974Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-06T22:53:29.974Z"
+  "FStringFlagRepoGitHashFastString": "d799e1d614adf3125ff4da0f74552bec058491fd",
+  "DFStringFlagRepoGitHashDynamicString": "d799e1d614adf3125ff4da0f74552bec058491fd",
+  "FStringFlipTimeStampFastString": "2023-12-06T23:02:47.777Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-06T23:02:47.777Z"
 }
