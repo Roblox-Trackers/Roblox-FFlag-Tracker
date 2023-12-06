@@ -9536,6 +9536,7 @@
   "FFlagUpgradeExpChatV4_2_7": "True",
   "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "5000;30;2023-12-06T23:45:04",
   "FFlagAXCameraManagerDisableSearchMovement": "True",
+  "FFlagSimSolverLimitMaxMotorAcceleration": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9729,8 +9730,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "d1d8f9e19425836912a21d9560e8303b440bc146",
-  "DFStringFlagRepoGitHashDynamicString": "d1d8f9e19425836912a21d9560e8303b440bc146",
-  "FStringFlipTimeStampFastString": "2023-12-06T23:52:58.139Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-06T23:52:58.139Z"
+  "FStringFlagRepoGitHashFastString": "1e0654e5a60343bd1818f17dd83356b3753c203a",
+  "DFStringFlagRepoGitHashDynamicString": "1e0654e5a60343bd1818f17dd83356b3753c203a",
+  "FStringFlipTimeStampFastString": "2023-12-06T23:56:21.868Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-06T23:56:21.868Z"
 }
