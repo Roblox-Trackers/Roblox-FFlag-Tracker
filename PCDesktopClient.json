@@ -9464,7 +9464,7 @@
   "DFFlagAllExitReasonsUseStringArray": "True",
   "DFFlagEngineStabilityUseSessionResultV2": "True",
   "DFFlagStopFlushTimerWhenInferredCrashDestruct": "True",
-  "DFFlagEnableRetryForSubscribeOnReconnect": "True",
+  "DFFlagEnableRetryForSubscribeOnReconnect": "False",
   "DFFlagModelStreamingBehaviorField": "True",
   "DFFlagConsistentLoadCharacterCallbacks2": "True",
   "FStringLuaGameInviteMenuLayer": "Growth.Notifications.GameInviteMenu.InExperience",
@@ -9804,8 +9804,8 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
-  "FStringFlagRepoGitHashFastString": "eb05242feeca38b18b582b55e5ee37a9ca303f36",
-  "DFStringFlagRepoGitHashDynamicString": "eb05242feeca38b18b582b55e5ee37a9ca303f36",
-  "FStringFlipTimeStampFastString": "2023-12-06T22:51:37.238Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-06T22:51:37.238Z"
+  "FStringFlagRepoGitHashFastString": "8030dd74e762ed96b5bd747355940e10344d5c03",
+  "DFStringFlagRepoGitHashDynamicString": "8030dd74e762ed96b5bd747355940e10344d5c03",
+  "FStringFlipTimeStampFastString": "2023-12-06T22:53:29.974Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-06T22:53:29.974Z"
 }
