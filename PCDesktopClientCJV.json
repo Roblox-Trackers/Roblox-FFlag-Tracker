@@ -9600,6 +9600,8 @@
   "DFFlagMSTTReportsStatsOnDump": "True",
   "DFFlagPerfDataOnHiveReportClientTimestamp": "True",
   "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp_Rollout": "True;60;2023-12-07T22:21:27",
+  "FFlagStudioOnboardingStartPageCTAAnalytics": "True",
+  "FFlagFFlagFixNewAudioAPIEcho": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9880,8 +9882,8 @@
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7_Rollout": "True;60;2023-12-07T21:50:12",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d5598f507163d7a13c10fdf9601229d144f453a0",
-  "DFStringFlagRepoGitHashDynamicString": "d5598f507163d7a13c10fdf9601229d144f453a0",
-  "FStringFlipTimeStampFastString": "2023-12-07T22:22:18.425Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T22:22:18.425Z"
+  "FStringFlagRepoGitHashFastString": "d3581b5ddedaf99b023048675672fd6c305fd7f3",
+  "DFStringFlagRepoGitHashDynamicString": "d3581b5ddedaf99b023048675672fd6c305fd7f3",
+  "FStringFlipTimeStampFastString": "2023-12-07T22:23:19.580Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T22:23:19.580Z"
 }
