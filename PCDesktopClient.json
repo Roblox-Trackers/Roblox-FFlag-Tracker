@@ -9103,7 +9103,7 @@
   "FFlagIXPPerformanceControlMemoryBufferExp2": "True",
   "FFlagAppConfigurerEnabled2": "True",
   "FFlagStudioDraggerToolboxDragFix": "True",
-  "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "2000",
+  "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "5000",
   "FFlagFixCrashInDiffViewDestructor": "True",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent": "10000",
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent": "0",
@@ -9534,7 +9534,6 @@
   "FFlagAXFixLayeredClothingEntryIconSize10ft": "True",
   "FFlagAXFixTitleDropDownCursor10ft": "True",
   "FFlagUpgradeExpChatV4_2_7": "True",
-  "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "5000;30;2023-12-06T23:45:04",
   "FFlagAXCameraManagerDisableSearchMovement": "True",
   "FFlagSimSolverLimitMaxMotorAcceleration": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9815,8 +9814,8 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
-  "FStringFlagRepoGitHashFastString": "4d72bfb6f0aa99aee6c3594fa778888f22530e73",
-  "DFStringFlagRepoGitHashDynamicString": "4d72bfb6f0aa99aee6c3594fa778888f22530e73",
-  "FStringFlipTimeStampFastString": "2023-12-07T00:07:37.722Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T00:07:37.722Z"
+  "FStringFlagRepoGitHashFastString": "da8501d16e50eba9aa8e6bdbe2532ecda9d52da4",
+  "DFStringFlagRepoGitHashDynamicString": "da8501d16e50eba9aa8e6bdbe2532ecda9d52da4",
+  "FStringFlipTimeStampFastString": "2023-12-07T00:22:23.388Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T00:22:23.388Z"
 }
