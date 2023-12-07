@@ -9462,7 +9462,7 @@
   "DFFlagAllExitReasonsUseStringArray": "True",
   "DFFlagEngineStabilityUseSessionResultV2": "True",
   "DFFlagStopFlushTimerWhenInferredCrashDestruct": "True",
-  "DFFlagEnableRetryForSubscribeOnReconnect": "False",
+  "DFFlagEnableRetryForSubscribeOnReconnect": "True",
   "DFFlagModelStreamingBehaviorField": "True",
   "DFFlagConsistentLoadCharacterCallbacks2": "True",
   "FStringLuaGameInviteMenuLayer": "Growth.Notifications.GameInviteMenu.InExperience",
@@ -9929,8 +9929,8 @@
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
   "FFlagMinimalSignupAuthEnabled1": "True",
   "FFlagUpdateCheckOnLogin2": "True",
-  "FStringFlagRepoGitHashFastString": "0c4b7d4ff875e6789de87cd0e7b95ac959aeb4ba",
-  "DFStringFlagRepoGitHashDynamicString": "0c4b7d4ff875e6789de87cd0e7b95ac959aeb4ba",
-  "FStringFlipTimeStampFastString": "2023-12-07T00:28:39.520Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T00:28:39.520Z"
+  "FStringFlagRepoGitHashFastString": "a26f5f5261bc61c4a118ffae0d4e20c8f0ba3e31",
+  "DFStringFlagRepoGitHashDynamicString": "a26f5f5261bc61c4a118ffae0d4e20c8f0ba3e31",
+  "FStringFlipTimeStampFastString": "2023-12-07T00:56:23.592Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T00:56:23.592Z"
 }
