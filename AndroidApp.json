@@ -9583,6 +9583,7 @@
   "FFlagStudioOpenLocalFileAfterUpdate2": "True",
   "DFFlagPerfDataOnHiveReportClientTimestamp_Rollout": "True;60;2023-12-07T21:14:54",
   "DFFlagMSTTReportsStatsOnDump_Rollout": "True;60;2023-12-07T21:16:32",
+  "FFlagAudioDeviceShutdownLock_Rollout": "True;60;2023-12-07T21:18:30",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9977,8 +9978,8 @@
   "FFlagMinimalSignupAuthEnabled1": "True",
   "FFlagUpdateCheckOnLogin2": "True",
   "EnableSendrThumbnail": "True",
-  "FStringFlagRepoGitHashFastString": "251a9212a45700a67aa7b25f6ad930ce63b0904a",
-  "DFStringFlagRepoGitHashDynamicString": "251a9212a45700a67aa7b25f6ad930ce63b0904a",
-  "FStringFlipTimeStampFastString": "2023-12-07T21:16:57.522Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T21:16:57.522Z"
+  "FStringFlagRepoGitHashFastString": "c6b17567f5be7302cba395023e3b2ce4496b8579",
+  "DFStringFlagRepoGitHashDynamicString": "c6b17567f5be7302cba395023e3b2ce4496b8579",
+  "FStringFlipTimeStampFastString": "2023-12-07T21:19:04.314Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T21:19:04.314Z"
 }
