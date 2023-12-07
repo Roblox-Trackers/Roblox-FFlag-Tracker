@@ -9580,6 +9580,8 @@
   "FFlagSimSolverPassMinimumToPhysicalPropertiesLua": "True",
   "DFFlagSimSolverPassMinimumToPhysicalProperties_Rollout": "True;60;2023-12-07T21:01:38",
   "FFlagAudioAnalyzerForceMono": "True",
+  "FFlagStudioOpenLocalFileAfterUpdate2": "True",
+  "DFFlagPerfDataOnHiveReportClientTimestamp_Rollout": "True;60;2023-12-07T21:14:54",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9932,8 +9934,8 @@
   "FFlagMinimalSignupAuthEnabled1": "True",
   "FFlagAdjustAudioLoaderThreadCount": "True",
   "FFlagUpdateCheckOnLogin2": "True",
-  "FStringFlagRepoGitHashFastString": "73a2fe34e99e5aa427f996601d92fafa929c635c",
-  "DFStringFlagRepoGitHashDynamicString": "73a2fe34e99e5aa427f996601d92fafa929c635c",
-  "FStringFlipTimeStampFastString": "2023-12-07T21:14:45.019Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T21:14:45.019Z"
+  "FStringFlagRepoGitHashFastString": "d1fed003911ed967e24ea41d35e0161b6f8a1d1d",
+  "DFStringFlagRepoGitHashDynamicString": "d1fed003911ed967e24ea41d35e0161b6f8a1d1d",
+  "FStringFlipTimeStampFastString": "2023-12-07T21:15:35.886Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T21:15:35.886Z"
 }
