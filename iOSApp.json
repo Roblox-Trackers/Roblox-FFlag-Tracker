@@ -9560,7 +9560,6 @@
   "FIntUGCValidationTorsoThresholdFront": "40",
   "FIntUGCValidationTorsoThresholdSide": "36",
   "FIntUGCValidationTorsoThresholdBack": "38",
-  "DFFlagEnabledRealtimeClientAnalyticsPipelineConnections_Rollout": "True;60;2023-12-07T20:49:56",
   "FIntUGCValidationLeftArmThresholdBack": "23",
   "FIntUGCValidationLeftArmThresholdFront": "25",
   "FIntUGCValidationLeftArmThresholdSide": "40",
@@ -9593,6 +9592,7 @@
   "FFlagBankCapsule": "True",
   "FFlagScriptProfilerMoreUtilAndTabSpaceForButtons": "True",
   "FFlagLabelRibbonControlGroups": "True",
+  "DFFlagEnabledRealtimeClientAnalyticsPipelineConnections": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9946,8 +9946,8 @@
   "FFlagAdjustAudioLoaderThreadCount": "True",
   "FFlagUpdateCheckOnLogin2": "True",
   "FFlagExpStateCaptureMode7_Rollout": "True;60;2023-12-07T21:50:12",
-  "FStringFlagRepoGitHashFastString": "c0b98748881a74fca5eae7e3f744f813db7f7fed",
-  "DFStringFlagRepoGitHashDynamicString": "c0b98748881a74fca5eae7e3f744f813db7f7fed",
-  "FStringFlipTimeStampFastString": "2023-12-07T21:54:28.860Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T21:54:28.860Z"
+  "FStringFlagRepoGitHashFastString": "920f2f9814e1e109209e86cf89c17c56833a9f34",
+  "DFStringFlagRepoGitHashDynamicString": "920f2f9814e1e109209e86cf89c17c56833a9f34",
+  "FStringFlipTimeStampFastString": "2023-12-07T21:56:50.880Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T21:56:50.880Z"
 }
