@@ -9410,7 +9410,7 @@
   "FFlagLuaAppHomeGridTileGenericFooter1": "True",
   "FFlagContactRecs_v5": "True",
   "FFlagEnableSetAndroidUpdateAdapter2": "True",
-  "DFFlagDSTelemetryIncludeScopeAndDmForListingApis": "True",
+  "DFFlagDSTelemetryIncludeScopeAndDmForListingApis": "False",
   "DFIntQosEventThrottle": "20",
   "DFFlagRealtimeClientTargetAnalytics": "False",
   "FFlagNotificationsExperienceDetailsUpdate3": "True",
@@ -9544,7 +9544,6 @@
   "FFlagEnableSubscriptionProductInfoCache_Rollout": "True;60;2023-12-07T18:39:30",
   "FFlagNewScriptContextStrictFacetAccessChecks_Rollout": "True;60;2023-12-07T18:42:34",
   "DFFlagMemoryStoreEnableHashMapListItems_PlaceFilter": "True;6900974696",
-  "DFFlagDSTelemetryIncludeScopeAndDmForListingApis_Rollout": "False;30;2023-12-07T18:54:07",
   "DFFlagLimitSpawnName_Rollout": "True;60;2023-12-07T18:56:19",
   "FFlagEnableReportAbuseMenuRoactABTest": "True",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2023-12-07T18:59:21",
@@ -9748,8 +9747,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "efa5dcd06a29906477adafee2b085bed48b0f8af",
-  "DFStringFlagRepoGitHashDynamicString": "efa5dcd06a29906477adafee2b085bed48b0f8af",
-  "FStringFlipTimeStampFastString": "2023-12-07T19:29:52.397Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T19:29:52.397Z"
+  "FStringFlagRepoGitHashFastString": "de55520a2d30b486a097407799bd179560f5d3ff",
+  "DFStringFlagRepoGitHashDynamicString": "de55520a2d30b486a097407799bd179560f5d3ff",
+  "FStringFlipTimeStampFastString": "2023-12-07T19:31:41.585Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T19:31:41.585Z"
 }
