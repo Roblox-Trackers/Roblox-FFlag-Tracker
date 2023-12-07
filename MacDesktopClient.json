@@ -9599,7 +9599,6 @@
   "FFlagStudioOnboardingStartPageCTAAnalytics": "True",
   "FFlagFFlagFixNewAudioAPIEcho": "True",
   "FFlagAudioDeviceShutdownLock": "True",
-  "FFlagVoiceChatFixHolderDeadlock_Rollout": "True;60;2023-12-07T22:28:55",
   "FFlagDenseRequiringSets_Rollout": "True;60;2023-12-07T22:36:23",
   "DFIntRealtimeConnectionEventThrottlingHundredthsPercent_Rollout": "1;60;2023-12-07T22:45:05",
   "DFFlagSendAncestorsSetZero": "True",
@@ -9609,6 +9608,8 @@
   "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
   "FFlagRoactChatConversationActionsAll4": "True",
   "FFlagRoactChatKillDuplicateRoduxRequest": "True",
+  "FFlagVoiceChatFixHolderDeadlock": "True",
+  "FFlagProcessingPacketUseUniquePtr_Rollout": "True;60;2023-12-07T23:36:54",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9891,8 +9892,8 @@
   "DFLogFaceAnimatorTrace": "6",
   "FFlagRuntimeEnabled2": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "FStringFlagRepoGitHashFastString": "3fab7e2f7f372444d680616f1cd4e032b66fa2de",
-  "DFStringFlagRepoGitHashDynamicString": "3fab7e2f7f372444d680616f1cd4e032b66fa2de",
-  "FStringFlipTimeStampFastString": "2023-12-07T23:29:46.027Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T23:29:46.027Z"
+  "FStringFlagRepoGitHashFastString": "3fdc19b98bf54eeab14cadad68c0cd608852ac21",
+  "DFStringFlagRepoGitHashDynamicString": "3fdc19b98bf54eeab14cadad68c0cd608852ac21",
+  "FStringFlipTimeStampFastString": "2023-12-07T23:37:38.076Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T23:37:38.076Z"
 }
