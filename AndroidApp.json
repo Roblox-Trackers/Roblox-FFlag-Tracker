@@ -9911,7 +9911,6 @@
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagEnableSeamlessForceOTAUpdate2": "True",
-  "FFlagUpdateCheckOnLogin": "True",
   "AndroidInitializeAndroidUpdateAdapter": "True",
   "FFlagEnableSetAndroidUpdateAdapter": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyAndroid",
@@ -9930,8 +9929,9 @@
   "FStringRealtimeClientTargetName": "Android",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
   "FFlagMinimalSignupAuthEnabled1": "True",
-  "FStringFlagRepoGitHashFastString": "1e0654e5a60343bd1818f17dd83356b3753c203a",
-  "DFStringFlagRepoGitHashDynamicString": "1e0654e5a60343bd1818f17dd83356b3753c203a",
-  "FStringFlipTimeStampFastString": "2023-12-06T23:56:21.868Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-06T23:56:21.868Z"
+  "FFlagUpdateCheckOnLogin2": "True",
+  "FStringFlagRepoGitHashFastString": "a14ec63a5634db9975433c5072bbbb1de976b320",
+  "DFStringFlagRepoGitHashDynamicString": "a14ec63a5634db9975433c5072bbbb1de976b320",
+  "FStringFlipTimeStampFastString": "2023-12-06T23:59:57.492Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-06T23:59:57.492Z"
 }
