@@ -9103,7 +9103,7 @@
   "FFlagIXPPerformanceControlMemoryBufferExp2": "True",
   "FFlagAppConfigurerEnabled2": "True",
   "FFlagStudioDraggerToolboxDragFix": "True",
-  "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "5000",
+  "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "10000",
   "FFlagFixCrashInDiffViewDestructor": "True",
   "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent": "10000",
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent": "0",
@@ -9601,7 +9601,6 @@
   "FFlagFFlagFixNewAudioAPIEcho": "True",
   "FFlagAudioDeviceShutdownLock": "True",
   "FFlagVoiceChatFixHolderDeadlock_Rollout": "True;60;2023-12-07T22:28:55",
-  "DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "10000;30;2023-12-07T22:30:02",
   "FFlagDenseRequiringSets_Rollout": "True;60;2023-12-07T22:36:23",
   "DFIntRealtimeConnectionEventThrottlingHundredthsPercent_Rollout": "1;60;2023-12-07T22:45:05",
   "DFFlagSendAncestorsSetZero": "True",
@@ -9959,8 +9958,8 @@
   "FFlagUpdateCheckOnLogin2": "True",
   "FFlagExpStateCaptureMode7": "True",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderediOS",
-  "FStringFlagRepoGitHashFastString": "41043d3e10ed9fd294ace68ec90538c8a84d0f5e",
-  "DFStringFlagRepoGitHashDynamicString": "41043d3e10ed9fd294ace68ec90538c8a84d0f5e",
-  "FStringFlipTimeStampFastString": "2023-12-07T23:05:31.882Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T23:05:31.882Z"
+  "FStringFlagRepoGitHashFastString": "1de41cef7ee4c13f3eec68d725a1cb5ad49b48df",
+  "DFStringFlagRepoGitHashDynamicString": "1de41cef7ee4c13f3eec68d725a1cb5ad49b48df",
+  "FStringFlipTimeStampFastString": "2023-12-07T23:06:51.309Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T23:06:51.309Z"
 }
