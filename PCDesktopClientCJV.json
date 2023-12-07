@@ -9548,7 +9548,6 @@
   "FFlagEnableSubscriptionProductInfoCache": "True",
   "FFlagNewScriptContextStrictFacetAccessChecks": "True",
   "DFFlagLimitSpawnName": "True",
-  "FFlagAudioAnalyzerForceMono_Rollout": "True;60;2023-12-07T20:05:05",
   "FLogStudioDocking_NewDocking": "Verbose",
   "FLogStudioPluginRelay_NewDocking": "Verbose",
   "FLogStudioQtitanDocking_NewDocking": "Verbose",
@@ -9580,6 +9579,7 @@
   "FIntUGCValidationRightLegThresholdSide": "38",
   "FFlagSimSolverPassMinimumToPhysicalPropertiesLua": "True",
   "DFFlagSimSolverPassMinimumToPhysicalProperties_Rollout": "True;60;2023-12-07T21:01:38",
+  "FFlagAudioAnalyzerForceMono": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9860,8 +9860,8 @@
   "FStringRealtimeClientTargetName": "win32",
   "FFlagRuntimeEnabled2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f60e3535059d1537e91e5390a9be633b49e4d1e5",
-  "DFStringFlagRepoGitHashDynamicString": "f60e3535059d1537e91e5390a9be633b49e4d1e5",
-  "FStringFlipTimeStampFastString": "2023-12-07T21:06:38.422Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T21:06:38.422Z"
+  "FStringFlagRepoGitHashFastString": "d5b1f856f764d157459abe0487752d78c5abdeb1",
+  "DFStringFlagRepoGitHashDynamicString": "d5b1f856f764d157459abe0487752d78c5abdeb1",
+  "FStringFlipTimeStampFastString": "2023-12-07T21:11:56.854Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T21:11:56.854Z"
 }
