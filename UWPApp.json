@@ -9575,8 +9575,6 @@
   "FFlagSimSolverPassMinimumToPhysicalPropertiesLua": "True",
   "FFlagAudioAnalyzerForceMono": "True",
   "FFlagStudioOpenLocalFileAfterUpdate2": "True",
-  "DFFlagPerfDataOnHiveReportClientTimestamp_Rollout": "True;60;2023-12-07T21:14:54",
-  "DFFlagMSTTReportsStatsOnDump_Rollout": "True;60;2023-12-07T21:16:32",
   "FFlagAudioDeviceShutdownLock_Rollout": "True;60;2023-12-07T21:18:30",
   "DFFlagMSTTNoDumpTelemtryWhenUninitialized": "True",
   "FFlagStudioAlwaysCreateFixedSplitLayoutPanels": "True",
@@ -9598,6 +9596,10 @@
   "FFlagRoactChatRefactorEntryPoint2": "True",
   "FFlagStudioCalloutUnbindAttacher": "True",
   "FFlagStudioTourCarSpeed": "True",
+  "FFlagAXFixNavReloadWrongLanding": "True",
+  "DFFlagMSTTReportsStatsOnDump": "True",
+  "DFFlagPerfDataOnHiveReportClientTimestamp": "True",
+  "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp_Rollout": "True;60;2023-12-07T22:21:27",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9791,8 +9793,8 @@
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "efb9b5df224bf4fef0bfb26a165f29d024c688ed",
-  "DFStringFlagRepoGitHashDynamicString": "efb9b5df224bf4fef0bfb26a165f29d024c688ed",
-  "FStringFlipTimeStampFastString": "2023-12-07T22:16:31.345Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T22:16:31.345Z"
+  "FStringFlagRepoGitHashFastString": "d5598f507163d7a13c10fdf9601229d144f453a0",
+  "DFStringFlagRepoGitHashDynamicString": "d5598f507163d7a13c10fdf9601229d144f453a0",
+  "FStringFlipTimeStampFastString": "2023-12-07T22:22:18.425Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T22:22:18.425Z"
 }
