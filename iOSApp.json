@@ -9554,6 +9554,7 @@
   "FFlagRealtimeProtocolSetsManagerAuthenticatedUserId_Rollout": "True;60;2023-12-07T19:13:00",
   "DFFlagSimDecoupleGravityForceVisFromConstraintAndContactForceVis_Rollout": "True;60;2023-12-07T19:15:09",
   "FFlagEnableSubscriptionStatusCache": "True",
+  "FFlagLuaAppUseGridTilesOnDesktop5": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9784,7 +9785,7 @@
   "DFFlagPredictedOOM": "True",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageiOS",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataiOS",
-  "FFlagUniversalAppCsat": "False",
+  "FFlagUniversalAppCsat": "True",
   "FFlagLuaVerifiedSignupExperiment2": "True",
   "FFlagDestroyDMBeforeJoiningExperience": "True",
   "DFIntLaunchUGCExperienceWithExistingDMHundredthPercentage": "300",
@@ -9906,8 +9907,8 @@
   "FFlagMinimalSignupAuthEnabled1": "True",
   "FFlagAdjustAudioLoaderThreadCount": "True",
   "FFlagUpdateCheckOnLogin2": "True",
-  "FStringFlagRepoGitHashFastString": "de55520a2d30b486a097407799bd179560f5d3ff",
-  "DFStringFlagRepoGitHashDynamicString": "de55520a2d30b486a097407799bd179560f5d3ff",
-  "FStringFlipTimeStampFastString": "2023-12-07T19:31:41.585Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T19:31:41.585Z"
+  "FStringFlagRepoGitHashFastString": "9ad4bcb3c325433b9eab48a9d473c7591d02aabb",
+  "DFStringFlagRepoGitHashDynamicString": "9ad4bcb3c325433b9eab48a9d473c7591d02aabb",
+  "FStringFlipTimeStampFastString": "2023-12-07T19:38:36.384Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T19:38:36.384Z"
 }
