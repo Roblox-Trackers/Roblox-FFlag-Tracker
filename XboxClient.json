@@ -9550,6 +9550,8 @@
   "FFlagEnableReportAbuseMenuRoactABTest": "True",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2023-12-07T18:59:21",
   "FFlagReplicatorEBVPTelemetryInfoCloudEdit2_Rollout": "True;60;2023-12-07T19:00:34",
+  "FFlagModelDestructorSignal_Rollout": "True;60;2023-12-07T19:05:18",
+  "FFlagStreamSoundsCompressedInMemory2_Rollout": "True;60;2023-12-07T19:09:03",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9866,8 +9868,8 @@
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
-  "FStringFlagRepoGitHashFastString": "9e50d243b7a1afec3849db4d6c4a339d5ca18f5b",
-  "DFStringFlagRepoGitHashDynamicString": "9e50d243b7a1afec3849db4d6c4a339d5ca18f5b",
-  "FStringFlipTimeStampFastString": "2023-12-07T19:07:45.377Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-07T19:07:45.377Z"
+  "FStringFlagRepoGitHashFastString": "b9faac10dd1d27e3d8651dd134cb8261a758036b",
+  "DFStringFlagRepoGitHashDynamicString": "b9faac10dd1d27e3d8651dd134cb8261a758036b",
+  "FStringFlipTimeStampFastString": "2023-12-07T19:09:40.101Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-07T19:09:40.101Z"
 }
