@@ -9612,10 +9612,8 @@
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
   "FFlagDenseRequiringInstanceCount": "True",
-  "DFFlagMemoryStoreErrorEnableExtraInfoTelemetry_Rollout": "True;30;2023-12-08T00:20:34",
   "FFlagTenFootUiMorePageFixUsername": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
-  "DFIntMemoryStoreErrorExtraInfoHundredthsPercent_Rollout": "100;30;2023-12-08T00:36:03",
   "FFlagEDPAddRatingTitle10ft": "True",
   "FFlagProcessingPacketUseUniquePtr": "True",
   "FStringChatLandingComposeBtnClickedCounter": "ChatLandingComposeBtnClickedAndroid",
@@ -9625,6 +9623,7 @@
   "DFFlagHttpCacheReportCleanReason": "True",
   "DFIntDataStoreErrorThrottleHundredthsPercentage_Rollout": "25;30;2023-12-08T00:51:10",
   "FFlagFixAeroMeshScale_Rollout": "True;30;2023-12-08T00:53:42",
+  "DFFlagMemoryStoreErrorEnableExtraInfoTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10020,8 +10019,8 @@
   "FFlagUpdateCheckOnLogin2": "True",
   "EnableSendrThumbnail": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "FStringFlagRepoGitHashFastString": "f88819b6f128796700b5d118fc73f65aa8b9803e",
-  "DFStringFlagRepoGitHashDynamicString": "f88819b6f128796700b5d118fc73f65aa8b9803e",
-  "FStringFlipTimeStampFastString": "2023-12-08T00:54:18.682Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:54:18.682Z"
+  "FStringFlagRepoGitHashFastString": "5bc5c65673386299e22abc47210000875ac2e7cf",
+  "DFStringFlagRepoGitHashDynamicString": "5bc5c65673386299e22abc47210000875ac2e7cf",
+  "FStringFlipTimeStampFastString": "2023-12-08T00:56:38.952Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:56:38.952Z"
 }
