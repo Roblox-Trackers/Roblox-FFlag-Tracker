@@ -9615,6 +9615,7 @@
   "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
   "FFlagDenseRequiringInstanceCount": "True",
   "DFFlagMemoryStoreErrorEnableExtraInfoTelemetry_Rollout": "True;30;2023-12-08T00:20:34",
+  "FFlagTenFootUiMorePageFixUsername": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9894,8 +9895,8 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
-  "FStringFlagRepoGitHashFastString": "e765c67a0f7dca20a8415c97bbb3b40503745e20",
-  "DFStringFlagRepoGitHashDynamicString": "e765c67a0f7dca20a8415c97bbb3b40503745e20",
-  "FStringFlipTimeStampFastString": "2023-12-08T00:21:12.620Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:21:12.620Z"
+  "FStringFlagRepoGitHashFastString": "702240c3f764df9904c2045505d277bc4509a304",
+  "DFStringFlagRepoGitHashDynamicString": "702240c3f764df9904c2045505d277bc4509a304",
+  "FStringFlipTimeStampFastString": "2023-12-08T00:22:15.036Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:22:15.036Z"
 }
