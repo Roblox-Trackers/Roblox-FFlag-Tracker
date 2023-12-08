@@ -9624,6 +9624,7 @@
   "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedDUAR",
   "DFFlagHttpCacheReportCleanReason": "True",
   "DFIntDataStoreErrorThrottleHundredthsPercentage_Rollout": "25;30;2023-12-08T00:51:10",
+  "FFlagFixAeroMeshScale_Rollout": "True;30;2023-12-08T00:53:42",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9908,8 +9909,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB_Rollout": "3072;30;2023-12-08T00:23:29",
   "FFlagHttpCacheCleanSpaceOnly_Rollout": "True;30;2023-12-08T00:23:29",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "932e73877ccf3e0515911d92bcb8ef9cab329ad9",
-  "DFStringFlagRepoGitHashDynamicString": "932e73877ccf3e0515911d92bcb8ef9cab329ad9",
-  "FStringFlipTimeStampFastString": "2023-12-08T00:51:48.929Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:51:48.929Z"
+  "FStringFlagRepoGitHashFastString": "f88819b6f128796700b5d118fc73f65aa8b9803e",
+  "DFStringFlagRepoGitHashDynamicString": "f88819b6f128796700b5d118fc73f65aa8b9803e",
+  "FStringFlipTimeStampFastString": "2023-12-08T00:54:18.682Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:54:18.682Z"
 }
