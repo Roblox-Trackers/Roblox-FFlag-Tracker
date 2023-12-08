@@ -9613,6 +9613,8 @@
   "FFlagDenseRequiringInstanceCount": "True",
   "FFlagTenFootUiMorePageFixUsername": "True",
   "DFFlagHttpSslCertCacheEnabled3": "True",
+  "DFFlagMemoryStoreErrorEnableExtraInfoTelemetry_Rollout": "True;30;2023-12-08T18:17:25",
+  "DFIntMemoryStoreErrorExtraInfoHundredthsPercent_Rollout": "25;30;2023-12-08T18:18:00",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9892,8 +9894,8 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagRuntimeEnabled2": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "FStringFlagRepoGitHashFastString": "057cf80666b7599da0294858f5267c19000e0be2",
-  "DFStringFlagRepoGitHashDynamicString": "057cf80666b7599da0294858f5267c19000e0be2",
-  "FStringFlipTimeStampFastString": "2023-12-08T18:08:47.527Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-08T18:08:47.527Z"
+  "FStringFlagRepoGitHashFastString": "edaa52a460dc400bf61f9fca0aa164c1ef3c6735",
+  "DFStringFlagRepoGitHashDynamicString": "edaa52a460dc400bf61f9fca0aa164c1ef3c6735",
+  "FStringFlipTimeStampFastString": "2023-12-08T18:18:22.290Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-08T18:18:22.290Z"
 }
