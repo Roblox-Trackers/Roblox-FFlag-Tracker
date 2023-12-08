@@ -9600,8 +9600,6 @@
   "FFlagFFlagFixNewAudioAPIEcho": "True",
   "FFlagAudioDeviceShutdownLock": "True",
   "DFFlagSendAncestorsSetZero": "True",
-  "DFIntHttpCacheCleanTriggerAvailableSpaceMiB_Rollout": "512;60;2023-12-07T23:07:39",
-  "FFlagDenseRequiringInstanceCount_Rollout": "True;60;2023-12-07T23:09:05",
   "FStringChatLandingScreenRenderedCounter": "ChatLandingScreenRenderedDUAR",
   "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
   "FFlagRoactChatConversationActionsAll4": "True",
@@ -9614,6 +9612,8 @@
   "DFIntRealtimeConnectionEventThrottlingHundredthsPercent": "1",
   "FFlagLuaAppExperienceDescriptionPanel3": "True",
   "FFlagLuaAppRefactorExperienceInfoTable2": "True",
+  "DFIntHttpCacheCleanTriggerAvailableSpaceMiB": "512",
+  "FFlagDenseRequiringInstanceCount": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9893,8 +9893,8 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
-  "FStringFlagRepoGitHashFastString": "2b05457ec092dcd06b8144453ba58c309809bb0a",
-  "DFStringFlagRepoGitHashDynamicString": "2b05457ec092dcd06b8144453ba58c309809bb0a",
-  "FStringFlipTimeStampFastString": "2023-12-08T00:10:52.274Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:10:52.274Z"
+  "FStringFlagRepoGitHashFastString": "86c0cdacb0a9b3c5805b1f4674e646f713d5770f",
+  "DFStringFlagRepoGitHashDynamicString": "86c0cdacb0a9b3c5805b1f4674e646f713d5770f",
+  "FStringFlipTimeStampFastString": "2023-12-08T00:16:43.184Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:16:43.184Z"
 }
