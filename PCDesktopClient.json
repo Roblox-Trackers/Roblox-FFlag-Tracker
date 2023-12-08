@@ -9903,12 +9903,12 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
-  "DFFlagHttpCacheCleanScheduleBasedOnBytes_Rollout": "True;30;2023-12-08T00:23:29",
-  "DFIntHttpCacheCleanCheckAfterKB_Rollout": "2097152;30;2023-12-08T00:23:29",
-  "DFIntHttpCacheCleanTriggerTotalSpaceMiB_Rollout": "3072;30;2023-12-08T00:23:29",
-  "FFlagHttpCacheCleanSpaceOnly_Rollout": "True;30;2023-12-08T00:23:29",
-  "FStringFlagRepoGitHashFastString": "5bc5c65673386299e22abc47210000875ac2e7cf",
-  "DFStringFlagRepoGitHashDynamicString": "5bc5c65673386299e22abc47210000875ac2e7cf",
-  "FStringFlipTimeStampFastString": "2023-12-08T00:56:38.952Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:56:38.952Z"
+  "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
+  "DFIntHttpCacheCleanCheckAfterKB": "2097152",
+  "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "3072",
+  "FFlagHttpCacheCleanSpaceOnly": "True",
+  "FStringFlagRepoGitHashFastString": "5f2077f187b25d456fcb4cd0638ea04fbdde7f34",
+  "DFStringFlagRepoGitHashDynamicString": "5f2077f187b25d456fcb4cd0638ea04fbdde7f34",
+  "FStringFlipTimeStampFastString": "2023-12-08T01:06:58.064Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-08T01:06:58.064Z"
 }
