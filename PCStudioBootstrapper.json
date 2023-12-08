@@ -56,8 +56,8 @@
   "FFlagHttpPostSyncUseNativeRetry": "True",
   "FFlagEnableMultipleProcessTermination": "True",
   "FFlagWindowsStudioPassLaunchIntent2": "True",
-  "DFIntHttpResponseDefaultTimeoutMillis_Rollout": "300000;60;2023-12-08T01:39:15",
   "FIntInstallerFileTaskThreadCount": "3",
+  "DFIntHttpResponseDefaultTimeoutMillis": "300000",
   "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": "True",
   "FFlagBootstrapperEnableOptOutDUAR": "True",
   "FFlagBootstrapperDeprecateWin32DesktopApps": "True",
@@ -71,8 +71,8 @@
   "FFlagWindowsInstallerEnableDpiAwareness": "True",
   "FFlagWindowsMonitorAnalytics": "True",
   "FFlagWindowsStudioFirstLaunchArgument2": "True",
-  "FStringFlagRepoGitHashFastString": "ceafab88f722fc49d1fc5d0a554b47d247baada2",
-  "DFStringFlagRepoGitHashDynamicString": "ceafab88f722fc49d1fc5d0a554b47d247baada2",
-  "FStringFlipTimeStampFastString": "2023-12-08T02:11:46.914Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-08T02:11:46.914Z"
+  "FStringFlagRepoGitHashFastString": "b314f6a6eed3b9473a35a08ded1af292b3561571",
+  "DFStringFlagRepoGitHashDynamicString": "b314f6a6eed3b9473a35a08ded1af292b3561571",
+  "FStringFlipTimeStampFastString": "2023-12-08T02:46:08.785Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-08T02:46:08.785Z"
 }
