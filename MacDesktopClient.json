@@ -9619,6 +9619,10 @@
   "DFFlagMemoryStoreErrorEnableExtraInfoTelemetry": "True",
   "DFIntMemoryStoreErrorExtraInfoHundredthsPercent": "25",
   "DFFlagHttpCacheReportCleanReason_Rollout": "True;60;2023-12-08T18:57:02",
+  "FStringChatLandingComposeBtnClickedCounter": "ChatLandingComposeBtnClickedDUAR",
+  "FStringChatLandingConversationClickedCounter": "ChatLandingConversationClickedDUAR",
+  "FStringChatLandingNotifBtnClickedCounter": "ChatLandingNotifBtnClickedDUAR",
+  "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedDUAR",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9898,8 +9902,8 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagRuntimeEnabled2": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "FStringFlagRepoGitHashFastString": "46f2649112ee208e9c0034cb5388b19c81d3466c",
-  "DFStringFlagRepoGitHashDynamicString": "46f2649112ee208e9c0034cb5388b19c81d3466c",
-  "FStringFlipTimeStampFastString": "2023-12-08T18:57:25.343Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-08T18:57:25.343Z"
+  "FStringFlagRepoGitHashFastString": "8e26f203a3bad7bb889b694c04e37c63514f702d",
+  "DFStringFlagRepoGitHashDynamicString": "8e26f203a3bad7bb889b694c04e37c63514f702d",
+  "FStringFlipTimeStampFastString": "2023-12-08T19:05:55.716Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-08T19:05:55.716Z"
 }
