@@ -9616,6 +9616,7 @@
   "FFlagDenseRequiringInstanceCount": "True",
   "DFFlagMemoryStoreErrorEnableExtraInfoTelemetry_Rollout": "True;30;2023-12-08T00:20:34",
   "FFlagTenFootUiMorePageFixUsername": "True",
+  "FFlagLuaAppExperienceInfoPanel2": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9869,7 +9870,6 @@
   "FFlagLegacyInputBindingsInControllerBar": "True",
   "FFlagLuaAppLaunchConnectorFix2": "True",
   "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
-  "FFlagLuaAppExperienceInfoPanel2": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyXBoxClient",
   "FFlagRefactorAuthPageForTenFoot": "True",
   "FFlagRefactorBirthdayPicker": "True",
@@ -9927,8 +9927,8 @@
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
-  "FStringFlagRepoGitHashFastString": "2b902d33e2133319a5ca49bc72e927a5b9ee54cc",
-  "DFStringFlagRepoGitHashDynamicString": "2b902d33e2133319a5ca49bc72e927a5b9ee54cc",
-  "FStringFlipTimeStampFastString": "2023-12-08T00:24:06.798Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:24:06.798Z"
+  "FStringFlagRepoGitHashFastString": "79eda55c51603e289e8f1565a95c0447405e0b13",
+  "DFStringFlagRepoGitHashDynamicString": "79eda55c51603e289e8f1565a95c0447405e0b13",
+  "FStringFlipTimeStampFastString": "2023-12-08T00:27:58.232Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:27:58.232Z"
 }
