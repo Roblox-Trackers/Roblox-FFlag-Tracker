@@ -9605,7 +9605,6 @@
   "FFlagRoactChatConversationActionsAll4": "True",
   "FFlagRoactChatKillDuplicateRoduxRequest": "True",
   "FFlagVoiceChatFixHolderDeadlock": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagDenseRequiringSets": "True",
   "FFlagEnablePerformPurchaseGCSHandling": "True",
   "DFIntRealtimeConnectionEventThrottlingHundredthsPercent": "1",
@@ -9623,6 +9622,8 @@
   "FStringChatLandingConversationClickedCounter": "ChatLandingConversationClickedCommon",
   "FStringChatLandingNotifBtnClickedCounter": "ChatLandingNotifBtnClickedCommon",
   "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedCommon",
+  "DFFlagHttpCacheReportCleanReason": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -9824,7 +9825,6 @@
   "FStringUserProfilesRequestSuccess": "UserProfilesRequestSuccessXBoxClient",
   "FStringUserProfilesRequestSuccessAfterRetry": "UserProfilesRequestSuccessAfterRetryXBoxClient",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
-  "DFFlagHttpCacheReportCleanReason": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "1048576",
   "FFlagAuthDisclaimerUseArgs": "True",
   "FFlagAddMenuNavigationToggleDialog": "True",
@@ -9933,8 +9933,8 @@
   "DFIntHangDetectionJobV2TimeoutMs": "0",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
-  "FStringFlagRepoGitHashFastString": "54566dd1662fbf06d58c3ae201093db2e0d6de05",
-  "DFStringFlagRepoGitHashDynamicString": "54566dd1662fbf06d58c3ae201093db2e0d6de05",
-  "FStringFlipTimeStampFastString": "2023-12-08T00:43:09.264Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:43:09.264Z"
+  "FStringFlagRepoGitHashFastString": "295489c99552472837b8aadef58e6edeb3d10317",
+  "DFStringFlagRepoGitHashDynamicString": "295489c99552472837b8aadef58e6edeb3d10317",
+  "FStringFlipTimeStampFastString": "2023-12-08T00:46:41.751Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-08T00:46:41.751Z"
 }
