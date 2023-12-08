@@ -9902,8 +9902,12 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagRuntimeEnabled2": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "FStringFlagRepoGitHashFastString": "3420fd288740dfe373c816b2b5fe2ac3fbfe36ca",
-  "DFStringFlagRepoGitHashDynamicString": "3420fd288740dfe373c816b2b5fe2ac3fbfe36ca",
-  "FStringFlipTimeStampFastString": "2023-12-08T19:38:17.961Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-08T19:38:17.961Z"
+  "DFFlagHttpCacheCleanScheduleBasedOnBytes_Rollout": "True;60;2023-12-08T19:41:51",
+  "DFIntHttpCacheCleanCheckAfterKB_Rollout": "524288;60;2023-12-08T19:41:51",
+  "DFIntHttpCacheCleanTriggerTotalSpaceMiB_Rollout": "1024;60;2023-12-08T19:41:51",
+  "FFlagHttpCacheCleanSpaceOnly_Rollout": "True;60;2023-12-08T19:41:51",
+  "FStringFlagRepoGitHashFastString": "bca8401f937eee39a9abd8e0f32080e58bd8df51",
+  "DFStringFlagRepoGitHashDynamicString": "bca8401f937eee39a9abd8e0f32080e58bd8df51",
+  "FStringFlipTimeStampFastString": "2023-12-08T19:42:14.829Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-08T19:42:14.829Z"
 }
