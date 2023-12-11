@@ -9638,11 +9638,11 @@
   "FFlagTenFootUiCategoryTabRemovePadding": "True",
   "DFFlagAddMetricsForUnreliableItems_Rollout": "True;45;2023-12-11T20:13:15",
   "FFlagLuauBufferBuiltins_Rollout": "True;30;2023-12-11T20:20:51",
-  "DFIntStreamingDistanceUtilityCurveMaxUtility_Rollout": "15000;15;2023-12-11T20:28:43",
-  "DFIntNumChangesBeforeResettingPerRegionStats_Rollout": "2000000;15;2023-12-11T20:29:00",
   "DFFlagMemoryStoreEnableHashMapListItems": "True",
   "DFFlagOpportunisticFixForTheStreamingTunable": "True",
   "FFlagLuauCompileBufferAnnotation": "True",
+  "DFIntNumChangesBeforeResettingPerRegionStats": "2000000",
+  "DFIntStreamingDistanceUtilityCurveMaxUtility": "15000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10001,8 +10001,8 @@
   "DFFlagPerformanceControlEnableInference_Rollout": "True;60;2023-12-11T20:10:14",
   "DFIntEnableInternalMemoryUpdateFunctionsPercentage_Rollout": "10000;60;2023-12-11T20:12:57",
   "DFIntPerformanceControlRunInferenceHundrethsPercent_Rollout": "5;40;2023-12-11T20:28:47",
-  "FStringFlagRepoGitHashFastString": "95730f654c3bd285c41b183fa21162bac637fdce",
-  "DFStringFlagRepoGitHashDynamicString": "95730f654c3bd285c41b183fa21162bac637fdce",
-  "FStringFlipTimeStampFastString": "2023-12-11T20:41:19.833Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-11T20:41:19.833Z"
+  "FStringFlagRepoGitHashFastString": "f8c80ac9bc55be6d9c1f22190a08c38d2a5bb123",
+  "DFStringFlagRepoGitHashDynamicString": "f8c80ac9bc55be6d9c1f22190a08c38d2a5bb123",
+  "FStringFlipTimeStampFastString": "2023-12-11T20:46:26.421Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-11T20:46:26.421Z"
 }
