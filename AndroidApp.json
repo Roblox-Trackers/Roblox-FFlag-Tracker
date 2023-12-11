@@ -9623,10 +9623,10 @@
   "FFlagFixOutdatedParticles2_Rollout": "True;60;2023-12-11T17:10:37",
   "FFlagVideoFrameYuvGPU2_Rollout": "True;60;2023-12-11T17:10:43",
   "DFFlagSolverModelRemovedUnderSetFix_Rollout": "True;60;2023-12-11T17:10:52",
-  "FFlagPerformanceControlUseShutdownFunction_Rollout": "True;30;2023-12-11T17:17:21",
   "FFlagLuauLoopInterruptFix_Rollout": "True;30;2023-12-11T17:34:35",
   "FFlagLuauBuffer_Rollout": "True;60;2023-12-11T17:50:13",
   "FFlagCapturesLogIsUnder13": "True",
+  "FFlagPerformanceControlUseShutdownFunction": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10022,8 +10022,8 @@
   "FFlagUpdateCheckOnLogin2": "True",
   "EnableSendrThumbnail": "True",
   "FFlagExpStateCaptureMode7": "True",
-  "FStringFlagRepoGitHashFastString": "074de0e5e5b41d50cf3e029e3178272f721f38ce",
-  "DFStringFlagRepoGitHashDynamicString": "074de0e5e5b41d50cf3e029e3178272f721f38ce",
-  "FStringFlipTimeStampFastString": "2023-12-11T17:55:35.342Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-11T17:55:35.342Z"
+  "FStringFlagRepoGitHashFastString": "2ab64abebac77187a74ea1e8e37201a2dd3b038c",
+  "DFStringFlagRepoGitHashDynamicString": "2ab64abebac77187a74ea1e8e37201a2dd3b038c",
+  "FStringFlipTimeStampFastString": "2023-12-11T17:57:01.688Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-11T17:57:01.688Z"
 }
