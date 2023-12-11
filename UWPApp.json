@@ -9620,6 +9620,9 @@
   "FStringChatLandingNotifBtnClickedCounter": "ChatLandingNotifBtnClickedCommon",
   "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedCommon",
   "FFlagStudioUseGlobalBinaryTypeForVersionQuery": "True",
+  "FFlagFixOutdatedParticles2_Rollout": "True;60;2023-12-11T17:10:37",
+  "FFlagVideoFrameYuvGPU2_Rollout": "True;60;2023-12-11T17:10:43",
+  "DFFlagSolverModelRemovedUnderSetFix_Rollout": "True;60;2023-12-11T17:10:52",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9814,8 +9817,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "3dd2014b942685cf32e43e2efcdfef3d22046064",
-  "DFStringFlagRepoGitHashDynamicString": "3dd2014b942685cf32e43e2efcdfef3d22046064",
-  "FStringFlipTimeStampFastString": "2023-12-11T16:57:52.613Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-11T16:57:52.613Z"
+  "FStringFlagRepoGitHashFastString": "73f051cd86d082544f28473c6c542bafdbd402cf",
+  "DFStringFlagRepoGitHashDynamicString": "73f051cd86d082544f28473c6c542bafdbd402cf",
+  "FStringFlipTimeStampFastString": "2023-12-11T17:11:33.644Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-11T17:11:33.644Z"
 }
