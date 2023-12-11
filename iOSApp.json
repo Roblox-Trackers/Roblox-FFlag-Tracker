@@ -9991,8 +9991,9 @@
   "FFlagUpdateCheckOnLogin2": "True",
   "FFlagExpStateCaptureMode7": "True",
   "DFIntEnableInternalMemoryUpdateFunctionsPercentage_Rollout": "100;30;2023-12-11T18:35:23",
-  "FStringFlagRepoGitHashFastString": "e5864ed6c96b01eb726179f78c66e832816d19be",
-  "DFStringFlagRepoGitHashDynamicString": "e5864ed6c96b01eb726179f78c66e832816d19be",
-  "FStringFlipTimeStampFastString": "2023-12-11T18:41:52.725Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-11T18:41:52.725Z"
+  "DFFlagPerformanceControlEnableInference_Rollout": "True;60;2023-12-11T18:46:53",
+  "FStringFlagRepoGitHashFastString": "99ec92c84b7b946ac91ae027bdce17a042f8bbe6",
+  "DFStringFlagRepoGitHashDynamicString": "99ec92c84b7b946ac91ae027bdce17a042f8bbe6",
+  "FStringFlipTimeStampFastString": "2023-12-11T18:47:24.513Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-11T18:47:24.513Z"
 }
