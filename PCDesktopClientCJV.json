@@ -9631,6 +9631,7 @@
   "DFFlagSimGroundControllerTurningLogicFix_Rollout": "True;60;2023-12-11T18:02:00",
   "DFFlagPerformanceControlEnableMemoryProbing3_Rollout": "True;60;2023-12-11T18:02:53",
   "FFlagLuauKeepVmapLinear2_Rollout": "True;30;2023-12-11T18:03:26",
+  "FFlagSimIslandizerMultiplierUpdate_Rollout": "True;60;2023-12-11T18:04:31",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9911,8 +9912,8 @@
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "2ec17f9e4f041d5e35ceab5eb40ce336c6ec593a",
-  "DFStringFlagRepoGitHashDynamicString": "2ec17f9e4f041d5e35ceab5eb40ce336c6ec593a",
-  "FStringFlipTimeStampFastString": "2023-12-11T18:04:05.769Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-11T18:04:05.769Z"
+  "FStringFlagRepoGitHashFastString": "1f6df0c48bc6f0aff66ac389eecba1c483e960ee",
+  "DFStringFlagRepoGitHashDynamicString": "1f6df0c48bc6f0aff66ac389eecba1c483e960ee",
+  "FStringFlipTimeStampFastString": "2023-12-11T18:05:08.461Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-11T18:05:08.461Z"
 }
