@@ -9635,7 +9635,6 @@
   "FFlagLuauDefinitionFileSetModuleName": "True",
   "DFFlagReportLegacySolverRccJoinAllUnthrottled": "False",
   "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent": "True",
-  "DFFlagMemoryStoreEnableHashMapListItems_Rollout": "True;30;2023-12-11T19:56:32",
   "FFlagLuauCompileBufferAnnotation_Rollout": "True;30;2023-12-11T20:03:30",
   "DFFlagOpportunisticFixForTheStreamingTunable_Rollout": "True;30;2023-12-11T20:05:49",
   "FFlagTenFootUiCategoryTabRemovePadding": "True",
@@ -9643,6 +9642,7 @@
   "FFlagLuauBufferBuiltins_Rollout": "True;30;2023-12-11T20:20:51",
   "DFIntStreamingDistanceUtilityCurveMaxUtility_Rollout": "15000;15;2023-12-11T20:28:43",
   "DFIntNumChangesBeforeResettingPerRegionStats_Rollout": "2000000;15;2023-12-11T20:29:00",
+  "DFFlagMemoryStoreEnableHashMapListItems": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9923,8 +9923,8 @@
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "0d751cb93b2fc2460c3c2c41222ac0ee0985c634",
-  "DFStringFlagRepoGitHashDynamicString": "0d751cb93b2fc2460c3c2c41222ac0ee0985c634",
-  "FStringFlipTimeStampFastString": "2023-12-11T20:29:40.178Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-11T20:29:40.178Z"
+  "FStringFlagRepoGitHashFastString": "073a753c1fecf0b156840a2abe373923fbd316b0",
+  "DFStringFlagRepoGitHashDynamicString": "073a753c1fecf0b156840a2abe373923fbd316b0",
+  "FStringFlipTimeStampFastString": "2023-12-11T20:31:37.704Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-11T20:31:37.704Z"
 }
