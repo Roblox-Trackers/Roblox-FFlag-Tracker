@@ -9105,7 +9105,7 @@
   "FFlagStudioDraggerToolboxDragFix": "True",
   "DFIntDataStoreRequestEventThrottleHundredthsPercentage": "10000",
   "FFlagFixCrashInDiffViewDestructor": "True",
-  "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent": "10000",
+  "DFIntAndroidMemoryActivityManagerValuesThrottleHundredthsPercent": "0",
   "DFIntAndroidMemoryMemoryInfoValuesThrottleHundredthsPercent": "0",
   "DFIntAndroidMemoryProbeDebugValuesThrottleHundredthsPercent": "0",
   "DFIntAndroidMemoryProcInfoThrottleHundredthsPercent": "10000",
@@ -9915,8 +9915,8 @@
   "DFIntTaskSchedulerJobRetryCount": "2",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
-  "FStringFlagRepoGitHashFastString": "d4ce5d613f7a28c60efdded96254ffe2d3db9b6d",
-  "DFStringFlagRepoGitHashDynamicString": "d4ce5d613f7a28c60efdded96254ffe2d3db9b6d",
-  "FStringFlipTimeStampFastString": "2023-12-11T19:08:28.967Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-11T19:08:28.967Z"
+  "FStringFlagRepoGitHashFastString": "d601cb667b43d9fe8a7769062e22910a5d9e0b7b",
+  "DFStringFlagRepoGitHashDynamicString": "d601cb667b43d9fe8a7769062e22910a5d9e0b7b",
+  "FStringFlipTimeStampFastString": "2023-12-11T19:08:42.905Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-11T19:08:42.905Z"
 }
