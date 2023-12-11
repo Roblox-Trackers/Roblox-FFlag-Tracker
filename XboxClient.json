@@ -9620,8 +9620,6 @@
   "FStringChatLandingNotifBtnClickedCounter": "ChatLandingNotifBtnClickedCommon",
   "FStringChatLandingSearchBtnClickedCounter": "ChatLandingSearchBtnClickedCommon",
   "FFlagStudioUseGlobalBinaryTypeForVersionQuery": "True",
-  "FFlagFixOutdatedParticles2_Rollout": "True;60;2023-12-11T17:10:37",
-  "DFFlagSolverModelRemovedUnderSetFix_Rollout": "True;60;2023-12-11T17:10:52",
   "FFlagLuauBuffer_Rollout": "True;60;2023-12-11T17:50:13",
   "FFlagCapturesLogIsUnder13": "True",
   "FFlagPerformanceControlUseShutdownFunction": "True",
@@ -9633,6 +9631,8 @@
   "DFFlagAddMetricsForDataPingComponents_Rollout": "True;60;2023-12-11T18:10:36",
   "FFlagLuauLoopInterruptFix": "True",
   "FFlagXboxCheckCrossPlayJoinRestricted": "True",
+  "DFFlagSolverModelRemovedUnderSetFix": "True",
+  "FFlagFixOutdatedParticles2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9946,8 +9946,8 @@
   "FFlagNewSelectionCursor2": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FFlagHttpRequestMsxmlLeakFix_Rollout": "False;30;2023-12-11T17:55:58",
-  "FStringFlagRepoGitHashFastString": "999a284a2610612cb6967f748e66a32965cdf82a",
-  "DFStringFlagRepoGitHashDynamicString": "999a284a2610612cb6967f748e66a32965cdf82a",
-  "FStringFlipTimeStampFastString": "2023-12-11T18:18:57.432Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-11T18:18:57.432Z"
+  "FStringFlagRepoGitHashFastString": "665737699262031970d7ebf10855eec584223d15",
+  "DFStringFlagRepoGitHashDynamicString": "665737699262031970d7ebf10855eec584223d15",
+  "FStringFlipTimeStampFastString": "2023-12-11T18:21:44.572Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-11T18:21:44.572Z"
 }
