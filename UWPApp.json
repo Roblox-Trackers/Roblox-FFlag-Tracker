@@ -9644,7 +9644,6 @@
   "FFlagLuauBufferBuiltins": "True",
   "FFlagCinMoveCleanupToParser": "True",
   "DFFlagAddMetricsForUnreliableItems": "True",
-  "DFFlagNewAppUtilSerializers_Rollout": "True;60;2023-12-11T21:14:44",
   "FFlagRemoveR15MigratorFinalizer": "True",
   "FFlagSuggestedCalleeBugFixEnabledV2": "True",
   "FFlagFixAeroMeshScale": "True",
@@ -9657,6 +9656,8 @@
   "FFlagTenFootUiEnableBackgroundMusic": "True",
   "DFIntReportNonInteractableThrottleHundrethsPercent3": "100",
   "DFFlagHttpCacheReportCleanReason_Rollout": "True;60;2023-12-11T22:15:55",
+  "DFFlagNewAppUtilSerializers": "True",
+  "RemoveDataModelNotificationGameLaunch": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9851,8 +9852,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "86411ce7b759ef5e9578aa8bbc66f6fb93e186c2",
-  "DFStringFlagRepoGitHashDynamicString": "86411ce7b759ef5e9578aa8bbc66f6fb93e186c2",
-  "FStringFlipTimeStampFastString": "2023-12-11T22:16:52.696Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-11T22:16:52.696Z"
+  "FStringFlagRepoGitHashFastString": "e1a71582f071f9d54f36f3f19c1f87f5c47e6e5f",
+  "DFStringFlagRepoGitHashDynamicString": "e1a71582f071f9d54f36f3f19c1f87f5c47e6e5f",
+  "FStringFlipTimeStampFastString": "2023-12-11T22:22:16.690Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-11T22:22:16.690Z"
 }
