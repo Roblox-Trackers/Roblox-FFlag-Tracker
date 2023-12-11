@@ -9628,6 +9628,7 @@
   "FFlagCapturesLogIsUnder13": "True",
   "FFlagPerformanceControlUseShutdownFunction": "True",
   "DFFlagSimFixDefaultAlignTypeWithPrimaryAxisOnly_Rollout": "True;60;2023-12-11T18:01:31",
+  "DFFlagSimGroundControllerTurningLogicFix_Rollout": "True;60;2023-12-11T18:02:00",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9822,8 +9823,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "fc3d318cbaf92b1957bb729179cae2195e1cf31e",
-  "DFStringFlagRepoGitHashDynamicString": "fc3d318cbaf92b1957bb729179cae2195e1cf31e",
-  "FStringFlipTimeStampFastString": "2023-12-11T18:01:58.973Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-11T18:01:58.973Z"
+  "FStringFlagRepoGitHashFastString": "a68338ec1bdc56ea6df3574a940acf64143497ff",
+  "DFStringFlagRepoGitHashDynamicString": "a68338ec1bdc56ea6df3574a940acf64143497ff",
+  "FStringFlipTimeStampFastString": "2023-12-11T18:02:15.955Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-11T18:02:15.955Z"
 }
