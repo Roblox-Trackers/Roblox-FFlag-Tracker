@@ -9661,12 +9661,12 @@
   "FFlagScriptProfilerLiveUpdate": "True",
   "DFFlagHttpCacheReportCleanReason": "True",
   "FFlagHttpWrapperFixStopCase": "True",
-  "FFlagFixSessionLevel2aTagIdUpdate_Rollout": "True;30;2023-12-11T23:50:09",
-  "FFlagFixAppSuccessSyncTime_Rollout": "True;30;2023-12-11T23:50:56",
-  "DFFlagShutdownInferredCrashBeforeMemoryPrioritization_Rollout": "True;30;2023-12-11T23:52:01",
   "FFlagTenFootUiGlobalNavFixOptionText": "True",
   "FFlagUIBloxFixVerticalScrollViewOnSelectionChanged": "True",
   "FFlagUIBloxUseNewScrollBar": "True",
+  "DFFlagShutdownInferredCrashBeforeMemoryPrioritization": "True",
+  "FFlagFixAppSuccessSyncTime": "True",
+  "FFlagFixSessionLevel2aTagIdUpdate": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10025,8 +10025,8 @@
   "DFIntPerformanceControlRunInferenceHundrethsPercent": "5",
   "DFIntPerformanceControlDummyInferenceHundrethsPercent": "5",
   "FFlagEnableNavbarLabelExperiment": "True",
-  "FStringFlagRepoGitHashFastString": "003b20569f26e5199512b32f528b8ed8c5cce505",
-  "DFStringFlagRepoGitHashDynamicString": "003b20569f26e5199512b32f528b8ed8c5cce505",
-  "FStringFlipTimeStampFastString": "2023-12-12T00:21:25.070Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-12T00:21:25.070Z"
+  "FStringFlagRepoGitHashFastString": "7bafa8f5afa5119545d3b9bdc9ed6d3467fddc91",
+  "DFStringFlagRepoGitHashDynamicString": "7bafa8f5afa5119545d3b9bdc9ed6d3467fddc91",
+  "FStringFlipTimeStampFastString": "2023-12-12T00:26:21.487Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-12T00:26:21.487Z"
 }
