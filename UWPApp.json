@@ -9671,7 +9671,6 @@
   "FFlagAXOptimizeRoduxConnections": "True",
   "FFlagAXEnableExperienceWidgets": "True",
   "FFlagLuauCodegenBytecodeInfer": "True",
-  "DFFlagEnableStoreWeakDM_Rollout": "True;60;2023-12-12T21:28:13",
   "FFlagLuaAppRemoveGamePlayerCounts": "True",
   "DFIntSoundServiceCacheCleanupMaxAgeDays": "1",
   "FFlagOptScrollingEventing": "True",
@@ -9686,6 +9685,7 @@
   "DFIntUIOcclusionMetricsReportRQUnibar_HP_Rollout": "1000;30;2023-12-12T22:16:26",
   "DFFlagTaskLibExclusiveReport": "True",
   "FFlagFixOutdatedParticles2_Rollout": "True;60;2023-12-12T22:21:07",
+  "DFFlagEnableStoreWeakDM": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9880,8 +9880,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "91190c5c4b95ae4691ac4a4707554fc1e06b3233",
-  "DFStringFlagRepoGitHashDynamicString": "91190c5c4b95ae4691ac4a4707554fc1e06b3233",
-  "FStringFlipTimeStampFastString": "2023-12-12T22:26:21.666Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-12T22:26:21.666Z"
+  "FStringFlagRepoGitHashFastString": "2dffdbc1ff79e1bdb747fbb881c35a11b34024b4",
+  "DFStringFlagRepoGitHashDynamicString": "2dffdbc1ff79e1bdb747fbb881c35a11b34024b4",
+  "FStringFlipTimeStampFastString": "2023-12-12T22:40:11.779Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-12T22:40:11.779Z"
 }
