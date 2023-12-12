@@ -9678,6 +9678,8 @@
   "FFlagLuaAppRemoveGamePlayerCounts": "True",
   "FFlagGuiObjectFixDraggingOnScaledDisplays_Rollout": "True;30;2023-12-12T21:36:11",
   "DFIntSoundServiceCacheCleanupMaxAgeDays": "1",
+  "FFlagOptScrollingEventing": "True",
+  "FFlagGuiObjectDraggingEndedSignalFixScreenInsets_Rollout": "True;30;2023-12-12T21:38:35",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9985,8 +9987,8 @@
   "FFlagNewSelectionCursor2": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
   "FFlagAuthDisclaimerUseArgs": "True",
-  "FStringFlagRepoGitHashFastString": "7a60a32ef76a173938179390afcec78cfd700b9a",
-  "DFStringFlagRepoGitHashDynamicString": "7a60a32ef76a173938179390afcec78cfd700b9a",
-  "FStringFlipTimeStampFastString": "2023-12-12T21:36:49.331Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-12T21:36:49.331Z"
+  "FStringFlagRepoGitHashFastString": "c75e90c9928a29335e8de004d6262828cc56557e",
+  "DFStringFlagRepoGitHashDynamicString": "c75e90c9928a29335e8de004d6262828cc56557e",
+  "FStringFlipTimeStampFastString": "2023-12-12T21:38:58.023Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-12T21:38:58.023Z"
 }
