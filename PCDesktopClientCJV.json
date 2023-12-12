@@ -9669,13 +9669,13 @@
   "FFlagFixSessionLevel2aTagIdUpdate": "True",
   "FFlagFixAeroMeshExtraWaypoints": "True",
   "DFIntSoundServiceCacheCleanupMaxAgeDays_Rollout": "1;60;2023-12-12T20:31:59",
-  "FFlagLuauCodegenBytecodeInfer_Rollout": "True;30;2023-12-12T20:49:56",
   "FFlagRenderOrbisEnableSkipMip_Rollout": "True;60;2023-12-12T20:56:42",
   "FFlagAXOptimizeRoduxConnections": "True",
   "FFlagGImageHandleAllocateFailureBetter_Rollout": "True;60;2023-12-12T20:57:21",
   "FFlagRefactorPublishAllDescendantsDeduplication_Rollout": "True;60;2023-12-12T21:10:48",
   "FFlagAXEnableExperienceWidgets": "True",
   "DFFlagBufferReplication_Rollout": "True;60;2023-12-12T21:24:50",
+  "FFlagLuauCodegenBytecodeInfer": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9958,8 +9958,8 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "False",
   "FFlagSimIslandizerMultiplierUpdate_Rollout": "True;60;2023-12-12T20:41:45",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d8462ac94ffaeb5d554c331fec0828045c9c68d0",
-  "DFStringFlagRepoGitHashDynamicString": "d8462ac94ffaeb5d554c331fec0828045c9c68d0",
-  "FStringFlipTimeStampFastString": "2023-12-12T21:25:25.339Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-12T21:25:25.339Z"
+  "FStringFlagRepoGitHashFastString": "5913c63d436a3ef41d30b928065c99850aa9aaf6",
+  "DFStringFlagRepoGitHashDynamicString": "5913c63d436a3ef41d30b928065c99850aa9aaf6",
+  "FStringFlipTimeStampFastString": "2023-12-12T21:26:32.147Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-12T21:26:32.147Z"
 }
