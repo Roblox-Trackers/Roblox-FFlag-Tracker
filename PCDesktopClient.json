@@ -9664,6 +9664,7 @@
   "FFlagFixSessionLevel2aTagIdUpdate_Rollout": "True;30;2023-12-11T23:50:09",
   "FFlagFixAppSuccessSyncTime_Rollout": "True;30;2023-12-11T23:50:56",
   "DFFlagShutdownInferredCrashBeforeMemoryPrioritization_Rollout": "True;30;2023-12-11T23:52:01",
+  "FFlagTenFootUiGlobalNavFixOptionText": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9944,8 +9945,8 @@
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
-  "FStringFlagRepoGitHashFastString": "68e57bc1d8b3629215d61056c5cb5f9684e69fd4",
-  "DFStringFlagRepoGitHashDynamicString": "68e57bc1d8b3629215d61056c5cb5f9684e69fd4",
-  "FStringFlipTimeStampFastString": "2023-12-11T23:55:25.478Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-11T23:55:25.478Z"
+  "FStringFlagRepoGitHashFastString": "f47a981a7d7afa2b5eaced4e5a5ae857b35efe51",
+  "DFStringFlagRepoGitHashDynamicString": "f47a981a7d7afa2b5eaced4e5a5ae857b35efe51",
+  "FStringFlipTimeStampFastString": "2023-12-12T00:03:41.645Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-12T00:03:41.645Z"
 }
