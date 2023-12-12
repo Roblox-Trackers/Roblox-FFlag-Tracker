@@ -9479,7 +9479,7 @@
   "FFlagAXEnableSceneManagerResetFullViewFix1": "True",
   "FFlagAXExperienceCardWithDynamicFooterTextSize": "True",
   "FFlagAXFixWidgetTitleOverflow": "True",
-  "FFlagAXSeeAllPanelWontCloseAfterSwitchViews": "False",
+  "FFlagAXSeeAllPanelWontCloseAfterSwitchViews": "True",
   "FFlagAXWidgetOnePreviewRow": "True",
   "FFlagAXWidgetSeeAllButton2": "True",
   "FFlagEnableSearchWidgets4": "True",
@@ -9675,6 +9675,8 @@
   "FFlagAXOptimizeRoduxConnections": "True",
   "FFlagGImageHandleAllocateFailureBetter_Rollout": "True;60;2023-12-12T20:57:21",
   "FFlagRefactorPublishAllDescendantsDeduplication_Rollout": "True;60;2023-12-12T21:10:48",
+  "FFlagAXEnableExperienceWidgets": "True",
+  "FFlagGuiObjectFixDraggingOnScaledDisplays_Rollout": "True;30;2023-12-12T21:12:01",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10063,7 +10065,6 @@
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "True",
   "DFIntCriticalThermalStatusThreshold": "4",
-  "FFlagAXEnableExperienceWidgets": "True",
   "FStringRealtimeClientTargetName": "Android",
   "FFlagLuaAppUseSettingsNativeWrapper2": "True",
   "FFlagMinimalSignupAuthEnabled1": "True",
@@ -10071,8 +10072,8 @@
   "EnableSendrThumbnail": "True",
   "FFlagExpStateCaptureMode7": "True",
   "FFlagEnableNavbarLabelExperiment": "True",
-  "FStringFlagRepoGitHashFastString": "5af3b48723c40c4cd361151dacc4d511295a8cbf",
-  "DFStringFlagRepoGitHashDynamicString": "5af3b48723c40c4cd361151dacc4d511295a8cbf",
-  "FStringFlipTimeStampFastString": "2023-12-12T21:11:56.267Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-12T21:11:56.267Z"
+  "FStringFlagRepoGitHashFastString": "6bc7e7746285b8584753a2d9c3742435983fb12e",
+  "DFStringFlagRepoGitHashDynamicString": "6bc7e7746285b8584753a2d9c3742435983fb12e",
+  "FStringFlipTimeStampFastString": "2023-12-12T21:12:49.297Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-12T21:12:49.297Z"
 }

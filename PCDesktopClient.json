@@ -9479,7 +9479,7 @@
   "FFlagAXEnableSceneManagerResetFullViewFix1": "True",
   "FFlagAXExperienceCardWithDynamicFooterTextSize": "True",
   "FFlagAXFixWidgetTitleOverflow": "True",
-  "FFlagAXSeeAllPanelWontCloseAfterSwitchViews": "False",
+  "FFlagAXSeeAllPanelWontCloseAfterSwitchViews": "True",
   "FFlagAXWidgetOnePreviewRow": "True",
   "FFlagAXWidgetSeeAllButton2": "True",
   "FFlagEnableSearchWidgets4": "True",
@@ -9675,6 +9675,8 @@
   "FFlagAXOptimizeRoduxConnections": "True",
   "FFlagGImageHandleAllocateFailureBetter_Rollout": "True;60;2023-12-12T20:57:21",
   "FFlagRefactorPublishAllDescendantsDeduplication_Rollout": "True;60;2023-12-12T21:10:48",
+  "FFlagAXEnableExperienceWidgets": "True",
+  "FFlagGuiObjectFixDraggingOnScaledDisplays_Rollout": "True;30;2023-12-12T21:12:01",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9956,8 +9958,8 @@
   "FFlagExpStateCaptureMode7": "True",
   "FFlagLuaAppEnableCommunityLinksRedirect": "False",
   "FFlagSimIslandizerMultiplierUpdate_Rollout": "True;60;2023-12-12T20:41:45",
-  "FStringFlagRepoGitHashFastString": "5af3b48723c40c4cd361151dacc4d511295a8cbf",
-  "DFStringFlagRepoGitHashDynamicString": "5af3b48723c40c4cd361151dacc4d511295a8cbf",
-  "FStringFlipTimeStampFastString": "2023-12-12T21:11:56.267Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-12T21:11:56.267Z"
+  "FStringFlagRepoGitHashFastString": "6bc7e7746285b8584753a2d9c3742435983fb12e",
+  "DFStringFlagRepoGitHashDynamicString": "6bc7e7746285b8584753a2d9c3742435983fb12e",
+  "FStringFlipTimeStampFastString": "2023-12-12T21:12:49.297Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-12T21:12:49.297Z"
 }
