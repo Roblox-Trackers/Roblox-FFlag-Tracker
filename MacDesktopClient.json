@@ -9714,6 +9714,9 @@
   "DFFlagSimWarnAboutNoOptChangeToAssemblyVelocity_Rollout": "True;60;2023-12-13T18:02:59",
   "FFlagFixOutdoorIbl2_Rollout": "True;60;2023-12-13T18:41:30",
   "FFlagEnableCanSendGameInviteAsync429ErrorMarshalingFix": "True",
+  "FFlagOverhaulChatDeeplink2": "True",
+  "FFlagRenameCompleteExternalNavigationForChat": "True",
+  "DFIntDataStoreGetVersionPerPlayerRequestLimit_PlaceFilter": "10;5938036553",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9998,8 +10001,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1024",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FStringFlagRepoGitHashFastString": "b67aca5c5fcb906ee94bf6f4b0613e18ab4b82ed",
-  "DFStringFlagRepoGitHashDynamicString": "b67aca5c5fcb906ee94bf6f4b0613e18ab4b82ed",
-  "FStringFlipTimeStampFastString": "2023-12-13T18:47:05.842Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-13T18:47:05.842Z"
+  "FStringFlagRepoGitHashFastString": "8ae483257dc2ff51941c5014733187dca1616c71",
+  "DFStringFlagRepoGitHashDynamicString": "8ae483257dc2ff51941c5014733187dca1616c71",
+  "FStringFlipTimeStampFastString": "2023-12-13T18:52:39.136Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-13T18:52:39.136Z"
 }
