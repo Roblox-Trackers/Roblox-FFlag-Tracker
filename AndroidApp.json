@@ -9714,6 +9714,8 @@
   "DFFlagSimWarnAboutNoOptChangeToAssemblyVelocity_Rollout": "True;60;2023-12-13T18:02:59",
   "FFlagFixOutdoorIbl2_Rollout": "True;60;2023-12-13T18:41:30",
   "FFlagEnableCanSendGameInviteAsync429ErrorMarshalingFix": "True",
+  "FFlagOverhaulChatDeeplink2": "True",
+  "FFlagRenameCompleteExternalNavigationForChat": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10109,8 +10111,8 @@
   "EnableSendrThumbnail": "True",
   "FFlagExpStateCaptureMode7": "True",
   "FFlagEnableNavbarLabelExperiment": "True",
-  "FStringFlagRepoGitHashFastString": "b67aca5c5fcb906ee94bf6f4b0613e18ab4b82ed",
-  "DFStringFlagRepoGitHashDynamicString": "b67aca5c5fcb906ee94bf6f4b0613e18ab4b82ed",
-  "FStringFlipTimeStampFastString": "2023-12-13T18:47:05.842Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-13T18:47:05.842Z"
+  "FStringFlagRepoGitHashFastString": "0fc95085dc03f7a3d0764edadf9e86b45a044b76",
+  "DFStringFlagRepoGitHashDynamicString": "0fc95085dc03f7a3d0764edadf9e86b45a044b76",
+  "FStringFlipTimeStampFastString": "2023-12-13T18:52:21.721Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-13T18:52:21.721Z"
 }
