@@ -9689,7 +9689,6 @@
   "FFlagAXSupportNestedAvatarExperienceRoute": "True",
   "FFlagIrisLaunchTimeBugFixForLoggedOutUser": "True",
   "FFlagFixOutdatedParticles2": "True",
-  "FFlagModelBaseParseStringifiedValues_Rollout": "True;60;2023-12-12T23:33:28",
   "DFFlagBufferReplication": "True",
   "FFlagBlake3SerializerBinary": "True",
   "FFlagBlake3SharedString": "True",
@@ -9709,6 +9708,7 @@
   "FFlagRemoveEmptyHydratedWidgets": "True",
   "DFFlagReducePerformanceControlAllocs": "True",
   "FFlagForceInteractableToTrue": "True",
+  "FFlagModelBaseParseStringifiedValues": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10104,8 +10104,8 @@
   "EnableSendrThumbnail": "True",
   "FFlagExpStateCaptureMode7": "True",
   "FFlagEnableNavbarLabelExperiment": "True",
-  "FStringFlagRepoGitHashFastString": "a92d89f82b2d1f5de59338fb3f81363197fc828a",
-  "DFStringFlagRepoGitHashDynamicString": "a92d89f82b2d1f5de59338fb3f81363197fc828a",
-  "FStringFlipTimeStampFastString": "2023-12-13T00:27:35.540Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-13T00:27:35.540Z"
+  "FStringFlagRepoGitHashFastString": "bf9347229b6ad9e32b712ba9d068b0afc3b18aef",
+  "DFStringFlagRepoGitHashDynamicString": "bf9347229b6ad9e32b712ba9d068b0afc3b18aef",
+  "FStringFlipTimeStampFastString": "2023-12-13T00:42:29.592Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-13T00:42:29.592Z"
 }
