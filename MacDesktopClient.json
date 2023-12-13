@@ -9721,6 +9721,7 @@
   "FFlagLuaAppGridTileTabletLayout": "True",
   "FFlagHttpRequestMsxmlAbortFix_Rollout": "True;30;2023-12-13T20:51:37",
   "FFlagAinRefreshPropertyListView": "True",
+  "DFFlagPrintErrorForCallAPI": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10005,8 +10006,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1024",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FStringFlagRepoGitHashFastString": "f56caadf8ebd7429e5f4bcf37428806511b1a7d9",
-  "DFStringFlagRepoGitHashDynamicString": "f56caadf8ebd7429e5f4bcf37428806511b1a7d9",
-  "FStringFlipTimeStampFastString": "2023-12-13T21:12:36.785Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-13T21:12:36.785Z"
+  "FStringFlagRepoGitHashFastString": "d0daead1fc4d6ff3fb2e5b6078944e95ffc976fa",
+  "DFStringFlagRepoGitHashDynamicString": "d0daead1fc4d6ff3fb2e5b6078944e95ffc976fa",
+  "FStringFlipTimeStampFastString": "2023-12-13T21:26:05.702Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-13T21:26:05.702Z"
 }
