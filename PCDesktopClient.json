@@ -9710,7 +9710,6 @@
   "DFFlagNewCustomSerializers": "True",
   "FFlagLuauBufferTranslateIr": "True",
   "FFlagEnableToastNotificationsDeeplinkConfirmationModalHeightFix": "True",
-  "DFFlagSimWarnAboutNoOptChangeToAssemblyVelocity_Rollout": "True;60;2023-12-13T18:02:59",
   "FFlagFixOutdoorIbl2_Rollout": "True;60;2023-12-13T18:41:30",
   "FFlagEnableCanSendGameInviteAsync429ErrorMarshalingFix": "True",
   "FFlagOverhaulChatDeeplink2": "True",
@@ -9718,6 +9717,7 @@
   "DFIntDataStoreGetVersionPerPlayerRequestLimit_PlaceFilter": "10;5938036553",
   "DFIntDataStoreListPerPlayerRequestLimit_PlaceFilter": "10;5938036553",
   "FFlagEnableGameInviteModalUIFeedbackFixesV1": "True",
+  "DFFlagSimWarnAboutNoOptChangeToAssemblyVelocity": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10003,8 +10003,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1024",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FStringFlagRepoGitHashFastString": "03cef705d6d760208bba9cbf3a94cfcd44ff2cf7",
-  "DFStringFlagRepoGitHashDynamicString": "03cef705d6d760208bba9cbf3a94cfcd44ff2cf7",
-  "FStringFlipTimeStampFastString": "2023-12-13T19:05:49.228Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-13T19:05:49.228Z"
+  "FStringFlagRepoGitHashFastString": "ff967e6c780eadfcdbd2aaf807570bc8b14a9565",
+  "DFStringFlagRepoGitHashDynamicString": "ff967e6c780eadfcdbd2aaf807570bc8b14a9565",
+  "FStringFlipTimeStampFastString": "2023-12-13T19:11:54.940Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-13T19:11:54.940Z"
 }
