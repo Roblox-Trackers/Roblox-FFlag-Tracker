@@ -10013,11 +10013,10 @@
   "FFlagSimIslandizerMultiplierUpdate": "True",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
-  "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1024",
+  "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "DFIntHttpCacheCleanTriggerTotalSpaceMiB_Rollout": "1536;60;2023-12-14T00:04:39",
-  "FStringFlagRepoGitHashFastString": "6311c1711e0196c5dcbf05af323c5bbcec185d50",
-  "DFStringFlagRepoGitHashDynamicString": "6311c1711e0196c5dcbf05af323c5bbcec185d50",
-  "FStringFlipTimeStampFastString": "2023-12-14T00:56:53.526Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-14T00:56:53.526Z"
+  "FStringFlagRepoGitHashFastString": "491dbb90637d3f54e9cbc7b4f5d2880f31a147c5",
+  "DFStringFlagRepoGitHashDynamicString": "491dbb90637d3f54e9cbc7b4f5d2880f31a147c5",
+  "FStringFlipTimeStampFastString": "2023-12-14T01:12:15.241Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-14T01:12:15.241Z"
 }
