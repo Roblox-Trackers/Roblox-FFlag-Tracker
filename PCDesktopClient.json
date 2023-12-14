@@ -5750,8 +5750,6 @@
   "FFlagSetFilterButtonDefaultChild": "True",
   "DFFlagSimCollectGlobalWindSetterInfo": "True",
   "DFFlagVoiceChatModelStreamedOutFix": "True",
-  "DFFlagProfileGetNextRegionFunction": "False",
-  "DFFlagProfileGetNextRegionFunction_PlaceFilter": "True;6777872443;13717189249",
   "FFlagProfileQRCodeDuplicatedTopBar": "True",
   "FFlagSocialUpdateRoduxNetworking": "True",
   "FFlagFixUIEditorResizeConstraints": "True",
@@ -5812,7 +5810,6 @@
   "FFlagAXDefaultAvatarToShopWidgetEnabled2": "False",
   "FStringAXDefaultAvatarToShopLayer2": "AvatarMarketplace.ShoppingCart",
   "DFFlagAMPTelemetryPoints": "True",
-  "DFFlagFixWeakPtrIssueInGetNextRegionFunction": "True",
   "FFlagSimExtendContactForceVisualizationToBulletContacts2": "True",
   "FFlagSimShowAttachmentParentFrame2": "True",
   "FFlagSimSolverRemoveIslandBatchSolverStartUnreachableCode": "True",
@@ -6628,7 +6625,6 @@
   "FFlagCOLLAB4261TcWidgetPublishSuccessCrashFix": "True",
   "FFlagUIOcclusionMetricsAddRectIntersection": "True",
   "FFlagConvertAccessorySourceFix": "True",
-  "DFFlagDoNotMergePersistentModelsWithTheirAncestors": "True",
   "DFIntReportUIOcclusionRectQuery": "100",
   "FFlagEnablePrivacyPolicyForLogoutUpsellRelease1": "True",
   "DFIntReportUIOcclusionHeatmap": "1",
@@ -10020,8 +10016,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1024",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB_Rollout": "1536;60;2023-12-14T00:04:39",
-  "FStringFlagRepoGitHashFastString": "d99ded9965113dbc5079f1a1d16f31d8335d8ec3",
-  "DFStringFlagRepoGitHashDynamicString": "d99ded9965113dbc5079f1a1d16f31d8335d8ec3",
-  "FStringFlipTimeStampFastString": "2023-12-14T00:30:15.172Z",
-  "DFStringFlipTimeStampDynamicString": "2023-12-14T00:30:15.172Z"
+  "FStringFlagRepoGitHashFastString": "4097f9d9623119055c1a52331c209a3e7827f9f6",
+  "DFStringFlagRepoGitHashDynamicString": "4097f9d9623119055c1a52331c209a3e7827f9f6",
+  "FStringFlipTimeStampFastString": "2023-12-14T00:39:56.949Z",
+  "DFStringFlipTimeStampDynamicString": "2023-12-14T00:39:56.949Z"
 }
