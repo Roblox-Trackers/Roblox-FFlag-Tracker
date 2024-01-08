@@ -9751,7 +9751,6 @@
   "FFlagVideoTrackWastedBytes_Rollout": "True;60;2024-01-08T22:12:14",
   "FFlagVideoHttpCacheMetrics_Rollout": "True;60;2024-01-08T22:12:22",
   "FFlagVideoUseRvInputFormatInCaptureMock_Rollout": "True;60;2024-01-08T22:12:28",
-  "FFlagScriptEditorDetectUserNotInSession_Rollout": "True;30;2024-01-08T22:13:49",
   "FFlagVideoVisibilityAdd2DGui": "True",
   "DFIntVoiceChatControlPlaneOperationTimeoutFrames_Rollout": "7200;60;2024-01-08T22:34:09",
   "DFFlagFixELFFlowDurationInST": "True",
@@ -9762,6 +9761,7 @@
   "FFlagDevFrameworkFormOnChange": "True",
   "FFlagTerrainEditorImport": "True",
   "FFlagDevFrameworkFormHideLabel": "True",
+  "FFlagScriptEditorDetectUserNotInSession": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10123,8 +10123,8 @@
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "3f4e3b1c45b9831d1d06da29adf089a578c78a6c",
-  "DFStringFlagRepoGitHashDynamicString": "3f4e3b1c45b9831d1d06da29adf089a578c78a6c",
-  "FStringFlipTimeStampFastString": "2024-01-08T22:47:55.625Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-08T22:47:55.625Z"
+  "FStringFlagRepoGitHashFastString": "25088fe1dc73ca6b127008228aaba3607b83950e",
+  "DFStringFlagRepoGitHashDynamicString": "25088fe1dc73ca6b127008228aaba3607b83950e",
+  "FStringFlipTimeStampFastString": "2024-01-08T22:51:27.579Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-08T22:51:27.579Z"
 }
