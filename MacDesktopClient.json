@@ -9748,7 +9748,6 @@
   "FFlagEnableWearAfterPurchaseDefaultChecked": "True",
   "FFlagQrCodeScannerEnabledForAll": "True",
   "FFlagVideoUseRvInputFormat2": "True",
-  "FFlagVideoUseRvInputFormatInCaptureMock_Rollout": "True;60;2024-01-08T22:12:28",
   "FFlagVideoVisibilityAdd2DGui": "True",
   "DFIntVoiceChatControlPlaneOperationTimeoutFrames_Rollout": "7200;60;2024-01-08T22:34:09",
   "DFFlagFixELFFlowDurationInST": "True",
@@ -9762,6 +9761,7 @@
   "FFlagScriptEditorDetectUserNotInSession": "True",
   "FFlagVideoHttpCacheMetrics": "True",
   "FFlagVideoTrackWastedBytes": "True",
+  "FFlagVideoUseRvInputFormatInCaptureMock": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10046,8 +10046,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FStringFlagRepoGitHashFastString": "c618ac0f819b3c10b80fed0e0c9dc945cc7a52f4",
-  "DFStringFlagRepoGitHashDynamicString": "c618ac0f819b3c10b80fed0e0c9dc945cc7a52f4",
-  "FStringFlipTimeStampFastString": "2024-01-08T23:16:26.323Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-08T23:16:26.323Z"
+  "FStringFlagRepoGitHashFastString": "8af5aec8703a9360110e3af0570c9ac6884b13bb",
+  "DFStringFlagRepoGitHashDynamicString": "8af5aec8703a9360110e3af0570c9ac6884b13bb",
+  "FStringFlipTimeStampFastString": "2024-01-08T23:21:18.929Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-08T23:21:18.929Z"
 }
