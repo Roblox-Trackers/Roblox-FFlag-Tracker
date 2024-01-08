@@ -9752,6 +9752,9 @@
   "DFFlagFixELFFlowDurationInST_Rollout": "True;60;2024-01-08T21:41:35",
   "DFFlagSkipReportingFailedELFInSessionTrackingDueToCrash_Rollout": "True;60;2024-01-08T21:41:35",
   "FFlagReportSessionTrackingWithUpwardFunctions_Rollout": "True;60;2024-01-08T21:41:52",
+  "FFlagVideoTrackWastedBytes_Rollout": "True;60;2024-01-08T22:12:14",
+  "FFlagVideoHttpCacheMetrics_Rollout": "True;60;2024-01-08T22:12:22",
+  "FFlagVideoUseRvInputFormatInCaptureMock_Rollout": "True;60;2024-01-08T22:12:28",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10064,8 +10067,8 @@
   "FFlagXboxLastKnownStateTrackingEnabled": "False",
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
-  "FStringFlagRepoGitHashFastString": "4b07bef83952c15fdf9dabc219b2369f8d779201",
-  "DFStringFlagRepoGitHashDynamicString": "4b07bef83952c15fdf9dabc219b2369f8d779201",
-  "FStringFlipTimeStampFastString": "2024-01-08T21:48:31.371Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-08T21:48:31.371Z"
+  "FStringFlagRepoGitHashFastString": "ef5919824dbc4fae3a3e8984079f5f0b50cb503d",
+  "DFStringFlagRepoGitHashDynamicString": "ef5919824dbc4fae3a3e8984079f5f0b50cb503d",
+  "FStringFlipTimeStampFastString": "2024-01-08T22:13:05.306Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-08T22:13:05.306Z"
 }
