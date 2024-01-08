@@ -9748,8 +9748,6 @@
   "FFlagEnableWearAfterPurchaseDefaultChecked": "True",
   "FFlagQrCodeScannerEnabledForAll": "True",
   "FFlagVideoUseRvInputFormat2": "True",
-  "FFlagVideoTrackWastedBytes_Rollout": "True;60;2024-01-08T22:12:14",
-  "FFlagVideoHttpCacheMetrics_Rollout": "True;60;2024-01-08T22:12:22",
   "FFlagVideoUseRvInputFormatInCaptureMock_Rollout": "True;60;2024-01-08T22:12:28",
   "FFlagVideoVisibilityAdd2DGui": "True",
   "DFIntVoiceChatControlPlaneOperationTimeoutFrames_Rollout": "7200;60;2024-01-08T22:34:09",
@@ -9762,6 +9760,8 @@
   "FFlagTerrainEditorImport": "True",
   "FFlagDevFrameworkFormHideLabel": "True",
   "FFlagScriptEditorDetectUserNotInSession": "True",
+  "FFlagVideoHttpCacheMetrics": "True",
+  "FFlagVideoTrackWastedBytes": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10046,8 +10046,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FStringFlagRepoGitHashFastString": "25088fe1dc73ca6b127008228aaba3607b83950e",
-  "DFStringFlagRepoGitHashDynamicString": "25088fe1dc73ca6b127008228aaba3607b83950e",
-  "FStringFlipTimeStampFastString": "2024-01-08T22:51:27.579Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-08T22:51:27.579Z"
+  "FStringFlagRepoGitHashFastString": "c618ac0f819b3c10b80fed0e0c9dc945cc7a52f4",
+  "DFStringFlagRepoGitHashDynamicString": "c618ac0f819b3c10b80fed0e0c9dc945cc7a52f4",
+  "FStringFlipTimeStampFastString": "2024-01-08T23:16:26.323Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-08T23:16:26.323Z"
 }
