@@ -9736,7 +9736,6 @@
   "FFlagInstallerBufSizeCalculation": "True",
   "FFlagImporterStringView": "True",
   "FFlagFacialAnimationStreamingCheckPauseStateWhenCreatingTrack": "True",
-  "DFFlagSimSolverGeometricStiffnessMassFix_Rollout": "True;60;2024-01-08T18:11:53",
   "FFlagFixCtrlShiftFCrash_Rollout": "True;60;2024-01-08T18:29:34",
   "DFFlagOptimizeComputeIsCollide": "True",
   "DFFlagOptimizeComputeIsCollideFeaturePoly": "True",
@@ -9746,6 +9745,7 @@
   "DFIntVoiceChatV2ControlPlaneMaxOperationExecutionPerRun_Rollout": "5000;60;2024-01-08T18:56:36",
   "FFlagVector2Idiv_Rollout": "True;60;2024-01-08T18:58:43",
   "DFFlagVoiceChatAckWithPrevSdpWhenNoSubChanges_Rollout": "True;60;2024-01-08T19:05:38",
+  "DFFlagSimSolverGeometricStiffnessMassFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10058,8 +10058,8 @@
   "FFlagXboxLastKnownStateTrackingEnabled": "False",
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
-  "FStringFlagRepoGitHashFastString": "5ea2241271b8d0c836902290939c1e79223652bd",
-  "DFStringFlagRepoGitHashDynamicString": "5ea2241271b8d0c836902290939c1e79223652bd",
-  "FStringFlipTimeStampFastString": "2024-01-08T19:06:01.314Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-08T19:06:01.314Z"
+  "FStringFlagRepoGitHashFastString": "acfd4fe7894d5391b6729f875b2ccb35a915e93e",
+  "DFStringFlagRepoGitHashDynamicString": "acfd4fe7894d5391b6729f875b2ccb35a915e93e",
+  "FStringFlipTimeStampFastString": "2024-01-08T19:24:45.011Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-08T19:24:45.011Z"
 }
