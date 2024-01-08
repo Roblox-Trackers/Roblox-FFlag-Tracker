@@ -9741,7 +9741,7 @@
   "DFFlagSimSolverGeometricStiffnessMassFix": "True",
   "FFlagFixCtrlShiftFCrash": "True",
   "FFlagRVideoRefactorRvByteBuff": "True",
-  "DFIntVoiceChatControlPlaneOperationTimeoutFrames": "3600",
+  "DFIntVoiceChatControlPlaneOperationTimeoutFrames": "7200",
   "DFIntVoiceChatV2ControlPlaneMaxOperationExecutionPerRun": "5000",
   "FFlagVector2Idiv": "True",
   "DFFlagVoiceChatAckWithPrevSdpWhenNoSubChanges": "True",
