@@ -9738,7 +9738,6 @@
   "FFlagFacialAnimationStreamingCheckPauseStateWhenCreatingTrack": "True",
   "DFFlagOptimizeComputeIsCollide": "True",
   "DFFlagOptimizeComputeIsCollideFeaturePoly": "True",
-  "FFlagRVideoRefactorRvByteBuff_Rollout": "True;60;2024-01-08T18:43:07",
   "FFlagLuauCodeGenFixByteLower": "True",
   "DFIntVoiceChatControlPlaneOperationTimeoutFrames_Rollout": "3600;60;2024-01-08T18:53:21",
   "DFIntVoiceChatV2ControlPlaneMaxOperationExecutionPerRun_Rollout": "5000;60;2024-01-08T18:56:36",
@@ -9746,6 +9745,7 @@
   "DFFlagVoiceChatAckWithPrevSdpWhenNoSubChanges_Rollout": "True;60;2024-01-08T19:05:38",
   "DFFlagSimSolverGeometricStiffnessMassFix": "True",
   "FFlagFixCtrlShiftFCrash": "True",
+  "FFlagRVideoRefactorRvByteBuff": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10032,8 +10032,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d91884f51bc52f90f82fa255ea70721b67d4880e",
-  "DFStringFlagRepoGitHashDynamicString": "d91884f51bc52f90f82fa255ea70721b67d4880e",
-  "FStringFlipTimeStampFastString": "2024-01-08T19:36:14.781Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-08T19:36:14.781Z"
+  "FStringFlagRepoGitHashFastString": "352e1da8113bf76f61cfa0cc0bf59fff02d84c34",
+  "DFStringFlagRepoGitHashDynamicString": "352e1da8113bf76f61cfa0cc0bf59fff02d84c34",
+  "FStringFlipTimeStampFastString": "2024-01-08T19:51:31.762Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-08T19:51:31.762Z"
 }
