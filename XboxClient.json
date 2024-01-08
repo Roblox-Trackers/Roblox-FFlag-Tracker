@@ -9745,6 +9745,7 @@
   "DFIntVoiceChatControlPlaneOperationTimeoutFrames_Rollout": "3600;60;2024-01-08T18:53:21",
   "DFIntVoiceChatV2ControlPlaneMaxOperationExecutionPerRun_Rollout": "5000;60;2024-01-08T18:56:36",
   "FFlagVector2Idiv_Rollout": "True;60;2024-01-08T18:58:43",
+  "DFFlagVoiceChatAckWithPrevSdpWhenNoSubChanges_Rollout": "True;60;2024-01-08T19:05:38",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10057,8 +10058,8 @@
   "FFlagXboxLastKnownStateTrackingEnabled": "False",
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
-  "FStringFlagRepoGitHashFastString": "6d7cf528a11c6ed2020eded5ffde51c4b6b9225a",
-  "DFStringFlagRepoGitHashDynamicString": "6d7cf528a11c6ed2020eded5ffde51c4b6b9225a",
-  "FStringFlipTimeStampFastString": "2024-01-08T19:03:18.245Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-08T19:03:18.245Z"
+  "FStringFlagRepoGitHashFastString": "5ea2241271b8d0c836902290939c1e79223652bd",
+  "DFStringFlagRepoGitHashDynamicString": "5ea2241271b8d0c836902290939c1e79223652bd",
+  "FStringFlipTimeStampFastString": "2024-01-08T19:06:01.314Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-08T19:06:01.314Z"
 }
