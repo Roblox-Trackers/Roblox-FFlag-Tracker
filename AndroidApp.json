@@ -8036,7 +8036,7 @@
   "FFlagSimAdornRendererAfterPhysicsSettingsChange_PlaceFilter": "False;15010330779",
   "FFlagPlayStationConditionedRunLoop": "True",
   "DFFlagEnableDualWriteEphemeralCounterCrashToV2Counter": "False",
-  "DFFlagEnableDualWriteEventCrashToV2Counter": "True",
+  "DFFlagEnableDualWriteEventCrashToV2Counter": "False",
   "FFlagUserSearchAddLoadingReport": "True",
   "FFlagScriptProfilerSaveState": "True",
   "FFlagLuaAppFetchHomeDataHandleFailure": "True",
@@ -9768,7 +9768,6 @@
   "FFlagUniversalAppCameraEnabled4": "True",
   "FFlagVideoFixRbxTempCrash": "True",
   "FFlagVideoReportVideoHlsVariant": "True",
-  "DFFlagEnableDualWriteEventCrashToV2Counter_Rollout": "False;60;2024-01-09T22:48:06",
   "FFlagSimEmptyEditableMeshSerializationFix": "True",
   "FFlagNetworkPauseNoAnimation": "True",
   "FFlagRemapR6Animation3": "True",
@@ -10171,8 +10170,8 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "410bb94e02b050ef39ae13d8edaefef4134d1684",
-  "DFStringFlagRepoGitHashDynamicString": "410bb94e02b050ef39ae13d8edaefef4134d1684",
-  "FStringFlipTimeStampFastString": "2024-01-09T23:44:39.651Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-09T23:44:39.651Z"
+  "FStringFlagRepoGitHashFastString": "a2161f7b41f081fb210db6f90fa822bc92487787",
+  "DFStringFlagRepoGitHashDynamicString": "a2161f7b41f081fb210db6f90fa822bc92487787",
+  "FStringFlipTimeStampFastString": "2024-01-09T23:55:28.805Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-09T23:55:28.805Z"
 }
