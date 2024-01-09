@@ -9767,11 +9767,11 @@
   "FFlagEnableEventBasedLoggerInit2": "True",
   "DFFlagPublishAssetPrompt2_PlaceFilter": "True;12433625183;12433850780;14993576210;15003722226;15068553851;2091563160;1457345133;4702052356;5152757352;5400754473;5709630325;6264388643;6264491664;6602682364;6747702209;7100339489;15786652644;15897306106;3633505977;5846386835;5846387555;5867227007;6109544022;6525652118;6815758567;8447698864;14942456037;15295547507;12992503026;14182040324;14182838222;14182840591;14476776051;15185685621;15592084275",
   "FFlagUniversalAppCameraEnabled4": "True",
-  "FFlagVideoReportVideoHlsVariant_Rollout": "True;30;2024-01-09T22:13:14",
   "FFlagVideoFixRbxTempCrash": "True",
   "FFlagRemapR6Animation3_Rollout": "True;60;2024-01-09T22:32:48",
   "FFlagSimEmptyEditableMeshSerializationFix_Rollout": "True;30;2024-01-09T22:33:08",
   "FFlagMacStartBootstrapperOnFirstInstall_Rollout": "False;60;2024-01-09T22:36:24",
+  "FFlagVideoReportVideoHlsVariant": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10057,8 +10057,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FStringFlagRepoGitHashFastString": "0b6da7c313b4c5a20c62fbd7ea07cfdf5dff01ae",
-  "DFStringFlagRepoGitHashDynamicString": "0b6da7c313b4c5a20c62fbd7ea07cfdf5dff01ae",
-  "FStringFlipTimeStampFastString": "2024-01-09T22:36:57.673Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-09T22:36:57.673Z"
+  "FStringFlagRepoGitHashFastString": "93f376886977b02648285347db71217acddb7125",
+  "DFStringFlagRepoGitHashDynamicString": "93f376886977b02648285347db71217acddb7125",
+  "FStringFlipTimeStampFastString": "2024-01-09T22:46:24.537Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-09T22:46:24.537Z"
 }
