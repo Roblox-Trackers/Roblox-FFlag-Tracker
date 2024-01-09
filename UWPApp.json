@@ -9768,12 +9768,12 @@
   "DFFlagPublishAssetPrompt2_PlaceFilter": "True;12433625183;12433850780;14993576210;15003722226;15068553851;2091563160;1457345133;4702052356;5152757352;5400754473;5709630325;6264388643;6264491664;6602682364;6747702209;7100339489;15786652644;15897306106;3633505977;5846386835;5846387555;5867227007;6109544022;6525652118;6815758567;8447698864;14942456037;15295547507;12992503026;14182040324;14182838222;14182840591;14476776051;15185685621;15592084275",
   "FFlagUniversalAppCameraEnabled4": "True",
   "FFlagVideoFixRbxTempCrash": "True",
-  "FFlagRemapR6Animation3_Rollout": "True;60;2024-01-09T22:32:48",
-  "FFlagMacStartBootstrapperOnFirstInstall_Rollout": "False;60;2024-01-09T22:36:24",
   "FFlagVideoReportVideoHlsVariant": "True",
   "DFFlagEnableDualWriteEventCrashToV2Counter_Rollout": "False;60;2024-01-09T22:48:06",
   "FFlagSimEmptyEditableMeshSerializationFix": "True",
   "FFlagNetworkPauseNoAnimation": "True",
+  "FFlagRemapR6Animation3": "True",
+  "FFlagMacStartBootstrapperOnFirstInstall": "False",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -9968,8 +9968,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "433f34fb4aa53e090ecd56ffe7f9170aff1a5e87",
-  "DFStringFlagRepoGitHashDynamicString": "433f34fb4aa53e090ecd56ffe7f9170aff1a5e87",
-  "FStringFlipTimeStampFastString": "2024-01-09T23:38:15.560Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-09T23:38:15.560Z"
+  "FStringFlagRepoGitHashFastString": "b253f526fa819b48a387a82a09390d1dfee60627",
+  "DFStringFlagRepoGitHashDynamicString": "b253f526fa819b48a387a82a09390d1dfee60627",
+  "FStringFlipTimeStampFastString": "2024-01-09T23:41:58.376Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-09T23:41:58.376Z"
 }
