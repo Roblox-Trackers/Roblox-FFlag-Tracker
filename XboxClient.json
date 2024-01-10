@@ -9838,7 +9838,6 @@
   "DFFlagFixScaleToReentrancyCrash": "True",
   "DFIntSimSepConcernLimit": "6666",
   "DFFlagVoiceChatAckWithPrevSdpWhenSubUpdateFails_Rollout": "True;60;2024-01-10T23:16:14",
-  "FFlagVoiceChatControlPlaneAbandonSubOnNoSuchFeed_Rollout": "True;30;2024-01-10T23:18:21",
   "DFFlagRemoveChannelNameForIXP": "True",
   "FFlagVoiceChatV2SubOnlyRetry_Client_Rollout": "True;60;2024-01-10T23:21:22",
   "DFFlagFixInboundUnrelMetricsNotReset_Rollout": "True;30;2024-01-10T23:28:21",
@@ -9851,6 +9850,8 @@
   "DFFlagDSTelemetryIncludeScopeAndDmForListingApis2_Rollout": "True;30;2024-01-10T23:47:30",
   "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent_Rollout": "True;60;2024-01-10T23:50:08",
   "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "100;60;2024-01-10T23:50:14",
+  "FFlagVoiceChatControlPlaneAbandonSubOnNoSuchFeed": "True",
+  "FFlagOnlyMarkScriptDirtyForSourceChanges_Rollout": "True;30;2024-01-10T23:55:54",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10164,8 +10165,8 @@
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "d99a72a220ad0260987406a65149a786d3d2552a",
-  "DFStringFlagRepoGitHashDynamicString": "d99a72a220ad0260987406a65149a786d3d2552a",
-  "FStringFlipTimeStampFastString": "2024-01-10T23:50:50.585Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T23:50:50.585Z"
+  "FStringFlagRepoGitHashFastString": "c929730f2e1fe83b48ea976719faa9a0a1295fbe",
+  "DFStringFlagRepoGitHashDynamicString": "c929730f2e1fe83b48ea976719faa9a0a1295fbe",
+  "FStringFlipTimeStampFastString": "2024-01-10T23:56:51.227Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T23:56:51.227Z"
 }
