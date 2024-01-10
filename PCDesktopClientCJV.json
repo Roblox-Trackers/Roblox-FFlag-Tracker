@@ -9815,7 +9815,6 @@
   "FFlagScriptProfilerSearch": "True",
   "FFlagScriptProfilerSetRoot": "True",
   "FFlagAlwaysRenderPlaceholderText": "True",
-  "DFFlagRemoveChannelNameForIXP_Rollout": "True;60;2024-01-10T22:16:41",
   "FFlagEnableAndroidLinkingProtocolSwitchToSettingsApp": "True",
   "FFlagEnableAndroidSwitchToSettingsApp": "True",
   "FFlagEnableLinkingProtocolSwitchToSettingsApp": "True",
@@ -9843,6 +9842,8 @@
   "DFIntSimSepConcernLimit": "6666",
   "DFFlagVoiceChatAckWithPrevSdpWhenSubUpdateFails_Rollout": "True;60;2024-01-10T23:16:14",
   "FFlagVoiceChatControlPlaneAbandonSubOnNoSuchFeed_Rollout": "True;30;2024-01-10T23:18:21",
+  "DFFlagRemoveChannelNameForIXP": "True",
+  "FFlagVoiceChatV2SubOnlyRetry_Client_Rollout": "True;60;2024-01-10T23:21:22",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10129,8 +10130,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "fb8a0d7537b2d477095fe7bdcc80b483f0e73e5c",
-  "DFStringFlagRepoGitHashDynamicString": "fb8a0d7537b2d477095fe7bdcc80b483f0e73e5c",
-  "FStringFlipTimeStampFastString": "2024-01-10T23:20:00.351Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T23:20:00.351Z"
+  "FStringFlagRepoGitHashFastString": "fa06bb8e86856d08632b440d9f6b9f62ce0ea31d",
+  "DFStringFlagRepoGitHashDynamicString": "fa06bb8e86856d08632b440d9f6b9f62ce0ea31d",
+  "FStringFlipTimeStampFastString": "2024-01-10T23:21:58.984Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T23:21:58.984Z"
 }
