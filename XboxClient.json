@@ -9596,7 +9596,7 @@
   "FFlagTenFootUiMorePageFixUsername": "True",
   "FIntFPSAwareSplashScreenTimeout": "15",
   "DFFlagMemoryStoreErrorEnableExtraInfoTelemetry": "True",
-  "DFIntMemoryStoreErrorExtraInfoHundredthsPercent": "1000",
+  "DFIntMemoryStoreErrorExtraInfoHundredthsPercent": "10000",
   "FStringChatLandingComposeBtnClickedCounter": "ChatLandingComposeBtnClickedCommon",
   "FStringChatLandingConversationClickedCounter": "ChatLandingConversationClickedCommon",
   "FStringChatLandingNotifBtnClickedCounter": "ChatLandingNotifBtnClickedCommon",
@@ -9827,7 +9827,6 @@
   "FFlagAvatarAutosetupUseAllMaps": "True",
   "FFlagAvatarAutosetupUseSurfaceAppearance": "True",
   "FFlagUpdateSourceAsyncNullParentFix": "True",
-  "DFIntMemoryStoreErrorExtraInfoHundredthsPercent_Rollout": "10000;30;2024-01-10T22:59:02",
   "FFlagSimRefactorTriangleMeshPartGenerateAndSetCollisionGeometryData": "True",
   "FFlagStudioFixMacHardwareSleepCrash2": "True",
   "FFlagStudioFixQmlDoubleDeletion": "True",
@@ -10159,8 +10158,8 @@
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "ed97e4b6537ebeac1e4666a826733b0dc7c57b8a",
-  "DFStringFlagRepoGitHashDynamicString": "ed97e4b6537ebeac1e4666a826733b0dc7c57b8a",
-  "FStringFlipTimeStampFastString": "2024-01-10T23:34:42.435Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T23:34:42.435Z"
+  "FStringFlagRepoGitHashFastString": "d98964d71d29cd5cbe12461773144a85d2eeefd5",
+  "DFStringFlagRepoGitHashDynamicString": "d98964d71d29cd5cbe12461773144a85d2eeefd5",
+  "FStringFlipTimeStampFastString": "2024-01-10T23:36:19.851Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T23:36:19.851Z"
 }
