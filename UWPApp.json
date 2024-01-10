@@ -9809,6 +9809,7 @@
   "DFFlagPerformanceControlChangeDefinitionOfEnabledTelemetry": "True",
   "DFFlagReportSSWeakLockFailure_Rollout": "True;60;2024-01-10T20:51:44",
   "DFFlagRemoveDuplicateControlFrame_Rollout": "True;30;2024-01-10T21:02:55",
+  "DFIntStreamingSolverWeakLockHundredthsPercentage_Rollout": "100;60;2024-01-10T21:02:59",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10003,8 +10004,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "6923d4afb18af58373c8a6258188215c37f3f47c",
-  "DFStringFlagRepoGitHashDynamicString": "6923d4afb18af58373c8a6258188215c37f3f47c",
-  "FStringFlipTimeStampFastString": "2024-01-10T21:03:30.331Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:03:30.331Z"
+  "FStringFlagRepoGitHashFastString": "b0d1b0b3879b267b3e1af945136242f8d4869cb8",
+  "DFStringFlagRepoGitHashDynamicString": "b0d1b0b3879b267b3e1af945136242f8d4869cb8",
+  "FStringFlipTimeStampFastString": "2024-01-10T21:03:51.039Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:03:51.039Z"
 }
