@@ -9811,6 +9811,8 @@
   "DFFlagRemoveDuplicateControlFrame": "True",
   "FFlagScriptProfilerSessionTimeStampsResetEndTimeOnProfilerStart": "True",
   "FFlagStudioSuppressRenderJob_Rollout": "True;60;2024-01-10T21:49:31",
+  "FFlagStudioFixQmlDoubleDeletion_Rollout": "True;60;2024-01-10T21:50:34",
+  "FFlagSimRefactorTriangleMeshPartGenerateAndSetCollisionGeometryData_Rollout": "True;60;2024-01-10T21:50:39",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10005,8 +10007,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "7cc8e69ab51dd1b34f0d10f0f597be7206016fb0",
-  "DFStringFlagRepoGitHashDynamicString": "7cc8e69ab51dd1b34f0d10f0f597be7206016fb0",
-  "FStringFlipTimeStampFastString": "2024-01-10T21:49:46.997Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:49:46.997Z"
+  "FStringFlagRepoGitHashFastString": "17d38a72f177eb49ca65f7dbc2e86f72224fc2d2",
+  "DFStringFlagRepoGitHashDynamicString": "17d38a72f177eb49ca65f7dbc2e86f72224fc2d2",
+  "FStringFlipTimeStampFastString": "2024-01-10T21:51:15.237Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:51:15.237Z"
 }
