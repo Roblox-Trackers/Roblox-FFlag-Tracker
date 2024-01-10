@@ -9044,7 +9044,7 @@
   "FFlagLuaAppResetNavigationHistoryLanding": "True",
   "DFFlagAllowOversizedLogToUser": "True",
   "FFlagScrollRightColumnSelect": "True",
-  "DFFlagVoiceChatV2CapabilityCheckDefault_PlaceFilter": "False;15349284027;15364080980",
+  "DFFlagVoiceChatV2CapabilityCheckDefault_PlaceFilter": "False;15349284027;15364080980;15676547725",
   "FFlagAccountService": "True",
   "DFFlagGameJoinStringViews": "True",
   "FFlagAddPerfControlExperimentNameToBacktraceReportsForiOS": "False",
@@ -9772,6 +9772,7 @@
   "FFlagNetworkPauseNoAnimation": "True",
   "FFlagRemapR6Animation3": "True",
   "FFlagMacStartBootstrapperOnFirstInstall": "False",
+  "FFlagAUMScaleUpdateHeadsAndLayeredClothing_Rollout": "True;60;2024-01-10T00:30:12",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10133,8 +10134,8 @@
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "efecea650e3b2e2d1b71eda815ed124776aa84a1",
-  "DFStringFlagRepoGitHashDynamicString": "efecea650e3b2e2d1b71eda815ed124776aa84a1",
-  "FStringFlipTimeStampFastString": "2024-01-10T00:05:41.504Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T00:05:41.504Z"
+  "FStringFlagRepoGitHashFastString": "39dfc5ccc2b0176593bd05e3150670073aeefe27",
+  "DFStringFlagRepoGitHashDynamicString": "39dfc5ccc2b0176593bd05e3150670073aeefe27",
+  "FStringFlipTimeStampFastString": "2024-01-10T00:30:48.873Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T00:30:48.873Z"
 }
