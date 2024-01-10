@@ -9849,6 +9849,8 @@
   "FFlagStudioOutputDeprecatePropertyLinks_Rollout": "True;30;2024-01-10T23:37:43",
   "FFlagRemoveLuaProfileDUACheck": "True",
   "DFFlagDSTelemetryIncludeScopeAndDmForListingApis2_Rollout": "True;30;2024-01-10T23:47:30",
+  "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent_Rollout": "True;60;2024-01-10T23:50:08",
+  "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "100;60;2024-01-10T23:50:14",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10246,8 +10248,8 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
-  "FStringFlagRepoGitHashFastString": "85b58515dbd12331742a5871bec3adf9f01d1372",
-  "DFStringFlagRepoGitHashDynamicString": "85b58515dbd12331742a5871bec3adf9f01d1372",
-  "FStringFlipTimeStampFastString": "2024-01-10T23:48:08.316Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T23:48:08.316Z"
+  "FStringFlagRepoGitHashFastString": "d99a72a220ad0260987406a65149a786d3d2552a",
+  "DFStringFlagRepoGitHashDynamicString": "d99a72a220ad0260987406a65149a786d3d2552a",
+  "FStringFlipTimeStampFastString": "2024-01-10T23:50:50.585Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T23:50:50.585Z"
 }
