@@ -9814,6 +9814,7 @@
   "FFlagStudioFixQmlDoubleDeletion_Rollout": "True;60;2024-01-10T21:50:34",
   "FFlagSimRefactorTriangleMeshPartGenerateAndSetCollisionGeometryData_Rollout": "True;60;2024-01-10T21:50:39",
   "FFlagStudioFixMacHardwareSleepCrash2_Rollout": "True;60;2024-01-10T21:51:17",
+  "FFlagClearOutputOnPluginReload_Rollout": "True;60;2024-01-10T21:52:59",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10099,8 +10100,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FStringFlagRepoGitHashFastString": "af1132e090502b6db3dcb17dbeb033219d392d69",
-  "DFStringFlagRepoGitHashDynamicString": "af1132e090502b6db3dcb17dbeb033219d392d69",
-  "FStringFlipTimeStampFastString": "2024-01-10T21:51:34.777Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:51:34.777Z"
+  "FStringFlagRepoGitHashFastString": "8db0a11dc52fd7921a0042b169e1696428df35ad",
+  "DFStringFlagRepoGitHashDynamicString": "8db0a11dc52fd7921a0042b169e1696428df35ad",
+  "FStringFlipTimeStampFastString": "2024-01-10T21:53:19.355Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:53:19.355Z"
 }
