@@ -9833,6 +9833,8 @@
   "FFlagEnableAndroidSwitchToSettingsApp": "True",
   "FFlagEnableLinkingProtocolSwitchToSettingsApp": "True",
   "FFlagEnableNativeUtilProtocolSwitchToSettingsApp": "True",
+  "FFlagLuaLinkingSwitchToSettingsApp": "True",
+  "FFlagLuaSwitchToSettingsApp": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10230,8 +10232,8 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
-  "FStringFlagRepoGitHashFastString": "81645ff68494ae021e63b59854c9d75ec75f50cb",
-  "DFStringFlagRepoGitHashDynamicString": "81645ff68494ae021e63b59854c9d75ec75f50cb",
-  "FStringFlipTimeStampFastString": "2024-01-10T22:18:17.219Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T22:18:17.219Z"
+  "FStringFlagRepoGitHashFastString": "30b55854b738fd22a693055ba366259a22d0e15f",
+  "DFStringFlagRepoGitHashDynamicString": "30b55854b738fd22a693055ba366259a22d0e15f",
+  "FStringFlipTimeStampFastString": "2024-01-10T22:21:48.282Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T22:21:48.282Z"
 }
