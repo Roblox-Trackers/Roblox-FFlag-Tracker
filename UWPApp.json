@@ -9807,6 +9807,7 @@
   "FFlagEnableSocialRoactChatAnalyticsV607": "True",
   "FFlagSocialRoactChatAnalyticsChatLandingEventsV607": "True",
   "FFlagStudioReportNewDockingBFStateToTelemetry": "True",
+  "FFlagScriptProfilerSessionTimeStampsResetEndTimeOnProfilerStart_Rollout": "True;60;2024-01-10T20:40:05",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10001,8 +10002,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "e1afea7544394edbe11dd5b79a6124dabe4d210c",
-  "DFStringFlagRepoGitHashDynamicString": "e1afea7544394edbe11dd5b79a6124dabe4d210c",
-  "FStringFlipTimeStampFastString": "2024-01-10T20:38:34.530Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T20:38:34.530Z"
+  "FStringFlagRepoGitHashFastString": "1aa2603265c83807f83c9cd8d32ba9ad92ba212f",
+  "DFStringFlagRepoGitHashDynamicString": "1aa2603265c83807f83c9cd8d32ba9ad92ba212f",
+  "FStringFlipTimeStampFastString": "2024-01-10T20:40:20.871Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T20:40:20.871Z"
 }
