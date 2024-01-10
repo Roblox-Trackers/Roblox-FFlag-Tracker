@@ -9801,8 +9801,6 @@
   "FFlagStudioReportNewDockingBFStateToTelemetry": "True",
   "DFFlagInstabilityFixForStreamingTunableMemoryEffectCurve": "True",
   "DFFlagPerformanceControlChangeDefinitionOfEnabledTelemetry": "True",
-  "DFIntStreamingSolverWeakLockHundredthsPercentage_Rollout": "100;60;2024-01-10T21:02:59",
-  "FFlagVisualDiffDefaultIsometricView_Rollout": "True;60;2024-01-10T21:06:13",
   "FFlagSimCSG3RefactorAddCSGMeshToOperation": "True",
   "FFlagAlwaysRenderPlaceholderText_Rollout": "True;60;2024-01-10T21:09:26",
   "DFFlagFixCoalescedTouch": "True",
@@ -9823,6 +9821,9 @@
   "FFlagRefactorPartData2_Rollout": "True;60;2024-01-10T22:02:09",
   "DFFlagFixScaleToReentrancyCrash_Rollout": "True;60;2024-01-10T22:03:03",
   "FFlagFixSlightlyOffgridOrientation": "True",
+  "FFlagVisualDiffDefaultIsometricView": "True",
+  "DFIntStreamingSolverWeakLockHundredthsPercentage": "100",
+  "DFIntMemoryStoreErrorExtraInfoHundredthsPercent_Rollout": "1000;30;2024-01-10T22:13:08",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10109,8 +10110,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "b0b5eb7599372be02de85eeeee69e7ce44832830",
-  "DFStringFlagRepoGitHashDynamicString": "b0b5eb7599372be02de85eeeee69e7ce44832830",
-  "FStringFlipTimeStampFastString": "2024-01-10T22:12:14.219Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T22:12:14.219Z"
+  "FStringFlagRepoGitHashFastString": "e7806490c3efe4f7dd74c87b357ccfe82941826f",
+  "DFStringFlagRepoGitHashDynamicString": "e7806490c3efe4f7dd74c87b357ccfe82941826f",
+  "FStringFlipTimeStampFastString": "2024-01-10T22:13:42.011Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T22:13:42.011Z"
 }
