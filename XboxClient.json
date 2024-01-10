@@ -9825,7 +9825,6 @@
   "FFlagScriptProfilerSetRoot": "True",
   "FFlagAlwaysRenderPlaceholderText": "True",
   "DFFlagRemoveChannelNameForIXP_Rollout": "True;60;2024-01-10T22:16:41",
-  "FFlagUpdateSourceAsyncNullParentFix_Rollout": "True;30;2024-01-10T22:17:42",
   "FFlagEnableAndroidLinkingProtocolSwitchToSettingsApp": "True",
   "FFlagEnableAndroidSwitchToSettingsApp": "True",
   "FFlagEnableLinkingProtocolSwitchToSettingsApp": "True",
@@ -9841,6 +9840,7 @@
   "FFlagAvatarAutosetupUseAllMaps": "True",
   "FFlagAvatarAutosetupUseSurfaceAppearance": "True",
   "FFlagBroadphaseMovedPrimitiveCleanup_Rollout": "True;60;2024-01-10T22:46:00",
+  "FFlagUpdateSourceAsyncNullParentFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10154,8 +10154,8 @@
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "4484c5e9f0e5b92a9425fb256b918cdb2d732f8a",
-  "DFStringFlagRepoGitHashDynamicString": "4484c5e9f0e5b92a9425fb256b918cdb2d732f8a",
-  "FStringFlipTimeStampFastString": "2024-01-10T22:50:15.560Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T22:50:15.560Z"
+  "FStringFlagRepoGitHashFastString": "004a901244bacb00f9b0971faf42a8af1258bff9",
+  "DFStringFlagRepoGitHashDynamicString": "004a901244bacb00f9b0971faf42a8af1258bff9",
+  "FStringFlipTimeStampFastString": "2024-01-10T22:51:32.828Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T22:51:32.828Z"
 }
