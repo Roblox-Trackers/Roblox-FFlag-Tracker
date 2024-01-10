@@ -9803,7 +9803,6 @@
   "DFFlagInstabilityFixForStreamingTunableMemoryEffectCurve": "True",
   "DFFlagPerformanceControlChangeDefinitionOfEnabledTelemetry": "True",
   "DFFlagReportSSWeakLockFailure_Rollout": "True;60;2024-01-10T20:51:44",
-  "DFFlagRemoveDuplicateControlFrame_Rollout": "True;30;2024-01-10T21:02:55",
   "DFIntStreamingSolverWeakLockHundredthsPercentage_Rollout": "100;60;2024-01-10T21:02:59",
   "FFlagVisualDiffDefaultIsometricView_Rollout": "True;60;2024-01-10T21:06:13",
   "FFlagSimCSG3RefactorAddCSGMeshToOperation": "True",
@@ -9813,6 +9812,7 @@
   "DFFlagDisableCheckGenerateBroadphasePairs": "True",
   "FFlagBroadphaseMovedPrimitiveCleanup": "True",
   "FFlagRemoveBruteForceContainer_Rollout": "True;60;2024-01-10T21:31:17",
+  "DFFlagRemoveDuplicateControlFrame": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10097,8 +10097,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FStringFlagRepoGitHashFastString": "53c9f752550431a2fa670945fb7d037cdc0a257d",
-  "DFStringFlagRepoGitHashDynamicString": "53c9f752550431a2fa670945fb7d037cdc0a257d",
-  "FStringFlipTimeStampFastString": "2024-01-10T21:31:37.380Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:31:37.380Z"
+  "FStringFlagRepoGitHashFastString": "3cb7d1e206f61c128ee232641ccc88fc3190436a",
+  "DFStringFlagRepoGitHashDynamicString": "3cb7d1e206f61c128ee232641ccc88fc3190436a",
+  "FStringFlipTimeStampFastString": "2024-01-10T21:36:09.388Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:36:09.388Z"
 }
