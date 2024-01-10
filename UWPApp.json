@@ -9801,7 +9801,6 @@
   "FFlagStudioReportNewDockingBFStateToTelemetry": "True",
   "DFFlagInstabilityFixForStreamingTunableMemoryEffectCurve": "True",
   "DFFlagPerformanceControlChangeDefinitionOfEnabledTelemetry": "True",
-  "DFFlagReportSSWeakLockFailure_Rollout": "True;60;2024-01-10T20:51:44",
   "DFIntStreamingSolverWeakLockHundredthsPercentage_Rollout": "100;60;2024-01-10T21:02:59",
   "FFlagVisualDiffDefaultIsometricView_Rollout": "True;60;2024-01-10T21:06:13",
   "FFlagSimCSG3RefactorAddCSGMeshToOperation": "True",
@@ -9815,6 +9814,9 @@
   "FFlagSimRefactorTriangleMeshPartGenerateAndSetCollisionGeometryData_Rollout": "True;60;2024-01-10T21:50:39",
   "FFlagStudioFixMacHardwareSleepCrash2_Rollout": "True;60;2024-01-10T21:51:17",
   "FFlagClearOutputOnPluginReload_Rollout": "True;60;2024-01-10T21:52:59",
+  "DFFlagReportSSWeakLockFailure": "True",
+  "FFlagStudioPluginWidgetsViewThreading_Rollout": "True;60;2024-01-10T21:56:35",
+  "FFlagSocialRoactChatAnalyticsSendMessageEventV607": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10009,8 +10011,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "d5081796d97905e20f7afa5a5f529b8672654f6f",
-  "DFStringFlagRepoGitHashDynamicString": "d5081796d97905e20f7afa5a5f529b8672654f6f",
-  "FStringFlipTimeStampFastString": "2024-01-10T21:55:30.731Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:55:30.731Z"
+  "FStringFlagRepoGitHashFastString": "8235f122fb1bee560f2e3a0cbe7e6c3a7ed25207",
+  "DFStringFlagRepoGitHashDynamicString": "8235f122fb1bee560f2e3a0cbe7e6c3a7ed25207",
+  "FStringFlipTimeStampFastString": "2024-01-10T21:56:59.347Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:56:59.347Z"
 }
