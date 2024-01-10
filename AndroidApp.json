@@ -8061,7 +8061,7 @@
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client": "True",
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036",
   "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC": "False",
-  "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;7376832747;9672950003;13523443036;12123120785;13344085926;14292367294;12339044345;15349284027;15364080980;301549746;2317712696;11402255591;12796376276;13989579574;12867047376;12867089300;14066075418;15499999688;1730877806",
+  "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;7376832747;9672950003;13523443036;12123120785;13344085926;14292367294;12339044345;15349284027;15364080980;301549746;2317712696;11402255591;12796376276;13989579574;12867047376;12867089300;14066075418;15499999688;1730877806;15676547725",
   "FFlagVideoFrameFixTextureDestroyedWrongContext2": "True",
   "DFIntReportSSThresholdHundredthsPercentage": "50",
   "FFlagBatchThumbnailFetcherUseExponentialFallback": "True",
@@ -9044,7 +9044,7 @@
   "FFlagLuaAppResetNavigationHistoryLanding": "True",
   "DFFlagAllowOversizedLogToUser": "True",
   "FFlagScrollRightColumnSelect": "True",
-  "DFFlagVoiceChatV2CapabilityCheckDefault_PlaceFilter": "False;15349284027;15364080980",
+  "DFFlagVoiceChatV2CapabilityCheckDefault_PlaceFilter": "False;15349284027;15364080980;15676547725",
   "FFlagAccountService": "True",
   "DFFlagGameJoinStringViews": "True",
   "FFlagAddPerfControlExperimentNameToBacktraceReportsForiOS": "False",
@@ -10171,8 +10171,8 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "39dfc5ccc2b0176593bd05e3150670073aeefe27",
-  "DFStringFlagRepoGitHashDynamicString": "39dfc5ccc2b0176593bd05e3150670073aeefe27",
-  "FStringFlipTimeStampFastString": "2024-01-10T00:30:48.873Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T00:30:48.873Z"
+  "FStringFlagRepoGitHashFastString": "9acf2fb358d5365973a0e3d20bed7decdb8ec2e3",
+  "DFStringFlagRepoGitHashDynamicString": "9acf2fb358d5365973a0e3d20bed7decdb8ec2e3",
+  "FStringFlipTimeStampFastString": "2024-01-10T00:31:05.331Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T00:31:05.331Z"
 }
