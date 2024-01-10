@@ -9795,8 +9795,6 @@
   "FFlagUseRoduxCall18": "True",
   "FFlagCallBarNameFallback": "True",
   "DFFlagSimSolverSimulateEligibleConstraintsRigidlyForIkDrag": "True",
-  "FFlagBroadphaseMovedPrimitiveCleanup_Rollout": "True;60;2024-01-10T20:14:44",
-  "DFFlagDisableCheckGenerateBroadphasePairs_Rollout": "True;60;2024-01-10T20:14:58",
   "FFlagStudioDockPanelDockingInEmptyCentralPane": "True",
   "FIntRoactChatEventSampleRatePermanent": "20",
   "FFlagEnableSocialRoactChatAnalyticsV607": "True",
@@ -9813,6 +9811,8 @@
   "FFlagAlwaysRenderPlaceholderText_Rollout": "True;60;2024-01-10T21:09:26",
   "DFFlagFixCoalescedTouch": "True",
   "FFlagScreenshotsOverlayLocalizedUsername": "True",
+  "DFFlagDisableCheckGenerateBroadphasePairs": "True",
+  "FFlagBroadphaseMovedPrimitiveCleanup": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10097,8 +10097,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FStringFlagRepoGitHashFastString": "ec548d907441723d48af786ce2b46116df73c45e",
-  "DFStringFlagRepoGitHashDynamicString": "ec548d907441723d48af786ce2b46116df73c45e",
-  "FStringFlipTimeStampFastString": "2024-01-10T21:19:36.220Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:19:36.220Z"
+  "FStringFlagRepoGitHashFastString": "485fa490eab073427a5e6542ad3a84343d55da77",
+  "DFStringFlagRepoGitHashDynamicString": "485fa490eab073427a5e6542ad3a84343d55da77",
+  "FStringFlipTimeStampFastString": "2024-01-10T21:21:07.593Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-10T21:21:07.593Z"
 }
