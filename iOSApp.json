@@ -9912,6 +9912,7 @@
   "DFFlagSimSolverHideFluidFidelity_Rollout": "True;60;2024-01-11T21:04:16",
   "DFFlagPauseBuffNaNVel_Rollout": "True;60;2024-01-11T21:07:50",
   "FFlagVideoFixRbxTempCrash_Rollout": "True;30;2024-01-11T21:10:48",
+  "FFlagFixSaveAndReloadDebuggableAction_Rollout": "True;60;2024-01-11T21:17:41",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10273,8 +10274,8 @@
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "48c710e9689157b71517aa4f6961f7febb84c8f8",
-  "DFStringFlagRepoGitHashDynamicString": "48c710e9689157b71517aa4f6961f7febb84c8f8",
-  "FStringFlipTimeStampFastString": "2024-01-11T21:11:26.774Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T21:11:26.774Z"
+  "FStringFlagRepoGitHashFastString": "4eaeb769080c25e39cd4f9ad1ee9864a509897d3",
+  "DFStringFlagRepoGitHashDynamicString": "4eaeb769080c25e39cd4f9ad1ee9864a509897d3",
+  "FStringFlipTimeStampFastString": "2024-01-11T21:17:59.029Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T21:17:59.029Z"
 }
