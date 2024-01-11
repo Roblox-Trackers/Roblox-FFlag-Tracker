@@ -1538,7 +1538,7 @@
   "FFlagHybridEventReceiverFixBaseUrl": "True",
   "DFIntUISYS1483_ReportRatePercentHundredths": "1000",
   "FFlagLuaAppCheckChallengeHeaders2": "True",
-  "DFIntReplicatorDataPingReportThresholdMs_PlaceFilter": "100;15578716287;1427028360;6000468131",
+  "DFIntReplicatorDataPingReportThresholdMs_PlaceFilter": "1000;15578716287;1427028360;6000468131",
   "DFIntReplicatorDataPingReportThrottleSeconds": "10",
   "DFIntReplicatorDataPingReportThrottleSeconds_PlaceFilter": "2;1427028360;15578716287;6000468131",
   "FFlagShouldSendPNRegistrationSettingsEvent": "True",
@@ -10149,8 +10149,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "8fef5cdcda168d90d79d8265c29f33422ccc800b",
-  "DFStringFlagRepoGitHashDynamicString": "8fef5cdcda168d90d79d8265c29f33422ccc800b",
-  "FStringFlipTimeStampFastString": "2024-01-11T00:27:01.769Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T00:27:01.769Z"
+  "FStringFlagRepoGitHashFastString": "a98a9610e473e7add6824add130b2bf65a5f4726",
+  "DFStringFlagRepoGitHashDynamicString": "a98a9610e473e7add6824add130b2bf65a5f4726",
+  "FStringFlipTimeStampFastString": "2024-01-11T00:28:46.162Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T00:28:46.162Z"
 }
