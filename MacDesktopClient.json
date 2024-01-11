@@ -9914,9 +9914,6 @@
   "DFFlagSimSolverHideFluidFidelity": "True",
   "DFFlagRealtimeClientAnalyticsPipelineConnectionsSendsSubscriptionStatus": "True",
   "DFFlagPauseBuffNaNVel": "True",
-  "FFlagAddStreamingTunableIXPUtility_Rollout": "True;30;2024-01-11T22:22:16",
-  "DFFlagAddStreamingTunableGCSecondaryMetrics2_Rollout": "True;30;2024-01-11T22:23:00",
-  "FFlagPerformanceControlIXPCheckIfInitialized_Rollout": "True;30;2024-01-11T22:23:10",
   "DFFlagSendStreamingTunableTargetToServerCheck_Rollout": "True;30;2024-01-11T22:24:27",
   "FFlagRelyOnCallbackInsteadOfPollingTheTargetValue_Rollout": "True;30;2024-01-11T22:24:44",
   "DFFlagUnifyGCNeededChecksForStreamingTunable_Rollout": "True;30;2024-01-11T22:24:50",
@@ -9926,6 +9923,9 @@
   "FFlagVideoDataJob2Service": "True",
   "FFlagScriptEditorResizeSideWidgets": "True",
   "FFlagLuaAppGameTileStarter": "True",
+  "DFFlagAddStreamingTunableGCSecondaryMetrics2": "True",
+  "FFlagAddStreamingTunableIXPUtility": "True",
+  "FFlagPerformanceControlIXPCheckIfInitialized": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10213,8 +10213,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FStringFlagRepoGitHashFastString": "f41c68f67c5b44e93fc14da1153849156ea8b530",
-  "DFStringFlagRepoGitHashDynamicString": "f41c68f67c5b44e93fc14da1153849156ea8b530",
-  "FStringFlipTimeStampFastString": "2024-01-11T22:44:05.987Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T22:44:05.987Z"
+  "FStringFlagRepoGitHashFastString": "9206ed13b5bf87547db0c6961c9cd82ae4496ac2",
+  "DFStringFlagRepoGitHashDynamicString": "9206ed13b5bf87547db0c6961c9cd82ae4496ac2",
+  "FStringFlipTimeStampFastString": "2024-01-11T22:56:50.979Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T22:56:50.979Z"
 }
