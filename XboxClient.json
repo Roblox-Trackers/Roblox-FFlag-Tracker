@@ -9873,12 +9873,12 @@
   "FFlagScriptContextThreadFootprint_Rollout": "True;60;2024-01-11T17:05:59",
   "FFlagLuauLspSetupLimits_Rollout": "True;60;2024-01-11T17:09:22",
   "FFlagStudioPluginWidgetWeakPtr_Rollout": "True;60;2024-01-11T17:10:27",
-  "DFFlagNewScriptContextCaptureFix_Rollout": "True;30;2024-01-11T17:19:15",
   "FFlagFixMaterialVariantNotSettingMaterial_Rollout": "True;60;2024-01-11T17:22:37",
   "DFFlagServerStatsPeerCheck_Rollout": "True;60;2024-01-11T17:27:56",
   "FFlagScriptContextHeapProfilerSupport_Rollout": "True;60;2024-01-11T17:42:29",
   "DFFlagScriptContextTakeLockInGetMemoryCategorySize": "True",
   "FFlagScriptContextNewDumpFunctions": "True",
+  "DFFlagNewScriptContextCaptureFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10192,8 +10192,8 @@
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "351ce6d350cdfa93258c1d6269c402f007179fb8",
-  "DFStringFlagRepoGitHashDynamicString": "351ce6d350cdfa93258c1d6269c402f007179fb8",
-  "FStringFlipTimeStampFastString": "2024-01-11T17:51:52.975Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T17:51:52.975Z"
+  "FStringFlagRepoGitHashFastString": "71a3c2f389f34cd835352bed0c107a983fe1d8d7",
+  "DFStringFlagRepoGitHashDynamicString": "71a3c2f389f34cd835352bed0c107a983fe1d8d7",
+  "FStringFlipTimeStampFastString": "2024-01-11T17:56:51.103Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T17:56:51.103Z"
 }
