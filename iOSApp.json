@@ -9878,7 +9878,6 @@
   "FFlagPlayerContextualMenuUseMemoPlatform": "True",
   "FFlagFixMaterialVariantNotSettingMaterial": "True",
   "DFFlagApiProposal321": "True",
-  "FFlagDiffWindowCloseWhenDmClose_Rollout": "True;60;2024-01-11T18:34:49",
   "FFlagLuaAppFetchHomeCatchFetchFailure": "True",
   "DFFlagServerStatsPeerCheck": "True",
   "FFlagLuauRethrowSingleModuleIce": "True",
@@ -9898,6 +9897,8 @@
   "FFlagRemoveUnusedSignalsFromDataModelSession": "True",
   "FFlagThreadSafeIsShuttingDown": "True",
   "FFlagLuauClipExtraHasEndProps": "True",
+  "FFlagDiffWindowCloseWhenDmClose": "True",
+  "FFlagLuauUpdatedRequireByStringSemantics_Rollout": "True;60;2024-01-11T19:41:21",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10259,8 +10260,8 @@
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "16e4197caecb444871d8a49a7025b480b7ae4c27",
-  "DFStringFlagRepoGitHashDynamicString": "16e4197caecb444871d8a49a7025b480b7ae4c27",
-  "FStringFlipTimeStampFastString": "2024-01-11T19:37:08.141Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T19:37:08.141Z"
+  "FStringFlagRepoGitHashFastString": "0529dcf636b5b1d67e9075f5d406c4092af92c75",
+  "DFStringFlagRepoGitHashDynamicString": "0529dcf636b5b1d67e9075f5d406c4092af92c75",
+  "FStringFlipTimeStampFastString": "2024-01-11T19:41:48.125Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T19:41:48.125Z"
 }
