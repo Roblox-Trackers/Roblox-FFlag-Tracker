@@ -9907,7 +9907,6 @@
   "FFlagVideoCollectVisibilityDuration": "True",
   "FFlagFriendsCarouselPaginatedFriendsEnabled_v11": "True",
   "FFlagFriendsCarouselFriendshipUpdatesEnabled_v1": "True",
-  "FFlagVideoDataJob2Service_Rollout": "True;60;2024-01-11T21:25:14",
   "FFlagDevConsoleLuauHeap": "True",
   "FFlagScriptEditorResizeSideWidgets_Rollout": "True;60;2024-01-11T21:32:46",
   "FFlagFriendsCarouselPresenceUpdatesEnabled": "True",
@@ -9925,6 +9924,7 @@
   "FFlagLuauInstantiateInSubtyping": "True",
   "FFlagFixSaveAndReloadDebuggableAction": "True",
   "FFlagFriendsCarouselPassRefreshSignalDown": "True",
+  "FFlagVideoDataJob2Service": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10212,8 +10212,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "8c106bc2f6ab984b79198a96ed4e5b1138307f7a",
-  "DFStringFlagRepoGitHashDynamicString": "8c106bc2f6ab984b79198a96ed4e5b1138307f7a",
-  "FStringFlipTimeStampFastString": "2024-01-11T22:29:19.488Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T22:29:19.488Z"
+  "FStringFlagRepoGitHashFastString": "908cdaa3182dbc11330461f531a93c5860d58693",
+  "DFStringFlagRepoGitHashDynamicString": "908cdaa3182dbc11330461f531a93c5860d58693",
+  "FStringFlipTimeStampFastString": "2024-01-11T22:31:36.132Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T22:31:36.132Z"
 }
