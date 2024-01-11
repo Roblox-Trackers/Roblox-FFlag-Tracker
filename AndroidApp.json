@@ -9854,6 +9854,8 @@
   "FFlagOnlyMarkScriptDirtyForSourceChanges_Rollout": "True;30;2024-01-10T23:55:54",
   "FFlagStudioRemoveIRobloxDocIsEnabled_Rollout": "True;30;2024-01-10T23:56:16",
   "FFlagDisplayNameTooltipIXPEnabled_v1": "True",
+  "FFlagRemoveBruteForceContainer_Rollout": "True;60;2024-01-11T00:01:16",
+  "DFFlagScanModelForDescendantsExtraCheck_Rollout": "True;60;2024-01-11T00:01:58",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10251,8 +10253,8 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
-  "FStringFlagRepoGitHashFastString": "fae8188f25542db6fb3cd3d9df7646adc334eb1e",
-  "DFStringFlagRepoGitHashDynamicString": "fae8188f25542db6fb3cd3d9df7646adc334eb1e",
-  "FStringFlipTimeStampFastString": "2024-01-10T23:59:57.195Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-10T23:59:57.195Z"
+  "FStringFlagRepoGitHashFastString": "a410ffdb4b6c43d75551302e6e3d2596150ec427",
+  "DFStringFlagRepoGitHashDynamicString": "a410ffdb4b6c43d75551302e6e3d2596150ec427",
+  "FStringFlipTimeStampFastString": "2024-01-11T00:02:22.824Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T00:02:22.824Z"
 }
