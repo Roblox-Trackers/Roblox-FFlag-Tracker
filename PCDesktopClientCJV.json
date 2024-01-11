@@ -9846,8 +9846,6 @@
   "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent_Rollout": "True;60;2024-01-10T23:50:08",
   "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "100;60;2024-01-10T23:50:14",
   "FFlagVoiceChatControlPlaneAbandonSubOnNoSuchFeed": "True",
-  "FFlagOnlyMarkScriptDirtyForSourceChanges_Rollout": "True;30;2024-01-10T23:55:54",
-  "FFlagStudioRemoveIRobloxDocIsEnabled_Rollout": "True;30;2024-01-10T23:56:16",
   "FFlagDisplayNameTooltipIXPEnabled_v1": "True",
   "FFlagRemoveBruteForceContainer_Rollout": "True;60;2024-01-11T00:01:16",
   "DFFlagScanModelForDescendantsExtraCheck_Rollout": "True;60;2024-01-11T00:01:58",
@@ -9864,6 +9862,9 @@
   "DFFlagSimWorkspaceBreakJointsFix_Rollout": "True;60;2024-01-11T00:22:46",
   "FFlagVoiceChatV2SubOnlyRetry_Client": "True",
   "DFIntReplicatorDataPingReportHundredthPercentage_PlaceFilter": "100;15578716287;1427028360;6000468131",
+  "FFlagCAPResponsiveImageLayout": "True",
+  "FFlagOnlyMarkScriptDirtyForSourceChanges": "True",
+  "FFlagStudioRemoveIRobloxDocIsEnabled": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10150,8 +10151,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "7d78420a6e39689c1d4c4a5bbe714050a7763818",
-  "DFStringFlagRepoGitHashDynamicString": "7d78420a6e39689c1d4c4a5bbe714050a7763818",
-  "FStringFlipTimeStampFastString": "2024-01-11T00:32:46.825Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T00:32:46.825Z"
+  "FStringFlagRepoGitHashFastString": "18bc312723d4ce4648ea1db7e7a67c28e3c13fc9",
+  "DFStringFlagRepoGitHashDynamicString": "18bc312723d4ce4648ea1db7e7a67c28e3c13fc9",
+  "FStringFlipTimeStampFastString": "2024-01-11T00:33:50.081Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T00:33:50.081Z"
 }
