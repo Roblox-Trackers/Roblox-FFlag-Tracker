@@ -9892,6 +9892,8 @@
   "FFlagThreadSafeDataModelIsDirty": "True",
   "FFlagLuauReuseBufferChecks": "True",
   "FFlagThreadSafeIsShuttingDown_Rollout": "True;30;2024-01-11T18:56:29",
+  "FFlagRemoveUnusedSignalsFromDataModelSession_Rollout": "True;30;2024-01-11T18:56:33",
+  "FFlagStudioComponentizePluginWidgetsView_Rollout": "True;60;2024-01-11T18:57:53",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10086,8 +10088,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "e95cdbe46165e41b02fdff6341037ed47e4592a5",
-  "DFStringFlagRepoGitHashDynamicString": "e95cdbe46165e41b02fdff6341037ed47e4592a5",
-  "FStringFlipTimeStampFastString": "2024-01-11T18:56:47.933Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T18:56:47.933Z"
+  "FStringFlagRepoGitHashFastString": "544f928c8fdee7d91edc2d4855163ed188f9c411",
+  "DFStringFlagRepoGitHashDynamicString": "544f928c8fdee7d91edc2d4855163ed188f9c411",
+  "FStringFlipTimeStampFastString": "2024-01-11T18:58:12.086Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T18:58:12.086Z"
 }
