@@ -9892,7 +9892,6 @@
   "FFlagThreadSafeIsShuttingDown": "True",
   "FFlagLuauClipExtraHasEndProps": "True",
   "FFlagDiffWindowCloseWhenDmClose": "True",
-  "FFlagLuauUpdatedRequireByStringSemantics_Rollout": "True;60;2024-01-11T19:41:21",
   "DFFlagSkipReportingFailedELFInSessionTrackingDueToCrash_Rollout": "False;60;2024-01-11T19:44:36",
   "FFlagFixViewportVisualizationVerbs": "True",
   "FFlagStudioComponentizePluginWidgetsView": "True",
@@ -9906,6 +9905,8 @@
   "DFIntEditableMeshAPIUsageCallTrackingHundredthsPercentage": "100",
   "DFIntEditableMeshAPIUsageInstanceTrackingHundredthsPercentage": "1000",
   "FFlagApolloClientOnlineFriendsQueryPolicy": "True",
+  "FFlagFriendsCarouselPagination_v5": "True",
+  "FFlagLuauUpdatedRequireByStringSemantics": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10100,8 +10101,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "ade3f17a81d9569e8f2c26aa6f0f4ec0c27865d2",
-  "DFStringFlagRepoGitHashDynamicString": "ade3f17a81d9569e8f2c26aa6f0f4ec0c27865d2",
-  "FStringFlipTimeStampFastString": "2024-01-11T20:33:40.683Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T20:33:40.683Z"
+  "FStringFlagRepoGitHashFastString": "6f2f4bc5a60539fefd807e862afe5ef46090a602",
+  "DFStringFlagRepoGitHashDynamicString": "6f2f4bc5a60539fefd807e862afe5ef46090a602",
+  "FStringFlipTimeStampFastString": "2024-01-11T20:47:08.454Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T20:47:08.454Z"
 }
