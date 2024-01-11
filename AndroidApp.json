@@ -9905,10 +9905,7 @@
   "FFlagFriendsCarouselPagination_v5": "True",
   "FFlagLuauUpdatedRequireByStringSemantics": "True",
   "FFlagVideoCollectVisibilityDuration": "True",
-  "DFFlagRealtimeClientAnalyticsPipelineConnectionsSendsSubscriptionStatus_Rollout": "True;60;2024-01-11T21:00:40",
   "FFlagFriendsCarouselPaginatedFriendsEnabled_v11": "True",
-  "FFlagStudioMoveCreatePluginServices_Rollout": "True;60;2024-01-11T21:03:43",
-  "DFFlagSimSolverHideFluidFidelity_Rollout": "True;60;2024-01-11T21:04:16",
   "DFFlagPauseBuffNaNVel_Rollout": "True;60;2024-01-11T21:07:50",
   "FFlagFixSaveAndReloadDebuggableAction_Rollout": "True;60;2024-01-11T21:17:41",
   "FFlagLuauInstantiateInSubtyping_Rollout": "True;60;2024-01-11T21:18:40",
@@ -9918,6 +9915,9 @@
   "FFlagScriptEditorResizeSideWidgets_Rollout": "True;60;2024-01-11T21:32:46",
   "FFlagFriendsCarouselPresenceUpdatesEnabled": "True",
   "DFFlagGenericOversizedUnreliableItems": "True",
+  "FFlagStudioMoveCreatePluginServices": "True",
+  "DFFlagSimSolverHideFluidFidelity": "True",
+  "DFFlagRealtimeClientAnalyticsPipelineConnectionsSendsSubscriptionStatus": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10315,8 +10315,8 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
-  "FStringFlagRepoGitHashFastString": "00d76f63308d0ddc8308aa928d8e4b251f3ba272",
-  "DFStringFlagRepoGitHashDynamicString": "00d76f63308d0ddc8308aa928d8e4b251f3ba272",
-  "FStringFlipTimeStampFastString": "2024-01-11T22:01:55.215Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T22:01:55.215Z"
+  "FStringFlagRepoGitHashFastString": "92afe9351b7a43411b677c30c1a261a21827f683",
+  "DFStringFlagRepoGitHashDynamicString": "92afe9351b7a43411b677c30c1a261a21827f683",
+  "FStringFlipTimeStampFastString": "2024-01-11T22:09:18.183Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T22:09:18.183Z"
 }
