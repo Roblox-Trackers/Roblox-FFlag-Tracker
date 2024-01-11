@@ -9880,6 +9880,8 @@
   "FFlagScriptContextNewDumpFunctions": "True",
   "DFFlagNewScriptContextCaptureFix": "True",
   "FFlagLuauRethrowSingleModuleIce_Rollout": "True;30;2024-01-11T18:01:12",
+  "FFlagOffCenterOriginMarginScaling_Rollout": "True;60;2024-01-11T18:14:20",
+  "FFlagDoNotCacheRayCastBuffers_Rollout": "True;60;2024-01-11T18:14:28",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -9890,6 +9892,7 @@
   "FFlagGpuGeometryManager11": "True",
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
+  "FFlagFaceAnimatorGuardVideoAnimationEnabled_Rollout": "True;60;2024-01-11T18:18:08",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10164,8 +10167,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "FStringFlagRepoGitHashFastString": "b9abc770ac50c6a3491050ae21212068d1693d5d",
-  "DFStringFlagRepoGitHashDynamicString": "b9abc770ac50c6a3491050ae21212068d1693d5d",
-  "FStringFlipTimeStampFastString": "2024-01-11T18:01:42.885Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T18:01:42.885Z"
+  "FStringFlagRepoGitHashFastString": "d14959a58abba9b7b9ad2b4568664bc52fb54937",
+  "DFStringFlagRepoGitHashDynamicString": "d14959a58abba9b7b9ad2b4568664bc52fb54937",
+  "FStringFlipTimeStampFastString": "2024-01-11T18:18:56.620Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T18:18:56.620Z"
 }
