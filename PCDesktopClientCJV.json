@@ -9914,9 +9914,6 @@
   "DFFlagSimSolverHideFluidFidelity": "True",
   "DFFlagRealtimeClientAnalyticsPipelineConnectionsSendsSubscriptionStatus": "True",
   "DFFlagPauseBuffNaNVel": "True",
-  "DFFlagSendStreamingTunableTargetToServerCheck_Rollout": "True;30;2024-01-11T22:24:27",
-  "FFlagRelyOnCallbackInsteadOfPollingTheTargetValue_Rollout": "True;30;2024-01-11T22:24:44",
-  "DFFlagUnifyGCNeededChecksForStreamingTunable_Rollout": "True;30;2024-01-11T22:24:50",
   "FFlagLuauInstantiateInSubtyping": "True",
   "FFlagFixSaveAndReloadDebuggableAction": "True",
   "FFlagFriendsCarouselPassRefreshSignalDown": "True",
@@ -9926,6 +9923,9 @@
   "DFFlagAddStreamingTunableGCSecondaryMetrics2": "True",
   "FFlagAddStreamingTunableIXPUtility": "True",
   "FFlagPerformanceControlIXPCheckIfInitialized": "True",
+  "DFFlagSendStreamingTunableTargetToServerCheck": "True",
+  "DFFlagUnifyGCNeededChecksForStreamingTunable": "True",
+  "FFlagRelyOnCallbackInsteadOfPollingTheTargetValue": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10214,8 +10214,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "9206ed13b5bf87547db0c6961c9cd82ae4496ac2",
-  "DFStringFlagRepoGitHashDynamicString": "9206ed13b5bf87547db0c6961c9cd82ae4496ac2",
-  "FStringFlipTimeStampFastString": "2024-01-11T22:56:50.979Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T22:56:50.979Z"
+  "FStringFlagRepoGitHashFastString": "e6326eb5355495e3cb33e91381443b972f96f42f",
+  "DFStringFlagRepoGitHashDynamicString": "e6326eb5355495e3cb33e91381443b972f96f42f",
+  "FStringFlipTimeStampFastString": "2024-01-11T23:01:42.271Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T23:01:42.271Z"
 }
