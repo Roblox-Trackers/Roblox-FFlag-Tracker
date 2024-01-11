@@ -9852,7 +9852,6 @@
   "FFlagLuaAppEnableBannerContainer": "True",
   "FFlagStudioOutputDeprecatePropertyLinks": "True",
   "FFlagLuaAppReplaceSmallPill": "True",
-  "FFlagSimEmptyEditableMeshVertEdgeConstIteratorFix_Rollout": "True;30;2024-01-11T00:17:11",
   "DFFlagVoiceChatAckWithPrevSdpWhenSubUpdateFails": "True",
   "DFFlagDSTelemetryIncludeScopeAndDmForListingApis2": "True",
   "FFlagRemoveLegacyLocksInCommands_Rollout": "True;30;2024-01-11T00:21:27",
@@ -9869,6 +9868,7 @@
   "FFlagCAPArrowKeyCycleRequest": "True",
   "FFlagCAPFixNewBubbleAPI": "True",
   "FFlagFocusScrollAreaOnNewMessage2": "True",
+  "FFlagSimEmptyEditableMeshVertEdgeConstIteratorFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10266,8 +10266,8 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
-  "FStringFlagRepoGitHashFastString": "bde0fdf56a516afedaa6e27a58b4ad6f51ba6a83",
-  "DFStringFlagRepoGitHashDynamicString": "bde0fdf56a516afedaa6e27a58b4ad6f51ba6a83",
-  "FStringFlipTimeStampFastString": "2024-01-11T00:44:29.570Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T00:44:29.570Z"
+  "FStringFlagRepoGitHashFastString": "bb16f18d9223b0c1b999bb20dc9a26b188b35aee",
+  "DFStringFlagRepoGitHashDynamicString": "bb16f18d9223b0c1b999bb20dc9a26b188b35aee",
+  "FStringFlipTimeStampFastString": "2024-01-11T00:51:45.789Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T00:51:45.789Z"
 }
