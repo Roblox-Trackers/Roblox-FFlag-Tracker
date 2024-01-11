@@ -9923,6 +9923,9 @@
   "FFlagAddStreamingTunableIXPUtility_Rollout": "True;30;2024-01-11T22:22:16",
   "DFFlagAddStreamingTunableGCSecondaryMetrics2_Rollout": "True;30;2024-01-11T22:23:00",
   "FFlagPerformanceControlIXPCheckIfInitialized_Rollout": "True;30;2024-01-11T22:23:10",
+  "DFFlagSendStreamingTunableTargetToServerCheck_Rollout": "True;30;2024-01-11T22:24:27",
+  "FFlagRelyOnCallbackInsteadOfPollingTheTargetValue_Rollout": "True;30;2024-01-11T22:24:44",
+  "DFFlagUnifyGCNeededChecksForStreamingTunable_Rollout": "True;30;2024-01-11T22:24:50",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10211,8 +10214,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "a06dc01bcb631bc4d681e8ee84a97f24a80bf568",
-  "DFStringFlagRepoGitHashDynamicString": "a06dc01bcb631bc4d681e8ee84a97f24a80bf568",
-  "FStringFlipTimeStampFastString": "2024-01-11T22:23:55.181Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-11T22:23:55.181Z"
+  "FStringFlagRepoGitHashFastString": "fe71886bd4f14c5136781a6a5fddd62aca4bce6b",
+  "DFStringFlagRepoGitHashDynamicString": "fe71886bd4f14c5136781a6a5fddd62aca4bce6b",
+  "FStringFlipTimeStampFastString": "2024-01-11T22:25:36.116Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-11T22:25:36.116Z"
 }
