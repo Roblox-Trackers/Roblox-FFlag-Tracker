@@ -9931,6 +9931,7 @@
   "FFlagAddStreamingMemoryThresholdsToIXP": "True",
   "FFlagRestartFmodRecordingOnError": "True",
   "DFFlagDropRateLimitedUREs_Rollout": "True;60;2024-01-12T19:42:11",
+  "DFFlagShowTunableStreamingDebug_Rollout": "True;60;2024-01-12T19:54:29",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10292,8 +10293,8 @@
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "12921c4a85cb1aad3f82c6c6e60307f68eaaacce",
-  "DFStringFlagRepoGitHashDynamicString": "12921c4a85cb1aad3f82c6c6e60307f68eaaacce",
-  "FStringFlipTimeStampFastString": "2024-01-12T19:44:28.270Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-12T19:44:28.270Z"
+  "FStringFlagRepoGitHashFastString": "ac7466d65ac4bce6680f13dda42ee444a01879f5",
+  "DFStringFlagRepoGitHashDynamicString": "ac7466d65ac4bce6680f13dda42ee444a01879f5",
+  "FStringFlipTimeStampFastString": "2024-01-12T19:55:01.853Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-12T19:55:01.853Z"
 }
