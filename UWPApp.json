@@ -9930,9 +9930,9 @@
   "FFlagSocialRoactChatAnalyticsChatConversationEventsV607": "True",
   "FFlagAddStreamingMemoryThresholdsToIXP": "True",
   "FFlagRestartFmodRecordingOnError": "True",
-  "DFFlagShowTunableStreamingDebug_Rollout": "True;60;2024-01-12T19:54:29",
   "DFFlagFixELFFlowDurationInST_Rollout": "False;60;2024-01-12T20:44:24",
   "DFFlagDropRateLimitedUREs": "True",
+  "DFFlagShowTunableStreamingDebug": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10127,8 +10127,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "fa4f6bde074b4e1fa3845008bba66c7d44ec5e14",
-  "DFStringFlagRepoGitHashDynamicString": "fa4f6bde074b4e1fa3845008bba66c7d44ec5e14",
-  "FStringFlipTimeStampFastString": "2024-01-12T20:46:46.619Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-12T20:46:46.619Z"
+  "FStringFlagRepoGitHashFastString": "b51a89650346b71dc382ec96045e64629781f174",
+  "DFStringFlagRepoGitHashDynamicString": "b51a89650346b71dc382ec96045e64629781f174",
+  "FStringFlipTimeStampFastString": "2024-01-12T21:01:30.647Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-12T21:01:30.647Z"
 }
