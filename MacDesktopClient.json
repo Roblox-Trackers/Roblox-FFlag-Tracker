@@ -9930,10 +9930,7 @@
   "FFlagSocialRoactChatAnalyticsChatConversationEventsV607": "True",
   "FFlagAddStreamingMemoryThresholdsToIXP": "True",
   "FFlagRestartFmodRecordingOnError": "True",
-  "FFlagModelPackageRatioTelemetry_Rollout": "True;60;2024-01-12T17:58:50",
-  "DFFlagLuauMemoryProfilerStats": "True",
-  "FFlagFasterContentId": "True",
-  "FFlagPackageDiffInstanceTypeTelemetryFix": "True",
+  "DFFlagRigidConstraintSupportUndo": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10221,10 +10218,8 @@
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
-  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage_Rollout": "5000;60;2024-01-12T18:11:35",
-  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage_Rollout": "5000;60;2024-01-12T18:12:49",
-  "FStringFlagRepoGitHashFastString": "1d30aa786dee204e61a63424eff6306ce485c49d",
-  "DFStringFlagRepoGitHashDynamicString": "1d30aa786dee204e61a63424eff6306ce485c49d",
-  "FStringFlipTimeStampFastString": "2024-01-12T18:38:11.437Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-12T18:38:11.437Z"
+  "FStringFlagRepoGitHashFastString": "20a74d5f8f1d636858aa884bd4eb27c32c08781c",
+  "DFStringFlagRepoGitHashDynamicString": "20a74d5f8f1d636858aa884bd4eb27c32c08781c",
+  "FStringFlipTimeStampFastString": "2024-01-12T18:41:09.075Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-12T18:41:09.075Z"
 }
