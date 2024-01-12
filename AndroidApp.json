@@ -9742,7 +9742,7 @@
   "FFlagQrCodeScannerEnabledForAll": "True",
   "FFlagVideoUseRvInputFormat2": "True",
   "FFlagVideoVisibilityAdd2DGui": "True",
-  "DFFlagFixELFFlowDurationInST": "True",
+  "DFFlagFixELFFlowDurationInST": "False",
   "DFFlagSkipReportingFailedELFInSessionTrackingDueToCrash": "False",
   "FFlagReportSessionTrackingWithUpwardFunctions": "True",
   "FFlagViewportToolingFrameworkRadioFix": "True",
@@ -9929,7 +9929,6 @@
   "FFlagSocialRoactChatAnalyticsChatConversationEventsV607": "True",
   "FFlagAddStreamingMemoryThresholdsToIXP": "True",
   "FFlagRestartFmodRecordingOnError": "True",
-  "DFFlagFixELFFlowDurationInST_Rollout": "False;60;2024-01-12T20:44:24",
   "DFFlagDropRateLimitedUREs": "True",
   "DFFlagShowTunableStreamingDebug": "True",
   "AllowVideoPreRoll": "True",
@@ -10329,8 +10328,8 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
-  "FStringFlagRepoGitHashFastString": "35b507cdcc9953770d1f1e3607c4aa184f207fa6",
-  "DFStringFlagRepoGitHashDynamicString": "35b507cdcc9953770d1f1e3607c4aa184f207fa6",
-  "FStringFlipTimeStampFastString": "2024-01-12T21:04:45.771Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-12T21:04:45.771Z"
+  "FStringFlagRepoGitHashFastString": "59390f4a475fa27437df57755ae749b32445d9d4",
+  "DFStringFlagRepoGitHashDynamicString": "59390f4a475fa27437df57755ae749b32445d9d4",
+  "FStringFlipTimeStampFastString": "2024-01-12T21:51:10.928Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-12T21:51:10.928Z"
 }
