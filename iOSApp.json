@@ -9939,7 +9939,6 @@
   "FFlagFixDupeBetaBadge": "True",
   "FFlagFixInviteTextVisibility": "True",
   "FFlagExploreApiSortsEnabledIXP3": "True",
-  "FFlagAsyncUIEditorVisibleUpdate_Rollout": "True;60;2024-01-16T19:39:10",
   "FFlagFix10ftMenuGap": "True",
   "FFlagFix10ftBottomButtons": "True",
   "DFFlagSiblingAnalytic": "True",
@@ -9948,6 +9947,7 @@
   "FFlagScriptEditorSwigglyLines": "True",
   "FFlagStudioHighlightViewportClientServer": "True",
   "FFlagSimCountFrequencyBucketSize": "True",
+  "FFlagAsyncUIEditorVisibleUpdate": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10309,8 +10309,8 @@
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "c5c31d8545ae81307238016962daacee3204b81f",
-  "DFStringFlagRepoGitHashDynamicString": "c5c31d8545ae81307238016962daacee3204b81f",
-  "FStringFlipTimeStampFastString": "2024-01-16T20:41:32.928Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-16T20:41:32.928Z"
+  "FStringFlagRepoGitHashFastString": "17c280686d6443e07315e88e94070e52953d06d2",
+  "DFStringFlagRepoGitHashDynamicString": "17c280686d6443e07315e88e94070e52953d06d2",
+  "FStringFlipTimeStampFastString": "2024-01-16T20:46:22.752Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-16T20:46:22.752Z"
 }
