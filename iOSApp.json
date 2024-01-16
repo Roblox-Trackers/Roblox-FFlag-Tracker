@@ -9830,7 +9830,6 @@
   "FFlagStudioFixMacHardwareSleepCrash2": "True",
   "FFlagStudioFixQmlDoubleDeletion": "True",
   "FFlagClearOutputOnPluginReload": "True",
-  "FFlagStudioPluginWidgetsViewThreading": "True",
   "DFFlagSimModelLodMutexLockCrash": "True",
   "DFFlagFixScaleToReentrancyCrash": "True",
   "DFIntSimSepConcernLimit": "8000",
@@ -10295,8 +10294,8 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagGpuGeometryManager12": "True",
   "DFFlagReportInferenceResultToPerfdata_Rollout": "True;60;2024-01-16T17:10:34",
-  "FStringFlagRepoGitHashFastString": "b271262d3c12110efd0e819010c368e327d84d9a",
-  "DFStringFlagRepoGitHashDynamicString": "b271262d3c12110efd0e819010c368e327d84d9a",
-  "FStringFlipTimeStampFastString": "2024-01-16T17:12:15.170Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-16T17:12:15.170Z"
+  "FStringFlagRepoGitHashFastString": "a042c791bc2e080c8b8529f58f8ba2fe3f1382b8",
+  "DFStringFlagRepoGitHashDynamicString": "a042c791bc2e080c8b8529f58f8ba2fe3f1382b8",
+  "FStringFlipTimeStampFastString": "2024-01-16T17:14:18.183Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-16T17:14:18.183Z"
 }
