@@ -9951,7 +9951,6 @@
   "FFlagStudioGermanLocale": "True",
   "FFlagStudioEnableProxyRelationship": "True",
   "FFlagShareLinkGameDetailsSupport2": "True",
-  "FFlagAICOClearGhostTextTelemetryBugfix_Rollout": "True;60;2024-01-16T21:48:11",
   "DFFlagSimLimitAssemblyCount2_PlaceFilter": "False;13822889",
   "FFlagStreamingIntegrityShouldBeDisabledOutsideRegionalizedArea_Rollout": "True;60;2024-01-16T21:55:27",
   "FFlagShareLinkFixErrorModal_v2": "True",
@@ -9970,6 +9969,7 @@
   "FFlagFasterExpandAll_Rollout": "True;60;2024-01-16T22:45:32",
   "DFFlagStreamJobUpdatedSetIterator": "True",
   "FFlagCinInternalErrors": "True",
+  "FFlagAICOClearGhostTextTelemetryBugfix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10257,8 +10257,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "3e9687f51e419d3df5e336fa0851507e764e841a",
-  "DFStringFlagRepoGitHashDynamicString": "3e9687f51e419d3df5e336fa0851507e764e841a",
-  "FStringFlipTimeStampFastString": "2024-01-16T22:50:19.436Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-16T22:50:19.436Z"
+  "FStringFlagRepoGitHashFastString": "b5a04f01eaa47f2724ef96e8f7225b895fa017e2",
+  "DFStringFlagRepoGitHashDynamicString": "b5a04f01eaa47f2724ef96e8f7225b895fa017e2",
+  "FStringFlipTimeStampFastString": "2024-01-16T22:57:23.756Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-16T22:57:23.756Z"
 }
