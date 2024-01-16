@@ -9317,7 +9317,7 @@
   "DFIntLogExperienceLaunchAttemptThrottleHundredthsPercentage": "100",
   "DFIntLogExperienceLaunchFailureThrottleHundredthsPercentage": "100",
   "FFlagVoiceInputUseNewAudioApi5": "False",
-  "FFlagVoiceInputUseNewAudioApi5_PlaceFilter": "True;15382034501;15499999688;15422875287;15641495506;15641505624;15676547725;15920139054;15922238144;15928934317",
+  "FFlagVoiceInputUseNewAudioApi5_PlaceFilter": "True;15382034501;15499999688;15422875287;15641495506;15641505624;15676547725;15920139054;15922238144;15928934317;8158601082",
   "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagXboxFixTextBoxesOnReturnToApp": "True",
   "FFlagEnableSubscriptionCompactTitle": "True",
@@ -9949,6 +9949,7 @@
   "FFlagSimCountFrequencyBucketSize": "True",
   "FFlagAsyncUIEditorVisibleUpdate": "True",
   "DFFlagCorrectRootJointAnimationScale_Rollout": "True;60;2024-01-16T20:49:13",
+  "FFlagStudioOptimizeDockingTabUpdates_Rollout": "True;60;2024-01-16T21:03:55",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10236,8 +10237,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "17d1bbfd46e56848dc0f294e67a0c33a92fb4e56",
-  "DFStringFlagRepoGitHashDynamicString": "17d1bbfd46e56848dc0f294e67a0c33a92fb4e56",
-  "FStringFlipTimeStampFastString": "2024-01-16T20:49:31.623Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-16T20:49:31.623Z"
+  "FStringFlagRepoGitHashFastString": "149766b38db7dd99e45f8d154b0cd470a5d9c0fd",
+  "DFStringFlagRepoGitHashDynamicString": "149766b38db7dd99e45f8d154b0cd470a5d9c0fd",
+  "FStringFlipTimeStampFastString": "2024-01-16T21:04:19.878Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-16T21:04:19.878Z"
 }
