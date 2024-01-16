@@ -9894,7 +9894,7 @@
   "FFlagApolloClientAllFriendsQueryPolicy_v2": "True",
   "FFlagUIBloxUseTokensStatGroup": "True",
   "DFIntEditableMeshAPIUsageCallTrackingHundredthsPercentage": "100",
-  "DFIntEditableMeshAPIUsageInstanceTrackingHundredthsPercentage": "1000",
+  "DFIntEditableMeshAPIUsageInstanceTrackingHundredthsPercentage": "100",
   "FFlagApolloClientOnlineFriendsQueryPolicy": "True",
   "FFlagFriendsCarouselPagination_v5": "True",
   "FFlagLuauUpdatedRequireByStringSemantics": "True",
@@ -9953,7 +9953,6 @@
   "FFlagStudioGermanLocale": "True",
   "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "0;60;2024-01-16T21:11:20",
   "FFlagDiffExplorerDescChangeCount_Rollout": "True;60;2024-01-16T21:13:51",
-  "DFIntEditableMeshAPIUsageInstanceTrackingHundredthsPercentage_Rollout": "100;30;2024-01-16T21:16:21",
   "FFlagStudioEnableProxyRelationship": "True",
   "DFFlagStreamJobUpdatedSetIterator_Rollout": "True;60;2024-01-16T21:37:36",
   "FFlagShareLinkGameDetailsSupport2": "True",
@@ -10271,8 +10270,8 @@
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "acbf88fab43ba348fa9bea9c5a33881866264867",
-  "DFStringFlagRepoGitHashDynamicString": "acbf88fab43ba348fa9bea9c5a33881866264867",
-  "FStringFlipTimeStampFastString": "2024-01-16T21:50:45.652Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-16T21:50:45.652Z"
+  "FStringFlagRepoGitHashFastString": "d7c5b7df2c291a0156ec8cfebc60cb07d3448e09",
+  "DFStringFlagRepoGitHashDynamicString": "d7c5b7df2c291a0156ec8cfebc60cb07d3448e09",
+  "FStringFlipTimeStampFastString": "2024-01-16T21:51:31.192Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-16T21:51:31.192Z"
 }
