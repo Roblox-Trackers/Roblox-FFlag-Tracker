@@ -9957,7 +9957,6 @@
   "FFlagShareLinksFixTrackerForJoinClicks": "True",
   "FFlagSocialAnalyticsDeprecateEnums_v2": "False",
   "FFlagStudioOptimizeDockingTabUpdates": "True",
-  "DFFlagSiblingWarning_Rollout": "True;60;2024-01-16T22:17:14",
   "FFlagDiffExplorerDescChangeCount": "True",
   "FFlagFixShadowMapMerging_Rollout": "True;60;2024-01-16T22:22:48",
   "FFlagStudioActionConversionGroup6a_Rollout": "True;60;2024-01-16T22:26:40",
@@ -9970,6 +9969,8 @@
   "FFlagCinInternalErrors": "True",
   "FFlagAICOClearGhostTextTelemetryBugfix": "True",
   "FFlagStreamingIntegrityShouldBeDisabledOutsideRegionalizedArea": "True",
+  "FFlagStudioComponentizeRoblox2_Rollout": "True;60;2024-01-16T23:25:58",
+  "DFFlagSiblingWarning": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10257,8 +10258,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "fee0b1c11b16ad6c9a93d8bdbafef7b9aab084a2",
-  "DFStringFlagRepoGitHashDynamicString": "fee0b1c11b16ad6c9a93d8bdbafef7b9aab084a2",
-  "FStringFlipTimeStampFastString": "2024-01-16T23:21:16.196Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-16T23:21:16.196Z"
+  "FStringFlagRepoGitHashFastString": "2e48641c7b6bbc62389313ea6d01eef4a2c2497d",
+  "DFStringFlagRepoGitHashDynamicString": "2e48641c7b6bbc62389313ea6d01eef4a2c2497d",
+  "FStringFlipTimeStampFastString": "2024-01-16T23:26:38.319Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-16T23:26:38.319Z"
 }
