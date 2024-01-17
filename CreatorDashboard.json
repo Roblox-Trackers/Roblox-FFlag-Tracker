@@ -77,7 +77,7 @@
   "enableCommunityLinking": "true",
   "enablePlaceIconErrorMessaging": "true",
   "enableMarketplaceOnboardingPage": "false",
-  "enablePreLaunchUgcForAllWarning": "false",
+  "enablePreLaunchUgcForAllWarning": "true",
   "enableActivityFeedLocation": "false",
   "enableActivityFeedGameLeftNavigation": "true",
   "creatorShareAssetLimit": "200",
@@ -87,7 +87,7 @@
   "studioNotificationsBetaAnnouncementLink": "https://devforum.roblox.com/t/studio-notification-tray-overhaul-beta/2725944",
   "enableThemePreference": "true",
   "enableDecemberRoadMap": "true",
-  "enableVerificationForUgc": "true",
+  "enableVerificationForUgc": "false",
   "enablePremiumTierBypass": "true",
   "enableIdVerificationBypass": "true"
 }
