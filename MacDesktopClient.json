@@ -9989,8 +9989,6 @@
   "FFlagStudioTasksIncreaseDefaultStackSize": "True",
   "DFFlagLuaFlagVersionReload": "True",
   "FFlagFixAXRouteForPPECamera": "True",
-  "FFlagProcessingPacketUseUniquePtr_Rollout": "True;60;2024-01-17T20:32:40",
-  "FFlagCapsAccessEnv_Rollout": "True;60;2024-01-17T20:39:23",
   "FFlagChangeTextSizeLimitToGlyphs_Rollout": "True;60;2024-01-17T20:43:24",
   "DFFlagUIMigrateCanManage": "True",
   "DFFlagSimAdaptiveSolverIterationCountModel_Rollout": "True;60;2024-01-17T20:52:54",
@@ -9999,6 +9997,9 @@
   "FFlagLoadingScreenLargerJoinStatusText2": "True",
   "DFFlagUpdateRuppTokenOptions": "True",
   "FFlagReduceExtraMutableLookup": "True",
+  "FFlagProcessingPacketUseUniquePtr": "True",
+  "FFlagServerAvatarUtil": "True",
+  "FFlagCapsAccessEnv": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10289,8 +10290,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "FFlagRuntimeEnabled3": "True",
-  "FStringFlagRepoGitHashFastString": "d08c09013d12351daae7716a80f6a10d6ad45533",
-  "DFStringFlagRepoGitHashDynamicString": "d08c09013d12351daae7716a80f6a10d6ad45533",
-  "FStringFlipTimeStampFastString": "2024-01-17T21:29:12.987Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-17T21:29:12.987Z"
+  "FStringFlagRepoGitHashFastString": "2e9a7bfc6f376561a7c259b8d3ee2a52551b085c",
+  "DFStringFlagRepoGitHashDynamicString": "2e9a7bfc6f376561a7c259b8d3ee2a52551b085c",
+  "FStringFlipTimeStampFastString": "2024-01-17T21:47:00.547Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-17T21:47:00.547Z"
 }
