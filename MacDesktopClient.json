@@ -10001,6 +10001,7 @@
   "FFlagNoRethrowSetAndLockParent_Rollout": "True;60;2024-01-17T19:55:49",
   "FFlagLuaAppEnableSurveySessions": "True",
   "FFlagReduceExtraMutableLookup_Rollout": "True;60;2024-01-17T20:03:59",
+  "DFFlagUpdateRuppTokenOptions_Rollout": "True;60;2024-01-17T20:05:28",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10204,7 +10205,7 @@
   "FFlagBetterTrackpadScrolling": "True",
   "FStringLuaProfileUserLoadedPageCounter": "LuaProfileUserLoadedPageMacClient",
   "FStringLuaProfileUserLoadedPageWithDataCounter": "LuaProfileUserLoadedPageWithDataMacClient",
-  "FFlagUniversalAppCsat": "False",
+  "FFlagUniversalAppCsat": "True",
   "DFFlagSimHumanoidNewStopOverlap_PlaceFilter": "False;2573981315;6317172524;4999654929",
   "FStringFriendsCarouselLoadedWithUsers": "FriendsCarouselLoadedWithUsersMacClient",
   "FStringSocialTabUserLoadedCounter": "RoactChatUserLoadedDUAR",
@@ -10291,8 +10292,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "FFlagRuntimeEnabled3": "True",
-  "FStringFlagRepoGitHashFastString": "455f8d52ef47d16c902b2e7d887d683616aedecd",
-  "DFStringFlagRepoGitHashDynamicString": "455f8d52ef47d16c902b2e7d887d683616aedecd",
-  "FStringFlipTimeStampFastString": "2024-01-17T20:04:30.916Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-17T20:04:30.916Z"
+  "FStringFlagRepoGitHashFastString": "f8fd2f3c9a1b2e2d432a49a3dd5023bd886fc4ac",
+  "DFStringFlagRepoGitHashDynamicString": "f8fd2f3c9a1b2e2d432a49a3dd5023bd886fc4ac",
+  "FStringFlipTimeStampFastString": "2024-01-17T20:06:10.783Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-17T20:06:10.783Z"
 }
