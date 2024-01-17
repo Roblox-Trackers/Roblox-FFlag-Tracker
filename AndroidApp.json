@@ -9668,9 +9668,9 @@
   "FFlagIrisLaunchTimeBugFixForLoggedOutUser": "True",
   "FFlagFixOutdatedParticles2": "True",
   "DFFlagBufferReplication": "True",
-  "FFlagBlake3SerializerBinary": "False",
-  "FFlagBlake3SharedString": "False",
-  "FFlagDMPatchCoreScriptsBlake3Deserialize": "False",
+  "FFlagBlake3SerializerBinary": "True",
+  "FFlagBlake3SharedString": "True",
+  "FFlagDMPatchCoreScriptsBlake3Deserialize": "True",
   "DFFlagFixInvalidHandlerError": "True",
   "FFlagAXCleanUpStackedLeakedCatalogSearchPage": "True",
   "FFlagAXHideTopBarCenterItemForCatalogSearch": "True",
@@ -10399,8 +10399,8 @@
   "FFlagEnableNavbarLabelExperiment": "False",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
-  "FStringFlagRepoGitHashFastString": "89a406468e1ea709fb18d71e9c19a8d777f2af3c",
-  "DFStringFlagRepoGitHashDynamicString": "89a406468e1ea709fb18d71e9c19a8d777f2af3c",
-  "FStringFlipTimeStampFastString": "2024-01-17T23:06:55.689Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-17T23:06:55.689Z"
+  "FStringFlagRepoGitHashFastString": "21be0d14a2578065e1ef12df6371c4a620e087b2",
+  "DFStringFlagRepoGitHashDynamicString": "21be0d14a2578065e1ef12df6371c4a620e087b2",
+  "FStringFlipTimeStampFastString": "2024-01-17T23:16:38.467Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-17T23:16:38.467Z"
 }
