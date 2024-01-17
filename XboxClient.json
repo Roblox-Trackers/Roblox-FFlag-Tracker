@@ -9980,7 +9980,6 @@
   "FFlagStudioDeviceEmulatorLostPlatformFieldFix2": "True",
   "FFlagAvatarPreviewerFixTShirtImportingAgain": "True",
   "DFFlagSolverNOURemovedUnderSetOptimized": "True",
-  "DFFlagLuaFlagVersionReload_Rollout": "True;60;2024-01-17T19:05:26",
   "FFlagFlagRolloutTestStaticBool6_Rollout": "False;60;2024-01-17T19:08:31",
   "FFlagFlagRolloutTestStaticBool5_Rollout": "True;60;2024-01-17T19:10:47",
   "FFlagFlagRolloutTestStaticBool4_Rollout": "True;60;2024-01-17T19:11:26",
@@ -10002,6 +10001,7 @@
   "FFlagReduceExtraMutableLookup_Rollout": "True;60;2024-01-17T20:03:59",
   "DFFlagUpdateRuppTokenOptions_Rollout": "True;60;2024-01-17T20:05:28",
   "FFlagStudioTasksIncreaseDefaultStackSize": "True",
+  "DFFlagLuaFlagVersionReload": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10314,8 +10314,8 @@
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "0de295785de8a32dd755f05c5d59fe90d299f076",
-  "DFStringFlagRepoGitHashDynamicString": "0de295785de8a32dd755f05c5d59fe90d299f076",
-  "FStringFlipTimeStampFastString": "2024-01-17T20:06:49.526Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-17T20:06:49.526Z"
+  "FStringFlagRepoGitHashFastString": "f00e27f534ee84654266481a7404212d19fd201c",
+  "DFStringFlagRepoGitHashDynamicString": "f00e27f534ee84654266481a7404212d19fd201c",
+  "FStringFlipTimeStampFastString": "2024-01-17T20:11:46.781Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-17T20:11:46.781Z"
 }
