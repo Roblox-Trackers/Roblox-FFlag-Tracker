@@ -9986,8 +9986,6 @@
   "FFlagCinMoveSessionErrors": "True",
   "FFlagSessionStringReflection": "True",
   "FFlagLuaAppEnableSurveySessions": "True",
-  "FFlagReduceExtraMutableLookup_Rollout": "True;60;2024-01-17T20:03:59",
-  "DFFlagUpdateRuppTokenOptions_Rollout": "True;60;2024-01-17T20:05:28",
   "FFlagStudioTasksIncreaseDefaultStackSize": "True",
   "DFFlagLuaFlagVersionReload": "True",
   "FFlagFixAXRouteForPPECamera": "True",
@@ -9999,6 +9997,8 @@
   "FFlagNoRethrowSetAndLockParent": "True",
   "FFlagRemoveEmptyVariadicFromVariableResults_Rollout": "True;60;2024-01-17T21:08:19",
   "FFlagLoadingScreenLargerJoinStatusText2": "True",
+  "DFFlagUpdateRuppTokenOptions": "True",
+  "FFlagReduceExtraMutableLookup": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10361,8 +10361,8 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
-  "FStringFlagRepoGitHashFastString": "3cce94100f62bebdbc70951b9f42885969fea00f",
-  "DFStringFlagRepoGitHashDynamicString": "3cce94100f62bebdbc70951b9f42885969fea00f",
-  "FStringFlipTimeStampFastString": "2024-01-17T21:10:50.465Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-17T21:10:50.465Z"
+  "FStringFlagRepoGitHashFastString": "b030f6d68cb4e35886b209feb2ff8e6ef526f5a1",
+  "DFStringFlagRepoGitHashDynamicString": "b030f6d68cb4e35886b209feb2ff8e6ef526f5a1",
+  "FStringFlipTimeStampFastString": "2024-01-17T21:11:33.866Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-17T21:11:33.866Z"
 }
