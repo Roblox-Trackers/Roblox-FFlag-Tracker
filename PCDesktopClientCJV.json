@@ -9989,7 +9989,6 @@
   "FFlagStudioTasksIncreaseDefaultStackSize": "True",
   "DFFlagLuaFlagVersionReload": "True",
   "FFlagFixAXRouteForPPECamera": "True",
-  "FFlagChangeTextSizeLimitToGlyphs_Rollout": "True;60;2024-01-17T20:43:24",
   "DFFlagUIMigrateCanManage": "True",
   "DFFlagSimAdaptiveSolverIterationCountModel_Rollout": "True;60;2024-01-17T20:52:54",
   "FFlagNoRethrowSetAndLockParent": "True",
@@ -10000,6 +9999,7 @@
   "FFlagProcessingPacketUseUniquePtr": "True",
   "FFlagServerAvatarUtil": "True",
   "FFlagCapsAccessEnv": "True",
+  "FFlagChangeTextSizeLimitToGlyphs": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10288,8 +10288,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "3d3bceb127bad6d4ea2c60b49d024d8d88ec9ab0",
-  "DFStringFlagRepoGitHashDynamicString": "3d3bceb127bad6d4ea2c60b49d024d8d88ec9ab0",
-  "FStringFlipTimeStampFastString": "2024-01-17T21:47:44.978Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-17T21:47:44.978Z"
+  "FStringFlagRepoGitHashFastString": "1482bffc0bfbda3c7af1420d6b49d47a2071b56f",
+  "DFStringFlagRepoGitHashDynamicString": "1482bffc0bfbda3c7af1420d6b49d47a2071b56f",
+  "FStringFlipTimeStampFastString": "2024-01-17T21:51:50.232Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-17T21:51:50.232Z"
 }
