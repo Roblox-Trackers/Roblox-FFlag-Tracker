@@ -10303,7 +10303,7 @@
   "FFlagTenFootUiSearchLoadMore": "False",
   "FStringRealtimeClientTargetName": "XBox",
   "FFlagXboxSystemUtilDeviceName": "True",
-  "DFIntHangDetectionJobV2TimeoutMs": "0",
+  "DFIntHangDetectionJobV2TimeoutMs": "6000000",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
@@ -10317,10 +10317,9 @@
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
   "FFlagGpuGeometryManager12": "True",
-  "DFIntHangDetectionJobV2TimeoutMs_Rollout": "6000000;30;2024-01-17T23:04:58",
-  "DFIntHangDetectionInferredTimeoutStartMs_Rollout": "4000;30;2024-01-17T23:06:20",
-  "FStringFlagRepoGitHashFastString": "34c6dc985f1fabaf154f8a98931d6cfc409304a8",
-  "DFStringFlagRepoGitHashDynamicString": "34c6dc985f1fabaf154f8a98931d6cfc409304a8",
-  "FStringFlipTimeStampFastString": "2024-01-17T23:41:05.050Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-17T23:41:05.050Z"
+  "DFIntHangDetectionInferredTimeoutStartMs": "4000",
+  "FStringFlagRepoGitHashFastString": "efb1c540efbddb44e9e66f46211acd11d9b55d2c",
+  "DFStringFlagRepoGitHashDynamicString": "efb1c540efbddb44e9e66f46211acd11d9b55d2c",
+  "FStringFlipTimeStampFastString": "2024-01-17T23:41:47.154Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-17T23:41:47.154Z"
 }
