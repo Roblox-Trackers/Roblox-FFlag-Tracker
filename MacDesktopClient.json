@@ -9985,6 +9985,8 @@
   "FFlagStudioTasksIncreaseDefaultStackSize_Rollout": "True;60;2024-01-17T19:01:44",
   "DFFlagLuaFlagVersionReload_Rollout": "True;60;2024-01-17T19:05:26",
   "FFlagFlagRolloutTestStaticBool6_Rollout": "False;60;2024-01-17T19:08:31",
+  "FFlagFlagRolloutTestStaticBool5_Rollout": "True;60;2024-01-17T19:10:47",
+  "FFlagFlagRolloutTestStaticBool4_Rollout": "True;60;2024-01-17T19:11:26",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10275,8 +10277,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "FFlagRuntimeEnabled3": "True",
-  "FStringFlagRepoGitHashFastString": "9f1c1c80febf7bcd72f557b7fe9b7db3e09d8b80",
-  "DFStringFlagRepoGitHashDynamicString": "9f1c1c80febf7bcd72f557b7fe9b7db3e09d8b80",
-  "FStringFlipTimeStampFastString": "2024-01-17T19:08:56.881Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-17T19:08:56.881Z"
+  "FStringFlagRepoGitHashFastString": "27bcb0882d11255d302da1f5f5dfe96364e25f8b",
+  "DFStringFlagRepoGitHashDynamicString": "27bcb0882d11255d302da1f5f5dfe96364e25f8b",
+  "FStringFlipTimeStampFastString": "2024-01-17T19:11:42.787Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-17T19:11:42.787Z"
 }
