@@ -9962,7 +9962,6 @@
   "FFlagAICOClearGhostTextTelemetryBugfix": "True",
   "FFlagStreamingIntegrityShouldBeDisabledOutsideRegionalizedArea": "True",
   "DFFlagSiblingWarning": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagFixShadowMapMerging": "True",
   "FFlagStudioActionConversionGroup6a": "True",
   "FFlagRCCMonitorRegisterTimersForShutdown2": "True",
@@ -9977,6 +9976,8 @@
   "FFlagACEImprovedErrorList": "True",
   "FFlagDraggerChecksLastDragTarget": "True",
   "FFlagStudioComponentizeRoblox2": "True",
+  "FIntSessionTransitionFSMHundredthsPercent": "10000",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -10321,7 +10322,6 @@
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntCriticalThermalStatusThreshold": "3",
-  "FIntSessionTransitionFSMHundredthsPercent": "10000",
   "FLogDebugQuadTreeLogging2": "6",
   "FStringRealtimeClientTargetName": "iOS",
   "FIntInitialMmapSizeForMemProfStorageKB": "64",
@@ -10340,8 +10340,8 @@
   "FFlagGpuGeometryManager12": "True",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage_Rollout": "1000;60;2024-01-16T23:39:52",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage_Rollout": "1000;60;2024-01-16T23:40:45",
-  "FStringFlagRepoGitHashFastString": "a0571c8546c740e09e7f703cbf7733a5faf9eeae",
-  "DFStringFlagRepoGitHashDynamicString": "a0571c8546c740e09e7f703cbf7733a5faf9eeae",
-  "FStringFlipTimeStampFastString": "2024-01-17T00:31:32.722Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-17T00:31:32.722Z"
+  "FStringFlagRepoGitHashFastString": "c9e6fad376ef3410652e23b4c6b27345d06f0c01",
+  "DFStringFlagRepoGitHashDynamicString": "c9e6fad376ef3410652e23b4c6b27345d06f0c01",
+  "FStringFlipTimeStampFastString": "2024-01-17T00:36:32.958Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-17T00:36:32.958Z"
 }
