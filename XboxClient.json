@@ -9957,7 +9957,6 @@
   "FFlagSocialAnalyticsDeprecateEnums_v2": "True",
   "FFlagStudioOptimizeDockingTabUpdates": "True",
   "FFlagDiffExplorerDescChangeCount": "True",
-  "FFlagFasterExpandAll_Rollout": "True;60;2024-01-16T22:45:32",
   "DFFlagStreamJobUpdatedSetIterator": "True",
   "FFlagCinInternalErrors": "True",
   "FFlagAICOClearGhostTextTelemetryBugfix": "True",
@@ -9971,6 +9970,11 @@
   "FFlagIKMoveToPivotFix": "True",
   "FFlagFmodIosGetDeviceBusType": "True",
   "FFlagExplorerEvenFasterSelection": "True",
+  "FFlagFasterExpandAll": "True",
+  "FFlagCinPreviewInstances": "True",
+  "FFlagAinPackageSuggestionFix": "True",
+  "FFlagAssetManagerInsertMultipleImages_Rollout": "True;60;2024-01-17T00:01:12",
+  "FFlagACERigVisualization": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -10283,8 +10287,8 @@
   "FFlagHookUgcGameDidClose": "True",
   "FFlagXboxLastKnownStateFlushOnSuspend": "True",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "841afdbeba2e43e7ce598b0a3c098b2739535f6a",
-  "DFStringFlagRepoGitHashDynamicString": "841afdbeba2e43e7ce598b0a3c098b2739535f6a",
-  "FStringFlipTimeStampFastString": "2024-01-16T23:46:51.989Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-16T23:46:51.989Z"
+  "FStringFlagRepoGitHashFastString": "19810caee01f8f7a0060e3de8b49ac2cd2bdb013",
+  "DFStringFlagRepoGitHashDynamicString": "19810caee01f8f7a0060e3de8b49ac2cd2bdb013",
+  "FStringFlipTimeStampFastString": "2024-01-17T00:02:06.229Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-17T00:02:06.229Z"
 }
