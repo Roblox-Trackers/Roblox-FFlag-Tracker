@@ -10013,6 +10013,10 @@
   "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2024-01-18T17:11:05",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-01-18T17:11:21",
   "FFlagFlagRolloutTestStaticBool2_Rollout": "False;60;2024-01-18T17:11:53",
+  "FFlagStudioDeferStartPagePlaceOpenClick_Rollout": "True;60;2024-01-18T17:12:32",
+  "DFFlagFlagRolloutTestDynamicBool8_Rollout": "True;60;2024-01-18T17:12:36",
+  "FFlagStudioBetterStartPageQmlGlobals_Rollout": "True;60;2024-01-18T17:12:40",
+  "DFFlagFlagRolloutTestDynamicBool7_Rollout": "True;60;2024-01-18T17:12:57",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10411,8 +10415,8 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
   "FFlagNewScriptContext3_Rollout": "True;60;2024-01-18T17:08:11",
-  "FStringFlagRepoGitHashFastString": "d3ace6812b5a5527ee7ebf9a3c085cca519945d2",
-  "DFStringFlagRepoGitHashDynamicString": "d3ace6812b5a5527ee7ebf9a3c085cca519945d2",
-  "FStringFlipTimeStampFastString": "2024-01-18T17:12:12.532Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-18T17:12:12.532Z"
+  "FStringFlagRepoGitHashFastString": "d8c1b34f1f76d7331176e788b6e710ba73a0401c",
+  "DFStringFlagRepoGitHashDynamicString": "d8c1b34f1f76d7331176e788b6e710ba73a0401c",
+  "FStringFlipTimeStampFastString": "2024-01-18T17:13:27.826Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-18T17:13:27.826Z"
 }
