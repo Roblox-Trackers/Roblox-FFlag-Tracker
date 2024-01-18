@@ -4615,7 +4615,7 @@
   "DFFlagFlagRolloutTestDynamicBool1": "True",
   "DFFlagFlagRolloutTestDynamicBool2": "True",
   "DFFlagFlagRolloutTestDynamicBool5": "True",
-  "DFFlagFlagRolloutTestDynamicBool7": "False",
+  "DFFlagFlagRolloutTestDynamicBool7": "True",
   "FFlagFlagRolloutTestStaticBool7": "True",
   "FFlagFlagRolloutTestStaticBool8": "False",
   "FFlagTestExampleNotInCode": "True",
@@ -10008,7 +10008,6 @@
   "FFlagFixAssetFetchStatusForCDNUrl": "True",
   "FFlagFixAssetFetchStatusStuckLoading": "True",
   "FFlagACEGetRigInfo": "True",
-  "DFFlagFlagRolloutTestDynamicBool7_Rollout": "True;60;2024-01-18T17:12:57",
   "FFlagHideServiceAction_Rollout": "True;60;2024-01-18T17:48:54",
   "FFlagStudioBetterStartPageQmlGlobals": "True",
   "FFlagStudioDeferStartPagePlaceOpenClick": "True",
@@ -10207,8 +10206,8 @@
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
   "FFlagRuntimeEnabled3": "True",
-  "FStringFlagRepoGitHashFastString": "8817af6e246f5321ed05d94d9a448e89465cb912",
-  "DFStringFlagRepoGitHashDynamicString": "8817af6e246f5321ed05d94d9a448e89465cb912",
-  "FStringFlipTimeStampFastString": "2024-01-18T18:17:56.597Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-18T18:17:56.597Z"
+  "FStringFlagRepoGitHashFastString": "19d25b57ebc578a1338491772c0adc5c899a6c76",
+  "DFStringFlagRepoGitHashDynamicString": "19d25b57ebc578a1338491772c0adc5c899a6c76",
+  "FStringFlipTimeStampFastString": "2024-01-18T18:22:55.572Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-18T18:22:55.572Z"
 }
