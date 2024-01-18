@@ -10017,6 +10017,7 @@
   "FIntChromeBetaFeatureRolloutPercent_Rollout": "100;60;2024-01-18T20:13:17",
   "FFlagACEMultiSelectionTransform3": "True",
   "DFFlagSoundPreviewRespondToSoundGroupChange": "True",
+  "FFlagEnableCreateUGCBundleCreationFeeErrorCodes3": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10304,8 +10305,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "9a02d55ee431fa347f3948714db03e5cf6f5e133",
-  "DFStringFlagRepoGitHashDynamicString": "9a02d55ee431fa347f3948714db03e5cf6f5e133",
-  "FStringFlipTimeStampFastString": "2024-01-18T21:01:47.325Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-18T21:01:47.325Z"
+  "FStringFlagRepoGitHashFastString": "cce817cd6e79e5a4796c5601a4d88c9c8e7bb964",
+  "DFStringFlagRepoGitHashDynamicString": "cce817cd6e79e5a4796c5601a4d88c9c8e7bb964",
+  "FStringFlipTimeStampFastString": "2024-01-18T21:03:30.089Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-18T21:03:30.089Z"
 }
