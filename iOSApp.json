@@ -9964,7 +9964,7 @@
   "DFFlagSiblingWarning": "True",
   "FFlagFixShadowMapMerging": "True",
   "FFlagStudioActionConversionGroup6a": "True",
-  "FFlagRCCMonitorRegisterTimersForShutdown2": "True",
+  "FFlagRCCMonitorRegisterTimersForShutdown2": "False",
   "FFlagIKMoveToPivotFix": "True",
   "FFlagFmodIosGetDeviceBusType": "True",
   "FFlagExplorerEvenFasterSelection": "True",
@@ -10011,7 +10011,6 @@
   "FFlagStudioBetterStartPageQmlGlobals": "True",
   "FFlagStudioDeferStartPagePlaceOpenClick": "True",
   "FFlagHideServiceAction": "True",
-  "FFlagRCCMonitorRegisterTimersForShutdown2_Rollout": "False;60;2024-01-18T20:08:48",
   "FIntChromeBetaFeatureRolloutPercent_Rollout": "100;60;2024-01-18T20:13:17",
   "FFlagACEMultiSelectionTransform3": "True",
   "DFFlagSoundPreviewRespondToSoundGroupChange": "True",
@@ -10382,8 +10381,8 @@
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
   "FFlagGpuGeometryManager12": "True",
-  "FStringFlagRepoGitHashFastString": "bca919d5be77157017cc833c0b2c6d20f7e341b3",
-  "DFStringFlagRepoGitHashDynamicString": "bca919d5be77157017cc833c0b2c6d20f7e341b3",
-  "FStringFlipTimeStampFastString": "2024-01-18T21:11:32.131Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-18T21:11:32.131Z"
+  "FStringFlagRepoGitHashFastString": "69520a0622d6b3f1f9ce930e1ef244ce9559a591",
+  "DFStringFlagRepoGitHashDynamicString": "69520a0622d6b3f1f9ce930e1ef244ce9559a591",
+  "FStringFlipTimeStampFastString": "2024-01-18T21:16:58.265Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-18T21:16:58.265Z"
 }
