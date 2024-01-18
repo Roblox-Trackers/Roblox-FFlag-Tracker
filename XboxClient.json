@@ -10005,6 +10005,7 @@
   "FFlagFixAssetFetchStatusForCDNUrl_Rollout": "True;60;2024-01-17T23:29:21",
   "FFlagFixAssetFetchStatusStuckLoading_Rollout": "True;60;2024-01-17T23:35:03",
   "FFlagStopLayoutDuringTeardown": "True",
+  "FFlagEnableStyleProviderCleanUp": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10320,8 +10321,8 @@
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1d\",\"pos\":[1,-56,0,10],\"size\":[0,44,0,48]},{\"id\":\"a2d\",\"pos\":[1,-100,0,10],\"size\":[0,88,0,48]},{\"id\":\"a4d\",\"pos\":[1,-418,0,10],\"size\":[0,406,0,48]},{\"id\":\"a5d\",\"pos\":[0.5,-102,0,10],\"size\":[0,204,0,48]},{\"id\":\"a5dl\",\"pos\":[0.5,-305,0,10],\"size\":[0,204,0,48]},{\"id\":\"lrd\",\"pos\":[0,12,0,10],\"size\":[0,44,0,48]},{\"id\":\"l1d\",\"pos\":[0,68,0,10],\"size\":[0,44,0,48]},{\"id\":\"l2d\",\"pos\":[0,68,0,10],\"size\":[0,88,0,48]},{\"id\":\"l4d\",\"pos\":[0,68,0,10],\"size\":[0,406,0,48]},{\"id\":\"l-pc+sv-d\",\"pos\":[0,68,0,10],\"size\":[0,132,0,48]}];30;2024-01-17T23:48:58",
   "DFFlagHangDetectionForceCrash_Rollout": "True;30;2024-01-18T00:02:55",
-  "FStringFlagRepoGitHashFastString": "da2d47ae445ab9e2bc4df8e4ff5ce05ff8d727b9",
-  "DFStringFlagRepoGitHashDynamicString": "da2d47ae445ab9e2bc4df8e4ff5ce05ff8d727b9",
-  "FStringFlipTimeStampFastString": "2024-01-18T00:06:42.986Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-18T00:06:42.986Z"
+  "FStringFlagRepoGitHashFastString": "e004fae8ea592a2e5424bbcb389b2be2c7b2caf3",
+  "DFStringFlagRepoGitHashDynamicString": "e004fae8ea592a2e5424bbcb389b2be2c7b2caf3",
+  "FStringFlipTimeStampFastString": "2024-01-18T00:15:07.146Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-18T00:15:07.146Z"
 }
