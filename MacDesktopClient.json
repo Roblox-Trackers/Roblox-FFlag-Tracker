@@ -10011,13 +10011,13 @@
   "FFlagStudioBetterStartPageQmlGlobals": "True",
   "FFlagStudioDeferStartPagePlaceOpenClick": "True",
   "FFlagHideServiceAction": "True",
-  "FFlagNewBackgroundedDesign_Rollout": "True;60;2024-01-18T20:02:37",
-  "FFlagStudioMoveStartPageLoginSignal_Rollout": "True;60;2024-01-18T20:06:39",
   "FFlagRCCMonitorRegisterTimersForShutdown2_Rollout": "False;60;2024-01-18T20:08:48",
   "FIntChromeBetaFeatureRolloutPercent_Rollout": "100;60;2024-01-18T20:13:17",
   "FFlagACEMultiSelectionTransform3": "True",
   "DFFlagSoundPreviewRespondToSoundGroupChange": "True",
   "FFlagEnableCreateUGCBundleCreationFeeErrorCodes3": "True",
+  "FFlagNewBackgroundedDesign": "True",
+  "FFlagStudioMoveStartPageLoginSignal": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10308,8 +10308,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "FFlagRuntimeEnabled3": "True",
-  "FStringFlagRepoGitHashFastString": "cce817cd6e79e5a4796c5601a4d88c9c8e7bb964",
-  "DFStringFlagRepoGitHashDynamicString": "cce817cd6e79e5a4796c5601a4d88c9c8e7bb964",
-  "FStringFlipTimeStampFastString": "2024-01-18T21:03:30.089Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-18T21:03:30.089Z"
+  "FStringFlagRepoGitHashFastString": "bca919d5be77157017cc833c0b2c6d20f7e341b3",
+  "DFStringFlagRepoGitHashDynamicString": "bca919d5be77157017cc833c0b2c6d20f7e341b3",
+  "FStringFlipTimeStampFastString": "2024-01-18T21:11:32.131Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-18T21:11:32.131Z"
 }
