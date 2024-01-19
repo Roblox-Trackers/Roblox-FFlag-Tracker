@@ -10026,6 +10026,9 @@
   "EnableOptimizeSaveImageToGallery": "True",
   "FFlagCheckPublishLocked": "True",
   "FFlagFixSoundCacheSizeOverflow2": "True",
+  "FFlagScriptWatchExpressionFix_Rollout": "True;30;2024-01-19T18:16:04",
+  "FFlagStudioDebuggerNoLazyTableDebugger_Rollout": "True;30;2024-01-19T18:16:10",
+  "FFlagCrashInShouldWaitRemoteEvent": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10314,8 +10317,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f6bf9674f70c8dd220278639af395cc41405e052",
-  "DFStringFlagRepoGitHashDynamicString": "f6bf9674f70c8dd220278639af395cc41405e052",
-  "FStringFlipTimeStampFastString": "2024-01-19T02:25:50.547Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-19T02:25:50.547Z"
+  "FStringFlagRepoGitHashFastString": "13e67357bec19f89a9685058cb90cfc1134854e6",
+  "DFStringFlagRepoGitHashDynamicString": "13e67357bec19f89a9685058cb90cfc1134854e6",
+  "FStringFlipTimeStampFastString": "2024-01-19T18:17:20.059Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-19T18:17:20.059Z"
 }
