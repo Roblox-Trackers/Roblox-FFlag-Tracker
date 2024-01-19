@@ -10034,6 +10034,7 @@
   "FFlagScriptWatchExpressionFix": "True",
   "FFlagStudioDebuggerNoLazyTableDebugger": "True",
   "DFIntSimTimestepMultiplierDebounceCount_Rollout": "300;60;2024-01-19T19:16:32",
+  "DFFlagTeleportFailOnPermissionResetBugFix_Rollout": "True;60;2024-01-19T19:21:06",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10229,8 +10230,8 @@
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
   "FFlagRuntimeEnabled3": "True",
-  "FStringFlagRepoGitHashFastString": "a2a06ca2af65240d775b1488a71e3a7be4c7816f",
-  "DFStringFlagRepoGitHashDynamicString": "a2a06ca2af65240d775b1488a71e3a7be4c7816f",
-  "FStringFlipTimeStampFastString": "2024-01-19T19:17:04.143Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-19T19:17:04.143Z"
+  "FStringFlagRepoGitHashFastString": "208e49a369d8ed4ce31d884544947fba38a3d5af",
+  "DFStringFlagRepoGitHashDynamicString": "208e49a369d8ed4ce31d884544947fba38a3d5af",
+  "FStringFlipTimeStampFastString": "2024-01-19T19:21:34.958Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-19T19:21:34.958Z"
 }
