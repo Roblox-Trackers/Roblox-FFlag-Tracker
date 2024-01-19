@@ -10395,16 +10395,14 @@
   "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
   "DFIntPerformanceControlInferenceInterval": "3000",
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
-  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "1000",
-  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "1000",
+  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "10000",
+  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
   "FFlagGpuGeometryManager12": "True",
-  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage_Rollout": "10000;60;2024-01-19T18:27:10",
-  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage_Rollout": "10000;60;2024-01-19T18:27:13",
   "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache;60;2024-01-19T19:00:02",
   "FFlagDebugGraphicsCrashOnLeaks": "False",
-  "FStringFlagRepoGitHashFastString": "24530b585cec75ba41a20eb6957b64d7a24177ec",
-  "DFStringFlagRepoGitHashDynamicString": "24530b585cec75ba41a20eb6957b64d7a24177ec",
-  "FStringFlipTimeStampFastString": "2024-01-19T19:26:33.546Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-19T19:26:33.546Z"
+  "FStringFlagRepoGitHashFastString": "3d730e25c5e51fe8268fded2e4f35f189a6dffd8",
+  "DFStringFlagRepoGitHashDynamicString": "3d730e25c5e51fe8268fded2e4f35f189a6dffd8",
+  "FStringFlipTimeStampFastString": "2024-01-19T19:31:14.693Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-19T19:31:14.693Z"
 }
