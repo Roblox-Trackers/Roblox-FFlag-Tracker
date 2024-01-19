@@ -10030,11 +10030,11 @@
   "FFlagImagePickerSearchReturnsCorrectImage_Rollout": "True;60;2024-01-19T18:27:45",
   "FFlagNoTagsLabelPassesMouseInput_Rollout": "True;60;2024-01-19T18:27:56",
   "DFFlagImprovedModelStreamingRevisitFix_Rollout": "True;60;2024-01-19T18:48:54",
-  "DFFlagEnableNonTeamCreateRemoteSaveValidator_Rollout": "True;30;2024-01-19T18:49:31",
   "FFlagScriptWatchExpressionFix": "True",
   "FFlagStudioDebuggerNoLazyTableDebugger": "True",
   "DFIntSimTimestepMultiplierDebounceCount_Rollout": "300;60;2024-01-19T19:16:32",
   "DFFlagTeleportFailOnPermissionResetBugFix_Rollout": "True;60;2024-01-19T19:21:06",
+  "DFFlagEnableNonTeamCreateRemoteSaveValidator": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10325,8 +10325,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage_Rollout": "10000;60;2024-01-19T18:27:10",
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage_Rollout": "10000;60;2024-01-19T18:27:13",
-  "FStringFlagRepoGitHashFastString": "208e49a369d8ed4ce31d884544947fba38a3d5af",
-  "DFStringFlagRepoGitHashDynamicString": "208e49a369d8ed4ce31d884544947fba38a3d5af",
-  "FStringFlipTimeStampFastString": "2024-01-19T19:21:34.958Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-19T19:21:34.958Z"
+  "FStringFlagRepoGitHashFastString": "7da7cc8bbb6250dfe454cd6bcf11338b166b1812",
+  "DFStringFlagRepoGitHashDynamicString": "7da7cc8bbb6250dfe454cd6bcf11338b166b1812",
+  "FStringFlipTimeStampFastString": "2024-01-19T19:26:24.687Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-19T19:26:24.687Z"
 }
