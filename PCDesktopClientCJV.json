@@ -8396,7 +8396,7 @@
   "DFFlagUseAndroidMemoryAdviceLibrary6": "True",
   "FFlagLSPServiceScriptOpenTelemetry": "True",
   "FFlagDevConsoleLogTextLabelSizingFix": "True",
-  "DFIntLiveScriptingSessionRolloutPercent": "50",
+  "DFIntLiveScriptingSessionRolloutPercent": "100",
   "FFlagUseDataModelPatchCategory": "True",
   "FFlagUseProfilerTag": "True",
   "FFlagUseScriptContextScopeInResume": "True",
@@ -10027,7 +10027,6 @@
   "FFlagCheckPublishLocked": "True",
   "FFlagFixSoundCacheSizeOverflow2": "True",
   "FFlagCrashInShouldWaitRemoteEvent": "True",
-  "DFFlagImprovedModelStreamingRevisitFix_Rollout": "True;60;2024-01-19T18:48:54",
   "FFlagScriptWatchExpressionFix": "True",
   "FFlagStudioDebuggerNoLazyTableDebugger": "True",
   "DFIntSimTimestepMultiplierDebounceCount_Rollout": "300;60;2024-01-19T19:16:32",
@@ -10036,6 +10035,7 @@
   "FFlagImagePickerSearchReturnsCorrectImage": "True",
   "FFlagNoTagsLabelPassesMouseInput": "True",
   "FFlagSelfViewHumanoidNilCheck": "True",
+  "DFFlagImprovedModelStreamingRevisitFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10325,8 +10325,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "aca6dc46ac4b170689c8d980d05aa4d765a75a20",
-  "DFStringFlagRepoGitHashDynamicString": "aca6dc46ac4b170689c8d980d05aa4d765a75a20",
-  "FStringFlipTimeStampFastString": "2024-01-19T19:55:39.244Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-19T19:55:39.244Z"
+  "FStringFlagRepoGitHashFastString": "9872481b43983412ac2f89a0398793ad4cfc8c8a",
+  "DFStringFlagRepoGitHashDynamicString": "9872481b43983412ac2f89a0398793ad4cfc8c8a",
+  "FStringFlipTimeStampFastString": "2024-01-19T19:56:34.113Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-19T19:56:34.113Z"
 }
