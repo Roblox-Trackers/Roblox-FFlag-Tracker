@@ -10029,6 +10029,7 @@
   "FFlagScriptWatchExpressionFix_Rollout": "True;30;2024-01-19T18:16:04",
   "FFlagStudioDebuggerNoLazyTableDebugger_Rollout": "True;30;2024-01-19T18:16:10",
   "FFlagCrashInShouldWaitRemoteEvent": "True",
+  "FFlagImagePickerSearchReturnsCorrectImage_Rollout": "True;60;2024-01-19T18:27:45",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10319,8 +10320,10 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "FFlagRuntimeEnabled3": "True",
-  "FStringFlagRepoGitHashFastString": "c1ee4b2d83a98df5587be92a001f4817c7ec26f1",
-  "DFStringFlagRepoGitHashDynamicString": "c1ee4b2d83a98df5587be92a001f4817c7ec26f1",
-  "FStringFlipTimeStampFastString": "2024-01-19T18:27:35.124Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-19T18:27:35.124Z"
+  "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage_Rollout": "10000;60;2024-01-19T18:27:10",
+  "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage_Rollout": "10000;60;2024-01-19T18:27:13",
+  "FStringFlagRepoGitHashFastString": "448752f1d3fff4046030aa9a90e7c40e343e0ca9",
+  "DFStringFlagRepoGitHashDynamicString": "448752f1d3fff4046030aa9a90e7c40e343e0ca9",
+  "FStringFlipTimeStampFastString": "2024-01-19T18:28:42.353Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-19T18:28:42.353Z"
 }
