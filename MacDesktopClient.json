@@ -6932,7 +6932,7 @@
   "FFlagFlagRolloutTestStaticBool9": "True",
   "DFIntErrorEstimationArbiterThreshold2dtThou": "7000",
   "DFIntErrorEstimationArbiterThreshold4dtThou": "10000",
-  "DFIntSimArbiterPositionCorrectionFactorThresholdThou": "3000",
+  "DFIntSimArbiterPositionCorrectionFactorThresholdThou": "300",
   "DFIntTimestepArbiterConditionNumberThresholdThou": "50000",
   "FFlagEnableDelayAndroidPhoneAutofillRelease1": "True",
   "FFlagPresentWebViewAfterDismiss": "True",
@@ -10041,8 +10041,6 @@
   "FFlagACEDeferredSignals": "True",
   "FFlagLuaAppDeprecateOldAgeOverlay": "True",
   "FFlagLuaAppWarnShowAgeOverlayInUse": "True",
-  "DFIntSimArbiterPositionCorrectionFactorThresholdThou_Rollout": "300;60;2024-01-22T17:42:46",
-  "FFlagFixExperienceLaunchBeginTimestamp_Rollout": "True;60;2024-01-22T17:43:07",
   "DFFlagControllerManagerCanThrottle_Rollout": "True;60;2024-01-22T17:47:16",
   "DFFlagAudioAnalyzerHandleZeroSound_Rollout": "True;60;2024-01-22T18:04:51",
   "FFlagFixAdvSkyHang_Rollout": "True;60;2024-01-22T18:05:23",
@@ -10065,6 +10063,7 @@
   "DFFlagFastMeshSize": "True",
   "DFFlagReduceFacialAnimationsWhenFacsStreaming2_Rollout": "True;60;2024-01-22T18:42:43",
   "FFlagAudioPlayerEndedReplicationFix": "True",
+  "FFlagFixExperienceLaunchBeginTimestamp": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10356,8 +10355,8 @@
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "2500",
-  "FStringFlagRepoGitHashFastString": "d9eac98b23539b3e94a22d758b8868476980e3d8",
-  "DFStringFlagRepoGitHashDynamicString": "d9eac98b23539b3e94a22d758b8868476980e3d8",
-  "FStringFlipTimeStampFastString": "2024-01-22T18:50:02.313Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T18:50:02.313Z"
+  "FStringFlagRepoGitHashFastString": "dae8a66471dfed88b2107918fb795d51ea2e4cfc",
+  "DFStringFlagRepoGitHashDynamicString": "dae8a66471dfed88b2107918fb795d51ea2e4cfc",
+  "FStringFlipTimeStampFastString": "2024-01-22T18:51:36.986Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T18:51:36.986Z"
 }
