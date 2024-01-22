@@ -9314,7 +9314,7 @@
   "FFlagXboxRespectPermissionsGameJoin": "True",
   "DFIntLogExperienceLaunchAttemptThrottleHundredthsPercentage": "100",
   "DFIntLogExperienceLaunchFailureThrottleHundredthsPercentage": "100",
-  "FFlagVoiceInputUseNewAudioApi5": "False",
+  "FFlagVoiceInputUseNewAudioApi5": "True",
   "FFlagVoiceInputUseNewAudioApi5_PlaceFilter": "True;15382034501;15499999688;15422875287;15641495506;15641505624;15676547725;15920139054;15922238144;15928934317;8158601082",
   "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagXboxFixTextBoxesOnReturnToApp": "True",
@@ -10063,7 +10063,6 @@
   "DFFlagAudioAnalyzerHandleZeroSound": "True",
   "FFlagRemoveHardwareTelemetry": "True",
   "FFlagVideoEnableCMCD3": "True",
-  "FFlagVoiceInputUseNewAudioApi5_Rollout": "True;60;2024-01-22T19:42:28",
   "DFFlagReduceFacialAnimationsWhenFacsStreaming2": "True",
   "DFFlagEnableRobloxTelemetryV2FlagEnrollmentTagsFromFlagLib_Rollout": "True;60;2024-01-22T19:57:51",
   "DFIntReduceFacialAnimationsAudioVideoMode": "255",
@@ -10367,8 +10366,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "2b545c2cd542c3e9de1a8f6ca6326cb791da5481",
-  "DFStringFlagRepoGitHashDynamicString": "2b545c2cd542c3e9de1a8f6ca6326cb791da5481",
-  "FStringFlipTimeStampFastString": "2024-01-22T20:36:11.374Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T20:36:11.374Z"
+  "FStringFlagRepoGitHashFastString": "7065f16572b049f9c3b094e9aa379caba9de8023",
+  "DFStringFlagRepoGitHashDynamicString": "7065f16572b049f9c3b094e9aa379caba9de8023",
+  "FStringFlipTimeStampFastString": "2024-01-22T20:51:45.226Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T20:51:45.226Z"
 }
