@@ -10043,6 +10043,8 @@
   "FFlagAudioPlayerEndedReplicationFix_Rollout": "True;60;2024-01-22T17:41:20",
   "FFlagLuaAppDeprecateOldAgeOverlay": "True",
   "FFlagLuaAppWarnShowAgeOverlayInUse": "True",
+  "DFIntSimArbiterPositionCorrectionFactorThresholdThou_Rollout": "300;60;2024-01-22T17:42:46",
+  "FFlagFixExperienceLaunchBeginTimestamp_Rollout": "True;60;2024-01-22T17:43:07",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10335,8 +10337,8 @@
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FFlagDebugEnableOctreeStompAllocator": "True",
   "FIntEnableCullableScene2HundredthPercent3": "2500",
-  "FStringFlagRepoGitHashFastString": "64ee830b4406661666747c6d8208844d1f3fa8cc",
-  "DFStringFlagRepoGitHashDynamicString": "64ee830b4406661666747c6d8208844d1f3fa8cc",
-  "FStringFlipTimeStampFastString": "2024-01-22T17:42:21.006Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T17:42:21.006Z"
+  "FStringFlagRepoGitHashFastString": "e5a36a837d7f970d31c43db486650eea63faec80",
+  "DFStringFlagRepoGitHashDynamicString": "e5a36a837d7f970d31c43db486650eea63faec80",
+  "FStringFlipTimeStampFastString": "2024-01-22T17:43:30.421Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T17:43:30.421Z"
 }
