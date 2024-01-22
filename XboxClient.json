@@ -10073,6 +10073,7 @@
   "FFlagVoiceInputUseNewAudioApi5_Rollout": "True;60;2024-01-22T19:42:28",
   "DFFlagVoiceChatV2CapabilityCheckDefault_Rollout": "True;30;2024-01-22T19:48:18",
   "DFFlagReduceFacialAnimationsWhenFacsStreaming2": "True",
+  "DFFlagEnableRobloxTelemetryV2FlagEnrollmentTagsFromFlagLib_Rollout": "True;60;2024-01-22T19:57:51",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10387,8 +10388,8 @@
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "DFFlagHangDetectionForceCrash": "True",
   "FFlagXboxLastKnownStateTrackingEnabled_Rollout": "True;30;2024-01-22T19:41:51",
-  "FStringFlagRepoGitHashFastString": "c18e37dbe0465634ff7121be5ddd960edbe30f5d",
-  "DFStringFlagRepoGitHashDynamicString": "c18e37dbe0465634ff7121be5ddd960edbe30f5d",
-  "FStringFlipTimeStampFastString": "2024-01-22T19:53:38.265Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:53:38.265Z"
+  "FStringFlagRepoGitHashFastString": "cf60600b58bf65c2eb5f49e57c83969ae637677d",
+  "DFStringFlagRepoGitHashDynamicString": "cf60600b58bf65c2eb5f49e57c83969ae637677d",
+  "FStringFlipTimeStampFastString": "2024-01-22T19:58:18.101Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:58:18.101Z"
 }
