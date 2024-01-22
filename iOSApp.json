@@ -10064,7 +10064,6 @@
   "FFlagRemoveHardwareTelemetry": "True",
   "FFlagVideoEnableCMCD3": "True",
   "DFFlagReduceFacialAnimationsWhenFacsStreaming2": "True",
-  "DFFlagEnableRobloxTelemetryV2FlagEnrollmentTagsFromFlagLib_Rollout": "True;60;2024-01-22T19:57:51",
   "DFIntReduceFacialAnimationsAudioVideoMode": "255",
   "DFFlagNoPannerInterpolation": "True",
   "FIntVideoMaxBufferMs": "20000",
@@ -10082,6 +10081,8 @@
   "FFlagEnableSTFSMTeardown": "True",
   "FFlagLegacyAccessoryCheckAvatarPartScaleType": "True",
   "FFlagTruncateMeshBoundsErrorMessage": "True",
+  "DFFlagEnableRobloxTelemetryV2FlagEnrollmentTagsFromFlagLib": "True",
+  "FFlagGraphicsFixMeshChangeParent_Rollout": "True;30;2024-01-22T21:10:31",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10449,8 +10450,8 @@
   "FFlagDebugGraphicsCrashOnLeaks": "False",
   "DFFlagReportInferenceResultToPerfdata": "True",
   "DFIntOOMInferenceThreshold": "6800",
-  "FStringFlagRepoGitHashFastString": "2d2eb3c7df10db6ffde9874df3a1b1ef77b0497d",
-  "DFStringFlagRepoGitHashDynamicString": "2d2eb3c7df10db6ffde9874df3a1b1ef77b0497d",
-  "FStringFlipTimeStampFastString": "2024-01-22T21:01:40.201Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T21:01:40.201Z"
+  "FStringFlagRepoGitHashFastString": "3d824de522b10c658d77fac502ea299bebb556b9",
+  "DFStringFlagRepoGitHashDynamicString": "3d824de522b10c658d77fac502ea299bebb556b9",
+  "FStringFlipTimeStampFastString": "2024-01-22T21:12:05.656Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T21:12:05.656Z"
 }
