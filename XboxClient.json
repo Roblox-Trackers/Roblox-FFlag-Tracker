@@ -10080,6 +10080,8 @@
   "DFFlagEnableTeamCreateRemoteSaveValidator": "True",
   "FFlagMoodDampingIxpExperimentation": "True",
   "FFlagEnableSTFSMTeardown": "True",
+  "FFlagLegacyAccessoryCheckAvatarPartScaleType": "True",
+  "FFlagTruncateMeshBoundsErrorMessage": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10393,8 +10395,8 @@
   "FFlagGpuGeometryManager12": "True",
   "DFIntHangDetectionInferredTimeoutStartMs": "4000",
   "DFFlagHangDetectionForceCrash": "True",
-  "FStringFlagRepoGitHashFastString": "7065f16572b049f9c3b094e9aa379caba9de8023",
-  "DFStringFlagRepoGitHashDynamicString": "7065f16572b049f9c3b094e9aa379caba9de8023",
-  "FStringFlipTimeStampFastString": "2024-01-22T20:51:45.226Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T20:51:45.226Z"
+  "FStringFlagRepoGitHashFastString": "2d2eb3c7df10db6ffde9874df3a1b1ef77b0497d",
+  "DFStringFlagRepoGitHashDynamicString": "2d2eb3c7df10db6ffde9874df3a1b1ef77b0497d",
+  "FStringFlipTimeStampFastString": "2024-01-22T21:01:40.201Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T21:01:40.201Z"
 }
