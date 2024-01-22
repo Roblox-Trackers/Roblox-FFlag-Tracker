@@ -9298,7 +9298,7 @@
   "FFlagLuaAppRemoveLegacyDidUpdateFromStartUp": "True",
   "FFlagRenderUseMediump": "True",
   "FFlagVideoCameraAsyncEnabled": "False",
-  "FStringGraphicsVulkanFutureGPUNameBlacklist": "Adreno (TM) 530;Adreno (TM) 618;Adreno (TM) 619;Adreno (TM) 504;PowerVR Rogue GE8320;Adreno (TM) 612;Adreno (TM) 615",
+  "FStringGraphicsVulkanFutureGPUNameBlacklist": "Adreno (TM) 530;Adreno (TM) 618;Adreno (TM) 619;Adreno (TM) 504;PowerVR Rogue GE8320;Adreno (TM) 612;Adreno (TM) 615;Adreno (TM) 610",
   "FFlagExperienceLaunchTelemetry": "True",
   "DFFlagUnreliableEventsThrowBeforeRelease": "False",
   "FFlagXboxKeyboardType": "True",
@@ -10091,6 +10091,7 @@
   "DFFlagFlagRolloutTestDynamicBool8_Rollout": "True;30;2024-01-22T22:12:29",
   "DFFlagAddPlayerTrial_Rollout": "True;30;2024-01-22T22:13:50",
   "DFFlagUseNewBuildEquation_Rollout": "True;60;2024-01-22T22:14:21",
+  "FFlagSimSolverUseNewSHInterpolator_Rollout": "True;60;2024-01-22T22:16:57",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10286,8 +10287,8 @@
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
   "FFlagRuntimeEnabled3": "True",
-  "FStringFlagRepoGitHashFastString": "5c5e58e71941b222929717bf0944ae7e48d31dc4",
-  "DFStringFlagRepoGitHashDynamicString": "5c5e58e71941b222929717bf0944ae7e48d31dc4",
-  "FStringFlipTimeStampFastString": "2024-01-22T22:14:42.521Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T22:14:42.521Z"
+  "FStringFlagRepoGitHashFastString": "99f07249c1b4590d68634722d1bc5f803055f8e5",
+  "DFStringFlagRepoGitHashDynamicString": "99f07249c1b4590d68634722d1bc5f803055f8e5",
+  "FStringFlipTimeStampFastString": "2024-01-22T22:17:46.263Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T22:17:46.263Z"
 }
