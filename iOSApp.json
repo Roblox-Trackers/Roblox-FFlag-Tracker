@@ -10041,8 +10041,6 @@
   "FFlagACEDeferredSignals": "True",
   "FFlagLuaAppDeprecateOldAgeOverlay": "True",
   "FFlagLuaAppWarnShowAgeOverlayInUse": "True",
-  "DFFlagAudioAnalyzerHandleZeroSound_Rollout": "True;60;2024-01-22T18:04:51",
-  "FFlagFixAdvSkyHang_Rollout": "True;60;2024-01-22T18:05:23",
   "FFlagEnablePlayerViewRemoteReplication2": "False",
   "FFlagEnablePlayerViewRemoteReplication2_PlaceFilter": "True;12867089300;14066075418;12867047376",
   "FFlagFaceAnimatorEnableBoundingBoxResult": "False",
@@ -10068,6 +10066,8 @@
   "DFFlagNoPannerInterpolation_Rollout": "True;60;2024-01-22T19:03:18",
   "DFIntReduceFacialAnimationsAudioVideoMode_Rollout": "255;60;2024-01-22T19:04:00",
   "FFlagSTFSMMoreLocks": "True",
+  "FFlagFixAdvSkyHang": "True",
+  "DFFlagAudioAnalyzerHandleZeroSound": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10435,8 +10435,8 @@
   "FFlagDebugGraphicsCrashOnLeaks": "False",
   "DFFlagReportInferenceResultToPerfdata": "True",
   "DFIntOOMInferenceThreshold_Rollout": "6800;60;2024-01-22T18:40:50",
-  "FStringFlagRepoGitHashFastString": "e5fa96bb5a941c0aa7e5db8d9235f886e56445d7",
-  "DFStringFlagRepoGitHashDynamicString": "e5fa96bb5a941c0aa7e5db8d9235f886e56445d7",
-  "FStringFlipTimeStampFastString": "2024-01-22T19:07:08.544Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:07:08.544Z"
+  "FStringFlagRepoGitHashFastString": "f9a6bd7dbebff43cc42ccb8c129e6eeb6a0162af",
+  "DFStringFlagRepoGitHashDynamicString": "f9a6bd7dbebff43cc42ccb8c129e6eeb6a0162af",
+  "FStringFlipTimeStampFastString": "2024-01-22T19:11:35.147Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:11:35.147Z"
 }
