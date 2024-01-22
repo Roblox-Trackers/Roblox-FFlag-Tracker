@@ -10038,6 +10038,7 @@
   "DFIntWaitLiveScriptingRemoteEventPeriodMs": "20000",
   "FFlagCapsScriptGlobals_Rollout": "True;60;2024-01-22T17:13:55",
   "FFlagCapturesLogIsUnder13FromContext": "True",
+  "FFlagReceivingOpAfterLiveEditingStateDestroyed": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10437,8 +10438,8 @@
   "FFlagDebugForceFSMCPULightCulling": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache;10;2024-01-22T17:15:01",
-  "FStringFlagRepoGitHashFastString": "299dd313a55591a35ca03a0f00222e022fad2576",
-  "DFStringFlagRepoGitHashDynamicString": "299dd313a55591a35ca03a0f00222e022fad2576",
-  "FStringFlipTimeStampFastString": "2024-01-22T17:16:13.720Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T17:16:13.720Z"
+  "FStringFlagRepoGitHashFastString": "df0ea9edefdba83abc59499bea0061be60689bf0",
+  "DFStringFlagRepoGitHashDynamicString": "df0ea9edefdba83abc59499bea0061be60689bf0",
+  "FStringFlipTimeStampFastString": "2024-01-22T17:18:09.276Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T17:18:09.276Z"
 }
