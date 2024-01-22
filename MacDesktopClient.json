@@ -10068,9 +10068,11 @@
   "FFlagFixEnvMapRaycastUpdateFlickering_Rollout": "True;60;2024-01-22T19:13:25",
   "FFlagEnvMapMergeRooms_Rollout": "True;60;2024-01-22T19:13:48",
   "FFlagMoodDampingIxpExperimentation_Rollout": "True;60;2024-01-22T19:24:49",
-  "AllowVideoPreRoll": "True",
+  "AxisAdornmentGrabSize": "12",
   "FFlagRemoveHardwareTelemetry": "True",
   "FFlagVideoEnableCMCD3": "True",
+  "AllowVideoPreRoll": "True",
+  "FFlagVoiceInputUseNewAudioApi5_Rollout": "True;60;2024-01-22T19:42:28",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10084,7 +10086,6 @@
   "FFlagFaceAnimatorGuardVideoAnimationEnabled": "True",
   "FFlagNewScriptContext3": "True",
   "FFlagGpuGeometryManager12": "True",
-  "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -10362,8 +10363,8 @@
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "2500",
-  "FStringFlagRepoGitHashFastString": "17dcea97f037df49085a7fda036156097f5bb8c2",
-  "DFStringFlagRepoGitHashDynamicString": "17dcea97f037df49085a7fda036156097f5bb8c2",
-  "FStringFlipTimeStampFastString": "2024-01-22T19:41:23.411Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:41:23.411Z"
+  "FStringFlagRepoGitHashFastString": "44440232967dcb15c293aa90a10a933279dc3321",
+  "DFStringFlagRepoGitHashDynamicString": "44440232967dcb15c293aa90a10a933279dc3321",
+  "FStringFlipTimeStampFastString": "2024-01-22T19:42:45.187Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:42:45.187Z"
 }
