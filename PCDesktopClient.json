@@ -10054,7 +10054,6 @@
   "FFlagVideoEnableSeekInLive": "True",
   "DFFlagEnableGenericShapecasts2": "True",
   "FFlagVideoReportErrorCode": "True",
-  "FFlagSTFSMMoreLocks_Rollout": "True;30;2024-01-22T18:29:49",
   "FFlagUseFullViewSelectorVR": "True",
   "FFlagUseAppMusicVolumePercentage": "True",
   "FFlagVideoEnableCMCD3_Rollout": "True;60;2024-01-22T18:35:24",
@@ -10068,6 +10067,7 @@
   "FFlagExtendWidgetAnalyticsWithWidgetItemIds": "True",
   "DFFlagNoPannerInterpolation_Rollout": "True;60;2024-01-22T19:03:18",
   "DFIntReduceFacialAnimationsAudioVideoMode_Rollout": "255;60;2024-01-22T19:04:00",
+  "FFlagSTFSMMoreLocks": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10355,8 +10355,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "cb38a6dfd8256175625574bd6668e28f24115a0e",
-  "DFStringFlagRepoGitHashDynamicString": "cb38a6dfd8256175625574bd6668e28f24115a0e",
-  "FStringFlipTimeStampFastString": "2024-01-22T19:04:26.606Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:04:26.606Z"
+  "FStringFlagRepoGitHashFastString": "e5fa96bb5a941c0aa7e5db8d9235f886e56445d7",
+  "DFStringFlagRepoGitHashDynamicString": "e5fa96bb5a941c0aa7e5db8d9235f886e56445d7",
+  "FStringFlipTimeStampFastString": "2024-01-22T19:07:08.544Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:07:08.544Z"
 }
