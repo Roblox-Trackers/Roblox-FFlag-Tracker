@@ -10090,6 +10090,7 @@
   "DFFlagHlsCdnUrlRewritingEnabled2_Rollout": "True;60;2024-01-22T22:11:04",
   "DFFlagFlagRolloutTestDynamicBool8_Rollout": "True;30;2024-01-22T22:12:29",
   "DFFlagAddPlayerTrial_Rollout": "True;30;2024-01-22T22:13:50",
+  "DFFlagUseNewBuildEquation_Rollout": "True;60;2024-01-22T22:14:21",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10380,8 +10381,8 @@
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "2500",
-  "FStringFlagRepoGitHashFastString": "0404a66993f176e2581e1465a8da7ae87799b579",
-  "DFStringFlagRepoGitHashDynamicString": "0404a66993f176e2581e1465a8da7ae87799b579",
-  "FStringFlipTimeStampFastString": "2024-01-22T22:14:16.769Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T22:14:16.769Z"
+  "FStringFlagRepoGitHashFastString": "5c5e58e71941b222929717bf0944ae7e48d31dc4",
+  "DFStringFlagRepoGitHashDynamicString": "5c5e58e71941b222929717bf0944ae7e48d31dc4",
+  "FStringFlipTimeStampFastString": "2024-01-22T22:14:42.521Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T22:14:42.521Z"
 }
