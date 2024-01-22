@@ -10067,7 +10067,6 @@
   "FFlagEnableSTFSMTeardown_Rollout": "True;60;2024-01-22T19:30:11",
   "FFlagRemoveHardwareTelemetry": "True",
   "FFlagVideoEnableCMCD3": "True",
-  "FFlagEnableCullableSceneOctree5_Rollout": "True;30;2024-01-22T19:41:47",
   "FFlagVoiceInputUseNewAudioApi5_Rollout": "True;60;2024-01-22T19:42:28",
   "DFFlagVoiceChatV2CapabilityCheckDefault_Rollout": "True;30;2024-01-22T19:48:18",
   "DFFlagReduceFacialAnimationsWhenFacsStreaming2": "True",
@@ -10077,6 +10076,7 @@
   "DFFlagNoPannerInterpolation": "True",
   "FIntVideoMaxBufferMs": "20000",
   "FIntVideoMinBufferMs": "15000",
+  "FFlagEnableCullableSceneOctree5": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10476,8 +10476,8 @@
   "FFlagDebugForceFSMCPULightCulling": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
-  "FStringFlagRepoGitHashFastString": "43000d9bfc038a6eabb9411715690c405deac5c4",
-  "DFStringFlagRepoGitHashDynamicString": "43000d9bfc038a6eabb9411715690c405deac5c4",
-  "FStringFlipTimeStampFastString": "2024-01-22T20:15:29.211Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T20:15:29.211Z"
+  "FStringFlagRepoGitHashFastString": "6f73fdd0db4feb0fdcc60d3cfdaf2dba262a7a28",
+  "DFStringFlagRepoGitHashDynamicString": "6f73fdd0db4feb0fdcc60d3cfdaf2dba262a7a28",
+  "FStringFlipTimeStampFastString": "2024-01-22T20:16:11.497Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T20:16:11.497Z"
 }
