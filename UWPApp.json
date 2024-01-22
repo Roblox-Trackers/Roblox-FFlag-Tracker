@@ -10075,6 +10075,8 @@
   "DFFlagEnableTeamCreateRemoteSaveValidator_Rollout": "True;20;2024-01-22T20:05:33",
   "DFIntReduceFacialAnimationsAudioVideoMode": "255",
   "DFFlagNoPannerInterpolation": "True",
+  "FIntVideoMaxBufferMs": "20000",
+  "FIntVideoMinBufferMs": "15000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10270,8 +10272,8 @@
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagRuntimeEnabled2": "True",
   "FFlagRuntimeEnabled3": "True",
-  "FStringFlagRepoGitHashFastString": "d8d0786291b1a5c01dabcbcc40dc23d540f6c44e",
-  "DFStringFlagRepoGitHashDynamicString": "d8d0786291b1a5c01dabcbcc40dc23d540f6c44e",
-  "FStringFlipTimeStampFastString": "2024-01-22T20:11:21.320Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T20:11:21.320Z"
+  "FStringFlagRepoGitHashFastString": "43000d9bfc038a6eabb9411715690c405deac5c4",
+  "DFStringFlagRepoGitHashDynamicString": "43000d9bfc038a6eabb9411715690c405deac5c4",
+  "FStringFlipTimeStampFastString": "2024-01-22T20:15:29.211Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T20:15:29.211Z"
 }
