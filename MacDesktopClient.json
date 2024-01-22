@@ -10059,7 +10059,6 @@
   "DFFlagReduceFacialAnimationsWhenFacsStreaming2_Rollout": "True;60;2024-01-22T18:42:43",
   "FFlagAudioPlayerEndedReplicationFix": "True",
   "FFlagFixExperienceLaunchBeginTimestamp": "True",
-  "FFlagRemoveHardwareTelemetry_Rollout": "True;30;2024-01-22T18:55:38",
   "DFFlagControllerManagerCanThrottle": "True",
   "FFlagExtendWidgetAnalyticsWithWidgetItemIds": "True",
   "DFFlagNoPannerInterpolation_Rollout": "True;60;2024-01-22T19:03:18",
@@ -10071,6 +10070,7 @@
   "FFlagEnvMapMergeRooms_Rollout": "True;60;2024-01-22T19:13:48",
   "FFlagMoodDampingIxpExperimentation_Rollout": "True;60;2024-01-22T19:24:49",
   "AllowVideoPreRoll": "True",
+  "FFlagRemoveHardwareTelemetry": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10362,8 +10362,8 @@
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "2500",
-  "FStringFlagRepoGitHashFastString": "a6d476e7e7415dbfd318f19ba0594073af185e11",
-  "DFStringFlagRepoGitHashDynamicString": "a6d476e7e7415dbfd318f19ba0594073af185e11",
-  "FStringFlipTimeStampFastString": "2024-01-22T19:30:41.455Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:30:41.455Z"
+  "FStringFlagRepoGitHashFastString": "54803eecff888147ee825fa551664182c21ffcfb",
+  "DFStringFlagRepoGitHashDynamicString": "54803eecff888147ee825fa551664182c21ffcfb",
+  "FStringFlipTimeStampFastString": "2024-01-22T19:31:18.663Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:31:18.663Z"
 }
