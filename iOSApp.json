@@ -10055,7 +10055,6 @@
   "FFlagUseAppMusicVolumePercentage": "True",
   "FFlagVideoDownloadFailMetrics2": "True",
   "DFFlagFastMeshSize": "True",
-  "DFFlagReduceFacialAnimationsWhenFacsStreaming2_Rollout": "True;60;2024-01-22T18:42:43",
   "FFlagAudioPlayerEndedReplicationFix": "True",
   "FFlagFixExperienceLaunchBeginTimestamp": "True",
   "DFFlagControllerManagerCanThrottle": "True",
@@ -10074,6 +10073,7 @@
   "FFlagEnableCullableSceneOctree5_Rollout": "True;30;2024-01-22T19:41:47",
   "FFlagVoiceInputUseNewAudioApi5_Rollout": "True;60;2024-01-22T19:42:28",
   "DFFlagVoiceChatV2CapabilityCheckDefault_Rollout": "True;30;2024-01-22T19:48:18",
+  "DFFlagReduceFacialAnimationsWhenFacsStreaming2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10441,8 +10441,8 @@
   "FFlagDebugGraphicsCrashOnLeaks": "False",
   "DFFlagReportInferenceResultToPerfdata": "True",
   "DFIntOOMInferenceThreshold": "6800",
-  "FStringFlagRepoGitHashFastString": "6d4832a49a044846903cd3c02fcb94789e89a999",
-  "DFStringFlagRepoGitHashDynamicString": "6d4832a49a044846903cd3c02fcb94789e89a999",
-  "FStringFlipTimeStampFastString": "2024-01-22T19:48:42.406Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:48:42.406Z"
+  "FStringFlagRepoGitHashFastString": "420d4e16a7fe1124ae4ac630b9dc143568fc6f1f",
+  "DFStringFlagRepoGitHashDynamicString": "420d4e16a7fe1124ae4ac630b9dc143568fc6f1f",
+  "FStringFlipTimeStampFastString": "2024-01-22T19:51:37.902Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-22T19:51:37.902Z"
 }
