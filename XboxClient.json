@@ -10102,7 +10102,7 @@
   "DFFlagUseWSTraceError": "True",
   "DFLogWebSocketTraceError": "Warning,6",
   "FFlagLuauVectorLiterals": "True",
-  "FFlagAssetImportReadConfigsFromRegistry": "True",
+  "FFlagAssetImportReadConfigsFromRegistry": "False",
   "FFlagAddPlaceVersionIdToOnPlacePublishPackage": "True",
   "FFlagVoiceChatDontSendTelemetryForPubIceTrickle": "True",
   "FFlagEnableActionBarTokens": "True",
@@ -10431,8 +10431,8 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagNewScriptContext3": "True",
   "FFlagLuaAppDropdownMenuFixSelectionOrder": "True",
-  "FStringFlagRepoGitHashFastString": "0c9dcbc11ea499f3a56002ebdbb6c8f2327f0915",
-  "DFStringFlagRepoGitHashDynamicString": "0c9dcbc11ea499f3a56002ebdbb6c8f2327f0915",
-  "FStringFlipTimeStampFastString": "2024-01-23T23:28:26.671Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-23T23:28:26.671Z"
+  "FStringFlagRepoGitHashFastString": "42e70dada8f2f252433cf26660ebc7177ef903a0",
+  "DFStringFlagRepoGitHashDynamicString": "42e70dada8f2f252433cf26660ebc7177ef903a0",
+  "FStringFlipTimeStampFastString": "2024-01-23T23:30:13.094Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-23T23:30:13.094Z"
 }
