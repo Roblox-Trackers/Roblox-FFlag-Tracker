@@ -10112,6 +10112,7 @@
   "DFFlagXboxVoiceChatTelemetryEnabled": "True",
   "DFFlagBufferReplicationUc": "True",
   "DFIntSimBroadPhasePairCountMax_Rollout": "10000000;60;2024-01-23T22:01:25",
+  "DFFlagFastLogElideMessageEval_Rollout": "True;60;2024-01-23T22:01:39",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -10424,8 +10425,8 @@
   "DFFlagHangDetectionForceCrash": "True",
   "FFlagRuntimeEnabled3": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "1acbbf22c393ed642bdbe594c618032d799e1265",
-  "DFStringFlagRepoGitHashDynamicString": "1acbbf22c393ed642bdbe594c618032d799e1265",
-  "FStringFlipTimeStampFastString": "2024-01-23T22:02:03.404Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-23T22:02:03.404Z"
+  "FStringFlagRepoGitHashFastString": "27efa83ce90d7a9da76ce1c33e886c4260895770",
+  "DFStringFlagRepoGitHashDynamicString": "27efa83ce90d7a9da76ce1c33e886c4260895770",
+  "FStringFlipTimeStampFastString": "2024-01-23T22:02:11.813Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-23T22:02:11.813Z"
 }
