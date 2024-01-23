@@ -10119,6 +10119,10 @@
   "DFFlagUseRbxForFileSystemOps_Rollout": "True;60;2024-01-23T23:27:43",
   "DFFlagRealtimeClientCountersV2": "True",
   "DFFlagUseRbxFilesystemSpace_Rollout": "True;60;2024-01-23T23:32:42",
+  "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2024-01-23T23:37:24",
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-01-23T23:37:38",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-01-23T23:38:18",
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-01-23T23:38:28",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10488,8 +10492,8 @@
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "459cfb7ea5999b9d40d2721a1b5d3a3be5e5828f",
-  "DFStringFlagRepoGitHashDynamicString": "459cfb7ea5999b9d40d2721a1b5d3a3be5e5828f",
-  "FStringFlipTimeStampFastString": "2024-01-23T23:37:08.992Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-23T23:37:08.992Z"
+  "FStringFlagRepoGitHashFastString": "33481f7cb4b0459cfd12d220c4f007f8fcc73261",
+  "DFStringFlagRepoGitHashDynamicString": "33481f7cb4b0459cfd12d220c4f007f8fcc73261",
+  "FStringFlipTimeStampFastString": "2024-01-23T23:39:07.784Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-23T23:39:07.784Z"
 }
