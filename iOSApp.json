@@ -10104,7 +10104,6 @@
   "FFlagLuauVectorLiterals": "True",
   "FFlagAssetImportReadConfigsFromRegistry": "True",
   "FFlagAddPlaceVersionIdToOnPlacePublishPackage": "True",
-  "FFlagXboxEnableSignalR2_Rollout": "True;60;2024-01-23T21:45:17",
   "FFlagVoiceChatDontSendTelemetryForPubIceTrickle": "True",
   "FFlagEnableActionBarTokens": "True",
   "DFFlagWebSocketSwapEvents_Rollout": "True;60;2024-01-23T21:56:01",
@@ -10115,6 +10114,7 @@
   "FFlagSimEditableMeshFixMemoryLeak": "True",
   "DFFlagRealtimeClientCountersV2_Rollout": "True;60;2024-01-23T22:27:07",
   "FFlagIrisCallBarChromeIntegration_v2": "True",
+  "FFlagXboxEnableSignalR2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10484,8 +10484,8 @@
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "e405983225c7d734cf91d03e1082447ef869b03d",
-  "DFStringFlagRepoGitHashDynamicString": "e405983225c7d734cf91d03e1082447ef869b03d",
-  "FStringFlipTimeStampFastString": "2024-01-23T22:54:01.213Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-23T22:54:01.213Z"
+  "FStringFlagRepoGitHashFastString": "e25e22e45a45d4a205e8b37dc534624a6c5f1f2f",
+  "DFStringFlagRepoGitHashDynamicString": "e25e22e45a45d4a205e8b37dc534624a6c5f1f2f",
+  "FStringFlipTimeStampFastString": "2024-01-23T22:54:18.143Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-23T22:54:18.143Z"
 }
