@@ -10088,7 +10088,6 @@
   "DFFlagHlsCdnUrlRewritingEnabled2": "True",
   "FFlagSimSolverUseNewSHInterpolator": "True",
   "FFlagFriendsCarouselPaginatedLoadingTimesReport": "True",
-  "FFlagBroadphaseMovedPrimitiveCleanup1_Rollout": "True;60;2024-01-22T23:43:08",
   "FFlagXboxBetterTaskExceptionHandling_Rollout": "True;60;2024-01-23T00:02:08",
   "DFFlagFlagRolloutTestDynamicBool8_Rollout": "False;60;2024-01-23T00:08:28",
   "DFFlagFlagRolloutTestDynamicBool6_Rollout": "True;60;2024-01-23T00:08:28",
@@ -10096,6 +10095,7 @@
   "DFFlagFlagRolloutTestDynamicBool9_Rollout": "False;60;2024-01-23T00:08:28",
   "FIntLogReportingMaxLogCount": "-1",
   "DFIntQosEventThrottle_Rollout": "100;30;2024-01-23T00:33:41",
+  "FFlagBroadphaseMovedPrimitiveCleanup1": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10382,8 +10382,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "b1cdd97234b0f188475b94760a98dc535c53f140",
-  "DFStringFlagRepoGitHashDynamicString": "b1cdd97234b0f188475b94760a98dc535c53f140",
-  "FStringFlipTimeStampFastString": "2024-01-23T00:34:17.446Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-23T00:34:17.446Z"
+  "FStringFlagRepoGitHashFastString": "e7fdb1228613b7e7cb106ce0b50be8993c358ef3",
+  "DFStringFlagRepoGitHashDynamicString": "e7fdb1228613b7e7cb106ce0b50be8993c358ef3",
+  "FStringFlipTimeStampFastString": "2024-01-23T00:51:30.840Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-23T00:51:30.840Z"
 }
