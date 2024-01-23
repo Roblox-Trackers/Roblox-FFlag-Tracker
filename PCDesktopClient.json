@@ -10115,6 +10115,11 @@
   "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagNewScriptContext3": "True",
   "FFlagGpuGeometryManager12": "True",
+  "FFlagLooksAnalyticsEmptyItemsFixes": "True",
+  "FFlagAXFixFilterNotWorkProperlyOnSearchPage": "True",
+  "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
+  "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
+  "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10389,8 +10394,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "f69e8f87aa7fbbe7c8ed0a12c05b0edcf386f492",
-  "DFStringFlagRepoGitHashDynamicString": "f69e8f87aa7fbbe7c8ed0a12c05b0edcf386f492",
-  "FStringFlipTimeStampFastString": "2024-01-23T19:59:56.291Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-23T19:59:56.291Z"
+  "FStringFlagRepoGitHashFastString": "5e64c26b32cc626ed088ff64a672083b068ee53d",
+  "DFStringFlagRepoGitHashDynamicString": "5e64c26b32cc626ed088ff64a672083b068ee53d",
+  "FStringFlipTimeStampFastString": "2024-01-23T20:09:10.996Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-23T20:09:10.996Z"
 }
