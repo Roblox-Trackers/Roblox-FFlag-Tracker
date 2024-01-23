@@ -10108,13 +10108,13 @@
   "FFlagEnableActionBarTokens": "True",
   "DFFlagXboxVoiceChatTelemetryEnabled": "True",
   "DFFlagBufferReplicationUc": "True",
-  "DFIntSimBroadPhasePairCountMax_Rollout": "10000000;60;2024-01-23T22:01:25",
-  "DFFlagFastLogElideMessageEval_Rollout": "True;60;2024-01-23T22:01:39",
   "FFlagSimEditableMeshFixMemoryLeak": "True",
   "DFFlagRealtimeClientCountersV2_Rollout": "True;60;2024-01-23T22:27:07",
   "FFlagIrisCallBarChromeIntegration_v2": "True",
   "FFlagXboxEnableSignalR2": "True",
   "DFFlagWebSocketSwapEvents": "True",
+  "DFIntSimBroadPhasePairCountMax": "10000000",
+  "DFFlagFastLogElideMessageEval": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10406,8 +10406,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "53b0d9241d54f8f71b3882c567ac275854a88ec7",
-  "DFStringFlagRepoGitHashDynamicString": "53b0d9241d54f8f71b3882c567ac275854a88ec7",
-  "FStringFlipTimeStampFastString": "2024-01-23T23:02:12.499Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-23T23:02:12.499Z"
+  "FStringFlagRepoGitHashFastString": "82033e24b6c21fa4258ea42fc71e6f0574bac307",
+  "DFStringFlagRepoGitHashDynamicString": "82033e24b6c21fa4258ea42fc71e6f0574bac307",
+  "FStringFlipTimeStampFastString": "2024-01-23T23:06:51.300Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-23T23:06:51.300Z"
 }
