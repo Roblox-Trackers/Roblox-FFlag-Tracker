@@ -10107,6 +10107,7 @@
   "FFlagAssetImportReadConfigsFromRegistry": "True",
   "FFlagAddPlaceVersionIdToOnPlacePublishPackage": "True",
   "FFlagXboxEnableSignalR2_Rollout": "True;60;2024-01-23T21:45:17",
+  "FFlagSimEditableMeshFixMemoryLeak_Rollout": "True;30;2024-01-23T21:46:02",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10303,8 +10304,8 @@
   "FFlagRuntimeEnabled2": "True",
   "FFlagRuntimeEnabled3": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "73a58ba8eb901e7142d204890584daa9e7d23b1e",
-  "DFStringFlagRepoGitHashDynamicString": "73a58ba8eb901e7142d204890584daa9e7d23b1e",
-  "FStringFlipTimeStampFastString": "2024-01-23T21:45:33.642Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-23T21:45:33.642Z"
+  "FStringFlagRepoGitHashFastString": "60e38a0a4ba46faa7644ed69a211729660a5b970",
+  "DFStringFlagRepoGitHashDynamicString": "60e38a0a4ba46faa7644ed69a211729660a5b970",
+  "FStringFlipTimeStampFastString": "2024-01-23T21:46:45.887Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-23T21:46:45.887Z"
 }
