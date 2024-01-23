@@ -10098,8 +10098,6 @@
   "FFlagEnableCallFinishedPolling": "True",
   "FFlagLuauCompileRevK": "True",
   "FFlagStudioActionManagerPluginQActions": "True",
-  "DFFlagBufferReplicationUc_Rollout": "True;60;2024-01-23T20:47:27",
-  "DFFlagXboxVoiceChatTelemetryEnabled_Rollout": "True;60;2024-01-23T20:47:52",
   "FFlagSupportEditableImageInPlugins2": "True",
   "DFFlagUseWSTraceError": "True",
   "DFLogWebSocketTraceError": "Warning,6",
@@ -10110,6 +10108,9 @@
   "FFlagSimEditableMeshFixMemoryLeak_Rollout": "True;30;2024-01-23T21:46:02",
   "FFlagVoiceChatDontSendTelemetryForPubIceTrickle": "True",
   "FFlagEnableActionBarTokens": "True",
+  "DFFlagWebSocketSwapEvents_Rollout": "True;60;2024-01-23T21:56:01",
+  "DFFlagXboxVoiceChatTelemetryEnabled": "True",
+  "DFFlagBufferReplicationUc": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10306,8 +10307,8 @@
   "FFlagRuntimeEnabled2": "True",
   "FFlagRuntimeEnabled3": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "612bd140b4abb50fdb606c4646865e5c9adceaba",
-  "DFStringFlagRepoGitHashDynamicString": "612bd140b4abb50fdb606c4646865e5c9adceaba",
-  "FStringFlipTimeStampFastString": "2024-01-23T21:56:11.946Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-23T21:56:11.946Z"
+  "FStringFlagRepoGitHashFastString": "1de335fc281b37631304f4345acdca17ca4819e5",
+  "DFStringFlagRepoGitHashDynamicString": "1de335fc281b37631304f4345acdca17ca4819e5",
+  "FStringFlipTimeStampFastString": "2024-01-23T21:56:38.224Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-23T21:56:38.224Z"
 }

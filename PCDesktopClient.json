@@ -10098,8 +10098,6 @@
   "FFlagEnableCallFinishedPolling": "True",
   "FFlagLuauCompileRevK": "True",
   "FFlagStudioActionManagerPluginQActions": "True",
-  "DFFlagBufferReplicationUc_Rollout": "True;60;2024-01-23T20:47:27",
-  "DFFlagXboxVoiceChatTelemetryEnabled_Rollout": "True;60;2024-01-23T20:47:52",
   "FFlagSupportEditableImageInPlugins2": "True",
   "DFFlagUseWSTraceError": "True",
   "DFLogWebSocketTraceError": "Warning,6",
@@ -10109,6 +10107,10 @@
   "FFlagXboxEnableSignalR2_Rollout": "True;60;2024-01-23T21:45:17",
   "FFlagSimEditableMeshFixMemoryLeak_Rollout": "True;30;2024-01-23T21:46:02",
   "FFlagVoiceChatDontSendTelemetryForPubIceTrickle": "True",
+  "FFlagEnableActionBarTokens": "True",
+  "DFFlagWebSocketSwapEvents_Rollout": "True;60;2024-01-23T21:56:01",
+  "DFFlagXboxVoiceChatTelemetryEnabled": "True",
+  "DFFlagBufferReplicationUc": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10400,8 +10402,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "bca263cb840ba729c259d6f8a0d590b4bbd8bcea",
-  "DFStringFlagRepoGitHashDynamicString": "bca263cb840ba729c259d6f8a0d590b4bbd8bcea",
-  "FStringFlipTimeStampFastString": "2024-01-23T21:50:46.700Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-23T21:50:46.700Z"
+  "FStringFlagRepoGitHashFastString": "1de335fc281b37631304f4345acdca17ca4819e5",
+  "DFStringFlagRepoGitHashDynamicString": "1de335fc281b37631304f4345acdca17ca4819e5",
+  "FStringFlipTimeStampFastString": "2024-01-23T21:56:38.224Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-23T21:56:38.224Z"
 }
