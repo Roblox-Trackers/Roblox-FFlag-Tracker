@@ -10112,6 +10112,7 @@
   "FFlagStudioActionConversionGroupXML2": "True",
   "FFlagCapsCreate": "True",
   "DFFlagAddDynamicHeadTelemetryToSessionTracking2_Rollout": "True;60;2024-01-24T18:42:20",
+  "FFlagAudioAnalyzerUseFasterSqrt_Rollout": "True;60;2024-01-24T18:45:01",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10408,8 +10409,8 @@
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "2500",
-  "FStringFlagRepoGitHashFastString": "f9f4fef9810ca795b90e050d03c0fb0c919ce40f",
-  "DFStringFlagRepoGitHashDynamicString": "f9f4fef9810ca795b90e050d03c0fb0c919ce40f",
-  "FStringFlipTimeStampFastString": "2024-01-24T18:42:45.712Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-24T18:42:45.712Z"
+  "FStringFlagRepoGitHashFastString": "3e2cfc203d8d048f0e9e7942eb67332c2f385225",
+  "DFStringFlagRepoGitHashDynamicString": "3e2cfc203d8d048f0e9e7942eb67332c2f385225",
+  "FStringFlipTimeStampFastString": "2024-01-24T18:45:33.035Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-24T18:45:33.035Z"
 }
