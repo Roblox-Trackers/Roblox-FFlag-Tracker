@@ -10131,6 +10131,7 @@
   "FFlagFixPlayStationTrophies2_Rollout": "True;60;2024-01-24T22:46:51",
   "FFlagUIBloxUseStatGroupManualSize": "True",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-01-24T23:08:22",
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2024-01-24T23:09:03",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10422,8 +10423,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "1d02c1e9aca02537ae098988eedfc0d2e3078930",
-  "DFStringFlagRepoGitHashDynamicString": "1d02c1e9aca02537ae098988eedfc0d2e3078930",
-  "FStringFlipTimeStampFastString": "2024-01-24T23:09:05.264Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-24T23:09:05.264Z"
+  "FStringFlagRepoGitHashFastString": "6a6b49731297221cd8efb18e2d6d23b4a8c68be9",
+  "DFStringFlagRepoGitHashDynamicString": "6a6b49731297221cd8efb18e2d6d23b4a8c68be9",
+  "FStringFlipTimeStampFastString": "2024-01-24T23:09:46.206Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-24T23:09:46.206Z"
 }
