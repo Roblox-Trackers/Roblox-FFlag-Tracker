@@ -10125,13 +10125,13 @@
   "FFlagEnableUGCUploadFlowAnalytics4": "True",
   "FFlagVRArcHandlesFix": "True",
   "DFFlagUseRbxForFileSystemOps": "True",
-  "FFlagLuauCompilerMinorFix_Rollout": "True;60;2024-01-24T22:45:26",
-  "FFlagFixPlayStationTrophies2_Rollout": "True;60;2024-01-24T22:46:51",
   "FFlagUIBloxUseStatGroupManualSize": "True",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-01-24T23:08:22",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2024-01-24T23:09:03",
   "DFFlagAddServerInfoToDiscoEvent": "True",
   "FFlagFixNullGameIdReportingAtDisco": "True",
+  "FFlagFixPlayStationTrophies2": "True",
+  "FFlagLuauCompilerMinorFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10501,8 +10501,8 @@
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "104f9701146cb920b1127c5e9b06be17eb055a2a",
-  "DFStringFlagRepoGitHashDynamicString": "104f9701146cb920b1127c5e9b06be17eb055a2a",
-  "FStringFlipTimeStampFastString": "2024-01-24T23:42:08.925Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-24T23:42:08.925Z"
+  "FStringFlagRepoGitHashFastString": "26aa5981557b63d706b25139dd80caef92b5ce8e",
+  "DFStringFlagRepoGitHashDynamicString": "26aa5981557b63d706b25139dd80caef92b5ce8e",
+  "FStringFlipTimeStampFastString": "2024-01-24T23:52:13.120Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-24T23:52:13.120Z"
 }
