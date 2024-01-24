@@ -10118,6 +10118,7 @@
   "FIntRuntimeMaxNumOfConditions": "3000",
   "DFFlagUseRbxFilesystemSpace_Rollout": "True;60;2024-01-24T21:09:42",
   "FFlagSimCSGV3EnableSpeedMemoryTelemetry": "True",
+  "FFlagScriptEditorLiveEditingDefaultEnable": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10410,8 +10411,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "41cec5d5df38d03232280ec41561f384ba65a942",
-  "DFStringFlagRepoGitHashDynamicString": "41cec5d5df38d03232280ec41561f384ba65a942",
-  "FStringFlipTimeStampFastString": "2024-01-24T21:16:52.031Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-24T21:16:52.031Z"
+  "FStringFlagRepoGitHashFastString": "d42a5f3062ec13e616b707be4d7c64fee37ff7b3",
+  "DFStringFlagRepoGitHashDynamicString": "d42a5f3062ec13e616b707be4d7c64fee37ff7b3",
+  "FStringFlipTimeStampFastString": "2024-01-24T21:23:38.843Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-24T21:23:38.843Z"
 }
