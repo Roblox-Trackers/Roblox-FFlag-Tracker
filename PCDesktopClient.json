@@ -10111,9 +10111,9 @@
   "FFlagIrisCallBarChromeIntegration_v2": "True",
   "FFlagStudioActionConversionGroupXML2": "True",
   "FFlagCapsCreate": "True",
-  "DFFlagAddDynamicHeadTelemetryToSessionTracking2_Rollout": "True;60;2024-01-24T18:42:20",
-  "FFlagAudioAnalyzerUseFasterSqrt_Rollout": "True;60;2024-01-24T18:45:01",
   "FFlagNavigationUseProjectionForNeighourSelection2_PlaceFilter": "True;8177119304",
+  "DFFlagAddDynamicHeadTelemetryToSessionTracking2": "True",
+  "FFlagAudioAnalyzerUseFasterSqrt": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10405,8 +10405,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "9ff93f611408a03ba0a74ecb0a2ac1dab8595d2e",
-  "DFStringFlagRepoGitHashDynamicString": "9ff93f611408a03ba0a74ecb0a2ac1dab8595d2e",
-  "FStringFlipTimeStampFastString": "2024-01-24T19:12:02.519Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-24T19:12:02.519Z"
+  "FStringFlagRepoGitHashFastString": "1201f127ca6c9a370c671a4c15a33930aa52ee6f",
+  "DFStringFlagRepoGitHashDynamicString": "1201f127ca6c9a370c671a4c15a33930aa52ee6f",
+  "FStringFlipTimeStampFastString": "2024-01-24T19:51:13.008Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-24T19:51:13.008Z"
 }
