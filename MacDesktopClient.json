@@ -10131,7 +10131,6 @@
   "DFFlagSensorUsePrimWorld_PlaceFilter": "True;15536298749",
   "FFlagLuaAppNewStreamNotificationsEnabled": "True",
   "FFlagShareLinksLaunchDataSupport": "True",
-  "FFlagFixShorthandUDim2_Rollout": "True;60;2024-01-25T22:07:59",
   "FFlagBetterBetaFeaturesDialog": "True",
   "DFFlagPerfDataOnHiveReportClientTimestamp2_Rollout": "True;60;2024-01-25T22:18:55",
   "FFlagRealtimeProtocolStudioEnabled_Rollout": "True;60;2024-01-25T22:26:03",
@@ -10142,6 +10141,7 @@
   "DFFlagFastLogElideMessageEval": "True",
   "FFlagMoveSpeedFactorUpdatesConstraints_Rollout": "True;60;2024-01-25T22:58:44",
   "FFlagCinSessionErrorMsg": "True",
+  "FFlagFixShorthandUDim2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10440,8 +10440,8 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FStringFlagRepoGitHashFastString": "7cca6c5a6b5a4d05c28420f33922cc4858607828",
-  "DFStringFlagRepoGitHashDynamicString": "7cca6c5a6b5a4d05c28420f33922cc4858607828",
-  "FStringFlipTimeStampFastString": "2024-01-25T23:11:01.894Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-25T23:11:01.894Z"
+  "FStringFlagRepoGitHashFastString": "0cf3f088351485e1fb4743426459059008971a49",
+  "DFStringFlagRepoGitHashDynamicString": "0cf3f088351485e1fb4743426459059008971a49",
+  "FStringFlipTimeStampFastString": "2024-01-25T23:16:30.410Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-25T23:16:30.410Z"
 }
