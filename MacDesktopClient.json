@@ -4603,7 +4603,7 @@
   "FFlagSupportOffCenterOriginTriangleMeshComputeExtents": "True",
   "DFFlagFlagRolloutTestDynamicBool3": "True",
   "FFlagFlagRolloutTestStaticBool0": "True",
-  "FFlagFlagRolloutTestStaticBool1": "True",
+  "FFlagFlagRolloutTestStaticBool1": "False",
   "FFlagFlagRolloutTestStaticBool3": "True",
   "FFlagFlagRolloutTestStaticBool4": "True",
   "FFlagFlagRolloutTestStaticBool5": "True",
@@ -10130,7 +10130,6 @@
   "FFlagFixNullGameIdReportingAtDisco": "True",
   "FFlagFixPlayStationTrophies2": "True",
   "FFlagLuauCompilerMinorFix": "True",
-  "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-01-25T20:11:02",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10427,8 +10426,8 @@
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "2500",
-  "FStringFlagRepoGitHashFastString": "e8dc81f2d37dd58f151d957474243deb8ae990a7",
-  "DFStringFlagRepoGitHashDynamicString": "e8dc81f2d37dd58f151d957474243deb8ae990a7",
-  "FStringFlipTimeStampFastString": "2024-01-25T20:41:23.946Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-25T20:41:23.946Z"
+  "FStringFlagRepoGitHashFastString": "64857f5588df2471b6cf3f1ab35c3b3334291e8c",
+  "DFStringFlagRepoGitHashDynamicString": "64857f5588df2471b6cf3f1ab35c3b3334291e8c",
+  "FStringFlipTimeStampFastString": "2024-01-25T21:16:40.957Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-25T21:16:40.957Z"
 }
