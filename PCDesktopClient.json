@@ -10132,6 +10132,7 @@
   "FFlagMacSyncWKCookieStoreToNSCookieStore_Rollout": "True;60;2024-01-25T21:44:09",
   "FFlagLuaAppNewStreamNotificationsEnabled": "True",
   "FFlagShareLinksLaunchDataSupport": "True",
+  "FFlagBetterBetaFeaturesDialog_Rollout": "True;1;2024-01-25T22:07:27",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10423,8 +10424,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "672d57813908c4bf9426d1cb1b1697a9323c84c8",
-  "DFStringFlagRepoGitHashDynamicString": "672d57813908c4bf9426d1cb1b1697a9323c84c8",
-  "FStringFlipTimeStampFastString": "2024-01-25T21:56:49.015Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-25T21:56:49.015Z"
+  "FStringFlagRepoGitHashFastString": "8767dcfaf4123008d3a23b980d189f7b640afe3e",
+  "DFStringFlagRepoGitHashDynamicString": "8767dcfaf4123008d3a23b980d189f7b640afe3e",
+  "FStringFlipTimeStampFastString": "2024-01-25T22:07:55.508Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-25T22:07:55.508Z"
 }
