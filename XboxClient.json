@@ -9913,7 +9913,6 @@
   "DFFlagSendStreamingTunableTargetToServerCheck": "True",
   "DFFlagUnifyGCNeededChecksForStreamingTunable": "False",
   "FFlagRelyOnCallbackInsteadOfPollingTheTargetValue": "True",
-  "DFFlagSensorUsePrimWorld": "True",
   "DFFlagNetworkStringViewIntegerConversion": "True",
   "DFFlagGCJobMoreScopesAndLabels2": "True",
   "FFlagSocialRoactChatAnalyticsChatConversationEventsV607": "True",
@@ -10130,6 +10129,8 @@
   "FFlagFixNullGameIdReportingAtDisco": "True",
   "FFlagFixPlayStationTrophies2": "True",
   "FFlagLuauCompilerMinorFix": "True",
+  "FFlagFriendsCarouselPaginationLoadingTile": "True",
+  "DFFlagSensorUsePrimWorld_PlaceFilter": "True;15536298749",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10444,8 +10445,8 @@
   "FFlagNewScriptContext3": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "FStringFlagRepoGitHashFastString": "8f2551668e1989053c5e98dc2dfe771d540ab719",
-  "DFStringFlagRepoGitHashDynamicString": "8f2551668e1989053c5e98dc2dfe771d540ab719",
-  "FStringFlipTimeStampFastString": "2024-01-25T21:23:09.778Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-25T21:23:09.778Z"
+  "FStringFlagRepoGitHashFastString": "549c666743d732563360a515928b9420c95861cd",
+  "DFStringFlagRepoGitHashDynamicString": "549c666743d732563360a515928b9420c95861cd",
+  "FStringFlipTimeStampFastString": "2024-01-25T21:24:41.072Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-25T21:24:41.072Z"
 }
