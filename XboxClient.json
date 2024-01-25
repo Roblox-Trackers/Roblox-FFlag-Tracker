@@ -10139,6 +10139,7 @@
   "FFlagLegacyConnectingMicStateFix": "True",
   "FFlagTCSConnectingMicStateFix": "True",
   "FFlagMacSyncWKCookieStoreToNSCookieStore": "True",
+  "DFFlagFastLogElideMessageEval": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10454,8 +10455,8 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "DFIntHangDetectionJobV2TimeoutMs_Rollout": "600000000;30;2024-01-25T22:53:44",
-  "FStringFlagRepoGitHashFastString": "aa63a535f258464a20dba97f48a3dcec8d997199",
-  "DFStringFlagRepoGitHashDynamicString": "aa63a535f258464a20dba97f48a3dcec8d997199",
-  "FStringFlipTimeStampFastString": "2024-01-25T22:56:21.293Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-25T22:56:21.293Z"
+  "FStringFlagRepoGitHashFastString": "afe2357a4a0fd05fffed45a6e25a105023cadde9",
+  "DFStringFlagRepoGitHashDynamicString": "afe2357a4a0fd05fffed45a6e25a105023cadde9",
+  "FStringFlipTimeStampFastString": "2024-01-25T22:57:05.190Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-25T22:57:05.190Z"
 }
