@@ -10132,7 +10132,6 @@
   "FFlagLuaAppNewStreamNotificationsEnabled": "True",
   "FFlagShareLinksLaunchDataSupport": "True",
   "FFlagBetterBetaFeaturesDialog": "True",
-  "FFlagRealtimeProtocolStudioEnabled_Rollout": "True;60;2024-01-25T22:26:03",
   "FFlagFixAudioPermissionsOutputWorkflow_Rollout": "True;60;2024-01-25T22:31:46",
   "FFlagLegacyConnectingMicStateFix": "True",
   "FFlagTCSConnectingMicStateFix": "True",
@@ -10142,6 +10141,7 @@
   "FFlagCinSessionErrorMsg": "True",
   "FFlagFixShorthandUDim2": "True",
   "DFFlagPerfDataOnHiveReportClientTimestamp2": "True",
+  "FFlagRealtimeProtocolStudioEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10436,7 +10436,7 @@
   "FFlagTenFootUiSearchLoadMore": "False",
   "FStringRealtimeClientTargetName": "XBox",
   "FFlagXboxSystemUtilDeviceName": "True",
-  "DFIntHangDetectionJobV2TimeoutMs": "6000000",
+  "DFIntHangDetectionJobV2TimeoutMs": "600000000",
   "FFlagHangDetectionJobV2": "True",
   "FFlagNewSelectionCursor2": "True",
   "FFlagLuaAppExperienceInfoPanel2": "True",
@@ -10456,9 +10456,8 @@
   "FFlagNewScriptContext3": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "DFIntHangDetectionJobV2TimeoutMs_Rollout": "600000000;30;2024-01-25T22:53:44",
-  "FStringFlagRepoGitHashFastString": "08f3c75043a92b9fa5757e2f557a05ee16224d9e",
-  "DFStringFlagRepoGitHashDynamicString": "08f3c75043a92b9fa5757e2f557a05ee16224d9e",
-  "FStringFlipTimeStampFastString": "2024-01-25T23:26:04.925Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-25T23:26:04.925Z"
+  "FStringFlagRepoGitHashFastString": "8a234a79ee906b1c65f14d12ed4cf639815a3731",
+  "DFStringFlagRepoGitHashDynamicString": "8a234a79ee906b1c65f14d12ed4cf639815a3731",
+  "FStringFlipTimeStampFastString": "2024-01-25T23:31:39.764Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-25T23:31:39.764Z"
 }
