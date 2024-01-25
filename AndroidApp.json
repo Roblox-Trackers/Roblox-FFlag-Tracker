@@ -10129,7 +10129,6 @@
   "FFlagLuauCompilerMinorFix": "True",
   "FFlagFriendsCarouselPaginationLoadingTile": "True",
   "DFFlagSensorUsePrimWorld_PlaceFilter": "True;15536298749",
-  "FFlagMacSyncWKCookieStoreToNSCookieStore_Rollout": "True;60;2024-01-25T21:44:09",
   "FFlagLuaAppNewStreamNotificationsEnabled": "True",
   "FFlagShareLinksLaunchDataSupport": "True",
   "FFlagFixShorthandUDim2_Rollout": "True;60;2024-01-25T22:07:59",
@@ -10139,6 +10138,7 @@
   "FFlagFixAudioPermissionsOutputWorkflow_Rollout": "True;60;2024-01-25T22:31:46",
   "FFlagLegacyConnectingMicStateFix": "True",
   "FFlagTCSConnectingMicStateFix": "True",
+  "FFlagMacSyncWKCookieStoreToNSCookieStore": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10537,8 +10537,8 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
-  "FStringFlagRepoGitHashFastString": "e8ec84c0d0e565b33bb96c87da3d6caf1e794615",
-  "DFStringFlagRepoGitHashDynamicString": "e8ec84c0d0e565b33bb96c87da3d6caf1e794615",
-  "FStringFlipTimeStampFastString": "2024-01-25T22:44:17.306Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-25T22:44:17.306Z"
+  "FStringFlagRepoGitHashFastString": "af5d96084f9252b00be47dea748ed3d921579c23",
+  "DFStringFlagRepoGitHashDynamicString": "af5d96084f9252b00be47dea748ed3d921579c23",
+  "FStringFlipTimeStampFastString": "2024-01-25T22:51:39.113Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-25T22:51:39.113Z"
 }
