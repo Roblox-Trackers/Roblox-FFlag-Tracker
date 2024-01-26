@@ -10136,7 +10136,6 @@
   "FFlagTCSConnectingMicStateFix": "True",
   "FFlagMacSyncWKCookieStoreToNSCookieStore": "True",
   "DFFlagFastLogElideMessageEval": "True",
-  "FFlagMoveSpeedFactorUpdatesConstraints_Rollout": "True;60;2024-01-25T22:58:44",
   "FFlagCinSessionErrorMsg": "True",
   "FFlagFixShorthandUDim2": "True",
   "DFFlagPerfDataOnHiveReportClientTimestamp2": "True",
@@ -10147,6 +10146,7 @@
   "FFlagUseCameraDevicesListener": "True",
   "FFlagGetFFlagReworkLayeredClothingVR": "True",
   "FFlagFixAvatarRotateBugVR": "True",
+  "FFlagMoveSpeedFactorUpdatesConstraints": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10516,8 +10516,8 @@
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "b38ae862470e1fd4d3d7c92153f969437356d6b9",
-  "DFStringFlagRepoGitHashDynamicString": "b38ae862470e1fd4d3d7c92153f969437356d6b9",
-  "FStringFlipTimeStampFastString": "2024-01-26T00:01:40.391Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-26T00:01:40.391Z"
+  "FStringFlagRepoGitHashFastString": "d456d027e1f0fe76ab60dd839aa77390d1b41840",
+  "DFStringFlagRepoGitHashDynamicString": "d456d027e1f0fe76ab60dd839aa77390d1b41840",
+  "FStringFlipTimeStampFastString": "2024-01-26T00:06:44.385Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-26T00:06:44.385Z"
 }
