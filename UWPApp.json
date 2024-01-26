@@ -10156,10 +10156,10 @@
   "FFlagRemoveVirtualEventsExperiment": "True",
   "FFlagEnableCrossSessionEffectPredictorShadow3": "True",
   "FFlagSimAdaptivePreContactReorder3": "True",
-  "DFFlagSimAlwaysClearNOUMemory_Rollout": "True;60;2024-01-26T19:57:51",
   "DFIntFTUXDHAvatarLoadTimeThrottleHundredthsPercent": "10000",
   "FFlagFTUXDHIxpExperimentation": "True",
   "FFlagSimAdaptiveCheckPendingWakeAssemblies": "True",
+  "DFFlagSimAlwaysClearNOUMemory": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10356,8 +10356,8 @@
   "FFlagRuntimeEnabled2": "True",
   "FFlagRuntimeEnabled3": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "5d9c7871285c496a0c6e6a54cff93d7eef31699e",
-  "DFStringFlagRepoGitHashDynamicString": "5d9c7871285c496a0c6e6a54cff93d7eef31699e",
-  "FStringFlipTimeStampFastString": "2024-01-26T20:26:05.891Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-26T20:26:05.891Z"
+  "FStringFlagRepoGitHashFastString": "296af2c14b77d617799cb249fbbec60f2f3b3345",
+  "DFStringFlagRepoGitHashDynamicString": "296af2c14b77d617799cb249fbbec60f2f3b3345",
+  "FStringFlipTimeStampFastString": "2024-01-26T21:06:52.363Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-26T21:06:52.363Z"
 }
