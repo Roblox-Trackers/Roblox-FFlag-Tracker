@@ -10148,6 +10148,8 @@
   "FFlagFixAvatarRotateBugVR": "True",
   "FFlagMoveSpeedFactorUpdatesConstraints": "True",
   "FFlagEnableStyleProviderRemainingCleanUp": "True",
+  "DFFlagMemoryStoreFixClientApiNames": "True",
+  "DFFlagMemoryStoreHashMapListItemsFixClientApiNames": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10546,8 +10548,8 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
-  "FStringFlagRepoGitHashFastString": "3508d09dbb8f968f69a9929b91d83cf18a055142",
-  "DFStringFlagRepoGitHashDynamicString": "3508d09dbb8f968f69a9929b91d83cf18a055142",
-  "FStringFlipTimeStampFastString": "2024-01-26T00:19:16.818Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-26T00:19:16.818Z"
+  "FStringFlagRepoGitHashFastString": "dfc6f5c7e689fe0f08baef2ef9c0a130d93b0868",
+  "DFStringFlagRepoGitHashDynamicString": "dfc6f5c7e689fe0f08baef2ef9c0a130d93b0868",
+  "FStringFlipTimeStampFastString": "2024-01-26T00:43:05.819Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-26T00:43:05.819Z"
 }
