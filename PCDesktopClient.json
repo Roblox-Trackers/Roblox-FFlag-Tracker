@@ -10153,8 +10153,6 @@
   "FFlagLiveScriptingCleanupGuidConnection": "True",
   "FFlagHeapProfilerDenseStorage": "True",
   "FFlagEnableNavbarLabelExperiment2": "True",
-  "DFIntFTUXDHAvatarLoadTimeThrottleHundredthsPercent_Rollout": "10000;60;2024-01-26T19:00:31",
-  "FFlagFTUXDHIxpExperimentation_Rollout": "True;60;2024-01-26T19:00:31",
   "FFlagRemoveVirtualEventsExperiment": "True",
   "FFlagSimAdaptiveCheckPendingWakeAssemblies_Rollout": "True;60;2024-01-26T19:15:56",
   "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2024-01-26T19:19:36",
@@ -10162,6 +10160,8 @@
   "FFlagEnableCrossSessionEffectPredictorShadow3": "True",
   "FFlagSimAdaptivePreContactReorder3": "True",
   "DFFlagSimAlwaysClearNOUMemory_Rollout": "True;60;2024-01-26T19:57:51",
+  "DFIntFTUXDHAvatarLoadTimeThrottleHundredthsPercent": "10000",
+  "FFlagFTUXDHIxpExperimentation": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10454,8 +10454,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "6c18c927a5145e51b1759ef21cf3ec4475624569",
-  "DFStringFlagRepoGitHashDynamicString": "6c18c927a5145e51b1759ef21cf3ec4475624569",
-  "FStringFlipTimeStampFastString": "2024-01-26T19:58:19.257Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-26T19:58:19.257Z"
+  "FStringFlagRepoGitHashFastString": "c3ecd56dba41583f1d7bbd8877afc8501a4b4265",
+  "DFStringFlagRepoGitHashDynamicString": "c3ecd56dba41583f1d7bbd8877afc8501a4b4265",
+  "FStringFlipTimeStampFastString": "2024-01-26T20:06:21.398Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-26T20:06:21.398Z"
 }
