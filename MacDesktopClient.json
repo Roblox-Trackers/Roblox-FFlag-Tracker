@@ -10169,6 +10169,7 @@
   "FFlagEnableUGCUploadSupport3": "True",
   "FFlagImporterOpensAvatarPreviewerBetaCheck": "True",
   "FIntRccLinuxMSTTEnableOnThresholdHundredthsPercent": "500",
+  "DFFlagDebugRccLinuxMSTTEnableOnThreshold": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10467,8 +10468,8 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FStringFlagRepoGitHashFastString": "18d42a9067cc87ef67150f0f367c8e44eb98a9ca",
-  "DFStringFlagRepoGitHashDynamicString": "18d42a9067cc87ef67150f0f367c8e44eb98a9ca",
-  "FStringFlipTimeStampFastString": "2024-01-29T18:10:04.250Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T18:10:04.250Z"
+  "FStringFlagRepoGitHashFastString": "74d3e881bcc09e58840e94484361cc762d061d75",
+  "DFStringFlagRepoGitHashDynamicString": "74d3e881bcc09e58840e94484361cc762d061d75",
+  "FStringFlipTimeStampFastString": "2024-01-29T18:11:27.388Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T18:11:27.388Z"
 }
