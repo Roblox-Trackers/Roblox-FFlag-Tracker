@@ -10187,6 +10187,8 @@
   "DFFlagPerformanceControlPlannerBailIfNoProgress": "True",
   "DFFlagEnableTeleportGuiRootContainerCheck_Rollout": "True;60;2024-01-29T21:53:03",
   "FFlagFixOptimizeSkeletonGetBoneIndexByPart_Rollout": "True;60;2024-01-29T21:53:21",
+  "FFlagFixIsInitialized_Rollout": "True;60;2024-01-29T21:53:38",
+  "FFlagEnableMmapForMemProfStorageFlushing3_Rollout": "True;30;2024-01-29T21:54:51",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10501,8 +10503,8 @@
   "FFlagNewScriptContext3": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "FStringFlagRepoGitHashFastString": "c453ebd519d92a9769c1b39d421e9c698374984b",
-  "DFStringFlagRepoGitHashDynamicString": "c453ebd519d92a9769c1b39d421e9c698374984b",
-  "FStringFlipTimeStampFastString": "2024-01-29T21:53:45.783Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T21:53:45.783Z"
+  "FStringFlagRepoGitHashFastString": "d74dc759158896b7a999abeabdd20f741dc73a82",
+  "DFStringFlagRepoGitHashDynamicString": "d74dc759158896b7a999abeabdd20f741dc73a82",
+  "FStringFlipTimeStampFastString": "2024-01-29T21:55:10.992Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T21:55:10.992Z"
 }
