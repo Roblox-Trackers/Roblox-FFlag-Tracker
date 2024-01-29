@@ -10183,9 +10183,6 @@
   "FFlagEnableLoginAccountSelectorRelease1": "True",
   "FFlagFixEnvMapAsyncAsanIssue": "True",
   "DFFlagPerformanceControlPlannerBailIfNoProgress": "True",
-  "DFFlagEnableTeleportGuiRootContainerCheck_Rollout": "True;60;2024-01-29T21:53:03",
-  "FFlagFixOptimizeSkeletonGetBoneIndexByPart_Rollout": "True;60;2024-01-29T21:53:21",
-  "FFlagFixIsInitialized_Rollout": "True;60;2024-01-29T21:53:38",
   "FFlagScriptProfilerPluginFiltering": "True",
   "FFlagDontProcessInputForScreenGuisUnderBlur": "True",
   "FFlagPackageUpdateNestedPackageUnmodified": "True",
@@ -10201,6 +10198,9 @@
   "FFlagReportAnythingIncludeDiscardStatsInReport": "True",
   "DFFlagSimSolverCorrelateExplosionsWithSprings": "True",
   "FFlagPlatformCloudStorageService_Rollout": "True;60;2024-01-29T22:57:02",
+  "FFlagFixOptimizeSkeletonGetBoneIndexByPart": "True",
+  "DFFlagEnableTeleportGuiRootContainerCheck": "True",
+  "FFlagFixIsInitialized": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10571,8 +10571,8 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagNewScriptContext3": "True",
   "FFlagEnableMmapForMemProfStorageFlushing3_Rollout": "True;60;2024-01-29T22:29:19",
-  "FStringFlagRepoGitHashFastString": "8cdcb8f71258971448045bfab475ef2de9df277b",
-  "DFStringFlagRepoGitHashDynamicString": "8cdcb8f71258971448045bfab475ef2de9df277b",
-  "FStringFlipTimeStampFastString": "2024-01-29T22:57:24.177Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T22:57:24.177Z"
+  "FStringFlagRepoGitHashFastString": "45ff5cbeaa0191a3cdce7386a77f31bb8ad07e6a",
+  "DFStringFlagRepoGitHashDynamicString": "45ff5cbeaa0191a3cdce7386a77f31bb8ad07e6a",
+  "FStringFlipTimeStampFastString": "2024-01-29T23:01:18.821Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T23:01:18.821Z"
 }
