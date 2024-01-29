@@ -10179,6 +10179,7 @@
   "FFlagSimdBvhRayCast": "True",
   "FFlagFixEnvMapAsyncAsanIssue_Rollout": "True;60;2024-01-29T20:33:13",
   "DFFlagPerformanceControlPlannerBailIfNoProgress_Rollout": "True;60;2024-01-29T20:41:37",
+  "FFlagScriptProfilerPluginFiltering_Rollout": "True;60;2024-01-29T20:51:46",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10548,8 +10549,8 @@
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "cb773b810cf379637c388aa244694897982a4fcd",
-  "DFStringFlagRepoGitHashDynamicString": "cb773b810cf379637c388aa244694897982a4fcd",
-  "FStringFlipTimeStampFastString": "2024-01-29T20:46:31.437Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T20:46:31.437Z"
+  "FStringFlagRepoGitHashFastString": "6f63cb2aab4791fc6b6e06425760b78f74e85fe1",
+  "DFStringFlagRepoGitHashDynamicString": "6f63cb2aab4791fc6b6e06425760b78f74e85fe1",
+  "FStringFlipTimeStampFastString": "2024-01-29T20:52:03.166Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T20:52:03.166Z"
 }
