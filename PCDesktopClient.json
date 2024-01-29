@@ -10182,6 +10182,7 @@
   "FFlagScriptProfilerPluginFiltering_Rollout": "True;60;2024-01-29T20:51:46",
   "FFlagFixAXRouteForPPEOutsideAX": "True",
   "FFlagAXNoLookAroundInPPE": "True",
+  "FFlagEnableOtpEmailLoginRelease1": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10474,8 +10475,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "94ae93a207bb6042a63dd22092bf9abdff66bb83",
-  "DFStringFlagRepoGitHashDynamicString": "94ae93a207bb6042a63dd22092bf9abdff66bb83",
-  "FStringFlipTimeStampFastString": "2024-01-29T21:34:45.412Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T21:34:45.412Z"
+  "FStringFlagRepoGitHashFastString": "b5fd55268188a23d362dcd1fb51fe4cced14ef63",
+  "DFStringFlagRepoGitHashDynamicString": "b5fd55268188a23d362dcd1fb51fe4cced14ef63",
+  "FStringFlipTimeStampFastString": "2024-01-29T21:47:51.880Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T21:47:51.880Z"
 }
