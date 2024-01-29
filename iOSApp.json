@@ -10170,7 +10170,6 @@
   "FIntRccLinuxMSTTEnableOnThresholdHundredthsPercent": "500",
   "DFFlagDebugRccLinuxMSTTEnableOnThreshold": "True",
   "DFFlagMSTTDumpTelemetryIsBlocking": "True",
-  "DFFlagRayAABBRefactor_Rollout": "True;60;2024-01-29T18:28:56",
   "FFlagXboxRemoveGAReporter_Rollout": "True;60;2024-01-29T18:38:57",
   "FFlagEnablePartialPurchaseForLooksSupport": "True",
   "FFlagGpuGeometryManagerAndroidBufferPerAllocation": "True",
@@ -10178,6 +10177,7 @@
   "FFlagPathfindingUseTerrainOffset_Rollout": "True;60;2024-01-29T18:57:56",
   "FFlagRemoveEnvMapLightgridCPUDependency3_Rollout": "True;60;2024-01-29T19:05:11",
   "FFlagSimdBvhRayCast_Rollout": "True;60;2024-01-29T19:09:28",
+  "DFFlagRayAABBRefactor": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10547,8 +10547,8 @@
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "169524b424d181262e17dfed2d2d65789d2a6c3b",
-  "DFStringFlagRepoGitHashDynamicString": "169524b424d181262e17dfed2d2d65789d2a6c3b",
-  "FStringFlipTimeStampFastString": "2024-01-29T19:12:59.178Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T19:12:59.178Z"
+  "FStringFlagRepoGitHashFastString": "735fb4333b180d5a445b3bc0cbf5b62e55e03400",
+  "DFStringFlagRepoGitHashDynamicString": "735fb4333b180d5a445b3bc0cbf5b62e55e03400",
+  "FStringFlipTimeStampFastString": "2024-01-29T19:38:54.962Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T19:38:54.962Z"
 }
