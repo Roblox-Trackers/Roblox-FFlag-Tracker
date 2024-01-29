@@ -10161,7 +10161,6 @@
   "DFFlagSimAlwaysClearNOUMemory": "True",
   "FFlagACEFixEditorControllerClamp": "True",
   "FFlagLogRecordActivations": "True",
-  "DFFlagMSTTDumpTelemetryIsBlocking_Rollout": "True;60;2024-01-29T17:17:03",
   "FFlagUseThumbnailUrlForContactPeekView": "True",
   "FFlagAvatarPreviewerToolbarButton": "True",
   "FFlagEnableAvatarCompatibilityPreviewer3": "True",
@@ -10170,6 +10169,7 @@
   "FFlagImporterOpensAvatarPreviewerBetaCheck": "True",
   "FIntRccLinuxMSTTEnableOnThresholdHundredthsPercent": "500",
   "DFFlagDebugRccLinuxMSTTEnableOnThreshold": "True",
+  "DFFlagMSTTDumpTelemetryIsBlocking": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10484,8 +10484,8 @@
   "FFlagNewScriptContext3": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "FStringFlagRepoGitHashFastString": "74d3e881bcc09e58840e94484361cc762d061d75",
-  "DFStringFlagRepoGitHashDynamicString": "74d3e881bcc09e58840e94484361cc762d061d75",
-  "FStringFlipTimeStampFastString": "2024-01-29T18:11:27.388Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T18:11:27.388Z"
+  "FStringFlagRepoGitHashFastString": "42abfcb9714d3ea6da43005a81890da5441bfbdf",
+  "DFStringFlagRepoGitHashDynamicString": "42abfcb9714d3ea6da43005a81890da5441bfbdf",
+  "FStringFlipTimeStampFastString": "2024-01-29T18:21:12.101Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T18:21:12.101Z"
 }
