@@ -10172,12 +10172,11 @@
   "DFFlagMSTTDumpTelemetryIsBlocking": "True",
   "FFlagEnablePartialPurchaseForLooksSupport": "True",
   "FFlagGpuGeometryManagerAndroidBufferPerAllocation": "True",
-  "DFFlagEnablePerfMSTTEnabledFlag_Rollout": "True;60;2024-01-29T18:57:16",
-  "FFlagPathfindingUseTerrainOffset_Rollout": "True;60;2024-01-29T18:57:56",
   "FFlagRemoveEnvMapLightgridCPUDependency3_Rollout": "True;60;2024-01-29T19:05:11",
   "FFlagSimdBvhRayCast_Rollout": "True;60;2024-01-29T19:09:28",
   "DFFlagRayAABBRefactor": "True",
   "FFlagXboxRemoveGAReporter": "True",
+  "FFlagPathfindingUseTerrainOffset": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10492,8 +10491,8 @@
   "FFlagNewScriptContext3": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "FStringFlagRepoGitHashFastString": "3d90eb1caf08d1490d9d90d9fcfa53cd46e20c5c",
-  "DFStringFlagRepoGitHashDynamicString": "3d90eb1caf08d1490d9d90d9fcfa53cd46e20c5c",
-  "FStringFlipTimeStampFastString": "2024-01-29T19:55:09.156Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T19:55:09.156Z"
+  "FStringFlagRepoGitHashFastString": "3991d7674e432f2e52d797676e239b86c40e74f6",
+  "DFStringFlagRepoGitHashDynamicString": "3991d7674e432f2e52d797676e239b86c40e74f6",
+  "FStringFlipTimeStampFastString": "2024-01-29T20:06:32.903Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T20:06:32.903Z"
 }
