@@ -10170,7 +10170,6 @@
   "FIntRccLinuxMSTTEnableOnThresholdHundredthsPercent": "500",
   "DFFlagDebugRccLinuxMSTTEnableOnThreshold": "True",
   "DFFlagMSTTDumpTelemetryIsBlocking": "True",
-  "FFlagXboxRemoveGAReporter_Rollout": "True;60;2024-01-29T18:38:57",
   "FFlagEnablePartialPurchaseForLooksSupport": "True",
   "FFlagGpuGeometryManagerAndroidBufferPerAllocation": "True",
   "DFFlagEnablePerfMSTTEnabledFlag_Rollout": "True;60;2024-01-29T18:57:16",
@@ -10178,6 +10177,7 @@
   "FFlagRemoveEnvMapLightgridCPUDependency3_Rollout": "True;60;2024-01-29T19:05:11",
   "FFlagSimdBvhRayCast_Rollout": "True;60;2024-01-29T19:09:28",
   "DFFlagRayAABBRefactor": "True",
+  "FFlagXboxRemoveGAReporter": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10576,8 +10576,8 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
-  "FStringFlagRepoGitHashFastString": "735fb4333b180d5a445b3bc0cbf5b62e55e03400",
-  "DFStringFlagRepoGitHashDynamicString": "735fb4333b180d5a445b3bc0cbf5b62e55e03400",
-  "FStringFlipTimeStampFastString": "2024-01-29T19:38:54.962Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T19:38:54.962Z"
+  "FStringFlagRepoGitHashFastString": "e16f294b9d7a2c30c1ccc45a10e2040bfdaa1d6d",
+  "DFStringFlagRepoGitHashDynamicString": "e16f294b9d7a2c30c1ccc45a10e2040bfdaa1d6d",
+  "FStringFlipTimeStampFastString": "2024-01-29T19:46:08.005Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T19:46:08.005Z"
 }
