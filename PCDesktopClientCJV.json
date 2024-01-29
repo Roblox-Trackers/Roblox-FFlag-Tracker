@@ -10182,7 +10182,6 @@
   "FFlagEnableOtpEmailLoginRelease1": "True",
   "FFlagEnableLoginAccountSelectorRelease1": "True",
   "FFlagFixEnvMapAsyncAsanIssue": "True",
-  "DFFlagSimSolverCorrelateExplosionsWithSprings_Rollout": "True;60;2024-01-29T21:49:33",
   "DFFlagPerformanceControlPlannerBailIfNoProgress": "True",
   "DFFlagEnableTeleportGuiRootContainerCheck_Rollout": "True;60;2024-01-29T21:53:03",
   "FFlagFixOptimizeSkeletonGetBoneIndexByPart_Rollout": "True;60;2024-01-29T21:53:21",
@@ -10200,6 +10199,7 @@
   "FFlagEnableCommunityLinksClickLogging": "True",
   "FFlagReportAnythingAvatarIdentificationEdgeCaseFix": "True",
   "FFlagReportAnythingIncludeDiscardStatsInReport": "True",
+  "DFFlagSimSolverCorrelateExplosionsWithSprings": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10492,8 +10492,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "839dae6d1bdc65579b11d8b303ec21564e9338fb",
-  "DFStringFlagRepoGitHashDynamicString": "839dae6d1bdc65579b11d8b303ec21564e9338fb",
-  "FStringFlipTimeStampFastString": "2024-01-29T22:49:48.411Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T22:49:48.411Z"
+  "FStringFlagRepoGitHashFastString": "f75e442937416c6ff49b29498aacd17552f6108d",
+  "DFStringFlagRepoGitHashDynamicString": "f75e442937416c6ff49b29498aacd17552f6108d",
+  "FStringFlipTimeStampFastString": "2024-01-29T22:56:27.750Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T22:56:27.750Z"
 }
