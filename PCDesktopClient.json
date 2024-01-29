@@ -10164,6 +10164,11 @@
   "FFlagLogRecordActivations": "True",
   "DFFlagMSTTDumpTelemetryIsBlocking_Rollout": "True;60;2024-01-29T17:17:03",
   "FFlagUseThumbnailUrlForContactPeekView": "True",
+  "FFlagAvatarPreviewerToolbarButton": "True",
+  "FFlagEnableAvatarCompatibilityPreviewer3": "True",
+  "FFlagEnableUGCBodyUploadFlow8": "True",
+  "FFlagEnableUGCUploadSupport3": "True",
+  "FFlagImporterOpensAvatarPreviewerBetaCheck": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10456,8 +10461,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "17ed309d8a564f912dc8e898089e0398775e7185",
-  "DFStringFlagRepoGitHashDynamicString": "17ed309d8a564f912dc8e898089e0398775e7185",
-  "FStringFlipTimeStampFastString": "2024-01-29T17:21:22.595Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T17:21:22.595Z"
+  "FStringFlagRepoGitHashFastString": "e14e7dad638036dd371ae23a6957dcc9c12ec233",
+  "DFStringFlagRepoGitHashDynamicString": "e14e7dad638036dd371ae23a6957dcc9c12ec233",
+  "FStringFlipTimeStampFastString": "2024-01-29T17:56:44.602Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T17:56:44.602Z"
 }
