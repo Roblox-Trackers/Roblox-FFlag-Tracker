@@ -10177,13 +10177,14 @@
   "FFlagPathfindingUseTerrainOffset": "True",
   "FFlagRemoveEnvMapLightgridCPUDependency3": "True",
   "FFlagSimdBvhRayCast": "True",
-  "DFFlagPerformanceControlPlannerBailIfNoProgress_Rollout": "True;60;2024-01-29T20:41:37",
   "FFlagScriptProfilerPluginFiltering_Rollout": "True;60;2024-01-29T20:51:46",
   "FFlagFixAXRouteForPPEOutsideAX": "True",
   "FFlagAXNoLookAroundInPPE": "True",
   "FFlagEnableOtpEmailLoginRelease1": "True",
   "FFlagEnableLoginAccountSelectorRelease1": "True",
   "FFlagFixEnvMapAsyncAsanIssue": "True",
+  "DFFlagSimSolverCorrelateExplosionsWithSprings_Rollout": "True;60;2024-01-29T21:49:33",
+  "DFFlagPerformanceControlPlannerBailIfNoProgress": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10477,8 +10478,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "515a7de4de4eddfde6917c6712b2770b3a3337d7",
-  "DFStringFlagRepoGitHashDynamicString": "515a7de4de4eddfde6917c6712b2770b3a3337d7",
-  "FStringFlipTimeStampFastString": "2024-01-29T21:48:29.804Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T21:48:29.804Z"
+  "FStringFlagRepoGitHashFastString": "f96c192d8446fe6501dd7310703109634697c07b",
+  "DFStringFlagRepoGitHashDynamicString": "f96c192d8446fe6501dd7310703109634697c07b",
+  "FStringFlipTimeStampFastString": "2024-01-29T21:50:10.020Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T21:50:10.020Z"
 }
