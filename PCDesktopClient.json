@@ -10176,6 +10176,7 @@
   "FFlagGpuGeometryManagerAndroidBufferPerAllocation": "True",
   "DFFlagEnablePerfMSTTEnabledFlag_Rollout": "True;60;2024-01-29T18:57:16",
   "FFlagPathfindingUseTerrainOffset_Rollout": "True;60;2024-01-29T18:57:56",
+  "FFlagRemoveEnvMapLightgridCPUDependency3_Rollout": "True;60;2024-01-29T19:05:11",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10468,8 +10469,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "93c009a3780ae0b8e1db3148bf18cf3d515e7d01",
-  "DFStringFlagRepoGitHashDynamicString": "93c009a3780ae0b8e1db3148bf18cf3d515e7d01",
-  "FStringFlipTimeStampFastString": "2024-01-29T18:58:21.131Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T18:58:21.131Z"
+  "FStringFlagRepoGitHashFastString": "c8b28f5f1f34139760317cbeb81bb3a4d3fadaf1",
+  "DFStringFlagRepoGitHashDynamicString": "c8b28f5f1f34139760317cbeb81bb3a4d3fadaf1",
+  "FStringFlipTimeStampFastString": "2024-01-29T19:05:39.233Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T19:05:39.233Z"
 }
