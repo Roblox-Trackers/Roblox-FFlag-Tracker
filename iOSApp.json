@@ -10177,7 +10177,6 @@
   "FFlagPathfindingUseTerrainOffset": "True",
   "FFlagRemoveEnvMapLightgridCPUDependency3": "True",
   "FFlagSimdBvhRayCast": "True",
-  "FFlagScriptProfilerPluginFiltering_Rollout": "True;60;2024-01-29T20:51:46",
   "FFlagFixAXRouteForPPEOutsideAX": "True",
   "FFlagAXNoLookAroundInPPE": "True",
   "FFlagEnableOtpEmailLoginRelease1": "True",
@@ -10189,6 +10188,7 @@
   "FFlagFixOptimizeSkeletonGetBoneIndexByPart_Rollout": "True;60;2024-01-29T21:53:21",
   "FFlagFixIsInitialized_Rollout": "True;60;2024-01-29T21:53:38",
   "AllowVideoPreRoll": "True",
+  "FFlagScriptProfilerPluginFiltering": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -10558,8 +10558,8 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagNewScriptContext3": "True",
   "FFlagEnableMmapForMemProfStorageFlushing3": "False",
-  "FStringFlagRepoGitHashFastString": "d74dc759158896b7a999abeabdd20f741dc73a82",
-  "DFStringFlagRepoGitHashDynamicString": "d74dc759158896b7a999abeabdd20f741dc73a82",
-  "FStringFlipTimeStampFastString": "2024-01-29T21:55:10.992Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-29T21:55:10.992Z"
+  "FStringFlagRepoGitHashFastString": "7c9aea973fee177294ea0d6149229e12f77736c6",
+  "DFStringFlagRepoGitHashDynamicString": "7c9aea973fee177294ea0d6149229e12f77736c6",
+  "FStringFlipTimeStampFastString": "2024-01-29T21:56:14.769Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-29T21:56:14.769Z"
 }
