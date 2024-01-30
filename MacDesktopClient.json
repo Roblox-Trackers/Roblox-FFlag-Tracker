@@ -10225,6 +10225,9 @@
   "FFlagAllowSurfaceSelectionJumping": "True",
   "DFFlagEnableThumbnailTextureLoadTimeout": "True",
   "DFFlagUseFromRegion3Throwing_Rollout": "True;60;2024-01-30T22:57:17",
+  "FFlagClientAvatarUsesColor3sForBodyParts4_Rollout": "True;60;2024-01-30T23:03:14",
+  "DFFlagPreventRepeatedRespSwap_Rollout": "True;60;2024-01-30T23:05:22",
+  "DFFlagAddSessionIdToCrashPadStudio_Rollout": "True;60;2024-01-30T23:07:00",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10523,8 +10526,8 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FStringFlagRepoGitHashFastString": "3945e051f1f9086b9db47f99a6121a632ccc0056",
-  "DFStringFlagRepoGitHashDynamicString": "3945e051f1f9086b9db47f99a6121a632ccc0056",
-  "FStringFlipTimeStampFastString": "2024-01-30T22:57:39.972Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-30T22:57:39.972Z"
+  "FStringFlagRepoGitHashFastString": "c3f38ca522efd02b4f96ba4c1de03d9da4ac9430",
+  "DFStringFlagRepoGitHashDynamicString": "c3f38ca522efd02b4f96ba4c1de03d9da4ac9430",
+  "FStringFlipTimeStampFastString": "2024-01-30T23:08:13.499Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-30T23:08:13.499Z"
 }
