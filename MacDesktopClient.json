@@ -10249,6 +10249,8 @@
   "FFlagFaceAnimatorFixMemoryOrder": "True",
   "FFlagFaceAnimatorEnsureSynchronizedAnimationSettingChange": "True",
   "DFLogFaceAnimatorThreadingTrace3": "Verbose",
+  "DFLogFaceAnimatorThreadingTrace_Rollout": "Verbose;30;2024-01-30T23:33:14",
+  "DFLogFaceAnimatorThreadingTrace2_Rollout": "Verbose;30;2024-01-30T23:33:55",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10525,8 +10527,8 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FStringFlagRepoGitHashFastString": "2ff63ae67a4f652228f67a2730f3ac792cb1347a",
-  "DFStringFlagRepoGitHashDynamicString": "2ff63ae67a4f652228f67a2730f3ac792cb1347a",
-  "FStringFlipTimeStampFastString": "2024-01-30T23:21:38.480Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-30T23:21:38.480Z"
+  "FStringFlagRepoGitHashFastString": "41efdd7ff2adfefa6d6b5836d2fcf9cb684f90b6",
+  "DFStringFlagRepoGitHashDynamicString": "41efdd7ff2adfefa6d6b5836d2fcf9cb684f90b6",
+  "FStringFlipTimeStampFastString": "2024-01-30T23:34:21.731Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-30T23:34:21.731Z"
 }
