@@ -10216,7 +10216,6 @@
   "FFlagFriendsCarouselNoConditionalHooks": "True",
   "FFlagSSDRSendSourceAssetIdsWithContext": "True",
   "FFlagSSDRSetSourceAssetId": "True",
-  "DFFlagEnableThumbnailTextureLoadTimeout_Rollout": "True;60;2024-01-30T21:52:02",
   "FFlagAudioAssetsInResizableCacheFix_Rollout": "True;60;2024-01-30T21:59:06",
   "DFFlagAudioAnalyzerSimdFix_Rollout": "True;60;2024-01-30T21:59:12",
   "FFlagEnableExternalWebLinks2": "True",
@@ -10224,6 +10223,7 @@
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-01-30T22:14:31",
   "FFlagCleanupRoactChatUniversalAppWrapper": "True",
   "FFlagAllowSurfaceSelectionJumping": "True",
+  "DFFlagEnableThumbnailTextureLoadTimeout": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10515,8 +10515,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "7897fa5e9310dfac89e304a4999c0cdbe1b5488f",
-  "DFStringFlagRepoGitHashDynamicString": "7897fa5e9310dfac89e304a4999c0cdbe1b5488f",
-  "FStringFlipTimeStampFastString": "2024-01-30T22:52:33.606Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-30T22:52:33.606Z"
+  "FStringFlagRepoGitHashFastString": "daf4e313b1bef4baa256ca8424b5709fabba1070",
+  "DFStringFlagRepoGitHashDynamicString": "daf4e313b1bef4baa256ca8424b5709fabba1070",
+  "FStringFlipTimeStampFastString": "2024-01-30T22:56:38.351Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-30T22:56:38.351Z"
 }
