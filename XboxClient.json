@@ -10216,8 +10216,6 @@
   "FFlagFriendsCarouselNoConditionalHooks": "True",
   "FFlagSSDRSendSourceAssetIdsWithContext": "True",
   "FFlagSSDRSetSourceAssetId": "True",
-  "FFlagAudioAssetsInResizableCacheFix_Rollout": "True;60;2024-01-30T21:59:06",
-  "DFFlagAudioAnalyzerSimdFix_Rollout": "True;60;2024-01-30T21:59:12",
   "FFlagEnableExternalWebLinks2": "True",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-01-30T22:14:15",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-01-30T22:14:31",
@@ -10228,6 +10226,8 @@
   "FFlagClientAvatarUsesColor3sForBodyParts4_Rollout": "True;60;2024-01-30T23:03:14",
   "DFFlagPreventRepeatedRespSwap_Rollout": "True;60;2024-01-30T23:05:22",
   "DFFlagAddSessionIdToCrashPadStudio_Rollout": "True;60;2024-01-30T23:07:00",
+  "DFFlagAudioAnalyzerSimdFix": "True",
+  "FFlagAudioAssetsInResizableCacheFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10542,8 +10542,8 @@
   "FFlagNewScriptContext3": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "FStringFlagRepoGitHashFastString": "c3f38ca522efd02b4f96ba4c1de03d9da4ac9430",
-  "DFStringFlagRepoGitHashDynamicString": "c3f38ca522efd02b4f96ba4c1de03d9da4ac9430",
-  "FStringFlipTimeStampFastString": "2024-01-30T23:08:13.499Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-30T23:08:13.499Z"
+  "FStringFlagRepoGitHashFastString": "361964998f56671c2cc2be3b3c054e619a9f590d",
+  "DFStringFlagRepoGitHashDynamicString": "361964998f56671c2cc2be3b3c054e619a9f590d",
+  "FStringFlipTimeStampFastString": "2024-01-30T23:09:11.493Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-30T23:09:11.493Z"
 }
