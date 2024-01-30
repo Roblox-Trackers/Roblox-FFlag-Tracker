@@ -10218,6 +10218,7 @@
   "FFlagFriendsCarouselNoConditionalHooks": "True",
   "FFlagSSDRSendSourceAssetIdsWithContext": "True",
   "FFlagSSDRSetSourceAssetId": "True",
+  "DFFlagEnableThumbnailTextureLoadTimeout_Rollout": "True;60;2024-01-30T21:52:02",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10517,8 +10518,8 @@
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FFlagInteractableStateForGuiObjects3_Rollout": "True;60;2024-01-30T21:07:15",
-  "FStringFlagRepoGitHashFastString": "633ba4c9c83fd46423f874766fb46a39dfeb4491",
-  "DFStringFlagRepoGitHashDynamicString": "633ba4c9c83fd46423f874766fb46a39dfeb4491",
-  "FStringFlipTimeStampFastString": "2024-01-30T21:51:19.203Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-30T21:51:19.203Z"
+  "FStringFlagRepoGitHashFastString": "cfbafc608b179fb2f719c2ef9383b4967bab30ee",
+  "DFStringFlagRepoGitHashDynamicString": "cfbafc608b179fb2f719c2ef9383b4967bab30ee",
+  "FStringFlipTimeStampFastString": "2024-01-30T21:52:21.575Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-30T21:52:21.575Z"
 }
