@@ -6610,7 +6610,7 @@
   "DFFlagFixControllerManagerWorldOnEnter": "True",
   "FFlagPropertyPopupTextEditFix3": "True",
   "DFFlagDeprecateInfoFetchForSubscription": "True",
-  "DFIntDataStoreErrorThrottleHundredthsPercentage": "10",
+  "DFIntDataStoreErrorThrottleHundredthsPercentage": "2",
   "DFFlagTrackPerfDataEnabledInSessionTracking": "True",
   "FFlagStudioDebuggerShowExceptionPopup": "False",
   "DFFlagSkipInstanceArrPush": "True",
@@ -10218,7 +10218,6 @@
   "FFlagFriendsCarouselNoConditionalHooks": "True",
   "FFlagSSDRSendSourceAssetIdsWithContext": "True",
   "FFlagSSDRSetSourceAssetId": "True",
-  "DFIntDataStoreErrorThrottleHundredthsPercentage_Rollout": "2;5;2024-01-30T21:41:19",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10533,8 +10532,8 @@
   "FFlagNewScriptContext3": "True",
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
-  "FStringFlagRepoGitHashFastString": "52eb322cd7bcf616b7ac295b7e4211cc33d86fa5",
-  "DFStringFlagRepoGitHashDynamicString": "52eb322cd7bcf616b7ac295b7e4211cc33d86fa5",
-  "FStringFlipTimeStampFastString": "2024-01-30T21:47:10.924Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-30T21:47:10.924Z"
+  "FStringFlagRepoGitHashFastString": "633ba4c9c83fd46423f874766fb46a39dfeb4491",
+  "DFStringFlagRepoGitHashDynamicString": "633ba4c9c83fd46423f874766fb46a39dfeb4491",
+  "FStringFlipTimeStampFastString": "2024-01-30T21:51:19.203Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-30T21:51:19.203Z"
 }
