@@ -8321,7 +8321,6 @@
   "FFlagAvatarPreviewerDedupeInsertion": "True",
   "FFlagDescendantsAreRecursivelyInteractable2": "False",
   "FFlagIrisGyroEnabled": "True",
-  "FFlagInteractableStateForGuiObjects3": "False",
   "FFlagFixKeyboardOffsetInExperience": "True",
   "DFFlagVIPTeleportLocalPlayerCheck": "True",
   "DFFlagTeleportVIPPlayerPassThrough2": "True",
@@ -10242,6 +10241,7 @@
   "DFFlagAddSessionIdToCrashPadRcc_Rollout": "True;60;2024-01-31T21:31:39",
   "FFlagMacCheckDataModelClosingBeforeGettingService_Rollout": "True;60;2024-01-31T21:34:43",
   "DFFlagControllerDontScaleMoveSpeedFactor_Rollout": "True;60;2024-01-31T21:40:12",
+  "FFlagInteractableStateForGuiObjects3_Rollout": "True;30;2024-01-31T21:43:28",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10641,8 +10641,8 @@
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagGpuGeometryManager13": "True",
-  "FStringFlagRepoGitHashFastString": "e5e0ec78eaf0f7d5f1ec5769fc6d9a022ab5293a",
-  "DFStringFlagRepoGitHashDynamicString": "e5e0ec78eaf0f7d5f1ec5769fc6d9a022ab5293a",
-  "FStringFlipTimeStampFastString": "2024-01-31T21:40:48.758Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-31T21:40:48.758Z"
+  "FStringFlagRepoGitHashFastString": "69743c06d65c248a28ec70e372320fe847317931",
+  "DFStringFlagRepoGitHashDynamicString": "69743c06d65c248a28ec70e372320fe847317931",
+  "FStringFlipTimeStampFastString": "2024-01-31T21:44:11.739Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-31T21:44:11.739Z"
 }
