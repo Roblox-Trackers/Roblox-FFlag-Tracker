@@ -4912,7 +4912,7 @@
   "FFlagFixCoreTouchStarted": "True",
   "FFlagRejectCharacterDeletionsDefaultIsEnabled": "True",
   "FFlagExperienceTileAgeRatingEGS1": "True",
-  "DFFlagPublishAssetPrompt2": "False",
+  "DFFlagPublishAssetPrompt2": "True",
   "FFlagTileCoplayFriendActivity1": "True",
   "FFlagDoNotSubmitSmallRectVerts": "True",
   "FFlagCheckAllWidgetCorruptedOnParentChange": "True",
@@ -9747,7 +9747,6 @@
   "FFlagExpDetailsNewSelectionCursor": "True",
   "FFlagFixGuiRTCacheQuadTreeNestedClipping": "True",
   "FFlagEnableEventBasedLoggerInit2": "True",
-  "DFFlagPublishAssetPrompt2_PlaceFilter": "True;12433625183;12433850780;14993576210;15003722226;15068553851;2091563160;1457345133;4702052356;5152757352;5400754473;5709630325;6264388643;6264491664;6602682364;6747702209;7100339489;3633505977;5846386835;5846387555;5867227007;6109544022;6525652118;6815758567;8447698864;14942456037;15295547507;12992503026;14182040324;14182838222;14182840591;14476776051;15185685621;15592084275",
   "FFlagUniversalAppCameraEnabled4": "True",
   "FFlagVideoFixRbxTempCrash": "True",
   "FFlagVideoReportVideoHlsVariant": "True",
@@ -10568,8 +10567,8 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FStringFlagRepoGitHashFastString": "a1519f71cb6d20f012b51b2643418df1024c2de6",
-  "DFStringFlagRepoGitHashDynamicString": "a1519f71cb6d20f012b51b2643418df1024c2de6",
-  "FStringFlipTimeStampFastString": "2024-01-31T23:56:18.245Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-31T23:56:18.245Z"
+  "FStringFlagRepoGitHashFastString": "f1fac76e4e47792e1027e0504d4ad019be1bf5a3",
+  "DFStringFlagRepoGitHashDynamicString": "f1fac76e4e47792e1027e0504d4ad019be1bf5a3",
+  "FStringFlipTimeStampFastString": "2024-01-31T23:58:31.660Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-31T23:58:31.660Z"
 }
