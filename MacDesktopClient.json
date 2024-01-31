@@ -10225,7 +10225,6 @@
   "DFFlagPreventRepeatedRespSwap": "True",
   "FFlagXboxGutFireGameJoinedEvent": "True",
   "DFFlagDecelerationTimeThreshold": "True",
-  "DFFlagSimCSG3CommitTaskPatch_Rollout": "True;60;2024-01-31T19:43:04",
   "FFlagEnableWidgetDividerProps": "True",
   "FFlagPlatformCloudStoragePollster": "True",
   "FFlagAXFixExperienceCardPlayerCount": "True",
@@ -10233,6 +10232,7 @@
   "FFlagDevFrameworkTimeProgressBarImprovements": "True",
   "DFFlagFixInteractionGroupSignaling_Rollout": "True;60;2024-01-31T20:40:56",
   "DFFlagDontSubscribeIfNotVoiceEnabled_Rollout": "True;60;2024-01-31T20:41:52",
+  "DFFlagSimCSG3CommitTaskPatch": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10533,8 +10533,8 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FStringFlagRepoGitHashFastString": "6a2e98d4dd59a933aeaa345a60fc611527fcaed0",
-  "DFStringFlagRepoGitHashDynamicString": "6a2e98d4dd59a933aeaa345a60fc611527fcaed0",
-  "FStringFlipTimeStampFastString": "2024-01-31T20:42:10.233Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-31T20:42:10.233Z"
+  "FStringFlagRepoGitHashFastString": "236ff739bcbadb9783e7a626be7067831ec4cd1a",
+  "DFStringFlagRepoGitHashDynamicString": "236ff739bcbadb9783e7a626be7067831ec4cd1a",
+  "FStringFlipTimeStampFastString": "2024-01-31T20:51:36.591Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-31T20:51:36.591Z"
 }
