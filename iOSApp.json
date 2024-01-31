@@ -10231,7 +10231,6 @@
   "FFlagDevFrameworkTimeProgressBarImprovements": "True",
   "DFFlagSimCSG3CommitTaskPatch": "True",
   "FFlagContactsToastPolicyEnabled": "True",
-  "DFFlagAddSessionIdToCrashPadRcc_Rollout": "True;60;2024-01-31T21:31:39",
   "FFlagMacCheckDataModelClosingBeforeGettingService_Rollout": "True;60;2024-01-31T21:34:43",
   "DFFlagControllerDontScaleMoveSpeedFactor_Rollout": "True;60;2024-01-31T21:40:12",
   "DFFlagDontSubscribeIfNotVoiceEnabled": "True",
@@ -10253,6 +10252,7 @@
   "FFlagDelayAssetCreatePrompt": "True",
   "FFlagAvatarAutosetupFixCreatedStatus": "True",
   "FFlagPerformanceControlRecordTunableChangeEvent": "True",
+  "DFFlagAddSessionIdToCrashPadRcc": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10622,8 +10622,8 @@
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "3b26dac2b3e6c2733d43fd536a5ab48c9613db73",
-  "DFStringFlagRepoGitHashDynamicString": "3b26dac2b3e6c2733d43fd536a5ab48c9613db73",
-  "FStringFlipTimeStampFastString": "2024-01-31T22:32:49.617Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-31T22:32:49.617Z"
+  "FStringFlagRepoGitHashFastString": "45557191808cd467aa192a8da11ca86c2a4d8204",
+  "DFStringFlagRepoGitHashDynamicString": "45557191808cd467aa192a8da11ca86c2a4d8204",
+  "FStringFlipTimeStampFastString": "2024-01-31T22:37:03.437Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-31T22:37:03.437Z"
 }
