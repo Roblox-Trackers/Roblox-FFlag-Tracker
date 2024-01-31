@@ -10239,6 +10239,7 @@
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-01-31T21:10:26",
   "DFFlagFixSphereSizeInBuoyancy_Rollout": "True;60;2024-01-31T21:12:33",
   "FFlagPerformanceControlRecordTunableChangeEvent_Rollout": "True;60;2024-01-31T21:24:17",
+  "DFFlagAddSessionIdToCrashPadRcc_Rollout": "True;60;2024-01-31T21:31:39",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10539,8 +10540,8 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FStringFlagRepoGitHashFastString": "3f079acfe6f3456257138ede1396642fd491bef0",
-  "DFStringFlagRepoGitHashDynamicString": "3f079acfe6f3456257138ede1396642fd491bef0",
-  "FStringFlipTimeStampFastString": "2024-01-31T21:27:40.707Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-31T21:27:40.707Z"
+  "FStringFlagRepoGitHashFastString": "a3c6e9caf0bdc7c33f3e01288a78a47ef174e282",
+  "DFStringFlagRepoGitHashDynamicString": "a3c6e9caf0bdc7c33f3e01288a78a47ef174e282",
+  "FStringFlipTimeStampFastString": "2024-01-31T21:34:23.955Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-31T21:34:23.955Z"
 }
