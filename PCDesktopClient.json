@@ -10253,6 +10253,7 @@
   "DFFlagAddSessionIdToCrashPadRcc": "True",
   "FFlagMacCheckDataModelClosingBeforeGettingService": "True",
   "FFlagGpuGeometryManager13_Rollout": "True;60;2024-01-31T22:51:18",
+  "FFlagMaterialGridSnapshotFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10544,8 +10545,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "4c4888dbe42b100e6d4d81e3addb1917f85b5729",
-  "DFStringFlagRepoGitHashDynamicString": "4c4888dbe42b100e6d4d81e3addb1917f85b5729",
-  "FStringFlipTimeStampFastString": "2024-01-31T22:51:34.872Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-31T22:51:34.872Z"
+  "FStringFlagRepoGitHashFastString": "cc06dc086aa3ff1b3e6c2bea8f101b1ec42972f4",
+  "DFStringFlagRepoGitHashDynamicString": "cc06dc086aa3ff1b3e6c2bea8f101b1ec42972f4",
+  "FStringFlipTimeStampFastString": "2024-01-31T22:55:06.713Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-31T22:55:06.713Z"
 }
