@@ -10229,8 +10229,6 @@
   "FFlagAXFixExperienceCardPlayerCount": "True",
   "FFlagPlatformCloudStoragePlayXExperiencesTrophies": "True",
   "FFlagDevFrameworkTimeProgressBarImprovements": "True",
-  "DFFlagFixInteractionGroupSignaling_Rollout": "True;60;2024-01-31T20:40:56",
-  "DFFlagDontSubscribeIfNotVoiceEnabled_Rollout": "True;60;2024-01-31T20:41:52",
   "DFFlagSimCSG3CommitTaskPatch": "True",
   "FFlagContactsToastPolicyEnabled": "True",
   "FFlagStudioLoggingFixCategoryNames_Rollout": "True;60;2024-01-31T20:58:25",
@@ -10242,6 +10240,8 @@
   "FFlagMacCheckDataModelClosingBeforeGettingService_Rollout": "True;60;2024-01-31T21:34:43",
   "DFFlagControllerDontScaleMoveSpeedFactor_Rollout": "True;60;2024-01-31T21:40:12",
   "FFlagInteractableStateForGuiObjects3_Rollout": "True;30;2024-01-31T21:43:28",
+  "DFFlagDontSubscribeIfNotVoiceEnabled": "True",
+  "DFFlagFixInteractionGroupSignaling": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10534,8 +10534,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "69743c06d65c248a28ec70e372320fe847317931",
-  "DFStringFlagRepoGitHashDynamicString": "69743c06d65c248a28ec70e372320fe847317931",
-  "FStringFlipTimeStampFastString": "2024-01-31T21:44:11.739Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-31T21:44:11.739Z"
+  "FStringFlagRepoGitHashFastString": "5e5f99c664a7e9ac8f5c3c6605853f492270b970",
+  "DFStringFlagRepoGitHashDynamicString": "5e5f99c664a7e9ac8f5c3c6605853f492270b970",
+  "FStringFlipTimeStampFastString": "2024-01-31T21:46:55.220Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-31T21:46:55.220Z"
 }
