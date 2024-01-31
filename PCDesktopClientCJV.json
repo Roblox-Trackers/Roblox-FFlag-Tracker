@@ -10235,6 +10235,8 @@
   "DFFlagSimCSG3CommitTaskPatch": "True",
   "FFlagContactsToastPolicyEnabled": "True",
   "FFlagStudioLoggingFixCategoryNames_Rollout": "True;60;2024-01-31T20:58:25",
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-01-31T21:10:23",
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-01-31T21:10:26",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10527,8 +10529,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "8f28e2cdfa59cf9b7d9e15fb6ed7fff2ac3342e2",
-  "DFStringFlagRepoGitHashDynamicString": "8f28e2cdfa59cf9b7d9e15fb6ed7fff2ac3342e2",
-  "FStringFlipTimeStampFastString": "2024-01-31T20:59:13.810Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-31T20:59:13.810Z"
+  "FStringFlagRepoGitHashFastString": "8167419a86c4f5dbd06a3db7043f8e88a872924d",
+  "DFStringFlagRepoGitHashDynamicString": "8167419a86c4f5dbd06a3db7043f8e88a872924d",
+  "FStringFlipTimeStampFastString": "2024-01-31T21:11:12.006Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-31T21:11:12.006Z"
 }
