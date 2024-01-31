@@ -10239,7 +10239,6 @@
   "FFlagNoRethrowSetAndLockParent_PlaceFilter": "False;6737970321",
   "FFlagStudioLoggingFixCategoryNames": "True",
   "FFlagFixUiHighlightNavigationAfterRobuxUpsell": "True",
-  "FFlagSimCSGV3EnableMemoryTelemetry_Rollout": "True;60;2024-01-31T22:11:34",
   "FFlagRenderCrashOnOutOfMemory_Rollout": "True;60;2024-01-31T22:15:47",
   "FFlagInteractableStateForGuiObjects3": "True",
   "DFFlagFixSphereSizeInBuoyancy": "True",
@@ -10258,6 +10257,7 @@
   "FFlagLogPlaySoloWaypoints_Rollout": "True;30;2024-01-31T23:08:52",
   "DFFlagDSTelemetryEnableV2Counter_Rollout": "True;30;2024-01-31T23:10:30",
   "FFlagUIBloxUseRobloxGuiFocused": "True",
+  "FFlagSimCSGV3EnableMemoryTelemetry": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10549,8 +10549,8 @@
   "DFIntHttpCacheCleanTriggerTotalSpaceMiB": "1536",
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
-  "FStringFlagRepoGitHashFastString": "d582e37aca68605b4478e413af1dadb88a647c98",
-  "DFStringFlagRepoGitHashDynamicString": "d582e37aca68605b4478e413af1dadb88a647c98",
-  "FStringFlipTimeStampFastString": "2024-01-31T23:14:20.336Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-31T23:14:20.336Z"
+  "FStringFlagRepoGitHashFastString": "151a4dcaf562a2cde67819202dad5affc2f2f3c1",
+  "DFStringFlagRepoGitHashDynamicString": "151a4dcaf562a2cde67819202dad5affc2f2f3c1",
+  "FStringFlipTimeStampFastString": "2024-01-31T23:16:27.045Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-31T23:16:27.045Z"
 }
