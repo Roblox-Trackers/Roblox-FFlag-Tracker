@@ -10260,6 +10260,7 @@
   "FFlagToolboxFixTimeTextBox": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagRenderCrashOnOutOfMemory": "True",
+  "FFlagLuaAppRemoveGameDetailDataStatus": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10284,8 +10285,8 @@
   "DFLogFaceAnimatorThreadingTrace3": "Verbose",
   "DFLogFaceAnimatorThreadingTrace": "Verbose",
   "DFLogFaceAnimatorThreadingTrace2": "Verbose",
-  "DFLogPermissions_Rollout": "Verbose,6;30;2024-01-31T22:49:39",
   "DFLogFaceAnimatorTrace_Rollout": "Verbose,6;30;2024-01-31T23:02:48",
+  "DFLogPermissions": "Verbose,6",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10562,8 +10563,8 @@
   "FFlagRuntimeEnabled3": "True",
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
-  "FStringFlagRepoGitHashFastString": "ca2c14f490bbbe07272395323e43d92eabc2e782",
-  "DFStringFlagRepoGitHashDynamicString": "ca2c14f490bbbe07272395323e43d92eabc2e782",
-  "FStringFlipTimeStampFastString": "2024-01-31T23:21:43.293Z",
-  "DFStringFlipTimeStampDynamicString": "2024-01-31T23:21:43.293Z"
+  "FStringFlagRepoGitHashFastString": "bdc6f2469209ec68489b4bd1035af91cbb02b232",
+  "DFStringFlagRepoGitHashDynamicString": "bdc6f2469209ec68489b4bd1035af91cbb02b232",
+  "FStringFlipTimeStampFastString": "2024-01-31T23:26:30.325Z",
+  "DFStringFlipTimeStampDynamicString": "2024-01-31T23:26:30.325Z"
 }
