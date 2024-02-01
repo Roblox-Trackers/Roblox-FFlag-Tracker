@@ -10295,6 +10295,7 @@
   "FFlagMSEnableThumbnailerWorkaround_Rollout": "True;60;2024-02-01T22:01:35",
   "FFlagUseSocialLibraries310": "True",
   "FFlagEnableAXCameraCounter": "True",
+  "DFFlagDSTelemetryV2IncludeUniverseIdAndPlaceId_Rollout": "True;30;2024-02-01T22:31:06",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10489,8 +10490,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "bd63010fe5d94ce474853a85c40fd89593940a4b",
-  "DFStringFlagRepoGitHashDynamicString": "bd63010fe5d94ce474853a85c40fd89593940a4b",
-  "FStringFlipTimeStampFastString": "2024-02-01T22:20:16.730Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T22:20:16.730Z"
+  "FStringFlagRepoGitHashFastString": "f9c818e2ba299621ccbed6217356fc013b150c45",
+  "DFStringFlagRepoGitHashDynamicString": "f9c818e2ba299621ccbed6217356fc013b150c45",
+  "FStringFlipTimeStampFastString": "2024-02-01T22:31:40.339Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T22:31:40.339Z"
 }
