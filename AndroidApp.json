@@ -10290,12 +10290,12 @@
   "FFlagOpenGLES2DeprecationDetection": "True",
   "FFlagRefactorPartData3": "True",
   "FFlagCOLLAB4879FixStartPageSearchRaceCondition": "True",
-  "FFlagTerrainVoxelChannelNewApi_Rollout": "True;60;2024-02-01T21:30:40",
   "OpenGLES2DeprecationPhase": "2",
   "FFlagMSEnableThumbnailerWorkaround_Rollout": "True;60;2024-02-01T22:01:35",
   "FFlagUseSocialLibraries310": "True",
   "FFlagEnableAXCameraCounter": "True",
   "DFFlagDSTelemetryV2IncludeUniverseIdAndPlaceId_Rollout": "True;30;2024-02-01T22:31:06",
+  "FFlagTerrainVoxelChannelNewApi": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10695,8 +10695,8 @@
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "6f052b46153fa6b13dd9c4382aae75eb81b90137",
-  "DFStringFlagRepoGitHashDynamicString": "6f052b46153fa6b13dd9c4382aae75eb81b90137",
-  "FStringFlipTimeStampFastString": "2024-02-01T22:33:21.482Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T22:33:21.482Z"
+  "FStringFlagRepoGitHashFastString": "8e54f32cdcb479744deff5196cf25ece5029dda6",
+  "DFStringFlagRepoGitHashDynamicString": "8e54f32cdcb479744deff5196cf25ece5029dda6",
+  "FStringFlipTimeStampFastString": "2024-02-01T22:36:59.049Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T22:36:59.049Z"
 }
