@@ -10271,7 +10271,6 @@
   "DFFlagUseNewBuildEquation2_Rollout": "True;60;2024-02-01T19:07:59",
   "FFlagScriptContextBufferTelemetry": "True",
   "FFlagDiffTreeTelemetry_Rollout": "True;60;2024-02-01T19:09:14",
-  "FFlagDiffToolTelemetryDrafts_Rollout": "True;60;2024-02-01T19:09:29",
   "FFlagDiffToolTelemetryPackages_Rollout": "True;60;2024-02-01T19:09:52",
   "FFlagDiffToolTelemetryMergeResolution_Rollout": "True;60;2024-02-01T19:09:56",
   "FFlagInvisibleMeshThumbnailFix": "True",
@@ -10289,6 +10288,9 @@
   "FFlagRefactorPartData3_Rollout": "True;60;2024-02-01T20:08:03",
   "DFIntAppSessionReportSuccessThrottleHundredthsPercent": "1",
   "FFlagUWPNoLongerRequestBalance": "True",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-02-01T20:15:31",
+  "FFlagDiffToolTelemetryDrafts": "True",
+  "FFlagDiffToolTelemetryMergeResolution": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10582,8 +10584,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "0cbf863aed645d2f7fa771fa60d740ebff141c8c",
-  "DFStringFlagRepoGitHashDynamicString": "0cbf863aed645d2f7fa771fa60d740ebff141c8c",
-  "FStringFlipTimeStampFastString": "2024-02-01T20:11:18.407Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T20:11:18.407Z"
+  "FStringFlagRepoGitHashFastString": "856d6e4e20d61282d464b8b9e47fd0db3517ab44",
+  "DFStringFlagRepoGitHashDynamicString": "856d6e4e20d61282d464b8b9e47fd0db3517ab44",
+  "FStringFlipTimeStampFastString": "2024-02-01T20:15:50.590Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T20:15:50.590Z"
 }
