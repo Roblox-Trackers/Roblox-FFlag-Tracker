@@ -10275,6 +10275,8 @@
   "FFlagAddUDataPingViz": "True",
   "FFlagRemoveUnusedCopyrightError": "True",
   "FFlagUWPNoLongerRequestBalance_Rollout": "True;60;2024-02-01T19:02:27",
+  "FFlagAppSessionHiveThrottle_Rollout": "True;30;2024-02-01T19:03:58",
+  "DFFlagUseNewBuildEquation2_Rollout": "True;60;2024-02-01T19:07:59",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10675,8 +10677,8 @@
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagNewScriptContext3_Rollout": "True;60;2024-02-01T18:07:31",
   "FIntEnableCullableScene2HundredthPercent3_Rollout": "1000;30;2024-02-01T18:31:29",
-  "FStringFlagRepoGitHashFastString": "b1b1179a41cd18972c3044efcdccb4b4a25f4e25",
-  "DFStringFlagRepoGitHashDynamicString": "b1b1179a41cd18972c3044efcdccb4b4a25f4e25",
-  "FStringFlipTimeStampFastString": "2024-02-01T19:07:02.977Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T19:07:02.977Z"
+  "FStringFlagRepoGitHashFastString": "48f5523c8a3e86e4baee06c7e82394d7d202ac0c",
+  "DFStringFlagRepoGitHashDynamicString": "48f5523c8a3e86e4baee06c7e82394d7d202ac0c",
+  "FStringFlipTimeStampFastString": "2024-02-01T19:09:00.907Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T19:09:00.907Z"
 }
