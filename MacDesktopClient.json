@@ -10263,7 +10263,6 @@
   "DFFlagDSTelemetryEnableV2Counter": "True",
   "FFlagGpuGeometryManager13": "True",
   "FFlagDotMatrixProduct": "True",
-  "FFlagAddUDataPingViz_Rollout": "True;60;2024-02-01T17:32:02",
   "DFIntMaxLuauHeapDataPayloadSize": "64000000",
   "FFlagScriptContextBufferTelemetry_Rollout": "True;60;2024-02-01T17:54:40",
   "DFFlagSimGroundControllerTurningLogicFix2_Rollout": "True;60;2024-02-01T18:03:45",
@@ -10273,6 +10272,8 @@
   "FFlagRemoveUnusedCopyrightError_Rollout": "True;30;2024-02-01T18:18:20",
   "FFlagStudioUsePublishInProgressScreen2": "True",
   "FFlagSimCSG3MeshTriangleCountOptimization_Rollout": "True;60;2024-02-01T18:29:57",
+  "FFlagStudioComponentizeRobloxIDEDoc2": "True",
+  "FFlagAddUDataPingViz": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10575,8 +10576,8 @@
   "FFlagDebugEnableOctreeValidation": "True",
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3_Rollout": "2000;30;2024-02-01T18:28:43",
-  "FStringFlagRepoGitHashFastString": "87c43d61c90d16e8ab04e002117ec5b369435be3",
-  "DFStringFlagRepoGitHashDynamicString": "87c43d61c90d16e8ab04e002117ec5b369435be3",
-  "FStringFlipTimeStampFastString": "2024-02-01T18:31:58.296Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T18:31:58.296Z"
+  "FStringFlagRepoGitHashFastString": "c447a2743a0dd6afc34c24886cd3f287863eb15e",
+  "DFStringFlagRepoGitHashDynamicString": "c447a2743a0dd6afc34c24886cd3f287863eb15e",
+  "FStringFlipTimeStampFastString": "2024-02-01T18:36:17.295Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T18:36:17.295Z"
 }
