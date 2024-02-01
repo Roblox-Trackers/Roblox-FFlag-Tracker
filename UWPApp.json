@@ -10295,7 +10295,6 @@
   "FFlagEnableAXCameraCounter": "True",
   "FFlagTerrainVoxelChannelNewApi": "True",
   "FFlagVoiceChatInitCallStateAtControlPlaneConstruction": "True",
-  "FFlagDragDetectorUpdatesPhysicsPropertiesDuringDrag_Rollout": "True;60;2024-02-01T22:52:03",
   "FFlagMSEnableThumbnailerWorkaround": "True",
   "DFFlagDSTelemetryV2IncludeUniverseIdAndPlaceId": "True",
   "FFlagUWPRemoveIxpInitialization_Rollout": "True;60;2024-02-01T23:18:08",
@@ -10304,6 +10303,7 @@
   "FFlagEnableReportAbuseMenuRoactABTest2": "True",
   "FFlagVoiceChatAuditLocksForFlagCleanUp_Rollout": "True;60;2024-02-01T23:46:33",
   "DFFlagThrowErrorForShapecastTerrain": "True",
+  "FFlagDragDetectorUpdatesPhysicsPropertiesDuringDrag": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10498,8 +10498,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "4dbbb4616876c0d05323cfe0631eb72ec6105dca",
-  "DFStringFlagRepoGitHashDynamicString": "4dbbb4616876c0d05323cfe0631eb72ec6105dca",
-  "FStringFlipTimeStampFastString": "2024-02-01T23:53:53.617Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T23:53:53.617Z"
+  "FStringFlagRepoGitHashFastString": "a1643eb441c6178d3b73251a8c6095713dca0e4b",
+  "DFStringFlagRepoGitHashDynamicString": "a1643eb441c6178d3b73251a8c6095713dca0e4b",
+  "FStringFlipTimeStampFastString": "2024-02-01T23:56:20.005Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T23:56:20.005Z"
 }
