@@ -10248,7 +10248,6 @@
   "DFFlagAddSessionIdToCrashPadRcc": "True",
   "FFlagMacCheckDataModelClosingBeforeGettingService": "True",
   "FFlagMaterialGridSnapshotFix": "True",
-  "FFlagDotMatrixProduct_Rollout": "True;60;2024-01-31T22:55:56",
   "FFlagMaterialGridExtraProps2": "True",
   "FFlagLuaAppSwitchOpenGameDetails": "True",
   "FFlagUIBloxUseRobloxGuiFocused": "True",
@@ -10265,6 +10264,7 @@
   "FFlagLogPlaySoloWaypoints": "True",
   "DFFlagDSTelemetryEnableV2Counter": "True",
   "FFlagGpuGeometryManager13": "True",
+  "FFlagDotMatrixProduct": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10634,8 +10634,8 @@
   "DFIntOOMInferenceThreshold": "6800",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "32a14f594f00055be074e954bdc1bf52a44f0b86",
-  "DFStringFlagRepoGitHashDynamicString": "32a14f594f00055be074e954bdc1bf52a44f0b86",
-  "FStringFlipTimeStampFastString": "2024-02-01T00:00:36.767Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T00:00:36.767Z"
+  "FStringFlagRepoGitHashFastString": "a37e9f30fbf5551dd66cf3109b3713462bc73923",
+  "DFStringFlagRepoGitHashDynamicString": "a37e9f30fbf5551dd66cf3109b3713462bc73923",
+  "FStringFlipTimeStampFastString": "2024-02-01T00:01:43.285Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T00:01:43.285Z"
 }
