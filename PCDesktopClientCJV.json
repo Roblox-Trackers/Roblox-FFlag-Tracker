@@ -10291,13 +10291,13 @@
   "FFlagRefactorPartData3": "True",
   "FFlagCOLLAB4879FixStartPageSearchRaceCondition": "True",
   "OpenGLES2DeprecationPhase": "2",
-  "FFlagMSEnableThumbnailerWorkaround_Rollout": "True;60;2024-02-01T22:01:35",
   "FFlagUseSocialLibraries310": "True",
   "FFlagEnableAXCameraCounter": "True",
-  "DFFlagDSTelemetryV2IncludeUniverseIdAndPlaceId_Rollout": "True;30;2024-02-01T22:31:06",
   "FFlagTerrainVoxelChannelNewApi": "True",
   "FFlagVoiceChatInitCallStateAtControlPlaneConstruction": "True",
   "FFlagDragDetectorUpdatesPhysicsPropertiesDuringDrag_Rollout": "True;60;2024-02-01T22:52:03",
+  "FFlagMSEnableThumbnailerWorkaround": "True",
+  "DFFlagDSTelemetryV2IncludeUniverseIdAndPlaceId": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10592,8 +10592,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f15594fcaea89a89011a793f9bd7986ebd5b8fa5",
-  "DFStringFlagRepoGitHashDynamicString": "f15594fcaea89a89011a793f9bd7986ebd5b8fa5",
-  "FStringFlipTimeStampFastString": "2024-02-01T22:52:53.097Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T22:52:53.097Z"
+  "FStringFlagRepoGitHashFastString": "b459d7b2fd6ae8815bf7c8b1ff797813ae66aa3e",
+  "DFStringFlagRepoGitHashDynamicString": "b459d7b2fd6ae8815bf7c8b1ff797813ae66aa3e",
+  "FStringFlipTimeStampFastString": "2024-02-01T23:06:21.272Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T23:06:21.272Z"
 }
