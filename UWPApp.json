@@ -10296,6 +10296,7 @@
   "FFlagEnableAXCameraCounter": "True",
   "DFFlagDSTelemetryV2IncludeUniverseIdAndPlaceId_Rollout": "True;30;2024-02-01T22:31:06",
   "FFlagTerrainVoxelChannelNewApi": "True",
+  "FFlagVoiceChatInitCallStateAtControlPlaneConstruction": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10490,8 +10491,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "8e54f32cdcb479744deff5196cf25ece5029dda6",
-  "DFStringFlagRepoGitHashDynamicString": "8e54f32cdcb479744deff5196cf25ece5029dda6",
-  "FStringFlipTimeStampFastString": "2024-02-01T22:36:59.049Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T22:36:59.049Z"
+  "FStringFlagRepoGitHashFastString": "ed981bbf3117626bacd71bf36cadf7deac25ca02",
+  "DFStringFlagRepoGitHashDynamicString": "ed981bbf3117626bacd71bf36cadf7deac25ca02",
+  "FStringFlipTimeStampFastString": "2024-02-01T22:41:19.776Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T22:41:19.776Z"
 }
