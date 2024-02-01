@@ -7499,7 +7499,7 @@
   "DFFlagTEMPFixHairOrderProperty": "True",
   "DFFlagMemoryStoreUpdateAsyncRetryUseExpBackoff_PlaceFilter": "False;8789237466",
   "DFFlagSensorSkipIfManual": "True",
-  "FFlagFlagRolloutTestStaticBool2": "False",
+  "FFlagFlagRolloutTestStaticBool2": "True",
   "FFlagSocialUserSearchSource": "True",
   "FIntCOLLAB3440UniverseSearchEndpointMigrationRollout2HundredthPercent": "10000",
   "FFlagSimExpandSetOfSolverConstraintTypesThatAreIrrelevantToIkDragger": "True",
@@ -10255,7 +10255,6 @@
   "FFlagToolboxFixTimeTextBox": "True",
   "FFlagRenderCrashOnOutOfMemory": "True",
   "FFlagLuaAppRemoveGameDetailDataStatus": "True",
-  "FFlagFlagRolloutTestStaticBool2_Rollout": "True;60;2024-01-31T23:27:11",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "True;60;2024-01-31T23:27:47",
   "FFlagToolboxNavigationClearsSortingFilters": "True",
   "FFlagToolboxFixFilteringByAlbum": "True",
@@ -10667,8 +10666,8 @@
   "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
-  "FStringFlagRepoGitHashFastString": "efb776bb53f460088e0f53dc985627e2a344e12a",
-  "DFStringFlagRepoGitHashDynamicString": "efb776bb53f460088e0f53dc985627e2a344e12a",
-  "FStringFlipTimeStampFastString": "2024-02-01T00:31:10.572Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T00:31:10.572Z"
+  "FStringFlagRepoGitHashFastString": "1a8c853e2ea2172ef674bc37d0956d3ac57e5b44",
+  "DFStringFlagRepoGitHashDynamicString": "1a8c853e2ea2172ef674bc37d0956d3ac57e5b44",
+  "FStringFlipTimeStampFastString": "2024-02-01T00:31:57.542Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T00:31:57.542Z"
 }
