@@ -10267,6 +10267,8 @@
   "DFIntMaxLuauHeapDataPayloadSize": "64000000",
   "FFlagScriptContextBufferTelemetry_Rollout": "True;60;2024-02-01T17:54:40",
   "DFIntSimSepConcernThreshold_Rollout": "100;10;2024-02-01T17:58:42",
+  "DFFlagSimGroundControllerTurningLogicFix2_Rollout": "True;60;2024-02-01T18:03:45",
+  "DFFlagGroundControllerTurnPD_Rollout": "True;60;2024-02-01T18:03:54",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10461,8 +10463,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "e4de59753f14fb5040e5cd9652774557d3dd36d3",
-  "DFStringFlagRepoGitHashDynamicString": "e4de59753f14fb5040e5cd9652774557d3dd36d3",
-  "FStringFlipTimeStampFastString": "2024-02-01T17:58:59.451Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T17:58:59.451Z"
+  "FStringFlagRepoGitHashFastString": "1f63ef8b7afaf393175753b26bf448039fbce627",
+  "DFStringFlagRepoGitHashDynamicString": "1f63ef8b7afaf393175753b26bf448039fbce627",
+  "FStringFlipTimeStampFastString": "2024-02-01T18:04:26.717Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T18:04:26.717Z"
 }
