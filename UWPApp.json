@@ -10278,7 +10278,6 @@
   "FFlagSimCSG3MeshTriangleCountOptimization": "True",
   "FFlagAppSessionHiveThrottle": "True",
   "FFlagUseUserDefaultsForCrashAttributes2": "True",
-  "FFlagRefactorPartData3_Rollout": "True;60;2024-02-01T20:08:03",
   "DFIntAppSessionReportSuccessThrottleHundredthsPercent": "1",
   "FFlagUWPNoLongerRequestBalance": "True",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-02-01T20:15:31",
@@ -10294,6 +10293,7 @@
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-02-01T21:05:59",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-02-01T21:06:15",
   "FFlagCOLLAB4879FixStartPageSearchRaceCondition_Rollout": "True;5;2024-02-01T21:10:24",
+  "FFlagRefactorPartData3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10488,8 +10488,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "e315c11e874af054030f0140f0565c02e20b912b",
-  "DFStringFlagRepoGitHashDynamicString": "e315c11e874af054030f0140f0565c02e20b912b",
-  "FStringFlipTimeStampFastString": "2024-02-01T21:11:33.387Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T21:11:33.387Z"
+  "FStringFlagRepoGitHashFastString": "e29d1faf050a47511e26e9f7daab509bbee227ff",
+  "DFStringFlagRepoGitHashDynamicString": "e29d1faf050a47511e26e9f7daab509bbee227ff",
+  "FStringFlipTimeStampFastString": "2024-02-01T21:16:31.471Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T21:16:31.471Z"
 }
