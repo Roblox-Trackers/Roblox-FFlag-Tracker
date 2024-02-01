@@ -10264,7 +10264,6 @@
   "FFlagGpuGeometryManager13": "True",
   "FFlagDotMatrixProduct": "True",
   "DFIntMaxLuauHeapDataPayloadSize": "64000000",
-  "FFlagScriptContextBufferTelemetry_Rollout": "True;60;2024-02-01T17:54:40",
   "DFFlagSimGroundControllerTurningLogicFix2_Rollout": "True;60;2024-02-01T18:03:45",
   "DFFlagGroundControllerTurnPD_Rollout": "True;60;2024-02-01T18:03:54",
   "FFlagMouseLocationUpdateSooner_Rollout": "True;60;2024-02-01T18:12:45",
@@ -10277,6 +10276,9 @@
   "FFlagUWPNoLongerRequestBalance_Rollout": "True;60;2024-02-01T19:02:27",
   "FFlagAppSessionHiveThrottle_Rollout": "True;30;2024-02-01T19:03:58",
   "DFFlagUseNewBuildEquation2_Rollout": "True;60;2024-02-01T19:07:59",
+  "FFlagScriptContextBufferTelemetry": "True",
+  "FFlagDiffTreeTelemetry_Rollout": "True;60;2024-02-01T19:09:14",
+  "FFlagDiffToolTelemetryDrafts_Rollout": "True;60;2024-02-01T19:09:29",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10676,9 +10678,9 @@
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagNewScriptContext3_Rollout": "True;60;2024-02-01T18:07:31",
-  "FIntEnableCullableScene2HundredthPercent3_Rollout": "1000;30;2024-02-01T18:31:29",
-  "FStringFlagRepoGitHashFastString": "48f5523c8a3e86e4baee06c7e82394d7d202ac0c",
-  "DFStringFlagRepoGitHashDynamicString": "48f5523c8a3e86e4baee06c7e82394d7d202ac0c",
-  "FStringFlipTimeStampFastString": "2024-02-01T19:09:00.907Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-01T19:09:00.907Z"
+  "FIntEnableCullableScene2HundredthPercent3": "1000",
+  "FStringFlagRepoGitHashFastString": "687d79f4c28825e4fdcffd3d95e2b64721270d40",
+  "DFStringFlagRepoGitHashDynamicString": "687d79f4c28825e4fdcffd3d95e2b64721270d40",
+  "FStringFlipTimeStampFastString": "2024-02-01T19:09:54.996Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-01T19:09:54.996Z"
 }
