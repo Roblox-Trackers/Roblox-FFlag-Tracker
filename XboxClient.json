@@ -10320,6 +10320,8 @@
   "FFlagDevFrameworkFixTextInputTextWrapped": "True",
   "FFlagAXGamePadQuickMenuShortcutRefactor": "True",
   "FFlagFixViewportVisualizationVerbs_Rollout": "True;30;2024-02-02T19:30:48",
+  "FFlagRoduxRNAdapterThunkSafeCheck": "True",
+  "FFlagLuaAppUpgradeRoduxToV3_2": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -10632,8 +10634,8 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "FStringFlagRepoGitHashFastString": "29636839100a4dd3e606737eab6f67aca1391e6c",
-  "DFStringFlagRepoGitHashDynamicString": "29636839100a4dd3e606737eab6f67aca1391e6c",
-  "FStringFlipTimeStampFastString": "2024-02-02T19:34:07.539Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-02T19:34:07.539Z"
+  "FStringFlagRepoGitHashFastString": "77d4d16200990b3c8b422838d300ca7bec46a3ac",
+  "DFStringFlagRepoGitHashDynamicString": "77d4d16200990b3c8b422838d300ca7bec46a3ac",
+  "FStringFlipTimeStampFastString": "2024-02-02T19:35:11.507Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-02T19:35:11.507Z"
 }
