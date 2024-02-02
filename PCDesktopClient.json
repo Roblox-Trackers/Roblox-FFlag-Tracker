@@ -10297,7 +10297,6 @@
   "FFlagVoiceChatInitCallStateAtControlPlaneConstruction": "True",
   "FFlagMSEnableThumbnailerWorkaround": "True",
   "DFFlagDSTelemetryV2IncludeUniverseIdAndPlaceId": "True",
-  "FFlagUWPRemoveIxpInitialization_Rollout": "True;60;2024-02-01T23:18:08",
   "FIntStudioTeamCreateConflictDelaySec": "26",
   "FIntStudioTeamCreateConflictRetryCount": "2",
   "FFlagEnableReportAbuseMenuRoactABTest2": "True",
@@ -10305,6 +10304,8 @@
   "DFFlagThrowErrorForShapecastTerrain": "True",
   "FFlagDragDetectorUpdatesPhysicsPropertiesDuringDrag": "True",
   "FFlagMoveToSTFSM_Rollout": "True;30;2024-02-02T00:04:38",
+  "FFlagUWPRemoveIxpInitialization": "True",
+  "FFlagUseOrientationPlayerGuiIOS_Rollout": "True;40;2024-02-02T00:25:16",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10598,8 +10599,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "6419a6691c0f1c98577b1154cc96a8d203ccbc66",
-  "DFStringFlagRepoGitHashDynamicString": "6419a6691c0f1c98577b1154cc96a8d203ccbc66",
-  "FStringFlipTimeStampFastString": "2024-02-02T00:24:43.594Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-02T00:24:43.594Z"
+  "FStringFlagRepoGitHashFastString": "af02f6c31a4f31d6e665ac7e9485eb2ea6c467ba",
+  "DFStringFlagRepoGitHashDynamicString": "af02f6c31a4f31d6e665ac7e9485eb2ea6c467ba",
+  "FStringFlipTimeStampFastString": "2024-02-02T00:25:47.919Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-02T00:25:47.919Z"
 }
