@@ -940,9 +940,9 @@
   "DFFlagInstanceCensusByExactType": "True",
   "DFFlagCLI46794SendToTelemetry": "False",
   "DFFlagCLI46794SendToTelemetry_PlaceFilter": "True;1537690962",
-  "DFIntCLI46794SendInputTelemetryHundredthsPercentage": "0",
+  "DFIntCLI46794SendInputTelemetryHundredthsPercentage": "1",
   "DFIntCLI46794SendInputTelemetryHundredthsPercentage_PlaceFilter": "1000;1537690962",
-  "FFlagCLI46794Enable": "False",
+  "FFlagCLI46794Enable": "True",
   "FFlagCLI46794Enable_PlaceFilter": "True;1537690962",
   "FLogStudioEmbeddedWebBrowser": "6",
   "FFlagExternalPaymentAnalyticV2": "True",
@@ -10313,6 +10313,7 @@
   "FFlagUpdateUDim2": "True",
   "FFlagFixGuiInputForDeferredSignals2": "True",
   "DFFlagSimDebrisServicePartRemovalCrashDebugAllowRBXCrash_Rollout": "False;30;2024-02-02T17:53:45",
+  "DFFlagCLI46794SendToEventStream": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10626,8 +10627,8 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "FStringFlagRepoGitHashFastString": "07d2dcd844df24765e4e678dc67eb413a8527e1b",
-  "DFStringFlagRepoGitHashDynamicString": "07d2dcd844df24765e4e678dc67eb413a8527e1b",
-  "FStringFlipTimeStampFastString": "2024-02-02T17:58:31.992Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-02T17:58:31.992Z"
+  "FStringFlagRepoGitHashFastString": "df79d785e626a79fa70bbea2ca0004570a954cb6",
+  "DFStringFlagRepoGitHashDynamicString": "df79d785e626a79fa70bbea2ca0004570a954cb6",
+  "FStringFlipTimeStampFastString": "2024-02-02T18:05:47.492Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-02T18:05:47.492Z"
 }
