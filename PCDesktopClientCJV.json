@@ -10314,6 +10314,7 @@
   "DFFlagCLI46794SendToEventStream": "True",
   "DFFlagCLI91563v3": "True",
   "FFlagXboxEnableSignalR2_Rollout": "True;60;2024-02-02T18:32:34",
+  "FFlagDisableAutocorrectSocialUserSearch_v2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10608,8 +10609,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d08687ddecc0800b6980ec47447b6a4aba9f2624",
-  "DFStringFlagRepoGitHashDynamicString": "d08687ddecc0800b6980ec47447b6a4aba9f2624",
-  "FStringFlipTimeStampFastString": "2024-02-02T18:41:04.018Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-02T18:41:04.018Z"
+  "FStringFlagRepoGitHashFastString": "9a1d11fa0c177eb1109e3fa5ebcb03fcb98e600d",
+  "DFStringFlagRepoGitHashDynamicString": "9a1d11fa0c177eb1109e3fa5ebcb03fcb98e600d",
+  "FStringFlipTimeStampFastString": "2024-02-02T18:45:13.384Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-02T18:45:13.384Z"
 }
