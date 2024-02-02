@@ -10318,12 +10318,12 @@
   "FFlagRoduxRNAdapterThunkSafeCheck": "True",
   "FFlagLuaAppUpgradeRoduxToV3_2": "True",
   "FFlagXboxEnableSignalR2": "True",
-  "DFFlagHttpSocketIps_Rollout": "True;60;2024-02-02T19:44:47",
   "FFlagCinInternalErrors2": "True",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;4320;2024-02-02T19:58:54",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "False;4320;2024-02-02T19:58:54",
   "FFlagSanitizeDevicePii": "True",
   "FFlagFixViewportVisualizationVerbs": "True",
+  "DFFlagHttpSocketIps": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10625,8 +10625,8 @@
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "2c0c912fcb45c6f90eee50c38c2b9720fec3e6c9",
-  "DFStringFlagRepoGitHashDynamicString": "2c0c912fcb45c6f90eee50c38c2b9720fec3e6c9",
-  "FStringFlipTimeStampFastString": "2024-02-02T20:06:18.764Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-02T20:06:18.764Z"
+  "FStringFlagRepoGitHashFastString": "490d9d67ee5b5f059f3fbafcc66f6441ccb52387",
+  "DFStringFlagRepoGitHashDynamicString": "490d9d67ee5b5f059f3fbafcc66f6441ccb52387",
+  "FStringFlipTimeStampFastString": "2024-02-02T20:51:40.424Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-02T20:51:40.424Z"
 }
