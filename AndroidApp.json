@@ -10189,7 +10189,7 @@
   "FFlagEnableCommunityLinksClickLogging": "True",
   "FFlagReportAnythingAvatarIdentificationEdgeCaseFix": "True",
   "FFlagReportAnythingIncludeDiscardStatsInReport": "True",
-  "DFFlagSimSolverCorrelateExplosionsWithSprings": "True",
+  "DFFlagSimSolverCorrelateExplosionsWithSprings": "False",
   "FFlagFixOptimizeSkeletonGetBoneIndexByPart": "True",
   "DFFlagEnableTeleportGuiRootContainerCheck": "True",
   "FFlagFixIsInitialized": "True",
@@ -10314,7 +10314,6 @@
   "DFFlagCLI46794SendToEventStream": "True",
   "DFFlagCLI91563v3": "True",
   "FFlagXboxEnableSignalR2_Rollout": "True;60;2024-02-02T18:32:34",
-  "DFFlagSimSolverCorrelateExplosionsWithSprings_Rollout": "False;1;2024-02-02T18:36:12",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10714,8 +10713,8 @@
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "76f1b090322f89638cb011d0346dc4cde082fb2f",
-  "DFStringFlagRepoGitHashDynamicString": "76f1b090322f89638cb011d0346dc4cde082fb2f",
-  "FStringFlipTimeStampFastString": "2024-02-02T18:39:44.523Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-02T18:39:44.523Z"
+  "FStringFlagRepoGitHashFastString": "d08687ddecc0800b6980ec47447b6a4aba9f2624",
+  "DFStringFlagRepoGitHashDynamicString": "d08687ddecc0800b6980ec47447b6a4aba9f2624",
+  "FStringFlipTimeStampFastString": "2024-02-02T18:41:04.018Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-02T18:41:04.018Z"
 }
