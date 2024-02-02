@@ -10315,7 +10315,6 @@
   "FFlagDisableAutocorrectSocialUserSearch_v2": "True",
   "FFlagDevFrameworkFixTextInputTextWrapped": "True",
   "FFlagAXGamePadQuickMenuShortcutRefactor": "True",
-  "FFlagFixViewportVisualizationVerbs_Rollout": "True;30;2024-02-02T19:30:48",
   "FFlagRoduxRNAdapterThunkSafeCheck": "True",
   "FFlagLuaAppUpgradeRoduxToV3_2": "True",
   "FFlagXboxEnableSignalR2": "True",
@@ -10324,6 +10323,7 @@
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;4320;2024-02-02T19:58:54",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "False;4320;2024-02-02T19:58:54",
   "FFlagSanitizeDevicePii": "True",
+  "FFlagFixViewportVisualizationVerbs": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10636,8 +10636,8 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "FStringFlagRepoGitHashFastString": "b9415a062c748640c43ad3fe5baba8616e556822",
-  "DFStringFlagRepoGitHashDynamicString": "b9415a062c748640c43ad3fe5baba8616e556822",
-  "FStringFlipTimeStampFastString": "2024-02-02T20:01:42.921Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-02T20:01:42.921Z"
+  "FStringFlagRepoGitHashFastString": "2c0c912fcb45c6f90eee50c38c2b9720fec3e6c9",
+  "DFStringFlagRepoGitHashDynamicString": "2c0c912fcb45c6f90eee50c38c2b9720fec3e6c9",
+  "FStringFlipTimeStampFastString": "2024-02-02T20:06:18.764Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-02T20:06:18.764Z"
 }
