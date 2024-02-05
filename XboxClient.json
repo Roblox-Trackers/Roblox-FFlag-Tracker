@@ -9724,7 +9724,7 @@
   "DFIntVoiceChatControlPlaneOperationTimeoutFrames": "7200",
   "DFIntVoiceChatV2ControlPlaneMaxOperationExecutionPerRun": "5000",
   "FFlagVector2Idiv": "True",
-  "DFFlagVoiceChatAckWithPrevSdpWhenNoSubChanges": "True",
+  "DFFlagVoiceChatAckWithPrevSdpWhenNoSubChanges": "False",
   "FFlagEnableWearAfterPurchaseDefaultChecked": "True",
   "FFlagQrCodeScannerEnabledForAll": "True",
   "FFlagVideoUseRvInputFormat2": "True",
@@ -9829,7 +9829,7 @@
   "FFlagLuaAppEnableBannerContainer": "True",
   "FFlagStudioOutputDeprecatePropertyLinks": "True",
   "FFlagLuaAppReplaceSmallPill": "True",
-  "DFFlagVoiceChatAckWithPrevSdpWhenSubUpdateFails": "True",
+  "DFFlagVoiceChatAckWithPrevSdpWhenSubUpdateFails": "False",
   "DFFlagDSTelemetryIncludeScopeAndDmForListingApis2": "True",
   "FFlagVoiceChatV2SubOnlyRetry_Client": "True",
   "DFIntReplicatorDataPingReportHundredthPercentage_PlaceFilter": "1000;15578716287;1427028360;6000468131",
@@ -10680,8 +10680,8 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "FStringFlagRepoGitHashFastString": "ce82b39ed4656c9268fcb229283e9d6035848550",
-  "DFStringFlagRepoGitHashDynamicString": "ce82b39ed4656c9268fcb229283e9d6035848550",
-  "FStringFlipTimeStampFastString": "2024-02-05T22:12:54.862Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-05T22:12:54.862Z"
+  "FStringFlagRepoGitHashFastString": "6598dc1baeab4946801dfaae1b5ce39c8bdea9b1",
+  "DFStringFlagRepoGitHashDynamicString": "6598dc1baeab4946801dfaae1b5ce39c8bdea9b1",
+  "FStringFlipTimeStampFastString": "2024-02-05T22:16:04.228Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-05T22:16:04.228Z"
 }
