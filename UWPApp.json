@@ -10361,8 +10361,6 @@
   "FFlagAddCapturesGuacPolicy": "True",
   "FFlagRemoveServerAudioBehavior": "True",
   "FFlagLuauLexerLookaheadRemembersBraceType": "True",
-  "FFlagAndroidCameraCaptureUseTemplatePreview_Rollout": "True;60;2024-02-05T22:11:57",
-  "FFlagFaceAnimatorUseVideoBufferPool_Rollout": "True;60;2024-02-05T22:12:03",
   "FFlagAndroidCameraCaptureFixFrameNumber": "True",
   "FFlagDisableChromePinnedChat": "True",
   "DFFlagEnableFixingMessageSizeLimit": "True",
@@ -10375,6 +10373,8 @@
   "DFFlagBufferWebSerialize_Rollout": "True;60;2024-02-05T23:01:39",
   "FFlagLuauAlwaysCommitInferencesOfFunctionCalls": "True",
   "FFlagLuauOkWithIteratingOverTableProperties": "True",
+  "FFlagAndroidCameraCaptureUseTemplatePreview": "True",
+  "FFlagFaceAnimatorUseVideoBufferPool": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10568,8 +10568,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "ca20e74ce3d30e08e25780385ba23ce919c16fa4",
-  "DFStringFlagRepoGitHashDynamicString": "ca20e74ce3d30e08e25780385ba23ce919c16fa4",
-  "FStringFlipTimeStampFastString": "2024-02-05T23:11:15.113Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-05T23:11:15.113Z"
+  "FStringFlagRepoGitHashFastString": "46efbd8e76c23aeceec26bd7bb21387e4573ab8f",
+  "DFStringFlagRepoGitHashDynamicString": "46efbd8e76c23aeceec26bd7bb21387e4573ab8f",
+  "FStringFlipTimeStampFastString": "2024-02-05T23:16:22.901Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-05T23:16:22.901Z"
 }
