@@ -10327,7 +10327,6 @@
   "FFlagChatTranslationHoldoutEnabled": "True",
   "FFlagChatTranslationLaunchEnabled": "False",
   "FFlagUserCaptureSavedSignalApiEnabled": "True",
-  "FFlagRenderFib3ProperConstantBufferSize_Rollout": "True;30;2024-02-05T17:24:42",
   "FFlagPromptSaveCapturesEnabled2": "True",
   "FFlagPromptShareCaptureEnabled3": "True",
   "FFlagRenderUseShaderFlags_Rollout": "True;30;2024-02-05T17:34:54",
@@ -10337,6 +10336,7 @@
   "FFlagCapturesStarterGuiApiEnabled": "True",
   "DFFlagMemoryStoreGetRangeAsyncEnableV2Endpoint_Rollout": "True;60;2024-02-05T17:56:39",
   "FFlagStudioFixProtocolStringPassing": "True",
+  "FFlagRenderFib3ProperConstantBufferSize": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10530,8 +10530,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "5e195bd34c40f89447cf214d8bcdea38a5ba7eee",
-  "DFStringFlagRepoGitHashDynamicString": "5e195bd34c40f89447cf214d8bcdea38a5ba7eee",
-  "FStringFlipTimeStampFastString": "2024-02-05T17:57:21.948Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-05T17:57:21.948Z"
+  "FStringFlagRepoGitHashFastString": "39ca98d259416711899f6c1a8c4abe1f6308b6a2",
+  "DFStringFlagRepoGitHashDynamicString": "39ca98d259416711899f6c1a8c4abe1f6308b6a2",
+  "FStringFlipTimeStampFastString": "2024-02-05T18:01:34.184Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-05T18:01:34.184Z"
 }
