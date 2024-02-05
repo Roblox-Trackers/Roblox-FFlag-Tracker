@@ -10364,6 +10364,7 @@
   "FFlagAddCapturesGuacPolicy": "True",
   "FFlagRemoveServerAudioBehavior": "True",
   "DFFlagEnableFixingMessageSizeLimit_Rollout": "True;30;2024-02-05T21:58:26",
+  "FFlagLuauAlwaysCommitInferencesOfFunctionCalls_Rollout": "True;60;2024-02-05T22:01:29",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10762,8 +10763,8 @@
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagNewScriptContext3": "True",
   "FFlagGraphicsVulkanDeviceLostCrash_Rollout": "True;60;2024-02-05T22:00:31",
-  "FStringFlagRepoGitHashFastString": "32d7cb3d08055dd0cdb47535fa53c7efa43fb522",
-  "DFStringFlagRepoGitHashDynamicString": "32d7cb3d08055dd0cdb47535fa53c7efa43fb522",
-  "FStringFlipTimeStampFastString": "2024-02-05T22:01:33.317Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-05T22:01:33.317Z"
+  "FStringFlagRepoGitHashFastString": "fa0fa7f038ab6ab4df0f1e7c8385c5938641a374",
+  "DFStringFlagRepoGitHashDynamicString": "fa0fa7f038ab6ab4df0f1e7c8385c5938641a374",
+  "FStringFlipTimeStampFastString": "2024-02-05T22:02:06.483Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-05T22:02:06.483Z"
 }
