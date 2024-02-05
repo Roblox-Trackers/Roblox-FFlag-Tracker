@@ -10348,13 +10348,14 @@
   "FFlagEnableCounterLooksWidgetHome": "True",
   "DFFlagSolverNOURemovedUnderSetOptimized_PlaceFilter": "False;6737970321",
   "FFlagLuaAppHttpSupportNoContent": "True",
-  "FFlagSimConsolidateBVHMidphase_Rollout": "True;60;2024-02-05T20:00:47",
   "FFlagFriendsCarouselClickLogPresence": "True",
   "DFIntPerformanceControlEventBasedTelemetryTunableChangeEventRatePoints_Rollout": "20;60;2024-02-05T20:18:53",
   "FFlagSmoothClusterFixDanglingMaterialTable": "True",
   "FFlagRemoveServerAudioBehavior_Rollout": "True;60;2024-02-05T20:44:35",
   "FFlagTerrainVTEnableRelease587Fix_Rollout": "True;30;2024-02-05T20:48:57",
   "FFlagSmoothClusterTransitionalChunks_Rollout": "True;30;2024-02-05T20:56:04",
+  "FFlagSimConsolidateBVHMidphase": "True",
+  "FFlagDisableWhatsNewFromQuickAccess_Rollout": "True;30;2024-02-05T21:05:53",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10666,8 +10667,8 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "FStringFlagRepoGitHashFastString": "a66e4b46a60d1529ea4802e772ab3f828d85c64e",
-  "DFStringFlagRepoGitHashDynamicString": "a66e4b46a60d1529ea4802e772ab3f828d85c64e",
-  "FStringFlipTimeStampFastString": "2024-02-05T20:56:23.479Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-05T20:56:23.479Z"
+  "FStringFlagRepoGitHashFastString": "11ed3b4111e5859d8d160e7c468f911581cbdc53",
+  "DFStringFlagRepoGitHashDynamicString": "11ed3b4111e5859d8d160e7c468f911581cbdc53",
+  "FStringFlipTimeStampFastString": "2024-02-05T21:06:19.921Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-05T21:06:19.921Z"
 }
