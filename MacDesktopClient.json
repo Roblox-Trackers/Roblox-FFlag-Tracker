@@ -10356,7 +10356,6 @@
   "FFlagTerrainVTEnableRelease587Fix": "True",
   "DFIntPerformanceControlEventBasedTelemetryTunableChangeEventRatePoints": "20",
   "FFlagSmoothClusterTransitionalChunks": "True",
-  "DFIntPerformanceControlEventBasedTelemetryTunableChangeEventNumReportsPerSecond_Rollout": "2;60;2024-02-05T21:35:48",
   "FFlagEditProfilePageEnabledV4": "True",
   "FFlagDisableWhatsNewFromQuickAccess": "True",
   "FFlagAddCapturesGuacPolicy": "True",
@@ -10371,6 +10370,7 @@
   "DFFlagEnableFixingMessageSizeLimit": "True",
   "FFlagStudioWithUiContextRemoveSubsystem": "True",
   "FFlagStudioReworkSavePlaceDialog2": "True",
+  "DFIntPerformanceControlEventBasedTelemetryTunableChangeEventNumReportsPerSecond": "2",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10669,8 +10669,8 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
-  "FStringFlagRepoGitHashFastString": "a5cbcb9d1470f1d11dd845120915586de3b2b0d0",
-  "DFStringFlagRepoGitHashDynamicString": "a5cbcb9d1470f1d11dd845120915586de3b2b0d0",
-  "FStringFlipTimeStampFastString": "2024-02-05T22:36:53.215Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-05T22:36:53.215Z"
+  "FStringFlagRepoGitHashFastString": "85e0c92afbcdd532856edb0b5b65d63994835284",
+  "DFStringFlagRepoGitHashDynamicString": "85e0c92afbcdd532856edb0b5b65d63994835284",
+  "FStringFlipTimeStampFastString": "2024-02-05T22:41:22.778Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-05T22:41:22.778Z"
 }
