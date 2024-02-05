@@ -10325,7 +10325,7 @@
   "DFFlagHttpSocketIps": "True",
   "DFFlagEnableTCSChatTranslation": "True",
   "FFlagChatTranslationHoldoutEnabled": "True",
-  "FFlagChatTranslationLaunchEnabled": "False",
+  "FFlagChatTranslationLaunchEnabled": "True",
   "FFlagUserCaptureSavedSignalApiEnabled": "True",
   "FFlagPromptSaveCapturesEnabled2": "True",
   "FFlagPromptShareCaptureEnabled3": "True",
@@ -10344,6 +10344,7 @@
   "FFlagLuaAppFixSendFollowEventParams": "True",
   "FFlagCaptureScreenshotApiEnabled2": "True",
   "DFFlagUnifyGCNeededChecksForStreamingTunable2_Rollout": "True;30;2024-02-05T18:20:08",
+  "FFlagRemoveQtUIFromTaskRunner": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10655,8 +10656,8 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "FStringFlagRepoGitHashFastString": "2e4b3203722498433f35081520dc4826537230bb",
-  "DFStringFlagRepoGitHashDynamicString": "2e4b3203722498433f35081520dc4826537230bb",
-  "FStringFlipTimeStampFastString": "2024-02-05T18:46:31.444Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-05T18:46:31.444Z"
+  "FStringFlagRepoGitHashFastString": "60365e077e6d69df07a6ead016a81448412093f2",
+  "DFStringFlagRepoGitHashDynamicString": "60365e077e6d69df07a6ead016a81448412093f2",
+  "FStringFlipTimeStampFastString": "2024-02-05T18:54:27.884Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-05T18:54:27.884Z"
 }
