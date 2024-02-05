@@ -10360,7 +10360,6 @@
   "FFlagDisableWhatsNewFromQuickAccess": "True",
   "FFlagAddCapturesGuacPolicy": "True",
   "FFlagRemoveServerAudioBehavior": "True",
-  "FFlagLuauAlwaysCommitInferencesOfFunctionCalls_Rollout": "True;60;2024-02-05T22:01:29",
   "FFlagLuauLexerLookaheadRemembersBraceType": "True",
   "FFlagLuauOkWithIteratingOverTableProperties_Rollout": "True;60;2024-02-05T22:03:17",
   "FFlagAndroidCameraCaptureUseTemplatePreview_Rollout": "True;60;2024-02-05T22:11:57",
@@ -10375,6 +10374,7 @@
   "FFlagCollaborationNeutralNotificationIcons": "True",
   "FFlagCOLLAB5162TrackUserIdle2": "True",
   "DFFlagBufferWebSerialize_Rollout": "True;60;2024-02-05T23:01:39",
+  "FFlagLuauAlwaysCommitInferencesOfFunctionCalls": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10686,8 +10686,8 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "FStringFlagRepoGitHashFastString": "a820b968cf467d7bbcaf6333f16b27ac384ec366",
-  "DFStringFlagRepoGitHashDynamicString": "a820b968cf467d7bbcaf6333f16b27ac384ec366",
-  "FStringFlipTimeStampFastString": "2024-02-05T23:02:08.512Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-05T23:02:08.512Z"
+  "FStringFlagRepoGitHashFastString": "4e33753ce7b23263f04d008acc82e716dccd7131",
+  "DFStringFlagRepoGitHashDynamicString": "4e33753ce7b23263f04d008acc82e716dccd7131",
+  "FStringFlipTimeStampFastString": "2024-02-05T23:07:02.290Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-05T23:07:02.290Z"
 }
