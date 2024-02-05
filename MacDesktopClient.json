@@ -10329,7 +10329,6 @@
   "FFlagUserCaptureSavedSignalApiEnabled": "True",
   "FFlagPromptSaveCapturesEnabled2": "True",
   "FFlagPromptShareCaptureEnabled3": "True",
-  "FFlagRenderUseShaderFlags_Rollout": "True;30;2024-02-05T17:34:54",
   "FFlagAXFetchOutfitAssetDetailsUseEnum": "True",
   "FFlagCaptureBeganEndedSignalApiEnabled": "True",
   "FFlagScreenshotHudGuiVisibilityApiForCaptures": "True",
@@ -10341,6 +10340,7 @@
   "FFlagACEBoneNameCollision": "True",
   "FFlagACEFixZeroJointsError": "True",
   "FFlagAssetManagerToggleWidgetFix": "True",
+  "FFlagRenderUseShaderFlags": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10641,8 +10641,8 @@
   "DFFlagDebugEnableOctreeNodeValidation": "True",
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "b36948e428c298fdad9e7611429f05eb52ca8717",
-  "DFStringFlagRepoGitHashDynamicString": "b36948e428c298fdad9e7611429f05eb52ca8717",
-  "FStringFlipTimeStampFastString": "2024-02-05T18:09:56.329Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-05T18:09:56.329Z"
+  "FStringFlagRepoGitHashFastString": "b4c6fc21601c8d9fe94698f34b267d57c171f9b4",
+  "DFStringFlagRepoGitHashDynamicString": "b4c6fc21601c8d9fe94698f34b267d57c171f9b4",
+  "FStringFlipTimeStampFastString": "2024-02-05T18:11:22.323Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-05T18:11:22.323Z"
 }
