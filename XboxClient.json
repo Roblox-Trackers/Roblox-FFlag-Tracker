@@ -9487,7 +9487,7 @@
   "DFIntHttpServiceInsightsErrorStatusCodeThrottleHundredthsPercentage": "1",
   "FFlagLuaAppUseNewNumberLocalization2": "True",
   "FFlagSwitchCSRootProviderTranslationsPackage": "False",
-  "FFlagVoiceChatResendSdpAnswerOnSubsTimeout": "True",
+  "FFlagVoiceChatResendSdpAnswerOnSubsTimeout": "False",
   "DFFlagVoiceChatControlPlaneEnableOperationTimeout": "True",
   "FFlagDualWriteFlowDurationToV2Stats": "True",
   "DFIntDataStoreBudgetOnCloseBase_PlaceFilter": "1200;3317771874",
@@ -10366,6 +10366,7 @@
   "DFFlagEnableFixingMessageSizeLimit_Rollout": "True;30;2024-02-05T21:58:26",
   "FFlagLuauAlwaysCommitInferencesOfFunctionCalls_Rollout": "True;60;2024-02-05T22:01:29",
   "FFlagLuauLexerLookaheadRemembersBraceType": "True",
+  "FFlagLuauOkWithIteratingOverTableProperties_Rollout": "True;60;2024-02-05T22:03:17",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10677,8 +10678,8 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "FStringFlagRepoGitHashFastString": "43127b7f5044fa9299095af94b1ec67176b3b956",
-  "DFStringFlagRepoGitHashDynamicString": "43127b7f5044fa9299095af94b1ec67176b3b956",
-  "FStringFlipTimeStampFastString": "2024-02-05T22:04:43.942Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-05T22:04:43.942Z"
+  "FStringFlagRepoGitHashFastString": "15117cbfde0d71c06389bee4d55bd0c42a8957ea",
+  "DFStringFlagRepoGitHashDynamicString": "15117cbfde0d71c06389bee4d55bd0c42a8957ea",
+  "FStringFlipTimeStampFastString": "2024-02-05T22:05:36.049Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-05T22:05:36.049Z"
 }
