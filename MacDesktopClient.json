@@ -9800,11 +9800,11 @@
   "FFlagScriptProfilerSetRoot": "True",
   "FFlagAlwaysRenderPlaceholderText": "True",
   "FFlagEnableAndroidLinkingProtocolSwitchToSettingsApp": "True",
-  "FFlagEnableAndroidSwitchToSettingsApp": "True",
+  "FFlagEnableAndroidSwitchToSettingsApp": "False",
   "FFlagEnableLinkingProtocolSwitchToSettingsApp": "True",
-  "FFlagEnableNativeUtilProtocolSwitchToSettingsApp": "True",
+  "FFlagEnableNativeUtilProtocolSwitchToSettingsApp": "False",
   "FFlagLuaLinkingSwitchToSettingsApp": "True",
-  "FFlagLuaSwitchToSettingsApp": "True",
+  "FFlagLuaSwitchToSettingsApp": "False",
   "FFlagToolboxFixSquishOutputSpam2": "True",
   "FFlagToolboxNavigationClearsAudioSearch": "True",
   "FFlagRemoveProfileIXPFromMore": "True",
@@ -10695,8 +10695,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "1a405ee499e32ebe8c8d20bd2067bc0a503a82b9",
-  "DFStringFlagRepoGitHashDynamicString": "1a405ee499e32ebe8c8d20bd2067bc0a503a82b9",
-  "FStringFlipTimeStampFastString": "2024-02-06T21:47:55.965Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-06T21:47:55.965Z"
+  "FStringFlagRepoGitHashFastString": "6e6c04703ae7d5991ce4ef6398004ea7fc8b6c4c",
+  "DFStringFlagRepoGitHashDynamicString": "6e6c04703ae7d5991ce4ef6398004ea7fc8b6c4c",
+  "FStringFlipTimeStampFastString": "2024-02-06T21:52:46.079Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-06T21:52:46.079Z"
 }
