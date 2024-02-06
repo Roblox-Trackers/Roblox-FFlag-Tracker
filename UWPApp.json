@@ -10383,7 +10383,7 @@
   "FFlagPasswordlessSignupAuthEnabledRelease1": "True",
   "FFlagContactsToastExperimentEnabledv1": "True",
   "FFlagPassNavigationIntoContactsList": "True",
-  "DFIntDebugCrashOnShutdownProbability1": "100",
+  "DFIntDebugCrashOnShutdownProbability1": "500",
   "FFlagDeprecateChatAppReducerAliases": "True",
   "FFlagMigrateFetchChatData": "True",
   "FFlagUseRoduxGetUnreadConversationCount": "True",
@@ -10394,7 +10394,6 @@
   "FFlagStudioNoPlaySoloLoadingScreen": "True",
   "FFlagAndroidCameraCaptureFlags": "True",
   "FFlagAXAssetBundleTyping": "True",
-  "DFIntDebugCrashOnShutdownProbability1_Rollout": "500;60;2024-02-06T22:08:29",
   "FFlagLuaAppScrollTelemetrySize2": "True",
   "FFlagFixPlatformCloudStorageCrash": "True",
   "DFFlagWebSocketSwapEvents": "True",
@@ -10591,8 +10590,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "5496658c1ba3f75df06253f5c13623bc3dfa5a8c",
-  "DFStringFlagRepoGitHashDynamicString": "5496658c1ba3f75df06253f5c13623bc3dfa5a8c",
-  "FStringFlipTimeStampFastString": "2024-02-06T23:11:18.200Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-06T23:11:18.200Z"
+  "FStringFlagRepoGitHashFastString": "d0cf0a5afecaeb91bd310fdc81bb2970a8eb8bac",
+  "DFStringFlagRepoGitHashDynamicString": "d0cf0a5afecaeb91bd310fdc81bb2970a8eb8bac",
+  "FStringFlipTimeStampFastString": "2024-02-06T23:16:32.547Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-06T23:16:32.547Z"
 }
