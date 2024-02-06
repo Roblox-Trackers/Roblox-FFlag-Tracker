@@ -10373,10 +10373,10 @@
   "FFlagAndroidCameraCaptureUseTemplatePreview": "True",
   "FFlagFaceAnimatorUseVideoBufferPool": "True",
   "FFlagLuauUpdatedRequireByStringSemantics_Rollout": "True;60;2024-02-05T23:18:01",
-  "FFlagDebugGraphicsReportMemoryCategoryOnLeaks_Rollout": "True;30;2024-02-05T23:22:37",
   "DFFlagGetRidOfSplitFFlags_Rollout": "True;60;2024-02-05T23:49:35",
   "DFFlagCLI92377": "True",
   "FFlagLuauStacklessTypeClone3_Rollout": "True;60;2024-02-05T23:52:24",
+  "FFlagDebugGraphicsReportMemoryCategoryOnLeaks": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10775,8 +10775,8 @@
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagNewScriptContext3": "True",
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
-  "FStringFlagRepoGitHashFastString": "52c5b2f420f8b6e7afa1459cbdab26a4b67a7dae",
-  "DFStringFlagRepoGitHashDynamicString": "52c5b2f420f8b6e7afa1459cbdab26a4b67a7dae",
-  "FStringFlipTimeStampFastString": "2024-02-05T23:52:47.389Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-05T23:52:47.389Z"
+  "FStringFlagRepoGitHashFastString": "33ed31a336aaafcd89aea18600a571f00fa7f876",
+  "DFStringFlagRepoGitHashDynamicString": "33ed31a336aaafcd89aea18600a571f00fa7f876",
+  "FStringFlipTimeStampFastString": "2024-02-06T00:00:20.250Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-06T00:00:20.250Z"
 }
