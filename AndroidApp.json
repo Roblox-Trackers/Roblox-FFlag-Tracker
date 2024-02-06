@@ -10376,10 +10376,10 @@
   "FFlagLuauStacklessTypeClone3_Rollout": "True;60;2024-02-05T23:52:24",
   "FFlagDebugGraphicsReportMemoryCategoryOnLeaks": "True",
   "DFFlagBufferWebSerialize": "True",
-  "FFlagHeapProfilerGraphActorVms_Rollout": "True;20;2024-02-06T00:15:01",
-  "FFlagLuauCache32BitAsmConsts_Rollout": "True;20;2024-02-06T00:16:47",
-  "FFlagLuauCodegenMathMemArgs_Rollout": "True;20;2024-02-06T00:18:39",
   "FFlagLuauCodegenVector_Rollout": "True;20;2024-02-06T00:24:31",
+  "FFlagHeapProfilerGraphActorVms": "True",
+  "FFlagLuauCache32BitAsmConsts": "True",
+  "FFlagLuauCodegenMathMemArgs": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10778,8 +10778,8 @@
   "AndroidSendCurrentOrientationAfterSoftwareInitiatedRotation3": "False",
   "FFlagNewScriptContext3": "True",
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
-  "FStringFlagRepoGitHashFastString": "07052bb16b697aed545e5f85f66f45fbe309f8f5",
-  "DFStringFlagRepoGitHashDynamicString": "07052bb16b697aed545e5f85f66f45fbe309f8f5",
-  "FStringFlipTimeStampFastString": "2024-02-06T00:26:48.773Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-06T00:26:48.773Z"
+  "FStringFlagRepoGitHashFastString": "35f8084abd7b4f416e8d81ec395dd468d37027ac",
+  "DFStringFlagRepoGitHashDynamicString": "35f8084abd7b4f416e8d81ec395dd468d37027ac",
+  "FStringFlipTimeStampFastString": "2024-02-06T00:44:56.330Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-06T00:44:56.330Z"
 }
