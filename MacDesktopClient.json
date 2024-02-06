@@ -10384,6 +10384,7 @@
   "FFlagPasswordlessSignupAuthEnabledRelease1": "True",
   "FFlagContactsToastExperimentEnabledv1": "True",
   "FFlagPassNavigationIntoContactsList": "True",
+  "DFIntDebugCrashOnShutdownProbability1_Rollout": "100;60;2024-02-06T19:39:42",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10682,8 +10683,8 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
-  "FStringFlagRepoGitHashFastString": "82eac12f9984c28be6c1e15e562f4df66a9b3a3b",
-  "DFStringFlagRepoGitHashDynamicString": "82eac12f9984c28be6c1e15e562f4df66a9b3a3b",
-  "FStringFlipTimeStampFastString": "2024-02-06T19:36:31.505Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-06T19:36:31.505Z"
+  "FStringFlagRepoGitHashFastString": "8a184d72476436a7a14cfa4a32bb4450cd9e5300",
+  "DFStringFlagRepoGitHashDynamicString": "8a184d72476436a7a14cfa4a32bb4450cd9e5300",
+  "FStringFlipTimeStampFastString": "2024-02-06T19:39:59.725Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-06T19:39:59.725Z"
 }
