@@ -10392,6 +10392,7 @@
   "FFlagMigrateFetchChatData": "True",
   "FFlagUseRoduxGetUnreadConversationCount": "True",
   "FFlagRenameUserToFriend": "True",
+  "FFlagStudioFixWindowFocus_Rollout": "True;30;2024-02-06T21:25:31",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10685,8 +10686,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "ff485783184761cb40a7c9918e4018da8e98cef7",
-  "DFStringFlagRepoGitHashDynamicString": "ff485783184761cb40a7c9918e4018da8e98cef7",
-  "FStringFlipTimeStampFastString": "2024-02-06T21:21:09.047Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-06T21:21:09.047Z"
+  "FStringFlagRepoGitHashFastString": "08c935e814813a6a2b4f110c455cccf9e6abc5c7",
+  "DFStringFlagRepoGitHashDynamicString": "08c935e814813a6a2b4f110c455cccf9e6abc5c7",
+  "FStringFlipTimeStampFastString": "2024-02-06T21:26:49.452Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-06T21:26:49.452Z"
 }
