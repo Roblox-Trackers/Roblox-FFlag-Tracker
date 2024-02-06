@@ -10367,7 +10367,6 @@
   "DFIntPerformanceControlEventBasedTelemetryTunableChangeEventNumReportsPerSecond": "2",
   "FFlagCollaborationNeutralNotificationIcons": "True",
   "FFlagCOLLAB5162TrackUserIdle2": "True",
-  "DFFlagBufferWebSerialize_Rollout": "True;60;2024-02-05T23:01:39",
   "FFlagLuauAlwaysCommitInferencesOfFunctionCalls": "True",
   "FFlagLuauOkWithIteratingOverTableProperties": "True",
   "FFlagAndroidCameraCaptureUseTemplatePreview": "True",
@@ -10377,6 +10376,7 @@
   "DFFlagCLI92377": "True",
   "FFlagLuauStacklessTypeClone3_Rollout": "True;60;2024-02-05T23:52:24",
   "FFlagDebugGraphicsReportMemoryCategoryOnLeaks": "True",
+  "DFFlagBufferWebSerialize": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10570,8 +10570,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "033ad4d4c55c13fbb7d40adc67db51929dcb6980",
-  "DFStringFlagRepoGitHashDynamicString": "033ad4d4c55c13fbb7d40adc67db51929dcb6980",
-  "FStringFlipTimeStampFastString": "2024-02-06T00:01:37.905Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-06T00:01:37.905Z"
+  "FStringFlagRepoGitHashFastString": "d0d964549dc77d4b0d8e816fe14e6f399eb112cb",
+  "DFStringFlagRepoGitHashDynamicString": "d0d964549dc77d4b0d8e816fe14e6f399eb112cb",
+  "FStringFlipTimeStampFastString": "2024-02-06T00:06:35.575Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-06T00:06:35.575Z"
 }
