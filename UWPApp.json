@@ -10386,6 +10386,8 @@
   "FFlagPassNavigationIntoContactsList": "True",
   "DFIntDebugCrashOnShutdownProbability1": "100",
   "FFlagAndroidCameraCaptureFlags_Rollout": "True;60;2024-02-06T20:54:07",
+  "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-02-06T21:02:41",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-02-06T21:03:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10579,8 +10581,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "a7b4d233d335becaef32f43f222c9c2aa00ada92",
-  "DFStringFlagRepoGitHashDynamicString": "a7b4d233d335becaef32f43f222c9c2aa00ada92",
-  "FStringFlipTimeStampFastString": "2024-02-06T20:56:07.361Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-06T20:56:07.361Z"
+  "FStringFlagRepoGitHashFastString": "ef73b3168c14ffe99bcd8819d772432c3c8c2c63",
+  "DFStringFlagRepoGitHashDynamicString": "ef73b3168c14ffe99bcd8819d772432c3c8c2c63",
+  "FStringFlipTimeStampFastString": "2024-02-06T21:03:43.196Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-06T21:03:43.196Z"
 }
