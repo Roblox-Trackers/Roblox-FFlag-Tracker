@@ -8809,7 +8809,7 @@
   "FFlagValidateUserAndUniverseNoModeration": "True",
   "DFIntRobloxTelemetryStatThresholdHundredthsPercent": "100",
   "FFlagTrackSessionHistory": "True",
-  "DFIntMappedFileThrottleHundrethPercent": "200",
+  "DFIntMappedFileThrottleHundrethPercent": "1000",
   "FFlagFixLocalScriptsUnderTestService3": "True",
   "FFlagUndoTextureManagerStudioCursorHack": "True",
   "FFlagVoiceChatThreadPoolShutdownFix": "True",
@@ -10383,7 +10383,6 @@
   "FFlagPlayerContextualMenuFriendRequestResponses": "True",
   "FFlagPasswordlessSignupAuthEnabledRelease1": "True",
   "FFlagContactsToastExperimentEnabledv1": "True",
-  "DFIntMappedFileThrottleHundrethPercent_Rollout": "1000;10;2024-02-06T19:23:07",
   "FFlagPassNavigationIntoContactsList": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -10694,8 +10693,8 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "FStringFlagRepoGitHashFastString": "1064b87f9d26bb577cd885bfab0c9248f705721b",
-  "DFStringFlagRepoGitHashDynamicString": "1064b87f9d26bb577cd885bfab0c9248f705721b",
-  "FStringFlipTimeStampFastString": "2024-02-06T19:33:37.289Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-06T19:33:37.289Z"
+  "FStringFlagRepoGitHashFastString": "82eac12f9984c28be6c1e15e562f4df66a9b3a3b",
+  "DFStringFlagRepoGitHashDynamicString": "82eac12f9984c28be6c1e15e562f4df66a9b3a3b",
+  "FStringFlipTimeStampFastString": "2024-02-06T19:36:31.505Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-06T19:36:31.505Z"
 }
