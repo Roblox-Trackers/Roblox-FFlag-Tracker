@@ -10397,12 +10397,12 @@
   "FFlagLuaAppScrollTelemetrySize2": "True",
   "FFlagFixPlatformCloudStorageCrash": "True",
   "DFFlagWebSocketSwapEvents": "True",
-  "DFFlagEnableTerminatedInvocationTelemetry_Rollout": "True;30;2024-02-06T23:19:39",
   "DFFlagReportStreamingStateOnPublishToEventIngest_Rollout": "True;60;2024-02-06T23:21:21",
   "DFFlagPlayerGuiNullCheck_Rollout": "True;60;2024-02-06T23:21:28",
   "FFlagPlayerContextualMenuSetGamePlaySession": "True",
   "ValidateContentProviderCaller": "True",
   "FFlagStopReadingThumbsOutOfStore": "True",
+  "DFFlagEnableTerminatedInvocationTelemetry": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10702,8 +10702,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "0c22ae638fa58c342282330aa594f9c424c59e0a",
-  "DFStringFlagRepoGitHashDynamicString": "0c22ae638fa58c342282330aa594f9c424c59e0a",
-  "FStringFlipTimeStampFastString": "2024-02-06T23:50:53.225Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-06T23:50:53.225Z"
+  "FStringFlagRepoGitHashFastString": "8766ccabf894e65df59851543804469159fb9788",
+  "DFStringFlagRepoGitHashDynamicString": "8766ccabf894e65df59851543804469159fb9788",
+  "FStringFlipTimeStampFastString": "2024-02-06T23:56:26.055Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-06T23:56:26.055Z"
 }
