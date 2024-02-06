@@ -10071,7 +10071,7 @@
   "FFlagToolboxStoreRename": "True",
   "FFlagGraphicsFixMeshChangeParent": "True",
   "FFlagStudioActionConversionGroupXML1": "True",
-  "DFStringNewFlagRolloutFlagsWhitelist": "DFFlagFlagRolloutTestDynamicBool0;DFFlagFlagRolloutTestDynamicBool1;DFFlagFlagRolloutTestDynamicBool2;FFlagFlagRolloutTestStaticBool0;FFlagFlagRolloutTestStaticBool1;FFlagFlagRolloutTestStaticBool2",
+  "DFStringNewFlagRolloutFlagsWhitelist": "DFFlagDebugCrashOnShutdown1;DFFlagFlagRolloutTestDynamicBool0;DFFlagFlagRolloutTestDynamicBool1;DFFlagFlagRolloutTestDynamicBool2;FFlagFlagRolloutTestStaticBool0;FFlagFlagRolloutTestStaticBool1;FFlagFlagRolloutTestStaticBool2",
   "FFlagUseTokensSizeInIconButton": "True",
   "DFFlagAddPlayerTrial": "True",
   "DFFlagTestServiceNicerMessageOnWaiting": "True",
@@ -10676,8 +10676,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "df655216d6ffddd3765c987f44c72c2b8d739f0a",
-  "DFStringFlagRepoGitHashDynamicString": "df655216d6ffddd3765c987f44c72c2b8d739f0a",
-  "FStringFlipTimeStampFastString": "2024-02-06T19:23:35.566Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-06T19:23:35.566Z"
+  "FStringFlagRepoGitHashFastString": "a18c2e3b7d0740d4e95889b3bff011b59aedfdc5",
+  "DFStringFlagRepoGitHashDynamicString": "a18c2e3b7d0740d4e95889b3bff011b59aedfdc5",
+  "FStringFlipTimeStampFastString": "2024-02-06T19:30:22.981Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-06T19:30:22.981Z"
 }
