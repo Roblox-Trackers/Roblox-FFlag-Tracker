@@ -10410,6 +10410,7 @@
   "DFFlagSimSolverOptimizedNanInfDetection_Rollout": "False;60;2024-02-07T19:12:45",
   "DFFlagOpenCloudAdditionalFeaturesEnabled_Rollout": "True;60;2024-02-07T19:18:11",
   "DFFlagRemoveHumanoidActivePhysics_Rollout": "True;60;2024-02-07T19:25:23",
+  "DFStringOpenCloudSupportedMethodNamesCsv_Rollout": "userNotification;60;2024-02-07T19:29:42",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10703,8 +10704,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "c2724ffec8fbf8318a8080fba167e50f512a213f",
-  "DFStringFlagRepoGitHashDynamicString": "c2724ffec8fbf8318a8080fba167e50f512a213f",
-  "FStringFlipTimeStampFastString": "2024-02-07T19:25:58.576Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-07T19:25:58.576Z"
+  "FStringFlagRepoGitHashFastString": "416904de14c45a80c0809bc01bc7d02295d643f5",
+  "DFStringFlagRepoGitHashDynamicString": "416904de14c45a80c0809bc01bc7d02295d643f5",
+  "FStringFlipTimeStampFastString": "2024-02-07T19:30:07.986Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-07T19:30:07.986Z"
 }
