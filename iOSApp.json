@@ -10401,12 +10401,12 @@
   "ValidateContentProviderCaller": "True",
   "FFlagStopReadingThumbsOutOfStore": "True",
   "DFFlagEnableTerminatedInvocationTelemetry": "True",
-  "FFlagPSCredentialsProtocolMod_Rollout": "True;60;2024-02-07T00:06:50",
-  "FFlagPSCredentialsProtocolModAsync_Rollout": "True;60;2024-02-07T00:07:03",
   "DFFlagPublishAssetPrompt2_PlaceFilter": "True;12433625183;12433850780;14993576210;15003722226;15068553851;2091563160;1457345133;4702052356;5152757352;5400754473;5709630325;6264388643;6264491664;6602682364;6747702209;7100339489;3633505977;5846386835;5846387555;5867227007;6109544022;6525652118;6815758567;8447698864;14942456037;15295547507;12992503026;14182040324;14182838222;14182840591;14476776051;15185685621;15592084275",
   "DFFlagPlayerGuiNullCheck": "True",
   "DFFlagReportStreamingStateOnPublishToEventIngest": "True",
   "FFlagLooksRefreshDetailsAfterPurchase": "True",
+  "FFlagPSCredentialsProtocolMod": "True",
+  "FFlagPSCredentialsProtocolModAsync": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10779,8 +10779,8 @@
   "FFlagPerformanceControlInferenceHandling": "True",
   "DFIntPerformanceControlInferenceChanceHundredthsPercent": "5000",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "2e09da1c332c0414111fc879f7ca89b81e35ab01",
-  "DFStringFlagRepoGitHashDynamicString": "2e09da1c332c0414111fc879f7ca89b81e35ab01",
-  "FStringFlipTimeStampFastString": "2024-02-07T00:58:10.566Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-07T00:58:10.566Z"
+  "FStringFlagRepoGitHashFastString": "eab789f6293c89f41b5bd9c36d9ce90124fdb486",
+  "DFStringFlagRepoGitHashDynamicString": "eab789f6293c89f41b5bd9c36d9ce90124fdb486",
+  "FStringFlipTimeStampFastString": "2024-02-07T01:11:56.390Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-07T01:11:56.390Z"
 }
