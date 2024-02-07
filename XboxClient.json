@@ -10405,7 +10405,6 @@
   "FFlagChangeStaticEnabledCheckForStreamingToNonStatic": "True",
   "DFFlagDataStoreEnforceV2LocalThrottles": "True",
   "DFFlagOpenCloudLuaEnabled": "True",
-  "DFIntOpenCloudInvokeAsyncPerMinuteThrottle_Rollout": "100;60;2024-02-07T19:48:06",
   "FFlagOpenCloudCoreScriptLuaEnabled": "True",
   "FFlagEndCallRefactor": "True",
   "DFFlagEnableTCSChatTranslation_PlaceFilter": "False;2753915549;1044976146;1377525653;142823291;6872265039;9872472334;1537690962;2768379856;7041939546;4996049426;537413528;893973440;8712817601;1962086868;4623386862;5289509545;6205205961;4111023553;4639625707;1554960397;735030788;1213564040;1496638709;7074772062;4566572536;6961824067",
@@ -10413,6 +10412,7 @@
   "DFFlagRemoveHumanoidActivePhysics": "True",
   "DFStringOpenCloudSupportedMethodNamesCsv": "userNotification",
   "FFlagLuaAppScrollTelemetryHorizontal": "True",
+  "DFIntOpenCloudInvokeAsyncPerMinuteThrottle": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10719,8 +10719,8 @@
   "FFlagXboxAppBridgeNotifyPLM": "True",
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
-  "FStringFlagRepoGitHashFastString": "a35963e694c38320a840dc84178321843f34f877",
-  "DFStringFlagRepoGitHashDynamicString": "a35963e694c38320a840dc84178321843f34f877",
-  "FStringFlipTimeStampFastString": "2024-02-07T20:38:40.503Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-07T20:38:40.503Z"
+  "FStringFlagRepoGitHashFastString": "8035363ac5ae2ae990d30089b19e582816833238",
+  "DFStringFlagRepoGitHashDynamicString": "8035363ac5ae2ae990d30089b19e582816833238",
+  "FStringFlipTimeStampFastString": "2024-02-07T20:56:16.149Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-07T20:56:16.149Z"
 }
