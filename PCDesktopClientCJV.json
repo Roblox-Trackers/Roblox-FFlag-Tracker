@@ -10432,6 +10432,7 @@
   "AllowVideoPreRoll": "True",
   "FFlagLuauTaggedLuData_Rollout": "True;60;2024-02-07T23:46:13",
   "DFFlagLuauCodeGenCheckGcEffectFix_Rollout": "True;20;2024-02-07T23:47:50",
+  "DFFlagLuauCodeGenFixBufferLenCheckA64_Rollout": "True;20;2024-02-07T23:49:13",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10725,8 +10726,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "e8ebbac0dec313f05b91a6117e77738fcc4cc79c",
-  "DFStringFlagRepoGitHashDynamicString": "e8ebbac0dec313f05b91a6117e77738fcc4cc79c",
-  "FStringFlipTimeStampFastString": "2024-02-07T23:48:08.818Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-07T23:48:08.818Z"
+  "FStringFlagRepoGitHashFastString": "e10fc01d3a12609a5ec34ab23cf1c7507f08f045",
+  "DFStringFlagRepoGitHashDynamicString": "e10fc01d3a12609a5ec34ab23cf1c7507f08f045",
+  "FStringFlipTimeStampFastString": "2024-02-07T23:49:35.090Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-07T23:49:35.090Z"
 }
