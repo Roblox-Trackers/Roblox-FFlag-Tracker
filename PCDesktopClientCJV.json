@@ -10419,6 +10419,7 @@
   "FFlagRemoveLiveEditingSettingHandler": "True",
   "FFlagAssetsUploadAdaptSinglePartToAllowVersionUpload_Rollout": "True;10;2024-02-07T22:42:16",
   "FFlagStudioNewPlaceUploadUseNewFlow1_Rollout": "True;10;2024-02-07T22:43:51",
+  "FFlagAssertionWhenClickOnDocView": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10713,8 +10714,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "c37ebb1dd1bcb71cf85967b82ed46a163aedd1f4",
-  "DFStringFlagRepoGitHashDynamicString": "c37ebb1dd1bcb71cf85967b82ed46a163aedd1f4",
-  "FStringFlipTimeStampFastString": "2024-02-07T22:45:54.517Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-07T22:45:54.517Z"
+  "FStringFlagRepoGitHashFastString": "bbcc15b9d49a96d250e3053baee0123cb2ea7958",
+  "DFStringFlagRepoGitHashDynamicString": "bbcc15b9d49a96d250e3053baee0123cb2ea7958",
+  "FStringFlipTimeStampFastString": "2024-02-07T22:47:56.159Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-07T22:47:56.159Z"
 }
