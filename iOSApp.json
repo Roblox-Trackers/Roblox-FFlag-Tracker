@@ -10403,6 +10403,7 @@
   "ValidateContentProviderCaller": "True",
   "FFlagStopReadingThumbsOutOfStore": "True",
   "DFFlagEnableTerminatedInvocationTelemetry": "True",
+  "FFlagPSCredentialsProtocolMod_Rollout": "True;60;2024-02-07T00:06:50",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10775,8 +10776,8 @@
   "FFlagPerformanceControlInferenceHandling": "True",
   "DFIntPerformanceControlInferenceChanceHundredthsPercent": "5000",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "8766ccabf894e65df59851543804469159fb9788",
-  "DFStringFlagRepoGitHashDynamicString": "8766ccabf894e65df59851543804469159fb9788",
-  "FStringFlipTimeStampFastString": "2024-02-06T23:56:26.055Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-06T23:56:26.055Z"
+  "FStringFlagRepoGitHashFastString": "52149157324b1ae4abb0d03c96f4921aa56009e9",
+  "DFStringFlagRepoGitHashDynamicString": "52149157324b1ae4abb0d03c96f4921aa56009e9",
+  "FStringFlipTimeStampFastString": "2024-02-07T00:10:55.513Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-07T00:10:55.513Z"
 }
