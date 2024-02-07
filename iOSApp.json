@@ -10428,6 +10428,7 @@
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-02-07T23:33:18",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-02-07T23:34:25",
   "FFlagDeviceIdUsesAfterFirstUnlockKeychainAccess": "True",
+  "DFFlagThreadsafeContactManagerOverlapQuery_Rollout": "True;60;2024-02-07T23:40:46",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10800,8 +10801,8 @@
   "FFlagPerformanceControlInferenceHandling": "True",
   "DFIntPerformanceControlInferenceChanceHundredthsPercent": "5000",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "4a02b7220d4b4221341c4d26ea03743e3e5ef49e",
-  "DFStringFlagRepoGitHashDynamicString": "4a02b7220d4b4221341c4d26ea03743e3e5ef49e",
-  "FStringFlipTimeStampFastString": "2024-02-07T23:39:14.543Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-07T23:39:14.543Z"
+  "FStringFlagRepoGitHashFastString": "da04a99a83a2afe9f3ecdbb3d07403b98302e80f",
+  "DFStringFlagRepoGitHashDynamicString": "da04a99a83a2afe9f3ecdbb3d07403b98302e80f",
+  "FStringFlipTimeStampFastString": "2024-02-07T23:41:17.968Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-07T23:41:17.968Z"
 }
