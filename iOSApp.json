@@ -10419,10 +10419,11 @@
   "FFlagRemoveLiveEditingSettingHandler": "True",
   "FFlagAssertionWhenClickOnDocView": "True",
   "FFlagScriptEditorSettingTelemetry": "True",
-  "FStringStudioNewPlaceUploadOptInPlaceIds_Rollout": "14976723023;10;2024-02-07T22:53:57",
   "FFlagAssetsUploadAdaptSinglePartToAllowVersionUpload": "True",
   "FFlagStudioNewPlaceUploadUseNewFlow1": "True",
   "FFlagSessionL2ContextFocus_Rollout": "True;60;2024-02-07T22:56:22",
+  "DFFlagStreamJobIterationStats_Rollout": "True;60;2024-02-07T23:06:13",
+  "FStringStudioNewPlaceUploadOptInPlaceIds": "14976723023",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10795,8 +10796,8 @@
   "FFlagPerformanceControlInferenceHandling": "True",
   "DFIntPerformanceControlInferenceChanceHundredthsPercent": "5000",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "152d9a79d11fa477d4abb17f887533a1ee89c191",
-  "DFStringFlagRepoGitHashDynamicString": "152d9a79d11fa477d4abb17f887533a1ee89c191",
-  "FStringFlipTimeStampFastString": "2024-02-07T22:56:40.982Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-07T22:56:40.982Z"
+  "FStringFlagRepoGitHashFastString": "9498079952485d52869296bbdeebb636858f4133",
+  "DFStringFlagRepoGitHashDynamicString": "9498079952485d52869296bbdeebb636858f4133",
+  "FStringFlipTimeStampFastString": "2024-02-07T23:06:53.619Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-07T23:06:53.619Z"
 }
