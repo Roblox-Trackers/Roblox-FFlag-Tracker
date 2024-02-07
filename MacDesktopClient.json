@@ -10397,8 +10397,6 @@
   "FFlagLuaAppScrollTelemetrySize2": "True",
   "FFlagFixPlatformCloudStorageCrash": "True",
   "DFFlagWebSocketSwapEvents": "True",
-  "DFFlagReportStreamingStateOnPublishToEventIngest_Rollout": "True;60;2024-02-06T23:21:21",
-  "DFFlagPlayerGuiNullCheck_Rollout": "True;60;2024-02-06T23:21:28",
   "FFlagPlayerContextualMenuSetGamePlaySession": "True",
   "ValidateContentProviderCaller": "True",
   "FFlagStopReadingThumbsOutOfStore": "True",
@@ -10406,6 +10404,8 @@
   "FFlagPSCredentialsProtocolMod_Rollout": "True;60;2024-02-07T00:06:50",
   "FFlagPSCredentialsProtocolModAsync_Rollout": "True;60;2024-02-07T00:07:03",
   "DFFlagPublishAssetPrompt2_PlaceFilter": "True;12433625183;12433850780;14993576210;15003722226;15068553851;2091563160;1457345133;4702052356;5152757352;5400754473;5709630325;6264388643;6264491664;6602682364;6747702209;7100339489;3633505977;5846386835;5846387555;5867227007;6109544022;6525652118;6815758567;8447698864;14942456037;15295547507;12992503026;14182040324;14182838222;14182840591;14476776051;15185685621;15592084275",
+  "DFFlagPlayerGuiNullCheck": "True",
+  "DFFlagReportStreamingStateOnPublishToEventIngest": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10705,8 +10705,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "863084784cf90505d714853115e8a0adaebe37cb",
-  "DFStringFlagRepoGitHashDynamicString": "863084784cf90505d714853115e8a0adaebe37cb",
-  "FStringFlipTimeStampFastString": "2024-02-07T00:25:15.597Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-07T00:25:15.597Z"
+  "FStringFlagRepoGitHashFastString": "680ee175f68adbb379acd1d277ebd0f3bf1b481b",
+  "DFStringFlagRepoGitHashDynamicString": "680ee175f68adbb379acd1d277ebd0f3bf1b481b",
+  "FStringFlipTimeStampFastString": "2024-02-07T00:26:39.371Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-07T00:26:39.371Z"
 }
