@@ -10462,6 +10462,7 @@
   "FFlagLuauCodegenLuData_Rollout": "True;20;2024-02-08T19:37:29",
   "FFlagDraggerSettings_Rollout": "True;30;2024-02-08T19:41:06",
   "FFlagLuaAppChangeAvatarSessionLevels": "True",
+  "DFFlagPreventGCForIncreaseTunableRequests": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
