@@ -10423,7 +10423,6 @@
   "FStringStudioNewPlaceUploadOptInPlaceIds": "14976723023,8219868625",
   "FFlagCinGltfStatusFix": "True",
   "FFlagDeviceIdUsesAfterFirstUnlockKeychainAccess": "True",
-  "AllowVideoPreRoll": "True",
   "FFlagLuauTaggedLuData_Rollout": "True;60;2024-02-07T23:46:13",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "DFFlagHttpCurlOSErrno": "True",
@@ -10444,6 +10443,7 @@
   "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-02-08T00:45:38",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-02-08T00:45:54",
   "DFFlagThreadsafeContactManagerOverlapQuery": "True",
+  "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -10461,6 +10461,7 @@
   "FFlagAvatarEditorServiceCreateOutfitSupportsGears": "True",
   "FFlagEnableHideLeftTabBarWhenLandingOnAX": "True",
   "FFlagStreamSoundsCompressedInMemory3": "True",
+  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -10734,9 +10735,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "07d070603019579c05ed00019c7948a5c799ec93",
-  "DFStringFlagRepoGitHashDynamicString": "07d070603019579c05ed00019c7948a5c799ec93",
-  "FStringFlipTimeStampFastString": "2024-02-08T00:46:23.328Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T00:46:23.328Z"
+  "FStringFlagRepoGitHashFastString": "66770f1fcf740982cf4ba30585a34ac5936e9c39",
+  "DFStringFlagRepoGitHashDynamicString": "66770f1fcf740982cf4ba30585a34ac5936e9c39",
+  "FStringFlipTimeStampFastString": "2024-02-08T00:46:35.115Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T00:46:35.115Z"
 }
