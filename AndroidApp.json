@@ -4558,7 +4558,7 @@
   "DFIntMemoryUtilityCurveNumSegments": "15",
   "DFIntMemoryUtilityCurvePenaltyBuffer": "400000000",
   "DFIntMemoryUtilityCurveSlopeMultiplierHundreths": "180",
-  "DFIntMemoryUtilityCurveTotalMemoryReserve": "100000000",
+  "DFIntMemoryUtilityCurveTotalMemoryReserve": "600000000",
   "DFIntPerformanceControlIXPBestQueueSize": "500",
   "DFIntPerformanceControlIXPQueueSizeBestUtility": "100",
   "DFIntPerformanceControlIXPQueueSizeUtilityExponentTenThousandths": "30000",
@@ -10841,8 +10841,8 @@
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
   "EnableAndroidCredentialsProtocol": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
-  "FStringFlagRepoGitHashFastString": "e0c8a5b0821c7f86b30a8edddeb894c83ade6336",
-  "DFStringFlagRepoGitHashDynamicString": "e0c8a5b0821c7f86b30a8edddeb894c83ade6336",
-  "FStringFlipTimeStampFastString": "2024-02-08T17:48:12.067Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T17:48:12.067Z"
+  "FStringFlagRepoGitHashFastString": "8080e07e9c50f3c65685d4effc21dc40e15f3cb4",
+  "DFStringFlagRepoGitHashDynamicString": "8080e07e9c50f3c65685d4effc21dc40e15f3cb4",
+  "FStringFlipTimeStampFastString": "2024-02-08T17:52:01.135Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T17:52:01.135Z"
 }
