@@ -10439,7 +10439,6 @@
   "FFlagRegionReplaceEvaporate": "True",
   "DFFlagDynamicFastVariableReloaderTest1": "True",
   "FFlagLuaAppRefactorPlayButtonHandler3": "True",
-  "FFlagVideoStudioPreviewPermissionFix_Rollout": "True;60;2024-02-08T17:58:37",
   "FFlagBootcampCLI94556_Rollout": "True;60;2024-02-08T18:05:26",
   "DFIntRCCInstanceTrackingOnElasticSearchHundredthsPercentage": "100",
   "FFlagPlayerContextualMenuAddUnblockCTA": "True",
@@ -10454,6 +10453,7 @@
   "FFlagEnableGateNotificationPreferencesTab": "True",
   "FFlagTrackSpinBoxCorrectly": "True",
   "FFlagDFVideoStudioPreviewPermissionFix2": "True",
+  "FFlagVideoStudioPreviewPermissionFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10745,8 +10745,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "cc161360f90e135fb871202a2424172cb7db386b",
-  "DFStringFlagRepoGitHashDynamicString": "cc161360f90e135fb871202a2424172cb7db386b",
-  "FStringFlipTimeStampFastString": "2024-02-08T19:05:27.476Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T19:05:27.476Z"
+  "FStringFlagRepoGitHashFastString": "ca766233ec36784009057d7a0ab73025c1b5040b",
+  "DFStringFlagRepoGitHashDynamicString": "ca766233ec36784009057d7a0ab73025c1b5040b",
+  "FStringFlipTimeStampFastString": "2024-02-08T19:06:47.053Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T19:06:47.053Z"
 }
