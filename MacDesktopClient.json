@@ -10422,7 +10422,6 @@
   "FStringStudioNewPlaceUploadOptInPlaceIds": "14976723023,8219868625",
   "FFlagCinGltfStatusFix": "True",
   "FFlagDeviceIdUsesAfterFirstUnlockKeychainAccess": "True",
-  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "DFFlagHttpCurlOSErrno": "True",
   "DFFlagHttpCurlErrBuf": "True",
   "DFFlagHttpCurlFallbackIPv4": "True",
@@ -10443,6 +10442,9 @@
   "DFFlagThreadsafeContactManagerOverlapQuery": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
   "FFlagLuauTaggedLuData": "True",
+  "FFlagNewScriptContext3": "True",
+  "DFFlagDynamicFastVariableReloaderTest1_Rollout": "True;60;2024-02-08T00:56:22",
+  "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -10453,7 +10455,6 @@
   "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "True",
   "FFlagRenderEnableGlobalInstancingMetal": "True",
   "FFlagFaceAnimatorGuardVideoAnimationEnabled": "True",
-  "FFlagNewScriptContext3": "True",
   "FFlagGpuGeometryManager12": "True",
   "FFlagLooksAnalyticsEmptyItemsFixes": "True",
   "FFlagAXFixFilterNotWorkProperlyOnSearchPage": "True",
@@ -10740,8 +10741,8 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
-  "FStringFlagRepoGitHashFastString": "a57d3e70cf75bcdf9f0cdfd928432703e36ab6d1",
-  "DFStringFlagRepoGitHashDynamicString": "a57d3e70cf75bcdf9f0cdfd928432703e36ab6d1",
-  "FStringFlipTimeStampFastString": "2024-02-08T00:55:17.446Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T00:55:17.446Z"
+  "FStringFlagRepoGitHashFastString": "4cea2a9da69d10775fa1936c8385cf3f9f51ad2e",
+  "DFStringFlagRepoGitHashDynamicString": "4cea2a9da69d10775fa1936c8385cf3f9f51ad2e",
+  "FStringFlipTimeStampFastString": "2024-02-08T00:57:00.074Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T00:57:00.074Z"
 }
