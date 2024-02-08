@@ -10430,7 +10430,6 @@
   "DFFlagLuauCodeGenFixBufferLenCheckA64": "True",
   "DFFlagFixHumanoidStateTypeNameNullTelemetryCrash": "True",
   "FFlagTerrainEditorTimeRemaining": "True",
-  "FFlagTerrainEditorBetaFeature": "True",
   "DFFlagThreadsafeContactManagerOverlapQuery": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
   "FFlagLuauTaggedLuData": "True",
@@ -10449,6 +10448,8 @@
   "FFlagSessionChangeEventRefactor_Rollout": "True;30;2024-02-08T18:53:03",
   "FFlagDraggerBetterResizePrecision": "True",
   "FFlagFaceAnimatorFixMemoryOrder_Rollout": "True;60;2024-02-08T18:56:08",
+  "FFlagTrackSpinBoxCorrectly_Rollout": "True;1;2024-02-08T18:57:09",
+  "FFlagLuaAppMorePageCreateLinkUpdate": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10746,8 +10747,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagRuntimeEnabled4": "True",
-  "FStringFlagRepoGitHashFastString": "29b73acef3c8883b1cbb3ca586abfc3408598d9b",
-  "DFStringFlagRepoGitHashDynamicString": "29b73acef3c8883b1cbb3ca586abfc3408598d9b",
-  "FStringFlipTimeStampFastString": "2024-02-08T18:57:24.936Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T18:57:24.936Z"
+  "FStringFlagRepoGitHashFastString": "e5e4e1e9e7aa68abfd190a5481e488f8d7db04f0",
+  "DFStringFlagRepoGitHashDynamicString": "e5e4e1e9e7aa68abfd190a5481e488f8d7db04f0",
+  "FStringFlipTimeStampFastString": "2024-02-08T18:57:59.361Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T18:57:59.361Z"
 }
