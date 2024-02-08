@@ -9271,7 +9271,7 @@
   "FFlagTenFootUiPlayerCarousel4": "True",
   "DFFlagStreamJobPostLocationTime": "True",
   "FFlagLuauFixIndexerSubtypingOrdering": "True",
-  "DFIntLogReportingStatsHundredthsPercent": "500",
+  "DFIntLogReportingStatsHundredthsPercent": "250",
   "FFlagContactRecs_v4": "True",
   "FFlagContactRecs": "True",
   "FFlagContactRecs_v1": "True",
@@ -10429,7 +10429,6 @@
   "DFFlagStreamJobIterationStats": "True",
   "DFFlagLuauCodeGenCheckGcEffectFix": "True",
   "DFFlagLuauCodeGenFixBufferLenCheckA64": "True",
-  "DFIntLogReportingStatsHundredthsPercent_Rollout": "250;60;2024-02-08T00:30:37",
   "DFFlagFixHumanoidStateTypeNameNullTelemetryCrash": "True",
   "FFlagRegionReplaceEvaporate_Rollout": "True;60;2024-02-08T00:44:26",
   "FFlagTerrainEditorTimeRemaining": "True",
@@ -10815,8 +10814,8 @@
   "DFFlagSendOrientationToPlayersGui": "True",
   "FFlagPerformanceControlInferenceHandling": "True",
   "DFIntPerformanceControlInferenceChanceHundredthsPercent": "5000",
-  "FStringFlagRepoGitHashFastString": "74e2b3eed8c9ab25a493d1ca46743a4c8a961c81",
-  "DFStringFlagRepoGitHashDynamicString": "74e2b3eed8c9ab25a493d1ca46743a4c8a961c81",
-  "FStringFlipTimeStampFastString": "2024-02-08T01:31:23.006Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T01:31:23.006Z"
+  "FStringFlagRepoGitHashFastString": "0bdc94f06aa0328c06152c0e5092570af3e06944",
+  "DFStringFlagRepoGitHashDynamicString": "0bdc94f06aa0328c06152c0e5092570af3e06944",
+  "FStringFlipTimeStampFastString": "2024-02-08T01:36:39.802Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T01:36:39.802Z"
 }
