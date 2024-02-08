@@ -10466,6 +10466,8 @@
   "FFlagLuauSciNumberSkipTrailDot": "True",
   "FFlagDSAConsequenceTransparency": "True",
   "FFlagVideoTimePositionPassDurationFix_Rollout": "True;60;2024-02-08T21:01:17",
+  "DFFlagEngineAPICloudProcessingServiceUseUpdatedRPF": "True",
+  "FFlagEngineAPICloudProcessingUseNotificationClient": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10836,8 +10838,8 @@
   "DFFlagSendOrientationToPlayersGui": "True",
   "FFlagPerformanceControlInferenceHandling": "False",
   "DFIntPerformanceControlInferenceChanceHundredthsPercent": "0",
-  "FStringFlagRepoGitHashFastString": "9d95f20e2e7f8e5626c27fc54a9ecf47e2285fb6",
-  "DFStringFlagRepoGitHashDynamicString": "9d95f20e2e7f8e5626c27fc54a9ecf47e2285fb6",
-  "FStringFlipTimeStampFastString": "2024-02-08T21:15:03.116Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T21:15:03.116Z"
+  "FStringFlagRepoGitHashFastString": "1b34beef5960722257abccea97929d608cf3dab1",
+  "DFStringFlagRepoGitHashDynamicString": "1b34beef5960722257abccea97929d608cf3dab1",
+  "FStringFlipTimeStampFastString": "2024-02-08T21:19:30.455Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T21:19:30.455Z"
 }
