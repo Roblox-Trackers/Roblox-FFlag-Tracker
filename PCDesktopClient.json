@@ -10439,6 +10439,8 @@
   "FFlagStudioEmulatorAlwaysUpdateDevice_Rollout": "True;60;2024-02-08T00:14:16",
   "DFIntLogReportingStatsHundredthsPercent_Rollout": "250;60;2024-02-08T00:30:37",
   "DFFlagFixHumanoidStateTypeNameNullTelemetryCrash": "True",
+  "FFlagRegionReplaceEvaporate_Rollout": "True;60;2024-02-08T00:44:26",
+  "FFlagTerrainEditorTimeRemaining": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -10730,8 +10732,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "1cb62a31da7224276c6c517610501b6db9240098",
-  "DFStringFlagRepoGitHashDynamicString": "1cb62a31da7224276c6c517610501b6db9240098",
-  "FStringFlipTimeStampFastString": "2024-02-08T00:41:41.187Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T00:41:41.187Z"
+  "FStringFlagRepoGitHashFastString": "2d80698822513155d7b4168626da65e7f4fa88b7",
+  "DFStringFlagRepoGitHashDynamicString": "2d80698822513155d7b4168626da65e7f4fa88b7",
+  "FStringFlipTimeStampFastString": "2024-02-08T00:45:02.966Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T00:45:02.966Z"
 }

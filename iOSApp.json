@@ -10439,6 +10439,9 @@
   "FFlagStudioEmulatorAlwaysUpdateDevice_Rollout": "True;60;2024-02-08T00:14:16",
   "DFIntLogReportingStatsHundredthsPercent_Rollout": "250;60;2024-02-08T00:30:37",
   "DFFlagFixHumanoidStateTypeNameNullTelemetryCrash": "True",
+  "FFlagRegionReplaceEvaporate_Rollout": "True;60;2024-02-08T00:44:26",
+  "FFlagTerrainEditorTimeRemaining": "True",
+  "FFlagTerrainEditorBetaFeature": "True",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -10809,8 +10812,8 @@
   "FFlagPerformanceControlInferenceHandling": "True",
   "DFIntPerformanceControlInferenceChanceHundredthsPercent": "5000",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "1cb62a31da7224276c6c517610501b6db9240098",
-  "DFStringFlagRepoGitHashDynamicString": "1cb62a31da7224276c6c517610501b6db9240098",
-  "FStringFlipTimeStampFastString": "2024-02-08T00:41:41.187Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T00:41:41.187Z"
+  "FStringFlagRepoGitHashFastString": "7b83babc6bf7cb5bb1b5d160a909ed0e9e1b6fce",
+  "DFStringFlagRepoGitHashDynamicString": "7b83babc6bf7cb5bb1b5d160a909ed0e9e1b6fce",
+  "FStringFlipTimeStampFastString": "2024-02-08T00:45:11.659Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T00:45:11.659Z"
 }
