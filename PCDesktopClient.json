@@ -10420,7 +10420,6 @@
   "FFlagScriptEditorSettingTelemetry": "True",
   "FFlagAssetsUploadAdaptSinglePartToAllowVersionUpload": "True",
   "FFlagStudioNewPlaceUploadUseNewFlow1": "True",
-  "FFlagSessionL2ContextFocus_Rollout": "True;60;2024-02-07T22:56:22",
   "DFFlagStreamJobIterationStats_Rollout": "True;60;2024-02-07T23:06:13",
   "FStringStudioNewPlaceUploadOptInPlaceIds": "14976723023,8219868625",
   "FFlagCinGltfStatusFix": "True",
@@ -10437,6 +10436,7 @@
   "DFFlagHttpCurlOSErrno": "True",
   "DFFlagHttpCurlErrBuf": "True",
   "DFFlagHttpCurlFallbackIPv4": "True",
+  "FFlagSessionL2ContextFocus": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -10728,8 +10728,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
-  "FStringFlagRepoGitHashFastString": "1d24637042d634e85dffdfb8cc75a7c3d942167a",
-  "DFStringFlagRepoGitHashDynamicString": "1d24637042d634e85dffdfb8cc75a7c3d942167a",
-  "FStringFlipTimeStampFastString": "2024-02-07T23:57:26.944Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-07T23:57:26.944Z"
+  "FStringFlagRepoGitHashFastString": "9f6f967b8cc95d028840c9dcade25f2166b71abb",
+  "DFStringFlagRepoGitHashDynamicString": "9f6f967b8cc95d028840c9dcade25f2166b71abb",
+  "FStringFlipTimeStampFastString": "2024-02-08T00:01:23.224Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T00:01:23.224Z"
 }
