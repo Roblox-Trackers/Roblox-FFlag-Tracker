@@ -4366,7 +4366,7 @@
   "DFFlagPauseSurfaceControllerOnLuaAppDestroy2": "True",
   "FFlagRemoteAddressFromServer": "True",
   "FFlagMaterialAnnotationIncludeArtifactType": "True",
-  "DFFlagEnableHumanoidStateChangeTelemtry": "False",
+  "DFFlagEnableHumanoidStateChangeTelemtry": "True",
   "DFIntHumanoidStateChangeEventIngestThrottleHundrethsPercent": "1",
   "FFlagAinRemoveDescForWidget": "True",
   "FFlagFacialAnimationStreamingServiceFixAnimatorSetup": "True",
@@ -10442,7 +10442,6 @@
   "DFIntRCCInstanceTrackingOnElasticSearchHundredthsPercentage": "100",
   "FFlagPlayerContextualMenuAddUnblockCTA": "True",
   "FFlagSTUDIOPLAT_33359_ReportHangsInProgressAndSid": "True",
-  "DFFlagEnableHumanoidStateChangeTelemtry_Rollout": "True;60;2024-02-08T18:48:32",
   "FFlagDraggerBetterResizePrecision": "True",
   "FFlagFaceAnimatorFixMemoryOrder_Rollout": "True;60;2024-02-08T18:56:08",
   "FFlagLuaAppMorePageCreateLinkUpdate": "True",
@@ -10832,8 +10831,8 @@
   "DFFlagSendOrientationToPlayersGui": "True",
   "FFlagPerformanceControlInferenceHandling": "False",
   "DFIntPerformanceControlInferenceChanceHundredthsPercent": "0",
-  "FStringFlagRepoGitHashFastString": "7540fad563f33a7a61c220480a6128519a45c408",
-  "DFStringFlagRepoGitHashDynamicString": "7540fad563f33a7a61c220480a6128519a45c408",
-  "FStringFlipTimeStampFastString": "2024-02-08T19:48:09.085Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T19:48:09.085Z"
+  "FStringFlagRepoGitHashFastString": "1f9067bc994ebc4832e1af2503f8f0ca95aec3e5",
+  "DFStringFlagRepoGitHashDynamicString": "1f9067bc994ebc4832e1af2503f8f0ca95aec3e5",
+  "FStringFlipTimeStampFastString": "2024-02-08T19:55:11.060Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T19:55:11.060Z"
 }
