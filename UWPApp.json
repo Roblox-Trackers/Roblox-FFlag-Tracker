@@ -10423,8 +10423,6 @@
   "FStringStudioNewPlaceUploadOptInPlaceIds": "14976723023,8219868625",
   "FFlagCinGltfStatusFix": "True",
   "FFlagDeviceIdUsesAfterFirstUnlockKeychainAccess": "True",
-  "DFFlagThreadsafeContactManagerOverlapQuery_Rollout": "True;60;2024-02-07T23:40:46",
-  "DFFlagWriteNewFlagRolloutInformationToAttributesFile_Rollout": "True;60;2024-02-07T23:41:46",
   "FFlagLuauTaggedLuData_Rollout": "True;60;2024-02-07T23:46:13",
   "AllowVideoPreRoll": "True",
   "DFFlagHttpCurlOSErrno": "True",
@@ -10442,6 +10440,10 @@
   "FFlagRegionReplaceEvaporate_Rollout": "True;60;2024-02-08T00:44:26",
   "FFlagTerrainEditorTimeRemaining": "True",
   "FFlagTerrainEditorBetaFeature": "True",
+  "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-02-08T00:45:38",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-02-08T00:45:54",
+  "DFFlagThreadsafeContactManagerOverlapQuery": "True",
+  "DFFlagWriteNewFlagRolloutInformationToAttributesFile": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -10634,8 +10636,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagNewScriptContext3": "True",
-  "FStringFlagRepoGitHashFastString": "7b83babc6bf7cb5bb1b5d160a909ed0e9e1b6fce",
-  "DFStringFlagRepoGitHashDynamicString": "7b83babc6bf7cb5bb1b5d160a909ed0e9e1b6fce",
-  "FStringFlipTimeStampFastString": "2024-02-08T00:45:11.659Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T00:45:11.659Z"
+  "FStringFlagRepoGitHashFastString": "07d070603019579c05ed00019c7948a5c799ec93",
+  "DFStringFlagRepoGitHashDynamicString": "07d070603019579c05ed00019c7948a5c799ec93",
+  "FStringFlipTimeStampFastString": "2024-02-08T00:46:23.328Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T00:46:23.328Z"
 }
