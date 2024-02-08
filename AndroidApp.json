@@ -10447,6 +10447,8 @@
   "FFlagPlayerContextualMenuAddUnblockCTA": "True",
   "FFlagSTUDIOPLAT_33359_ReportHangsInProgressAndSid": "True",
   "DFFlagEnableHumanoidStateChangeTelemtry_Rollout": "True;60;2024-02-08T18:48:32",
+  "FFlagSessionChangeEventRefactor_Rollout": "True;30;2024-02-08T18:53:03",
+  "FFlagDraggerBetterResizePrecision": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10846,8 +10848,8 @@
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
   "EnableAndroidCredentialsProtocol": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
-  "FStringFlagRepoGitHashFastString": "139185ab11017040a935978e8ab200eb1bddd169",
-  "DFStringFlagRepoGitHashDynamicString": "139185ab11017040a935978e8ab200eb1bddd169",
-  "FStringFlipTimeStampFastString": "2024-02-08T18:49:08.342Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-08T18:49:08.342Z"
+  "FStringFlagRepoGitHashFastString": "ce6c1dcefdd344b32f814f0af309d67b1104d5a7",
+  "DFStringFlagRepoGitHashDynamicString": "ce6c1dcefdd344b32f814f0af309d67b1104d5a7",
+  "FStringFlipTimeStampFastString": "2024-02-08T18:53:56.230Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-08T18:53:56.230Z"
 }
