@@ -9956,7 +9956,7 @@
   "FFlagAssetManagerInsertMultipleImages": "True",
   "FFlagStudioDeviceEmulatorLostPlatformFieldFix2": "True",
   "FFlagAvatarPreviewerFixTShirtImportingAgain": "True",
-  "DFFlagSolverNOURemovedUnderSetOptimized": "True",
+  "DFFlagSolverNOURemovedUnderSetOptimized": "False",
   "FFlagEnableGameInviteModalModalSizeFix": "True",
   "DFFlagRemoveThumbnailConfigurations": "True",
   "FFlagFixSelectionBoxWidth": "True",
@@ -10473,10 +10473,10 @@
   "DFIntEngineAPICloudProcessingDelayedPollingFrequencyInSeconds": "300",
   "FFlagScriptCapabilitiesOpt": "True",
   "FFlagWinCheckTTIFlagRetry": "True",
-  "DFFlagSolverNOURemovedUnderSetOptimized_Rollout": "False;60;2024-02-08T23:11:38",
   "FStringPresencePropagationDelayMetricName": "AndroidPresencePropagationDelay",
   "FFlagMoveAccessoriesForR15Rigs2": "True",
   "FFlagScriptingProductivityTelemetryAsComponent_Rollout": "True;60;2024-02-08T23:41:55",
+  "FFlagGpuGeometryManager13": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10876,8 +10876,8 @@
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
   "EnableAndroidCredentialsProtocol": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
-  "FStringFlagRepoGitHashFastString": "e733cbb82dce6540d427406323641ba3058fc397",
-  "DFStringFlagRepoGitHashDynamicString": "e733cbb82dce6540d427406323641ba3058fc397",
-  "FStringFlipTimeStampFastString": "2024-02-09T00:13:29.800Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-09T00:13:29.800Z"
+  "FStringFlagRepoGitHashFastString": "6fcf85b01e687924db8455386549afa8c4016f50",
+  "DFStringFlagRepoGitHashDynamicString": "6fcf85b01e687924db8455386549afa8c4016f50",
+  "FStringFlipTimeStampFastString": "2024-02-09T00:17:25.484Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-09T00:17:25.484Z"
 }
