@@ -10140,8 +10140,8 @@
   "FFlagEnableNavbarLabelExperiment2": "True",
   "FFlagRemoveVirtualEventsExperiment": "True",
   "FFlagEnableCrossSessionEffectPredictorShadow3": "True",
-  "FFlagSimAdaptivePreContactReorder3": "True",
-  "FFlagSimAdaptiveCheckPendingWakeAssemblies": "True",
+  "FFlagSimAdaptivePreContactReorder3": "False",
+  "FFlagSimAdaptiveCheckPendingWakeAssemblies": "False",
   "DFFlagSimAlwaysClearNOUMemory": "True",
   "FFlagACEFixEditorControllerClamp": "True",
   "FFlagLogRecordActivations": "True",
@@ -10782,8 +10782,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagRuntimeEnabled4": "True",
-  "FStringFlagRepoGitHashFastString": "87241f08fcfa329daaea6687080b460f30500896",
-  "DFStringFlagRepoGitHashDynamicString": "87241f08fcfa329daaea6687080b460f30500896",
-  "FStringFlipTimeStampFastString": "2024-02-09T19:06:41.096Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-09T19:06:41.096Z"
+  "FStringFlagRepoGitHashFastString": "772ea87e8e08b64f8ddf25865025627590b1967f",
+  "DFStringFlagRepoGitHashDynamicString": "772ea87e8e08b64f8ddf25865025627590b1967f",
+  "FStringFlipTimeStampFastString": "2024-02-09T19:07:38.555Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-09T19:07:38.555Z"
 }
