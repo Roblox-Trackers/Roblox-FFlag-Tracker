@@ -10485,12 +10485,12 @@
   "FFlagExperienceItemsResalePurchase": "True",
   "FFlagFixEmptyLimitedBadges": "True",
   "DFFlagTagTelemWithIxpIds": "True",
-  "DFFlagPingTimeoutStats_Rollout": "True;30;2024-02-09T19:23:28",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2024-02-09T19:25:27",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-02-09T19:25:41",
   "FFlagConsolesUserAgreements": "True",
   "FFlagScriptEditorLiveEditing": "True",
   "FFlagScriptEditorLiveEditingStudioStartup": "True",
+  "DFFlagPingTimeoutStats": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10890,8 +10890,8 @@
   "FFlagGraphicsVulkanDeviceLostCrash": "True",
   "EnableAndroidCredentialsProtocol": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
-  "FStringFlagRepoGitHashFastString": "a28324eb6fb1addde20973ad4110a291d232fc94",
-  "DFStringFlagRepoGitHashDynamicString": "a28324eb6fb1addde20973ad4110a291d232fc94",
-  "FStringFlipTimeStampFastString": "2024-02-09T19:55:51.879Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-09T19:55:51.879Z"
+  "FStringFlagRepoGitHashFastString": "2a17fe89c2da083c7e701d1ac4fe914f61f27281",
+  "DFStringFlagRepoGitHashDynamicString": "2a17fe89c2da083c7e701d1ac4fe914f61f27281",
+  "FStringFlipTimeStampFastString": "2024-02-09T20:06:28.844Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-09T20:06:28.844Z"
 }
