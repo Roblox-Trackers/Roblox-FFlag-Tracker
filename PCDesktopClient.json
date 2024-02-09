@@ -10476,7 +10476,6 @@
   "FFlagScriptingProductivityTelemetryAsComponent": "True",
   "FFlagDragDetectorUsesPermissionPolicy": "False",
   "DFIntPerformanceControlPointsHundredthPercentageSent_PlaceFilter": "10000;12115047020",
-  "DFFlagTagTelemWithIxpIds_Rollout": "True;60;2024-02-09T17:58:38",
   "DFIntPerformanceControlReportingPeriodInMs_PlaceFilter": "3000;12115047020",
   "DFFlagPingTimeoutStatsServer": "True",
   "FFlagStudioTeamCreateGamejoinRetryOnTimeout": "True",
@@ -10485,6 +10484,7 @@
   "FFlagEnableScrollingInTryOnManager": "True",
   "FFlagExperienceItemsResalePurchase": "True",
   "FFlagFixEmptyLimitedBadges": "True",
+  "DFFlagTagTelemWithIxpIds": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10776,8 +10776,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "b119fca442e85a762cd8a9ef1ce1501f14921f32",
-  "DFStringFlagRepoGitHashDynamicString": "b119fca442e85a762cd8a9ef1ce1501f14921f32",
-  "FStringFlipTimeStampFastString": "2024-02-09T18:49:55.668Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-09T18:49:55.668Z"
+  "FStringFlagRepoGitHashFastString": "87241f08fcfa329daaea6687080b460f30500896",
+  "DFStringFlagRepoGitHashDynamicString": "87241f08fcfa329daaea6687080b460f30500896",
+  "FStringFlipTimeStampFastString": "2024-02-09T19:06:41.096Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-09T19:06:41.096Z"
 }
