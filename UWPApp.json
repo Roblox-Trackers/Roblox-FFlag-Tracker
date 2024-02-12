@@ -10496,7 +10496,6 @@
   "FFlagDisableFriendsFollowersWebviewVR": "True",
   "FFlagScriptAnalysisHorizontalScrollbarEnabled": "True",
   "FFlagBrickColorRandomThreadSafety": "True",
-  "DFFlagFastMeshSize2_Rollout": "True;60;2024-02-12T19:48:10",
   "FFlagFixChromeAllowlistWait": "True",
   "DFFlagEngineAPICloudProcessingServiceLimitStringSize": "True",
   "FFlagAvatarPreviewerSurveyDynamicHeads": "True",
@@ -10504,6 +10503,7 @@
   "FFlagToolboxFixAbsolutePositionResizing": "True",
   "FFlagLuaAppEnableSurveyTitleTranslation": "True",
   "FFlagVoiceInputUseNewAudioApi5_Rollout": "True;60;2024-02-12T20:45:01",
+  "DFFlagFastMeshSize2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10696,8 +10696,8 @@
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "a16f7561cb474a817f01b759754983d5d95c4aaa",
-  "DFStringFlagRepoGitHashDynamicString": "a16f7561cb474a817f01b759754983d5d95c4aaa",
-  "FStringFlipTimeStampFastString": "2024-02-12T20:54:48.818Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-12T20:54:48.818Z"
+  "FStringFlagRepoGitHashFastString": "0c369613295dd5a194d790e4103ede17a4df2fd9",
+  "DFStringFlagRepoGitHashDynamicString": "0c369613295dd5a194d790e4103ede17a4df2fd9",
+  "FStringFlipTimeStampFastString": "2024-02-12T20:56:19.070Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-12T20:56:19.070Z"
 }
