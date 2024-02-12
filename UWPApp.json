@@ -9296,7 +9296,7 @@
   "FFlagXboxRespectPermissionsGameJoin": "True",
   "DFIntLogExperienceLaunchAttemptThrottleHundredthsPercentage": "100",
   "DFIntLogExperienceLaunchFailureThrottleHundredthsPercentage": "100",
-  "FFlagVoiceInputUseNewAudioApi5": "False",
+  "FFlagVoiceInputUseNewAudioApi5": "True",
   "FFlagVoiceInputUseNewAudioApi5_PlaceFilter": "True;15382034501;15499999688;15422875287;15641495506;15641505624;15676547725;15920139054;15922238144;15928934317;8158601082",
   "FFlagAvatarBackgroundManagementOptional": "True",
   "FFlagXboxFixTextBoxesOnReturnToApp": "True",
@@ -10501,9 +10501,8 @@
   "FFlagDevFrameworkUseInternalReact": "True",
   "FFlagToolboxFixAbsolutePositionResizing": "True",
   "FFlagLuaAppEnableSurveyTitleTranslation": "True",
-  "FFlagVoiceInputUseNewAudioApi5_Rollout": "True;60;2024-02-12T20:45:01",
   "DFFlagFastMeshSize2": "True",
-  "FFlagMatchKeyboardWithTheme_Rollout": "True;60;2024-02-12T21:00:33",
+  "FFlagMatchKeyboardWithTheme": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10696,8 +10695,8 @@
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "2531dbcda8175525e55146db182aa36384e37545",
-  "DFStringFlagRepoGitHashDynamicString": "2531dbcda8175525e55146db182aa36384e37545",
-  "FStringFlipTimeStampFastString": "2024-02-12T21:07:19.106Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-12T21:07:19.106Z"
+  "FStringFlagRepoGitHashFastString": "eaf3678a4b0b59709980ffbfe805c8585106c1c2",
+  "DFStringFlagRepoGitHashDynamicString": "eaf3678a4b0b59709980ffbfe805c8585106c1c2",
+  "FStringFlipTimeStampFastString": "2024-02-12T23:09:57.806Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-12T23:09:57.806Z"
 }
