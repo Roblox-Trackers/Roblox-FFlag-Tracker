@@ -7453,7 +7453,7 @@
   "FFlagFixDoubleSpacesAfterPrefixText": "True",
   "FFlagHideLocalPlayerControlBubbleForVR": "True",
   "FFlagUpgradeExpChatV4_1_10": "True",
-  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Sound Cache",
+  "FStringPerformanceControlIncludedTunables": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure",
   "FFlagEnableAvatarChatToggleUIUpgradeForTextChatService": "True",
   "FFlagGridDesignTokens3": "True",
   "FFlagTenFootUiMoreSettings": "True",
@@ -10796,9 +10796,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FStringPerformanceControlIncludedTunables_Rollout": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure;30;2024-02-12T23:23:03",
-  "FStringFlagRepoGitHashFastString": "bf4739ba44017cbe7c69b3043ae9f8c712326fbd",
-  "DFStringFlagRepoGitHashDynamicString": "bf4739ba44017cbe7c69b3043ae9f8c712326fbd",
-  "FStringFlipTimeStampFastString": "2024-02-12T23:53:48.421Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-12T23:53:48.421Z"
+  "FStringFlagRepoGitHashFastString": "77d6857cb18aef7cf10154c07bcb0b798822fe6b",
+  "DFStringFlagRepoGitHashDynamicString": "77d6857cb18aef7cf10154c07bcb0b798822fe6b",
+  "FStringFlipTimeStampFastString": "2024-02-12T23:56:19.386Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-12T23:56:19.386Z"
 }
