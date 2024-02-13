@@ -10505,7 +10505,6 @@
   "FFlagStudioMoveAsyncComponentWaitToLCM": "True",
   "FFlagFixPlayersExtremeTruncation": "True",
   "FFlagToolboxAddAssetConfigPriceRedirectLink2": "True",
-  "DFFlagVoiceChatV2CapabilityCheckAudioRollout_Rollout": "True;30;2024-02-13T00:43:34",
   "FFlagFindReplaceAllRegexGroupEnabled": "True",
   "FFlagEditableMeshSkinMorph": "False",
   "FFlagEditableMeshSkinMorph_PlaceFilter": "True;14891028303",
@@ -10515,6 +10514,7 @@
   "FFlagSimEnableEditableMeshCreateMeshPartAsync_PlaceFilter": "True;14891028303",
   "FFlagSimEnableEditableMeshSkinning": "False",
   "FFlagSimEnableEditableMeshSkinning_PlaceFilter": "True;14891028303",
+  "DFFlagVoiceChatV2CapabilityCheckAudioRollout": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10819,8 +10819,8 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagConsolesUserAgreements": "True",
-  "FStringFlagRepoGitHashFastString": "885960bb5696393b98143bff969f820a65452540",
-  "DFStringFlagRepoGitHashDynamicString": "885960bb5696393b98143bff969f820a65452540",
-  "FStringFlipTimeStampFastString": "2024-02-13T00:56:30.927Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-13T00:56:30.927Z"
+  "FStringFlagRepoGitHashFastString": "40adf5706d8d864a55db44844dac3836da23d8d4",
+  "DFStringFlagRepoGitHashDynamicString": "40adf5706d8d864a55db44844dac3836da23d8d4",
+  "FStringFlipTimeStampFastString": "2024-02-13T01:21:32.507Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-13T01:21:32.507Z"
 }
