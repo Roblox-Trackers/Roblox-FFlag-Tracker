@@ -10515,7 +10515,6 @@
   "FFlagSimEnableEditableMeshSkinning_PlaceFilter": "True;14891028303",
   "DFFlagVoiceChatV2CapabilityCheckAudioRollout": "True",
   "FFlagFixCLI96085": "True",
-  "DFFlagPlayerIntegrityUpdate_Rollout": "True;60;2024-02-14T17:25:27",
   "FFlagScreenshotHudGuiVisibilityApiForScreenshotHud": "True",
   "FFlagUseScreenshotHudOverlaySettings": "True",
   "FFlagSinkInputBehindDialogVR": "True",
@@ -10526,6 +10525,7 @@
   "FFlagSoundEffectRefactoring_Rollout": "True;60;2024-02-14T18:14:47",
   "FFlagRealtimeProtocolUWP_Rollout": "True;60;2024-02-14T18:15:32",
   "FFlagCaptureScreenshotApiEnabled2": "True",
+  "DFFlagPlayerIntegrityUpdate": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10830,8 +10830,8 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagConsolesUserAgreements": "True",
-  "FStringFlagRepoGitHashFastString": "646590796b6dbf458e3224b2000e067479919672",
-  "DFStringFlagRepoGitHashDynamicString": "646590796b6dbf458e3224b2000e067479919672",
-  "FStringFlipTimeStampFastString": "2024-02-14T18:30:46.297Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-14T18:30:46.297Z"
+  "FStringFlagRepoGitHashFastString": "8d602fd94d6de639b36067e566564c50d5ee524d",
+  "DFStringFlagRepoGitHashDynamicString": "8d602fd94d6de639b36067e566564c50d5ee524d",
+  "FStringFlipTimeStampFastString": "2024-02-14T18:31:46.502Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-14T18:31:46.502Z"
 }
