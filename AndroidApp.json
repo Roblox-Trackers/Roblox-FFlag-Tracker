@@ -10522,7 +10522,6 @@
   "FFlagRigBuilderBlockyScalesFix": "True",
   "FFlagCaptureScreenshotApiEnabled2": "True",
   "DFFlagPlayerIntegrityUpdate": "True",
-  "FFlagRefactorPublishAllDescendantsDeduplication2_Rollout": "True;60;2024-02-14T18:33:47",
   "FFlagHeapProfilerSplitServerReq": "True",
   "FFlagDSAIllegalContentReporting2": "True",
   "FFlagLuaAppExploreApiRefreshFix": "True",
@@ -10532,6 +10531,7 @@
   "FFlagSocialRoactChatAnalyticsAddEntryPointV610": "True",
   "FIntModerationPromptAppealLinkRolloutPercentage": "5",
   "FFlagUIBloxHideActionBarWhenStickyBarActive": "True",
+  "FFlagRefactorPublishAllDescendantsDeduplication2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10932,8 +10932,8 @@
   "EnableAndroidCredentialsProtocol": "True",
   "FFlagLuaAppEnablePasskeyLoginABTest": "False",
   "EnablePushNotificationRegistrationPostLoginFix": "True",
-  "FStringFlagRepoGitHashFastString": "2f584035bb389dcc4321da1b3228ee2e0c813c4d",
-  "DFStringFlagRepoGitHashDynamicString": "2f584035bb389dcc4321da1b3228ee2e0c813c4d",
-  "FStringFlipTimeStampFastString": "2024-02-14T19:40:43.344Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-14T19:40:43.344Z"
+  "FStringFlagRepoGitHashFastString": "b0fbc39f2fdf085201b892191c398d64a7c1e18a",
+  "DFStringFlagRepoGitHashDynamicString": "b0fbc39f2fdf085201b892191c398d64a7c1e18a",
+  "FStringFlipTimeStampFastString": "2024-02-14T19:41:41.597Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-14T19:41:41.597Z"
 }
