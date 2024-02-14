@@ -10535,6 +10535,9 @@
   "EnableFlagRefactorStage3Dev": "True",
   "FFlagNoRawBaseScriptFields": "True",
   "DFStringAnalyticsNS1BeaconConfig_Rollout": "https://c0cfly.rbxcdn.com/test-50kb.png|g2hjxw|https://c0ak.rbxcdn.com/test-50kb.png|g2g5dg|https://c0aws.rbxcdn.com/test-50kb.png|148d53m;60;2024-02-14T20:37:36",
+  "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "100;60;2024-02-14T21:08:54",
+  "FFlagOptimizeDeferredTerrainChanges_Rollout": "True;60;2024-02-14T21:09:29",
+  "FFlagDoNotUseLocalScaling_Rollout": "True;60;2024-02-14T21:09:34",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10727,8 +10730,8 @@
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "018dca9d6dd1149178b583e081cf90d5b22e70ff",
-  "DFStringFlagRepoGitHashDynamicString": "018dca9d6dd1149178b583e081cf90d5b22e70ff",
-  "FStringFlipTimeStampFastString": "2024-02-14T20:38:04.963Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-14T20:38:04.963Z"
+  "FStringFlagRepoGitHashFastString": "d2982111182de80ed7dd83eec0a3248ea3325abf",
+  "DFStringFlagRepoGitHashDynamicString": "d2982111182de80ed7dd83eec0a3248ea3325abf",
+  "FStringFlipTimeStampFastString": "2024-02-14T21:10:12.592Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-14T21:10:12.592Z"
 }
