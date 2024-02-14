@@ -10540,6 +10540,7 @@
   "DFIntReportFrequencyBucketSizePercent_Rollout": "750;60;2024-02-14T22:10:58",
   "FFlagDoNotUseLocalScaling": "True",
   "FFlagOptimizeDeferredTerrainChanges": "True",
+  "FFlagAddPerfControlExperimentNameToBacktraceReportsForiOS2_Rollout": "True;60;2024-02-14T22:28:13",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10837,8 +10838,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagRuntimeEnabled4": "True",
-  "FStringFlagRepoGitHashFastString": "d52fd3777c6b20ec2966651f288c4475d2d097b4",
-  "DFStringFlagRepoGitHashDynamicString": "d52fd3777c6b20ec2966651f288c4475d2d097b4",
-  "FStringFlipTimeStampFastString": "2024-02-14T22:17:34.124Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-14T22:17:34.124Z"
+  "FStringFlagRepoGitHashFastString": "7824e13ce583ead6bb7c642c271e4ad31e305351",
+  "DFStringFlagRepoGitHashDynamicString": "7824e13ce583ead6bb7c642c271e4ad31e305351",
+  "FStringFlipTimeStampFastString": "2024-02-14T22:28:54.960Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-14T22:28:54.960Z"
 }
