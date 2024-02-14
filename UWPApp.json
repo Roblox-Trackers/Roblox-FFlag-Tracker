@@ -10516,6 +10516,8 @@
   "DFFlagVoiceChatV2CapabilityCheckAudioRollout": "True",
   "FFlagFixCLI96085": "True",
   "DFFlagPlayerIntegrityUpdate_Rollout": "True;60;2024-02-14T17:25:27",
+  "FFlagScreenshotHudGuiVisibilityApiForScreenshotHud": "True",
+  "FFlagUseScreenshotHudOverlaySettings": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10708,8 +10710,8 @@
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "5d55b5c4645ccda93d8f98dd868b69950b095433",
-  "DFStringFlagRepoGitHashDynamicString": "5d55b5c4645ccda93d8f98dd868b69950b095433",
-  "FStringFlipTimeStampFastString": "2024-02-14T17:26:00.640Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-14T17:26:00.640Z"
+  "FStringFlagRepoGitHashFastString": "762213c502b526650ead5f3473285c7d806a02f7",
+  "DFStringFlagRepoGitHashDynamicString": "762213c502b526650ead5f3473285c7d806a02f7",
+  "FStringFlipTimeStampFastString": "2024-02-14T17:48:46.020Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-14T17:48:46.020Z"
 }
