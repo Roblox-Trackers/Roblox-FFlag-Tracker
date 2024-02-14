@@ -5922,7 +5922,7 @@
   "FFlagSimCSG3TreeEnableNewNormalize": "True",
   "FFlagUIBloxVRAlignPanel3DUnderInGamePanel": "True",
   "FFlagPerformanceControlRemoveUseOfSetCurrentValue": "True",
-  "FFlagSimAdaptiveTimesteppingDefault2": "True",
+  "FFlagSimAdaptiveTimesteppingDefault2": "False",
   "FFlagStudioFixLCMCheckOrder": "True",
   "FFlagLuaAppGlobalLayoutData": "True",
   "FFlagEnableADS3238_2": "True",
@@ -10534,7 +10534,6 @@
   "FFlagLoadMoreRequestIntent": "True",
   "EnableFlagRefactorStage3Dev": "True",
   "FFlagNoRawBaseScriptFields": "True",
-  "FFlagSimAdaptiveTimesteppingDefault2_Rollout": "False;60;2024-02-14T21:29:36",
   "DFIntLuauCodegenStatsEventHundredthsPercent": "0",
   "FFlagVideoVisibilityAddPreview_Rollout": "True;60;2024-02-14T22:10:26",
   "DFIntReportFrequencyBucketSizePercent_Rollout": "750;60;2024-02-14T22:10:58",
@@ -10838,8 +10837,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagRuntimeEnabled4": "True",
-  "FStringFlagRepoGitHashFastString": "7824e13ce583ead6bb7c642c271e4ad31e305351",
-  "DFStringFlagRepoGitHashDynamicString": "7824e13ce583ead6bb7c642c271e4ad31e305351",
-  "FStringFlipTimeStampFastString": "2024-02-14T22:28:54.960Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-14T22:28:54.960Z"
+  "FStringFlagRepoGitHashFastString": "f191bed9d2f5981c34f85b8282d317d9b87b4bc0",
+  "DFStringFlagRepoGitHashDynamicString": "f191bed9d2f5981c34f85b8282d317d9b87b4bc0",
+  "FStringFlipTimeStampFastString": "2024-02-14T22:37:42.009Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-14T22:37:42.009Z"
 }
