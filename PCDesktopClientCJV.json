@@ -10527,13 +10527,13 @@
   "FFlagLuaAppExploreApiRefreshFix": "True",
   "FFlagRealtimeProtocolUWP": "True",
   "FFlagSoundEffectRefactoring": "True",
-  "FFlagNoRawBaseScriptFields_Rollout": "True;60;2024-02-14T19:24:53",
   "FFlagSocialRoactChatAnalyticsAddEntryPointV610": "True",
   "FIntModerationPromptAppealLinkRolloutPercentage": "5",
   "FFlagUIBloxHideActionBarWhenStickyBarActive": "True",
   "FFlagRefactorPublishAllDescendantsDeduplication2": "True",
   "FFlagLoadMoreRequestIntent": "True",
   "EnableFlagRefactorStage3Dev": "True",
+  "FFlagNoRawBaseScriptFields": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10826,8 +10826,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "494c9ef7269ab49687991b780a0636ea07134992",
-  "DFStringFlagRepoGitHashDynamicString": "494c9ef7269ab49687991b780a0636ea07134992",
-  "FStringFlipTimeStampFastString": "2024-02-14T20:25:17.843Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-14T20:25:17.843Z"
+  "FStringFlagRepoGitHashFastString": "5c2826455f838b35de78a0df0c13afac3e8bebff",
+  "DFStringFlagRepoGitHashDynamicString": "5c2826455f838b35de78a0df0c13afac3e8bebff",
+  "FStringFlipTimeStampFastString": "2024-02-14T20:31:10.038Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-14T20:31:10.038Z"
 }
