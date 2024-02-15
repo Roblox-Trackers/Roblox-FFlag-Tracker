@@ -10553,6 +10553,7 @@
   "FFlagStudioDebuggerOpenEditDialogFix": "True",
   "FFlagUnifyRecommendationsAnalytics": "True",
   "FFlagStudioRunToCursorCallBackFix": "True",
+  "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10836,7 +10837,6 @@
   "DFIntReportOutputDeviceInfoEventRateHundredthsPercentage": "10000",
   "FStringRealtimeClientTargetName": "win32",
   "FFlagExpStateCaptureMode7": "True",
-  "FFlagLuaAppEnableCommunityLinksRedirect": "True",
   "FFlagSimIslandizerMultiplierUpdate": "True",
   "DFFlagHttpCacheCleanScheduleBasedOnBytes": "True",
   "DFIntHttpCacheCleanCheckAfterKB": "524288",
@@ -10844,8 +10844,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "5e2e81080692a265ba05112d89618f548ef372e5",
-  "DFStringFlagRepoGitHashDynamicString": "5e2e81080692a265ba05112d89618f548ef372e5",
-  "FStringFlipTimeStampFastString": "2024-02-15T20:11:38.929Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-15T20:11:38.929Z"
+  "FStringFlagRepoGitHashFastString": "479adbb400b6c49fc0bc4ba821e0beda6b28952f",
+  "DFStringFlagRepoGitHashDynamicString": "479adbb400b6c49fc0bc4ba821e0beda6b28952f",
+  "FStringFlipTimeStampFastString": "2024-02-15T20:21:56.993Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-15T20:21:56.993Z"
 }
