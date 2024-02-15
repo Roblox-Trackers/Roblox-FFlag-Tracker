@@ -92,5 +92,6 @@
   "enablePremiumTierBypass": "true",
   "enableIdVerificationBypass": "true",
   "enableDeveloperSubscriptionDescriptionUpdates": "false",
-  "dynamicPriceFloorAssetWhitelist": "10609954610;10609599401;12637737459;14841037051;10609638199;11584102962;10926902182;10286221120;10286215594;12868092385;10855175913;14832468927;14831255078;14831273958;14831903972;14825772175"
+  "dynamicPriceFloorAssetWhitelist": "",
+  "enableDynamicFloorNonLimitedPricing": "true"
 }
