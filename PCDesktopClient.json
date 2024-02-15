@@ -10528,7 +10528,7 @@
   "FFlagRealtimeProtocolUWP": "True",
   "FFlagSoundEffectRefactoring": "True",
   "FFlagSocialRoactChatAnalyticsAddEntryPointV610": "True",
-  "FIntModerationPromptAppealLinkRolloutPercentage": "5",
+  "FIntModerationPromptAppealLinkRolloutPercentage": "10",
   "FFlagUIBloxHideActionBarWhenStickyBarActive": "True",
   "FFlagRefactorPublishAllDescendantsDeduplication2": "True",
   "FFlagLoadMoreRequestIntent": "True",
@@ -10547,7 +10547,6 @@
   "FFlagChangeBetaFeatureAutoEnrollmentLabel": "True",
   "FFlagCAPRequestTypeTelemetry": "True",
   "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
-  "FFlagStudioDebuggerOpenEditDialogFix_Rollout": "True;60;2024-02-15T18:34:26",
   "DFFlagCorrectRayAABBNearZero": "True",
   "DFFlagVoiceChatForceSubRetryWhenSubCloseFailed": "True",
   "FFlagVoiceChatResetRoomAfterInvalidRoomId": "True",
@@ -10844,8 +10843,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "ecbd0d502eb94f20a925e0782b6f335ef8a44463",
-  "DFStringFlagRepoGitHashDynamicString": "ecbd0d502eb94f20a925e0782b6f335ef8a44463",
-  "FStringFlipTimeStampFastString": "2024-02-15T19:34:24.441Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-15T19:34:24.441Z"
+  "FStringFlagRepoGitHashFastString": "5e34f4009a14b8e1a97bc087e6f712c7e63eaaad",
+  "DFStringFlagRepoGitHashDynamicString": "5e34f4009a14b8e1a97bc087e6f712c7e63eaaad",
+  "FStringFlipTimeStampFastString": "2024-02-15T19:42:42.628Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-15T19:42:42.628Z"
 }
