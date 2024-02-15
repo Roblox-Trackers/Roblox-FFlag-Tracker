@@ -10538,7 +10538,6 @@
   "FFlagDoNotUseLocalScaling": "True",
   "FFlagOptimizeDeferredTerrainChanges": "True",
   "FFlagAESUseModerationStatusEnum": "True",
-  "FFlagChangeBetaFeatureAutoEnrollmentLabel_Rollout": "True;60;2024-02-14T23:12:38",
   "DFIntReportFrequencyBucketSizePercent": "750",
   "FFlagVideoVisibilityAddPreview": "True",
   "FFlagCAPOpenAssistantTelemetry": "True",
@@ -10547,6 +10546,7 @@
   "FFlagAddPerfControlExperimentNameToBacktraceReportsForiOS2": "True",
   "FFlagAssetImportFixImportTemplateConstructor": "True",
   "FFlagSimplifyPluginToQuickAccessConfig": "True",
+  "FFlagChangeBetaFeatureAutoEnrollmentLabel": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10851,8 +10851,8 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagConsolesUserAgreements": "True",
-  "FStringFlagRepoGitHashFastString": "9170adf397a4618b908eab0f238cddb04022fadc",
-  "DFStringFlagRepoGitHashDynamicString": "9170adf397a4618b908eab0f238cddb04022fadc",
-  "FStringFlipTimeStampFastString": "2024-02-15T00:17:11.150Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-15T00:17:11.150Z"
+  "FStringFlagRepoGitHashFastString": "179529adc525e4f438b54f0d54ab02b7f4e1165a",
+  "DFStringFlagRepoGitHashDynamicString": "179529adc525e4f438b54f0d54ab02b7f4e1165a",
+  "FStringFlipTimeStampFastString": "2024-02-15T00:22:43.111Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-15T00:22:43.111Z"
 }
