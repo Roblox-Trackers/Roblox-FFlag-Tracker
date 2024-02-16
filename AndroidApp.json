@@ -10567,8 +10567,6 @@
   "FFlagDevFrameworkDesignSystem": "True",
   "DFFlagSimClimbingControllerUpdate2": "True",
   "FFlagPropertyStringTooLongException": "True",
-  "FFlagEnableAdsEudsaStaticDisclosure_Rollout": "True;60;2024-02-16T19:08:22",
-  "FFlagStudioSupportCreatorHubAssetUrlPaste_Rollout": "True;60;2024-02-16T19:10:49",
   "FFlagLoadingScriptCancelButtonBeforeWait": "True",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-02-16T19:37:29",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-02-16T19:39:21",
@@ -10576,6 +10574,8 @@
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "True;30;2024-02-16T19:59:44",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-02-16T19:59:50",
   "FFlagLuaAppUseGetDeviceTypeHelper": "True",
+  "FFlagStudioSupportCreatorHubAssetUrlPaste": "True",
+  "FFlagEnableAdsEudsaStaticDisclosure": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10976,8 +10976,8 @@
   "FFlagLuaAppEnablePasskeyLoginABTest": "False",
   "EnablePushNotificationRegistrationPostLoginFix": "True",
   "FStringRenderIGGPUBlacklist": "Adreno (TM) 530|Adreno (TM) 618|Adreno (TM) 619|Adreno (TM) 504|PowerVR Rogue GE8320|Adreno (TM) 612|Adreno (TM) 615|Adreno (TM) 610",
-  "FStringFlagRepoGitHashFastString": "a8679fda7af4097c97c74e84a4fad068287e1617",
-  "DFStringFlagRepoGitHashDynamicString": "a8679fda7af4097c97c74e84a4fad068287e1617",
-  "FStringFlipTimeStampFastString": "2024-02-16T20:10:56.866Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-16T20:10:56.866Z"
+  "FStringFlagRepoGitHashFastString": "bd004b7093066cb3e5c625813e937dd80bee0a3e",
+  "DFStringFlagRepoGitHashDynamicString": "bd004b7093066cb3e5c625813e937dd80bee0a3e",
+  "FStringFlipTimeStampFastString": "2024-02-16T20:17:10.737Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-16T20:17:10.737Z"
 }
