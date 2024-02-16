@@ -10578,6 +10578,9 @@
   "FFlagEnableSponsoredAdsSeeAllGamesListTooltip": "True",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2024-02-16T23:14:31",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2024-02-16T23:14:44",
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-02-16T23:18:47",
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-02-16T23:18:54",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-02-16T23:19:07",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10770,8 +10773,8 @@
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "b3c264f5dffac1349a81545d6e4bc3e3567dda32",
-  "DFStringFlagRepoGitHashDynamicString": "b3c264f5dffac1349a81545d6e4bc3e3567dda32",
-  "FStringFlipTimeStampFastString": "2024-02-16T23:15:30.522Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-16T23:15:30.522Z"
+  "FStringFlagRepoGitHashFastString": "88c659652c6642760bdfcd0902dbebbf014c4d06",
+  "DFStringFlagRepoGitHashDynamicString": "88c659652c6642760bdfcd0902dbebbf014c4d06",
+  "FStringFlipTimeStampFastString": "2024-02-16T23:20:10.530Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-16T23:20:10.530Z"
 }
