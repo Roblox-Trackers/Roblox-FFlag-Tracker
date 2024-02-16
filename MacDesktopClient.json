@@ -10575,6 +10575,7 @@
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2024-02-16T19:40:04",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "True;30;2024-02-16T19:59:44",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-02-16T19:59:50",
+  "FFlagLuaAppUseGetDeviceTypeHelper": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10870,8 +10871,8 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
-  "FStringFlagRepoGitHashFastString": "2fde42718640bfc8f2a7df271f882bc7c5d9296c",
-  "DFStringFlagRepoGitHashDynamicString": "2fde42718640bfc8f2a7df271f882bc7c5d9296c",
-  "FStringFlipTimeStampFastString": "2024-02-16T20:00:24.502Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-16T20:00:24.502Z"
+  "FStringFlagRepoGitHashFastString": "a8679fda7af4097c97c74e84a4fad068287e1617",
+  "DFStringFlagRepoGitHashDynamicString": "a8679fda7af4097c97c74e84a4fad068287e1617",
+  "FStringFlipTimeStampFastString": "2024-02-16T20:10:56.866Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-16T20:10:56.866Z"
 }
