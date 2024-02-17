@@ -7496,7 +7496,7 @@
   "DFFlagTEMPFixHairOrderProperty": "True",
   "DFFlagMemoryStoreUpdateAsyncRetryUseExpBackoff_PlaceFilter": "False;8789237466",
   "DFFlagSensorSkipIfManual": "True",
-  "FFlagFlagRolloutTestStaticBool2": "True",
+  "FFlagFlagRolloutTestStaticBool2": "False",
   "FFlagSocialUserSearchSource": "True",
   "FIntCOLLAB3440UniverseSearchEndpointMigrationRollout2HundredthPercent": "10000",
   "FFlagSimExpandSetOfSolverConstraintTypesThatAreIrrelevantToIkDragger": "True",
@@ -10578,10 +10578,9 @@
   "FFlagEnableSponsoredAdsSeeAllGamesListTooltip": "True",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2024-02-16T23:14:31",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2024-02-16T23:14:44",
-  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-02-16T23:18:47",
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2024-02-17T00:06:51",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-02-17T00:05:47",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-02-16T23:19:07",
-  "FFlagFlagRolloutTestStaticBool2_Rollout": "False;15;2024-02-16T23:45:23",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10872,8 +10871,8 @@
   "FFlagHttpCacheCleanSpaceOnly": "True",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
-  "FStringFlagRepoGitHashFastString": "ab74c0a11d205ccac5a1d18885692662a100fe7a",
-  "DFStringFlagRepoGitHashDynamicString": "ab74c0a11d205ccac5a1d18885692662a100fe7a",
-  "FStringFlipTimeStampFastString": "2024-02-17T00:06:04.795Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-17T00:06:04.795Z"
+  "FStringFlagRepoGitHashFastString": "c96daab9a823f0adbb83cc7fff45f14375baab44",
+  "DFStringFlagRepoGitHashDynamicString": "c96daab9a823f0adbb83cc7fff45f14375baab44",
+  "FStringFlipTimeStampFastString": "2024-02-17T00:07:11.856Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-17T00:07:11.856Z"
 }
