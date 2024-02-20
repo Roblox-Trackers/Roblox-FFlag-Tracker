@@ -10611,8 +10611,6 @@
   "FFlagPackageUpdateNestedPackageUnmodified1": "True",
   "DFFlagUseNetworkStreamInterface": "True",
   "FFlagMeasureAppLaunchToTargetFPS": "True",
-  "FFlagNoTransformsInGImpactShape_Rollout": "True;60;2024-02-20T21:43:43",
-  "DFFlagReportNonIdentityTransformInMeshCollision_Rollout": "True;60;2024-02-20T21:43:50",
   "FIntIntervalPerformanceTrackerEventStream": "1",
   "DFFlagSubmitPauseSecondaryMetricsToSessionTracking_Rollout": "True;60;2024-02-20T21:47:39",
   "FFlagSTUDIOPLAT31352ParseFirstLaunch2": "True",
@@ -10627,6 +10625,10 @@
   "FFlagStudioUsePSCInsteadOfPSM2": "True",
   "FFlagStudioFixTeamCreateClientFeatures": "True",
   "FFlagSurfaceAppearancePublishableEnabled_Rollout": "True;60;2024-02-20T22:45:29",
+  "FFlagDeprecateGetUnknownAliases": "True",
+  "FFlagMoveChatAppReducer2": "True",
+  "DFFlagReportNonIdentityTransformInMeshCollision": "True",
+  "FFlagNoTransformsInGImpactShape": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10997,8 +10999,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "DFFlagReportInferenceResultToPerfdata2": "True",
-  "FStringFlagRepoGitHashFastString": "86d5b1719e53a6adcbe42436444a00f5b1a89845",
-  "DFStringFlagRepoGitHashDynamicString": "86d5b1719e53a6adcbe42436444a00f5b1a89845",
-  "FStringFlipTimeStampFastString": "2024-02-20T22:45:53.603Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-20T22:45:53.603Z"
+  "FStringFlagRepoGitHashFastString": "39a6f81db06abf40c5cd54e8862393aecd2d1935",
+  "DFStringFlagRepoGitHashDynamicString": "39a6f81db06abf40c5cd54e8862393aecd2d1935",
+  "FStringFlipTimeStampFastString": "2024-02-20T22:51:41.690Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-20T22:51:41.690Z"
 }
