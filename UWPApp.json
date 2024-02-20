@@ -10588,10 +10588,10 @@
   "FFlagAvatarPreviewerUGCAvatarServiceContext": "True",
   "FFlagAvatarPreviewerUGCWarningsCache": "True",
   "DFFlagInvalidNumPropertyAssignCheck": "True",
-  "DFIntInvalidNumPropertyAssignReportHundredthsPercentage_Rollout": "1000;20;2024-02-20T18:29:17",
   "FFlagAXFixFilterNotWorkProperlyOnSearchPage": "True",
   "FFlagFixAwardProtocolCrash_Rollout": "True;60;2024-02-20T18:54:00",
   "DFFlagBrickColorRandomSeed_Rollout": "True;60;2024-02-20T18:54:50",
+  "DFIntInvalidNumPropertyAssignReportHundredthsPercentage": "1000",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10784,8 +10784,8 @@
   "FFlagEnableInGameMenuChromeABTest": "False",
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
-  "FStringFlagRepoGitHashFastString": "53d6984ba4384382da55d25588e9a6980e2053c7",
-  "DFStringFlagRepoGitHashDynamicString": "53d6984ba4384382da55d25588e9a6980e2053c7",
-  "FStringFlipTimeStampFastString": "2024-02-20T18:55:27.661Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-20T18:55:27.661Z"
+  "FStringFlagRepoGitHashFastString": "06b32b41a1dd222e4a2565b7d5ec9efc1277a63e",
+  "DFStringFlagRepoGitHashDynamicString": "06b32b41a1dd222e4a2565b7d5ec9efc1277a63e",
+  "FStringFlipTimeStampFastString": "2024-02-20T18:56:22.781Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-20T18:56:22.781Z"
 }
