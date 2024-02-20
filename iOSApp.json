@@ -10588,6 +10588,7 @@
   "FFlagAvatarPreviewerUGCAvatarServiceContext": "True",
   "FFlagAvatarPreviewerUGCWarningsCache": "True",
   "DFFlagInvalidNumPropertyAssignCheck": "True",
+  "DFIntInvalidNumPropertyAssignReportHundredthsPercentage_Rollout": "1000;20;2024-02-20T18:29:17",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10957,8 +10958,9 @@
   "FFlagPerformanceControlInferenceHandling": "True",
   "DFIntPerformanceControlInferenceChanceHundredthsPercent": "0",
   "DFIntPerformanceControlInferenceChanceHundredthsPercent_Rollout": "5000;60;2024-02-20T18:25:23",
-  "FStringFlagRepoGitHashFastString": "3c69c957bf2f4d1900745ef4c695da7d45dc39dd",
-  "DFStringFlagRepoGitHashDynamicString": "3c69c957bf2f4d1900745ef4c695da7d45dc39dd",
-  "FStringFlipTimeStampFastString": "2024-02-20T18:26:20.418Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-20T18:26:20.418Z"
+  "FFlagDisableStudioSelectionFilterOnClient_Rollout": "True;60;2024-02-20T18:29:13",
+  "FStringFlagRepoGitHashFastString": "47843ba23741e3af2af586655a3841e56d2e2b97",
+  "DFStringFlagRepoGitHashDynamicString": "47843ba23741e3af2af586655a3841e56d2e2b97",
+  "FStringFlipTimeStampFastString": "2024-02-20T18:30:17.156Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-20T18:30:17.156Z"
 }
