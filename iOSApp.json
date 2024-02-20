@@ -9832,7 +9832,7 @@
   "FFlagRemoveLegacyLocksInCommands": "True",
   "FFlagRemoveRedundantLegacyLockInPlugin": "True",
   "DFFlagSimSolverSendBasePartDensityMinBoundClampingEvent": "True",
-  "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage": "100",
+  "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage": "0",
   "DFFlagScanModelForDescendantsExtraCheck": "True",
   "FFlagRemoveBruteForceContainer": "True",
   "DFFlagSimWorkspaceBreakJointsFix": "True",
@@ -10609,7 +10609,6 @@
   "FFlagAESGetOutfitsPaginationToken": "True",
   "FFlagToolboxRollingAssetPermissionRequests": "True",
   "FFlagPackageUpdateNestedPackageUnmodified1": "True",
-  "DFIntBasePartDensityMinBoundClampingEventHundredthsPercentage_Rollout": "0;60;2024-02-20T21:18:46",
   "DFFlagUseNetworkStreamInterface": "True",
   "FFlagMeasureAppLaunchToTargetFPS": "True",
   "FFlagNoTransformsInGImpactShape_Rollout": "True;60;2024-02-20T21:43:43",
@@ -10994,8 +10993,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "DFFlagReportInferenceResultToPerfdata2": "True",
-  "FStringFlagRepoGitHashFastString": "a6cdcb95a159921a3568453fa36652a8a1e6e69a",
-  "DFStringFlagRepoGitHashDynamicString": "a6cdcb95a159921a3568453fa36652a8a1e6e69a",
-  "FStringFlipTimeStampFastString": "2024-02-20T22:21:18.962Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-20T22:21:18.962Z"
+  "FStringFlagRepoGitHashFastString": "eb3456ad2cbd669569cff16b271fa2aa7925e493",
+  "DFStringFlagRepoGitHashDynamicString": "eb3456ad2cbd669569cff16b271fa2aa7925e493",
+  "FStringFlipTimeStampFastString": "2024-02-20T22:28:06.292Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-20T22:28:06.292Z"
 }
