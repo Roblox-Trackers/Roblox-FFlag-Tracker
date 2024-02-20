@@ -10641,6 +10641,7 @@
   "FFlagDontRenderBillboardGuisThatAreOffscreen_Rollout": "True;30;2024-02-20T23:20:06",
   "FFlagOptimizeBlockCollisions_Rollout": "True;30;2024-02-20T23:23:19",
   "FFlagDevFrameworkRemoveAssertOnPluginCloseBinding": "True",
+  "FFlagConvAIFixVariantShiftBug": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10933,8 +10934,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f1106fe5fe18e0528aa415beee35d2716ef4e768",
-  "DFStringFlagRepoGitHashDynamicString": "f1106fe5fe18e0528aa415beee35d2716ef4e768",
-  "FStringFlipTimeStampFastString": "2024-02-20T23:33:16.535Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-20T23:33:16.535Z"
+  "FStringFlagRepoGitHashFastString": "62da89a6bca88d95fe59157511e7abb81ea794b9",
+  "DFStringFlagRepoGitHashDynamicString": "62da89a6bca88d95fe59157511e7abb81ea794b9",
+  "FStringFlipTimeStampFastString": "2024-02-20T23:45:05.068Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-20T23:45:05.068Z"
 }
