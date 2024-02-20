@@ -10576,7 +10576,6 @@
   "FFlagEnableSponsoredAdsResponsiveCarouselTooltip2": "True",
   "FFlagEnableSponsoredAdsSeeAllGamesListTooltip": "True",
   "FFlagUWPCheckTTIFlagRetry": "True",
-  "DFFlagHeapProfilerSkipEmpty_Rollout": "True;60;2024-02-20T17:15:49",
   "DFFlagInvalidNumPropertyAssignCheck_Rollout": "True;60;2024-02-20T17:17:19",
   "FFlagContactsDeepLinkRedirectToModal": "True",
   "FFlagFixContactRecsCTRAnalytics": "True",
@@ -10584,6 +10583,7 @@
   "DFFlagVideoFixDisconnectSoundService": "True",
   "DFFlagInvalidNumPropertyAssignReport_Rollout": "True;60;2024-02-20T18:04:30",
   "DFFlagFixSensorsInWorldCrash": "True",
+  "DFFlagHeapProfilerSkipEmpty": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10879,8 +10879,8 @@
   "FIntEnableCullableScene2HundredthPercent3": "10000",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
-  "FStringFlagRepoGitHashFastString": "b00dc72a7b5f25b6087d5291dab198a7fb0377ff",
-  "DFStringFlagRepoGitHashDynamicString": "b00dc72a7b5f25b6087d5291dab198a7fb0377ff",
-  "FStringFlipTimeStampFastString": "2024-02-20T18:09:46.335Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-20T18:09:46.335Z"
+  "FStringFlagRepoGitHashFastString": "2fde5de8c386954480f7d2369dc7b2d4b3161443",
+  "DFStringFlagRepoGitHashDynamicString": "2fde5de8c386954480f7d2369dc7b2d4b3161443",
+  "FStringFlipTimeStampFastString": "2024-02-20T18:21:18.732Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-20T18:21:18.732Z"
 }
