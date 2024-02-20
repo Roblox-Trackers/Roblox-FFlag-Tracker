@@ -10618,6 +10618,10 @@
   "DFFlagSubmitPauseSecondaryMetricsToSessionTracking_Rollout": "True;60;2024-02-20T21:47:39",
   "FFlagSTUDIOPLAT31352ParseFirstLaunch2": "True",
   "FFlagRoactChatEntryAnalytics": "True",
+  "DFIntFTUXDHAvatarLoadTimeThrottleHundredthsPercent": "10000",
+  "DFStringDHAnalyticsNewUserIDLowerBound": "5536249096",
+  "DFStringDHAnalyticsNewUserIDUpperBound": "5562395645",
+  "FFlagDHAnalyticsNewUser": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10910,8 +10914,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "69870f1c59277c0b2a8910a847e25281ed1c4073",
-  "DFStringFlagRepoGitHashDynamicString": "69870f1c59277c0b2a8910a847e25281ed1c4073",
-  "FStringFlipTimeStampFastString": "2024-02-20T21:52:10.692Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-20T21:52:10.692Z"
+  "FStringFlagRepoGitHashFastString": "9b2d27192864b8cfbdbd062694679e3d8ea752d4",
+  "DFStringFlagRepoGitHashDynamicString": "9b2d27192864b8cfbdbd062694679e3d8ea752d4",
+  "FStringFlipTimeStampFastString": "2024-02-20T21:53:13.824Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-20T21:53:13.824Z"
 }
