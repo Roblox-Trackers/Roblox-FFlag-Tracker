@@ -10595,6 +10595,7 @@
   "FFlagStudioHighlightOuterViewportOnly_Rollout": "True;60;2024-02-20T19:00:32",
   "FFlagCinReplaceStatusException": "True",
   "FFlagCinRemainingStatuses": "True",
+  "FFlagCinFixLastFacsStatus": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10965,8 +10966,8 @@
   "DFIntPerformanceControlInferenceChanceHundredthsPercent_Rollout": "5000;60;2024-02-20T18:25:23",
   "FFlagDisableStudioSelectionFilterOnClient_Rollout": "True;60;2024-02-20T18:29:13",
   "DFFlagReportInferenceResultToPerfdata2_Rollout": "True;60;2024-02-20T18:55:43",
-  "FStringFlagRepoGitHashFastString": "59b276b25a07f63b0696715b6f351b06d6ee01bf",
-  "DFStringFlagRepoGitHashDynamicString": "59b276b25a07f63b0696715b6f351b06d6ee01bf",
-  "FStringFlipTimeStampFastString": "2024-02-20T19:06:47.340Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-20T19:06:47.340Z"
+  "FStringFlagRepoGitHashFastString": "e564366847089efd50970b3c1adc5d632bb7519a",
+  "DFStringFlagRepoGitHashDynamicString": "e564366847089efd50970b3c1adc5d632bb7519a",
+  "FStringFlipTimeStampFastString": "2024-02-20T19:06:58.062Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-20T19:06:58.062Z"
 }
