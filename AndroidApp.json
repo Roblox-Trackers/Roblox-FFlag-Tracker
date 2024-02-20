@@ -10595,7 +10595,6 @@
   "FFlagDraggerBetaMoreFixes": "True",
   "FFlagNavmeshMemAnalytics_PlaceFilter": "True;6405807112;12535794880",
   "FLogNavigation_PlaceFilter": "Info;16453132860;6405807112;12535794880",
-  "FFlagHighlightsPerWorkspaceIds_Rollout": "True;60;2024-02-20T19:48:49",
   "FFlagSTUDIOPLAT33408FixStudioCrash": "True",
   "FFlagEnableItemDetailsTopBarBackButtonFix": "True",
   "FFlagFixAwardProtocolCrash": "True",
@@ -10608,6 +10607,7 @@
   "FFlagADS4948SendUniverseIdToEventStream": "True",
   "DFFlagPerformanceControlSendSecondaryMetricsToSessionTracking": "True",
   "FFlagLuauAutocompleteTableKeysNoInitialCharacter": "True",
+  "FFlagHighlightsPerWorkspaceIds": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11009,8 +11009,8 @@
   "EnablePushNotificationRegistrationPostLoginFix": "True",
   "FStringRenderIGGPUBlacklist": "Adreno (TM) 530|Adreno (TM) 618|Adreno (TM) 619|Adreno (TM) 504|PowerVR Rogue GE8320|Adreno (TM) 612|Adreno (TM) 615|Adreno (TM) 610",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "11b12da0cbb12603d6dddcdecc389ba623465ba1",
-  "DFStringFlagRepoGitHashDynamicString": "11b12da0cbb12603d6dddcdecc389ba623465ba1",
-  "FStringFlipTimeStampFastString": "2024-02-20T20:52:43.159Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-20T20:52:43.159Z"
+  "FStringFlagRepoGitHashFastString": "226e78e8c797ea46c739e6faeaca347a231217b6",
+  "DFStringFlagRepoGitHashDynamicString": "226e78e8c797ea46c739e6faeaca347a231217b6",
+  "FStringFlipTimeStampFastString": "2024-02-20T20:56:36.193Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-20T20:56:36.193Z"
 }
