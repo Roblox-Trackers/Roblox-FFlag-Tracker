@@ -10621,7 +10621,6 @@
   "FFlagStudioNoDiagnosticsDependencyInDataModelProxy": "True",
   "FFlagStudioAddDeprecatedComponent": "True",
   "FFlagStudioFixTeamCreateClientFeatures": "True",
-  "FFlagSurfaceAppearancePublishableEnabled_Rollout": "True;60;2024-02-20T22:45:29",
   "FFlagDeprecateGetUnknownAliases": "True",
   "FFlagMoveChatAppReducer2": "True",
   "DFFlagReportNonIdentityTransformInMeshCollision": "True",
@@ -10641,6 +10640,7 @@
   "FFlagOptimizeBlockCollisions_Rollout": "True;30;2024-02-20T23:23:19",
   "FFlagDevFrameworkRemoveAssertOnPluginCloseBinding": "True",
   "FFlagConvAIFixVariantShiftBug": "True",
+  "FFlagSurfaceAppearancePublishableEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10944,8 +10944,8 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagConsolesUserAgreements": "True",
-  "FStringFlagRepoGitHashFastString": "b8ee3052245f34097e28f445440ccfdb1b1a6d7a",
-  "DFStringFlagRepoGitHashDynamicString": "b8ee3052245f34097e28f445440ccfdb1b1a6d7a",
-  "FStringFlipTimeStampFastString": "2024-02-20T23:49:10.709Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-20T23:49:10.709Z"
+  "FStringFlagRepoGitHashFastString": "316ee45712d9f6381fbfe8d3eb7917ed26ddd812",
+  "DFStringFlagRepoGitHashDynamicString": "316ee45712d9f6381fbfe8d3eb7917ed26ddd812",
+  "FStringFlipTimeStampFastString": "2024-02-20T23:51:54.602Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-20T23:51:54.602Z"
 }
