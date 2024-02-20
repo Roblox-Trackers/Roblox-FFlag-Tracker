@@ -10583,6 +10583,7 @@
   "FFlagFixContactRecsCTRAnalytics": "True",
   "FFlagFixContactRecsFriendRequestLogging": "True",
   "DFFlagFixSensorsInWorldCrash_Rollout": "True;30;2024-02-20T17:30:20",
+  "DFFlagVideoFixDisconnectSoundService": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
