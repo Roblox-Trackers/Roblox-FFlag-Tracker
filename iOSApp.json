@@ -10654,7 +10654,6 @@
   "FFlagAssetImporterApplyToAllFixes2": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "FFlagRenderEnsureExplicitUploadCaps": "True",
-  "FIntAudioMetadataCacheSizeKB_Rollout": "256;60;2024-02-21T20:25:22",
   "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "1",
   "FFlagLuaAppGridTilesItemsPerRow": "True",
   "FFlagStudioRemoveLegacyActivityFromCrashes_Rollout": "True;60;2024-02-21T21:21:58",
@@ -10662,6 +10661,8 @@
   "FFlagDeprecateRoactChatLoader": "True",
   "FFlagCAPAddStreamIdToRichTextContent_Rollout": "False;60;2024-02-21T21:23:42",
   "FFlagDebugRVideoAndroidUseSwVideoDecoder_Rollout": "False;60;2024-02-21T21:25:31",
+  "FFlagStandaloneDmOpenUrlConnection_Rollout": "True;60;2024-02-21T21:30:55",
+  "FIntAudioMetadataCacheSizeKB": "256",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11032,8 +11033,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "DFFlagReportInferenceResultToPerfdata2": "True",
-  "FStringFlagRepoGitHashFastString": "d31362d9a0f9b29102b3181e0259be57010c73de",
-  "DFStringFlagRepoGitHashDynamicString": "d31362d9a0f9b29102b3181e0259be57010c73de",
-  "FStringFlipTimeStampFastString": "2024-02-21T21:26:13.670Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T21:26:13.670Z"
+  "FStringFlagRepoGitHashFastString": "0bbd13984a0145b55681d2ffb222df9e05ab4f9e",
+  "DFStringFlagRepoGitHashDynamicString": "0bbd13984a0145b55681d2ffb222df9e05ab4f9e",
+  "FStringFlipTimeStampFastString": "2024-02-21T21:32:00.980Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T21:32:00.980Z"
 }
