@@ -10663,6 +10663,7 @@
   "FFlagDebugRVideoAndroidUseSwVideoDecoder_Rollout": "False;60;2024-02-21T21:25:31",
   "FFlagStandaloneDmOpenUrlConnection_Rollout": "True;60;2024-02-21T21:30:55",
   "FIntAudioMetadataCacheSizeKB": "256",
+  "FFlagAdjustAsyncAssetsUploadPathForOtherAssets_Rollout": "True;30;2024-02-21T21:45:38",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10954,8 +10955,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "2337b87dee25999566ad720d367a5225158c9a9d",
-  "DFStringFlagRepoGitHashDynamicString": "2337b87dee25999566ad720d367a5225158c9a9d",
-  "FStringFlipTimeStampFastString": "2024-02-21T21:37:58.853Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T21:37:58.853Z"
+  "FStringFlagRepoGitHashFastString": "09031d566f3c8f455ea749589a5f8f6c901e2f6e",
+  "DFStringFlagRepoGitHashDynamicString": "09031d566f3c8f455ea749589a5f8f6c901e2f6e",
+  "FStringFlipTimeStampFastString": "2024-02-21T21:45:58.830Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T21:45:58.830Z"
 }
