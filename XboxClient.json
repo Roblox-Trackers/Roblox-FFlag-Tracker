@@ -10396,7 +10396,7 @@
   "DFFlagOpenCloudLuaEnabled": "True",
   "FFlagOpenCloudCoreScriptLuaEnabled": "True",
   "FFlagEndCallRefactor": "True",
-  "DFFlagEnableTCSChatTranslation_PlaceFilter": "False;2753915549;1044976146;1377525653;142823291;6872265039;9872472334;1537690962;2768379856;7041939546;4996049426;537413528;893973440;8712817601;1962086868;4623386862;5289509545;6205205961;4111023553;4639625707;1554960397;735030788;1213564040;1496638709;7074772062;4566572536;6961824067",
+  "DFFlagEnableTCSChatTranslation_PlaceFilter": "False;2753915549;1044976146;1377525653;142823291;6872265039;9872472334;1537690962;2768379856;7041939546;4996049426;537413528;893973440;1962086868;4623386862;5289509545;6205205961;4111023553;4639625707;1554960397;735030788;1213564040;1496638709;7074772062;4566572536;6961824067",
   "DFFlagOpenCloudAdditionalFeaturesEnabled": "True",
   "DFFlagRemoveHumanoidActivePhysics": "True",
   "DFStringOpenCloudSupportedMethodNamesCsv": "userNotification",
@@ -10650,6 +10650,7 @@
   "FFlagCAPAddStreamIdToRichTextContent_Rollout": "True;60;2024-02-21T18:19:38",
   "FFlagRefactorRemoveIndex2_Rollout": "True;60;2024-02-21T18:32:07",
   "FFlagFixInstanceSelectionEditorNotGoingBackToSelect_Rollout": "True;60;2024-02-21T18:33:08",
+  "FFlagLuaAppFullRefreshOmniRecOnGameExitIXP": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10953,8 +10954,8 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagConsolesUserAgreements": "True",
-  "FStringFlagRepoGitHashFastString": "ef6af0fd765a918e61712c99966a912d5aacc072",
-  "DFStringFlagRepoGitHashDynamicString": "ef6af0fd765a918e61712c99966a912d5aacc072",
-  "FStringFlipTimeStampFastString": "2024-02-21T18:34:18.346Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T18:34:18.346Z"
+  "FStringFlagRepoGitHashFastString": "8a35bb46155beec0ede5db9ef32146241bc0139e",
+  "DFStringFlagRepoGitHashDynamicString": "8a35bb46155beec0ede5db9ef32146241bc0139e",
+  "FStringFlipTimeStampFastString": "2024-02-21T18:35:56.235Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T18:35:56.235Z"
 }
