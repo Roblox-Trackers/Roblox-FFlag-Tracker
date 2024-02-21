@@ -10638,8 +10638,6 @@
   "FIntEventStudioANRDetectedThrottling": "10000",
   "FIntEventStudioANRInProgressThrottling": "10000",
   "FIntEventStudioANRResolvedThrottling": "10000",
-  "FFlagStudioCleanKeyEvent_Rollout": "True;60;2024-02-21T17:51:51",
-  "FFlagStudioCleanTextboxWidget_Rollout": "True;60;2024-02-21T17:52:18",
   "FFlagStudioSuppressRenderJob_Rollout": "True;60;2024-02-21T17:57:46",
   "DFIntSimTimestepMultiplierDebounceCount_Rollout": "60;60;2024-02-21T17:58:29",
   "FFlagDragDetectorEdgeRotationFix_Rollout": "True;60;2024-02-21T18:02:45",
@@ -10652,6 +10650,8 @@
   "FFlagPassNavigationToContactsRevoked": "True",
   "FFlagGraphicsFixBBoxPropagation": "True",
   "FFlagLiveScriptingReadOnlyTimeEventCrash": "True",
+  "FFlagStudioCleanKeyEvent": "True",
+  "FFlagStudioCleanTextboxWidget": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10944,8 +10944,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "da5457be764f8e97e796e76e636ef7f8c1f0948b",
-  "DFStringFlagRepoGitHashDynamicString": "da5457be764f8e97e796e76e636ef7f8c1f0948b",
-  "FStringFlipTimeStampFastString": "2024-02-21T18:52:31.773Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T18:52:31.773Z"
+  "FStringFlagRepoGitHashFastString": "d88a15d010e5c4d2db26ade8f433117ffda2bb9a",
+  "DFStringFlagRepoGitHashDynamicString": "d88a15d010e5c4d2db26ade8f433117ffda2bb9a",
+  "FStringFlipTimeStampFastString": "2024-02-21T18:56:54.497Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T18:56:54.497Z"
 }
