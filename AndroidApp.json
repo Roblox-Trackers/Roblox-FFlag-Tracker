@@ -10665,6 +10665,7 @@
   "FIntAudioMetadataCacheSizeKB": "256",
   "FFlagAdjustAsyncAssetsUploadPathForOtherAssets_Rollout": "True;30;2024-02-21T21:45:38",
   "DFFlagStudioEnableOldPlaceFlowLogging": "True",
+  "FFlagSetActiveWhenConnecting": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11068,8 +11069,8 @@
   "FFlagRenderEnableGlobalInstancingVulkan_PlaceFilter": "True;16303126094",
   "FIntEnableCullableScene2HundredthPercent3": "500",
   "FLogRenderInstanceGlob_PlaceFilter": "Verbose,6;16303126094",
-  "FStringFlagRepoGitHashFastString": "133864747defe8ade50a0ed5e671b1c33d01c94d",
-  "DFStringFlagRepoGitHashDynamicString": "133864747defe8ade50a0ed5e671b1c33d01c94d",
-  "FStringFlipTimeStampFastString": "2024-02-21T22:02:13.920Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T22:02:13.920Z"
+  "FStringFlagRepoGitHashFastString": "142db85011094182952af2d60172b7364d4e1896",
+  "DFStringFlagRepoGitHashDynamicString": "142db85011094182952af2d60172b7364d4e1896",
+  "FStringFlipTimeStampFastString": "2024-02-21T22:12:55.417Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T22:12:55.417Z"
 }
