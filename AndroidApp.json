@@ -10058,7 +10058,7 @@
   "FFlagToolboxStoreRename": "True",
   "FFlagGraphicsFixMeshChangeParent": "True",
   "FFlagStudioActionConversionGroupXML1": "True",
-  "DFStringNewFlagRolloutFlagsWhitelist": "DFFlagDebugCrashOnShutdown1;DFFlagFlagRolloutTestDynamicBool0;DFFlagFlagRolloutTestDynamicBool1;DFFlagFlagRolloutTestDynamicBool2;FFlagFlagRolloutTestStaticBool0;FFlagFlagRolloutTestStaticBool1;FFlagFlagRolloutTestStaticBool2",
+  "DFStringNewFlagRolloutFlagsWhitelist": "DFFlagDebugCrashOnShutdown1;DFFlagFlagRolloutTestDynamicBool0;DFFlagFlagRolloutTestDynamicBool1;DFFlagFlagRolloutTestDynamicBool2;DFFlagFlagRolloutTestDynamicBool3;DFFlagFlagRolloutTestDynamicBool4;DFFlagFlagRolloutTestDynamicBool5;DFFlagFlagRolloutTestDynamicBool6;DFFlagFlagRolloutTestDynamicBool7;DFFlagFlagRolloutTestDynamicBool8;DFFlagFlagRolloutTestDynamicBool9;FFlagFlagRolloutTestStaticBool0;FFlagFlagRolloutTestStaticBool1;FFlagFlagRolloutTestStaticBool2;FFlagFlagRolloutTestStaticBool3;FFlagFlagRolloutTestStaticBool4;FFlagFlagRolloutTestStaticBool5;FFlagFlagRolloutTestStaticBool6;FFlagFlagRolloutTestStaticBool7;FFlagFlagRolloutTestStaticBool8;FFlagFlagRolloutTestStaticBool9",
   "FFlagUseTokensSizeInIconButton": "True",
   "DFFlagAddPlayerTrial": "True",
   "DFFlagTestServiceNicerMessageOnWaiting": "True",
@@ -10651,6 +10651,7 @@
   "FFlagRefactorRemoveIndex2_Rollout": "True;60;2024-02-21T18:32:07",
   "FFlagFixInstanceSelectionEditorNotGoingBackToSelect_Rollout": "True;60;2024-02-21T18:33:08",
   "FFlagLuaAppFullRefreshOmniRecOnGameExitIXP": "True",
+  "FFlagPassNavigationToContactsRevoked": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11052,8 +11053,8 @@
   "EnablePushNotificationRegistrationPostLoginFix": "True",
   "FStringRenderIGGPUBlacklist": "Adreno (TM) 530|Adreno (TM) 618|Adreno (TM) 619|Adreno (TM) 504|PowerVR Rogue GE8320|Adreno (TM) 612|Adreno (TM) 615|Adreno (TM) 610",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "8a35bb46155beec0ede5db9ef32146241bc0139e",
-  "DFStringFlagRepoGitHashDynamicString": "8a35bb46155beec0ede5db9ef32146241bc0139e",
-  "FStringFlipTimeStampFastString": "2024-02-21T18:35:56.235Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T18:35:56.235Z"
+  "FStringFlagRepoGitHashFastString": "33b4a1a9f261eea41dc16ef6688f01a26e6fa79d",
+  "DFStringFlagRepoGitHashDynamicString": "33b4a1a9f261eea41dc16ef6688f01a26e6fa79d",
+  "FStringFlipTimeStampFastString": "2024-02-21T18:42:05.336Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T18:42:05.336Z"
 }
