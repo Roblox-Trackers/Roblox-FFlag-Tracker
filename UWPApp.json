@@ -10668,11 +10668,12 @@
   "FFlagStreamCacheGroups_Rollout": "True;60;2024-02-21T22:30:33",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-02-21T22:30:45",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-02-21T22:34:13",
-  "DFFlagHeapProfilerSubstituteNonUtf8_Rollout": "True;30;2024-02-21T22:35:30",
   "DFFlagBoneInstanceAllocs_Rollout": "True;60;2024-02-21T22:36:02",
   "FFlagStandaloneDmOpenUrlConnection": "True",
   "DFFlagPerfDataUniverseId_Rollout": "True;60;2024-02-21T22:59:50",
   "FFlagEnableUsernameSuggestionBorderRelease1": "True",
+  "DFFlagHeapProfilerSubstituteNonUtf8": "True",
+  "FFlagLuaAppBootcampIntroMOBLUAPP3838": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10866,8 +10867,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "afbef08f499f88b77f0b3a0ce1ddd54cf209b509",
-  "DFStringFlagRepoGitHashDynamicString": "afbef08f499f88b77f0b3a0ce1ddd54cf209b509",
-  "FStringFlipTimeStampFastString": "2024-02-21T23:09:31.646Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T23:09:31.646Z"
+  "FStringFlagRepoGitHashFastString": "63d8410f893d0fbc4f69fbca169a6a022d75dc5e",
+  "DFStringFlagRepoGitHashDynamicString": "63d8410f893d0fbc4f69fbca169a6a022d75dc5e",
+  "FStringFlipTimeStampFastString": "2024-02-21T23:12:45.934Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T23:12:45.934Z"
 }
