@@ -10658,6 +10658,9 @@
   "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "1",
   "FFlagLuaAppGridTilesItemsPerRow": "True",
   "FFlagStudioRemoveLegacyActivityFromCrashes_Rollout": "True;60;2024-02-21T21:21:58",
+  "FFlagDeprecateChatMetadata": "True",
+  "FFlagDeprecateRoactChatLoader": "True",
+  "FFlagCAPAddStreamIdToRichTextContent_Rollout": "False;60;2024-02-21T21:23:42",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10950,8 +10953,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "9a9304e97782be3556891c15e322f5a93c46d5ee",
-  "DFStringFlagRepoGitHashDynamicString": "9a9304e97782be3556891c15e322f5a93c46d5ee",
-  "FStringFlipTimeStampFastString": "2024-02-21T21:24:38.450Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T21:24:38.450Z"
+  "FStringFlagRepoGitHashFastString": "fed5ea3ebcf197cfc3525443d8bdda50ae2aa38a",
+  "DFStringFlagRepoGitHashDynamicString": "fed5ea3ebcf197cfc3525443d8bdda50ae2aa38a",
+  "FStringFlipTimeStampFastString": "2024-02-21T21:24:58.969Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T21:24:58.969Z"
 }
