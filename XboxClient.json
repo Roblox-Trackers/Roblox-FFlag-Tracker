@@ -10638,7 +10638,6 @@
   "FIntEventStudioANRDetectedThrottling": "10000",
   "FIntEventStudioANRInProgressThrottling": "10000",
   "FIntEventStudioANRResolvedThrottling": "10000",
-  "FFlagLiveScriptingReadOnlyTimeEventCrash_Rollout": "True;60;2024-02-21T17:46:19",
   "FFlagStudioCleanKeyEvent_Rollout": "True;60;2024-02-21T17:51:51",
   "FFlagStudioCleanTextboxWidget_Rollout": "True;60;2024-02-21T17:52:18",
   "FFlagStudioSuppressRenderJob_Rollout": "True;60;2024-02-21T17:57:46",
@@ -10652,6 +10651,7 @@
   "FFlagLuaAppFullRefreshOmniRecOnGameExitIXP": "True",
   "FFlagPassNavigationToContactsRevoked": "True",
   "FFlagGraphicsFixBBoxPropagation": "True",
+  "FFlagLiveScriptingReadOnlyTimeEventCrash": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10955,8 +10955,8 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagConsolesUserAgreements": "True",
-  "FStringFlagRepoGitHashFastString": "17a03cad405e86d82de1d08213243924be650156",
-  "DFStringFlagRepoGitHashDynamicString": "17a03cad405e86d82de1d08213243924be650156",
-  "FStringFlipTimeStampFastString": "2024-02-21T18:49:46.944Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T18:49:46.944Z"
+  "FStringFlagRepoGitHashFastString": "da5457be764f8e97e796e76e636ef7f8c1f0948b",
+  "DFStringFlagRepoGitHashDynamicString": "da5457be764f8e97e796e76e636ef7f8c1f0948b",
+  "FStringFlipTimeStampFastString": "2024-02-21T18:52:31.773Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T18:52:31.773Z"
 }
