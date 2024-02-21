@@ -10666,8 +10666,9 @@
   "FFlagAdjustAsyncAssetsUploadPathForOtherAssets_Rollout": "True;30;2024-02-21T21:45:38",
   "DFFlagStudioEnableOldPlaceFlowLogging": "True",
   "FFlagSetActiveWhenConnecting": "True",
-  "FFlagStudioNewDockingEnableAutoHide_Rollout": "True;1;2024-02-21T22:12:59",
   "FFlagStudioCloseButtonRedocks3DView_Rollout": "True;1;2024-02-21T22:15:05",
+  "FFlagStudioNewDockingEnableAutoHide": "True",
+  "FFlagAlwaysJoinWhenUsingAudioAPI": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10960,8 +10961,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "8b255a639214596b62eede0b4dd5fc903aaae648",
-  "DFStringFlagRepoGitHashDynamicString": "8b255a639214596b62eede0b4dd5fc903aaae648",
-  "FStringFlipTimeStampFastString": "2024-02-21T22:15:41.286Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T22:15:41.286Z"
+  "FStringFlagRepoGitHashFastString": "bfb6b4aabb5db67503b0a922448ae08da78d08ec",
+  "DFStringFlagRepoGitHashDynamicString": "bfb6b4aabb5db67503b0a922448ae08da78d08ec",
+  "FStringFlipTimeStampFastString": "2024-02-21T22:17:29.551Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T22:17:29.551Z"
 }
