@@ -10661,6 +10661,7 @@
   "FFlagDeprecateChatMetadata": "True",
   "FFlagDeprecateRoactChatLoader": "True",
   "FFlagCAPAddStreamIdToRichTextContent_Rollout": "False;60;2024-02-21T21:23:42",
+  "FFlagDebugRVideoAndroidUseSwVideoDecoder_Rollout": "False;60;2024-02-21T21:25:31",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10952,8 +10953,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "fed5ea3ebcf197cfc3525443d8bdda50ae2aa38a",
-  "DFStringFlagRepoGitHashDynamicString": "fed5ea3ebcf197cfc3525443d8bdda50ae2aa38a",
-  "FStringFlipTimeStampFastString": "2024-02-21T21:24:58.969Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T21:24:58.969Z"
+  "FStringFlagRepoGitHashFastString": "d31362d9a0f9b29102b3181e0259be57010c73de",
+  "DFStringFlagRepoGitHashDynamicString": "d31362d9a0f9b29102b3181e0259be57010c73de",
+  "FStringFlipTimeStampFastString": "2024-02-21T21:26:13.670Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T21:26:13.670Z"
 }
