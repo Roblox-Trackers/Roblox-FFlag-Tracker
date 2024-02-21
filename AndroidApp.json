@@ -10641,6 +10641,8 @@
   "FFlagGraphicsFixBBoxPropagation_Rollout": "True;60;2024-02-21T17:39:42",
   "DFFlagAddAbilityToConfigureTheStreamingGCTimeForTunable_Rollout": "False;30;2024-02-21T17:43:53",
   "FFlagLiveScriptingReadOnlyTimeEventCrash_Rollout": "True;60;2024-02-21T17:46:19",
+  "FFlagStudioCleanKeyEvent_Rollout": "True;60;2024-02-21T17:51:51",
+  "FFlagStudioCleanTextboxWidget_Rollout": "True;60;2024-02-21T17:52:18",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11042,8 +11044,8 @@
   "EnablePushNotificationRegistrationPostLoginFix": "True",
   "FStringRenderIGGPUBlacklist": "Adreno (TM) 530|Adreno (TM) 618|Adreno (TM) 619|Adreno (TM) 504|PowerVR Rogue GE8320|Adreno (TM) 612|Adreno (TM) 615|Adreno (TM) 610",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "b41331b502a12ac737054ad594651f76e52c7f0f",
-  "DFStringFlagRepoGitHashDynamicString": "b41331b502a12ac737054ad594651f76e52c7f0f",
-  "FStringFlipTimeStampFastString": "2024-02-21T17:46:39.809Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T17:46:39.809Z"
+  "FStringFlagRepoGitHashFastString": "1e2cd8e18e5b4db1ff3d4c2c5c3f49bb7d99d1ab",
+  "DFStringFlagRepoGitHashDynamicString": "1e2cd8e18e5b4db1ff3d4c2c5c3f49bb7d99d1ab",
+  "FStringFlipTimeStampFastString": "2024-02-21T17:52:37.701Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T17:52:37.701Z"
 }
