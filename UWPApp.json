@@ -6389,7 +6389,7 @@
   "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "500",
   "FStringDebugCollectQtDiagnosticsPrefix": "QObject::connect",
   "FFlag9SliceEditorShorterLoadTime": "True",
-  "DFFlagFlagRolloutTestDynamicBool0": "True",
+  "DFFlagFlagRolloutTestDynamicBool0": "False",
   "FFlagUserSearchLayerPassAllProps": "True",
   "FFlagPlayerSearchNewEmptyPageEnabled_v3": "True",
   "FFlagUnifyAddFriendsPageRouterName": "True",
@@ -10665,8 +10665,6 @@
   "FFlagStudioCloseButtonRedocks3DView": "True",
   "FFlagAdjustAsyncAssetsUploadPathForOtherAssets": "True",
   "FFlagStudioRemoveLegacyActivityFromCrashes": "True",
-  "FFlagStreamCacheGroups_Rollout": "True;60;2024-02-21T22:30:33",
-  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-02-21T22:30:45",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-02-21T22:34:13",
   "DFFlagBoneInstanceAllocs_Rollout": "True;60;2024-02-21T22:36:02",
   "FFlagStandaloneDmOpenUrlConnection": "True",
@@ -10682,6 +10680,7 @@
   "FFlagRemoveInGameChatBubbleChatReferences": "True",
   "FFlagUpgradeExpChatV4_3_1": "True",
   "FIntConsolidateBubbleChatRollout": "5",
+  "FFlagStreamCacheGroups": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -10875,8 +10874,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "3862c5c3058a430743c018522480a519dfa58396",
-  "DFStringFlagRepoGitHashDynamicString": "3862c5c3058a430743c018522480a519dfa58396",
-  "FStringFlipTimeStampFastString": "2024-02-21T23:36:41.534Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T23:36:41.534Z"
+  "FStringFlagRepoGitHashFastString": "839094771d0a02ec9f09049a6de36551e61b680c",
+  "DFStringFlagRepoGitHashDynamicString": "839094771d0a02ec9f09049a6de36551e61b680c",
+  "FStringFlipTimeStampFastString": "2024-02-21T23:37:18.873Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T23:37:18.873Z"
 }
