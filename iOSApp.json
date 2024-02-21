@@ -9756,7 +9756,7 @@
   "FFlagFasterEventFilterScriptEditor": "True",
   "DFFlagCLI91684": "True",
   "DFFlagCLI91705": "True",
-  "FFlagAssetImportCustomPresetPolish": "False",
+  "FFlagAssetImportCustomPresetPolish": "True",
   "FFlagAssetImportFixErrorOnCorruptedFilesPlugin": "True",
   "FFlagAssetImporterApplyToAllFixes": "False",
   "FFlagAssetImporterCustomPresets": "False",
@@ -10654,6 +10654,7 @@
   "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier_Rollout": "1;60;2024-02-21T19:34:37",
   "FFlagRefactorRemoveIndex2": "True",
   "FFlagFixInstanceSelectionEditorNotGoingBackToSelect": "True",
+  "FFlagAssetImporterApplyToAllFixes2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11024,8 +11025,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "DFFlagReportInferenceResultToPerfdata2": "True",
-  "FStringFlagRepoGitHashFastString": "d89eb3b751178bada3e4a15e7ce1c55eabd05e6d",
-  "DFStringFlagRepoGitHashDynamicString": "d89eb3b751178bada3e4a15e7ce1c55eabd05e6d",
-  "FStringFlipTimeStampFastString": "2024-02-21T19:41:54.963Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T19:41:54.963Z"
+  "FStringFlagRepoGitHashFastString": "3cfc04a4c016ca8767ffd149f30f496df2cb5333",
+  "DFStringFlagRepoGitHashDynamicString": "3cfc04a4c016ca8767ffd149f30f496df2cb5333",
+  "FStringFlipTimeStampFastString": "2024-02-21T19:49:26.553Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T19:49:26.553Z"
 }
