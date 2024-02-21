@@ -10658,6 +10658,7 @@
   "FFlagFlagRolloutTestStaticBool0_Rollout": "False;60;2024-02-21T20:15:42",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-02-21T20:16:16",
   "FIntAudioMetadataCacheSizeKB_Rollout": "256;60;2024-02-21T20:25:22",
+  "DFFlagMemoryMimallocEnabled_Rollout": "True;60;2024-02-21T20:35:27",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10949,8 +10950,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "d5525fefb5291c16971feec9dcfc1e2f96eb4248",
-  "DFStringFlagRepoGitHashDynamicString": "d5525fefb5291c16971feec9dcfc1e2f96eb4248",
-  "FStringFlipTimeStampFastString": "2024-02-21T20:27:58.539Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-21T20:27:58.539Z"
+  "FStringFlagRepoGitHashFastString": "4175876bf7c68e4e5852612ab6187cc3779ec991",
+  "DFStringFlagRepoGitHashDynamicString": "4175876bf7c68e4e5852612ab6187cc3779ec991",
+  "FStringFlipTimeStampFastString": "2024-02-21T20:36:01.393Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-21T20:36:01.393Z"
 }
