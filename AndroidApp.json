@@ -10676,7 +10676,6 @@
   "FIntConsolidateBubbleChatRollout": "5",
   "FFlagStreamCacheGroups": "True",
   "DFFlagBoneInstanceAllocs": "True",
-  "FFlagVignetteEffectEnabled2": "False",
   "FFlagFriendsCarouselOldFriendEndpointLoadingTime": "True",
   "FFlagNotificationsMarkAllAsRead": "True",
   "DFFlagPerfDataUniverseId": "True",
@@ -11132,8 +11131,9 @@
   "FStringContactsToastSeen": "ContactsToastSeen_Android",
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
-  "FStringFlagRepoGitHashFastString": "5f60508f942507ad747c6cec4415b77322697ad1",
-  "DFStringFlagRepoGitHashDynamicString": "5f60508f942507ad747c6cec4415b77322697ad1",
-  "FStringFlipTimeStampFastString": "2024-02-22T21:35:24.165Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T21:35:24.165Z"
+  "FFlagVignetteEffectEnabled2_Rollout": "True;60;2024-02-22T21:40:20",
+  "FStringFlagRepoGitHashFastString": "792b3ebf7ceb8b6dac1b476b0c9b766b0c0e9827",
+  "DFStringFlagRepoGitHashDynamicString": "792b3ebf7ceb8b6dac1b476b0c9b766b0c0e9827",
+  "FStringFlipTimeStampFastString": "2024-02-22T21:40:45.835Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T21:40:45.835Z"
 }
