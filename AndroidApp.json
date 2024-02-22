@@ -10686,6 +10686,9 @@
   "FFlagPluginCalloutCustomToolAlwaysActive": "True",
   "FFlagClientAvatarUsesColor3sForBodyParts5": "True",
   "DFFlagSolverStateReplicatedOnly": "True",
+  "DFFlagUGCValidateCageUVCoincident": "True",
+  "DFFlagUGCValidateMeshTrianglesFacesFix": "True",
+  "DFFlagUGCValidationCageUVTriangleAreaFacesFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11090,8 +11093,8 @@
   "FIntEnableCullableScene2HundredthPercent3": "500",
   "FLogRenderInstanceGlob_PlaceFilter": "6;16303126094;5191483765",
   "FFlagGpuGeometryManager13_PlaceFilter": "True;5191483765;16303126094",
-  "FStringFlagRepoGitHashFastString": "9856882e9329bf545d74030a4cfc93569dcd6d63",
-  "DFStringFlagRepoGitHashDynamicString": "9856882e9329bf545d74030a4cfc93569dcd6d63",
-  "FStringFlipTimeStampFastString": "2024-02-22T15:38:08.230Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T15:38:08.230Z"
+  "FStringFlagRepoGitHashFastString": "f9c2a3b956555804dd39321801c2f125a3b3d8f0",
+  "DFStringFlagRepoGitHashDynamicString": "f9c2a3b956555804dd39321801c2f125a3b3d8f0",
+  "FStringFlipTimeStampFastString": "2024-02-22T17:08:03.454Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T17:08:03.454Z"
 }
