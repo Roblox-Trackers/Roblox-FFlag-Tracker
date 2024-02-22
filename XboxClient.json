@@ -10712,11 +10712,9 @@
   "FFlagPassInCloseCentralOverlayToChildren": "True",
   "FFlagMacStudioBorrowClientCoookie3": "True",
   "FFlagLuaAppCleanupFlexGridItemBounds": "True",
-  "FFlagScriptCapabilitiesOpt2_Rollout": "True;60;2024-02-22T20:50:39",
   "FFlagRemoteSaveValidatorTeamCreateUserSaveRollout": "True",
   "FFlagRemoteSaveValidatorNonTeamCreateUserSaveRollout": "True",
   "FIntRemoteSaveValidatorTeamCreateUserSaveRolloutHundredthPercent": "10",
-  "FFlagSimdBvhRayCast2_Rollout": "True;60;2024-02-22T20:54:38",
   "FIntRemoteSaveValidatorNonTeamCreateUserSaveRolloutHundredthPercent": "10",
   "DFFlagNonTeamCreateRemoteSaveValidatorMasterSwitchOptIn": "False",
   "DFFlagNonTeamCreateRemoteSaveValidatorMasterSwitchOptIn_PlaceFilter": "True;13548920446",
@@ -10727,6 +10725,8 @@
   "FFlagComposableNavViews": "True",
   "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage_Rollout": "True;60;2024-02-22T22:00:19",
   "FFlagDevFrameworkFixSearchBarVerticalPadding": "True",
+  "FFlagSimdBvhRayCast2": "True",
+  "FFlagScriptCapabilitiesOpt2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11027,8 +11027,8 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagConsolesUserAgreements": "True",
-  "FStringFlagRepoGitHashFastString": "26d59f96bf0805f319bdadd86d73edad497a1ff9",
-  "DFStringFlagRepoGitHashDynamicString": "26d59f96bf0805f319bdadd86d73edad497a1ff9",
-  "FStringFlipTimeStampFastString": "2024-02-22T22:23:59.377Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T22:23:59.377Z"
+  "FStringFlagRepoGitHashFastString": "af1363c963a1eda637ec213a0d1a3f3a7ac47c4d",
+  "DFStringFlagRepoGitHashDynamicString": "af1363c963a1eda637ec213a0d1a3f3a7ac47c4d",
+  "FStringFlipTimeStampFastString": "2024-02-22T22:26:26.267Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T22:26:26.267Z"
 }
