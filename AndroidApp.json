@@ -10703,7 +10703,6 @@
   "DFIntRemoteSaveValidatorPlaceIdRolloutPercentage": "10",
   "FFlagRemoteSaveValidatorAutosaveRollout": "True",
   "FIntRemoteSaveValidatorAutosaveRolloutHundredthPercent": "10",
-  "FFlagMacUpdateControllerUseInstaller_Rollout": "True;60;2024-02-22T18:59:06",
   "FFlagAudioWiringApiBetaFeature": "True",
   "FFlagProfilePeekViewChatAnalytics_v4": "True",
   "FFlagHideSubtitleFromWidgetSeeAll": "True",
@@ -10714,6 +10713,7 @@
   "FFlagFixLooksWidgetBottomPadding": "True",
   "FFlagSelectionCollisionGroup": "True",
   "DFFlagEnableAdGuiDeferredVideoLoad_Rollout": "True;60;2024-02-22T19:59:23",
+  "FFlagMacUpdateControllerUseInstaller": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11121,8 +11121,8 @@
   "FStringContactsToastSeen": "ContactsToastSeen_Android",
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
-  "FStringFlagRepoGitHashFastString": "40760c3182ad79d479340c29a6819fd2080d0252",
-  "DFStringFlagRepoGitHashDynamicString": "40760c3182ad79d479340c29a6819fd2080d0252",
-  "FStringFlipTimeStampFastString": "2024-02-22T19:59:59.961Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T19:59:59.961Z"
+  "FStringFlagRepoGitHashFastString": "bf3fa0173fa252234d9f22926d562a36f3150ca6",
+  "DFStringFlagRepoGitHashDynamicString": "bf3fa0173fa252234d9f22926d562a36f3150ca6",
+  "FStringFlipTimeStampFastString": "2024-02-22T20:06:32.682Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T20:06:32.682Z"
 }
