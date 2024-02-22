@@ -10495,7 +10495,7 @@
   "FFlagToolboxFixAbsolutePositionResizing": "True",
   "FFlagLuaAppEnableSurveyTitleTranslation": "True",
   "FFlagMatchKeyboardWithTheme": "True",
-  "DFIntMultiPartUploadS3RequestTimeout": "60000",
+  "DFIntMultiPartUploadS3RequestTimeout": "120000",
   "FFlagStudioMoveAsyncComponentWaitToLCM": "True",
   "FFlagFixPlayersExtremeTruncation": "True",
   "FFlagToolboxAddAssetConfigPriceRedirectLink2": "True",
@@ -10709,7 +10709,6 @@
   "FFlagHideSubtitleFromWidgetSeeAll": "True",
   "FFlagMacStudioBorrowClientCoookie3_Rollout": "True;60;2024-02-22T19:19:31",
   "DFFlagGCNoEmergencyIfNoRegions": "True",
-  "DFIntMultiPartUploadS3RequestTimeout_Rollout": "120000;10;2024-02-22T19:26:35",
   "FIntStudioNewPlaceUploadSaveRolloutHundredthPercent_Rollout": "2500;30;2024-02-22T19:38:07",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
@@ -11002,8 +11001,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "2dab2ea9d60e5afc18068f97a804d1f57fa7fd47",
-  "DFStringFlagRepoGitHashDynamicString": "2dab2ea9d60e5afc18068f97a804d1f57fa7fd47",
-  "FStringFlipTimeStampFastString": "2024-02-22T19:38:34.031Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T19:38:34.031Z"
+  "FStringFlagRepoGitHashFastString": "7b8c582a72b18a673c329dd6f27802fdea7c88f5",
+  "DFStringFlagRepoGitHashDynamicString": "7b8c582a72b18a673c329dd6f27802fdea7c88f5",
+  "FStringFlipTimeStampFastString": "2024-02-22T19:41:18.330Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T19:41:18.330Z"
 }
