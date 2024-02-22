@@ -10690,7 +10690,6 @@
   "DFFlagUGCValidateMeshTrianglesFacesFix": "True",
   "DFFlagUGCValidationCageUVTriangleAreaFacesFix": "True",
   "FFlagLuaAppGridTileDelayHoverFetch": "True",
-  "DFFlagVectorStaticFunctions_Rollout": "True;30;2024-02-22T18:13:05",
   "FFlagHangDetectionJobV2_Rollout": "True;30;2024-02-22T18:14:42",
   "DFFlagGCNoEmergencyIfNoRegions_Rollout": "True;60;2024-02-22T18:16:32",
   "FFlagReportELFDebugInfo": "True",
@@ -10703,6 +10702,7 @@
   "FFlagACEIgnoreAnimSavesObjectValue": "True",
   "FFlagACERigInfoCache": "True",
   "FFlagACEFixCurveEditorScales": "True",
+  "DFFlagVectorStaticFunctions": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11110,8 +11110,8 @@
   "FStringContactsToastSeen": "ContactsToastSeen_Android",
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
-  "FStringFlagRepoGitHashFastString": "bc8305ad3efab873070bb0c1b033ed412345a162",
-  "DFStringFlagRepoGitHashDynamicString": "bc8305ad3efab873070bb0c1b033ed412345a162",
-  "FStringFlipTimeStampFastString": "2024-02-22T18:46:33.373Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T18:46:33.373Z"
+  "FStringFlagRepoGitHashFastString": "e60f662ffae2292de163ac820108d809a82988b3",
+  "DFStringFlagRepoGitHashDynamicString": "e60f662ffae2292de163ac820108d809a82988b3",
+  "FStringFlipTimeStampFastString": "2024-02-22T18:46:43.686Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T18:46:43.686Z"
 }
