@@ -10694,6 +10694,7 @@
   "DFFlagFlagRolloutTestDynamicBool4_Rollout": "True;60;2024-02-22T00:07:01",
   "FFlagFlagRolloutTestStaticBool4_Rollout": "False;60;2024-02-22T00:07:33",
   "FFlagPluginCalloutCustomToolAlwaysActive_Rollout": "True;20;2024-02-22T00:23:35",
+  "DFFlagSolverStateReplicatedOnly_Rollout": "True;60;2024-02-22T00:31:55",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -10985,8 +10986,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "69ee4639a206e26c426db7d01e6bfb41bd07c13a",
-  "DFStringFlagRepoGitHashDynamicString": "69ee4639a206e26c426db7d01e6bfb41bd07c13a",
-  "FStringFlipTimeStampFastString": "2024-02-22T00:30:34.057Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T00:30:34.057Z"
+  "FStringFlagRepoGitHashFastString": "e93cab58b61b29dc82ebeefa6c59739f4730d5ad",
+  "DFStringFlagRepoGitHashDynamicString": "e93cab58b61b29dc82ebeefa6c59739f4730d5ad",
+  "FStringFlipTimeStampFastString": "2024-02-22T00:33:08.317Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T00:33:08.317Z"
 }
