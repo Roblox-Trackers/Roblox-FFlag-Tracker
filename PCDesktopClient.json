@@ -10057,7 +10057,7 @@
   "FFlagToolboxStoreRename": "True",
   "FFlagGraphicsFixMeshChangeParent": "True",
   "FFlagStudioActionConversionGroupXML1": "True",
-  "DFStringNewFlagRolloutFlagsWhitelist": "DFFlagDebugCrashOnShutdown1;DFFlagFlagRolloutTestDynamicBool0;DFFlagFlagRolloutTestDynamicBool1;DFFlagFlagRolloutTestDynamicBool2;DFFlagFlagRolloutTestDynamicBool3;DFFlagFlagRolloutTestDynamicBool4;DFFlagFlagRolloutTestDynamicBool5;DFFlagFlagRolloutTestDynamicBool6;DFFlagFlagRolloutTestDynamicBool7;DFFlagFlagRolloutTestDynamicBool8;DFFlagFlagRolloutTestDynamicBool9;FFlagFlagRolloutTestStaticBool0;FFlagFlagRolloutTestStaticBool1;FFlagFlagRolloutTestStaticBool2;FFlagFlagRolloutTestStaticBool3;FFlagFlagRolloutTestStaticBool4;FFlagFlagRolloutTestStaticBool5;FFlagFlagRolloutTestStaticBool6;FFlagFlagRolloutTestStaticBool7;FFlagFlagRolloutTestStaticBool8;FFlagFlagRolloutTestStaticBool9",
+  "DFStringNewFlagRolloutFlagsWhitelist": "DFFlagDebugCrashOnShutdown1;DFFlagFlagRolloutTestDynamicBool0;DFFlagFlagRolloutTestDynamicBool1;DFFlagFlagRolloutTestDynamicBool2;DFFlagFlagRolloutTestDynamicBool3;DFFlagFlagRolloutTestDynamicBool4;DFFlagFlagRolloutTestDynamicBool5;DFFlagFlagRolloutTestDynamicBool6;DFFlagFlagRolloutTestDynamicBool7;DFFlagFlagRolloutTestDynamicBool8;DFFlagFlagRolloutTestDynamicBool9;FFlagFlagRolloutTestStaticBool0;FFlagFlagRolloutTestStaticBool1;FFlagFlagRolloutTestStaticBool2;FFlagFlagRolloutTestStaticBool3;FFlagFlagRolloutTestStaticBool4;FFlagFlagRolloutTestStaticBool5;FFlagFlagRolloutTestStaticBool6;FFlagFlagRolloutTestStaticBool7;FFlagFlagRolloutTestStaticBool8;FFlagFlagRolloutTestStaticBool9;FFlagRenderFixMissingTrailShaders;DFFlagAdditionalPrePauseStats;DFIntAdditionalPrePauseStatsSamplePeriod;DFIntAdditionalPrePauseStatsHundredthsPercentage;FFlagPerformanceControlAddStartToConstructor;DFFlagRemoveCallbackModeFromPerformanceControl",
   "FFlagUseTokensSizeInIconButton": "True",
   "DFFlagAddPlayerTrial": "True",
   "DFFlagTestServiceNicerMessageOnWaiting": "True",
@@ -10982,8 +10982,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "3c91384041c6b560820148ac849e95cc9dfd9b55",
-  "DFStringFlagRepoGitHashDynamicString": "3c91384041c6b560820148ac849e95cc9dfd9b55",
-  "FStringFlipTimeStampFastString": "2024-02-22T17:53:03.245Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T17:53:03.245Z"
+  "FStringFlagRepoGitHashFastString": "a3d778c6d6400ba160913d279103f78ccedcafee",
+  "DFStringFlagRepoGitHashDynamicString": "a3d778c6d6400ba160913d279103f78ccedcafee",
+  "FStringFlipTimeStampFastString": "2024-02-22T17:58:27.794Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T17:58:27.794Z"
 }
