@@ -10706,7 +10706,6 @@
   "FFlagAudioWiringApiBetaFeature": "True",
   "FFlagProfilePeekViewChatAnalytics_v4": "True",
   "FFlagHideSubtitleFromWidgetSeeAll": "True",
-  "FFlagMacStudioBorrowClientCoookie3_Rollout": "True;60;2024-02-22T19:19:31",
   "DFFlagGCNoEmergencyIfNoRegions": "True",
   "FFlagFixLooksTileDetailButton": "True",
   "FFlagFixLooksWidgetBottomPadding": "True",
@@ -10714,6 +10713,7 @@
   "DFFlagEnableAdGuiDeferredVideoLoad_Rollout": "True;60;2024-02-22T19:59:23",
   "FFlagMacUpdateControllerUseInstaller": "True",
   "FFlagPassInCloseCentralOverlayToChildren": "True",
+  "FFlagMacStudioBorrowClientCoookie3": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11006,8 +11006,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "e82d2a7248e660abeb190fa19c28bb63bbbcfa15",
-  "DFStringFlagRepoGitHashDynamicString": "e82d2a7248e660abeb190fa19c28bb63bbbcfa15",
-  "FStringFlipTimeStampFastString": "2024-02-22T20:23:51.856Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T20:23:51.856Z"
+  "FStringFlagRepoGitHashFastString": "18e49c7731275d1e48addf3ef292c0346511ff95",
+  "DFStringFlagRepoGitHashDynamicString": "18e49c7731275d1e48addf3ef292c0346511ff95",
+  "FStringFlipTimeStampFastString": "2024-02-22T20:26:17.215Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T20:26:17.215Z"
 }
