@@ -10734,6 +10734,7 @@
   "FFlagAddOver12TopBarBadge": "True",
   "DFIntAdditionalPrePauseStatsSamplePeriod": "10",
   "DFIntAdditionalPrePauseStatsHundredthsPercentage_Rollout": "100;60;2024-02-22T23:30:37",
+  "DFFlagRemoveCallbackModeFromPerformanceControl_Rollout": "True;60;2024-02-22T23:35:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11141,8 +11142,8 @@
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
   "FFlagVignetteEffectEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "2a6a2de74710d94762eb19ea7962c1f4e23a7cfc",
-  "DFStringFlagRepoGitHashDynamicString": "2a6a2de74710d94762eb19ea7962c1f4e23a7cfc",
-  "FStringFlipTimeStampFastString": "2024-02-22T23:31:14.346Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T23:31:14.346Z"
+  "FStringFlagRepoGitHashFastString": "718bbda82460c109effe8d0a2937d8d190a61471",
+  "DFStringFlagRepoGitHashDynamicString": "718bbda82460c109effe8d0a2937d8d190a61471",
+  "FStringFlipTimeStampFastString": "2024-02-22T23:36:05.271Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T23:36:05.271Z"
 }
