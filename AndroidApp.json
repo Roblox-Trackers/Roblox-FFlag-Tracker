@@ -5475,7 +5475,7 @@
   "FFlagSimEnableCSGV3": "True",
   "FFlagLuaAppCrossDeviceLoginRefactor": "True",
   "DFFlagStaticallyInferArgumentCount": "True",
-  "FFlagFetchMeshPartAccessories3": "False",
+  "FFlagFetchMeshPartAccessories3": "True",
   "FFlagAinRefactorApplySettings": "True",
   "FFlagContactListEnabled": "False",
   "FFlagContactListEnabled_PlaceFilter": "True;11402255591;11460402982;12444504875;12867047376;14474452831;2223609383;14832193882;14639102448;15091561875;15221080502;15221080701;15221072929",
@@ -10723,6 +10723,7 @@
   "FIntRemoteSaveValidatorNonTeamCreateUserSaveRolloutHundredthPercent": "10",
   "DFFlagNonTeamCreateRemoteSaveValidatorMasterSwitchOptIn": "False",
   "DFFlagNonTeamCreateRemoteSaveValidatorMasterSwitchOptIn_PlaceFilter": "True;13548920446",
+  "FStringCursorGroupHelp": "https://create.roblox.com/docs/workspace/collisions#studioselectable-collision-group",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11130,8 +11131,8 @@
   "FStringContactsToastSeen": "ContactsToastSeen_Android",
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
-  "FStringFlagRepoGitHashFastString": "61d6463cfe0b85bf0d8db86b54c715fbf407345d",
-  "DFStringFlagRepoGitHashDynamicString": "61d6463cfe0b85bf0d8db86b54c715fbf407345d",
-  "FStringFlipTimeStampFastString": "2024-02-22T21:07:58.126Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T21:07:58.126Z"
+  "FStringFlagRepoGitHashFastString": "8b9cbde4482f758f688a1eb6b934be4526884120",
+  "DFStringFlagRepoGitHashDynamicString": "8b9cbde4482f758f688a1eb6b934be4526884120",
+  "FStringFlipTimeStampFastString": "2024-02-22T21:24:12.196Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T21:24:12.196Z"
 }
