@@ -10720,7 +10720,6 @@
   "DFFlagNonTeamCreateRemoteSaveValidatorMasterSwitchOptIn_PlaceFilter": "True;13548920446",
   "FStringCursorGroupHelp": "https://create.roblox.com/docs/workspace/collisions#studioselectable-collision-group",
   "DFFlagEnableAdGuiDeferredVideoLoad": "True",
-  "DFIntAdditionalPrePauseStatsSamplePeriod_Rollout": "10;60;2024-02-22T21:54:31",
   "FFlagComposableNavViews": "True",
   "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage_Rollout": "True;60;2024-02-22T22:00:19",
   "FFlagDevFrameworkFixSearchBarVerticalPadding": "True",
@@ -10733,6 +10732,7 @@
   "FFlagPerformanceControlAddStartToConstructor_Rollout": "True;60;2024-02-22T23:00:46",
   "FFlagSurveyPlaceIdSupport": "True",
   "FFlagAddOver12TopBarBadge": "True",
+  "DFIntAdditionalPrePauseStatsSamplePeriod": "10",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11029,9 +11029,9 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FFlagSkipRebuildingCrashedELF_Rollout": "True;60;2024-02-22T21:50:42",
-  "FStringFlagRepoGitHashFastString": "18082d3ef2ebe319f5cdfb847120a4c0ff938b54",
-  "DFStringFlagRepoGitHashDynamicString": "18082d3ef2ebe319f5cdfb847120a4c0ff938b54",
-  "FStringFlipTimeStampFastString": "2024-02-22T23:16:35.453Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T23:16:35.453Z"
+  "FFlagSkipRebuildingCrashedELF": "True",
+  "FStringFlagRepoGitHashFastString": "92cec4e2513ff461efb970576c2b7c591aa64e87",
+  "DFStringFlagRepoGitHashDynamicString": "92cec4e2513ff461efb970576c2b7c591aa64e87",
+  "FStringFlipTimeStampFastString": "2024-02-22T23:27:01.342Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T23:27:01.342Z"
 }
