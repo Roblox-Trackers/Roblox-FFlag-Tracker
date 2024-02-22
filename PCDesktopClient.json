@@ -10729,6 +10729,7 @@
   "FFlagScriptCapabilitiesOpt2": "True",
   "FFlagPSOnlineIdSignalUpdate": "True",
   "FFlagMicrophoneDevicePermissionsPromptLogging": "True",
+  "FFlagMoveDspRegistration_Rollout": "True;60;2024-02-22T22:52:18",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11020,8 +11021,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "1abcd23d2493b00187c068e76e93403ab64f15b6",
-  "DFStringFlagRepoGitHashDynamicString": "1abcd23d2493b00187c068e76e93403ab64f15b6",
-  "FStringFlipTimeStampFastString": "2024-02-22T22:50:58.266Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-22T22:50:58.266Z"
+  "FStringFlagRepoGitHashFastString": "84eaee1077025745240619f4d940fe63a1f7cb4e",
+  "DFStringFlagRepoGitHashDynamicString": "84eaee1077025745240619f4d940fe63a1f7cb4e",
+  "FStringFlipTimeStampFastString": "2024-02-22T22:52:43.580Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-22T22:52:43.580Z"
 }
