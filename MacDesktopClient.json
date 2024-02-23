@@ -10744,6 +10744,7 @@
   "FFlagSelfViewMoreNilChecks": "True",
   "FFlagReportStreamingObserverStats2": "True",
   "DFFlagSimReportDidThrottleDuringStep": "True",
+  "FFlagFixValidationCLI88954_Rollout": "True;60;2024-02-23T19:36:49",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11041,8 +11042,8 @@
   "FFlagDynamicDpiUpdateAndroidMacOS": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagSkipRebuildingCrashedELF": "True",
-  "FStringFlagRepoGitHashFastString": "1d45630051ee688e5ab24e69e6ad23f4b5cac90c",
-  "DFStringFlagRepoGitHashDynamicString": "1d45630051ee688e5ab24e69e6ad23f4b5cac90c",
-  "FStringFlipTimeStampFastString": "2024-02-23T19:26:59.355Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-23T19:26:59.355Z"
+  "FStringFlagRepoGitHashFastString": "e415a46351c140ceeba12109942be64a3ad97564",
+  "DFStringFlagRepoGitHashDynamicString": "e415a46351c140ceeba12109942be64a3ad97564",
+  "FStringFlipTimeStampFastString": "2024-02-23T19:37:21.568Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-23T19:37:21.568Z"
 }
