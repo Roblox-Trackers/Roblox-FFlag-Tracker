@@ -4974,7 +4974,7 @@
   "DFFlagSimTouchDebouncerFastOther": "True",
   "FFlagSupportOffCenterOriginInvestigateExtentsCFrameCrash": "False",
   "FFlagSupportOffCenterOriginInvestigateExtentsSizeCrash": "False",
-  "DFFlagFlagRolloutTestDynamicBool4": "True",
+  "DFFlagFlagRolloutTestDynamicBool4": "False",
   "FFlagBatchAssetApiRollout": "True",
   "FIntBatchAssetApiRolloutHundredthPercent": "10000",
   "FFlagTrackAllDeviceMemory6": "False",
@@ -10736,7 +10736,6 @@
   "FFlagPerformanceControlAddStartToConstructor": "True",
   "DFFlagRemoveCallbackModeFromPerformanceControl": "True",
   "DFIntAdditionalPrePauseStatsHundredthsPercentage": "100",
-  "DFFlagFlagRolloutTestDynamicBool4_Rollout": "False;60;2024-02-23T03:43:19",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11037,8 +11036,8 @@
   "FFlagAXScrollingFrameOnlyReconstructWhenRowPerItemChanged": "True",
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagConsolesUserAgreements": "True",
-  "FStringFlagRepoGitHashFastString": "4bef1d117f84beb088649c5ab34df0347d4e45b2",
-  "DFStringFlagRepoGitHashDynamicString": "4bef1d117f84beb088649c5ab34df0347d4e45b2",
-  "FStringFlipTimeStampFastString": "2024-02-23T03:45:07.450Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-23T03:45:07.450Z"
+  "FStringFlagRepoGitHashFastString": "2e6bfa4acdc2b8fac0fa97b151169fb232d65039",
+  "DFStringFlagRepoGitHashDynamicString": "2e6bfa4acdc2b8fac0fa97b151169fb232d65039",
+  "FStringFlipTimeStampFastString": "2024-02-23T05:14:45.964Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-23T05:14:45.964Z"
 }
