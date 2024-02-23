@@ -10738,6 +10738,7 @@
   "DFIntAdditionalPrePauseStatsHundredthsPercentage": "100",
   "DFFlagVideoAddFormatNameVisibilityMetrics_Rollout": "True;60;2024-02-23T17:12:00",
   "FFlagReportStreamingObserverStats2_Rollout": "True;60;2024-02-23T17:50:48",
+  "DFFlagSimReportDidThrottleDuringStep_Rollout": "True;60;2024-02-23T17:54:33",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11030,8 +11031,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "0e5f708299d6b525f2123532eb332ff1d1337f42",
-  "DFStringFlagRepoGitHashDynamicString": "0e5f708299d6b525f2123532eb332ff1d1337f42",
-  "FStringFlipTimeStampFastString": "2024-02-23T17:51:36.342Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-23T17:51:36.342Z"
+  "FStringFlagRepoGitHashFastString": "b9aee0fb4286e811fd02c6e28c5510f3bb805474",
+  "DFStringFlagRepoGitHashDynamicString": "b9aee0fb4286e811fd02c6e28c5510f3bb805474",
+  "FStringFlipTimeStampFastString": "2024-02-23T17:55:04.670Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-23T17:55:04.670Z"
 }
