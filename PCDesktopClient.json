@@ -10726,9 +10726,7 @@
   "FFlagScriptCapabilitiesOpt2": "True",
   "FFlagPSOnlineIdSignalUpdate": "True",
   "FFlagMicrophoneDevicePermissionsPromptLogging": "True",
-  "FFlagMoveDspRegistration_Rollout": "True;60;2024-02-22T22:52:18",
   "FFlagLuauCheckedFunctionSyntax": "True",
-  "FFlagPerformanceControlAddStartToConstructor_Rollout": "True;60;2024-02-22T23:00:46",
   "FFlagSurveyPlaceIdSupport": "True",
   "FFlagAddOver12TopBarBadge": "True",
   "DFIntAdditionalPrePauseStatsSamplePeriod": "10",
@@ -10736,6 +10734,8 @@
   "DFFlagRemoveCallbackModeFromPerformanceControl_Rollout": "True;60;2024-02-22T23:35:33",
   "FFlagFixRobuxBalanceUpdateOnBuyRobuxPage": "True",
   "FFlagReplaceMannequinUtility": "True",
+  "FFlagMoveDspRegistration": "True",
+  "FFlagPerformanceControlAddStartToConstructor": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11027,8 +11027,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "3f172e2fdb3a9aab99fe21fdbf3d942f7f0be905",
-  "DFStringFlagRepoGitHashDynamicString": "3f172e2fdb3a9aab99fe21fdbf3d942f7f0be905",
-  "FStringFlipTimeStampFastString": "2024-02-23T00:15:40.529Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-23T00:15:40.529Z"
+  "FStringFlagRepoGitHashFastString": "eea0719a9daae4aa01244e0385ffd7091913a8f3",
+  "DFStringFlagRepoGitHashDynamicString": "eea0719a9daae4aa01244e0385ffd7091913a8f3",
+  "FStringFlipTimeStampFastString": "2024-02-23T00:37:26.794Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-23T00:37:26.794Z"
 }
