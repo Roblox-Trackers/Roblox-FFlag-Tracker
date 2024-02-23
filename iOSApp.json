@@ -10738,13 +10738,13 @@
   "DFIntAdditionalPrePauseStatsHundredthsPercentage": "100",
   "FFlagLuaAppFixTabletGridTileColumnCount": "True",
   "FFlagLuaAppAddComponentTypeToImpressions": "True",
-  "DFFlagAdditionalPrePauseStats_Rollout": "True;60;2024-02-23T18:38:30",
   "FFlagLuaAppSponsoredTooltipCustomColorSupport": "True",
   "DFFlagVideoAddFormatNameVisibilityMetrics": "True",
   "FFlagSelfViewMoreNilChecks": "True",
   "FFlagReportStreamingObserverStats2": "True",
   "DFFlagSimReportDidThrottleDuringStep": "True",
   "FFlagFixExplorerAllDescendantsFilter_Rollout": "True;30;2024-02-23T19:49:00",
+  "DFFlagAdditionalPrePauseStats": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11118,8 +11118,8 @@
   "FStringContactsToastSeen": "ContactsToastSeen_iOS",
   "FStringContactsToastDismissed": "ContactsToastDismissed_iOS",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_iOS",
-  "FStringFlagRepoGitHashFastString": "2aafd7722f7eb4c8735541b96f07808f1667415a",
-  "DFStringFlagRepoGitHashDynamicString": "2aafd7722f7eb4c8735541b96f07808f1667415a",
-  "FStringFlipTimeStampFastString": "2024-02-23T19:51:27.604Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-23T19:51:27.604Z"
+  "FStringFlagRepoGitHashFastString": "bf82b98f92c2bde4a0ccab754217105fd19d5390",
+  "DFStringFlagRepoGitHashDynamicString": "bf82b98f92c2bde4a0ccab754217105fd19d5390",
+  "FStringFlipTimeStampFastString": "2024-02-23T20:13:52.206Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-23T20:13:52.206Z"
 }
