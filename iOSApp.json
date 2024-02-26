@@ -10746,9 +10746,6 @@
   "FFlagFixExplorerAllDescendantsFilter": "True",
   "FFlagFixCharacterManagerValueConversionWarning": "True",
   "FFlagFixTagEditorScroll": "True",
-  "DFFlagSplitStreamingWorkTimeIntoTwoSeparateMetrics_Rollout": "True;60;2024-02-26T18:35:53",
-  "FFlagSimDecoupleRunServiceState_Rollout": "True;60;2024-02-26T18:38:10",
-  "FFlagFixCLI96085_Rollout": "True;60;2024-02-26T18:38:21",
   "FFlagEnableNativeQuestDeviceAttestationFlowV3": "True",
   "FFlagWinCheckTTIFlagSuccess": "True",
   "FFlagMacCheckTTIFlagRetry": "True",
@@ -10763,6 +10760,8 @@
   "FFlagNavmeshMemAnalytics_Rollout": "True;60;2024-02-26T19:47:58",
   "FFlagVideoVisibilityViewAngleClamp": "True",
   "FFlagSimAdaptiveArbiterModelSlotReset": "True",
+  "DFFlagSplitStreamingWorkTimeIntoTwoSeparateMetrics": "True",
+  "FFlagSimDecoupleRunServiceState": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11138,8 +11137,8 @@
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_iOS",
   "DFIntPerformanceControlInferenceChanceHundredthsPercent_Rollout": "5000;60;2024-02-26T18:46:26",
   "FFlagUniversalAppCsat2": "True",
-  "FStringFlagRepoGitHashFastString": "0e936f8148451079d5ee88230321c7b65f3c16c0",
-  "DFStringFlagRepoGitHashDynamicString": "0e936f8148451079d5ee88230321c7b65f3c16c0",
-  "FStringFlipTimeStampFastString": "2024-02-26T20:07:10.135Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-26T20:07:10.135Z"
+  "FStringFlagRepoGitHashFastString": "6de73cbf5d654e333e71fce09ee61aafab8914bb",
+  "DFStringFlagRepoGitHashDynamicString": "6de73cbf5d654e333e71fce09ee61aafab8914bb",
+  "FStringFlipTimeStampFastString": "2024-02-26T20:11:36.807Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-26T20:11:36.807Z"
 }
