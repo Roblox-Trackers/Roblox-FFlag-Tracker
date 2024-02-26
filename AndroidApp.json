@@ -10751,6 +10751,8 @@
   "FFlagVoiceChatEventLoggerAddStateBeforeFailureAbandon_Rollout": "True;60;2024-02-26T18:13:25",
   "FFlagVideoVisibilityViewAngleClamp_Rollout": "True;60;2024-02-26T18:16:16",
   "FFlagSimAdaptiveArbiterModelSlotReset_Rollout": "True;60;2024-02-26T18:30:58",
+  "FFlagFixTagEditorScroll": "True",
+  "DFFlagSplitStreamingWorkTimeIntoTwoSeparateMetrics_Rollout": "True;60;2024-02-26T18:35:53",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11158,8 +11160,8 @@
   "FStringContactsToastDismissed": "ContactsToastDismissed_Android",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_Android",
   "FFlagVignetteEffectEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "38da38433ad21cf3ddc480ca2395ce61a85bf2e3",
-  "DFStringFlagRepoGitHashDynamicString": "38da38433ad21cf3ddc480ca2395ce61a85bf2e3",
-  "FStringFlipTimeStampFastString": "2024-02-26T18:36:38.207Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-26T18:36:38.207Z"
+  "FStringFlagRepoGitHashFastString": "cc4f9f8a55acb331c5b882bac6b9f6563a2f78b0",
+  "DFStringFlagRepoGitHashDynamicString": "cc4f9f8a55acb331c5b882bac6b9f6563a2f78b0",
+  "FStringFlipTimeStampFastString": "2024-02-26T18:38:11.692Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-26T18:38:11.692Z"
 }
