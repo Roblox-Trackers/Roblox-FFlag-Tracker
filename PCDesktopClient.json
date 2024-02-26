@@ -10759,9 +10759,6 @@
   "FFlagSimDecoupleRunServiceState": "True",
   "FFlagPrintMessageForClampedPhysicalProperties": "True",
   "FFlagGraphicsColorDepthBarrierValidationFix2": "True",
-  "FFlagGraphicsVulkanSampleCountFix_Rollout": "True;60;2024-02-26T21:04:12",
-  "FFlagFixValidationCLI88954_Rollout": "True;60;2024-02-26T21:04:17",
-  "FFlagFixValidationCLI96189_Rollout": "True;60;2024-02-26T21:04:22",
   "FFlagEnableQRCodeDisableForDualLayout": "True",
   "FFlagLuaAppMoveUseAppPolicy": "True",
   "FFlagNavmeshMemAnalytics": "True",
@@ -10770,6 +10767,9 @@
   "FFlagEnablePlayerViewRemoteReplication3_PlaceFilter": "True;12867089300;14066075418;12867047376",
   "FFlagOptimizeAABBComputation": "True",
   "FFlagAXDisableBundleIcon": "True",
+  "FFlagFixValidationCLI88954": "True",
+  "FFlagFixValidationCLI96189": "True",
+  "FFlagGraphicsVulkanSampleCountFix": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11062,8 +11062,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "True",
-  "FStringFlagRepoGitHashFastString": "c70a6b42badaf632a22d88242d5c24f604667800",
-  "DFStringFlagRepoGitHashDynamicString": "c70a6b42badaf632a22d88242d5c24f604667800",
-  "FStringFlipTimeStampFastString": "2024-02-26T22:29:28.359Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-26T22:29:28.359Z"
+  "FStringFlagRepoGitHashFastString": "7945685acc111e6ccbb0bb1177e54bd597036f34",
+  "DFStringFlagRepoGitHashDynamicString": "7945685acc111e6ccbb0bb1177e54bd597036f34",
+  "FStringFlipTimeStampFastString": "2024-02-26T22:36:21.310Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-26T22:36:21.310Z"
 }
