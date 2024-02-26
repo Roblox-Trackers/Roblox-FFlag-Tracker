@@ -10754,6 +10754,8 @@
   "FFlagFixTagEditorScroll": "True",
   "DFFlagSplitStreamingWorkTimeIntoTwoSeparateMetrics_Rollout": "True;60;2024-02-26T18:35:53",
   "FFlagSimDecoupleRunServiceState_Rollout": "True;60;2024-02-26T18:38:10",
+  "FFlagFixCLI96085_Rollout": "True;60;2024-02-26T18:38:21",
+  "FFlagEnableNativeQuestDeviceAttestationFlowV3": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11046,8 +11048,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "064ca1c252e77ab589cc501aa3743ab31cafcdba",
-  "DFStringFlagRepoGitHashDynamicString": "064ca1c252e77ab589cc501aa3743ab31cafcdba",
-  "FStringFlipTimeStampFastString": "2024-02-26T18:39:11.527Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-26T18:39:11.527Z"
+  "FStringFlagRepoGitHashFastString": "1a651f4b9fc34e0fba59f87a2fdfc1ee5e168094",
+  "DFStringFlagRepoGitHashDynamicString": "1a651f4b9fc34e0fba59f87a2fdfc1ee5e168094",
+  "FStringFlipTimeStampFastString": "2024-02-26T18:39:32.732Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-26T18:39:32.732Z"
 }
