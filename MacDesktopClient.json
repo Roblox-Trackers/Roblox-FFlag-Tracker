@@ -10751,7 +10751,6 @@
   "FFlagMacCheckTTIFlagRetry": "True",
   "FFlagSimConsolidateBVHMidphase2": "True",
   "FFlagUIBloxUseGetTextBoundsAsync": "True",
-  "FFlagGraphicsColorDepthBarrierValidationFix2_Rollout": "True;60;2024-02-26T18:57:12",
   "FFlagTelemetryRevamp": "True",
   "FFlagMSRefactor5": "True",
   "FFlagBlockTwoSVForNoWebView": "True",
@@ -10762,6 +10761,7 @@
   "DFFlagSplitStreamingWorkTimeIntoTwoSeparateMetrics": "True",
   "FFlagSimDecoupleRunServiceState": "True",
   "FFlagPrintMessageForClampedPhysicalProperties": "True",
+  "FFlagGraphicsColorDepthBarrierValidationFix2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11060,8 +11060,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagSkipRebuildingCrashedELF": "True",
   "FFlagUniversalAppCsat2": "True",
-  "FStringFlagRepoGitHashFastString": "872f7b281a47d80253edb145c19b87c9d95d0d29",
-  "DFStringFlagRepoGitHashDynamicString": "872f7b281a47d80253edb145c19b87c9d95d0d29",
-  "FStringFlipTimeStampFastString": "2024-02-26T20:26:18.826Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-26T20:26:18.826Z"
+  "FStringFlagRepoGitHashFastString": "9789978f736863614c74896488d6e9196f1d0c3a",
+  "DFStringFlagRepoGitHashDynamicString": "9789978f736863614c74896488d6e9196f1d0c3a",
+  "FStringFlipTimeStampFastString": "2024-02-26T20:31:14.986Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-26T20:31:14.986Z"
 }
