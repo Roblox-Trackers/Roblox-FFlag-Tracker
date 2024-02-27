@@ -4713,7 +4713,7 @@
   "FFlagStudioReset3DViewPanelVibilityToTrueLogging": "True",
   "FFlagFixChatInputFocus": "True",
   "FFlagUpgradeExpChatV3_4_4": "True",
-  "DFIntQosMaxEvents": "0",
+  "DFIntQosMaxEvents": "3",
   "FFlagWebView2X64DllCheck": "True",
   "FFlagReportELFInSessionTracking": "True",
   "FFlagAvatarFacechatReplOverRCCTelemetryUseAggregator": "True",
@@ -10777,10 +10777,10 @@
   "FFlagEnableMaquettesSignUpV5": "True",
   "FFlagEnableMaquettesPasswordLoginV4": "True",
   "FFlagRenderFixMissingTrailShaders_Rollout": "True;60;2024-02-27T18:32:03",
-  "DFIntQosMaxEvents_Rollout": "3;1;2024-02-27T18:44:26",
   "DFFlagCLI95537v0": "True",
   "FFlagTextFilterV2Api": "True",
   "FFlagFixNotifyMovingCallbackThreading": "True",
+  "FIntTextFilterV2ApiHundredthPercent_Rollout": "50;30;2024-02-27T18:51:00",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11079,8 +11079,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagSkipRebuildingCrashedELF": "True",
   "FFlagUniversalAppCsat2": "True",
-  "FStringFlagRepoGitHashFastString": "1929b50211db960957ab53f2f1160dab129c3964",
-  "DFStringFlagRepoGitHashDynamicString": "1929b50211db960957ab53f2f1160dab129c3964",
-  "FStringFlipTimeStampFastString": "2024-02-27T18:46:32.921Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-27T18:46:32.921Z"
+  "FStringFlagRepoGitHashFastString": "899b5113a6e79f76b8da3c97280ad986affc1834",
+  "DFStringFlagRepoGitHashDynamicString": "899b5113a6e79f76b8da3c97280ad986affc1834",
+  "FStringFlipTimeStampFastString": "2024-02-27T18:51:47.201Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-27T18:51:47.201Z"
 }
