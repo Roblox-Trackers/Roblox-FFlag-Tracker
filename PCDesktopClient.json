@@ -10775,12 +10775,11 @@
   "FFlagAXFixItemDetailsExperienceLinkText": "True",
   "FFlagEnableMaquettesSignUpV5": "True",
   "FFlagEnableMaquettesPasswordLoginV4": "True",
-  "DFFlagCLI95537v0": "True",
+  "DFFlagCLI95537v0": "False",
   "FFlagTextFilterV2Api": "True",
   "FFlagFixNotifyMovingCallbackThreading": "True",
   "DFIntVideoVisibilityPlaceSessionIdThrottleHundredthsPercent": "10",
   "FFlagVideoReportVisibilityFilterByPlaceSessionId": "True",
-  "DFFlagCLI95537v0_Rollout": "False;60;2024-02-27T19:03:45",
   "FFlagInferOOMWithPossibleOOM_Rollout": "True;60;2024-02-27T19:05:31",
   "FFlagInferSuccessOOMWithOOMExited_Rollout": "True;60;2024-02-27T19:06:38",
   "FFlagVideoCMCDIsPlaying": "True",
@@ -11080,8 +11079,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "True",
-  "FStringFlagRepoGitHashFastString": "9541e5da56f9579e36f4b413344654b95569b234",
-  "DFStringFlagRepoGitHashDynamicString": "9541e5da56f9579e36f4b413344654b95569b234",
-  "FStringFlipTimeStampFastString": "2024-02-27T20:29:16.535Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-27T20:29:16.535Z"
+  "FStringFlagRepoGitHashFastString": "295a7d465383213dfb531c1da89bbcbbb021732b",
+  "DFStringFlagRepoGitHashDynamicString": "295a7d465383213dfb531c1da89bbcbbb021732b",
+  "FStringFlipTimeStampFastString": "2024-02-27T20:36:16.468Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-27T20:36:16.468Z"
 }
