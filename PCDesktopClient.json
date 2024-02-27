@@ -7199,7 +7199,7 @@
   "FFlagSetScriptDocViewerFocusProxyToEditor": "True",
   "FFlagBootcampCLI74575": "True",
   "FStringLuauNativeCodegenBetaFeatureUrl": "https://devforum.roblox.com/t/luau-native-code-generation-preview-studio-beta/2572587",
-  "DFIntVideoMetricsClientHundredthsPercent": "10",
+  "DFIntVideoMetricsClientHundredthsPercent": "0",
   "FFlagTextureAtlasPromoteDebugName2": "True",
   "FFlagStudioFixWhatsNewIconThemeChange": "True",
   "FFlagStudioRemoveAudioTurnOffAction": "False",
@@ -10781,6 +10781,8 @@
   "FFlagTextFilterV2Api": "True",
   "FFlagFixNotifyMovingCallbackThreading": "True",
   "FIntTextFilterV2ApiHundredthPercent_Rollout": "50;30;2024-02-27T18:51:00",
+  "DFIntVideoVisibilityPlaceSessionIdThrottleHundredthsPercent": "10",
+  "FFlagVideoReportVisibilityFilterByPlaceSessionId": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11073,8 +11075,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "True",
-  "FStringFlagRepoGitHashFastString": "5cf745504ddf3e14d73ec2e346a1b7e808f5d686",
-  "DFStringFlagRepoGitHashDynamicString": "5cf745504ddf3e14d73ec2e346a1b7e808f5d686",
-  "FStringFlipTimeStampFastString": "2024-02-27T19:01:17.488Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-27T19:01:17.488Z"
+  "FStringFlagRepoGitHashFastString": "5e0d952f04858e3df499e9e11f24c52105f35c0c",
+  "DFStringFlagRepoGitHashDynamicString": "5e0d952f04858e3df499e9e11f24c52105f35c0c",
+  "FStringFlipTimeStampFastString": "2024-02-27T19:01:59.451Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-27T19:01:59.451Z"
 }
