@@ -10743,7 +10743,6 @@
   "FFlagEnableNativeQuestDeviceAttestationFlowV3": "True",
   "FFlagWinCheckTTIFlagSuccess": "True",
   "FFlagMacCheckTTIFlagRetry": "True",
-  "FFlagSimConsolidateBVHMidphase2": "True",
   "FFlagUIBloxUseGetTextBoundsAsync": "True",
   "FFlagTelemetryRevamp": "True",
   "FFlagMSRefactor5": "True",
@@ -10775,7 +10774,6 @@
   "FFlagEnableMaquettesPasswordLoginV4": "True",
   "DFFlagCLI95537v0": "False",
   "FFlagTextFilterV2Api": "True",
-  "FFlagFixNotifyMovingCallbackThreading": "True",
   "DFIntVideoVisibilityPlaceSessionIdThrottleHundredthsPercent": "2",
   "FFlagVideoReportVisibilityFilterByPlaceSessionId": "False",
   "FFlagVideoCMCDIsPlaying": "True",
@@ -10788,7 +10786,6 @@
   "FFlagLuaAppReplaceLaunchConnectorWithHook": "True",
   "FFlagVideoReportVideoHlsVariantFix": "True",
   "FFlagFixEnablePushNotificationButton": "True",
-  "FFlagFixThreadingInStepAnimatedJoints": "True",
   "DFIntNavigationJobMaxTimeBudgetMS_PlaceFilter": "50;15148247111;15148251743;15720304364;16328151955;6205205961;6364879587;6364881161;6364884070;6391540653;6391642302;6413499953;6463986562;6481131111;6507405695;6815760584;8709253565;4972091010;5215921305;7092693227;16453132860",
   "FFlagFixPatchBundlerDeadlock": "True",
   "FFlagFinishAppLaunchFlowOnUpdate": "True",
@@ -11099,8 +11096,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "8372e24da417ad5ae50ab2df56a1b7dc01b74a3a",
-  "DFStringFlagRepoGitHashDynamicString": "8372e24da417ad5ae50ab2df56a1b7dc01b74a3a",
-  "FStringFlipTimeStampFastString": "2024-02-28T21:33:50.732Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-28T21:33:50.732Z"
+  "FStringFlagRepoGitHashFastString": "396181a9b575acf9912479c56533b2a5c1daf272",
+  "DFStringFlagRepoGitHashDynamicString": "396181a9b575acf9912479c56533b2a5c1daf272",
+  "FStringFlipTimeStampFastString": "2024-02-28T21:35:44.170Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-28T21:35:44.170Z"
 }
