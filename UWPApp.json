@@ -5850,7 +5850,7 @@
   "DFFlagAMPTelemetryUser": "True",
   "DFFlagsplitSendItems": "True",
   "FFlagStudioPhysicsSettingsHandler2": "True",
-  "DFIntFlagRolloutTestDynamicInt0": "-6",
+  "DFIntFlagRolloutTestDynamicInt0": "1",
   "DFFlagTaskLibWarnSoftNonSuspended": "True",
   "DFFlagCLI57133DFix": "True",
   "FFlagAssetConfigPreviewLimitDescendants": "True",
@@ -10794,7 +10794,6 @@
   "FFlagFixPatchBundlerDeadlock": "True",
   "FFlagFinishAppLaunchFlowOnUpdate": "True",
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator": "True",
-  "DFIntFlagRolloutTestDynamicInt0_Rollout": "1;60;2024-02-28T17:29:39",
   "FFlagSimCSGV3MoreDescriptiveErrorMessages2_Rollout": "True;60;2024-02-28T17:39:00",
   "DFFlagFlagRolloutTestDynamicBool3_Rollout": "False;60;2024-02-28T18:05:28",
   "FFlagAttachmentExposeGetConstraints_PlaceFilter": "True;13546288145",
@@ -10995,8 +10994,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "3f5a37c07d5d59869f901320aba2cdb050034197",
-  "DFStringFlagRepoGitHashDynamicString": "3f5a37c07d5d59869f901320aba2cdb050034197",
-  "FStringFlipTimeStampFastString": "2024-02-28T18:56:33.756Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-28T18:56:33.756Z"
+  "FStringFlagRepoGitHashFastString": "d648a2f16f8ea4c31109a045a90a9b4003057189",
+  "DFStringFlagRepoGitHashDynamicString": "d648a2f16f8ea4c31109a045a90a9b4003057189",
+  "FStringFlipTimeStampFastString": "2024-02-28T19:07:04.649Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-28T19:07:04.649Z"
 }
