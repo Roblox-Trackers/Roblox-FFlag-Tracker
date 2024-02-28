@@ -10804,6 +10804,7 @@
   "DFFlagReportMemoryAllocStats_Rollout": "True;60;2024-02-28T21:29:53",
   "DFFlagHotrodSetterOverride_Batch1_Rollout": "True;60;2024-02-28T21:30:51",
   "DFStringDualWriteEphemeralCounterToV2WhiteList_Rollout": "aicoautocompletekeypressleftbracket;30;2024-02-28T21:45:54",
+  "FFlagTexturePackUploadApiMigration_Rollout": "True;60;2024-02-28T21:50:46",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11097,8 +11098,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "a04f9f0344738af4251fe3487d97504a835315a0",
-  "DFStringFlagRepoGitHashDynamicString": "a04f9f0344738af4251fe3487d97504a835315a0",
-  "FStringFlipTimeStampFastString": "2024-02-28T21:48:52.683Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-28T21:48:52.683Z"
+  "FStringFlagRepoGitHashFastString": "4631bc2e02af38800fbd3795097c45da0c5b78a3",
+  "DFStringFlagRepoGitHashDynamicString": "4631bc2e02af38800fbd3795097c45da0c5b78a3",
+  "FStringFlipTimeStampFastString": "2024-02-28T21:51:21.659Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-28T21:51:21.659Z"
 }
