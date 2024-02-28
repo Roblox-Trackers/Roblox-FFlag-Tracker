@@ -10800,8 +10800,6 @@
   "FFlagVoiceChatGrpcEnableTimeoutOnlyTrackSuccessfulEvent": "True",
   "FFlagEnableTorqueAxisVisualization": "True",
   "FFlagStudioAddScopeExitConnection": "True",
-  "DFFlagReportMemoryAllocStats_Rollout": "True;60;2024-02-28T21:29:53",
-  "DFFlagHotrodSetterOverride_Batch1_Rollout": "True;60;2024-02-28T21:30:51",
   "FFlagTexturePackUploadApiMigration_Rollout": "True;60;2024-02-28T21:50:46",
   "FFlagEnableStudioNotifications3": "True",
   "DFFlagSimDisableFluidForceVisualizationByWorkspaceProperty_Rollout": "True;60;2024-02-28T22:11:28",
@@ -10811,6 +10809,8 @@
   "DFStringDualWriteEphemeralCounterToV2WhiteList": "aicoautocompletekeypressleftbracket",
   "DFIntNavigationJobMaxTimeBudgetMS_Rollout": "50;60;2024-02-28T22:40:10",
   "FFlagIconSetSameDisappearingFix_Rollout": "True;60;2024-02-28T22:47:43",
+  "DFFlagReportMemoryAllocStats": "True",
+  "DFFlagHotrodSetterOverride_Batch1": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11103,8 +11103,8 @@
   "FFlagSTFSMEnableAppSessionSuccess": "True",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "False",
-  "FStringFlagRepoGitHashFastString": "b65f5d52d845700c0d87f38cf7cfd45cdb763fde",
-  "DFStringFlagRepoGitHashDynamicString": "b65f5d52d845700c0d87f38cf7cfd45cdb763fde",
-  "FStringFlipTimeStampFastString": "2024-02-28T23:01:49.063Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-28T23:01:49.063Z"
+  "FStringFlagRepoGitHashFastString": "7fdbe3e9a2e17e9c5a5bfb473af4ed918bfd736a",
+  "DFStringFlagRepoGitHashDynamicString": "7fdbe3e9a2e17e9c5a5bfb473af4ed918bfd736a",
+  "FStringFlipTimeStampFastString": "2024-02-28T23:03:19.167Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-28T23:03:19.167Z"
 }
