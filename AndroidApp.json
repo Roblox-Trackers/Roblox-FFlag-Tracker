@@ -10789,7 +10789,6 @@
   "FFlagLuaAppReplaceLaunchConnectorWithHook": "True",
   "FFlagVideoReportVideoHlsVariantFix": "True",
   "FFlagFixEnablePushNotificationButton": "True",
-  "DFFlagOnlyAllowThumbnailRbxCdnUrls_Rollout": "True;60;2024-02-27T23:11:21",
   "FFlagFinishAppLaunchFlowOnUpdate_Rollout": "True;60;2024-02-27T23:27:04",
   "DFFlagFlagRolloutTestDynamicBool6_Rollout": "True;60;2024-02-27T23:52:38",
   "FFlagFlagRolloutTestStaticBool6_Rollout": "True;60;2024-02-27T23:53:04",
@@ -10797,6 +10796,7 @@
   "FFlagFixThreadingInStepAnimatedJoints": "True",
   "DFIntNavigationJobMaxTimeBudgetMS_PlaceFilter": "50;15148247111;15148251743;15720304364;16328151955;6205205961;6364879587;6364881161;6364884070;6391540653;6391642302;6413499953;6463986562;6481131111;6507405695;6815760584;8709253565;4972091010;5215921305;7092693227;16453132860",
   "FFlagFixPatchBundlerDeadlock": "True",
+  "DFFlagOnlyAllowThumbnailRbxCdnUrls": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11206,8 +11206,8 @@
   "FFlagVignetteEffectEnabled2": "True",
   "FFlagUniversalAppCsat2": "True",
   "EnableRequestPermissionsOnAppReady": "True",
-  "FStringFlagRepoGitHashFastString": "7fc51084fb08635124cc73b4a32d5279cf2a8d5b",
-  "DFStringFlagRepoGitHashDynamicString": "7fc51084fb08635124cc73b4a32d5279cf2a8d5b",
-  "FStringFlipTimeStampFastString": "2024-02-28T00:40:13.111Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-28T00:40:13.111Z"
+  "FStringFlagRepoGitHashFastString": "990e5b5c2da1742768e50e91eb8b6b70be47ac68",
+  "DFStringFlagRepoGitHashDynamicString": "990e5b5c2da1742768e50e91eb8b6b70be47ac68",
+  "FStringFlipTimeStampFastString": "2024-02-28T00:46:12.575Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-28T00:46:12.575Z"
 }
