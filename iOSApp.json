@@ -10787,7 +10787,6 @@
   "FFlagInferSuccessOOMWithOOMExited": "True",
   "DFFlagSimLevitationUseFrictionPositionCorrection": "True",
   "FFlagLuaAppReplaceLaunchConnectorWithHook": "True",
-  "FFlagFixPatchBundlerDeadlock_Rollout": "True;60;2024-02-27T22:40:18",
   "FFlagVideoReportVideoHlsVariantFix": "True",
   "FFlagFixEnablePushNotificationButton": "True",
   "DFFlagOnlyAllowThumbnailRbxCdnUrls_Rollout": "True;60;2024-02-27T23:11:21",
@@ -10798,6 +10797,7 @@
   "FFlagSimCSGV3LogCSGTreeForCrashNewOperator_Rollout": "True;60;2024-02-28T00:00:51",
   "FFlagFixThreadingInStepAnimatedJoints": "True",
   "DFIntNavigationJobMaxTimeBudgetMS_PlaceFilter": "50;15148247111;15148251743;15720304364;16328151955;6205205961;6364879587;6364881161;6364884070;6391540653;6391642302;6413499953;6463986562;6481131111;6507405695;6815760584;8709253565;4972091010;5215921305;7092693227;16453132860",
+  "FFlagFixPatchBundlerDeadlock": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11172,8 +11172,8 @@
   "FStringContactsToastDismissed": "ContactsToastDismissed_iOS",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_iOS",
   "FFlagUniversalAppCsat2": "True",
-  "FStringFlagRepoGitHashFastString": "54c7cdcb77bca77a59fa85199a4e138d3c730784",
-  "DFStringFlagRepoGitHashDynamicString": "54c7cdcb77bca77a59fa85199a4e138d3c730784",
-  "FStringFlipTimeStampFastString": "2024-02-28T00:14:35.552Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-28T00:14:35.552Z"
+  "FStringFlagRepoGitHashFastString": "af908715b0a36302c25adb301ecc397f3296153b",
+  "DFStringFlagRepoGitHashDynamicString": "af908715b0a36302c25adb301ecc397f3296153b",
+  "FStringFlipTimeStampFastString": "2024-02-28T00:16:31.582Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-28T00:16:31.582Z"
 }
