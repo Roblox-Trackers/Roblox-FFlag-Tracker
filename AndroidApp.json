@@ -10749,7 +10749,6 @@
   "FFlagBlockTwoSVForNoWebView": "True",
   "FFlagVoiceChatEventLoggerAddStateBeforeFailureAbandon": "True",
   "FFlagVideoVisibilityViewAngleClamp": "True",
-  "FFlagSimAdaptiveArbiterModelSlotReset": "True",
   "DFFlagSplitStreamingWorkTimeIntoTwoSeparateMetrics": "True",
   "FFlagSimDecoupleRunServiceState": "True",
   "FFlagPrintMessageForClampedPhysicalProperties": "True",
@@ -11223,8 +11222,8 @@
   "EnableRequestPermissionsOnAppReady": "True",
   "DFIntParallelBroadPhaseNewBatchCount_Rollout": "4;60;2024-02-28T21:48:08",
   "FFlagLuaAppDisableSound_Rollout": "True;60;2024-02-28T22:30:11",
-  "FStringFlagRepoGitHashFastString": "4fc476f67903ecf9015916ad04c69f9da0ff39fa",
-  "DFStringFlagRepoGitHashDynamicString": "4fc476f67903ecf9015916ad04c69f9da0ff39fa",
-  "FStringFlipTimeStampFastString": "2024-02-28T22:58:46.447Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-28T22:58:46.447Z"
+  "FStringFlagRepoGitHashFastString": "b65f5d52d845700c0d87f38cf7cfd45cdb763fde",
+  "DFStringFlagRepoGitHashDynamicString": "b65f5d52d845700c0d87f38cf7cfd45cdb763fde",
+  "FStringFlipTimeStampFastString": "2024-02-28T23:01:49.063Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-28T23:01:49.063Z"
 }
