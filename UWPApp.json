@@ -10810,6 +10810,7 @@
   "FFlagVideoCameraAsyncEnabled3_Rollout": "True;60;2024-02-28T22:32:29",
   "DFFlagSameMd5HashAsInLoadSettings_Rollout": "True;60;2024-02-28T22:34:29",
   "DFStringDualWriteEphemeralCounterToV2WhiteList": "aicoautocompletekeypressleftbracket",
+  "DFIntNavigationJobMaxTimeBudgetMS_Rollout": "50;60;2024-02-28T22:40:10",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11003,8 +11004,8 @@
   "DFIntTaskSchedulerJobRetryCount": "1",
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagEnableInGameMenuChromeABTest2": "True",
-  "FStringFlagRepoGitHashFastString": "8affddac4dc7e49daca28c5dd9400f8d0829a017",
-  "DFStringFlagRepoGitHashDynamicString": "8affddac4dc7e49daca28c5dd9400f8d0829a017",
-  "FStringFlipTimeStampFastString": "2024-02-28T22:36:49.818Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-28T22:36:49.818Z"
+  "FStringFlagRepoGitHashFastString": "4a0f14bd89b3761a486a44fe72e1ef9951a68618",
+  "DFStringFlagRepoGitHashDynamicString": "4a0f14bd89b3761a486a44fe72e1ef9951a68618",
+  "FStringFlipTimeStampFastString": "2024-02-28T22:40:47.993Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-28T22:40:47.993Z"
 }
