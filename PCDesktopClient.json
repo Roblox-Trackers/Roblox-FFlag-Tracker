@@ -10841,6 +10841,8 @@
   "DFFlagEngineAPICloudProcessingErrorOnPayloadTooLarge": "True",
   "FFlagPlatformServiceNoLongerStartGames": "True",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-02-29T21:14:54",
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2024-02-29T21:15:20",
+  "DFFlagFlagRolloutTestDynamicBool3_Rollout": "True;60;2024-02-29T21:15:40",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11134,8 +11136,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "False",
   "FFlagLuaAppDisableSound": "True",
-  "FStringFlagRepoGitHashFastString": "87e83e80a67057ff8a93552d8e5fdea47ba85f08",
-  "DFStringFlagRepoGitHashDynamicString": "87e83e80a67057ff8a93552d8e5fdea47ba85f08",
-  "FStringFlipTimeStampFastString": "2024-02-29T21:16:36.721Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-29T21:16:36.721Z"
+  "FStringFlagRepoGitHashFastString": "a5c8633784607b4535c2e05985bfe540f51d9bab",
+  "DFStringFlagRepoGitHashDynamicString": "a5c8633784607b4535c2e05985bfe540f51d9bab",
+  "FStringFlipTimeStampFastString": "2024-02-29T21:17:09.276Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-29T21:17:09.276Z"
 }

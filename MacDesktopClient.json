@@ -10841,6 +10841,8 @@
   "DFFlagEngineAPICloudProcessingErrorOnPayloadTooLarge": "True",
   "FFlagPlatformServiceNoLongerStartGames": "True",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-02-29T21:14:54",
+  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2024-02-29T21:15:20",
+  "DFFlagFlagRolloutTestDynamicBool3_Rollout": "True;60;2024-02-29T21:15:40",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11141,8 +11143,8 @@
   "FFlagUniversalAppCsat2": "False",
   "FFlagSkipReportingFailedELFInSessionTrackingDueToCrash": "True",
   "FFlagLuaAppDisableSound": "True",
-  "FStringFlagRepoGitHashFastString": "87e83e80a67057ff8a93552d8e5fdea47ba85f08",
-  "DFStringFlagRepoGitHashDynamicString": "87e83e80a67057ff8a93552d8e5fdea47ba85f08",
-  "FStringFlipTimeStampFastString": "2024-02-29T21:16:36.721Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-29T21:16:36.721Z"
+  "FStringFlagRepoGitHashFastString": "0cded969724d23e3220d3ee18771c39d00660389",
+  "DFStringFlagRepoGitHashDynamicString": "0cded969724d23e3220d3ee18771c39d00660389",
+  "FStringFlipTimeStampFastString": "2024-02-29T21:18:09.528Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-29T21:18:09.528Z"
 }
