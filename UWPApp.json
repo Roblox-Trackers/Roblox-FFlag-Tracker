@@ -10837,6 +10837,8 @@
   "DFFlagEnableTelemetryPlaceIdOverride_Rollout": "True;60;2024-02-29T20:25:59",
   "FFlagExportPathCheckEnabled": "True",
   "FFlagSetUpGameStateViewConfigurationOnceGameLoadedInBeta2": "True",
+  "FFlagUserHeartbeatsPulseApi": "True",
+  "FIntUserHeartbeatsPulseRolloutPerMyriad": "100",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11031,8 +11033,8 @@
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagLuaAppDisableSound_Rollout": "True;60;2024-02-29T19:36:20",
-  "FStringFlagRepoGitHashFastString": "8fbb388ef0295735d85618188db904d85ef58394",
-  "DFStringFlagRepoGitHashDynamicString": "8fbb388ef0295735d85618188db904d85ef58394",
-  "FStringFlipTimeStampFastString": "2024-02-29T20:36:28.168Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-29T20:36:28.168Z"
+  "FStringFlagRepoGitHashFastString": "644b4ff9a9441d57aa75f86cfd5795d3751c813f",
+  "DFStringFlagRepoGitHashDynamicString": "644b4ff9a9441d57aa75f86cfd5795d3751c813f",
+  "FStringFlipTimeStampFastString": "2024-02-29T20:50:57.549Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-29T20:50:57.549Z"
 }
