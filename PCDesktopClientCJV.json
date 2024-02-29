@@ -10853,6 +10853,8 @@
   "FFlagStudioComponentizeRobloxIDEDoc3": "True",
   "DFIntRemoteSaveValidatorFailureTelemetryThrottleHundredthsPercent_Rollout": "10000;5;2024-02-29T23:23:03",
   "FFlagAvatarSceneManagerSwitchTabFix": "True",
+  "DFFlagSimSolverUseInitializeStreamDataForPrimal_Rollout": "True;60;2024-02-29T23:32:44",
+  "DFFlagSimIterativeResetPhysPosToLatestNetUpdateRecursiveChildren_Rollout": "True;60;2024-02-29T23:32:59",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11147,8 +11149,8 @@
   "FFlagUniversalAppCsat2": "False",
   "FFlagLuaAppDisableSound": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "3a6cc639c5fdfda0db1b1c598bd5f8f75966d24e",
-  "DFStringFlagRepoGitHashDynamicString": "3a6cc639c5fdfda0db1b1c598bd5f8f75966d24e",
-  "FStringFlipTimeStampFastString": "2024-02-29T23:32:25.255Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-29T23:32:25.255Z"
+  "FStringFlagRepoGitHashFastString": "99d29c180fad79c84c4a2ed09596892e8f51f4d5",
+  "DFStringFlagRepoGitHashDynamicString": "99d29c180fad79c84c4a2ed09596892e8f51f4d5",
+  "FStringFlipTimeStampFastString": "2024-02-29T23:34:01.489Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-29T23:34:01.489Z"
 }
