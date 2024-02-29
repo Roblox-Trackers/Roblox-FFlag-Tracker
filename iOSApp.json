@@ -10801,8 +10801,6 @@
   "FFlagEnableTorqueAxisVisualization": "True",
   "FFlagStudioAddScopeExitConnection": "True",
   "FFlagEnableStudioNotifications3": "True",
-  "FFlagVideoCameraAsyncEnabled3_Rollout": "True;60;2024-02-28T22:32:29",
-  "DFFlagSameMd5HashAsInLoadSettings_Rollout": "True;60;2024-02-28T22:34:29",
   "DFStringDualWriteEphemeralCounterToV2WhiteList": "aicoautocompletekeypressleftbracket",
   "DFIntNavigationJobMaxTimeBudgetMS_Rollout": "50;60;2024-02-28T22:40:10",
   "FFlagIconSetSameDisappearingFix_Rollout": "True;60;2024-02-28T22:47:43",
@@ -10819,6 +10817,8 @@
   "FFlagDescendantsAreRecursivelyInteractable2_PlaceFilter": "True;5141682374",
   "FFlagInteractableStateForGuiObjects3_PlaceFilter": "True;5141682374",
   "FFlagFixNullAncestorForInteractable": "True",
+  "FFlagVideoCameraAsyncEnabled3": "True",
+  "DFFlagSameMd5HashAsInLoadSettings": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11193,8 +11193,8 @@
   "FStringContactsToastDismissed": "ContactsToastDismissed_iOS",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_iOS",
   "FFlagUniversalAppCsat2": "False",
-  "FStringFlagRepoGitHashFastString": "070535c4f15562e0f25e044890598e947afdfca7",
-  "DFStringFlagRepoGitHashDynamicString": "070535c4f15562e0f25e044890598e947afdfca7",
-  "FStringFlipTimeStampFastString": "2024-02-29T00:01:49.595Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-29T00:01:49.595Z"
+  "FStringFlagRepoGitHashFastString": "2e4aadd28288f55bf9efe91c746cf20fb9949b2e",
+  "DFStringFlagRepoGitHashDynamicString": "2e4aadd28288f55bf9efe91c746cf20fb9949b2e",
+  "FStringFlipTimeStampFastString": "2024-02-29T00:07:40.419Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-29T00:07:40.419Z"
 }
