@@ -10830,7 +10830,6 @@
   "FFlagStudioNewPlaceUploadPublishRollout": "True",
   "FFlagLuauHeapExpandableEllipsis": "True",
   "FFlagInferredCrashSubsystem2": "True",
-  "FFlagPlatformServiceNoLongerStartGames_Rollout": "True;60;2024-02-29T19:26:11",
   "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent": "1000",
   "FFlagStudioAlwaysShowSouthRegionsWhenEmpty": "True",
   "DFFlagEnableTelemetryPlaceIdOverride_Rollout": "True;60;2024-02-29T20:25:59",
@@ -10840,6 +10839,7 @@
   "FIntUserHeartbeatsPulseRolloutPerMyriad": "100",
   "FFlagXboxRemoveIsRetail": "True",
   "DFFlagEngineAPICloudProcessingErrorOnPayloadTooLarge": "True",
+  "FFlagPlatformServiceNoLongerStartGames": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11034,8 +11034,8 @@
   "FStringRealtimeClientTargetName": "windows_universal",
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagLuaAppDisableSound_Rollout": "True;60;2024-02-29T19:36:20",
-  "FStringFlagRepoGitHashFastString": "7550ed237d3739e1f6d8bf9875d9483f59d58423",
-  "DFStringFlagRepoGitHashDynamicString": "7550ed237d3739e1f6d8bf9875d9483f59d58423",
-  "FStringFlipTimeStampFastString": "2024-02-29T20:54:12.724Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-29T20:54:12.724Z"
+  "FStringFlagRepoGitHashFastString": "295698aa5a6b33fad921c587f616f322f2b240fe",
+  "DFStringFlagRepoGitHashDynamicString": "295698aa5a6b33fad921c587f616f322f2b240fe",
+  "FStringFlipTimeStampFastString": "2024-02-29T21:01:30.619Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-29T21:01:30.619Z"
 }
