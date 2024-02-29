@@ -10802,7 +10802,6 @@
   "FFlagStudioAddScopeExitConnection": "True",
   "FFlagEnableStudioNotifications3": "True",
   "DFStringDualWriteEphemeralCounterToV2WhiteList": "aicoautocompletekeypressleftbracket",
-  "FFlagIconSetSameDisappearingFix_Rollout": "True;60;2024-02-28T22:47:43",
   "DFFlagReportMemoryAllocStats": "True",
   "DFFlagHotrodSetterOverride_Batch1": "True",
   "FFlagFixHumanoidScaleValues": "True",
@@ -10819,6 +10818,7 @@
   "FFlagVideoCameraAsyncEnabled3": "True",
   "DFFlagSameMd5HashAsInLoadSettings": "True",
   "DFIntNavigationJobMaxTimeBudgetMS": "50",
+  "FFlagIconSetSameDisappearingFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11119,8 +11119,8 @@
   "FFlagEnableFriendsLandingControllerBar2": "True",
   "FFlagConsolesUserAgreements": "True",
   "FFlagFixTenFootUiPlayerSearchTileHeight": "True",
-  "FStringFlagRepoGitHashFastString": "c1226b335c2d90dd148ca68ea1ac0feadf831d84",
-  "DFStringFlagRepoGitHashDynamicString": "c1226b335c2d90dd148ca68ea1ac0feadf831d84",
-  "FStringFlipTimeStampFastString": "2024-02-29T00:21:34.640Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-29T00:21:34.640Z"
+  "FStringFlagRepoGitHashFastString": "3b303194428a9e262f027381e70685d818664a5d",
+  "DFStringFlagRepoGitHashDynamicString": "3b303194428a9e262f027381e70685d818664a5d",
+  "FStringFlipTimeStampFastString": "2024-02-29T00:22:32.120Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-29T00:22:32.120Z"
 }
