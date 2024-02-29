@@ -10829,7 +10829,6 @@
   "DFIntRemoteSaveValidatorFailureTelemetryThrottleHundredthsPercent": "100",
   "FFlagStudioNewPlaceUploadPublishRollout": "True",
   "FFlagLuauHeapExpandableEllipsis": "True",
-  "FFlagXboxRemoveIsRetail_Rollout": "True;60;2024-02-29T19:18:23",
   "FFlagInferredCrashSubsystem2": "True",
   "FFlagPlatformServiceNoLongerStartGames_Rollout": "True;60;2024-02-29T19:26:11",
   "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent": "1000",
@@ -10839,6 +10838,7 @@
   "FFlagSetUpGameStateViewConfigurationOnceGameLoadedInBeta2": "True",
   "FFlagUserHeartbeatsPulseApi": "True",
   "FIntUserHeartbeatsPulseRolloutPerMyriad": "100",
+  "FFlagXboxRemoveIsRetail": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11140,8 +11140,8 @@
   "FFlagFixTenFootUiPlayerSearchTileHeight": "True",
   "FFlagEDPMediaAddLocalization10ft": "True",
   "FFlagAddSeeAllShortcutControllerBar10ft": "True",
-  "FStringFlagRepoGitHashFastString": "644b4ff9a9441d57aa75f86cfd5795d3751c813f",
-  "DFStringFlagRepoGitHashDynamicString": "644b4ff9a9441d57aa75f86cfd5795d3751c813f",
-  "FStringFlipTimeStampFastString": "2024-02-29T20:50:57.549Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-29T20:50:57.549Z"
+  "FStringFlagRepoGitHashFastString": "1365ffecdb02b3425a064695d68c68eb43958f22",
+  "DFStringFlagRepoGitHashDynamicString": "1365ffecdb02b3425a064695d68c68eb43958f22",
+  "FStringFlipTimeStampFastString": "2024-02-29T20:51:41.381Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-29T20:51:41.381Z"
 }
