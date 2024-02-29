@@ -4599,7 +4599,7 @@
   "FFlagSupportOffCenterOriginCameraCleanUp": "True",
   "FFlagSupportOffCenterOriginClickDrag": "True",
   "FFlagSupportOffCenterOriginTriangleMeshComputeExtents": "True",
-  "DFFlagFlagRolloutTestDynamicBool3": "False",
+  "DFFlagFlagRolloutTestDynamicBool3": "True",
   "FFlagFlagRolloutTestStaticBool0": "False",
   "FFlagFlagRolloutTestStaticBool1": "False",
   "FFlagFlagRolloutTestStaticBool3": "False",
@@ -10839,8 +10839,6 @@
   "FFlagXboxRemoveIsRetail": "True",
   "DFFlagEngineAPICloudProcessingErrorOnPayloadTooLarge": "True",
   "FFlagPlatformServiceNoLongerStartGames": "True",
-  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2024-02-29T21:15:20",
-  "DFFlagFlagRolloutTestDynamicBool3_Rollout": "True;60;2024-02-29T21:15:40",
   "FFlagBatchThumbnailSupportsVariousSizesLooks": "True",
   "FStringLooksWidgetThumbnailSize": "w=352&h=352",
   "DFFlagAutoReconnectTeleport": "True",
@@ -11260,8 +11258,8 @@
   "FFlagUniversalAppCsat2": "False",
   "EnableRequestPermissionsOnAppReady": "True",
   "FFlagLuaAppDisableSound": "True",
-  "FStringFlagRepoGitHashFastString": "d4daf229f6fa5a8fe08f830bd4985de45028a60f",
-  "DFStringFlagRepoGitHashDynamicString": "d4daf229f6fa5a8fe08f830bd4985de45028a60f",
-  "FStringFlipTimeStampFastString": "2024-02-29T22:46:29.744Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-29T22:46:29.744Z"
+  "FStringFlagRepoGitHashFastString": "0c6a7226221f10910662178e005a83ba80f60830",
+  "DFStringFlagRepoGitHashDynamicString": "0c6a7226221f10910662178e005a83ba80f60830",
+  "FStringFlipTimeStampFastString": "2024-02-29T22:51:23.255Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-29T22:51:23.255Z"
 }
