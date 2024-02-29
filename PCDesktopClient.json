@@ -6388,7 +6388,7 @@
   "FIntDebugCollectQtDiagnosticsThrottleHundrethsPercent": "500",
   "FStringDebugCollectQtDiagnosticsPrefix": "QObject::connect",
   "FFlag9SliceEditorShorterLoadTime": "True",
-  "DFFlagFlagRolloutTestDynamicBool0": "True",
+  "DFFlagFlagRolloutTestDynamicBool0": "False",
   "FFlagUserSearchLayerPassAllProps": "True",
   "FFlagPlayerSearchNewEmptyPageEnabled_v3": "True",
   "FFlagUnifyAddFriendsPageRouterName": "True",
@@ -10839,7 +10839,6 @@
   "FFlagXboxRemoveIsRetail": "True",
   "DFFlagEngineAPICloudProcessingErrorOnPayloadTooLarge": "True",
   "FFlagPlatformServiceNoLongerStartGames": "True",
-  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-02-29T21:14:54",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "False;60;2024-02-29T21:15:20",
   "DFFlagFlagRolloutTestDynamicBool3_Rollout": "True;60;2024-02-29T21:15:40",
   "FFlagBatchThumbnailSupportsVariousSizesLooks": "True",
@@ -11144,8 +11143,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "False",
   "FFlagLuaAppDisableSound": "True",
-  "FStringFlagRepoGitHashFastString": "11e0934728a64b74cb1bbe057794ecbd02595f94",
-  "DFStringFlagRepoGitHashDynamicString": "11e0934728a64b74cb1bbe057794ecbd02595f94",
-  "FStringFlipTimeStampFastString": "2024-02-29T22:19:54.778Z",
-  "DFStringFlipTimeStampDynamicString": "2024-02-29T22:19:54.778Z"
+  "FStringFlagRepoGitHashFastString": "d4daf229f6fa5a8fe08f830bd4985de45028a60f",
+  "DFStringFlagRepoGitHashDynamicString": "d4daf229f6fa5a8fe08f830bd4985de45028a60f",
+  "FStringFlipTimeStampFastString": "2024-02-29T22:46:29.744Z",
+  "DFStringFlipTimeStampDynamicString": "2024-02-29T22:46:29.744Z"
 }
