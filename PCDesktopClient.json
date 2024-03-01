@@ -10263,7 +10263,7 @@
   "DFFlagLuauInterruptablePatternMatch": "True",
   "FFlagOpenGLES2DeprecationDetection": "True",
   "FFlagCOLLAB4879FixStartPageSearchRaceCondition": "True",
-  "OpenGLES2DeprecationPhase": "2",
+  "OpenGLES2DeprecationPhase": "0",
   "FFlagUseSocialLibraries310": "True",
   "FFlagEnableAXCameraCounter": "True",
   "FFlagTerrainVoxelChannelNewApi": "True",
@@ -10872,6 +10872,7 @@
   "FFlagDoNotUseLocalScaling2_Rollout": "True;60;2024-03-01T18:08:25",
   "DFIntEngineAPICloudProcessingMaxPayloadSize_Rollout": "500000;30;2024-03-01T18:14:53",
   "DFFlagSimSolverLevitationImplicitSpringBalance_Rollout": "True;60;2024-03-01T18:22:36",
+  "DFFlagStrictStringConvertReportTypeof_Rollout": "True;30;2024-03-01T18:32:24",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11165,8 +11166,9 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "False",
   "FFlagLuaAppDisableSound": "True",
-  "FStringFlagRepoGitHashFastString": "cea2d4b83ebbe059330e6495290680492b5859a0",
-  "DFStringFlagRepoGitHashDynamicString": "cea2d4b83ebbe059330e6495290680492b5859a0",
-  "FStringFlipTimeStampFastString": "2024-03-01T18:32:01.506Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-01T18:32:01.506Z"
+  "FFlagSelfViewCameraSettings": "True",
+  "FStringFlagRepoGitHashFastString": "9c8ef04c9ee308610db81f0f58c275e7934f895f",
+  "DFStringFlagRepoGitHashDynamicString": "9c8ef04c9ee308610db81f0f58c275e7934f895f",
+  "FStringFlipTimeStampFastString": "2024-03-01T18:33:46.239Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-01T18:33:46.239Z"
 }
