@@ -10864,8 +10864,6 @@
   "FFlagSimCSGV3FixSplitDisjointSolids": "True",
   "DFFlagSimSolverLevitationImplicitSpring": "True",
   "DFIntEngineAPICloudProcessingMaxPayloadSize": "500000",
-  "FFlagEnablePlayerViewRemoteReplication3_Rollout": "True;60;2024-03-01T19:06:21",
-  "FFlagFaceAnimatorEnableBoundingBoxResult_Rollout": "True;60;2024-03-01T19:06:21",
   "FFlagLuaAppReplaceTableUtilities": "True",
   "DFFlagInvalidNumPropertyAssignCheckExt": "True",
   "DFFlagDontTrackExtentsForPureLocalSetsComponents_Rollout": "True;60;2024-03-01T19:17:16",
@@ -10880,6 +10878,8 @@
   "DFFlagSimSolverLevitationImplicitSpringBalance": "True",
   "FFlagDoNotCheckCoreScriptsLoadedInPlugins": "True",
   "FFlagStudioUserSettingAllowUserPlugins": "True",
+  "FFlagEnablePlayerViewRemoteReplication3": "True",
+  "FFlagFaceAnimatorEnableBoundingBoxResult": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11175,8 +11175,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "db5e560d6902e4c5e3d599ef7034123c84c5298d",
-  "DFStringFlagRepoGitHashDynamicString": "db5e560d6902e4c5e3d599ef7034123c84c5298d",
-  "FStringFlipTimeStampFastString": "2024-03-01T20:31:23.991Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-01T20:31:23.991Z"
+  "FStringFlagRepoGitHashFastString": "f7a0e8adce7a7f612d4944652ca774ee9c033278",
+  "DFStringFlagRepoGitHashDynamicString": "f7a0e8adce7a7f612d4944652ca774ee9c033278",
+  "FStringFlipTimeStampFastString": "2024-03-01T20:41:24.302Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-01T20:41:24.302Z"
 }
