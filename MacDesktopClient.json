@@ -10011,8 +10011,7 @@
   "FFlagLuaAppWarnShowAgeOverlayInUse": "True",
   "FFlagFaceAnimatorEnableBoundingBoxResult": "False",
   "FFlagFaceAnimatorEnableBoundingBoxResult_PlaceFilter": "True;12867089300;14066075418;12867047376",
-  "FFlagPlayerViewRemoteEnabled": "False",
-  "FFlagPlayerViewRemoteEnabled_PlaceFilter": "True;12867089300;14066075418;12867047376",
+  "FFlagPlayerViewRemoteEnabled": "True",
   "FFlagIrisRefactorStartCall": "True",
   "FFlagCapsScriptGlobals": "True",
   "FFlagVideoEnableSeekInLive": "True",
@@ -10873,6 +10872,7 @@
   "DFIntEngineAPICloudProcessingMaxPayloadSize_Rollout": "500000;30;2024-03-01T18:14:53",
   "DFFlagSimSolverLevitationImplicitSpringBalance_Rollout": "True;60;2024-03-01T18:22:36",
   "DFFlagStrictStringConvertReportTypeof_Rollout": "True;30;2024-03-01T18:32:24",
+  "FFlagFixContactRecsFriendRequestLogging_v2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11174,8 +11174,8 @@
   "FFlagSkipReportingFailedELFInSessionTrackingDueToCrash": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "15cc2744c557f58080c64c824d224c263e849fbd",
-  "DFStringFlagRepoGitHashDynamicString": "15cc2744c557f58080c64c824d224c263e849fbd",
-  "FStringFlipTimeStampFastString": "2024-03-01T18:34:42.217Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-01T18:34:42.217Z"
+  "FStringFlagRepoGitHashFastString": "16dabd1d43f0eb38f5faeee6b826815fdf3ec540",
+  "DFStringFlagRepoGitHashDynamicString": "16dabd1d43f0eb38f5faeee6b826815fdf3ec540",
+  "FStringFlipTimeStampFastString": "2024-03-01T18:41:27.274Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-01T18:41:27.274Z"
 }
