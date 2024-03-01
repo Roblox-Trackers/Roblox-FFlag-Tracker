@@ -10860,7 +10860,6 @@
   "DFFlagSkateboardChecksTorso": "True",
   "DFFlagHotfixDisAA": "True",
   "DFIntOAuthExpiresInBufferSeconds": "180",
-  "FFlagDoNotUseLocalScaling2_Rollout": "True;60;2024-03-01T18:08:25",
   "DFFlagSimSolverLevitationImplicitSpringBalance_Rollout": "True;60;2024-03-01T18:22:36",
   "FFlagFixContactRecsFriendRequestLogging_v2": "True",
   "FFlagSimCSGV3FixSplitDisjointSolids": "True",
@@ -10879,6 +10878,7 @@
   "FFlagStudioComponentizeSleepStateTracker": "True",
   "DFFlagVideoReportSessionIdsInVideoAnalytics": "True",
   "FFlagStudioUserSettingAllowAllBuiltins": "True",
+  "FFlagDoNotUseLocalScaling2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11290,8 +11290,8 @@
   "EnableRequestPermissionsOnAppReady": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "5948a2b3932fa71736b65460334d5c7303464b2f",
-  "DFStringFlagRepoGitHashDynamicString": "5948a2b3932fa71736b65460334d5c7303464b2f",
-  "FStringFlipTimeStampFastString": "2024-03-01T19:36:38.271Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-01T19:36:38.271Z"
+  "FStringFlagRepoGitHashFastString": "ae83cb9810af984aae7593858ff5cab42c9e35ec",
+  "DFStringFlagRepoGitHashDynamicString": "ae83cb9810af984aae7593858ff5cab42c9e35ec",
+  "FStringFlipTimeStampFastString": "2024-03-01T19:41:31.574Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-01T19:41:31.574Z"
 }
