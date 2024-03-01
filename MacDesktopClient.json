@@ -10871,7 +10871,6 @@
   "DFFlagDontTrackExtentsForPureLocalSetsComponents_Rollout": "True;60;2024-03-01T19:17:16",
   "FFlagPlatformEventEnabled": "False",
   "FStringPlatformEventUrl": "",
-  "FFlagDoNotCheckCoreScriptsLoadedInPlugins_Rollout": "True;30;2024-03-01T19:23:34",
   "DFFlagStrictStringConvertReportTypeof": "True",
   "FFlagVoiceChatExplicitInProgressForSubsOperation": "True",
   "FFlagStudioComponentizeSleepStateTracker": "True",
@@ -10880,6 +10879,7 @@
   "FFlagDoNotUseLocalScaling2": "True",
   "FFlagStudioUserSettingAllowUserPlugins_Rollout": "True;30;2024-03-01T19:43:51",
   "DFFlagSimSolverLevitationImplicitSpringBalance": "True",
+  "FFlagDoNotCheckCoreScriptsLoadedInPlugins": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11181,8 +11181,8 @@
   "FFlagSkipReportingFailedELFInSessionTrackingDueToCrash": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "9db1be8cdf031e1211eebee1fdb9b37477410919",
-  "DFStringFlagRepoGitHashDynamicString": "9db1be8cdf031e1211eebee1fdb9b37477410919",
-  "FStringFlipTimeStampFastString": "2024-03-01T19:56:40.646Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-01T19:56:40.646Z"
+  "FStringFlagRepoGitHashFastString": "748f81f9db30158cd04f3c67df13f274435333a9",
+  "DFStringFlagRepoGitHashDynamicString": "748f81f9db30158cd04f3c67df13f274435333a9",
+  "FStringFlipTimeStampFastString": "2024-03-01T20:11:36.233Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-01T20:11:36.233Z"
 }
