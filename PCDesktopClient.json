@@ -10862,6 +10862,7 @@
   "DFFlagLuauCodegenTrackingMultilocationFix": "True",
   "DFFlagHotfixDisAA_Rollout": "True;60;2024-02-29T23:54:46",
   "FFlagLuaAppGameDetailShowCopyLinkButton_v1": "True",
+  "DFIntOAuthExpiresInBufferSeconds_Rollout": "180;60;2024-03-01T00:07:21",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11155,8 +11156,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagUniversalAppCsat2": "False",
   "FFlagLuaAppDisableSound": "True",
-  "FStringFlagRepoGitHashFastString": "52fd22e896206b1e3ddd4a80cba01901b32f8a47",
-  "DFStringFlagRepoGitHashDynamicString": "52fd22e896206b1e3ddd4a80cba01901b32f8a47",
-  "FStringFlipTimeStampFastString": "2024-03-01T00:06:39.586Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-01T00:06:39.586Z"
+  "FStringFlagRepoGitHashFastString": "da3f9d93bc27a8603b5c684497f305f476d7d110",
+  "DFStringFlagRepoGitHashDynamicString": "da3f9d93bc27a8603b5c684497f305f476d7d110",
+  "FStringFlipTimeStampFastString": "2024-03-01T00:07:54.444Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-01T00:07:54.444Z"
 }
