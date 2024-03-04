@@ -10935,6 +10935,7 @@
   "DFFlagEnableChatLocaleId": "True",
   "FStringChatTranslationEnabledLocales": "\"es_es,fr_fr,pt_br,de_de,it_it,ja_jp,ko_kr,id_id,tr_tr,zh_cn,zh_tw,th_th,pl_pl,vi_vn,ru_ru,\"",
   "FFlagVRConservativeCullCamera_Rollout": "True;60;2024-03-04T21:31:23",
+  "FFlagLegacyInputBindingsInControllerBar": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11173,7 +11174,6 @@
   "FFlagLuaAppNavigationAnalytics": "True",
   "FFlagGamesListBackgroundFix": "True",
   "FFlagGridCarouselHeaderHeightFix": "True",
-  "FFlagLegacyInputBindingsInControllerBar": "True",
   "FFlagLuaAppLaunchConnectorFix2": "True",
   "FFlagGameSortGridRowAnalyticsWithoutStore": "True",
   "FStringUserProfilesUnmountEarly": "UserProfilesUnmountEarlyXBoxClient",
@@ -11233,8 +11233,8 @@
   "FFlagEDPMediaAddLocalization10ft": "True",
   "FFlagAddSeeAllShortcutControllerBar10ft": "True",
   "FFlagTenFootUiSearchLoadMore2": "True",
-  "FStringFlagRepoGitHashFastString": "f89484d8d671aae7c5efa935290f5da8f14f8571",
-  "DFStringFlagRepoGitHashDynamicString": "f89484d8d671aae7c5efa935290f5da8f14f8571",
-  "FStringFlipTimeStampFastString": "2024-03-04T21:35:21.842Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-04T21:35:21.842Z"
+  "FStringFlagRepoGitHashFastString": "26f9bfde38a1c92fbfea4744a08c2e71f4980ceb",
+  "DFStringFlagRepoGitHashDynamicString": "26f9bfde38a1c92fbfea4744a08c2e71f4980ceb",
+  "FStringFlipTimeStampFastString": "2024-03-04T21:55:02.496Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-04T21:55:02.496Z"
 }
