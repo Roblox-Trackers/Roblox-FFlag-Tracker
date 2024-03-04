@@ -10933,7 +10933,6 @@
   "DFFlagEnableChatLocaleId": "True",
   "FStringChatTranslationEnabledLocales": "\"es_es,fr_fr,pt_br,de_de,it_it,ja_jp,ko_kr,id_id,tr_tr,zh_cn,zh_tw,th_th,pl_pl,vi_vn,ru_ru,\"",
   "FFlagLegacyInputBindingsInControllerBar": "True",
-  "FFlagPackageLinkIconAutoupdateOn_Rollout": "True;60;2024-03-04T21:55:28",
   "FFlagAvatarPreviewerCustomShoes3": "True",
   "FFlagAvatarPreviewerAddItemButtonDisabled": "True",
   "FFlagOffCenterBlockCollision_PlaceFilter": "True;16200057655",
@@ -10950,6 +10949,7 @@
   "FFlagInsertDecalAddWaypoint_Rollout": "True;60;2024-03-04T23:09:10",
   "FFlagVoiceChatGrpcEnableTimeoutOnErrorLimitReached": "True",
   "DFIntVoiceChatGrpcDeadlineExceededErrorLimitBeforeReset": "10",
+  "FFlagPackageLinkIconAutoupdateOn": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11245,8 +11245,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "590f970f3534e6d1205fac437cf388aed7d0ecd4",
-  "DFStringFlagRepoGitHashDynamicString": "590f970f3534e6d1205fac437cf388aed7d0ecd4",
-  "FStringFlipTimeStampFastString": "2024-03-04T23:25:35.519Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-04T23:25:35.519Z"
+  "FStringFlagRepoGitHashFastString": "eb8c8d74f8386ce2c681a81183c1066d1aa28a97",
+  "DFStringFlagRepoGitHashDynamicString": "eb8c8d74f8386ce2c681a81183c1066d1aa28a97",
+  "FStringFlipTimeStampFastString": "2024-03-04T23:35:42.702Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-04T23:35:42.702Z"
 }
