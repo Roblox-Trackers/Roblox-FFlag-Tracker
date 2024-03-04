@@ -10942,6 +10942,7 @@
   "FFlagAvatarPreviewerMoveUnequipAllContextMenu": "True",
   "FFlagVoiceChatGrpcEnableTimeoutOnErrorLimitReached_Rollout": "True;30;2024-03-04T22:14:30",
   "DFIntVoiceChatGrpcDeadlineExceededErrorLimitBeforeReset_Rollout": "10;30;2024-03-04T22:16:09",
+  "DFFlagSessionCryptoRaceCondition_Rollout": "True;60;2024-03-04T22:18:06",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11137,8 +11138,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "9de466c3e70b6fc2a817db2faa6e645d76b2b75d",
-  "DFStringFlagRepoGitHashDynamicString": "9de466c3e70b6fc2a817db2faa6e645d76b2b75d",
-  "FStringFlipTimeStampFastString": "2024-03-04T22:20:58.164Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-04T22:20:58.164Z"
+  "FStringFlagRepoGitHashFastString": "67e2571636d25bb0a80cb32e609743480c73cae8",
+  "DFStringFlagRepoGitHashDynamicString": "67e2571636d25bb0a80cb32e609743480c73cae8",
+  "FStringFlipTimeStampFastString": "2024-03-04T22:21:13.926Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-04T22:21:13.926Z"
 }
