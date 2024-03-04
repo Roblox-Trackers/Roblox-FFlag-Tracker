@@ -10770,7 +10770,7 @@
   "DFIntVideoVisibilityPlaceSessionIdThrottleHundredthsPercent": "2",
   "FFlagVideoReportVisibilityFilterByPlaceSessionId": "False",
   "FFlagVideoCMCDIsPlaying": "True",
-  "FIntTextFilterV2ApiHundredthPercent": "500",
+  "FIntTextFilterV2ApiHundredthPercent": "1000",
   "FFlagRenderFixMissingTrailShaders": "True",
   "DFFlagOptimizeSleepStateTransitions": "True",
   "FFlagInferOOMWithPossibleOOM": "True",
@@ -10929,7 +10929,6 @@
   "FFlagAvatarPreviewerFixPlatformFloat": "True",
   "FFlagNonStaticGridMaterialChangedSignal": "True",
   "DFFlagGameNetFixReplicationSkipBug": "True",
-  "FIntTextFilterV2ApiHundredthPercent_Rollout": "1000;60;2024-03-04T20:27:00",
   "FFlagAvatarPreviewerDisableETA": "True",
   "FFlagDisableResetOnBlur10ft": "True",
   "DFFlagEnableChatLocaleId": "True",
@@ -10937,6 +10936,8 @@
   "FFlagVRConservativeCullCamera_Rollout": "True;60;2024-03-04T21:31:23",
   "FFlagLegacyInputBindingsInControllerBar": "True",
   "FFlagPackageLinkIconAutoupdateOn_Rollout": "True;60;2024-03-04T21:55:28",
+  "FFlagAvatarPreviewerCustomShoes3": "True",
+  "FFlagAvatarPreviewerAddItemButtonDisabled": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11232,8 +11233,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "b2a654269974de7f3d2b3631eee4987cae0fdd7a",
-  "DFStringFlagRepoGitHashDynamicString": "b2a654269974de7f3d2b3631eee4987cae0fdd7a",
-  "FStringFlipTimeStampFastString": "2024-03-04T21:56:24.235Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-04T21:56:24.235Z"
+  "FStringFlagRepoGitHashFastString": "67e226f8604d0dbc59c65c1b3da884b7e8459dc7",
+  "DFStringFlagRepoGitHashDynamicString": "67e226f8604d0dbc59c65c1b3da884b7e8459dc7",
+  "FStringFlipTimeStampFastString": "2024-03-04T22:06:04.148Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-04T22:06:04.148Z"
 }
