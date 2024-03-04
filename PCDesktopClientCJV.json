@@ -10943,6 +10943,7 @@
   "FFlagVoiceChatGrpcEnableTimeoutOnErrorLimitReached_Rollout": "True;30;2024-03-04T22:14:30",
   "DFIntVoiceChatGrpcDeadlineExceededErrorLimitBeforeReset_Rollout": "10;30;2024-03-04T22:16:09",
   "DFFlagSessionCryptoRaceCondition_Rollout": "True;60;2024-03-04T22:18:06",
+  "FFlagAvatarPreviewerEquippedItemsClickMouseUp": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11238,8 +11239,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "67e2571636d25bb0a80cb32e609743480c73cae8",
-  "DFStringFlagRepoGitHashDynamicString": "67e2571636d25bb0a80cb32e609743480c73cae8",
-  "FStringFlipTimeStampFastString": "2024-03-04T22:21:13.926Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-04T22:21:13.926Z"
+  "FStringFlagRepoGitHashFastString": "e53e0b7b72a5f0d68f488a2a561a7c73a5551d32",
+  "DFStringFlagRepoGitHashDynamicString": "e53e0b7b72a5f0d68f488a2a561a7c73a5551d32",
+  "FStringFlipTimeStampFastString": "2024-03-04T22:25:46.614Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-04T22:25:46.614Z"
 }
