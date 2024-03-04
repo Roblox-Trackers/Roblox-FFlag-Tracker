@@ -10860,7 +10860,7 @@
   "DFIntOAuthExpiresInBufferSeconds": "180",
   "FFlagFixContactRecsFriendRequestLogging_v2": "True",
   "FFlagSimCSGV3FixSplitDisjointSolids": "True",
-  "DFFlagSimSolverLevitationImplicitSpring": "True",
+  "DFFlagSimSolverLevitationImplicitSpring": "False",
   "DFIntEngineAPICloudProcessingMaxPayloadSize": "500000",
   "FFlagLuaAppReplaceTableUtilities": "True",
   "DFFlagInvalidNumPropertyAssignCheckExt": "True",
@@ -11115,8 +11115,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "a7b7e3215a338c93c2ea242e3becfd9cabc4ad96",
-  "DFStringFlagRepoGitHashDynamicString": "a7b7e3215a338c93c2ea242e3becfd9cabc4ad96",
-  "FStringFlipTimeStampFastString": "2024-03-04T19:11:06.587Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-04T19:11:06.587Z"
+  "FStringFlagRepoGitHashFastString": "9ef97e1b882762cb5b9f12bf3bec86ef241f36b0",
+  "DFStringFlagRepoGitHashDynamicString": "9ef97e1b882762cb5b9f12bf3bec86ef241f36b0",
+  "FStringFlipTimeStampFastString": "2024-03-04T19:14:34.383Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-04T19:14:34.383Z"
 }
