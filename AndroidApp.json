@@ -10910,7 +10910,6 @@
   "FFlagAXRemovePriceFiltersIXPEnabled": "True",
   "FFlagFixPlayerGuiSelectionBugOnPromptExit": "True",
   "FFlagFixPlayerGuiSelectionBugOnPromptExitPremium": "True",
-  "DFFlagCurrentPassFix_Rollout": "True;60;2024-03-04T18:28:34",
   "FFlagUIBloxResponsiveBaseRowScrollingFrameRef": "True",
   "FFlagLuauCodeGenVectorA64": "True",
   "DFFlagRccDataModelUploadTelemetryTweaks": "True",
@@ -10926,6 +10925,7 @@
   "FFlagFixChatLanguageSwitcherLabel": "True",
   "DFFlagEnableChatLocaleId_Rollout": "True;60;2024-03-04T19:45:19",
   "DFFlagTimeoutSkipsErrorSignals": "True",
+  "DFFlagCurrentPassFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11337,8 +11337,8 @@
   "EnableRequestPermissionsOnAppReady": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "cea08dc1e7aa3b2c39b45ee375ed1f4f4df032f0",
-  "DFStringFlagRepoGitHashDynamicString": "cea08dc1e7aa3b2c39b45ee375ed1f4f4df032f0",
-  "FStringFlipTimeStampFastString": "2024-03-04T19:51:10.666Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-04T19:51:10.666Z"
+  "FStringFlagRepoGitHashFastString": "d5ec1a78de5159654e28433cf537da8f66662e18",
+  "DFStringFlagRepoGitHashDynamicString": "d5ec1a78de5159654e28433cf537da8f66662e18",
+  "FStringFlipTimeStampFastString": "2024-03-04T20:02:08.481Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-04T20:02:08.481Z"
 }
