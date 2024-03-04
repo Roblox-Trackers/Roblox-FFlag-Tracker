@@ -10913,7 +10913,6 @@
   "FFlagUIBloxResponsiveBaseRowScrollingFrameRef": "True",
   "FFlagLuauCodeGenVectorA64": "True",
   "DFFlagRccDataModelUploadTelemetryTweaks": "True",
-  "FFlagFixOutdatedTimeScaleParticles_Rollout": "True;60;2024-03-04T18:49:23",
   "DFFlagGameNetFixReplicationSkipBug_Rollout": "True;60;2024-03-04T18:54:59",
   "FFlagFixParticleEmissionBias": "True",
   "FFlagEnableFeedbackModeModalTextFixes": "True",
@@ -10930,6 +10929,8 @@
   "FFlagDevFrameworkAvoidSpawnInCreatePluginWidget": "True",
   "FFlagAvatarPreviewerInsertInMarketplaceOrder": "True",
   "FFlagAvatarPreviewerFixUserInsertedClothingOrdering": "True",
+  "FFlagFixOutdatedTimeScaleParticles": "True",
+  "FFlagAvatarPreviewerFixPlatformFloat": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11229,8 +11230,8 @@
   "FFlagEDPMediaAddLocalization10ft": "True",
   "FFlagAddSeeAllShortcutControllerBar10ft": "True",
   "FFlagTenFootUiSearchLoadMore2": "True",
-  "FStringFlagRepoGitHashFastString": "1c876de91d6d5713f0fbda1979260d813eaf4dad",
-  "DFStringFlagRepoGitHashDynamicString": "1c876de91d6d5713f0fbda1979260d813eaf4dad",
-  "FStringFlipTimeStampFastString": "2024-03-04T20:19:42.689Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-04T20:19:42.689Z"
+  "FStringFlagRepoGitHashFastString": "a84622e7e92c3343ca6cc00d5900cbefbb7db3d5",
+  "DFStringFlagRepoGitHashDynamicString": "a84622e7e92c3343ca6cc00d5900cbefbb7db3d5",
+  "FStringFlipTimeStampFastString": "2024-03-04T20:22:05.614Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-04T20:22:05.614Z"
 }
