@@ -10920,7 +10920,6 @@
   "DFIntMinSoundCompressedStreamSizeBytes": "256000",
   "FFlagAXRemovePriceFilters": "True",
   "FFlagFixChatLanguageSwitcherLabel": "True",
-  "DFFlagEnableChatLocaleId_Rollout": "True;60;2024-03-04T19:45:19",
   "DFFlagTimeoutSkipsErrorSignals": "True",
   "DFFlagCurrentPassFix": "True",
   "FFlagAvatarPreviewerFixBrokenTests": "True",
@@ -10934,6 +10933,7 @@
   "FIntTextFilterV2ApiHundredthPercent_Rollout": "1000;60;2024-03-04T20:27:00",
   "FFlagAvatarPreviewerDisableETA": "True",
   "FFlagDisableResetOnBlur10ft": "True",
+  "DFFlagEnableChatLocaleId": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11228,8 +11228,8 @@
   "FFlagUniversalAppCsat2": "False",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "bfa0b12bcfb93d8022ae49a8c90832a93e228bba",
-  "DFStringFlagRepoGitHashDynamicString": "bfa0b12bcfb93d8022ae49a8c90832a93e228bba",
-  "FStringFlipTimeStampFastString": "2024-03-04T21:16:58.648Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-04T21:16:58.648Z"
+  "FStringFlagRepoGitHashFastString": "c5b1cc939a588911f9077c96960ec4cecebab73a",
+  "DFStringFlagRepoGitHashDynamicString": "c5b1cc939a588911f9077c96960ec4cecebab73a",
+  "FStringFlipTimeStampFastString": "2024-03-04T21:21:21.245Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-04T21:21:21.245Z"
 }
