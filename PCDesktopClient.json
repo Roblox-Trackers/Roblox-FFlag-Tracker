@@ -10960,6 +10960,9 @@
   "FFlagCapsFilterUnassigned_Rollout": "True;60;2024-03-05T19:16:11",
   "FFlagIrisReservedServerCheckError": "True",
   "DFFlagSimIterativeResetPhysPosToLatestNetUpdateRecursiveChildren_Rollout": "True;1;2024-03-05T19:51:31",
+  "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-03-05T19:51:49",
+  "DFFlagSimIterativeGetAssemblyExtentsIncludingChildAssembliesInNOU_Rollout": "True;1;2024-03-05T19:52:05",
+  "DFFlagSimIterativeVisitPrimitivesIncludingChildAssembliesImpl_Rollout": "True;1;2024-03-05T19:52:31",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11255,8 +11258,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1d\",\"pos\":[1,-56,0,10],\"size\":[0,44,0,48]},{\"id\":\"a2d\",\"pos\":[1,-100,0,10],\"size\":[0,88,0,48]},{\"id\":\"a4d\",\"pos\":[1,-418,0,10],\"size\":[0,406,0,48]},{\"id\":\"a5d\",\"pos\":[0.5,-102,0,10],\"size\":[0,204,0,48]},{\"id\":\"a5dl\",\"pos\":[0.5,-305,0,10],\"size\":[0,204,0,48]},{\"id\":\"lrd\",\"pos\":[0,12,0,10],\"size\":[0,44,0,48]},{\"id\":\"l1d\",\"pos\":[0,68,0,10],\"size\":[0,44,0,48]},{\"id\":\"l2d\",\"pos\":[0,72,0,12],\"size\":[0,88,0,44]},{\"id\":\"l4d\",\"pos\":[0,68,0,10],\"size\":[0,406,0,48]},{\"id\":\"l-pc+sv-d\",\"pos\":[0,68,0,10],\"size\":[0,132,0,48]}];60;2024-03-05T19:21:14",
-  "FStringFlagRepoGitHashFastString": "68de10f1d6522ed91b621a3bbb795cfeb2320bf3",
-  "DFStringFlagRepoGitHashDynamicString": "68de10f1d6522ed91b621a3bbb795cfeb2320bf3",
-  "FStringFlipTimeStampFastString": "2024-03-05T19:52:08.488Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-05T19:52:08.488Z"
+  "FStringFlagRepoGitHashFastString": "7460a791e6a5ee1eb4d11ea905ce0e88b5eb85ff",
+  "DFStringFlagRepoGitHashDynamicString": "7460a791e6a5ee1eb4d11ea905ce0e88b5eb85ff",
+  "FStringFlipTimeStampFastString": "2024-03-05T19:53:48.769Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-05T19:53:48.769Z"
 }
