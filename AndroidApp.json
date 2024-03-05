@@ -10965,6 +10965,9 @@
   "FFlagSyncScriptBuilderNormalizeSource": "True",
   "FFlagRenderLQShadowAtlasFix_Rollout": "True;60;2024-03-05T20:40:48",
   "FFlagGraphicsVulkanBufferUploadBarrier_Rollout": "True;60;2024-03-05T20:40:54",
+  "FFlagValidateVertexLayouts_Rollout": "True;60;2024-03-05T20:41:02",
+  "FFlagLuauSetMetatableOnUnionsOfTables_Rollout": "True;60;2024-03-05T20:41:09",
+  "FFlagGpuGeometryManagerMemoryLeakFix_Rollout": "True;60;2024-03-05T20:41:13",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11377,8 +11380,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1m\", \"pos\":[1, -56, 0, 4], \"size\":[0, 44, 0, 48]}, {\"id\":\"a2m\", \"pos\":[1, -100, 0, 4], \"size\":[0, 88, 0, 48]}, {\"id\":\"a3m\", \"pos\":[0, 0, 0, 4], \"size\":[1, 0, 0, 48]}, {\"id\":\"a4m\", \"pos\":[1, -418, 0, 4], \"size\":[0, 406, 0, 48]},{\"id\":\"lrm\",\"pos\":[0,12,0,4],\"size\":[0,44,0,48]},{\"id\":\"l1m\",\"pos\":[0,68,0,4],\"size\":[0,44,0,48]},{\"id\":\"l2m\",\"pos\":[0,66,0,6],\"size\":[0,88,0,44]},{\"id\":\"l4m\",\"pos\":[0,68,0,4],\"size\":[0,406,0,48]},{\"id\":\"l-pc+sv-m\",\"pos\":[0,68,0,4],\"size\":[0,132,0,48]}];60;2024-03-05T19:21:14",
-  "FStringFlagRepoGitHashFastString": "70138bee2ca331792fc6c169b267775b4a06e070",
-  "DFStringFlagRepoGitHashDynamicString": "70138bee2ca331792fc6c169b267775b4a06e070",
-  "FStringFlipTimeStampFastString": "2024-03-05T20:45:48.414Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-05T20:45:48.414Z"
+  "FStringFlagRepoGitHashFastString": "cf7117a57e780892881a43c9942a18457446781e",
+  "DFStringFlagRepoGitHashDynamicString": "cf7117a57e780892881a43c9942a18457446781e",
+  "FStringFlipTimeStampFastString": "2024-03-05T20:46:25.563Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-05T20:46:25.563Z"
 }
