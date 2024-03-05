@@ -10964,6 +10964,7 @@
   "DFFlagSimIterativeVisitPrimitivesIncludingChildAssembliesImpl_Rollout": "True;1;2024-03-05T19:52:31",
   "DFFlagHopperWithNoVerb_Rollout": "True;60;2024-03-05T19:53:50",
   "FFlagSimConsolidateBVHMidphase2_Rollout": "True;60;2024-03-05T20:02:12",
+  "FFlagDoNotUseLocalScaling2_Rollout": "True;30;2024-03-05T20:04:15",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11260,8 +11261,8 @@
   "FFlagSelfViewCameraSettings": "True",
   "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1d\",\"pos\":[1,-56,0,10],\"size\":[0,44,0,48]},{\"id\":\"a2d\",\"pos\":[1,-100,0,10],\"size\":[0,88,0,48]},{\"id\":\"a4d\",\"pos\":[1,-418,0,10],\"size\":[0,406,0,48]},{\"id\":\"a5d\",\"pos\":[0.5,-102,0,10],\"size\":[0,204,0,48]},{\"id\":\"a5dl\",\"pos\":[0.5,-305,0,10],\"size\":[0,204,0,48]},{\"id\":\"lrd\",\"pos\":[0,12,0,10],\"size\":[0,44,0,48]},{\"id\":\"l1d\",\"pos\":[0,68,0,10],\"size\":[0,44,0,48]},{\"id\":\"l2d\",\"pos\":[0,72,0,12],\"size\":[0,88,0,44]},{\"id\":\"l4d\",\"pos\":[0,68,0,10],\"size\":[0,406,0,48]},{\"id\":\"l-pc+sv-d\",\"pos\":[0,68,0,10],\"size\":[0,132,0,48]}];60;2024-03-05T19:21:14",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "39beb260eb5e7fcedcc4b54e7156105a69130493",
-  "DFStringFlagRepoGitHashDynamicString": "39beb260eb5e7fcedcc4b54e7156105a69130493",
-  "FStringFlipTimeStampFastString": "2024-03-05T20:03:54.823Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-05T20:03:54.823Z"
+  "FStringFlagRepoGitHashFastString": "c8adbdecd405e5f6b40608362d892b176045be68",
+  "DFStringFlagRepoGitHashDynamicString": "c8adbdecd405e5f6b40608362d892b176045be68",
+  "FStringFlipTimeStampFastString": "2024-03-05T20:05:48.644Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-05T20:05:48.644Z"
 }
