@@ -10959,8 +10959,6 @@
   "FFlagCapsFilterUnassigned": "True",
   "FFlagDoNotUseLocalScaling2": "True",
   "DFFlagHopperWithNoVerb": "True",
-  "DFFlagFrameTimeJitter_Rollout": "True;60;2024-03-05T21:32:28",
-  "FFlagTextBoxKeepCursorInView_Rollout": "True;60;2024-03-05T21:34:39",
   "FFlagSimConsolidateBVHMidphase2": "True",
   "FFlagDevFrameworkFormLabelTooltip": "True",
   "FFlagLuauFollowEmptyTypePacks_Rollout": "True;60;2024-03-05T22:00:11",
@@ -10983,6 +10981,8 @@
   "FFlagTagEditorFixMissingLocalization2": "True",
   "FFlagPlayerContextualMenuGameJoinAttribution": "True",
   "InstallSecurityProviderIfNeeded": "True",
+  "DFFlagFrameTimeJitter": "True",
+  "FFlagTextBoxKeepCursorInView": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11359,8 +11359,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagEnableNavBarLabels3": "True",
-  "FStringFlagRepoGitHashFastString": "9982e55719a038ec8c793058f349e36053ad3871",
-  "DFStringFlagRepoGitHashDynamicString": "9982e55719a038ec8c793058f349e36053ad3871",
-  "FStringFlipTimeStampFastString": "2024-03-05T23:06:02.877Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-05T23:06:02.877Z"
+  "FStringFlagRepoGitHashFastString": "70aa0c42b22bb3fea0a7be162ca1bd557ae695b2",
+  "DFStringFlagRepoGitHashDynamicString": "70aa0c42b22bb3fea0a7be162ca1bd557ae695b2",
+  "FStringFlipTimeStampFastString": "2024-03-05T23:10:55.175Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-05T23:10:55.175Z"
 }
