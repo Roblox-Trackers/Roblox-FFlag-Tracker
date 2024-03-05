@@ -10959,7 +10959,6 @@
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-03-05T19:51:49",
   "DFFlagHopperWithNoVerb_Rollout": "True;60;2024-03-05T19:53:50",
   "FFlagSimConsolidateBVHMidphase2_Rollout": "True;60;2024-03-05T20:02:12",
-  "FFlagDoNotUseLocalScaling2_Rollout": "True;30;2024-03-05T20:04:15",
   "DFIntMinSoundCompressedStreamSizeBytes_Rollout": "384000;60;2024-03-05T20:35:35",
   "FFlagSyncScriptBuilderNormalizeSource": "True",
   "FFlagRenderLQShadowAtlasFix_Rollout": "True;60;2024-03-05T20:40:48",
@@ -10968,6 +10967,7 @@
   "FFlagLuauSetMetatableOnUnionsOfTables_Rollout": "True;60;2024-03-05T20:41:09",
   "FFlagGpuGeometryManagerMemoryLeakFix_Rollout": "True;60;2024-03-05T20:41:13",
   "FFlagCapsFilterUnassigned": "True",
+  "FFlagDoNotUseLocalScaling2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11344,8 +11344,8 @@
   "FFlagUniversalAppCsat2": "False",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "8f4a7cc580393265ae0ba4104dcb11eb49b94f01",
-  "DFStringFlagRepoGitHashDynamicString": "8f4a7cc580393265ae0ba4104dcb11eb49b94f01",
-  "FStringFlipTimeStampFastString": "2024-03-05T21:08:59.749Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-05T21:08:59.749Z"
+  "FStringFlagRepoGitHashFastString": "7236f799560024fb0f63a6326c3e7ad388a74e84",
+  "DFStringFlagRepoGitHashDynamicString": "7236f799560024fb0f63a6326c3e7ad388a74e84",
+  "FStringFlipTimeStampFastString": "2024-03-05T21:14:06.268Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-05T21:14:06.268Z"
 }
