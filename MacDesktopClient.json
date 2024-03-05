@@ -10962,7 +10962,6 @@
   "FFlagSimConsolidateBVHMidphase2": "True",
   "FFlagDevFrameworkFormLabelTooltip": "True",
   "FFlagDevFrameworkAssetRenderModelControls": "True",
-  "FFlagEnvMapInvalidationAndWaitForTextureSwapFinish_Rollout": "True;60;2024-03-05T22:16:04",
   "FFlagLuauSetMetatableOnUnionsOfTables": "True",
   "FFlagGpuGeometryManagerMemoryLeakFix": "True",
   "FFlagGraphicsVulkanBufferUploadBarrier": "True",
@@ -10987,6 +10986,7 @@
   "FFlagOpenPlayersFromGamepad": "True",
   "DFFlagEnableMeasureAllVisibilityRequirements_Rollout": "True;60;2024-03-05T23:22:07",
   "FFlagLuauFollowEmptyTypePacks": "True",
+  "FFlagEnvMapInvalidationAndWaitForTextureSwapFinish": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11288,8 +11288,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagEnableNavBarLabels3": "True",
-  "FStringFlagRepoGitHashFastString": "953943416f91483d145f4e78fdb82cc35dfda2b8",
-  "DFStringFlagRepoGitHashDynamicString": "953943416f91483d145f4e78fdb82cc35dfda2b8",
-  "FStringFlipTimeStampFastString": "2024-03-05T23:52:56.835Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-05T23:52:56.835Z"
+  "FStringFlagRepoGitHashFastString": "ad144bc0553cee7df67ca3630bf51c2ec0eb3428",
+  "DFStringFlagRepoGitHashDynamicString": "ad144bc0553cee7df67ca3630bf51c2ec0eb3428",
+  "FStringFlipTimeStampFastString": "2024-03-05T23:57:47.660Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-05T23:57:47.660Z"
 }
