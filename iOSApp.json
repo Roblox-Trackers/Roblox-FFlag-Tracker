@@ -10969,6 +10969,8 @@
   "DFFlagFrameTimeJitter_Rollout": "True;60;2024-03-05T21:32:28",
   "FFlagTextBoxKeepCursorInView_Rollout": "True;60;2024-03-05T21:34:39",
   "FFlagSimConsolidateBVHMidphase2": "True",
+  "FFlagDevFrameworkFormLabelTooltip": "True",
+  "FFlagEnableNavBarLabels3": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11127,7 +11129,6 @@
   "FIntEventReporterBatchSize": "10",
   "FIntFixForBulkPresenceNotifications": "100",
   "FIntGamePerfMonitorPercentage": "10",
-  "FIntGraphicsVulkanARMVaryingBufferMb": "160",
   "FIntGraphicsVulkanMinAndroidVersion": "25",
   "FIntGraphicsVulkanMinDriverVersionPVR": "4981305",
   "FIntHttpCurlMaxCachedHandlesPerHost": "8",
@@ -11345,8 +11346,8 @@
   "FFlagUniversalAppCsat2": "False",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "a0b5594a70a04ab5ac6c326fe57603759f2791cc",
-  "DFStringFlagRepoGitHashDynamicString": "a0b5594a70a04ab5ac6c326fe57603759f2791cc",
-  "FStringFlipTimeStampFastString": "2024-03-05T21:40:52.236Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-05T21:40:52.236Z"
+  "FStringFlagRepoGitHashFastString": "191b512a0189ea892f216cac6c0a7a5a0820bd17",
+  "DFStringFlagRepoGitHashDynamicString": "191b512a0189ea892f216cac6c0a7a5a0820bd17",
+  "FStringFlipTimeStampFastString": "2024-03-05T21:51:03.682Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-05T21:51:03.682Z"
 }
