@@ -10769,7 +10769,7 @@
   "DFIntVideoVisibilityPlaceSessionIdThrottleHundredthsPercent": "2",
   "FFlagVideoReportVisibilityFilterByPlaceSessionId": "False",
   "FFlagVideoCMCDIsPlaying": "True",
-  "FIntTextFilterV2ApiHundredthPercent": "1000",
+  "FIntTextFilterV2ApiHundredthPercent": "2500",
   "FFlagRenderFixMissingTrailShaders": "True",
   "DFFlagOptimizeSleepStateTransitions": "True",
   "FFlagInferOOMWithPossibleOOM": "True",
@@ -10954,7 +10954,6 @@
   "FFlagGraphicsHandleMultipleTextureUpdates": "True",
   "FFlagUseFocusRestoration10ft": "True",
   "FFlagServerReceiveAvoidPlayerOnFireServer_PlaceFilter": "True;11402255591;12796376276;13989579574",
-  "FIntTextFilterV2ApiHundredthPercent_Rollout": "2500;60;2024-03-05T18:22:05",
   "FFlagSyncScriptBuilderNormalizeSource_Rollout": "True;60;2024-03-05T19:02:29",
   "DFFlagPassErrorForCallAPI": "True",
   "FFlagCapsFilterUnassigned_Rollout": "True;60;2024-03-05T19:16:11",
@@ -11376,8 +11375,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FStringUIOcclusionMetricsRectQueryList_Rollout": "[{\"id\":\"a1m\", \"pos\":[1, -56, 0, 4], \"size\":[0, 44, 0, 48]}, {\"id\":\"a2m\", \"pos\":[1, -100, 0, 4], \"size\":[0, 88, 0, 48]}, {\"id\":\"a3m\", \"pos\":[0, 0, 0, 4], \"size\":[1, 0, 0, 48]}, {\"id\":\"a4m\", \"pos\":[1, -418, 0, 4], \"size\":[0, 406, 0, 48]},{\"id\":\"lrm\",\"pos\":[0,12,0,4],\"size\":[0,44,0,48]},{\"id\":\"l1m\",\"pos\":[0,68,0,4],\"size\":[0,44,0,48]},{\"id\":\"l2m\",\"pos\":[0,66,0,6],\"size\":[0,88,0,44]},{\"id\":\"l4m\",\"pos\":[0,68,0,4],\"size\":[0,406,0,48]},{\"id\":\"l-pc+sv-m\",\"pos\":[0,68,0,4],\"size\":[0,132,0,48]}];60;2024-03-05T19:21:14",
-  "FStringFlagRepoGitHashFastString": "a5baa63d0f9d8b6856069037f7ba3d79e961c609",
-  "DFStringFlagRepoGitHashDynamicString": "a5baa63d0f9d8b6856069037f7ba3d79e961c609",
-  "FStringFlipTimeStampFastString": "2024-03-05T19:55:34.864Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-05T19:55:34.864Z"
+  "FStringFlagRepoGitHashFastString": "9efa89dab7c8612fe815afb0d13483d5f2a4320e",
+  "DFStringFlagRepoGitHashDynamicString": "9efa89dab7c8612fe815afb0d13483d5f2a4320e",
+  "FStringFlipTimeStampFastString": "2024-03-05T20:01:47.357Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-05T20:01:47.357Z"
 }
