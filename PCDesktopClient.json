@@ -10961,7 +10961,6 @@
   "DFFlagHopperWithNoVerb": "True",
   "FFlagSimConsolidateBVHMidphase2": "True",
   "FFlagDevFrameworkFormLabelTooltip": "True",
-  "FFlagLuauFollowEmptyTypePacks_Rollout": "True;60;2024-03-05T22:00:11",
   "FFlagDevFrameworkAssetRenderModelControls": "True",
   "FFlagEnvMapInvalidationAndWaitForTextureSwapFinish_Rollout": "True;60;2024-03-05T22:16:04",
   "FFlagLuauSetMetatableOnUnionsOfTables": "True",
@@ -10969,7 +10968,7 @@
   "FFlagGraphicsVulkanBufferUploadBarrier": "True",
   "FFlagRenderLQShadowAtlasFix": "True",
   "FFlagValidateVertexLayouts": "True",
-  "DFFlagFlagRolloutTestDynamicBool3_Rollout": "True;60;2024-03-05T22:24:53",
+  "DFFlagFlagRolloutTestDynamicBool3_Rollout": "False;60;2024-03-05T23:48:05",
   "FFlagAXSeeAllCloseButtonPadding": "True",
   "FFlagEnableAXTopLevelCounters": "True",
   "FFlagEnableCounterLooksWidgetHome1": "True",
@@ -10987,6 +10986,7 @@
   "FFlagFix10ftMenuAddFriend": "True",
   "FFlagOpenPlayersFromGamepad": "True",
   "DFFlagEnableMeasureAllVisibilityRequirements_Rollout": "True;60;2024-03-05T23:22:07",
+  "FFlagLuauFollowEmptyTypePacks": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11281,8 +11281,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagEnableNavBarLabels3": "True",
-  "FStringFlagRepoGitHashFastString": "a32541e9bb1c8f36eb2a0537a9063feaa6709c80",
-  "DFStringFlagRepoGitHashDynamicString": "a32541e9bb1c8f36eb2a0537a9063feaa6709c80",
-  "FStringFlipTimeStampFastString": "2024-03-05T23:26:07.711Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-05T23:26:07.711Z"
+  "FStringFlagRepoGitHashFastString": "be799a4b4b63f9430369e297145e5f708fb5441f",
+  "DFStringFlagRepoGitHashDynamicString": "be799a4b4b63f9430369e297145e5f708fb5441f",
+  "FStringFlipTimeStampFastString": "2024-03-05T23:52:30.349Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-05T23:52:30.349Z"
 }
