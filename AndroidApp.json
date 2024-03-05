@@ -10955,7 +10955,6 @@
   "FFlagServerReceiveAvoidPlayerOnFireServer_PlaceFilter": "True;11402255591;12796376276;13989579574",
   "DFFlagPassErrorForCallAPI": "True",
   "FFlagIrisReservedServerCheckError": "True",
-  "FFlagSimConsolidateBVHMidphase2_Rollout": "True;60;2024-03-05T20:02:12",
   "DFIntMinSoundCompressedStreamSizeBytes_Rollout": "384000;60;2024-03-05T20:35:35",
   "FFlagSyncScriptBuilderNormalizeSource": "True",
   "FFlagRenderLQShadowAtlasFix_Rollout": "True;60;2024-03-05T20:40:48",
@@ -10969,6 +10968,7 @@
   "DFFlagHopperWithNoVerb": "True",
   "DFFlagFrameTimeJitter_Rollout": "True;60;2024-03-05T21:32:28",
   "FFlagTextBoxKeepCursorInView_Rollout": "True;60;2024-03-05T21:34:39",
+  "FFlagSimConsolidateBVHMidphase2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11381,8 +11381,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "EnableIrisUpdatedCallingNotificationCompat": "True",
-  "FStringFlagRepoGitHashFastString": "061978925ebe648164608ecca25b7ee0f3f9c81a",
-  "DFStringFlagRepoGitHashDynamicString": "061978925ebe648164608ecca25b7ee0f3f9c81a",
-  "FStringFlipTimeStampFastString": "2024-03-05T21:36:08.990Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-05T21:36:08.990Z"
+  "FStringFlagRepoGitHashFastString": "8deafb5ffc34df2f0e0e973f7322c1a1606cf685",
+  "DFStringFlagRepoGitHashDynamicString": "8deafb5ffc34df2f0e0e973f7322c1a1606cf685",
+  "FStringFlipTimeStampFastString": "2024-03-05T21:38:27.120Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-05T21:38:27.120Z"
 }
