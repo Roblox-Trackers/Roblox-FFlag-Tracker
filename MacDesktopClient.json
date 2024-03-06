@@ -10994,6 +10994,7 @@
   "FFlagSessionFixL1LifeCycle": "True",
   "FFlagVoiceChatRequestTurnServerBeforeJoinCapabilityEvent_Rollout": "True;60;2024-03-06T19:06:27",
   "FFlagPlatformEventEnabled2": "False",
+  "DFIntImmersiveAdViewableImpressionEventThrottleHundrethsPercent_Rollout": "10000;60;2024-03-06T19:33:11",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11295,8 +11296,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagEnableNavBarLabels3": "True",
-  "FStringFlagRepoGitHashFastString": "1ba3049eeedb6c76969d1fda583113e06ac09216",
-  "DFStringFlagRepoGitHashDynamicString": "1ba3049eeedb6c76969d1fda583113e06ac09216",
-  "FStringFlipTimeStampFastString": "2024-03-06T19:33:21.561Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-06T19:33:21.561Z"
+  "FStringFlagRepoGitHashFastString": "e5cc7c883775b33ae0e4a5beee7db6db75f2baa8",
+  "DFStringFlagRepoGitHashDynamicString": "e5cc7c883775b33ae0e4a5beee7db6db75f2baa8",
+  "FStringFlipTimeStampFastString": "2024-03-06T19:36:00.766Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-06T19:36:00.766Z"
 }
