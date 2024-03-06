@@ -4599,7 +4599,7 @@
   "FFlagSupportOffCenterOriginCameraCleanUp": "True",
   "FFlagSupportOffCenterOriginClickDrag": "True",
   "FFlagSupportOffCenterOriginTriangleMeshComputeExtents": "True",
-  "DFFlagFlagRolloutTestDynamicBool3": "False",
+  "DFFlagFlagRolloutTestDynamicBool3": "True",
   "FFlagFlagRolloutTestStaticBool0": "False",
   "FFlagFlagRolloutTestStaticBool1": "True",
   "FFlagFlagRolloutTestStaticBool3": "False",
@@ -10986,7 +10986,6 @@
   "DFFlagEnableMeasureAllVisibilityRequirements": "True",
   "DFFlagMemoryStoreHandleGenericErrors": "True",
   "FFlagLuaAppScrollTelemetryHorizontalConsole": "True",
-  "DFFlagFlagRolloutTestDynamicBool3_Rollout": "True;60;2024-03-06T18:31:23",
   "DFIntImmersiveAdLoadEventThrottleHundrethsPercent_Rollout": "10000;60;2024-03-06T18:53:19",
   "FFlagSessionFixL1LifeCycle": "True",
   "FFlagVoiceChatRequestTurnServerBeforeJoinCapabilityEvent_Rollout": "True;60;2024-03-06T19:06:27",
@@ -11289,8 +11288,8 @@
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "7752eae9baa5946e6fc58d8c8373a0c5a6e68f6d",
-  "DFStringFlagRepoGitHashDynamicString": "7752eae9baa5946e6fc58d8c8373a0c5a6e68f6d",
-  "FStringFlipTimeStampFastString": "2024-03-06T20:05:56.868Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-06T20:05:56.868Z"
+  "FStringFlagRepoGitHashFastString": "c307a23eb854f0d582951244f48e94eb3569e1a0",
+  "DFStringFlagRepoGitHashDynamicString": "c307a23eb854f0d582951244f48e94eb3569e1a0",
+  "FStringFlipTimeStampFastString": "2024-03-06T20:10:38.174Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-06T20:10:38.174Z"
 }
