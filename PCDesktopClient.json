@@ -10990,6 +10990,8 @@
   "DFFlagFlagRolloutTestDynamicBool3_Rollout": "True;60;2024-03-06T18:31:23",
   "DFIntSimMidPhaseContactPipelineBatchSize_Rollout": "10;30;2024-03-06T18:31:27",
   "DFIntImmersiveAdLoadEventThrottleHundrethsPercent_Rollout": "10000;60;2024-03-06T18:53:19",
+  "FIntStudioNewPlaceUploadSaveRolloutHundredthPercent_Rollout": "7500;30;2024-03-06T18:56:32",
+  "FIntStudioNewPlaceUploadPublishRolloutHundredthPercent_Rollout": "2500;30;2024-03-06T18:56:45",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11284,8 +11286,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagEnableNavBarLabels3": "True",
-  "FStringFlagRepoGitHashFastString": "97f9a93b2f76476630024b1881265e085645f331",
-  "DFStringFlagRepoGitHashDynamicString": "97f9a93b2f76476630024b1881265e085645f331",
-  "FStringFlipTimeStampFastString": "2024-03-06T18:55:35.539Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-06T18:55:35.539Z"
+  "FStringFlagRepoGitHashFastString": "ae9f6b014a12e22108e75b029327e48a5d820960",
+  "DFStringFlagRepoGitHashDynamicString": "ae9f6b014a12e22108e75b029327e48a5d820960",
+  "FStringFlipTimeStampFastString": "2024-03-06T18:59:57.591Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-06T18:59:57.591Z"
 }
