@@ -10977,7 +10977,6 @@
   "FFlagPlayerContextualMenuGameJoinAttribution": "True",
   "DFFlagFrameTimeJitter": "True",
   "FFlagTextBoxKeepCursorInView": "True",
-  "DFFlagCLI95175_Rollout": "True;60;2024-03-05T23:11:59",
   "FFlagUpdateFriendLabelOnChange": "True",
   "FFlagFix10ftMenuAddFriend": "True",
   "FFlagOpenPlayersFromGamepad": "True",
@@ -10987,6 +10986,7 @@
   "FFlagStudioTasksThreadGroup": "True",
   "FFlagUIBloxUseTokensWithScale": "True",
   "DFFlagMemoryStoreHandleGenericErrors_Rollout": "True;60;2024-03-06T00:32:08",
+  "DFFlagCLI95175": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11288,8 +11288,8 @@
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
   "FFlagEnableNavBarLabels3": "True",
-  "FStringFlagRepoGitHashFastString": "23a09816763c76bc7b3f2759fbf3ed79ec0632b9",
-  "DFStringFlagRepoGitHashDynamicString": "23a09816763c76bc7b3f2759fbf3ed79ec0632b9",
-  "FStringFlipTimeStampFastString": "2024-03-06T00:35:45.244Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-06T00:35:45.244Z"
+  "FStringFlagRepoGitHashFastString": "a67fac42dc82166d44d60a5d613f516ed75d3050",
+  "DFStringFlagRepoGitHashDynamicString": "a67fac42dc82166d44d60a5d613f516ed75d3050",
+  "FStringFlipTimeStampFastString": "2024-03-06T00:45:52.048Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-06T00:45:52.048Z"
 }
