@@ -10997,6 +10997,8 @@
   "DFFlagMemoryStoreUseInternalForInvalidServiceJsonResponse_Rollout": "True;60;2024-03-06T21:01:07",
   "FFlagShutdownCamerasBeforeWindowIsClosed_Rollout": "True;30;2024-03-06T21:01:11",
   "DFIntImmersiveAdViewableImpressionEventThrottleHundrethsPercent": "10000",
+  "DFIntLuaRequireCountEventThrottleHundredthsPercent": "100",
+  "FFlagLuaRequireCountEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11191,8 +11193,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "c3e0757311a3024406b534fe918388c9d77515fe",
-  "DFStringFlagRepoGitHashDynamicString": "c3e0757311a3024406b534fe918388c9d77515fe",
-  "FStringFlipTimeStampFastString": "2024-03-06T21:15:49.650Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-06T21:15:49.650Z"
+  "FStringFlagRepoGitHashFastString": "403ef7798bd80def2ba58f0320aa8b37a01fe1ac",
+  "DFStringFlagRepoGitHashDynamicString": "403ef7798bd80def2ba58f0320aa8b37a01fe1ac",
+  "FStringFlipTimeStampFastString": "2024-03-06T21:22:01.173Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-06T21:22:01.173Z"
 }
