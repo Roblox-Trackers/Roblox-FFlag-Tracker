@@ -10995,6 +10995,8 @@
   "DFIntImmersiveAdLoadEventThrottleHundrethsPercent": "10000",
   "FFlagVoiceChatRequestTurnServerBeforeJoinCapabilityEvent": "True",
   "FFlagEnableTelemetryProtocol": "True",
+  "DFFlagMemoryStoreUseInternalForInvalidServiceJsonResponse_Rollout": "True;60;2024-03-06T21:01:07",
+  "FFlagShutdownCamerasBeforeWindowIsClosed_Rollout": "True;30;2024-03-06T21:01:11",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11291,8 +11293,8 @@
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "f61cdced5b017c98b3d398baf942b6f1374c5162",
-  "DFStringFlagRepoGitHashDynamicString": "f61cdced5b017c98b3d398baf942b6f1374c5162",
-  "FStringFlipTimeStampFastString": "2024-03-06T21:00:40.394Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-06T21:00:40.394Z"
+  "FStringFlagRepoGitHashFastString": "62702d128bd60cd831dc2e1eb79e18403f6ca344",
+  "DFStringFlagRepoGitHashDynamicString": "62702d128bd60cd831dc2e1eb79e18403f6ca344",
+  "FStringFlipTimeStampFastString": "2024-03-06T21:05:45.732Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-06T21:05:45.732Z"
 }
