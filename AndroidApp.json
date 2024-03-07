@@ -4610,7 +4610,7 @@
   "FStringFlagRolloutTestStaticString7": "test",
   "DFFlagDoesNotExistAtAll": "False",
   "DFFlagFlagRolloutTestDynamicBool1": "True",
-  "DFFlagFlagRolloutTestDynamicBool2": "True",
+  "DFFlagFlagRolloutTestDynamicBool2": "False",
   "DFFlagFlagRolloutTestDynamicBool5": "True",
   "FFlagFlagRolloutTestStaticBool7": "False",
   "FFlagFlagRolloutTestStaticBool8": "True",
@@ -10995,7 +10995,6 @@
   "DFFlagMemoryStoreUseInternalForInvalidServiceJsonResponse": "True",
   "FFlagUserResizeAwareTouchControls": "False",
   "FFlagInteractableStateForGuiObjects3_PlaceFilter": "True;5141682374",
-  "DFFlagFlagRolloutTestDynamicBool2_Rollout": "False;60;2024-03-07T00:43:29",
   "FFlagEnableViewabilityReporting": "True",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-03-07T00:54:55",
   "AllowVideoPreRoll": "True",
@@ -11410,8 +11409,8 @@
   "EnableIrisUpdatedCallingNotificationCompat": "False",
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
-  "FStringFlagRepoGitHashFastString": "3af24af8c356be050ef1fe2ab3e7c71600002e7f",
-  "DFStringFlagRepoGitHashDynamicString": "3af24af8c356be050ef1fe2ab3e7c71600002e7f",
-  "FStringFlipTimeStampFastString": "2024-03-07T01:30:49.547Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-07T01:30:49.547Z"
+  "FStringFlagRepoGitHashFastString": "56e18b733d6a5fc7aad153db46ff14039f7d5572",
+  "DFStringFlagRepoGitHashDynamicString": "56e18b733d6a5fc7aad153db46ff14039f7d5572",
+  "FStringFlipTimeStampFastString": "2024-03-07T02:20:38.869Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-07T02:20:38.869Z"
 }
