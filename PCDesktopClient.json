@@ -10998,8 +10998,6 @@
   "FFlagEnableViewabilityReporting": "True",
   "FIntLuauCodeGenMaxTotalSize": "33554432",
   "FFlagLuaAppShowPillContainsStrongLanguageContent": "True",
-  "DFIntParallelBroadPhaseNewBatchCount_Rollout": "4;60;2024-03-07T18:28:39",
-  "DFFlagHttpReportDcHeaders_Rollout": "True;60;2024-03-07T18:28:45",
   "FFlagGuiHidingApiSupport2": "True",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-03-07T19:06:52",
   "FFlagStudioCloseStartPageAtPlaceOpen2": "True",
@@ -11007,6 +11005,10 @@
   "FFlagSimCSGV3FixPreTransform_Rollout": "True;60;2024-03-07T19:43:35",
   "FFlagClearNodesAboveLowerTorso_Rollout": "True;60;2024-03-07T19:47:22",
   "FFlagEnableVideoAdsReportingFullLaunch_Rollout": "True;60;2024-03-07T19:51:22",
+  "DFFlagHttpReportDcHeaders": "True",
+  "DFIntParallelBroadPhaseNewBatchCount": "4",
+  "FIntUserActivityActionsNeeded_Rollout": "4;60;2024-03-07T20:01:59",
+  "DFFlagDomainAllowListEnabled_Rollout": "True;60;2024-03-07T20:02:03",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11302,8 +11304,8 @@
   "FFlagSelfViewCameraSettings": "True",
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
-  "FStringFlagRepoGitHashFastString": "48dcd7b1bb571f726dfb4cb48ae6981aecdb3ef6",
-  "DFStringFlagRepoGitHashDynamicString": "48dcd7b1bb571f726dfb4cb48ae6981aecdb3ef6",
-  "FStringFlipTimeStampFastString": "2024-03-07T20:00:49.426Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-07T20:00:49.426Z"
+  "FStringFlagRepoGitHashFastString": "a25374dfe60213908dc877210ab0332c524ad119",
+  "DFStringFlagRepoGitHashDynamicString": "a25374dfe60213908dc877210ab0332c524ad119",
+  "FStringFlipTimeStampFastString": "2024-03-07T20:05:12.908Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-07T20:05:12.908Z"
 }
