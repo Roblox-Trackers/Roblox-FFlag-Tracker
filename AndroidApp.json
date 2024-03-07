@@ -5954,7 +5954,7 @@
   "FFlagEnableSurveyPrompts": "True",
   "FFlagEnableSurveyTextCustomization": "True",
   "FFlagAppShellMutedErrorOnBadUserThumbnail": "True",
-  "DFFlagLogSystemSinkSupport2": "False",
+  "DFFlagLogSystemSinkSupport2": "True",
   "FFlagCloudTestFetchTimeoutFInt": "True",
   "FFlagDetectGltfJoints": "False",
   "DFFlagControllerManagerBetterDirections": "True",
@@ -11422,9 +11422,8 @@
   "EnableIrisUpdatedCallingNotificationCompat": "False",
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
-  "DFFlagLogSystemSinkSupport2_Rollout": "True;60;2024-03-07T20:39:16",
-  "FStringFlagRepoGitHashFastString": "052b845e018cf65dd6e4e23dba66e14fbe0461ce",
-  "DFStringFlagRepoGitHashDynamicString": "052b845e018cf65dd6e4e23dba66e14fbe0461ce",
-  "FStringFlipTimeStampFastString": "2024-03-07T22:10:35.984Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-07T22:10:35.984Z"
+  "FStringFlagRepoGitHashFastString": "e265c12ce8f742c6aeb1ea61791eae5e82debc73",
+  "DFStringFlagRepoGitHashDynamicString": "e265c12ce8f742c6aeb1ea61791eae5e82debc73",
+  "FStringFlipTimeStampFastString": "2024-03-07T22:12:53.974Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-07T22:12:53.974Z"
 }
