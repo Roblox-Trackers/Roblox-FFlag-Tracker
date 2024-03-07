@@ -11008,6 +11008,7 @@
   "FIntUserActivityActionsNeeded_Rollout": "4;60;2024-03-07T20:01:59",
   "DFFlagDomainAllowListEnabled_Rollout": "True;60;2024-03-07T20:02:03",
   "FFlagEnableTelemetryProtocol": "True",
+  "FFlagEnableAsyncAttestationTokenRetrieval": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11386,8 +11387,8 @@
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagEnablePushNotificationPromptExperiment": "True",
-  "FStringFlagRepoGitHashFastString": "00ca664b49974a658733dc73b0e1aea1e755bd6a",
-  "DFStringFlagRepoGitHashDynamicString": "00ca664b49974a658733dc73b0e1aea1e755bd6a",
-  "FStringFlipTimeStampFastString": "2024-03-07T20:31:09.005Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-07T20:31:09.005Z"
+  "FStringFlagRepoGitHashFastString": "97ec53bd45132da87dc00977d757bb51770ab051",
+  "DFStringFlagRepoGitHashDynamicString": "97ec53bd45132da87dc00977d757bb51770ab051",
+  "FStringFlipTimeStampFastString": "2024-03-07T20:32:19.015Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-07T20:32:19.015Z"
 }
