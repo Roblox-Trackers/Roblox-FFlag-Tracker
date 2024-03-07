@@ -10767,7 +10767,7 @@
   "DFIntVideoVisibilityPlaceSessionIdThrottleHundredthsPercent": "2",
   "FFlagVideoReportVisibilityFilterByPlaceSessionId": "False",
   "FFlagVideoCMCDIsPlaying": "True",
-  "FIntTextFilterV2ApiHundredthPercent": "2500",
+  "FIntTextFilterV2ApiHundredthPercent": "10000",
   "FFlagRenderFixMissingTrailShaders": "True",
   "DFFlagOptimizeSleepStateTransitions": "True",
   "FFlagInferOOMWithPossibleOOM": "True",
@@ -10996,7 +10996,6 @@
   "FFlagUserResizeAwareTouchControls": "False",
   "FFlagInteractableStateForGuiObjects3_PlaceFilter": "True;5141682374",
   "FFlagEnableViewabilityReporting": "True",
-  "FIntTextFilterV2ApiHundredthPercent_Rollout": "10000;60;2024-03-07T17:34:25",
   "FFlagStudioCloseStartPageAtPlaceOpen2_Rollout": "True;60;2024-03-07T17:36:50",
   "FIntLuauCodeGenMaxTotalSize": "33554432",
   "FIntNewDockingBetaFeatureRolloutPercent_Rollout": "5;60;2024-03-07T17:51:08",
@@ -11005,6 +11004,7 @@
   "DFFlagHttpReportDcHeaders_Rollout": "True;60;2024-03-07T18:28:45",
   "FFlagGuiHidingApiSupport2": "True",
   "DFFlagFlagRolloutTestDynamicBool2_Rollout": "True;15;2024-03-07T18:50:33",
+  "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-03-07T19:06:52",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11307,8 +11307,8 @@
   "FFlagSelfViewCameraSettings": "True",
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
-  "FStringFlagRepoGitHashFastString": "e05c52722eee0795c0c97c1bdd574dfc37481c02",
-  "DFStringFlagRepoGitHashDynamicString": "e05c52722eee0795c0c97c1bdd574dfc37481c02",
-  "FStringFlipTimeStampFastString": "2024-03-07T19:05:32.173Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-07T19:05:32.173Z"
+  "FStringFlagRepoGitHashFastString": "d86a0761e9a5365a6601ee9e37f6188afddf47eb",
+  "DFStringFlagRepoGitHashDynamicString": "d86a0761e9a5365a6601ee9e37f6188afddf47eb",
+  "FStringFlipTimeStampFastString": "2024-03-07T19:10:37.381Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-07T19:10:37.381Z"
 }
