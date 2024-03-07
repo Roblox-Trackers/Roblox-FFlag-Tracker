@@ -11000,7 +11000,6 @@
   "FIntNewDockingBetaFeatureRolloutPercent": "5",
   "DFFlagHttpReportDcHeaders": "True",
   "FFlagEnableTelemetryProtocol": "True",
-  "FFlagStudioNoQmlAtLogin_Rollout": "True;60;2024-03-07T21:13:18",
   "FFlagSimCSGV3FixPreTransform": "True",
   "FFlagClearNodesAboveLowerTorso": "True",
   "FFlagEnableVideoAdsReportingFullLaunch": "True",
@@ -11010,6 +11009,7 @@
   "FFlagRefactorPlayerContextualMenuForContacts": "True",
   "FFlagFixControllerBarButtonNames": "True",
   "FFlagVoiceChatCheckRecordingPermission_Rollout": "True;60;2024-03-07T22:18:20",
+  "FFlagStudioNoQmlAtLogin": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11204,8 +11204,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "45b84524be79a1058cc2560dd3086f8feb414086",
-  "DFStringFlagRepoGitHashDynamicString": "45b84524be79a1058cc2560dd3086f8feb414086",
-  "FStringFlipTimeStampFastString": "2024-03-07T22:40:24.153Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-07T22:40:24.153Z"
+  "FStringFlagRepoGitHashFastString": "70dea1d17f2fb29419896312c654be532a8e4bdd",
+  "DFStringFlagRepoGitHashDynamicString": "70dea1d17f2fb29419896312c654be532a8e4bdd",
+  "FStringFlipTimeStampFastString": "2024-03-07T22:47:59.085Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-07T22:47:59.085Z"
 }
