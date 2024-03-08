@@ -11016,7 +11016,6 @@
   "FFlagLuaAppUseSortsWithDividersFString2": "True",
   "FFlagLuaAppUseTooltipsFromSort": "True",
   "DFFlagLuauCodeGenCoverForgprepEffect": "True",
-  "DFIntReportHopperbinUsageThrottle_Rollout": "10000;30;2024-03-08T18:37:27",
   "FFlagFlagRolloutTestStaticBool7_Rollout": "True;60;2024-03-08T18:38:11",
   "FFlagLuaFixPushNotificationToChat": "True",
   "FFlagMoveChatEventReceiver2": "True",
@@ -11036,6 +11035,7 @@
   "FFlagLuaAppYoutubeNoCookie": "True",
   "FFlagReportDraggerInstanceUsage_Rollout": "True;30;2024-03-08T19:36:10",
   "FFlagOverlappingRemoteNameTags_Rollout": "True;30;2024-03-08T19:38:54",
+  "DFIntReportHopperbinUsageThrottle": "10000",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11335,8 +11335,8 @@
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagReportHopperBinUsage": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "eb8e211a4619917cf939a3d11358a681333fbfb4",
-  "DFStringFlagRepoGitHashDynamicString": "eb8e211a4619917cf939a3d11358a681333fbfb4",
-  "FStringFlipTimeStampFastString": "2024-03-08T19:40:43.884Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-08T19:40:43.884Z"
+  "FStringFlagRepoGitHashFastString": "aa9aa652a4e345a838a0cd42cdc4c69a081127e8",
+  "DFStringFlagRepoGitHashDynamicString": "aa9aa652a4e345a838a0cd42cdc4c69a081127e8",
+  "FStringFlipTimeStampFastString": "2024-03-08T19:45:39.780Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-08T19:45:39.780Z"
 }
