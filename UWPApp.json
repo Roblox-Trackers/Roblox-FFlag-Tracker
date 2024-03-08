@@ -11027,6 +11027,8 @@
   "DFFlagLuauCodeGenCoverForgprepEffect": "True",
   "DFIntReportHopperbinUsageThrottle_Rollout": "10000;30;2024-03-08T18:37:27",
   "FFlagFlagRolloutTestStaticBool7_Rollout": "True;60;2024-03-08T18:38:11",
+  "FFlagLuaFixPushNotificationToChat": "True",
+  "FFlagMoveChatEventReceiver2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11221,8 +11223,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "1438822300be1e0d8eaa45611046b7c6e9b5825d",
-  "DFStringFlagRepoGitHashDynamicString": "1438822300be1e0d8eaa45611046b7c6e9b5825d",
-  "FStringFlipTimeStampFastString": "2024-03-08T18:39:01.825Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-08T18:39:01.825Z"
+  "FStringFlagRepoGitHashFastString": "b15381c6731cd37077accbee030890ab5e541e99",
+  "DFStringFlagRepoGitHashDynamicString": "b15381c6731cd37077accbee030890ab5e541e99",
+  "FStringFlipTimeStampFastString": "2024-03-08T18:40:52.144Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-08T18:40:52.144Z"
 }
