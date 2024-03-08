@@ -11010,6 +11010,7 @@
   "FFlagStudioNoQmlAtLogin": "True",
   "FFlagVoiceChatCheckRecordingPermission": "True",
   "DFFlagAudioGraphNewApiTraversal_Rollout": "True;60;2024-03-07T23:53:53",
+  "FFlagSimSolverOptimizeNoConstraintIslands_Rollout": "True;60;2024-03-07T23:58:03",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11309,8 +11310,8 @@
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagReportHopperBinUsage": "True",
-  "FStringFlagRepoGitHashFastString": "b87d0ea03feebff9c10f5a19f1fc5fe05224df14",
-  "DFStringFlagRepoGitHashDynamicString": "b87d0ea03feebff9c10f5a19f1fc5fe05224df14",
-  "FStringFlipTimeStampFastString": "2024-03-07T23:55:37.223Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-07T23:55:37.223Z"
+  "FStringFlagRepoGitHashFastString": "19b64d337fd8dc4a2d8478c3403e9e0b60c6783c",
+  "DFStringFlagRepoGitHashDynamicString": "19b64d337fd8dc4a2d8478c3403e9e0b60c6783c",
+  "FStringFlipTimeStampFastString": "2024-03-07T23:59:43.335Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-07T23:59:43.335Z"
 }
