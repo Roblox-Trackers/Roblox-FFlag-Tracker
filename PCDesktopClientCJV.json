@@ -4610,7 +4610,7 @@
   "FStringFlagRolloutTestStaticString7": "April_11_test",
   "DFFlagDoesNotExistAtAll": "False",
   "DFFlagFlagRolloutTestDynamicBool1": "False",
-  "DFFlagFlagRolloutTestDynamicBool2": "False",
+  "DFFlagFlagRolloutTestDynamicBool2": "True",
   "DFFlagFlagRolloutTestDynamicBool5": "False",
   "FFlagFlagRolloutTestStaticBool7": "True",
   "FFlagFlagRolloutTestStaticBool8": "False",
@@ -11009,7 +11009,6 @@
   "DFFlagVoiceChatNoRecursiveLocking": "True",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "True;60;2024-03-09T01:38:28",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-03-09T01:38:28",
-  "DFFlagFlagRolloutTestDynamicBool2_Rollout": "True;30;2024-03-09T01:38:28",
   "DFFlagFlagRolloutTestDynamicBool4_Rollout": "False;60;2024-03-09T01:38:28",
   "DFFlagFlagRolloutTestDynamicBool5_Rollout": "True;60;2024-03-09T01:38:28",
   "DFFlagFlagRolloutTestDynamicBool6_Rollout": "False;60;2024-03-09T01:38:28",
@@ -11366,8 +11365,8 @@
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagReportHopperBinUsage": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "7fed886b46f10b0d8bef0cb4a2bfbfe2389ecaaa",
-  "DFStringFlagRepoGitHashDynamicString": "7fed886b46f10b0d8bef0cb4a2bfbfe2389ecaaa",
-  "FStringFlipTimeStampFastString": "2024-03-09T01:40:48.078Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-09T01:40:48.078Z"
+  "FStringFlagRepoGitHashFastString": "274f571fc75df694cf731dc6094cfaeacaaeb469",
+  "DFStringFlagRepoGitHashDynamicString": "274f571fc75df694cf731dc6094cfaeacaaeb469",
+  "FStringFlipTimeStampFastString": "2024-03-09T02:46:04.305Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-09T02:46:04.305Z"
 }
