@@ -10994,7 +10994,7 @@
   "FFlagLuaAppEventTileFooter": "True",
   "FFlagDisableChromeFollowupOcclusion": "True",
   "FFlagUserClearPanOnCameraDisable": "True",
-  "FStringLuaAppSortsWithDividers": "500000000, 500000001",
+  "FStringLuaAppSortsWithDividers": "500000000, 500000001, 400000000",
   "FFlagLuauExtendedSizeClasses": "True",
   "FFlagLuaAppSupportNavigationUniverseId2": "True",
   "FFlagLuaAppWideAssetIdForGame2": "True",
@@ -11087,6 +11087,7 @@
   "FFlagClientAvatarUsesColor3sForBodyParts7_Rollout": "True;60;2024-03-11T20:27:38",
   "DFIntMissingReplicationRootHundredths_Rollout": "100;60;2024-03-11T20:28:16",
   "FFlagModelPreviewThumbnailFallback": "True",
+  "FFlagLuaAppUpdateNotificationBadgeCountEnabled": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11466,8 +11467,8 @@
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagEnablePushNotificationPromptExperiment": "True",
   "FFlagPlatformEventEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "2306d4ebe65b8fa8b491096f68c8f19622bcac80",
-  "DFStringFlagRepoGitHashDynamicString": "2306d4ebe65b8fa8b491096f68c8f19622bcac80",
-  "FStringFlipTimeStampFastString": "2024-03-11T20:35:42.016Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T20:35:42.016Z"
+  "FStringFlagRepoGitHashFastString": "e5346bef97346f9f028f02f65189b6b0f520b225",
+  "DFStringFlagRepoGitHashDynamicString": "e5346bef97346f9f028f02f65189b6b0f520b225",
+  "FStringFlipTimeStampFastString": "2024-03-11T20:43:18.379Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T20:43:18.379Z"
 }
