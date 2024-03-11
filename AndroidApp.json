@@ -11035,9 +11035,7 @@
   "DFFlagStreamingBooleanIteration3": "False",
   "FFlagLuaAppGridTilesUIPolish": "True",
   "FFlagUserAddBetterConsoleCheckForLegacyChat": "True",
-  "FFlagExplorerItemIconQueryTaskCrashFix_Rollout": "True;60;2024-03-11T17:36:24",
   "FFlagUseSecureNSKeyedArchiver": "True",
-  "DFFlagFixSymbolicationOnDarwin_Rollout": "True;60;2024-03-11T17:39:15",
   "FFlagDevFrameworkAssetRenderModelResetCameraPosition": "True",
   "FFlagSelectRibbonToolNone_Rollout": "True;60;2024-03-11T17:47:34",
   "FFlagVoiceChatFilterInvalidSubscribeeForPauseResume_Rollout": "True;60;2024-03-11T17:49:52",
@@ -11075,6 +11073,8 @@
   "FFlagFmodIosGetDeviceBusType2": "True",
   "FFlagEnableLocalizedPaths": "True",
   "DFFlagVideoMetricsUseAssetIdInVideoStream": "True",
+  "DFFlagFixSymbolicationOnDarwin": "True",
+  "FFlagExplorerItemIconQueryTaskCrashFix": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11488,8 +11488,8 @@
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagPlatformEventEnabled2": "True",
-  "FStringFlagRepoGitHashFastString": "f38add2b2f0f37650654e6996da906cd496c9c61",
-  "DFStringFlagRepoGitHashDynamicString": "f38add2b2f0f37650654e6996da906cd496c9c61",
-  "FStringFlipTimeStampFastString": "2024-03-11T19:10:40.030Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T19:10:40.030Z"
+  "FStringFlagRepoGitHashFastString": "e47544e28a9a4180ca5681911606a726fc1bb3dc",
+  "DFStringFlagRepoGitHashDynamicString": "e47544e28a9a4180ca5681911606a726fc1bb3dc",
+  "FStringFlipTimeStampFastString": "2024-03-11T19:15:29.454Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T19:15:29.454Z"
 }
