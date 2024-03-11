@@ -11050,6 +11050,7 @@
   "FFlagUseSecureNSKeyedArchiver": "True",
   "DFFlagFixSymbolicationOnDarwin_Rollout": "True;60;2024-03-11T17:39:15",
   "FFlagDevFrameworkAssetRenderModelResetCameraPosition": "True",
+  "FFlagSelectRibbonToolNone_Rollout": "True;60;2024-03-11T17:47:34",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11070,6 +11071,7 @@
   "FFlagDisableStudioSelectionFilterOnClient": "True",
   "FFlagGetHumanoidDescriptionUpdates": "True",
   "FFlagBuildInitialCacheFix": "True",
+  "FFlagPlatformEventEnabled2": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11355,8 +11357,8 @@
   "FFlagEnableNavBarLabels3": "True",
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagReportHopperBinUsage": "True",
-  "FStringFlagRepoGitHashFastString": "7c4b5a29ef7ff536d7f9ae6b101cf1a108e94763",
-  "DFStringFlagRepoGitHashDynamicString": "7c4b5a29ef7ff536d7f9ae6b101cf1a108e94763",
-  "FStringFlipTimeStampFastString": "2024-03-11T17:46:25.037Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T17:46:25.037Z"
+  "FStringFlagRepoGitHashFastString": "a111da29fdca628710d5a145528947d43b1e4bda",
+  "DFStringFlagRepoGitHashDynamicString": "a111da29fdca628710d5a145528947d43b1e4bda",
+  "FStringFlipTimeStampFastString": "2024-03-11T17:49:39.853Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T17:49:39.853Z"
 }
