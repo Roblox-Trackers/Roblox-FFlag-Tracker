@@ -11071,7 +11071,6 @@
   "FFlagSimCSG3FixConstraintsInvalidInputCrash": "True",
   "FFlagShareGameChatRemoved": "True",
   "FFlagSocialTabUserTileShimmerNameFix": "True",
-  "DFFlagLuauCodeGenIssueTelemetry_Rollout": "True;30;2024-03-11T19:37:11",
   "DFFlagRemoveNonFlagSideDistributionCheck": "True",
   "DFFlagFixAnimatorAttributeReads": "True",
   "FFlagApiDumperCapabilities_Rollout": "True;30;2024-03-11T19:53:32",
@@ -11088,6 +11087,7 @@
   "DFIntMissingReplicationRootHundredths_Rollout": "100;60;2024-03-11T20:28:16",
   "FFlagModelPreviewThumbnailFallback": "True",
   "FFlagLuaAppUpdateNotificationBadgeCountEnabled": "True",
+  "DFFlagLuauCodeGenIssueTelemetry": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11388,8 +11388,8 @@
   "FFlagXboxImprovedCrashCollection": "True",
   "FFlagXboxLastKnownStateImprovements": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FStringFlagRepoGitHashFastString": "e5346bef97346f9f028f02f65189b6b0f520b225",
-  "DFStringFlagRepoGitHashDynamicString": "e5346bef97346f9f028f02f65189b6b0f520b225",
-  "FStringFlipTimeStampFastString": "2024-03-11T20:43:18.379Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T20:43:18.379Z"
+  "FStringFlagRepoGitHashFastString": "4d72c8692216e162acbec8e45a126f1c1c19a18d",
+  "DFStringFlagRepoGitHashDynamicString": "4d72c8692216e162acbec8e45a126f1c1c19a18d",
+  "FStringFlipTimeStampFastString": "2024-03-11T20:43:28.989Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T20:43:28.989Z"
 }
