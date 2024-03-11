@@ -11092,8 +11092,6 @@
   "FFlagAvatarPreviewerEquippedPaletteTooltip": "True",
   "FFlagAvatarPreviewerMakeGeoCaseInsensitive": "True",
   "FFlagAvatarPreviewerRemoveItemsFromPalette2": "True",
-  "FFlagCAPScrollBarNoLongerDisappears_Rollout": "True;60;2024-03-11T21:25:23",
-  "FFlagCAPUpdateDefaultThumbnail_Rollout": "True;60;2024-03-11T21:26:34",
   "FFlagUICoalesceParam_Rollout": "True;60;2024-03-11T21:41:00",
   "FFlagEnableAuthStatefulTextInputUpdatesRelease1": "True",
   "FFlagEnableSignupPlaceholderColorFixRelease1": "True",
@@ -11114,6 +11112,8 @@
   "FFlagHttpWrapperAddDebugOverrideURLOption": "True",
   "FFlagStudioCleanupDeprecatedEnabledBFIds": "True",
   "FFlagUseWriteSafeAttributeForCustomCrashDetails": "True",
+  "FFlagCAPScrollBarNoLongerDisappears": "True",
+  "FFlagCAPUpdateDefaultThumbnail": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11414,8 +11414,8 @@
   "FFlagReportHopperBinUsage": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "b1b758882fc5bb29c061e045f41db450be665abe",
-  "DFStringFlagRepoGitHashDynamicString": "b1b758882fc5bb29c061e045f41db450be665abe",
-  "FStringFlipTimeStampFastString": "2024-03-11T23:00:51.869Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T23:00:51.869Z"
+  "FStringFlagRepoGitHashFastString": "5b9f3294807f0af5904e093c96f8ce1265203028",
+  "DFStringFlagRepoGitHashDynamicString": "5b9f3294807f0af5904e093c96f8ce1265203028",
+  "FStringFlipTimeStampFastString": "2024-03-11T23:04:17.724Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T23:04:17.724Z"
 }
