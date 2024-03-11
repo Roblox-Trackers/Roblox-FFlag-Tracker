@@ -11032,12 +11032,10 @@
   "FStringFlagRolloutTestStaticString5": "Static03072024",
   "FStringFlagRolloutTestStaticString6": "Static03072024",
   "FStringFlagRolloutTestStaticString8": "Static03072024",
-  "DFFlagDisableAAIfV_Rollout": "True;60;2024-03-11T16:31:58",
   "DFFlagStreamingBooleanIteration3": "False",
   "FFlagLuaAppGridTilesUIPolish": "True",
   "FFlagSimAdaptiveArbiterModelSlotReset_Rollout": "True;60;2024-03-11T16:54:20",
   "FFlagSanitizeDevicePiiFix_Rollout": "True;60;2024-03-11T16:59:19",
-  "FFlagVideoCMCDFormatName_Rollout": "True;30;2024-03-11T17:04:49",
   "FFlagPWClearSelectionDataFix_Rollout": "True;60;2024-03-11T17:07:11",
   "FFlagUserAddBetterConsoleCheckForLegacyChat": "True",
   "DFFlagVideoFixResetOrder_Rollout": "True;60;2024-03-11T17:22:42",
@@ -11058,6 +11056,7 @@
   "FFlagEnableRefreshRateGuard": "True",
   "DFFlagSimAssemblyHistoryDeviationFix_Rollout": "True;60;2024-03-11T17:54:56",
   "FFlagCinFixMergedMeshPivot": "True",
+  "FFlagVideoCMCDFormatName": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11358,8 +11357,8 @@
   "FFlagXboxImprovedCrashCollection": "True",
   "FFlagXboxLastKnownStateImprovements": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout_Rollout": "True;30;2024-03-11T17:55:01",
-  "FStringFlagRepoGitHashFastString": "8a22fb792608e601dff8ba26536e4eabe8097915",
-  "DFStringFlagRepoGitHashDynamicString": "8a22fb792608e601dff8ba26536e4eabe8097915",
-  "FStringFlipTimeStampFastString": "2024-03-11T18:05:29.521Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T18:05:29.521Z"
+  "FStringFlagRepoGitHashFastString": "348e32f7b869201a839f63cddfba85488429245f",
+  "DFStringFlagRepoGitHashDynamicString": "348e32f7b869201a839f63cddfba85488429245f",
+  "FStringFlipTimeStampFastString": "2024-03-11T18:07:15.469Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T18:07:15.469Z"
 }
