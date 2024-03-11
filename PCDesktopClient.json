@@ -11058,6 +11058,11 @@
   "FFlagCinFixMergedMeshPivot": "True",
   "FFlagVideoCMCDFormatName": "True",
   "DFFlagRemoveNonFlagSideDistributionCheck_Rollout": "True;60;2024-03-11T18:09:22",
+  "DFFlagRakNetUnblockSelectOnShutdownByWritingToSocket": "False",
+  "DFFlagRakNetUnblockSelectOnShutdownByWritingToSocket_DataCenterFilter": "True;283",
+  "DFFlagFixAnimatorAttributeReads_Rollout": "True;60;2024-03-11T18:13:56",
+  "DFIntLuaRequireCountEventThrottleHundredthsPercent": "10",
+  "FFlagLuaRequireCountEnabled": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11358,8 +11363,8 @@
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagReportHopperBinUsage": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout_Rollout": "True;30;2024-03-11T17:55:01",
-  "FStringFlagRepoGitHashFastString": "f67d8c08658b65b7a7f1e335797f21d3b29c12a9",
-  "DFStringFlagRepoGitHashDynamicString": "f67d8c08658b65b7a7f1e335797f21d3b29c12a9",
-  "FStringFlipTimeStampFastString": "2024-03-11T18:10:45.128Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T18:10:45.128Z"
+  "FStringFlagRepoGitHashFastString": "eec59ec284cbe6e6dc55c396d726b3a942bb00af",
+  "DFStringFlagRepoGitHashDynamicString": "eec59ec284cbe6e6dc55c396d726b3a942bb00af",
+  "FStringFlipTimeStampFastString": "2024-03-11T18:16:04.051Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T18:16:04.051Z"
 }
