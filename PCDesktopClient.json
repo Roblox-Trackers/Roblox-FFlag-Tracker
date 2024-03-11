@@ -10855,7 +10855,7 @@
   "DFIntOAuthExpiresInBufferSeconds": "180",
   "FFlagFixContactRecsFriendRequestLogging_v2": "True",
   "FFlagSimCSGV3FixSplitDisjointSolids": "True",
-  "DFFlagSimSolverLevitationImplicitSpring": "True",
+  "DFFlagSimSolverLevitationImplicitSpring": "False",
   "DFIntEngineAPICloudProcessingMaxPayloadSize": "500000",
   "FFlagLuaAppReplaceTableUtilities": "True",
   "DFFlagInvalidNumPropertyAssignCheckExt": "True",
@@ -11112,7 +11112,6 @@
   "FFlagUseWriteSafeAttributeForCustomCrashDetails": "True",
   "FFlagCAPScrollBarNoLongerDisappears": "True",
   "FFlagCAPUpdateDefaultThumbnail": "True",
-  "DFFlagSimSolverLevitationImplicitSpring_Rollout": "False;1;2024-03-11T23:04:12",
   "FFlagStudioReportUserBetaFeaturesToBacktrace_Rollout": "True;60;2024-03-11T23:09:18",
   "FFlagStudioBetaFeaturesNoLongerCheckGA_Rollout": "True;60;2024-03-11T23:09:55",
   "DFIntLogNonuniformSeparateHundredthsPercentage_Rollout": "0;30;2024-03-11T23:15:17",
@@ -11421,8 +11420,8 @@
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagReportHopperBinUsage": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FStringFlagRepoGitHashFastString": "bc0b2104eb9d517cac3608c830c8d79c3640ad6f",
-  "DFStringFlagRepoGitHashDynamicString": "bc0b2104eb9d517cac3608c830c8d79c3640ad6f",
-  "FStringFlipTimeStampFastString": "2024-03-11T23:45:38.625Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T23:45:38.625Z"
+  "FStringFlagRepoGitHashFastString": "025f2d8462fb900d6a474b674f26160df42d740c",
+  "DFStringFlagRepoGitHashDynamicString": "025f2d8462fb900d6a474b674f26160df42d740c",
+  "FStringFlipTimeStampFastString": "2024-03-11T23:45:47.165Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T23:45:47.165Z"
 }
