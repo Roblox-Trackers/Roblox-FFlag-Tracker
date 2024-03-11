@@ -11041,7 +11041,6 @@
   "FFlagEnableRefreshRateGuard": "True",
   "FFlagCinFixMergedMeshPivot": "True",
   "FFlagVideoCMCDFormatName": "True",
-  "DFFlagRemoveNonFlagSideDistributionCheck_Rollout": "True;60;2024-03-11T18:09:22",
   "DFFlagRakNetUnblockSelectOnShutdownByWritingToSocket": "False",
   "DFFlagRakNetUnblockSelectOnShutdownByWritingToSocket_DataCenterFilter": "True;283",
   "DFFlagFixAnimatorAttributeReads_Rollout": "True;60;2024-03-11T18:13:56",
@@ -11079,6 +11078,7 @@
   "FFlagShareGameChatRemoved": "True",
   "FFlagSocialTabUserTileShimmerNameFix": "True",
   "DFFlagLuauCodeGenIssueTelemetry_Rollout": "True;30;2024-03-11T19:37:11",
+  "DFFlagRemoveNonFlagSideDistributionCheck": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11273,8 +11273,8 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagLuaAppDisableSound": "True",
   "FFlagSelfViewCameraSettings": "True",
-  "FStringFlagRepoGitHashFastString": "f3933a080fc64200f661eded4541c2409fa9b578",
-  "DFStringFlagRepoGitHashDynamicString": "f3933a080fc64200f661eded4541c2409fa9b578",
-  "FStringFlipTimeStampFastString": "2024-03-11T19:40:54.745Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T19:40:54.745Z"
+  "FStringFlagRepoGitHashFastString": "4dbb8dcd933cbebb101ad27bdb845422292317ca",
+  "DFStringFlagRepoGitHashDynamicString": "4dbb8dcd933cbebb101ad27bdb845422292317ca",
+  "FStringFlipTimeStampFastString": "2024-03-11T19:45:28.513Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T19:45:28.513Z"
 }
