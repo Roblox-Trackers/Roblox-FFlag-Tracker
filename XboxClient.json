@@ -11037,8 +11037,6 @@
   "FFlagUserAddBetterConsoleCheckForLegacyChat": "True",
   "FFlagUseSecureNSKeyedArchiver": "True",
   "FFlagDevFrameworkAssetRenderModelResetCameraPosition": "True",
-  "FFlagSelectRibbonToolNone_Rollout": "True;60;2024-03-11T17:47:34",
-  "FFlagVoiceChatFilterInvalidSubscribeeForPauseResume_Rollout": "True;60;2024-03-11T17:49:52",
   "FFlagSimCSG3FixConstraintsInvalidInputCrash_Rollout": "True;60;2024-03-11T17:52:52",
   "DFIntReportVRRefreshRateChangeBelowLowerBoundThrottleHundrethsPercent": "10000",
   "FFlagEnableRefreshRateGuard": "True",
@@ -11075,6 +11073,8 @@
   "DFFlagVideoMetricsUseAssetIdInVideoStream": "True",
   "DFFlagFixSymbolicationOnDarwin": "True",
   "FFlagExplorerItemIconQueryTaskCrashFix": "True",
+  "FFlagVoiceChatFilterInvalidSubscribeeForPauseResume": "True",
+  "FFlagSelectRibbonToolNone": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11375,8 +11375,8 @@
   "FFlagXboxImprovedCrashCollection": "True",
   "FFlagXboxLastKnownStateImprovements": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FStringFlagRepoGitHashFastString": "8a86719294b7966779bcf7f146e1878c71464d33",
-  "DFStringFlagRepoGitHashDynamicString": "8a86719294b7966779bcf7f146e1878c71464d33",
-  "FStringFlipTimeStampFastString": "2024-03-11T19:20:40.918Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T19:20:40.918Z"
+  "FStringFlagRepoGitHashFastString": "cb59722e7aa6525ce9432ecda41e03b2f77e35fb",
+  "DFStringFlagRepoGitHashDynamicString": "cb59722e7aa6525ce9432ecda41e03b2f77e35fb",
+  "FStringFlipTimeStampFastString": "2024-03-11T19:24:04.946Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T19:24:04.946Z"
 }
