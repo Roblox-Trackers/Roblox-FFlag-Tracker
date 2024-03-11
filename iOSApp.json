@@ -11102,6 +11102,9 @@
   "FFlagHttpWrapperAddDebugOverrideURLOption_Rollout": "True;60;2024-03-11T21:24:36",
   "FFlagCAPScrollBarNoLongerDisappears_Rollout": "True;60;2024-03-11T21:25:23",
   "FFlagCAPUpdateDefaultThumbnail_Rollout": "True;60;2024-03-11T21:26:34",
+  "FFlagUICoalesceParam_Rollout": "True;60;2024-03-11T21:41:00",
+  "FFlagEnableAuthStatefulTextInputUpdatesRelease1": "True",
+  "FFlagEnableSignupPlaceholderColorFixRelease1": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11482,8 +11485,8 @@
   "FFlagEnablePushNotificationPromptExperiment": "True",
   "FFlagPlatformEventEnabled2": "True",
   "FFlagPasskeySignupEnabled": "True",
-  "FStringFlagRepoGitHashFastString": "90131803251dc78b47777ca19b42d82548728154",
-  "DFStringFlagRepoGitHashDynamicString": "90131803251dc78b47777ca19b42d82548728154",
-  "FStringFlipTimeStampFastString": "2024-03-11T21:30:30.191Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T21:30:30.191Z"
+  "FStringFlagRepoGitHashFastString": "5615ff34f591480089b8ebb82de98f2a382e11d0",
+  "DFStringFlagRepoGitHashDynamicString": "5615ff34f591480089b8ebb82de98f2a382e11d0",
+  "FStringFlipTimeStampFastString": "2024-03-11T21:44:23.921Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T21:44:23.921Z"
 }
