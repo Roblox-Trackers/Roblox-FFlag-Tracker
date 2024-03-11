@@ -11097,6 +11097,8 @@
   "FFlagAvatarPreviewerEquippedPaletteTooltip": "True",
   "FFlagAvatarPreviewerMakeGeoCaseInsensitive": "True",
   "FFlagAvatarPreviewerRemoveItemsFromPalette2": "True",
+  "FFlagStudioCleanupDeprecatedEnabledBFIds_Rollout": "True;60;2024-03-11T21:21:11",
+  "FFlagUseWriteSafeAttributeForCustomCrashDetails_Rollout": "True;60;2024-03-11T21:21:19",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11404,8 +11406,8 @@
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagReportHopperBinUsage": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FStringFlagRepoGitHashFastString": "b9702893ce85f7f33e1afa6878579f8ba28117f8",
-  "DFStringFlagRepoGitHashDynamicString": "b9702893ce85f7f33e1afa6878579f8ba28117f8",
-  "FStringFlipTimeStampFastString": "2024-03-11T21:23:22.045Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-11T21:23:22.045Z"
+  "FStringFlagRepoGitHashFastString": "3b7bc6365a8fc1c6dfd07eda7d054f081d939326",
+  "DFStringFlagRepoGitHashDynamicString": "3b7bc6365a8fc1c6dfd07eda7d054f081d939326",
+  "FStringFlipTimeStampFastString": "2024-03-11T21:24:50.597Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-11T21:24:50.597Z"
 }
