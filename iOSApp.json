@@ -11223,6 +11223,7 @@
   "FFlagStudioUpdateClassIconLocations_Rollout": "True;60;2024-03-12T22:40:55",
   "DFFlagRccOverridePlaceFetchTimeout": "True",
   "FFlagSimCSG3FixIncorrectDecalInTriangleCountOptimization": "True",
+  "DFFlagFixAccessViolationInOnFrameCpu": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
