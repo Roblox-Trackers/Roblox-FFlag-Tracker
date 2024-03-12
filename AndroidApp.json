@@ -7809,7 +7809,7 @@
   "FFlagEnableUGCUploadFlowAnalytics3": "True",
   "FFlagEnableStudioPlacePublishTelemetry": "True",
   "FFlagUGCValidationAddThumbnailFrustumCheckingv2": "True",
-  "FFlagAddFriendsIAExperiment_v2": "True",
+  "FFlagAddFriendsIAExperiment_v2": "False",
   "FFlagUseUpdatedModelToGetHumanoid": "True",
   "FFlagEnableEvaluateStateMachine3": "True",
   "DFFlagAddSessionIdToDisconnectEvent": "True",
@@ -11208,6 +11208,7 @@
   "FIntNewCSGAPIRenderingFlag_PlaceFilter": "2;16726230378",
   "FFlagOffCenterBlockCollision_Rollout": "True;60;2024-03-12T20:33:09",
   "FFlagNoPlayOnRemoveThroughTeleports": "True",
+  "DFIntAudioMetadataLimitCapacity_Rollout": "10;60;2024-03-12T20:53:21",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11623,8 +11624,8 @@
   "FFlagPlatformEventEnabled2": "True",
   "FFlagPasskeySignupEnabled": "True",
   "FFlagEnableSignupBirthdayExperimentsRelease2": "True",
-  "FStringFlagRepoGitHashFastString": "4fffa75d42a4d0460c1deaf05044d0a46ff13376",
-  "DFStringFlagRepoGitHashDynamicString": "4fffa75d42a4d0460c1deaf05044d0a46ff13376",
-  "FStringFlipTimeStampFastString": "2024-03-12T20:48:11.261Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-12T20:48:11.261Z"
+  "FStringFlagRepoGitHashFastString": "4b661ae64002da778637641b5b99a25fda47a555",
+  "DFStringFlagRepoGitHashDynamicString": "4b661ae64002da778637641b5b99a25fda47a555",
+  "FStringFlipTimeStampFastString": "2024-03-12T20:55:03.333Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-12T20:55:03.333Z"
 }
