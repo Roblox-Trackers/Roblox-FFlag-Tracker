@@ -11210,6 +11210,7 @@
   "FFlagNoPlayOnRemoveThroughTeleports": "True",
   "DFIntAudioMetadataLimitCapacity_Rollout": "10;60;2024-03-12T20:53:21",
   "DFIntAudioMetadataLimitDuration_Rollout": "1;60;2024-03-12T20:57:26",
+  "FFlagAudioMetadataUseNewService_Rollout": "True;60;2024-03-12T20:58:09",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11591,8 +11592,8 @@
   "FFlagPlatformEventEnabled2": "True",
   "FFlagPasskeySignupEnabled": "True",
   "FFlagEnableSignupBirthdayExperimentsRelease2": "True",
-  "FStringFlagRepoGitHashFastString": "f7b74c23d55027c4dad4cbfbe2796a0f7abeb2c3",
-  "DFStringFlagRepoGitHashDynamicString": "f7b74c23d55027c4dad4cbfbe2796a0f7abeb2c3",
-  "FStringFlipTimeStampFastString": "2024-03-12T20:58:04.429Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-12T20:58:04.429Z"
+  "FStringFlagRepoGitHashFastString": "9b407e1c486473729e5e86d2d0adc72cfb199cd4",
+  "DFStringFlagRepoGitHashDynamicString": "9b407e1c486473729e5e86d2d0adc72cfb199cd4",
+  "FStringFlipTimeStampFastString": "2024-03-12T20:58:58.799Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-12T20:58:58.799Z"
 }
