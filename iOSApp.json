@@ -10270,7 +10270,7 @@
   "FFlagUWPRemoveIxpInitialization": "True",
   "FFlagCinFixCageGeoMatch": "True",
   "FFlagUniversalAppCameraWindowsPermsFix": "True",
-  "FFlagMoveToSTFSM": "False",
+  "FFlagMoveToSTFSM": "True",
   "FStringDSAReportingAndTransparencyOverrideUserIds": "",
   "FFlagVoiceChatAuditLocksForFlagCleanUp": "True",
   "FFlagUseOrientationPlayerGuiIOS": "True",
@@ -11202,7 +11202,6 @@
   "FFlagRuntimeErrorSafeFormatOverload": "True",
   "DFFlagFileMeshDataTelemetry": "True",
   "DFFlagEnableSubscriptionDetails2": "True",
-  "FFlagMoveToSTFSM_Rollout": "True;60;2024-03-12T20:18:21",
   "FFlagSimCSG3RejectNonArchivable_PlaceFilter": "True;16726230378",
   "FIntNewCSGAPIRenderingFlag_PlaceFilter": "2;16726230378",
   "FFlagOffCenterBlockCollision_Rollout": "True;60;2024-03-12T20:33:09",
@@ -11600,8 +11599,8 @@
   "FFlagPasskeySignupEnabled": "True",
   "FFlagEnableSignupBirthdayExperimentsRelease2": "True",
   "DFIntInterpolationDtLimitForLod_PlaceFilter": "10;8481844229;11121070436",
-  "FStringFlagRepoGitHashFastString": "ef39751d418b235cfe388af9f7298abab6681c62",
-  "DFStringFlagRepoGitHashDynamicString": "ef39751d418b235cfe388af9f7298abab6681c62",
-  "FStringFlipTimeStampFastString": "2024-03-12T21:50:42.092Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-12T21:50:42.092Z"
+  "FStringFlagRepoGitHashFastString": "c10a7329aadb4b175924f0d7a4b312d364716b04",
+  "DFStringFlagRepoGitHashDynamicString": "c10a7329aadb4b175924f0d7a4b312d364716b04",
+  "FStringFlipTimeStampFastString": "2024-03-12T21:59:18.977Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-12T21:59:18.977Z"
 }
