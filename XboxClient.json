@@ -1051,10 +1051,10 @@
   "FFlagLuaAppUsingSecurityQuestionsForLuaLogin2": "True",
   "FFlagRenderReportOutOfMemory": "False",
   "FIntRenderReportOutOfMemoryHundredthPercent": "500",
-  "DFIntWaitOnUpdateNetworkLoopEndedMS": "3000",
+  "DFIntWaitOnUpdateNetworkLoopEndedMS": "10000",
   "FIntRenderApiUsageMetricsHundredthsPercent": "15",
   "DFIntSimACPDynamicAssemblyVolumeCapReportThresholdHundredthPercentage": "0",
-  "DFIntWaitOnRecvFromLoopEndedMS": "3000",
+  "DFIntWaitOnRecvFromLoopEndedMS": "10000",
   "FFlagSimUseCSGV3QuadBall_PlaceFilter": "False;8793627382;8793618616",
   "FFlagEnableUWPPaymentErrorsV2": "True",
   "FFlagLuauReturnAnyInsteadOfICE": "True",
@@ -11205,6 +11205,7 @@
   "FFlagRuntimeErrorSafeFormatOverload_Rollout": "True;60;2024-03-12T18:00:02",
   "FFlagSimSolverOptimizeLFWriteVectors_Rollout": "False;30;2024-03-12T18:02:16",
   "DFFlagFileMeshDataTelemetry_Rollout": "True;60;2024-03-12T18:17:50",
+  "FFlagSelfViewAvoidErrorOnWrongFaceControlsParenting": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11504,8 +11505,8 @@
   "FFlagXboxImprovedCrashCollection": "True",
   "FFlagXboxLastKnownStateImprovements": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FStringFlagRepoGitHashFastString": "16dced224839c0bf4d18119aaa21172b78835d71",
-  "DFStringFlagRepoGitHashDynamicString": "16dced224839c0bf4d18119aaa21172b78835d71",
-  "FStringFlipTimeStampFastString": "2024-03-12T18:21:09.139Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-12T18:21:09.139Z"
+  "FStringFlagRepoGitHashFastString": "83299e31473406c082dc6eff08792227d96662a0",
+  "DFStringFlagRepoGitHashDynamicString": "83299e31473406c082dc6eff08792227d96662a0",
+  "FStringFlipTimeStampFastString": "2024-03-12T18:26:01.522Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-12T18:26:01.522Z"
 }
