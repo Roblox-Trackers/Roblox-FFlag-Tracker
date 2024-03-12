@@ -1350,7 +1350,7 @@
   "FFlagStudioErrorReporterFilterJunkCallstacks": "True",
   "FFlagReportMeshIdChangeForLCItem": "True",
   "FStringFacialAnimation1BetaFeatureUrl": "https://devforum.roblox.com/t/updates-to-the-dynamic-heads-beta-feature/1812227",
-  "DFIntLogNonuniformSeparateHundredthsPercentage": "10000",
+  "DFIntLogNonuniformSeparateHundredthsPercentage": "0",
   "DFFlagAnimationTrackRefactor": "True",
   "DFFlagFacialAnimationStreaming": "False",
   "DFFlagFacialAnimationStreaming_PlaceFilter": "True;9299262749;9793123004;9799263270;9872815406;10001271232;10001514317;10724942847;10057672346;10358747927;10442917528;10548862903;10713392009;10787386927;12867018908;11453377229;11452116982;11444707414;11116995134;11253464533;11386744897;11393894962;11402255591;11444068120;11460402982;11597947993;11599481611;12019849317;12412879092;12339044345;12500012844;11822559022;12796376276;12867047376;12867089300;12991298352;13117700215;13178556380",
@@ -11111,7 +11111,6 @@
   "FFlagCAPUpdateDefaultThumbnail": "True",
   "FFlagStudioReportUserBetaFeaturesToBacktrace_Rollout": "True;60;2024-03-11T23:09:18",
   "FFlagStudioBetaFeaturesNoLongerCheckGA_Rollout": "True;60;2024-03-11T23:09:55",
-  "DFIntLogNonuniformSeparateHundredthsPercentage_Rollout": "0;30;2024-03-11T23:15:17",
   "FFlagFixGetAvatarData401Errors": "True",
   "FFlagUICoalesceParam": "True",
   "DFFlagReportMissingReplicationRoot_Rollout": "True;60;2024-03-11T23:23:28",
@@ -11420,8 +11419,8 @@
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagReportHopperBinUsage": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FStringFlagRepoGitHashFastString": "083e025804b0c1b9f787b06142cfe0d2064a9c51",
-  "DFStringFlagRepoGitHashDynamicString": "083e025804b0c1b9f787b06142cfe0d2064a9c51",
-  "FStringFlipTimeStampFastString": "2024-03-12T00:20:30.652Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-12T00:20:30.652Z"
+  "FStringFlagRepoGitHashFastString": "b573832eb716838da69c8a389351dd7c0db6b818",
+  "DFStringFlagRepoGitHashDynamicString": "b573832eb716838da69c8a389351dd7c0db6b818",
+  "FStringFlipTimeStampFastString": "2024-03-12T00:25:54.825Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-12T00:25:54.825Z"
 }
