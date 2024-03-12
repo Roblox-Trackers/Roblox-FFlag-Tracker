@@ -11206,7 +11206,6 @@
   "FIntNewCSGAPIRenderingFlag_PlaceFilter": "2;16726230378",
   "FFlagNoPlayOnRemoveThroughTeleports": "True",
   "DFIntRccPlaceContentFetchMaxRetry": "2",
-  "FFlagELFReportSubflowDuration_Rollout": "True;60;2024-03-12T21:33:30",
   "DFLogRCCExecuteInfo_Rollout": "Info;60;2024-03-12T21:38:46",
   "FFlagPlayerVREnabled_Rollout": "True;60;2024-03-12T21:40:15",
   "FFlagUseFindInsteadOfCreateForVisit_Rollout": "True;60;2024-03-12T21:58:21",
@@ -11223,6 +11222,7 @@
   "DFFlagRccOverridePlaceFetchTimeout": "True",
   "FFlagSimCSG3FixIncorrectDecalInTriangleCountOptimization": "True",
   "DFFlagFixAccessViolationInOnFrameCpu": "True",
+  "FFlagELFReportSubflowDuration": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11605,8 +11605,8 @@
   "FFlagPasskeySignupEnabled": "True",
   "FFlagEnableSignupBirthdayExperimentsRelease2": "True",
   "DFIntInterpolationDtLimitForLod_PlaceFilter": "10;8481844229;11121070436",
-  "FStringFlagRepoGitHashFastString": "976f315776d81fde97e7e63e0c372dab16a8cbcd",
-  "DFStringFlagRepoGitHashDynamicString": "976f315776d81fde97e7e63e0c372dab16a8cbcd",
-  "FStringFlipTimeStampFastString": "2024-03-12T23:08:05.654Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-12T23:08:05.654Z"
+  "FStringFlagRepoGitHashFastString": "6158a7e5bbfd677620db68ab346c19bd08a3e4bd",
+  "DFStringFlagRepoGitHashDynamicString": "6158a7e5bbfd677620db68ab346c19bd08a3e4bd",
+  "FStringFlipTimeStampFastString": "2024-03-12T23:10:47.982Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-12T23:10:47.982Z"
 }
