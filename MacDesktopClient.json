@@ -11219,6 +11219,7 @@
   "FFlagUseFindInsteadOfCreateForVisit_Rollout": "True;60;2024-03-12T21:58:21",
   "DFIntScreenshotCaptureRequestedEventThrottleHundrethsPercent": "10000",
   "FFlagOffCenterBlockCollision": "True",
+  "FFlagGraphicsVulkanDescriptorSetBindCSFix_Rollout": "True;60;2024-03-12T22:18:01",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11526,8 +11527,8 @@
   "FFlagReportHopperBinUsage": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "DFIntInterpolationDtLimitForLod_PlaceFilter": "10;8481844229;11121070436",
-  "FStringFlagRepoGitHashFastString": "a1fd457afbc336b541e63cefb6c9373e4a8945ac",
-  "DFStringFlagRepoGitHashDynamicString": "a1fd457afbc336b541e63cefb6c9373e4a8945ac",
-  "FStringFlipTimeStampFastString": "2024-03-12T22:20:27.502Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-12T22:20:27.502Z"
+  "FStringFlagRepoGitHashFastString": "996a818d7e097f71239227f537cd34512b3cf7ce",
+  "DFStringFlagRepoGitHashDynamicString": "996a818d7e097f71239227f537cd34512b3cf7ce",
+  "FStringFlipTimeStampFastString": "2024-03-12T22:22:26.761Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-12T22:22:26.761Z"
 }
