@@ -11216,6 +11216,7 @@
   "DFFlagFixAccessViolationInOnFrameCpu_Rollout": "True;60;2024-03-12T21:28:44",
   "DFIntRccPlaceContentFetchMaxRetry": "2",
   "FFlagELFReportSubflowDuration_Rollout": "True;60;2024-03-12T21:33:30",
+  "DFLogRCCExecuteInfo_Rollout": "Info;60;2024-03-12T21:38:46",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11516,8 +11517,8 @@
   "FFlagReportHopperBinUsage": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "756aeed77f06e0b453d99c18d9089c7f57a2e40f",
-  "DFStringFlagRepoGitHashDynamicString": "756aeed77f06e0b453d99c18d9089c7f57a2e40f",
-  "FStringFlipTimeStampFastString": "2024-03-12T21:37:54.307Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-12T21:37:54.307Z"
+  "FStringFlagRepoGitHashFastString": "55baa8dafb9a2078496ed2019bdc2636ce6910c2",
+  "DFStringFlagRepoGitHashDynamicString": "55baa8dafb9a2078496ed2019bdc2636ce6910c2",
+  "FStringFlipTimeStampFastString": "2024-03-12T21:39:35.948Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-12T21:39:35.948Z"
 }
