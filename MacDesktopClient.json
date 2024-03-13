@@ -11208,7 +11208,6 @@
   "DFIntRccPlaceContentFetchMaxRetry": "2",
   "DFIntScreenshotCaptureRequestedEventThrottleHundrethsPercent": "10000",
   "FFlagOffCenterBlockCollision": "True",
-  "FFlagGpuGeometryManagerIndexBufferAlignment2_Rollout": "True;60;2024-03-12T22:23:01",
   "DFIntAudioMetadataLimitCapacity": "10",
   "DFIntAudioMetadataLimitDuration": "1",
   "FFlagAudioMetadataUseNewService": "True",
@@ -11228,6 +11227,7 @@
   "FFlagFriendsCarouselPaginatedFriendsWithUILoadingTime2": "True",
   "FFlagFriendsCarouselUILoadingTime3": "True",
   "FFlagGraphicsVulkanDescriptorSetBindCSFix": "True",
+  "FFlagGpuGeometryManagerIndexBufferAlignment2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11534,8 +11534,8 @@
   "FFlagReportHopperBinUsage": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "DFIntInterpolationDtLimitForLod_PlaceFilter": "10;8481844229;11121070436",
-  "FStringFlagRepoGitHashFastString": "ee1a8e4b23a229aa51172597e9414124e16c0a6c",
-  "DFStringFlagRepoGitHashDynamicString": "ee1a8e4b23a229aa51172597e9414124e16c0a6c",
-  "FStringFlipTimeStampFastString": "2024-03-12T23:55:23.250Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-12T23:55:23.250Z"
+  "FStringFlagRepoGitHashFastString": "772b36d7d408c3c776edd019e70cec2015f0b618",
+  "DFStringFlagRepoGitHashDynamicString": "772b36d7d408c3c776edd019e70cec2015f0b618",
+  "FStringFlipTimeStampFastString": "2024-03-13T00:00:39.409Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-13T00:00:39.409Z"
 }
