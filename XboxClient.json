@@ -11218,7 +11218,6 @@
   "DFFlagFixAccessViolationInOnFrameCpu": "True",
   "FFlagELFReportSubflowDuration": "True",
   "DFLogRCCExecuteInfo": "Info",
-  "FFlagEditableImageUseClampsInSetSizeSetter_Rollout": "True;60;2024-03-12T23:13:24",
   "FFlagRemoveAppTempCommonTemp": "True",
   "FFlagPlayerVREnabled": "True",
   "FFlagUseFindInsteadOfCreateForVisit": "True",
@@ -11228,6 +11227,7 @@
   "FFlagGraphicsVulkanDescriptorSetBindCSFix": "True",
   "FFlagGpuGeometryManagerIndexBufferAlignment2": "True",
   "FFlagStudioUpdateClassIconLocations": "True",
+  "FFlagEditableImageUseClampsInSetSizeSetter": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11527,8 +11527,8 @@
   "FFlagXboxImprovedCrashCollection": "True",
   "FFlagXboxLastKnownStateImprovements": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
-  "FStringFlagRepoGitHashFastString": "2321718e8c67bcbed9878ddefb6b02c069ac161c",
-  "DFStringFlagRepoGitHashDynamicString": "2321718e8c67bcbed9878ddefb6b02c069ac161c",
-  "FStringFlipTimeStampFastString": "2024-03-13T00:30:39.195Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-13T00:30:39.195Z"
+  "FStringFlagRepoGitHashFastString": "dbfbc96fd8974a4a19dc7ed9ca2fc358d4fb7bc4",
+  "DFStringFlagRepoGitHashDynamicString": "dbfbc96fd8974a4a19dc7ed9ca2fc358d4fb7bc4",
+  "FStringFlipTimeStampFastString": "2024-03-13T00:50:45.796Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-13T00:50:45.796Z"
 }
