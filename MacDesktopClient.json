@@ -11262,12 +11262,12 @@
   "FFlagPlatformEventEnabled2": "True",
   "FFlagVoiceChatStopSendingIceCandidate": "False",
   "FFlagVoiceChatStopSendingIceCandidate_PlaceFilter": "True;7137646352;10386320684",
-  "DFFlagInferredCrashDebugFields_Rollout": "True;60;2024-03-18T17:12:39",
-  "DFFlagInferredCrashReportDelayedReport_Rollout": "True;60;2024-03-18T17:13:16",
   "FFlagStringStreamAllocsBegone": "True",
   "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T17:58:32",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T18:13:32",
   "FFlagStringStreamAllocsBegone2_Rollout": "True;60;2024-03-18T18:37:09",
+  "DFFlagInferredCrashDebugFields": "True",
+  "DFFlagInferredCrashReportDelayedReport": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11557,8 +11557,8 @@
   "FFlagTelemetryRevampPurchase3": "True",
   "FFlagTelemetryRevampClicks2": "True",
   "DFFlagRemoveNonFlagSideDistributionCheck_Rollout": "True;30;2024-03-18T18:46:40",
-  "FStringFlagRepoGitHashFastString": "e31bca7325c246567a414e6cf88a75db6da9de5e",
-  "DFStringFlagRepoGitHashDynamicString": "e31bca7325c246567a414e6cf88a75db6da9de5e",
-  "FStringFlipTimeStampFastString": "2024-03-18T18:47:32.129Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-18T18:47:32.129Z"
+  "FStringFlagRepoGitHashFastString": "696aa6fd807d89191f6e64c3010de550a256c465",
+  "DFStringFlagRepoGitHashDynamicString": "696aa6fd807d89191f6e64c3010de550a256c465",
+  "FStringFlipTimeStampFastString": "2024-03-18T18:50:20.882Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-18T18:50:20.882Z"
 }
