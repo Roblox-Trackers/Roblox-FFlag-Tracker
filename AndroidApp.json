@@ -11669,7 +11669,6 @@
   "DFFlagInferredCrashReportDelayedReport": "True",
   "FFlagVoiceUseUpdatedAudibilityTracking2_Rollout": "True;60;2024-03-18T19:19:24",
   "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent": "10000",
-  "DFFlagEnableGamepassPurchaseIxpRollout2_Rollout": "True;30;2024-03-18T19:43:41",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagVideoVP9HardWareDecoderCap2": "True",
@@ -11680,8 +11679,9 @@
   "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2024-03-18T20:29:56",
   "FFlagStringStreamAllocsBegone_Rollout": "True;60;2024-03-18T20:33:31",
   "FFlagStringStreamAllocsBegone2_Rollout": "True;60;2024-03-18T20:37:03",
-  "FStringFlagRepoGitHashFastString": "bf2bcbb865a48f1dcc12a9d43b96a7880ae39e34",
-  "DFStringFlagRepoGitHashDynamicString": "bf2bcbb865a48f1dcc12a9d43b96a7880ae39e34",
-  "FStringFlipTimeStampFastString": "2024-03-18T20:43:59.513Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-18T20:43:59.513Z"
+  "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
+  "FStringFlagRepoGitHashFastString": "1dbdcc15ca382ed9dfc40ff8110acd78ceff865d",
+  "DFStringFlagRepoGitHashDynamicString": "1dbdcc15ca382ed9dfc40ff8110acd78ceff865d",
+  "FStringFlipTimeStampFastString": "2024-03-18T20:50:04.473Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-18T20:50:04.473Z"
 }
