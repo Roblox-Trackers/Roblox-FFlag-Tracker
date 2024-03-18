@@ -7590,7 +7590,7 @@
   "FFlagCOLLAB4802_FixManageCollabLanguageBug": "True",
   "DFFlagReduceDownSampledPerfControlStreamingMetrics": "True",
   "FFlagDragDetectorJointType": "True",
-  "DFFlagSimulateNewDynamicFlagRolloutCheck": "False",
+  "DFFlagSimulateNewDynamicFlagRolloutCheck": "True",
   "FFlagSimulateNewStaticFlagRolloutCheck": "True",
   "DFFlagPerfDataOnHiveStripSuffixFromGlobalPointsFields": "True",
   "FFlagBootcampCLI84830": "True",
@@ -11564,10 +11564,8 @@
   "FFlagTelemetryRevampClicks2": "True",
   "FFlagAXTileSizeIXPEnabled": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
-  "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2024-03-18T20:29:12",
-  "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2024-03-18T20:29:56",
-  "FStringFlagRepoGitHashFastString": "2167a1721e766cc826bab85b51dc223b9ee9132b",
-  "DFStringFlagRepoGitHashDynamicString": "2167a1721e766cc826bab85b51dc223b9ee9132b",
-  "FStringFlipTimeStampFastString": "2024-03-18T22:01:11.693Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-18T22:01:11.693Z"
+  "FStringFlagRepoGitHashFastString": "6b7f7feb7afd377d3414200781f1bcb4198a4a3f",
+  "DFStringFlagRepoGitHashDynamicString": "6b7f7feb7afd377d3414200781f1bcb4198a4a3f",
+  "FStringFlipTimeStampFastString": "2024-03-18T22:03:15.687Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-18T22:03:15.687Z"
 }
