@@ -11637,8 +11637,9 @@
   "FFlagTelemetryRevampClicks2": "True",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent_Rollout": "10000;60;2024-03-18T18:13:32",
   "FFlagAddExperienceLaunchFieldsToV2Stat_Rollout": "True;60;2024-03-18T18:46:31",
-  "FStringFlagRepoGitHashFastString": "188ec04da442dddc6093077d6e789affd29fe5d8",
-  "DFStringFlagRepoGitHashDynamicString": "188ec04da442dddc6093077d6e789affd29fe5d8",
-  "FStringFlipTimeStampFastString": "2024-03-18T18:47:19.480Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-18T18:47:19.480Z"
+  "DFFlagRemoveNonFlagSideDistributionCheck_Rollout": "True;30;2024-03-18T18:46:40",
+  "FStringFlagRepoGitHashFastString": "e31bca7325c246567a414e6cf88a75db6da9de5e",
+  "DFStringFlagRepoGitHashDynamicString": "e31bca7325c246567a414e6cf88a75db6da9de5e",
+  "FStringFlipTimeStampFastString": "2024-03-18T18:47:32.129Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-18T18:47:32.129Z"
 }
