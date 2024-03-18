@@ -11676,8 +11676,10 @@
   "FFlagAddExperienceLaunchFieldsToV2Stat": "True",
   "FFlagAXItemCardRedesignIXPEnabled2": "False",
   "DFFlagEnableAdSeenStatsReporting_Rollout": "True;60;2024-03-18T20:21:39",
-  "FStringFlagRepoGitHashFastString": "fd6137930d163dc6c2551692aa2d478e26b8aa7b",
-  "DFStringFlagRepoGitHashDynamicString": "fd6137930d163dc6c2551692aa2d478e26b8aa7b",
-  "FStringFlipTimeStampFastString": "2024-03-18T20:28:56.479Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-18T20:28:56.479Z"
+  "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2024-03-18T20:29:12",
+  "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2024-03-18T20:29:56",
+  "FStringFlagRepoGitHashFastString": "fa2fea37609d035d4f5e45e6b217ba7239302303",
+  "DFStringFlagRepoGitHashDynamicString": "fa2fea37609d035d4f5e45e6b217ba7239302303",
+  "FStringFlipTimeStampFastString": "2024-03-18T20:30:53.496Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-18T20:30:53.496Z"
 }
