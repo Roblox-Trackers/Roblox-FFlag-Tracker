@@ -11269,7 +11269,6 @@
   "DFFlagEnableGamepassPurchaseIxpRollout2_Rollout": "True;30;2024-03-18T19:43:41",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
   "FFlagStringStreamAllocsBegone2": "True",
-  "FFlagAXItemCardRedesignIXPEnabled2": "False",
   "DFFlagEnableAdSeenStatsReporting_Rollout": "True;60;2024-03-18T20:21:39",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -11560,10 +11559,11 @@
   "FFlagTelemetryRevampPurchase3": "True",
   "FFlagTelemetryRevampClicks2": "True",
   "FFlagAXTileSizeIXPEnabled": "True",
+  "FFlagAXItemCardRedesignIXPEnabled2": "True",
   "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2024-03-18T20:29:12",
   "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2024-03-18T20:29:56",
-  "FStringFlagRepoGitHashFastString": "747c99d03245154db29f5d14c1a1a7ec38d55653",
-  "DFStringFlagRepoGitHashDynamicString": "747c99d03245154db29f5d14c1a1a7ec38d55653",
-  "FStringFlipTimeStampFastString": "2024-03-18T20:40:58.802Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-18T20:40:58.802Z"
+  "FStringFlagRepoGitHashFastString": "bf2bcbb865a48f1dcc12a9d43b96a7880ae39e34",
+  "DFStringFlagRepoGitHashDynamicString": "bf2bcbb865a48f1dcc12a9d43b96a7880ae39e34",
+  "FStringFlipTimeStampFastString": "2024-03-18T20:43:59.513Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-18T20:43:59.513Z"
 }
