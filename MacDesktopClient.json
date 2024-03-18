@@ -11239,6 +11239,9 @@
   "FFlagTenFootUiSupportSortHeaderTooltip": "False",
   "FFlagLuaAppHigherResGameThumbnail": "True",
   "FFlagLuaAppExpandTooltipHitbox": "True",
+  "FFlagCookieProtocolDomainFixEnabled3": "True",
+  "FFlagHandleRBXASCookie": "True",
+  "FFlagHandleRBXASCookieInCookieProtocol": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11562,8 +11565,8 @@
   "FFlagAXItemCardRedesignIXPEnabled2": "True",
   "FFlagSimulateNewStaticFlagRolloutCheck_Rollout": "True;60;2024-03-18T20:29:12",
   "DFFlagSimulateNewDynamicFlagRolloutCheck_Rollout": "True;60;2024-03-18T20:29:56",
-  "FStringFlagRepoGitHashFastString": "50b9d03f2bac62abc33975d11bbce9373dab9a3e",
-  "DFStringFlagRepoGitHashDynamicString": "50b9d03f2bac62abc33975d11bbce9373dab9a3e",
-  "FStringFlipTimeStampFastString": "2024-03-18T21:05:29.416Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-18T21:05:29.416Z"
+  "FStringFlagRepoGitHashFastString": "68dc0a5c4137a59923ac3832b8268fc6e5569561",
+  "DFStringFlagRepoGitHashDynamicString": "68dc0a5c4137a59923ac3832b8268fc6e5569561",
+  "FStringFlipTimeStampFastString": "2024-03-18T21:23:27.324Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-18T21:23:27.324Z"
 }
