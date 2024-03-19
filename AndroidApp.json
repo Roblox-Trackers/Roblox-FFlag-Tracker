@@ -11694,8 +11694,9 @@
   "FIntVideoSchedulerMaxTaskSize_Rollout": "1000;60;2024-03-19T22:53:46",
   "FFlagExperienceDetailsShortUrlEnabledForAll_v1": "True",
   "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-03-19T23:14:40",
-  "FStringFlagRepoGitHashFastString": "be3d4e6615d30ca765a90628d3bbd1a1f9cc2c57",
-  "DFStringFlagRepoGitHashDynamicString": "be3d4e6615d30ca765a90628d3bbd1a1f9cc2c57",
-  "FStringFlipTimeStampFastString": "2024-03-19T23:15:03.466Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-19T23:15:03.466Z"
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-03-19T23:15:43",
+  "FStringFlagRepoGitHashFastString": "1ea50434d49526c2f8661cb573ca3788e6467a7a",
+  "DFStringFlagRepoGitHashDynamicString": "1ea50434d49526c2f8661cb573ca3788e6467a7a",
+  "FStringFlipTimeStampFastString": "2024-03-19T23:21:59.356Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-19T23:21:59.356Z"
 }
