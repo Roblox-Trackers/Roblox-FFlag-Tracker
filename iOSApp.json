@@ -4605,7 +4605,7 @@
   "FStringFlagRolloutTestStaticString1": "Static03072024",
   "FStringFlagRolloutTestStaticString7": "Static03072024",
   "DFFlagDoesNotExistAtAll": "False",
-  "DFFlagFlagRolloutTestDynamicBool1": "False",
+  "DFFlagFlagRolloutTestDynamicBool1": "True",
   "DFFlagFlagRolloutTestDynamicBool2": "False",
   "DFFlagFlagRolloutTestDynamicBool5": "False",
   "FFlagFlagRolloutTestStaticBool7": "True",
@@ -11653,12 +11653,11 @@
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "FFlagExperienceDetailsShortUrlEnabledForAll_v1": "True",
-  "DFFlagFlagRolloutTestDynamicBool1_Rollout": "True;60;2024-03-19T23:14:40",
   "FFlagFlagRolloutTestStaticBool1_Rollout": "True;60;2024-03-19T23:15:43",
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "FFlagEditProfileFixLogging": "True",
-  "FStringFlagRepoGitHashFastString": "b0cffcf5eb359663d79203803e275227b6a6ff22",
-  "DFStringFlagRepoGitHashDynamicString": "b0cffcf5eb359663d79203803e275227b6a6ff22",
-  "FStringFlipTimeStampFastString": "2024-03-20T00:35:58.323Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-20T00:35:58.323Z"
+  "FStringFlagRepoGitHashFastString": "65e592299930ac0288c00b192e074a81ad82616a",
+  "DFStringFlagRepoGitHashDynamicString": "65e592299930ac0288c00b192e074a81ad82616a",
+  "FStringFlipTimeStampFastString": "2024-03-20T00:50:32.327Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-20T00:50:32.327Z"
 }
