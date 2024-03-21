@@ -11271,6 +11271,12 @@
   "FFlagSessionTickcount_Rollout": "True;60;2024-03-21T21:56:25",
   "DFFlagSimSolverBodyRemoveStdFunctionInLock_Rollout": "True;60;2024-03-21T22:02:20",
   "FFlagVideoFrameYuvGPU4": "True",
+  "DFIntAdPortalRotationIntervalMS": "300000",
+  "DFIntAdPortalRotationIntervalMS_PlaceFilter": "30000;16270624805",
+  "DFIntAdServiceUserIdleThresholdInSeconds": "270",
+  "DFIntAdServiceUserIdleThresholdInSeconds_PlaceFilter": "15;16270624805",
+  "FIntAdGuiRotationIntervalMS": "300000",
+  "FIntAdGuiRotationIntervalMS_PlaceFilter": "30000;16270624805",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11573,8 +11579,8 @@
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
-  "FStringFlagRepoGitHashFastString": "e3c2ed405b277d36a50aff992e4376cccdc8ce1c",
-  "DFStringFlagRepoGitHashDynamicString": "e3c2ed405b277d36a50aff992e4376cccdc8ce1c",
-  "FStringFlipTimeStampFastString": "2024-03-21T22:16:09.294Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T22:16:09.294Z"
+  "FStringFlagRepoGitHashFastString": "0f6e3efc83cc2c36258b78917047dd8cf0399feb",
+  "DFStringFlagRepoGitHashDynamicString": "0f6e3efc83cc2c36258b78917047dd8cf0399feb",
+  "FStringFlipTimeStampFastString": "2024-03-21T22:18:48.460Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T22:18:48.460Z"
 }
