@@ -11266,6 +11266,8 @@
   "FFlagFixScriptCloneWatcherWhenOriginalScriptDestroyed": "True",
   "DFFlagSoundLoadingBetterErrorMessages_Rollout": "True;60;2024-03-21T20:01:30",
   "FFlagVideoFrameYuvGPU4_Rollout": "True;60;2024-03-21T20:29:53",
+  "DFFlagStepContactAsyncTouchTelemetry_Rollout": "False;60;2024-03-21T20:36:42",
+  "FFlagDevFrameworkCustomTextInputAutocompleteComponent": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11567,8 +11569,8 @@
   "FFlagReportHopperBinUsage": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
-  "FStringFlagRepoGitHashFastString": "8c6fb7590d55580b02562274cc197ffb14bef91f",
-  "DFStringFlagRepoGitHashDynamicString": "8c6fb7590d55580b02562274cc197ffb14bef91f",
-  "FStringFlipTimeStampFastString": "2024-03-21T20:35:35.714Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T20:35:35.714Z"
+  "FStringFlagRepoGitHashFastString": "cb37879b00e4f1564834495e06e08f3c75693ac5",
+  "DFStringFlagRepoGitHashDynamicString": "cb37879b00e4f1564834495e06e08f3c75693ac5",
+  "FStringFlipTimeStampFastString": "2024-03-21T20:38:14.387Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T20:38:14.387Z"
 }
