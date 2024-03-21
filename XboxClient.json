@@ -11241,9 +11241,6 @@
   "FFlagHandleRBXASCookie": "True",
   "FFlagHandleRBXASCookieInCookieProtocol": "True",
   "DFIntVideoMaxHardwareCodec": "1",
-  "DFFlagHlsAddRoundRobinLogic_Rollout": "True;60;2024-03-21T17:47:45",
-  "FFlagHlsSeparatePlaylistEof_Rollout": "True;60;2024-03-21T17:47:52",
-  "DFFlagVideoReportEos_Rollout": "True;60;2024-03-21T17:48:17",
   "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
   "FFlagStringStreamAllocsBegone_Rollout": "True;60;2024-03-21T17:53:00",
   "FFlagStringStreamAllocsBegone2_Rollout": "True;60;2024-03-21T17:54:24",
@@ -11262,6 +11259,10 @@
   "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
   "FFlagFixScriptCloneWatcherWhenOriginalScriptDestroyed_Rollout": "True;1;2024-03-21T19:01:43",
   "FFlagFontFallbackPreferSourceSans_Rollout": "True;60;2024-03-21T19:17:05",
+  "DFFlagHlsAddRoundRobinLogic": "True",
+  "DFFlagVideoReportEos": "True",
+  "FFlagHlsSeparatePlaylistEof": "True",
+  "FFlagColor3uint8Fix2_Rollout": "True;60;2024-03-21T19:21:23",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11578,8 +11579,8 @@
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "FFlagXboxInferredCrashMoreReporting": "True",
   "FIntXboxInferredCrashThrottleHundredthsPercent": "10000",
-  "FStringFlagRepoGitHashFastString": "ec089def7f1cfc058251865517a730f850d58c0c",
-  "DFStringFlagRepoGitHashDynamicString": "ec089def7f1cfc058251865517a730f850d58c0c",
-  "FStringFlipTimeStampFastString": "2024-03-21T19:20:53.535Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T19:20:53.535Z"
+  "FStringFlagRepoGitHashFastString": "a6823c3617d11818515286a79d1a04f999dd51a6",
+  "DFStringFlagRepoGitHashDynamicString": "a6823c3617d11818515286a79d1a04f999dd51a6",
+  "FStringFlipTimeStampFastString": "2024-03-21T19:24:25.759Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T19:24:25.759Z"
 }
