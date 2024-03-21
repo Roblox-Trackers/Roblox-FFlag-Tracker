@@ -11259,7 +11259,6 @@
   "FFlagStringStreamAllocsBegone": "True",
   "FFlagStringStreamAllocsBegone2": "True",
   "FFlagFixScriptCloneWatcherWhenOriginalScriptDestroyed": "True",
-  "FFlagVideoFrameYuvGPU4_Rollout": "True;60;2024-03-21T20:29:53",
   "DFFlagStepContactAsyncTouchTelemetry_Rollout": "False;60;2024-03-21T20:36:42",
   "FFlagDevFrameworkCustomTextInputAutocompleteComponent": "True",
   "FFlagFontFallbackPreferSourceSans": "True",
@@ -11272,6 +11271,8 @@
   "FFlagUseNonDeferredSliderSignal": "True",
   "FFlagDebugImmersionModeNonVR_PlaceFilter": "True;16818255141",
   "FFlagSessionTickcount_Rollout": "True;60;2024-03-21T21:56:25",
+  "DFFlagSimSolverBodyRemoveStdFunctionInLock_Rollout": "True;60;2024-03-21T22:02:20",
+  "FFlagVideoFrameYuvGPU4": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11606,8 +11607,8 @@
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagPhysicsReportWorldTime": "True",
-  "FStringFlagRepoGitHashFastString": "532ceb8f2d5ccf95bca7121bb16ed431a580cf76",
-  "DFStringFlagRepoGitHashDynamicString": "532ceb8f2d5ccf95bca7121bb16ed431a580cf76",
-  "FStringFlipTimeStampFastString": "2024-03-21T22:03:00.696Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T22:03:00.696Z"
+  "FStringFlagRepoGitHashFastString": "013432204d081e0704d5c687dedf3a86abf98d53",
+  "DFStringFlagRepoGitHashDynamicString": "013432204d081e0704d5c687dedf3a86abf98d53",
+  "FStringFlipTimeStampFastString": "2024-03-21T22:05:47.734Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T22:05:47.734Z"
 }
