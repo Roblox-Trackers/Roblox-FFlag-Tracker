@@ -11245,7 +11245,6 @@
   "FFlagHlsSeparatePlaylistEof_Rollout": "True;60;2024-03-21T17:47:52",
   "DFFlagVideoReportEos_Rollout": "True;60;2024-03-21T17:48:17",
   "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
-  "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagDebugRVideoAndroidUseSwVideoDecoder_Rollout": "False;60;2024-03-21T18:04:11",
@@ -11261,6 +11260,9 @@
   "FFlagAvatarJointUpgradeDefaultOn_PlaceFilter": "True;16818255141",
   "DFFlagSkipFetchAdPlayerIdle2": "False",
   "DFFlagSkipFetchAdPlayerIdle2_PlaceFilter": "True;16270624805",
+  "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
+  "FFlagFixScriptCloneWatcherWhenOriginalScriptDestroyed_Rollout": "True;1;2024-03-21T19:01:43",
+  "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
   "FFlagEnableLoadPatchMetric": "True",
@@ -11286,7 +11288,6 @@
   "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
   "FFlagStringStreamAllocsBegone2": "True",
-  "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "DFFlagEnableAdSeenStatsReporting": "True",
   "FFlagEnableViewabilityTracking3": "True",
@@ -11595,8 +11596,8 @@
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagPhysicsReportWorldTime": "True",
-  "FStringFlagRepoGitHashFastString": "e904c9cca959e49c8f25859abb73d52e11a16a92",
-  "DFStringFlagRepoGitHashDynamicString": "e904c9cca959e49c8f25859abb73d52e11a16a92",
-  "FStringFlipTimeStampFastString": "2024-03-21T18:58:00.537Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T18:58:00.537Z"
+  "FStringFlagRepoGitHashFastString": "4c5b0ce5f08ec7e824ecc34be00af866b73c9c02",
+  "DFStringFlagRepoGitHashDynamicString": "4c5b0ce5f08ec7e824ecc34be00af866b73c9c02",
+  "FStringFlipTimeStampFastString": "2024-03-21T19:04:51.210Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T19:04:51.210Z"
 }
