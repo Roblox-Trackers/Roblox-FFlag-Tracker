@@ -11281,6 +11281,7 @@
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "FFlagLGCPUMoveMemsetToPerform_Rollout": "True;60;2024-03-21T22:52:17",
+  "FFlagFixChatWidgetMarkAsReadHang_Rollout": "True;20;2024-03-21T23:09:41",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -11613,8 +11614,8 @@
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagPhysicsReportWorldTime": "True",
-  "FStringFlagRepoGitHashFastString": "bf498430ca3e0bc134069a0f7243f07aa7a66c10",
-  "DFStringFlagRepoGitHashDynamicString": "bf498430ca3e0bc134069a0f7243f07aa7a66c10",
-  "FStringFlipTimeStampFastString": "2024-03-21T23:08:28.259Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T23:08:28.259Z"
+  "FStringFlagRepoGitHashFastString": "a594a4fcb2e87bbee252a7abbad69cab865dea9c",
+  "DFStringFlagRepoGitHashDynamicString": "a594a4fcb2e87bbee252a7abbad69cab865dea9c",
+  "FStringFlipTimeStampFastString": "2024-03-21T23:11:13.282Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T23:11:13.282Z"
 }
