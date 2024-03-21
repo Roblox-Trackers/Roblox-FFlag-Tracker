@@ -10754,7 +10754,7 @@
   "FFlagAXFixItemDetailsExperienceLinkText": "True",
   "FFlagEnableMaquettesSignUpV5": "True",
   "FFlagEnableMaquettesPasswordLoginV4": "True",
-  "DFFlagCLI95537v0": "False",
+  "DFFlagCLI95537v0": "True",
   "FFlagTextFilterV2Api": "True",
   "DFIntVideoVisibilityPlaceSessionIdThrottleHundredthsPercent": "10",
   "FFlagVideoCMCDIsPlaying": "True",
@@ -11248,7 +11248,6 @@
   "AxisAdornmentGrabSize": "12",
   "AllowVideoPreRoll": "True",
   "FFlagDebugRVideoAndroidUseSwVideoDecoder_Rollout": "False;60;2024-03-21T18:04:11",
-  "DFFlagCLI95537v0_Rollout": "True;30;2024-03-21T18:05:37",
   "FFlagUserheartbeatsActionReport": "True",
   "FIntUserHeartbeatsActionReportRolloutPerMyriad": "100",
   "FFlagGuiLayerCollectorRectQueryUseClippedRect": "True",
@@ -11723,8 +11722,8 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "FStringFlagRepoGitHashFastString": "4c5b0ce5f08ec7e824ecc34be00af866b73c9c02",
-  "DFStringFlagRepoGitHashDynamicString": "4c5b0ce5f08ec7e824ecc34be00af866b73c9c02",
-  "FStringFlipTimeStampFastString": "2024-03-21T19:04:51.210Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T19:04:51.210Z"
+  "FStringFlagRepoGitHashFastString": "19ea27e7a1710c719fd312421e1394ffbee1bd9b",
+  "DFStringFlagRepoGitHashDynamicString": "19ea27e7a1710c719fd312421e1394ffbee1bd9b",
+  "FStringFlipTimeStampFastString": "2024-03-21T19:15:19.371Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T19:15:19.371Z"
 }
