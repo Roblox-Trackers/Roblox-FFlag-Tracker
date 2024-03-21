@@ -11251,6 +11251,9 @@
   "CaptureCountersIntervalInMinutes": "5",
   "FFlagDebugRVideoAndroidUseSwVideoDecoder_Rollout": "False;60;2024-03-21T18:04:11",
   "DFFlagCLI95537v0_Rollout": "True;30;2024-03-21T18:05:37",
+  "FFlagUserheartbeatsActionReport": "True",
+  "FIntUserHeartbeatsActionReportRolloutPerMyriad": "100",
+  "FFlagGuiLayerCollectorRectQueryUseClippedRect": "True",
   "CaptureQTStudioCountersEnabled": "True",
   "CatalogPromoAssetId": "-1",
   "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
@@ -11712,8 +11715,8 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "FStringFlagRepoGitHashFastString": "757c6acef65074e5c0f6f6f76ae21b5e9e5ecdcc",
-  "DFStringFlagRepoGitHashDynamicString": "757c6acef65074e5c0f6f6f76ae21b5e9e5ecdcc",
-  "FStringFlipTimeStampFastString": "2024-03-21T18:11:09.722Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T18:11:09.722Z"
+  "FStringFlagRepoGitHashFastString": "826ac83b2c770d0a316130ae2e6424debb10ea6d",
+  "DFStringFlagRepoGitHashDynamicString": "826ac83b2c770d0a316130ae2e6424debb10ea6d",
+  "FStringFlipTimeStampFastString": "2024-03-21T18:11:49.554Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T18:11:49.554Z"
 }
