@@ -11249,6 +11249,7 @@
   "FFlagStringStreamAllocsBegone_Rollout": "True;60;2024-03-21T17:53:00",
   "FFlagStringStreamAllocsBegone2_Rollout": "True;60;2024-03-21T17:54:24",
   "AllowVideoPreRoll": "True",
+  "FFlagDebugRVideoAndroidUseSwVideoDecoder_Rollout": "False;60;2024-03-21T18:04:11",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11548,8 +11549,8 @@
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "DFFlagEnableGamepassPurchaseIxpRollout2": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
-  "FStringFlagRepoGitHashFastString": "c743229fd2d124b5d87d1664c0bc9ae46f87f7a6",
-  "DFStringFlagRepoGitHashDynamicString": "c743229fd2d124b5d87d1664c0bc9ae46f87f7a6",
-  "FStringFlipTimeStampFastString": "2024-03-21T17:58:08.100Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T17:58:08.100Z"
+  "FStringFlagRepoGitHashFastString": "9cb3152a49b3c5d2835308f1cfffdb9687ca8734",
+  "DFStringFlagRepoGitHashDynamicString": "9cb3152a49b3c5d2835308f1cfffdb9687ca8734",
+  "FStringFlipTimeStampFastString": "2024-03-21T18:06:51.211Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T18:06:51.211Z"
 }
