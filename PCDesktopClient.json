@@ -11261,7 +11261,6 @@
   "FFlagFixScriptCloneWatcherWhenOriginalScriptDestroyed": "True",
   "FFlagDevFrameworkCustomTextInputAutocompleteComponent": "True",
   "FFlagFontFallbackPreferSourceSans": "True",
-  "FFlagUserShowGuiHideToggles_Rollout": "False;60;2024-03-21T20:53:28",
   "FFlagColor3uint8Fix2": "True",
   "DFFlagEnableAssetIdStringParseFix": "True",
   "FFlagVideoLazyFindStreamInfo": "True",
@@ -11280,6 +11279,7 @@
   "DFLogSessionCrypto_PlaceFilter": "Verbose,9;16605845623",
   "DFFlagInferredCrashReportDelayedReport_Rollout": "True;60;2024-03-21T22:24:38",
   "DFFlagInferredCrashDebugFields_Rollout": "True;60;2024-03-21T22:25:26",
+  "FFlagUserShowGuiHideToggles": "False",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11582,8 +11582,8 @@
   "DFFlagEnableGamepassPurchaseIxpRollout": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
-  "FStringFlagRepoGitHashFastString": "94bb90c97ef971d3d04ec2871df0a4f446fe1ec4",
-  "DFStringFlagRepoGitHashDynamicString": "94bb90c97ef971d3d04ec2871df0a4f446fe1ec4",
-  "FStringFlipTimeStampFastString": "2024-03-21T22:28:35.244Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T22:28:35.244Z"
+  "FStringFlagRepoGitHashFastString": "3128fd4d30a0055a29ed7e9b54c7faaf0f134f45",
+  "DFStringFlagRepoGitHashDynamicString": "3128fd4d30a0055a29ed7e9b54c7faaf0f134f45",
+  "FStringFlipTimeStampFastString": "2024-03-21T22:28:44.447Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T22:28:44.447Z"
 }
