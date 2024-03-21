@@ -11267,7 +11267,6 @@
   "DFFlagSoundLoadingBetterErrorMessages": "True",
   "FFlagSingleApolloServer": "True",
   "FFlagUseNonDeferredSliderSignal": "True",
-  "FFlagSessionTickcount_Rollout": "True;60;2024-03-21T21:56:25",
   "DFFlagSimSolverBodyRemoveStdFunctionInLock_Rollout": "True;60;2024-03-21T22:02:20",
   "FFlagVideoFrameYuvGPU4": "True",
   "DFIntAdPortalRotationIntervalMS": "300000",
@@ -11283,6 +11282,7 @@
   "FFlagLGCPUMoveMemsetToPerform_Rollout": "True;60;2024-03-21T22:52:17",
   "FFlagFixChatWidgetMarkAsReadHang_Rollout": "True;20;2024-03-21T23:09:41",
   "DFLogRakNetPktTrace_PlaceFilter": "12;16605845623",
+  "FFlagSessionTickcount": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11492,8 +11492,8 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "FStringFlagRepoGitHashFastString": "ecc414795b645cbc69c9f689181ece480bc88e96",
-  "DFStringFlagRepoGitHashDynamicString": "ecc414795b645cbc69c9f689181ece480bc88e96",
-  "FStringFlipTimeStampFastString": "2024-03-21T23:30:37.729Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T23:30:37.729Z"
+  "FStringFlagRepoGitHashFastString": "42924ecf4f289a9b8bc2c82199ca61c07dfc65d6",
+  "DFStringFlagRepoGitHashDynamicString": "42924ecf4f289a9b8bc2c82199ca61c07dfc65d6",
+  "FStringFlipTimeStampFastString": "2024-03-21T23:32:01.022Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T23:32:01.022Z"
 }
