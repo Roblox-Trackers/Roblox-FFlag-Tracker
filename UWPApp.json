@@ -11242,8 +11242,6 @@
   "FFlagHandleRBXASCookieInCookieProtocol": "True",
   "DFIntVideoMaxHardwareCodec": "1",
   "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
-  "FFlagStringStreamAllocsBegone_Rollout": "True;60;2024-03-21T17:53:00",
-  "FFlagStringStreamAllocsBegone2_Rollout": "True;60;2024-03-21T17:54:24",
   "FFlagDebugRVideoAndroidUseSwVideoDecoder_Rollout": "False;60;2024-03-21T18:04:11",
   "FFlagUserheartbeatsActionReport": "True",
   "FIntUserHeartbeatsActionReportRolloutPerMyriad": "100",
@@ -11263,6 +11261,10 @@
   "DFFlagVideoReportEos": "True",
   "FFlagHlsSeparatePlaylistEof": "True",
   "FFlagColor3uint8Fix2_Rollout": "True;60;2024-03-21T19:21:23",
+  "FFlagStringStreamAllocsBegone": "True",
+  "FFlagStringStreamAllocsBegone2": "True",
+  "DFFlagEnableAssetIdStringParseFix_Rollout": "True;60;2024-03-21T19:26:17",
+  "FFlagVideoLazyFindStreamInfo_Rollout": "True;60;2024-03-21T19:26:33",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11472,8 +11474,8 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "FStringFlagRepoGitHashFastString": "a6823c3617d11818515286a79d1a04f999dd51a6",
-  "DFStringFlagRepoGitHashDynamicString": "a6823c3617d11818515286a79d1a04f999dd51a6",
-  "FStringFlipTimeStampFastString": "2024-03-21T19:24:25.759Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T19:24:25.759Z"
+  "FStringFlagRepoGitHashFastString": "2dc93501f03a14c9d130b97b5544aa33dbb92c89",
+  "DFStringFlagRepoGitHashDynamicString": "2dc93501f03a14c9d130b97b5544aa33dbb92c89",
+  "FStringFlipTimeStampFastString": "2024-03-21T19:30:39.190Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T19:30:39.190Z"
 }
