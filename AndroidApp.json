@@ -11688,7 +11688,7 @@
   "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True",
   "FFlagLuaAppVngUserAgreementEnabled": "True",
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
-  "DFIntParallelBroadPhaseNewBatchCount": "16",
+  "DFIntParallelBroadPhaseNewBatchCount": "2",
   "FFlagVideoServiceAddHardwareCodecMetrics": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "FFlagExperienceDetailsShortUrlEnabledForAll_v1": "True",
@@ -11702,10 +11702,10 @@
   "FFlagRefactorPhoneUpsellOverlayToWrapper": "True",
   "FFlagSupportContactMethodPhoneNumberVoice": "True",
   "FFlagReportAnythingAbuseVectorRenameEnabled": "True",
-  "DFIntParallelBroadPhaseNewBatchCount_Rollout": "2;60;2024-03-20T22:56:28",
   "FFlagVideoLazyFindStreamInfo": "True",
-  "FStringFlagRepoGitHashFastString": "80487b67fa27ff83042cbac20007ab6de7fb7914",
-  "DFStringFlagRepoGitHashDynamicString": "80487b67fa27ff83042cbac20007ab6de7fb7914",
-  "FStringFlipTimeStampFastString": "2024-03-20T23:55:45.484Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-20T23:55:45.484Z"
+  "FFlagFlagRolloutTestStaticBool1_Rollout": "False;60;2024-03-21T00:30:23",
+  "FStringFlagRepoGitHashFastString": "00d7012e9cd93f17066bdb0025bce21e2d18419c",
+  "DFStringFlagRepoGitHashDynamicString": "00d7012e9cd93f17066bdb0025bce21e2d18419c",
+  "FStringFlipTimeStampFastString": "2024-03-21T00:32:56.601Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T00:32:56.601Z"
 }
