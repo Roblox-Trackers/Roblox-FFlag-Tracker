@@ -7545,7 +7545,7 @@
   "FIntSHClampLimitPowerof2": "31",
   "FFlagEnableResetScaleButton2": "True",
   "FFlagEnableAvatarChatToggleUIUpgradeForLegacyChatService": "True",
-  "DFFlagStepContactAsyncTouchTelemetry": "True",
+  "DFFlagStepContactAsyncTouchTelemetry": "False",
   "DFFlagTelemetryProfiler": "True",
   "FFlagStartPageSortOnRefresh": "True",
   "DFFlagVoiceChatEnableEndpointErrorLogging": "True",
@@ -11259,7 +11259,6 @@
   "FFlagStringStreamAllocsBegone": "True",
   "FFlagStringStreamAllocsBegone2": "True",
   "FFlagFixScriptCloneWatcherWhenOriginalScriptDestroyed": "True",
-  "DFFlagStepContactAsyncTouchTelemetry_Rollout": "False;60;2024-03-21T20:36:42",
   "FFlagDevFrameworkCustomTextInputAutocompleteComponent": "True",
   "FFlagFontFallbackPreferSourceSans": "True",
   "FFlagUserShowGuiHideToggles_Rollout": "True;60;2024-03-21T20:53:28",
@@ -11733,8 +11732,8 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "FStringFlagRepoGitHashFastString": "05537c356c416ee744be095660f1ddfac47f0724",
-  "DFStringFlagRepoGitHashDynamicString": "05537c356c416ee744be095660f1ddfac47f0724",
-  "FStringFlipTimeStampFastString": "2024-03-21T22:10:58.413Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T22:10:58.413Z"
+  "FStringFlagRepoGitHashFastString": "c955dd9b0f3ac98f8557f6c54713da68d0d666ad",
+  "DFStringFlagRepoGitHashDynamicString": "c955dd9b0f3ac98f8557f6c54713da68d0d666ad",
+  "FStringFlipTimeStampFastString": "2024-03-21T22:13:02.387Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-21T22:13:02.387Z"
 }
