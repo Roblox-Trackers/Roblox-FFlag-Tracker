@@ -4601,7 +4601,7 @@
   "FFlagFlagRolloutTestStaticBool3": "False",
   "FFlagFlagRolloutTestStaticBool4": "False",
   "FFlagFlagRolloutTestStaticBool5": "False",
-  "FFlagFlagRolloutTestStaticBool6": "True",
+  "FFlagFlagRolloutTestStaticBool6": "False",
   "FStringFlagRolloutTestStaticString1": "Static03072024",
   "FStringFlagRolloutTestStaticString7": "Static03072024",
   "DFFlagDoesNotExistAtAll": "False",
@@ -11283,7 +11283,6 @@
   "DFFlagInferredCrashReportDelayedReport": "True",
   "DFFlagInferredCrashDebugFields": "True",
   "FFlagFixChatWidgetMarkAsReadHang": "True",
-  "FFlagFlagRolloutTestStaticBool6_Rollout": "False;60;2024-03-22T00:24:49",
   "FFlagLGCPUMoveMemsetToPerform": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
@@ -11705,8 +11704,8 @@
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "DFFlagInferredCrashSubsystemAlwaysTeardown": "True",
-  "FStringFlagRepoGitHashFastString": "be043bb3c5df1297ef2d9d102af489ddcbdc6aac",
-  "DFStringFlagRepoGitHashDynamicString": "be043bb3c5df1297ef2d9d102af489ddcbdc6aac",
-  "FStringFlipTimeStampFastString": "2024-03-22T00:35:36.184Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-22T00:35:36.184Z"
+  "FStringFlagRepoGitHashFastString": "28c32dc7a9f2e0eee9398338cb7b151669a7aa2e",
+  "DFStringFlagRepoGitHashDynamicString": "28c32dc7a9f2e0eee9398338cb7b151669a7aa2e",
+  "FStringFlipTimeStampFastString": "2024-03-22T02:00:55.605Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-22T02:00:55.605Z"
 }
