@@ -11292,6 +11292,8 @@
   "FFlagNoCallStateEarlyOut": "True",
   "FFlagAddExperienceLaunchFieldsToV2Stat": "True",
   "DFFlagDebugSimSolverCbisAlwaysUseActualPivots_Rollout": "True;30;2024-03-22T17:43:23",
+  "FFlagIBEnableCollectiblesSystemSupport": "True",
+  "FFlagIBEnableLimitedItemBugFixAndAlignment": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11502,8 +11504,12 @@
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "FFlagLuaRollouts_Rollout": "True;60;2024-03-22T17:57:51",
-  "FStringFlagRepoGitHashFastString": "9db31e41840360c95ab58a96c23fee7f10a8c377",
-  "DFStringFlagRepoGitHashDynamicString": "9db31e41840360c95ab58a96c23fee7f10a8c377",
-  "FStringFlipTimeStampFastString": "2024-03-22T18:03:06.799Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-22T18:03:06.799Z"
+  "FFlagIBDisableBuyButtonForUnlimitedAsset": "True",
+  "FFlagIBDisableBuyButtonForUnlimitedBundle": "True",
+  "FFlagIBEnableNewDataCollectionForCollectibleSystem": "True",
+  "FFlagIBEnableRespectSaleLocation": "True",
+  "FStringFlagRepoGitHashFastString": "568a5866ac9b2ae3a6dcbdbc69bbc4b0d7459521",
+  "DFStringFlagRepoGitHashDynamicString": "568a5866ac9b2ae3a6dcbdbc69bbc4b0d7459521",
+  "FStringFlipTimeStampFastString": "2024-03-22T18:08:33.279Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-22T18:08:33.279Z"
 }
