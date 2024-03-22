@@ -11284,7 +11284,6 @@
   "DFFlagInferredCrashDebugFields": "True",
   "FFlagFixChatWidgetMarkAsReadHang": "True",
   "FFlagLGCPUMoveMemsetToPerform": "True",
-  "FFlagFixParticleAttachmentCulling_Rollout": "True;60;2024-03-22T17:03:36",
   "DFFlagUseAsyncTaskForSoundCacheCleaning": "True",
   "DFFlagDebugSimSolverCbisConsistentPivotBetweenLdlAndGs_Rollout": "True;30;2024-03-22T17:42:40",
   "FFlagHandleAudioApiReplicationOrdering": "True",
@@ -11299,6 +11298,7 @@
   "DFFlagTaskLibExclusiveWarning": "True",
   "DFIntImmersiveAdSkipFetchAdPlayerIdleThrottleHundrethsPercent_Rollout": "10000;60;2024-03-22T18:16:16",
   "DFFlagSimSolverCollectAverageForceOverSpecifiedAmountOfWorldSteps_Rollout": "True;60;2024-03-22T18:28:50",
+  "FFlagFixParticleAttachmentCulling": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11758,8 +11758,9 @@
   "EnableAndroidCheckTTIFlagFetchUseCase": "True",
   "FFlagLuaRollouts_Rollout": "True;60;2024-03-22T17:57:51",
   "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
-  "FStringFlagRepoGitHashFastString": "8724ee696fa19343190714d9632bf08c72768654",
-  "DFStringFlagRepoGitHashDynamicString": "8724ee696fa19343190714d9632bf08c72768654",
-  "FStringFlipTimeStampFastString": "2024-03-22T18:34:04.361Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-22T18:34:04.361Z"
+  "FFlagUseNewTerrainBroadPhase3_PlaceFilter": "True;4410049285",
+  "FStringFlagRepoGitHashFastString": "e560fd2ebe5c516f917db82a7c1ea94fcc10f864",
+  "DFStringFlagRepoGitHashDynamicString": "e560fd2ebe5c516f917db82a7c1ea94fcc10f864",
+  "FStringFlipTimeStampFastString": "2024-03-22T18:40:56.007Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-22T18:40:56.007Z"
 }
