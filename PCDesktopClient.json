@@ -11285,11 +11285,9 @@
   "FFlagFixChatWidgetMarkAsReadHang": "True",
   "FFlagLGCPUMoveMemsetToPerform": "True",
   "DFFlagUseAsyncTaskForSoundCacheCleaning": "True",
-  "DFFlagDebugSimSolverCbisConsistentPivotBetweenLdlAndGs_Rollout": "True;30;2024-03-22T17:42:40",
   "FFlagHandleAudioApiReplicationOrdering": "True",
   "FFlagNoCallStateEarlyOut": "True",
   "FFlagAddExperienceLaunchFieldsToV2Stat": "True",
-  "DFFlagDebugSimSolverCbisAlwaysUseActualPivots_Rollout": "True;30;2024-03-22T17:43:23",
   "FFlagIBEnableCollectiblesSystemSupport": "True",
   "FFlagIBEnableLimitedItemBugFixAndAlignment": "True",
   "FStringTextureGenerator2BetaFeatureUrl": "https://devforum.roblox.com/t/texture-generator-beta/2880635",
@@ -11301,6 +11299,8 @@
   "FFlagFixParticleAttachmentCulling": "True",
   "FFlagFixGamepadHelpImage": "True",
   "FFlagAddAnimatedFocusState": "True",
+  "DFFlagDebugSimSolverCbisAlwaysUseActualPivots": "True",
+  "DFFlagDebugSimSolverCbisConsistentPivotBetweenLdlAndGs": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11613,8 +11613,8 @@
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "FFlagUseNewTerrainBroadPhase3_PlaceFilter": "True;4410049285",
-  "FStringFlagRepoGitHashFastString": "0565fc940e7a1c88b8e1a6d30a55fd045ca3506a",
-  "DFStringFlagRepoGitHashDynamicString": "0565fc940e7a1c88b8e1a6d30a55fd045ca3506a",
-  "FStringFlipTimeStampFastString": "2024-03-22T18:45:11.970Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-22T18:45:11.970Z"
+  "FStringFlagRepoGitHashFastString": "e4e1518cbeb6ff0403fe87cb3091f0626addcfe2",
+  "DFStringFlagRepoGitHashDynamicString": "e4e1518cbeb6ff0403fe87cb3091f0626addcfe2",
+  "FStringFlipTimeStampFastString": "2024-03-22T18:47:58.583Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-22T18:47:58.583Z"
 }
