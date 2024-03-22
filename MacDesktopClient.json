@@ -11276,7 +11276,6 @@
   "FIntAdGuiRotationIntervalMS_PlaceFilter": "30000;16270624805",
   "DFLogSessionCrypto_PlaceFilter": "Verbose,9;16605845623",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
-  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagUserShowGuiHideToggles": "False",
   "FFlagLGCPUMoveMemsetToPerform_Rollout": "True;60;2024-03-21T22:52:17",
   "FFlagFixChatWidgetMarkAsReadHang_Rollout": "True;20;2024-03-21T23:09:41",
@@ -11284,6 +11283,8 @@
   "FFlagSessionTickcount": "True",
   "DFFlagSimSolverBodyRemoveStdFunctionInLock": "True",
   "FFlagEnableRemoveIsFromToastNotification": "True",
+  "DFFlagInferredCrashReportDelayedReport": "True",
+  "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -11305,7 +11306,6 @@
   "FFlagVoiceChatStopSendingIceCandidate": "False",
   "FFlagVoiceChatStopSendingIceCandidate_PlaceFilter": "True;7137646352;10386320684",
   "DFFlagInferredCrashDebugFields": "True",
-  "DFFlagInferredCrashReportDelayedReport": "True",
   "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent": "10000",
   "DFIntImmersiveAdVideoProgressEventThrottleHundredthsPercent": "10000",
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
@@ -11616,8 +11616,8 @@
   "FFlagVngContactInfoFormWebviewPopupEnabled": "True",
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagPhysicsReportWorldTime": "True",
-  "FStringFlagRepoGitHashFastString": "cbfc03053c8a82153f3d891f998ff8ec8cafc1fe",
-  "DFStringFlagRepoGitHashDynamicString": "cbfc03053c8a82153f3d891f998ff8ec8cafc1fe",
-  "FStringFlipTimeStampFastString": "2024-03-21T23:55:51.372Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-21T23:55:51.372Z"
+  "FStringFlagRepoGitHashFastString": "44c4afb2edc3e693006cb7249c9cf672a2ec73f3",
+  "DFStringFlagRepoGitHashDynamicString": "44c4afb2edc3e693006cb7249c9cf672a2ec73f3",
+  "FStringFlipTimeStampFastString": "2024-03-22T00:00:59.811Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-22T00:00:59.811Z"
 }
