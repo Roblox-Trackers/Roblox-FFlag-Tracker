@@ -11293,7 +11293,6 @@
   "FStringTextureGenerator2BetaFeatureUrl": "https://devforum.roblox.com/t/texture-generator-beta/2880635",
   "FFlagAXLimitedBundlesHandleNewData": "True",
   "DFFlagTaskLibExclusiveWarning": "True",
-  "DFIntImmersiveAdSkipFetchAdPlayerIdleThrottleHundrethsPercent_Rollout": "10000;60;2024-03-22T18:16:16",
   "DFFlagSimSolverCollectAverageForceOverSpecifiedAmountOfWorldSteps_Rollout": "True;60;2024-03-22T18:28:50",
   "FFlagFixParticleAttachmentCulling": "True",
   "FFlagFixGamepadHelpImage": "True",
@@ -11307,6 +11306,7 @@
   "FFlagIBEnableNewDataCollectionForCollectibleSystem": "True",
   "FFlagIBEnableRespectSaleLocation": "True",
   "FFlagIBEnableSendCounters": "True",
+  "DFIntImmersiveAdSkipFetchAdPlayerIdleThrottleHundrethsPercent": "10000",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11612,8 +11612,8 @@
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "FFlagUpdateCheckOnLogin_Rollout": "True;60;2024-03-22T19:21:52",
-  "FStringFlagRepoGitHashFastString": "63d08cec2367225fb90731194efc4e3328765540",
-  "DFStringFlagRepoGitHashDynamicString": "63d08cec2367225fb90731194efc4e3328765540",
-  "FStringFlipTimeStampFastString": "2024-03-22T19:50:36.994Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-22T19:50:36.994Z"
+  "FStringFlagRepoGitHashFastString": "ebab1af49a9e8de67886fc06e180a16f1192880b",
+  "DFStringFlagRepoGitHashDynamicString": "ebab1af49a9e8de67886fc06e180a16f1192880b",
+  "FStringFlipTimeStampFastString": "2024-03-22T19:55:22.517Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-22T19:55:22.517Z"
 }
