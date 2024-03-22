@@ -11299,6 +11299,8 @@
   "DFIntImmersiveAdSkipFetchAdPlayerIdleThrottleHundrethsPercent_Rollout": "10000;60;2024-03-22T18:16:16",
   "DFFlagSimSolverCollectAverageForceOverSpecifiedAmountOfWorldSteps_Rollout": "True;60;2024-03-22T18:28:50",
   "FFlagFixParticleAttachmentCulling": "True",
+  "FFlagFixGamepadHelpImage": "True",
+  "FFlagAddAnimatedFocusState": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11759,8 +11761,8 @@
   "FFlagLuaRollouts_Rollout": "True;60;2024-03-22T17:57:51",
   "FFlagDevConsoleFullScreenDropDownScrollFix": "True",
   "FFlagUseNewTerrainBroadPhase3_PlaceFilter": "True;4410049285",
-  "FStringFlagRepoGitHashFastString": "ee193375c015f9e83bb71ce5b88d78cafc4a54cd",
-  "DFStringFlagRepoGitHashDynamicString": "ee193375c015f9e83bb71ce5b88d78cafc4a54cd",
-  "FStringFlipTimeStampFastString": "2024-03-22T18:42:40.443Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-22T18:42:40.443Z"
+  "FStringFlagRepoGitHashFastString": "0565fc940e7a1c88b8e1a6d30a55fd045ca3506a",
+  "DFStringFlagRepoGitHashDynamicString": "0565fc940e7a1c88b8e1a6d30a55fd045ca3506a",
+  "FStringFlipTimeStampFastString": "2024-03-22T18:45:11.970Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-22T18:45:11.970Z"
 }
