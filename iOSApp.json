@@ -11276,7 +11276,6 @@
   "FIntAdGuiRotationIntervalMS_PlaceFilter": "30000;16270624805",
   "DFLogSessionCrypto_PlaceFilter": "Verbose,9;16605845623",
   "FFlagUserShowGuiHideToggles": "True",
-  "FFlagLGCPUMoveMemsetToPerform_Rollout": "True;60;2024-03-21T22:52:17",
   "DFLogRakNetPktTrace_PlaceFilter": "12;16605845623",
   "FFlagSessionTickcount": "True",
   "DFFlagSimSolverBodyRemoveStdFunctionInLock": "True",
@@ -11285,6 +11284,7 @@
   "DFFlagInferredCrashDebugFields": "True",
   "FFlagFixChatWidgetMarkAsReadHang": "True",
   "FFlagFlagRolloutTestStaticBool6_Rollout": "False;60;2024-03-22T00:24:49",
+  "FFlagLGCPUMoveMemsetToPerform": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11705,8 +11705,8 @@
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "DFFlagInferredCrashSubsystemAlwaysTeardown": "True",
-  "FStringFlagRepoGitHashFastString": "c52d2883d2f85a84ed50bcf14650d264eac547cd",
-  "DFStringFlagRepoGitHashDynamicString": "c52d2883d2f85a84ed50bcf14650d264eac547cd",
-  "FStringFlipTimeStampFastString": "2024-03-22T00:25:56.379Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-22T00:25:56.379Z"
+  "FStringFlagRepoGitHashFastString": "f031490bdfc8879b9d934f81a4d024412ab90870",
+  "DFStringFlagRepoGitHashDynamicString": "f031490bdfc8879b9d934f81a4d024412ab90870",
+  "FStringFlipTimeStampFastString": "2024-03-22T00:30:56.919Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-22T00:30:56.919Z"
 }
