@@ -11284,12 +11284,12 @@
   "DFFlagInferredCrashDebugFields": "True",
   "FFlagFixChatWidgetMarkAsReadHang": "True",
   "FFlagLGCPUMoveMemsetToPerform": "True",
-  "DFFlagUseAsyncTaskForSoundCacheCleaning_Rollout": "True;60;2024-03-22T16:08:05",
   "FFlagHandleAudioApiReplicationOrdering_Rollout": "True;60;2024-03-22T16:09:26",
   "FFlagAddExperienceLaunchFieldsToV2Stat_Rollout": "True;60;2024-03-22T16:09:57",
   "FFlagNoCallStateEarlyOut_Rollout": "True;60;2024-03-22T16:10:07",
   "DFFlagTaskLibExclusiveWarning_Rollout": "True;60;2024-03-22T16:43:16",
   "FFlagFixParticleAttachmentCulling_Rollout": "True;60;2024-03-22T17:03:36",
+  "DFFlagUseAsyncTaskForSoundCacheCleaning": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11593,8 +11593,8 @@
   "FFlagUpdateNudgeV3VoiceBanUI2": "True",
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "19e291601346f8d564f555886f6daccddab487f1",
-  "DFStringFlagRepoGitHashDynamicString": "19e291601346f8d564f555886f6daccddab487f1",
-  "FStringFlipTimeStampFastString": "2024-03-22T17:39:09.907Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-22T17:39:09.907Z"
+  "FStringFlagRepoGitHashFastString": "bd41b344c0c5c3f204dc1af85b4a8ddde0881bb6",
+  "DFStringFlagRepoGitHashDynamicString": "bd41b344c0c5c3f204dc1af85b4a8ddde0881bb6",
+  "FStringFlipTimeStampFastString": "2024-03-22T17:42:45.489Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-22T17:42:45.489Z"
 }
