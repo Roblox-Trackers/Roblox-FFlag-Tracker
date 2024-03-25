@@ -8694,8 +8694,7 @@
   "FFlagDontCreatePingJob2": "True",
   "FFlagToolboxDisableContextualRecommendationRetries": "True",
   "FFlagACEFixRigUtilsMigration": "True",
-  "DFFlagVoiceChatGrpcCqBreakOnNotOk": "True",
-  "DFFlagVoiceChatGrpcCqBreakOnNotOk_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;9096881148;12699642568;2711375305;3808081382;2626227051;703124385;3317679266;12123120785;13344085926;14292367294;12339044345;189707;6884319169",
+  "DFFlagVoiceChatGrpcCqBreakOnNotOk": "False",
   "DFFlagVoiceChatSubmitTagNotFoundAndInsertFailedError": "False",
   "DFFlagVoiceChatSubmitTagNotFoundAndInsertFailedError_PlaceFilter": "True;9134756438;9134768108;7137646352;8158601082;10126799807;7376832747;9672950003;13523443036;301549746;2317712696;9096881148;12699642568;2711375305;3808081382;2626227051;703124385;3317679266;12123120785;13344085926;14292367294;12339044345;189707;6884319169",
   "FFlagVoiceChatStreamingGrpcTagFix": "True",
@@ -11775,8 +11774,8 @@
   "FFlagUIBloxModalTitleAutomaticSizing": "True",
   "FFlagUseMicIconForVoiceUpsell": "True",
   "DFFlagReportDetailedSimulationBreakdown_Rollout": "True;60;2024-03-25T16:49:26",
-  "FStringFlagRepoGitHashFastString": "68871c74f81e8ddeef669c2515b58b82964edd81",
-  "DFStringFlagRepoGitHashDynamicString": "68871c74f81e8ddeef669c2515b58b82964edd81",
-  "FStringFlipTimeStampFastString": "2024-03-25T17:14:24.491Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-25T17:14:24.491Z"
+  "FStringFlagRepoGitHashFastString": "835dd742baa0fb42b69247d47076c1736e8016b1",
+  "DFStringFlagRepoGitHashDynamicString": "835dd742baa0fb42b69247d47076c1736e8016b1",
+  "FStringFlipTimeStampFastString": "2024-03-25T17:15:10.453Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-25T17:15:10.453Z"
 }
