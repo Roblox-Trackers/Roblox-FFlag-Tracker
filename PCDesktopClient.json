@@ -11322,6 +11322,7 @@
   "FFlagFmodMacGetDeviceBusType2_Rollout": "True;60;2024-03-25T17:32:24",
   "FFlagTexturePackUploadApiMigration2_Rollout": "True;60;2024-03-25T17:39:28",
   "FFlagPackageUpdateAnalytics": "True",
+  "FFlagViewportFrameEnvMapSupport_Rollout": "True;60;2024-03-25T17:48:11",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11630,8 +11631,8 @@
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "DFFlagReportDetailedSimulationBreakdown_Rollout": "True;60;2024-03-25T16:49:26",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal_Rollout": "True;60;2024-03-25T17:32:28",
-  "FStringFlagRepoGitHashFastString": "c18bd36a93dbc1954d353aa9acaff475924cd67c",
-  "DFStringFlagRepoGitHashDynamicString": "c18bd36a93dbc1954d353aa9acaff475924cd67c",
-  "FStringFlipTimeStampFastString": "2024-03-25T17:52:04.413Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-25T17:52:04.413Z"
+  "FStringFlagRepoGitHashFastString": "31107e7b621a8f45a081ccd1a45aab8e3a723da5",
+  "DFStringFlagRepoGitHashDynamicString": "31107e7b621a8f45a081ccd1a45aab8e3a723da5",
+  "FStringFlipTimeStampFastString": "2024-03-25T17:52:19.468Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-25T17:52:19.468Z"
 }
