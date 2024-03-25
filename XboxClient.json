@@ -11329,6 +11329,7 @@
   "FFlagUpdatedUserAgreementAgreeButtonStyleFix": "True",
   "DFFlagEnableQualityResetSessionTracking": "True",
   "FFlagApolloUserProfileBaseUrl": "True",
+  "DFFlagStopSendingRCCLogBlockingTelemetry_Rollout": "True;60;2024-03-25T18:20:42",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11647,9 +11648,9 @@
   "FFlagLuaRollouts": "True",
   "FFlagUIBloxModalTitleAutomaticSizing": "True",
   "FFlagUseMicIconForVoiceUpsell": "True",
-  "DFFlagReportDetailedSimulationBreakdown_Rollout": "True;60;2024-03-25T16:49:26",
-  "FStringFlagRepoGitHashFastString": "56ddf8189cd25905ae00c823e0f6bd6dd678b49d",
-  "DFStringFlagRepoGitHashDynamicString": "56ddf8189cd25905ae00c823e0f6bd6dd678b49d",
-  "FStringFlipTimeStampFastString": "2024-03-25T18:20:51.187Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-25T18:20:51.187Z"
+  "DFFlagReportDetailedSimulationBreakdown": "True",
+  "FStringFlagRepoGitHashFastString": "7c41244abe43e6e475d37a7612c7182ce96b3f97",
+  "DFStringFlagRepoGitHashDynamicString": "7c41244abe43e6e475d37a7612c7182ce96b3f97",
+  "FStringFlipTimeStampFastString": "2024-03-25T18:22:48.379Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-25T18:22:48.379Z"
 }
