@@ -11364,8 +11364,6 @@
   "EnableJavaAudioDeviceSelectionV2": "True",
   "DFFlagHasRuppHeaderFromServerTelemetry": "True",
   "DFFlagNoRuppHeaderFromServerTelemetry": "True",
-  "DFIntThumbnailContentProviderTimeoutSecs_Rollout": "10;60;2024-03-26T21:31:52",
-  "DFIntThumbnailTextureLoadTimeoutSecs_Rollout": "10;60;2024-03-26T21:32:10",
   "DFFlagFixTurnFFlagsLuaOff": "True",
   "DFFlagBatchId2HotrodAccessorMigration": "True",
   "DFIntReplicatorReadArrayCollisionReportingMyriad": "100",
@@ -11375,6 +11373,9 @@
   "DFFlagFeb2924VideoFrameGetterMigration_Rollout": "True;60;2024-03-26T22:42:12",
   "DFFlagFeb2924VideoCaptureServiceGetterMigration_Rollout": "True;60;2024-03-26T22:42:22",
   "FFlagGraphicsVulkanSwapchainImagesFix_Rollout": "True;60;2024-03-26T22:49:46",
+  "FFlagEnableFeatureTracking_Rollout": "True;60;2024-03-26T23:08:23",
+  "DFIntThumbnailContentProviderTimeoutSecs": "10",
+  "DFIntThumbnailTextureLoadTimeoutSecs": "10",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11587,8 +11588,8 @@
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
   "FFlagClientAvatarUsesColor3sForBodyParts8": "True",
-  "FStringFlagRepoGitHashFastString": "46de76319b46cbff58fef76852cdafc42d0e4a85",
-  "DFStringFlagRepoGitHashDynamicString": "46de76319b46cbff58fef76852cdafc42d0e4a85",
-  "FStringFlipTimeStampFastString": "2024-03-26T23:07:23.118Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T23:07:23.118Z"
+  "FStringFlagRepoGitHashFastString": "c3af2f98ece9518e427e4802f7e2c18a0f9ed55b",
+  "DFStringFlagRepoGitHashDynamicString": "c3af2f98ece9518e427e4802f7e2c18a0f9ed55b",
+  "FStringFlipTimeStampFastString": "2024-03-26T23:10:35.750Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T23:10:35.750Z"
 }

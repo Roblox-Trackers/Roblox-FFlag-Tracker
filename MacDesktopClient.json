@@ -11364,8 +11364,6 @@
   "EnableJavaAudioDeviceSelectionV2": "True",
   "DFFlagHasRuppHeaderFromServerTelemetry": "True",
   "DFFlagNoRuppHeaderFromServerTelemetry": "True",
-  "DFIntThumbnailContentProviderTimeoutSecs_Rollout": "10;60;2024-03-26T21:31:52",
-  "DFIntThumbnailTextureLoadTimeoutSecs_Rollout": "10;60;2024-03-26T21:32:10",
   "DFFlagFixTurnFFlagsLuaOff": "True",
   "DFFlagBatchId2HotrodAccessorMigration": "True",
   "DFIntReplicatorReadArrayCollisionReportingMyriad": "100",
@@ -11376,6 +11374,8 @@
   "DFFlagFeb2924VideoCaptureServiceGetterMigration_Rollout": "True;60;2024-03-26T22:42:22",
   "FFlagGraphicsVulkanSwapchainImagesFix_Rollout": "True;60;2024-03-26T22:49:46",
   "FFlagEnableFeatureTracking_Rollout": "True;60;2024-03-26T23:08:23",
+  "DFIntThumbnailContentProviderTimeoutSecs": "10",
+  "DFIntThumbnailTextureLoadTimeoutSecs": "10",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11715,8 +11715,8 @@
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FStringFlagRepoGitHashFastString": "54851ed014989861694f84bd8141158a373fa9ea",
-  "DFStringFlagRepoGitHashDynamicString": "54851ed014989861694f84bd8141158a373fa9ea",
-  "FStringFlipTimeStampFastString": "2024-03-26T23:10:26.776Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T23:10:26.776Z"
+  "FStringFlagRepoGitHashFastString": "c3af2f98ece9518e427e4802f7e2c18a0f9ed55b",
+  "DFStringFlagRepoGitHashDynamicString": "c3af2f98ece9518e427e4802f7e2c18a0f9ed55b",
+  "FStringFlipTimeStampFastString": "2024-03-26T23:10:35.750Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T23:10:35.750Z"
 }
