@@ -11337,6 +11337,7 @@
   "FFlagSimSolverOptimizeTimestepMultiplierChanges_Rollout": "True;60;2024-03-26T16:13:21",
   "DFFlagMakeRBXFileSystemWrapperOneToOneWithBoostFunctions_Rollout": "True;60;2024-03-26T16:13:36",
   "DFFlagInferredCrashSubsystemAlternative_Rollout": "True;60;2024-03-26T16:31:07",
+  "AllowVideoPreRoll": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11365,7 +11366,6 @@
   "FFlagEnableSaleLocationShopAndExperiencesDevApi1": "True",
   "FFlagEnableUGC4ACollectiblePurchaseSupport": "True",
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -11648,8 +11648,8 @@
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
-  "FStringFlagRepoGitHashFastString": "7d546e76493985597b8fa27ec766445bcc47e1b1",
-  "DFStringFlagRepoGitHashDynamicString": "7d546e76493985597b8fa27ec766445bcc47e1b1",
-  "FStringFlipTimeStampFastString": "2024-03-26T16:31:53.708Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T16:31:53.708Z"
+  "FStringFlagRepoGitHashFastString": "cbbb066ab5c5335f909086033b4a562c6fdceabf",
+  "DFStringFlagRepoGitHashDynamicString": "cbbb066ab5c5335f909086033b4a562c6fdceabf",
+  "FStringFlipTimeStampFastString": "2024-03-26T16:35:52.812Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T16:35:52.812Z"
 }
