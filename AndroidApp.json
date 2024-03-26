@@ -11377,6 +11377,7 @@
   "DFIntThumbnailContentProviderTimeoutSecs": "10",
   "DFIntThumbnailTextureLoadTimeoutSecs": "10",
   "FFlagXboxCredentialsHeaders_Rollout": "True;60;2024-03-26T23:19:44",
+  "FFlagLuauPreallocateTarjanVectors_Rollout": "True;30;2024-03-26T23:39:45",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11839,8 +11840,8 @@
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "DFFlagReportOutputDeviceWithRobloxTelemetry": "True",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage": "10000",
-  "FStringFlagRepoGitHashFastString": "a699d87c85e6519d87d42fd4492f228527550829",
-  "DFStringFlagRepoGitHashDynamicString": "a699d87c85e6519d87d42fd4492f228527550829",
-  "FStringFlipTimeStampFastString": "2024-03-26T23:25:55.199Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T23:25:55.199Z"
+  "FStringFlagRepoGitHashFastString": "e17fa76f80ecf62588a4acc970da40850a0270c2",
+  "DFStringFlagRepoGitHashDynamicString": "e17fa76f80ecf62588a4acc970da40850a0270c2",
+  "FStringFlipTimeStampFastString": "2024-03-26T23:40:58.528Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T23:40:58.528Z"
 }
