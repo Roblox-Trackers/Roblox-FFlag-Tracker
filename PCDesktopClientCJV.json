@@ -11354,8 +11354,6 @@
   "DFStringAndroidDeprecationBodyPhase2LocalizationKey": "AndroidDeprecationBodyPhase2Fallback",
   "DFStringAndroidDeprecationLoggingEventName": "Android22Deprecation_Phase",
   "FFlagResetGamepadOnDMSwitch2": "True",
-  "DFFlagNoRuppHeaderFromServerTelemetry_Rollout": "True;60;2024-03-26T19:57:57",
-  "DFFlagHasRuppHeaderFromServerTelemetry_Rollout": "True;60;2024-03-26T19:58:06",
   "DFFlagFixTurnFFlagsLuaOff_Rollout": "True;60;2024-03-26T20:26:20",
   "DFFlagRemoveVerbsLuaToolVerb": "True",
   "FFlagLuauCodegenSmallerUnm": "True",
@@ -11368,6 +11366,10 @@
   "FFlagMigrateVerbAnchorVerb": "True",
   "EnableJavaAudioDeviceSelectionV2": "True",
   "FIntVideoDecodedVideoQueueSize_Rollout": "2;60;2024-03-26T21:25:29",
+  "DFFlagHasRuppHeaderFromServerTelemetry": "True",
+  "DFFlagNoRuppHeaderFromServerTelemetry": "True",
+  "DFIntThumbnailContentProviderTimeoutSecs_Rollout": "10;60;2024-03-26T21:31:52",
+  "DFIntThumbnailTextureLoadTimeoutSecs_Rollout": "10;60;2024-03-26T21:32:10",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11683,8 +11685,8 @@
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "86f5aaef1733be5e26a13174d7c67e6d33ad4e18",
-  "DFStringFlagRepoGitHashDynamicString": "86f5aaef1733be5e26a13174d7c67e6d33ad4e18",
-  "FStringFlipTimeStampFastString": "2024-03-26T21:32:42.270Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T21:32:42.270Z"
+  "FStringFlagRepoGitHashFastString": "e17a11da0dd13937483b6d99e310e95fab6a08d3",
+  "DFStringFlagRepoGitHashDynamicString": "e17a11da0dd13937483b6d99e310e95fab6a08d3",
+  "FStringFlipTimeStampFastString": "2024-03-26T21:36:21.567Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T21:36:21.567Z"
 }
