@@ -11359,7 +11359,6 @@
   "FFlagLuauCodegenVectorOptAnd": "True",
   "QrScannerFixBackCameraUnavailableCrash": "True",
   "FFlagMigrateSelectionVerbs": "True",
-  "DFIntReplicatorReadArrayCollisionReportingMyriad_Rollout": "100;60;2024-03-26T20:46:36",
   "FFlagReportCorrectAvgQualityInFRMMetrics": "True",
   "FFlagMigrateVerbAnchorVerb": "True",
   "EnableJavaAudioDeviceSelectionV2": "True",
@@ -11370,6 +11369,7 @@
   "DFIntThumbnailTextureLoadTimeoutSecs_Rollout": "10;60;2024-03-26T21:32:10",
   "DFFlagFixTurnFFlagsLuaOff": "True",
   "DFFlagBatchId2HotrodAccessorMigration": "True",
+  "DFIntReplicatorReadArrayCollisionReportingMyriad": "100",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11685,8 +11685,8 @@
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "84691b43542244c5ab83d4b8c07cbcf535f304a3",
-  "DFStringFlagRepoGitHashDynamicString": "84691b43542244c5ab83d4b8c07cbcf535f304a3",
-  "FStringFlipTimeStampFastString": "2024-03-26T22:21:00.231Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T22:21:00.231Z"
+  "FStringFlagRepoGitHashFastString": "14d9cdc00a063e4d88573f6c26b8f2ea1b6e4a34",
+  "DFStringFlagRepoGitHashDynamicString": "14d9cdc00a063e4d88573f6c26b8f2ea1b6e4a34",
+  "FStringFlipTimeStampFastString": "2024-03-26T22:25:54.482Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T22:25:54.482Z"
 }
