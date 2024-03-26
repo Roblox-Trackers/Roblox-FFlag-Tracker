@@ -11361,7 +11361,6 @@
   "FFlagMigrateSelectionVerbs": "True",
   "DFIntReplicatorReadArrayCollisionReportingMyriad_Rollout": "100;60;2024-03-26T20:46:36",
   "FFlagReportCorrectAvgQualityInFRMMetrics": "True",
-  "DFFlagBatchId2HotrodAccessorMigration_Rollout": "True;30;2024-03-26T21:00:57",
   "FFlagMigrateVerbAnchorVerb": "True",
   "EnableJavaAudioDeviceSelectionV2": "True",
   "FIntVideoDecodedVideoQueueSize_Rollout": "2;60;2024-03-26T21:25:29",
@@ -11370,6 +11369,7 @@
   "DFIntThumbnailContentProviderTimeoutSecs_Rollout": "10;60;2024-03-26T21:31:52",
   "DFIntThumbnailTextureLoadTimeoutSecs_Rollout": "10;60;2024-03-26T21:32:10",
   "DFFlagFixTurnFFlagsLuaOff": "True",
+  "DFFlagBatchId2HotrodAccessorMigration": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11833,8 +11833,8 @@
   "DFFlagReportOutputDeviceWithRobloxTelemetry_Rollout": "True;60;2024-03-26T21:24:35",
   "DFIntReportRecordingDeviceInfoEventRateHundredthsPercentage_Rollout": "10000;60;2024-03-26T21:46:31",
   "FFlagClientAvatarUsesColor3sForBodyParts8": "True",
-  "FStringFlagRepoGitHashFastString": "fd77ca7abe63935920e26722d6386f10aeb10831",
-  "DFStringFlagRepoGitHashDynamicString": "fd77ca7abe63935920e26722d6386f10aeb10831",
-  "FStringFlipTimeStampFastString": "2024-03-26T22:03:40.269Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T22:03:40.269Z"
+  "FStringFlagRepoGitHashFastString": "e843654800f0e2cb5921f33a5dcf706fc4b2864d",
+  "DFStringFlagRepoGitHashDynamicString": "e843654800f0e2cb5921f33a5dcf706fc4b2864d",
+  "FStringFlipTimeStampFastString": "2024-03-26T22:10:36.693Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T22:10:36.693Z"
 }
