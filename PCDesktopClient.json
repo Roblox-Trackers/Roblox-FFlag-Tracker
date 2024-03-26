@@ -1746,7 +1746,7 @@
   "FFlagAlignToolImprovedAnalytics": "True",
   "FFlagWaitForLCUpdates": "True",
   "DFIntSessionTelemetryOSWarningMinimum": "10",
-  "FIntVideoDecodedVideoQueueSize": "4",
+  "FIntVideoDecodedVideoQueueSize": "2",
   "FFlagLeaveGameOnDeeplink": "True",
   "FFlagFixLearnMoreLinkViaSocialTab": "True",
   "FFlagWinChannelCrashCounter": "True",
@@ -11362,7 +11362,6 @@
   "FFlagReportCorrectAvgQualityInFRMMetrics": "True",
   "FFlagMigrateVerbAnchorVerb": "True",
   "EnableJavaAudioDeviceSelectionV2": "True",
-  "FIntVideoDecodedVideoQueueSize_Rollout": "2;60;2024-03-26T21:25:29",
   "DFFlagHasRuppHeaderFromServerTelemetry": "True",
   "DFFlagNoRuppHeaderFromServerTelemetry": "True",
   "DFIntThumbnailContentProviderTimeoutSecs_Rollout": "10;60;2024-03-26T21:31:52",
@@ -11690,8 +11689,8 @@
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
-  "FStringFlagRepoGitHashFastString": "cd1dcd80bbed4badedb06289b3c60d6554a55035",
-  "DFStringFlagRepoGitHashDynamicString": "cd1dcd80bbed4badedb06289b3c60d6554a55035",
-  "FStringFlipTimeStampFastString": "2024-03-26T23:00:32.109Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T23:00:32.109Z"
+  "FStringFlagRepoGitHashFastString": "46de76319b46cbff58fef76852cdafc42d0e4a85",
+  "DFStringFlagRepoGitHashDynamicString": "46de76319b46cbff58fef76852cdafc42d0e4a85",
+  "FStringFlipTimeStampFastString": "2024-03-26T23:07:23.118Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T23:07:23.118Z"
 }
