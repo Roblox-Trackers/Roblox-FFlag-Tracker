@@ -11342,7 +11342,6 @@
   "FFlagDisableLocalizationOverride": "True",
   "FFlagGameSettingsExpandToggleButtonTitleWidth": "True",
   "FFlagGameSettingsFixGuidelinesQuestionnareInfo": "True",
-  "FFlagResetGamepadOnDMSwitch2_Rollout": "True;60;2024-03-26T18:21:31",
   "FIntTooltipHitboxMinSize": "30",
   "FFlagSimAdaptiveMinorOptimizations": "True",
   "DFFlagUIErrorCaptureFix": "True",
@@ -11362,6 +11361,8 @@
   "DFStringAndroidDeprecationBodyPhase2LocalizationKey": "AndroidDeprecationBodyPhase2Fallback",
   "DFStringAndroidDeprecationLoggingEventName": "Android22Deprecation_Phase",
   "FFlagResetGamepadOnDMSwitch2": "True",
+  "DFFlagNoRuppHeaderFromServerTelemetry_Rollout": "True;60;2024-03-26T19:57:57",
+  "DFFlagHasRuppHeaderFromServerTelemetry_Rollout": "True;60;2024-03-26T19:58:06",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11573,8 +11574,8 @@
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FStringFlagRepoGitHashFastString": "d73419ed48259b0f0b6717231fe36b7c0848c133",
-  "DFStringFlagRepoGitHashDynamicString": "d73419ed48259b0f0b6717231fe36b7c0848c133",
-  "FStringFlipTimeStampFastString": "2024-03-26T19:55:25.250Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T19:55:25.250Z"
+  "FStringFlagRepoGitHashFastString": "03f4a60d995124d463ce6bf05d2b5954cb266fb3",
+  "DFStringFlagRepoGitHashDynamicString": "03f4a60d995124d463ce6bf05d2b5954cb266fb3",
+  "FStringFlipTimeStampFastString": "2024-03-26T20:01:21.289Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T20:01:21.289Z"
 }
