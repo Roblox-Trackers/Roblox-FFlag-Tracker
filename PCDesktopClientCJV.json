@@ -11349,7 +11349,6 @@
   "FFlagLuauMakeStringMethodsChecked": "True",
   "FFlagJavaAudioDeviceSelection2": "True",
   "FFlagHttpWrapperAddCustomHeadersOption": "True",
-  "FFlagMigrateVerbAnchorVerb_Rollout": "True;60;2024-03-26T19:28:03",
   "DFFlagEnableThumbnailTimeoutNew": "True",
   "FFlagModifiedPropertiesFixEventOrdering": "True",
   "DFIntAndroidDeprecationDate": "1714460400000",
@@ -11368,6 +11367,7 @@
   "DFIntReplicatorReadArrayCollisionReportingMyriad_Rollout": "100;60;2024-03-26T20:46:36",
   "FFlagReportCorrectAvgQualityInFRMMetrics": "True",
   "DFFlagBatchId2HotrodAccessorMigration_Rollout": "True;30;2024-03-26T21:00:57",
+  "FFlagMigrateVerbAnchorVerb": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11682,8 +11682,8 @@
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "d4edf9c6027b945513db1440a7fd76030ec8b94a",
-  "DFStringFlagRepoGitHashDynamicString": "d4edf9c6027b945513db1440a7fd76030ec8b94a",
-  "FStringFlipTimeStampFastString": "2024-03-26T21:01:45.652Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T21:01:45.652Z"
+  "FStringFlagRepoGitHashFastString": "3066b14064545f9354d7c3442db151c62ac99492",
+  "DFStringFlagRepoGitHashDynamicString": "3066b14064545f9354d7c3442db151c62ac99492",
+  "FStringFlipTimeStampFastString": "2024-03-26T21:03:16.882Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T21:03:16.882Z"
 }
