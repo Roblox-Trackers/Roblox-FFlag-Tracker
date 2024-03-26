@@ -11326,8 +11326,6 @@
   "FFlagIGMResetGfxQuality": "True",
   "FStringStudioPlayModeAllowedBuiltins": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm",
   "FFlagTextureGeneratorWholeContext": "True",
-  "FFlagFmodWasapiRecordBTHeadsetMatching2_Rollout": "True;60;2024-03-25T23:38:21",
-  "DFFlagFrameTimeStdDev_Rollout": "True;60;2024-03-25T23:38:31",
   "DFFlagFlagRolloutTestDynamicBool0_Rollout": "False;60;2024-03-25T23:50:45",
   "FFlagFlagRolloutTestStaticBool0_Rollout": "True;60;2024-03-25T23:50:50",
   "FFlagDisablePlaySoloUIUpdatesInBeta2": "True",
@@ -11336,6 +11334,8 @@
   "DFFlagCSC92p2": "True",
   "FFlagSecretTransformationEnabled": "True",
   "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
+  "DFFlagFrameTimeStdDev": "True",
+  "FFlagFmodWasapiRecordBTHeadsetMatching2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11648,8 +11648,8 @@
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "c19049e37d4addfd3ffcfb8c2852c2b889b2c4ad",
-  "DFStringFlagRepoGitHashDynamicString": "c19049e37d4addfd3ffcfb8c2852c2b889b2c4ad",
-  "FStringFlipTimeStampFastString": "2024-03-26T01:06:54.155Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T01:06:54.155Z"
+  "FStringFlagRepoGitHashFastString": "1d89b0988d71666dacda86ee5d66d42dbf43fd34",
+  "DFStringFlagRepoGitHashDynamicString": "1d89b0988d71666dacda86ee5d66d42dbf43fd34",
+  "FStringFlipTimeStampFastString": "2024-03-26T01:15:35.759Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T01:15:35.759Z"
 }
