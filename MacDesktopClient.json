@@ -11336,7 +11336,6 @@
   "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True",
   "DFFlagMakeRBXFileSystemWrapperOneToOneWithBoostFunctions": "True",
   "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
-  "DFFlagEnableThumbnailTimeoutNew_Rollout": "True;60;2024-03-26T17:58:38",
   "FFlagModifiedPropertiesFixEventOrdering_Rollout": "True;60;2024-03-26T18:05:54",
   "FFlagSimIslandizerMultiplierUpdate": "True",
   "DFFlagInferredCrashSubsystemAlternative": "True",
@@ -11361,6 +11360,7 @@
   "DFFlagRemoveVerbsLuaToolVerb_Rollout": "True;30;2024-03-26T19:23:32",
   "FFlagReportCorrectAvgQualityInFRMMetrics_Rollout": "True;60;2024-03-26T19:24:46",
   "FFlagMigrateVerbAnchorVerb_Rollout": "True;60;2024-03-26T19:28:03",
+  "DFFlagEnableThumbnailTimeoutNew": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11698,8 +11698,8 @@
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FStringFlagRepoGitHashFastString": "de82f687788a05301498aafe838ce1dff6f38f81",
-  "DFStringFlagRepoGitHashDynamicString": "de82f687788a05301498aafe838ce1dff6f38f81",
-  "FStringFlipTimeStampFastString": "2024-03-26T19:30:39.966Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T19:30:39.966Z"
+  "FStringFlagRepoGitHashFastString": "2f0c3f82abf2a61ae15b9dad81d12488615ca674",
+  "DFStringFlagRepoGitHashDynamicString": "2f0c3f82abf2a61ae15b9dad81d12488615ca674",
+  "FStringFlipTimeStampFastString": "2024-03-26T19:35:59.077Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T19:35:59.077Z"
 }
