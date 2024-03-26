@@ -11347,6 +11347,7 @@
   "FFlagHttpWrapperAddCustomHeadersOption_Rollout": "True;60;2024-03-26T17:42:30",
   "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True",
   "DFFlagMakeRBXFileSystemWrapperOneToOneWithBoostFunctions": "True",
+  "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11631,7 +11632,6 @@
   "FFlagEnableRealtimeProtocolForAllV601": "True",
   "FFlagEnableRealtimeProtocolRolloutV601": "True",
   "FIntEnableRealtimeProtocolRolloutV601HundredthPercent": "10000",
-  "FFlagLuaAppFixLoggedOutInSessionJitter": "True",
   "FFlagRefactorGuiRTCacheImpl2": "False",
   "FFlagEnableSocialContextToast": "True",
   "FFlagEnableInGameMenuChromeABTest": "False",
@@ -11658,8 +11658,8 @@
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
-  "FStringFlagRepoGitHashFastString": "566832d14f091a8950ebc0fedb1afaf9875ec481",
-  "DFStringFlagRepoGitHashDynamicString": "566832d14f091a8950ebc0fedb1afaf9875ec481",
-  "FStringFlipTimeStampFastString": "2024-03-26T17:51:16.235Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T17:51:16.235Z"
+  "FStringFlagRepoGitHashFastString": "22ce29fa9863e4a82265279d96a8c405cdc9ec4d",
+  "DFStringFlagRepoGitHashDynamicString": "22ce29fa9863e4a82265279d96a8c405cdc9ec4d",
+  "FStringFlipTimeStampFastString": "2024-03-26T17:55:49.666Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T17:55:49.666Z"
 }
