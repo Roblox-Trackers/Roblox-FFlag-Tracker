@@ -2263,7 +2263,7 @@
   "FFlagCleanUpIsSubjectToDesktopPolicies": "True",
   "FStringLuaTopicsIXPLayer": "AvatarMarketplace.GuidedFeatures",
   "FFlagShowRatingsInAssetPreviewForAllPlugins": "True",
-  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView,PlayerApp.PhoneVerification.iOS,AvatarExperience.CameraButtonExposure,Social.DisplayNameSetting,Social.InternationalDisplayName,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,UserCommunities.EDP.CommunityLinks,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Social.ContactList,Social.UserSearchUX,Social.ExperienceDetailsContextualMenu,Social.ContactImporter",
+  "FStringIxpNewLayersForRegistration": "AvatarMarketplace.ShoppingCart,AvatarMarketplace.GuidedFeatures.Mobile,App.AppPerf.Regression,Revenue.UA.Gamepass.RobuxUpsell,Ads.AdBlock,Social.AddFriendsPage,Social.UserSearchResultsPage,Social.Profile,AvatarMarketplace.ItemDetailsPage,ProfileQRCodeFriendRequestAlertsLayer,ProfileQRCodeLayer,Social.FriendsLanding,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.PhoneVerification.Android,PlayerApp.Logout,Social.SelfProfileView,AvatarMarketplace.WidgetPlatform,Social.ConnectTab,Social.ProfilePeekView,PlayerApp.PhoneVerification.iOS,Social.DisplayNameSetting,Social.InternationalDisplayName,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,UserCommunities.EDP.CommunityLinks,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Social.ContactList,Social.UserSearchUX,Social.ExperienceDetailsContextualMenu,Social.ContactImporter,AvatarExperience.ColorPickerExposure",
   "DFIntStudioLexMapChangeDocAnalyticsThrottleHundredthsPercent2": "1000",
   "DFIntStudioSyntaxHighlightingOnChangeAnalyticsThrottleHundredthsPercent2": "1000",
   "FFlagStudioLexMapChangeDocAnalytics2": "True",
@@ -11371,6 +11371,7 @@
   "DFFlagBatchId2HotrodAccessorMigration": "True",
   "DFIntReplicatorReadArrayCollisionReportingMyriad": "100",
   "FFlagAvatarPreviewerImportBodyColors": "True",
+  "DFFlagGuardUpdateFixedNOU_Rollout": "True;60;2024-03-26T22:31:12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11685,8 +11686,8 @@
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
-  "FStringFlagRepoGitHashFastString": "dee85bf64a353087996b379d246b4fddc914bc37",
-  "DFStringFlagRepoGitHashDynamicString": "dee85bf64a353087996b379d246b4fddc914bc37",
-  "FStringFlipTimeStampFastString": "2024-03-26T22:30:37.825Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T22:30:37.825Z"
+  "FStringFlagRepoGitHashFastString": "25d0e880c6af57672c3942b5f1d522528c81ec6d",
+  "DFStringFlagRepoGitHashDynamicString": "25d0e880c6af57672c3942b5f1d522528c81ec6d",
+  "FStringFlipTimeStampFastString": "2024-03-26T22:35:47.689Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T22:35:47.689Z"
 }
