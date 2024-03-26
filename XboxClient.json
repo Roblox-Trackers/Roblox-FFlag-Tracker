@@ -11326,7 +11326,6 @@
   "FFlagIGMResetGfxQuality": "True",
   "FStringStudioPlayModeAllowedBuiltins": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm",
   "FFlagTextureGeneratorWholeContext": "True",
-  "FFlagVoiceUseUpdatedAudibilityTracking2_Rollout": "True;60;2024-03-25T23:32:33",
   "FFlagFmodWasapiRecordBTHeadsetMatching2_Rollout": "True;60;2024-03-25T23:38:21",
   "DFFlagFrameTimeStdDev_Rollout": "True;60;2024-03-25T23:38:31",
   "AllowVideoPreRoll": "True",
@@ -11336,6 +11335,7 @@
   "DFFlagCSC92": "True",
   "DFFlagCSC92p2": "True",
   "FFlagSecretTransformationEnabled": "True",
+  "FFlagVoiceUseUpdatedAudibilityTracking2": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -11654,8 +11654,8 @@
   "FFlagUIBloxModalTitleAutomaticSizing": "True",
   "FFlagUseMicIconForVoiceUpsell": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
-  "FStringFlagRepoGitHashFastString": "c61d068ca785fc653110dc9c0c92814b5d8252e6",
-  "DFStringFlagRepoGitHashDynamicString": "c61d068ca785fc653110dc9c0c92814b5d8252e6",
-  "FStringFlipTimeStampFastString": "2024-03-26T01:05:40.119Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T01:05:40.119Z"
+  "FStringFlagRepoGitHashFastString": "c19049e37d4addfd3ffcfb8c2852c2b889b2c4ad",
+  "DFStringFlagRepoGitHashDynamicString": "c19049e37d4addfd3ffcfb8c2852c2b889b2c4ad",
+  "FStringFlipTimeStampFastString": "2024-03-26T01:06:54.155Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T01:06:54.155Z"
 }
