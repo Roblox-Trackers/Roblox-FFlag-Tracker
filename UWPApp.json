@@ -11363,6 +11363,8 @@
   "FFlagResetGamepadOnDMSwitch2": "True",
   "DFFlagNoRuppHeaderFromServerTelemetry_Rollout": "True;60;2024-03-26T19:57:57",
   "DFFlagHasRuppHeaderFromServerTelemetry_Rollout": "True;60;2024-03-26T19:58:06",
+  "FFlagUserResizeAwareTouchControls_Rollout": "True;30;2024-03-26T20:20:58",
+  "DFFlagFixTurnFFlagsLuaOff_Rollout": "True;60;2024-03-26T20:26:20",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11574,8 +11576,8 @@
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FStringFlagRepoGitHashFastString": "7b2b81333df34147a14ba057a3ae20c5d9efc906",
-  "DFStringFlagRepoGitHashDynamicString": "7b2b81333df34147a14ba057a3ae20c5d9efc906",
-  "FStringFlipTimeStampFastString": "2024-03-26T20:25:28.411Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T20:25:28.411Z"
+  "FStringFlagRepoGitHashFastString": "15c6d0487caed3983b343d64ffdfea7efe4475e5",
+  "DFStringFlagRepoGitHashDynamicString": "15c6d0487caed3983b343d64ffdfea7efe4475e5",
+  "FStringFlipTimeStampFastString": "2024-03-26T20:28:48.800Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T20:28:48.800Z"
 }
