@@ -11364,6 +11364,7 @@
   "DFFlagNoRuppHeaderFromServerTelemetry_Rollout": "True;60;2024-03-26T19:57:57",
   "DFFlagHasRuppHeaderFromServerTelemetry_Rollout": "True;60;2024-03-26T19:58:06",
   "FFlagUserResizeAwareTouchControls_Rollout": "True;30;2024-03-26T20:20:58",
+  "DFFlagFixTurnFFlagsLuaOff_Rollout": "True;60;2024-03-26T20:26:20",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11701,8 +11702,8 @@
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FStringFlagRepoGitHashFastString": "9aafcbb5362c7fc354cee53a7b6df819e618d448",
-  "DFStringFlagRepoGitHashDynamicString": "9aafcbb5362c7fc354cee53a7b6df819e618d448",
-  "FStringFlipTimeStampFastString": "2024-03-26T20:28:04.469Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T20:28:04.469Z"
+  "FStringFlagRepoGitHashFastString": "15c6d0487caed3983b343d64ffdfea7efe4475e5",
+  "DFStringFlagRepoGitHashDynamicString": "15c6d0487caed3983b343d64ffdfea7efe4475e5",
+  "FStringFlipTimeStampFastString": "2024-03-26T20:28:48.800Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T20:28:48.800Z"
 }
