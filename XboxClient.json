@@ -11347,7 +11347,6 @@
   "DFFlagUIErrorCaptureFix": "True",
   "FFlagPoolSmallFmodAllocs2": "True",
   "FFlagLuauMakeStringMethodsChecked": "True",
-  "FFlagMigrateSelectionVerbs_Rollout": "True;60;2024-03-26T19:08:09",
   "FFlagJavaAudioDeviceSelection2": "True",
   "FFlagHttpWrapperAddCustomHeadersOption": "True",
   "FFlagReportCorrectAvgQualityInFRMMetrics_Rollout": "True;60;2024-03-26T19:24:46",
@@ -11366,6 +11365,7 @@
   "FFlagLuauCodegenSmallerUnm": "True",
   "FFlagLuauCodegenVectorOptAnd": "True",
   "QrScannerFixBackCameraUnavailableCrash": "True",
+  "FFlagMigrateSelectionVerbs": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11692,8 +11692,8 @@
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
   "FFlagClientAvatarUsesColor3sForBodyParts8_Rollout": "True;60;2024-03-26T20:29:29",
-  "FStringFlagRepoGitHashFastString": "f3158504786d6539b251569920ccba733298855a",
-  "DFStringFlagRepoGitHashDynamicString": "f3158504786d6539b251569920ccba733298855a",
-  "FStringFlipTimeStampFastString": "2024-03-26T20:43:19.463Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T20:43:19.463Z"
+  "FStringFlagRepoGitHashFastString": "8e5a104f9255621d2014479bd22ea7687a96b177",
+  "DFStringFlagRepoGitHashDynamicString": "8e5a104f9255621d2014479bd22ea7687a96b177",
+  "FStringFlipTimeStampFastString": "2024-03-26T20:45:41.597Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T20:45:41.597Z"
 }
