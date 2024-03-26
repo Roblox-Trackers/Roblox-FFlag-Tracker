@@ -11354,7 +11354,6 @@
   "DFStringAndroidDeprecationBodyPhase2LocalizationKey": "AndroidDeprecationBodyPhase2Fallback",
   "DFStringAndroidDeprecationLoggingEventName": "Android22Deprecation_Phase",
   "FFlagResetGamepadOnDMSwitch2": "True",
-  "DFFlagFixTurnFFlagsLuaOff_Rollout": "True;60;2024-03-26T20:26:20",
   "DFFlagRemoveVerbsLuaToolVerb": "True",
   "FFlagLuauCodegenSmallerUnm": "True",
   "FFlagLuauCodegenVectorOptAnd": "True",
@@ -11370,6 +11369,7 @@
   "DFFlagNoRuppHeaderFromServerTelemetry": "True",
   "DFIntThumbnailContentProviderTimeoutSecs_Rollout": "10;60;2024-03-26T21:31:52",
   "DFIntThumbnailTextureLoadTimeoutSecs_Rollout": "10;60;2024-03-26T21:32:10",
+  "DFFlagFixTurnFFlagsLuaOff": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11581,9 +11581,9 @@
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FFlagClientAvatarUsesColor3sForBodyParts8_Rollout": "True;60;2024-03-26T20:29:29",
-  "FStringFlagRepoGitHashFastString": "019b1d8822b01e13d076a188c941fed020173e82",
-  "DFStringFlagRepoGitHashDynamicString": "019b1d8822b01e13d076a188c941fed020173e82",
-  "FStringFlipTimeStampFastString": "2024-03-26T21:50:57.735Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T21:50:57.735Z"
+  "FFlagClientAvatarUsesColor3sForBodyParts8": "True",
+  "FStringFlagRepoGitHashFastString": "fd77ca7abe63935920e26722d6386f10aeb10831",
+  "DFStringFlagRepoGitHashDynamicString": "fd77ca7abe63935920e26722d6386f10aeb10831",
+  "FStringFlipTimeStampFastString": "2024-03-26T22:03:40.269Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T22:03:40.269Z"
 }
