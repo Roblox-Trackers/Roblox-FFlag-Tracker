@@ -11333,9 +11333,6 @@
   "DFFlagFrameTimeStdDev": "True",
   "FFlagFmodWasapiRecordBTHeadsetMatching2": "True",
   "FFlagScriptProfilerSetTerminalRootFix": "True",
-  "DFFlagUIErrorCaptureFix_Rollout": "True;60;2024-03-26T17:14:15",
-  "FFlagPoolSmallFmodAllocs2_Rollout": "True;60;2024-03-26T17:15:05",
-  "FFlagLuauMakeStringMethodsChecked_Rollout": "True;60;2024-03-26T17:15:18",
   "FFlagJavaAudioDeviceSelection2_Rollout": "True;60;2024-03-26T17:38:04",
   "FFlagHttpWrapperAddCustomHeadersOption_Rollout": "True;60;2024-03-26T17:42:30",
   "FFlagSimSolverOptimizeTimestepMultiplierChanges": "True",
@@ -11354,6 +11351,9 @@
   "FFlagSimAdaptiveMinorOptimizations": "True",
   "DFIntAndroidDeprecationDate_Rollout": "1714460400000;30;2024-03-26T18:40:43",
   "DFStringAndroidDeprecationBodyPhase2LocalizationKey_Rollout": "AndroidDeprecationBodyPhase2Fallback;30;2024-03-26T18:43:35",
+  "DFFlagUIErrorCaptureFix": "True",
+  "FFlagPoolSmallFmodAllocs2": "True",
+  "FFlagLuauMakeStringMethodsChecked": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11565,8 +11565,8 @@
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FStringFlagRepoGitHashFastString": "158498ba4c8f845939616e704c5f7d342f2a54d4",
-  "DFStringFlagRepoGitHashDynamicString": "158498ba4c8f845939616e704c5f7d342f2a54d4",
-  "FStringFlipTimeStampFastString": "2024-03-26T18:45:53.464Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-26T18:45:53.464Z"
+  "FStringFlagRepoGitHashFastString": "55e25f3cd5905986c73e96fe06b130c87aa3b7fa",
+  "DFStringFlagRepoGitHashDynamicString": "55e25f3cd5905986c73e96fe06b130c87aa3b7fa",
+  "FStringFlipTimeStampFastString": "2024-03-26T18:50:54.269Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-26T18:50:54.269Z"
 }
