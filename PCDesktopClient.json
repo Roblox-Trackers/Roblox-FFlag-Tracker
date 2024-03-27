@@ -11384,6 +11384,8 @@
   "DFFlagSimHumanoidTimestepModelUpdate_Rollout": "True;60;2024-03-27T17:21:08",
   "FFlagAllSoundServicesShareOneFmodRegistryFix_Rollout": "True;60;2024-03-27T17:27:56",
   "FFlagLuaAppEnablePasskeyLoginABTest": "True",
+  "FFlagIGMEnableGFXReset": "False",
+  "FFlagIGMEnableGFXReset_Rollout": "True;240;2024-03-27T17:49:12",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11699,8 +11701,8 @@
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
-  "FStringFlagRepoGitHashFastString": "400342982b7e0a46bff2a924e84e21f3f69996c0",
-  "DFStringFlagRepoGitHashDynamicString": "400342982b7e0a46bff2a924e84e21f3f69996c0",
-  "FStringFlipTimeStampFastString": "2024-03-27T17:40:44.812Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T17:40:44.812Z"
+  "FStringFlagRepoGitHashFastString": "c848694b583ba7af060e7bd19fe1e0c02f957aee",
+  "DFStringFlagRepoGitHashDynamicString": "c848694b583ba7af060e7bd19fe1e0c02f957aee",
+  "FStringFlipTimeStampFastString": "2024-03-27T17:50:54.827Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T17:50:54.827Z"
 }
