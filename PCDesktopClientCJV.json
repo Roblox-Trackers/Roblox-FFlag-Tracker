@@ -11416,6 +11416,8 @@
   "DFFlagBatchId10HotrodAccessorMigration_Rollout": "True;60;2024-03-27T21:25:55",
   "DFFlagBatchId14HotrodAccessorMigration_Rollout": "True;60;2024-03-27T21:26:03",
   "FFlagAddConfirmRemovePlaceDialog": "True",
+  "FFlagPeekViewScrimLogging": "True",
+  "FFlagPeekViewScrimEnabledIXP2": "True",
   "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
@@ -11730,8 +11732,8 @@
   "FFlagVerbsWithNoContainerStats_Rollout": "True;30;2024-03-27T20:40:03",
   "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "9c3c5b445b1f23c65b0877f3b140cc4158cae910",
-  "DFStringFlagRepoGitHashDynamicString": "9c3c5b445b1f23c65b0877f3b140cc4158cae910",
-  "FStringFlipTimeStampFastString": "2024-03-27T21:35:58.411Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T21:35:58.411Z"
+  "FStringFlagRepoGitHashFastString": "ad7599b0085112612b03cd78c23fbdeba3373ffe",
+  "DFStringFlagRepoGitHashDynamicString": "ad7599b0085112612b03cd78c23fbdeba3373ffe",
+  "FStringFlipTimeStampFastString": "2024-03-27T21:36:21.409Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T21:36:21.409Z"
 }
