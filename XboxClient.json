@@ -11413,6 +11413,7 @@
   "FFlagRemoveConsoleHeartbeatPoller_Rollout": "True;60;2024-03-27T21:13:11",
   "DFFlagSimShouldSkipCriterionFix": "True",
   "FIntUserActivityActionsNeeded_Rollout": "3;10;2024-03-27T21:20:09",
+  "FFlagGpuGeometryManagerArm4VertexShading_Rollout": "True;60;2024-03-27T21:22:28",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -11737,8 +11738,8 @@
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagGpuGeometryManager14": "True",
-  "FStringFlagRepoGitHashFastString": "b9a3db26bdef57aeff2215bee4456e8b1d9bff06",
-  "DFStringFlagRepoGitHashDynamicString": "b9a3db26bdef57aeff2215bee4456e8b1d9bff06",
-  "FStringFlipTimeStampFastString": "2024-03-27T21:21:29.497Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T21:21:29.497Z"
+  "FStringFlagRepoGitHashFastString": "bcc89f8a494499f33307cb33c08aba5a1edd3f5c",
+  "DFStringFlagRepoGitHashDynamicString": "bcc89f8a494499f33307cb33c08aba5a1edd3f5c",
+  "FStringFlipTimeStampFastString": "2024-03-27T21:24:09.105Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T21:24:09.105Z"
 }
