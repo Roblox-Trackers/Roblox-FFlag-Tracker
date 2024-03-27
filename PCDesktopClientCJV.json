@@ -11261,7 +11261,6 @@
   "FFlagUseNonDeferredSliderSignal": "True",
   "FFlagVideoFrameYuvGPU4": "False",
   "DFIntAdPortalRotationIntervalMS": "300000",
-  "DFIntAdPortalRotationIntervalMS_PlaceFilter": "30000;16270624805",
   "DFIntAdServiceUserIdleThresholdInSeconds": "270",
   "FIntAdGuiRotationIntervalMS": "300000",
   "FIntAdGuiRotationIntervalMS_PlaceFilter": "30000;16270624805",
@@ -11405,6 +11404,7 @@
   "DFFlagReverseBridgeFlags": "True",
   "DFFlagFixCLI69083_2_Rollout": "True;60;2024-03-27T20:17:10",
   "DFFlagVoiceChatProfileJoinProcessV2": "True",
+  "FFlagCollaboratorStateInScriptEditor_Rollout": "True;60;2024-03-27T20:28:16",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -11716,9 +11716,10 @@
   "DFFlagOptimizeNoCollisionPrimitiveInMidphase1_PlaceFilter": "True;8888556510",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
+  "FFlagVerbsWithNoContainerRemoveDeadVerbs_Rollout": "True;30;2024-03-27T20:28:09",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "9ff59a6a4432f33cab3c965dbbc72519008d61ce",
-  "DFStringFlagRepoGitHashDynamicString": "9ff59a6a4432f33cab3c965dbbc72519008d61ce",
-  "FStringFlipTimeStampFastString": "2024-03-27T20:25:44.973Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T20:25:44.973Z"
+  "FStringFlagRepoGitHashFastString": "26979d088d9b58b9671f842bb4d750a1ff80dad1",
+  "DFStringFlagRepoGitHashDynamicString": "26979d088d9b58b9671f842bb4d750a1ff80dad1",
+  "FStringFlipTimeStampFastString": "2024-03-27T20:31:18.478Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T20:31:18.478Z"
 }
