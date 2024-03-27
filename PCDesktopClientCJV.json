@@ -11400,7 +11400,6 @@
   "FFlagPeekViewScrimLogging": "True",
   "FFlagPeekViewScrimEnabledIXP2": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
-  "FFlagEnableViewabilityTracking3_Rollout": "True;60;2024-03-27T21:43:49",
   "FFlagFixSurfaceGuiRenderingVR_Rollout": "True;60;2024-03-27T21:46:53",
   "FFlagFixPlaySoloDocumentationLoading": "True",
   "DFFlagFixCLI69083_2": "True",
@@ -11435,6 +11434,7 @@
   "FFlagSkipRebuildingCrashedELF_Rollout": "True;60;2024-03-27T22:56:57",
   "DFFlagBatchId10HotrodAccessorMigration": "True",
   "DFFlagBatchId14HotrodAccessorMigration": "True",
+  "FFlagEnableViewabilityTracking3": "True",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -11750,8 +11750,8 @@
   "FFlagVerbsWithNoContainerFullScreen_Rollout": "True;30;2024-03-27T22:46:05",
   "FFlagVerbsWithNoContainerRecordToggle_Rollout": "True;30;2024-03-27T23:05:05",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "08586229d542a6f40c0a527a4276251b9e529e5c",
-  "DFStringFlagRepoGitHashDynamicString": "08586229d542a6f40c0a527a4276251b9e529e5c",
-  "FStringFlipTimeStampFastString": "2024-03-27T23:15:38.234Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T23:15:38.234Z"
+  "FStringFlagRepoGitHashFastString": "a51e6b08a91b55c0683982af9874bc1178648b62",
+  "DFStringFlagRepoGitHashDynamicString": "a51e6b08a91b55c0683982af9874bc1178648b62",
+  "FStringFlipTimeStampFastString": "2024-03-27T23:20:38.459Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T23:20:38.459Z"
 }
