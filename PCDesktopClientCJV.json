@@ -11399,6 +11399,9 @@
   "FFlagFixControllerBarButtonNames": "True",
   "FFlagAddPYMKToConsoleAddFriends_v3": "True",
   "FFlagLuauNewProtoInitAll_Rollout": "True;60;2024-03-27T19:18:05",
+  "FFlagFixShortSoundsNotPlaying_Rollout": "True;60;2024-03-27T19:18:10",
+  "FFlagLuauLoadExceptionSafe_Rollout": "True;60;2024-03-27T19:18:27",
+  "DFFlagJsonBadAlloc_Rollout": "True;60;2024-03-27T19:18:34",
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
@@ -11713,8 +11716,8 @@
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagUISUseLastFrameTimeInUpdateInputSignal": "True",
   "FFlagMaterialGeneratorBetaFeature": "False",
-  "FStringFlagRepoGitHashFastString": "ec1833b77e5ae703170259b89974539e8a29d46c",
-  "DFStringFlagRepoGitHashDynamicString": "ec1833b77e5ae703170259b89974539e8a29d46c",
-  "FStringFlipTimeStampFastString": "2024-03-27T19:21:00.950Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T19:21:00.950Z"
+  "FStringFlagRepoGitHashFastString": "24b3cbd948aba9a48a036b4a632f2cfe2a4f934c",
+  "DFStringFlagRepoGitHashDynamicString": "24b3cbd948aba9a48a036b4a632f2cfe2a4f934c",
+  "FStringFlipTimeStampFastString": "2024-03-27T19:21:29.340Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T19:21:29.340Z"
 }
