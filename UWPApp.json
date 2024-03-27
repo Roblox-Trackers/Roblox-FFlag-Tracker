@@ -11370,7 +11370,6 @@
   "FFlagAvatarPreviewerImportBodyColors": "True",
   "DFIntThumbnailContentProviderTimeoutSecs": "10",
   "DFIntThumbnailTextureLoadTimeoutSecs": "10",
-  "FFlagXboxCredentialsHeaders_Rollout": "True;60;2024-03-26T23:19:44",
   "DFFlagSourceAssetIdSpeciallyReplicateInTeamCreateDisable_Rollout": "True;60;2024-03-26T23:56:33",
   "DFFlagGuardUpdateFixedNOU": "True",
   "DFFlagFeb2924VideoCaptureServiceGetterMigration": "True",
@@ -11379,6 +11378,7 @@
   "FFlagGraphicsVulkanSwapchainImagesFix": "True",
   "FFlagLuauPreallocateTarjanVectors": "True",
   "FFlagEnableFeatureTracking": "True",
+  "FFlagXboxCredentialsHeaders": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11591,8 +11591,8 @@
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
   "FFlagClientAvatarUsesColor3sForBodyParts8": "True",
-  "FStringFlagRepoGitHashFastString": "238a14dcdbf69182e9a74edacb91fe5bb6cb2661",
-  "DFStringFlagRepoGitHashDynamicString": "238a14dcdbf69182e9a74edacb91fe5bb6cb2661",
-  "FStringFlipTimeStampFastString": "2024-03-27T00:50:36.791Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T00:50:36.791Z"
+  "FStringFlagRepoGitHashFastString": "0b248162233014f030439337198098c22102f614",
+  "DFStringFlagRepoGitHashDynamicString": "0b248162233014f030439337198098c22102f614",
+  "FStringFlipTimeStampFastString": "2024-03-27T00:55:49.685Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T00:55:49.685Z"
 }
