@@ -11381,6 +11381,7 @@
   "DFFlagSourceAssetIdSpeciallyReplicateInTeamCreateDisable": "True",
   "FIntMaxTimestepMultiplierVelocity_Rollout": "4;60;2024-03-27T17:18:29",
   "FIntMaxTimestepMultiplierHumanoid_Rollout": "4;60;2024-03-27T17:19:08",
+  "DFFlagSimHumanoidTimestepModelUpdate_Rollout": "True;60;2024-03-27T17:21:08",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11707,8 +11708,8 @@
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
   "FFlagClientAvatarUsesColor3sForBodyParts8": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-  "FStringFlagRepoGitHashFastString": "0689075bc8a3afa1b8098d83093ca736fae67fdf",
-  "DFStringFlagRepoGitHashDynamicString": "0689075bc8a3afa1b8098d83093ca736fae67fdf",
-  "FStringFlipTimeStampFastString": "2024-03-27T17:21:54.345Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T17:21:54.345Z"
+  "FStringFlagRepoGitHashFastString": "7524e7db5e515967919870935a12cfcde30e9f85",
+  "DFStringFlagRepoGitHashDynamicString": "7524e7db5e515967919870935a12cfcde30e9f85",
+  "FStringFlipTimeStampFastString": "2024-03-27T17:22:26.610Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T17:22:26.610Z"
 }
