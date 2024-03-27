@@ -11396,7 +11396,6 @@
   "FFlagLuauLoadExceptionSafe": "True",
   "FFlagLuauNewProtoInitAll": "True",
   "DFFlagSimShouldSkipCriterionFix": "True",
-  "FFlagGpuGeometryManagerArm4VertexShading_Rollout": "True;60;2024-03-27T21:22:28",
   "DFFlagBatchId10HotrodAccessorMigration_Rollout": "True;60;2024-03-27T21:25:55",
   "DFFlagBatchId14HotrodAccessorMigration_Rollout": "True;60;2024-03-27T21:26:03",
   "FFlagAddConfirmRemovePlaceDialog": "True",
@@ -11433,6 +11432,7 @@
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
   "FFlagRefactorIRoblox_Rollout": "True;60;2024-03-27T22:46:54",
   "AllowVideoPreRoll": "True",
+  "FFlagGpuGeometryManagerArm4VertexShading": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -11640,8 +11640,8 @@
   "FFlagUseMicIconForVoiceUpsell": "True",
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagGpuGeometryManager14": "True",
-  "FStringFlagRepoGitHashFastString": "794ac681adf1cd95dbf848476ec5033c19544e90",
-  "DFStringFlagRepoGitHashDynamicString": "794ac681adf1cd95dbf848476ec5033c19544e90",
-  "FStringFlipTimeStampFastString": "2024-03-27T22:55:35.854Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T22:55:35.854Z"
+  "FStringFlagRepoGitHashFastString": "694859b4879b851eb178d93b972b2e52fcfe25b0",
+  "DFStringFlagRepoGitHashDynamicString": "694859b4879b851eb178d93b972b2e52fcfe25b0",
+  "FStringFlipTimeStampFastString": "2024-03-27T23:00:44.639Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T23:00:44.639Z"
 }
