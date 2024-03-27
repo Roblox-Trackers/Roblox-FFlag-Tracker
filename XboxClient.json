@@ -11368,9 +11368,6 @@
   "DFFlagBatchId2HotrodAccessorMigration": "True",
   "DFIntReplicatorReadArrayCollisionReportingMyriad": "100",
   "FFlagAvatarPreviewerImportBodyColors": "True",
-  "DFFlagFeb2924VideoFrameSetterMigration_Rollout": "True;60;2024-03-26T22:42:05",
-  "DFFlagFeb2924VideoFrameGetterMigration_Rollout": "True;60;2024-03-26T22:42:12",
-  "DFFlagFeb2924VideoCaptureServiceGetterMigration_Rollout": "True;60;2024-03-26T22:42:22",
   "FFlagGraphicsVulkanSwapchainImagesFix_Rollout": "True;60;2024-03-26T22:49:46",
   "FFlagEnableFeatureTracking_Rollout": "True;60;2024-03-26T23:08:23",
   "DFIntThumbnailContentProviderTimeoutSecs": "10",
@@ -11379,6 +11376,9 @@
   "FFlagLuauPreallocateTarjanVectors_Rollout": "True;30;2024-03-26T23:39:45",
   "DFFlagSourceAssetIdSpeciallyReplicateInTeamCreateDisable_Rollout": "True;60;2024-03-26T23:56:33",
   "DFFlagGuardUpdateFixedNOU": "True",
+  "DFFlagFeb2924VideoCaptureServiceGetterMigration": "True",
+  "DFFlagFeb2924VideoFrameGetterMigration": "True",
+  "DFFlagFeb2924VideoFrameSetterMigration": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -11705,8 +11705,8 @@
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
   "FFlagClientAvatarUsesColor3sForBodyParts8": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
-  "FStringFlagRepoGitHashFastString": "e9f8330ae2e4ea97155e461de930fc6ff6cb9952",
-  "DFStringFlagRepoGitHashDynamicString": "e9f8330ae2e4ea97155e461de930fc6ff6cb9952",
-  "FStringFlipTimeStampFastString": "2024-03-27T00:16:08.965Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T00:16:08.965Z"
+  "FStringFlagRepoGitHashFastString": "8390259ef1e28871ab9c5d0333e9afde46adc398",
+  "DFStringFlagRepoGitHashDynamicString": "8390259ef1e28871ab9c5d0333e9afde46adc398",
+  "FStringFlipTimeStampFastString": "2024-03-27T00:20:42.284Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T00:20:42.284Z"
 }
