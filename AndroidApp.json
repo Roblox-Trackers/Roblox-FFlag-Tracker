@@ -11408,6 +11408,8 @@
   "FFlagFixShortSoundsNotPlaying": "True",
   "CaptureQTStudioCountersEnabled": "True",
   "FFlagRefactorPartData4_Rollout": "True;60;2024-03-27T21:02:18",
+  "FFlagEnableInitializeContentsSubflow_Rollout": "True;30;2024-03-27T21:05:35",
+  "FFlagSimAdaptiveTimesteppingDefault2_Rollout": "True;60;2024-03-27T21:06:02",
   "CatalogPromoAssetId": "-1",
   "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
   "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
@@ -11871,8 +11873,8 @@
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagClothingSortingDeeplink": "True",
   "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;60;2024-03-27T20:41:22",
-  "FStringFlagRepoGitHashFastString": "516c7f4c27e6f8b141304ef3a15c62d15a7b73a9",
-  "DFStringFlagRepoGitHashDynamicString": "516c7f4c27e6f8b141304ef3a15c62d15a7b73a9",
-  "FStringFlipTimeStampFastString": "2024-03-27T21:03:36.875Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T21:03:36.875Z"
+  "FStringFlagRepoGitHashFastString": "ce99cbd142e2bdf1fd633603188c77ca6f6ac22d",
+  "DFStringFlagRepoGitHashDynamicString": "ce99cbd142e2bdf1fd633603188c77ca6f6ac22d",
+  "FStringFlipTimeStampFastString": "2024-03-27T21:06:44.448Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T21:06:44.448Z"
 }
