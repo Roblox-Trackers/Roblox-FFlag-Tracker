@@ -11389,7 +11389,6 @@
   "FFlagFixControllerBarButtonNames": "True",
   "FFlagAddPYMKToConsoleAddFriends_v3": "True",
   "FFlagFewerSoundStringAllocs": "True",
-  "DFFlagSimShouldSkipCriterionFix_Rollout": "True;60;2024-03-27T19:42:38",
   "AllowVideoPreRoll": "True",
   "FFlagBreakTranslationDependencyOnRestricted": "True",
   "FFlagSimRefactorSteppingParams": "True",
@@ -11412,6 +11411,7 @@
   "FFlagSimAdaptiveTimesteppingDefault2_Rollout": "True;60;2024-03-27T21:06:02",
   "DFFlagStreamingCalculateJitter_Rollout": "True;60;2024-03-27T21:07:00",
   "FFlagRemoveConsoleHeartbeatPoller_Rollout": "True;60;2024-03-27T21:13:11",
+  "DFFlagSimShouldSkipCriterionFix": "True",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
   "DFFlagCLI120342": "False",
@@ -11621,8 +11621,8 @@
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
   "FFlagGpuGeometryManager14": "True",
-  "FStringFlagRepoGitHashFastString": "ea091bbb672c25ce7c1190c0e8b708c2bf49c709",
-  "DFStringFlagRepoGitHashDynamicString": "ea091bbb672c25ce7c1190c0e8b708c2bf49c709",
-  "FStringFlipTimeStampFastString": "2024-03-27T21:14:17.102Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T21:14:17.102Z"
+  "FStringFlagRepoGitHashFastString": "952e4577ca8534aeb85a77a83cc6d7978521974e",
+  "DFStringFlagRepoGitHashDynamicString": "952e4577ca8534aeb85a77a83cc6d7978521974e",
+  "FStringFlipTimeStampFastString": "2024-03-27T21:18:34.102Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T21:18:34.102Z"
 }
