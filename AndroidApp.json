@@ -6111,7 +6111,6 @@
   "DFFlagSendAdCornersInWorldSpace": "True",
   "FFlagEnableGuiServiceToggleGuisForCaptures": "True",
   "DFFlagVoiceChatPeerConnectionPubFailureClassification": "True",
-  "FFlagSimV1BallCheckValidity": "True",
   "FFlagVRAvatarEditorBugFixes2": "True",
   "FFlagAppChatRefactorContainers": "True",
   "FFlagWidgetAddItemTypeAnalytics": "True",
@@ -11396,7 +11395,6 @@
   "DFFlagJsonBadAlloc": "True",
   "FFlagLuauLoadExceptionSafe": "True",
   "FFlagLuauNewProtoInitAll": "True",
-  "FFlagRefactorPartData4_Rollout": "True;60;2024-03-27T21:02:18",
   "FFlagSimAdaptiveTimesteppingDefault2_Rollout": "True;60;2024-03-27T21:06:02",
   "DFFlagStreamingCalculateJitter_Rollout": "True;60;2024-03-27T21:07:00",
   "FFlagRemoveConsoleHeartbeatPoller_Rollout": "True;60;2024-03-27T21:13:11",
@@ -11432,6 +11430,7 @@
   "FFlagRoblox3DViewContextMenuAsync_Rollout": "True;60;2024-03-27T22:30:14",
   "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent": "10000",
   "FFlagDiffToolDocStartEndShortcuts_Rollout": "True;60;2024-03-27T22:31:49",
+  "FFlagRefactorPartData4": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -11893,8 +11892,8 @@
   "FFlagIBEnableFixForSaleLocation": "True",
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagClothingSortingDeeplink": "True",
-  "FStringFlagRepoGitHashFastString": "c712f897b5b4b39140dac5347f44030ddba32644",
-  "DFStringFlagRepoGitHashDynamicString": "c712f897b5b4b39140dac5347f44030ddba32644",
-  "FStringFlipTimeStampFastString": "2024-03-27T22:35:35.458Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T22:35:35.458Z"
+  "FStringFlagRepoGitHashFastString": "71d83845a6e949f7861ac10dab7bc33954bc81dc",
+  "DFStringFlagRepoGitHashDynamicString": "71d83845a6e949f7861ac10dab7bc33954bc81dc",
+  "FStringFlipTimeStampFastString": "2024-03-27T22:40:49.057Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T22:40:49.057Z"
 }
