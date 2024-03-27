@@ -11404,6 +11404,7 @@
   "FFlagIntegrityCheckedProcessorUsePerfControl": "True",
   "FFlagFewerSoundStringAllocs": "True",
   "DFFlagSimShouldSkipCriterionFix_Rollout": "True;60;2024-03-27T19:42:38",
+  "AllowVideoPreRoll": "True",
   "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": "True",
   "FFlagTextureManagerUsePerfControl2": "True",
   "FFlagEnableDMInitMeasurement": "True",
@@ -11445,7 +11446,6 @@
   "DFFlagVoiceChatProfileJoinProcessV2": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagGpuGeometryManager14": "True",
-  "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -11741,8 +11741,8 @@
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "DFFlagReportDetailedSimulationBreakdown": "True",
   "FFlagDMPatchCoreScriptsBlake3Deserialize2": "True",
-  "FStringFlagRepoGitHashFastString": "1caa45b4a4a9d5d65acb7597092a7d3ca930e23e",
-  "DFStringFlagRepoGitHashDynamicString": "1caa45b4a4a9d5d65acb7597092a7d3ca930e23e",
-  "FStringFlipTimeStampFastString": "2024-03-27T19:45:34.493Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T19:45:34.493Z"
+  "FStringFlagRepoGitHashFastString": "242b4c9372c234102ae72b6864ea34c20620e809",
+  "DFStringFlagRepoGitHashDynamicString": "242b4c9372c234102ae72b6864ea34c20620e809",
+  "FStringFlipTimeStampFastString": "2024-03-27T20:12:18.794Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T20:12:18.794Z"
 }
