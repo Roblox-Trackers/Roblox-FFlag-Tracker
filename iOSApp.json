@@ -11383,7 +11383,6 @@
   "FFlagIGMEnableGFXReset": "False",
   "FFlagIGMEnableGFXReset_Rollout": "True;240;2024-03-27T17:49:12",
   "FFlagDefaultFriendingLabelTextNonEmpty": "True",
-  "FFlagFewerSoundStringAllocs_Rollout": "True;60;2024-03-27T18:09:53",
   "FFlagACEPrimaryPartPriority": "True",
   "FIntLuaAppPercentRolloutGameDetailMoreAnalytics_v2": "100",
   "FFlagClientAvatarUsesColor3sForBodyParts8": "True",
@@ -11403,6 +11402,7 @@
   "FFlagLuauLoadExceptionSafe_Rollout": "True;60;2024-03-27T19:18:27",
   "DFFlagJsonBadAlloc_Rollout": "True;60;2024-03-27T19:18:34",
   "AllowVideoPreRoll": "True",
+  "FFlagFewerSoundStringAllocs": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
@@ -11828,8 +11828,8 @@
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
   "FFlagClothingSortingDeeplink": "True",
   "FFlagGpuGeometryManager14": "True",
-  "FStringFlagRepoGitHashFastString": "8086cea55dcdc91c0c8ce5ec62c0f6b353efd2ce",
-  "DFStringFlagRepoGitHashDynamicString": "8086cea55dcdc91c0c8ce5ec62c0f6b353efd2ce",
-  "FStringFlipTimeStampFastString": "2024-03-27T19:40:46.135Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T19:40:46.135Z"
+  "FStringFlagRepoGitHashFastString": "0f64d110635909922e775fdffafd89b03a243889",
+  "DFStringFlagRepoGitHashDynamicString": "0f64d110635909922e775fdffafd89b03a243889",
+  "FStringFlipTimeStampFastString": "2024-03-27T19:42:12.281Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T19:42:12.281Z"
 }
