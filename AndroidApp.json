@@ -1519,7 +1519,7 @@
   "DFFlagTreeDiffModCheckShadow": "True",
   "FFlagFixMockSizingLabelMemoryLeak": "True",
   "FFlagExpandedDeeplinkLogging": "True",
-  "DFIntGameJoinFlowTelemetryThrottle": "100",
+  "DFIntGameJoinFlowTelemetryThrottle": "10000",
   "FFlagNewRuntimeReserveFixes1": "True",
   "FFlagPreventPipeFromLeaking": "True",
   "FFlagSimCSGV3ReallocateHalfedgeMap": "True",
@@ -11427,6 +11427,8 @@
   "FFlagDiffToolButtonHover": "True",
   "FFlagEnableInitializeContentsSubflow": "True",
   "FFlagiOSVideoSavingEnabled": "True",
+  "FFlagCaptureServiceCaptureTypeEnabled": "True",
+  "FFlagCOLLAB5863CollaborateTelemetry_Rollout": "True;60;2024-03-27T22:22:22",
   "CaptureQTStudioCountersEnabled": "True",
   "CatalogPromoAssetId": "-1",
   "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
@@ -11887,9 +11889,8 @@
   "FFlagIBEnableFixForSaleLocation": "True",
   "FFlagIBFixl20HasQuantityPurchase": "True",
   "FFlagClothingSortingDeeplink": "True",
-  "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;60;2024-03-27T20:41:22",
-  "FStringFlagRepoGitHashFastString": "29cff1f9b4b5eb1b237315c7cf518eae16e8273d",
-  "DFStringFlagRepoGitHashDynamicString": "29cff1f9b4b5eb1b237315c7cf518eae16e8273d",
-  "FStringFlipTimeStampFastString": "2024-03-27T22:26:18.508Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T22:26:18.508Z"
+  "FStringFlagRepoGitHashFastString": "c6bef7fbacfdaf1b8ed03ea25067943e6c351c23",
+  "DFStringFlagRepoGitHashDynamicString": "c6bef7fbacfdaf1b8ed03ea25067943e6c351c23",
+  "FStringFlipTimeStampFastString": "2024-03-27T22:27:13.380Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-27T22:27:13.380Z"
 }
