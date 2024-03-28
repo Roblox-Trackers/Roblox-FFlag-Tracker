@@ -11412,10 +11412,8 @@
   "FFlagEnableInitializeContentsSubflow": "True",
   "FFlagiOSVideoSavingEnabled": "True",
   "FFlagCaptureServiceCaptureTypeEnabled": "True",
-  "FFlagCOLLAB5863CollaborateTelemetry_Rollout": "True;60;2024-03-27T22:22:22",
   "FFlagStudioRemoveShutdownClientAndSaveVerb": "True",
   "FFlagStudioFixClientCreatorType": "True",
-  "FFlagRoblox3DViewContextMenuAsync_Rollout": "True;60;2024-03-27T22:30:14",
   "DFIntImmersiveAdUnloadEventThrottleHundredthsPercent": "10000",
   "FFlagDiffToolDocStartEndShortcuts_Rollout": "True;60;2024-03-27T22:31:49",
   "FFlagRefactorPartData4": "True",
@@ -11434,6 +11432,8 @@
   "FFlagFixSurfaceGuiRenderingVR": "True",
   "FFlagCOLLAB5718ServerDeprecateBrickColor": "True",
   "FFlagStudioRemoveActionCountCheck": "True",
+  "FFlagCOLLAB5863CollaborateTelemetry": "True",
+  "FFlagRoblox3DViewContextMenuAsync": "True",
   "CaptureCountersIntervalInMinutes": "5",
   "CaptureQTStudioCountersEnabled": "True",
   "DFFlagBoxMappedMeshLODFix_v2": "True",
@@ -11852,8 +11852,8 @@
   "FFlagClothingSortingDeeplink": "True",
   "FFlagGpuGeometryManager14": "True",
   "FFlagCapturesCarouselReducedMotionSupport": "True",
-  "FStringFlagRepoGitHashFastString": "a2b5d921269930882768390fcabf8001e97d6cdd",
-  "DFStringFlagRepoGitHashDynamicString": "a2b5d921269930882768390fcabf8001e97d6cdd",
-  "FStringFlipTimeStampFastString": "2024-03-27T23:55:36.734Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-27T23:55:36.734Z"
+  "FStringFlagRepoGitHashFastString": "1d54242394334f4b15337a348a4f2c2bc6f97049",
+  "DFStringFlagRepoGitHashDynamicString": "1d54242394334f4b15337a348a4f2c2bc6f97049",
+  "FStringFlipTimeStampFastString": "2024-03-28T00:05:50.011Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-28T00:05:50.011Z"
 }
