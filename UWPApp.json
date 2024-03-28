@@ -11427,12 +11427,12 @@
   "DFFlagEnableAdSeenStatsReporting": "True",
   "DFFlagLuauDebugInfoDupArgLeftovers_Rollout": "True;60;2024-03-28T16:07:12",
   "FFlagUserSearchUseNewEndpointIXP": "True",
-  "FFlagLuauCodegenHeapSizeReport_Rollout": "True;30;2024-03-28T16:23:22",
   "DFIntGameJoinFlowTelemetryThrottle_Rollout": "10000;60;2024-03-28T16:48:42",
   "DFFlagSessionTelemetryUnify_Rollout": "True;60;2024-03-28T16:49:36",
   "FFlagGetReportAdInfo_Rollout": "True;60;2024-03-28T17:08:10",
   "DFFlagOverlappedAddToFilter": "True",
   "FFlagLuauCodeGenOptVecA64": "True",
+  "FFlagLuauCodegenHeapSizeReport": "True",
   "AllowVideoPreRoll": "True",
   "AxisAdornmentGrabSize": "12",
   "CaptureCountersIntervalInMinutes": "5",
@@ -11641,8 +11641,8 @@
   "FFlagUseMicIconForVoiceUpsell": "True",
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagGpuGeometryManager14": "True",
-  "FStringFlagRepoGitHashFastString": "165bb261e1f4b46ad9519e2433f7217f4dc7609e",
-  "DFStringFlagRepoGitHashDynamicString": "165bb261e1f4b46ad9519e2433f7217f4dc7609e",
-  "FStringFlipTimeStampFastString": "2024-03-28T17:21:13.014Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-28T17:21:13.014Z"
+  "FStringFlagRepoGitHashFastString": "29dae585323a05df0e47407a877a41ebe6f7b8b9",
+  "DFStringFlagRepoGitHashDynamicString": "29dae585323a05df0e47407a877a41ebe6f7b8b9",
+  "FStringFlipTimeStampFastString": "2024-03-28T17:28:32.971Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-28T17:28:32.971Z"
 }
