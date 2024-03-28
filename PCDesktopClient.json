@@ -11423,7 +11423,6 @@
   "FFlagRoblox3DViewContextMenuAsync": "True",
   "FFlagDiffToolDocStartEndShortcuts": "True",
   "FFlagRefactorIRoblox": "True",
-  "FFlagGpuGeometryManager14": "True",
   "FFlagSkipRebuildingCrashedELF": "True",
   "DFFlagEnableAdSeenStatsReporting": "True",
   "DFFlagLuauDebugInfoDupArgLeftovers_Rollout": "True;60;2024-03-28T16:07:12",
@@ -11464,6 +11463,7 @@
   "FFlagMarketplaceServiceEnableUnlimitedCollectibleAssetSupport": "True",
   "FFlagChatSendMessageEventWithRecipients": "True",
   "FFlagEnableAdsEudsaDynamicDisclosure": "True",
+  "FFlagGpuGeometryManager14": "True",
   "DFFlagHttpDisableSslReleaseBuffers": "True",
   "FFlagReflectionServiceIgnoreDeprecatedProperties_Rollout": "True;60;2024-03-28T16:58:48",
   "FFlagCLI91794_Rollout": "True;30;2024-03-28T17:09:28",
@@ -11752,8 +11752,8 @@
   "FFlagVerbsWithNoContainerFullScreen": "True",
   "FFlagVerbsWithNoContainerRecordToggle": "True",
   "FFlagVerbsWithNoContainerScreenshot": "True",
-  "FStringFlagRepoGitHashFastString": "0c84f91c23a57cd4b23cad5196e05ccddeed35ea",
-  "DFStringFlagRepoGitHashDynamicString": "0c84f91c23a57cd4b23cad5196e05ccddeed35ea",
-  "FStringFlipTimeStampFastString": "2024-03-28T17:17:52.475Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-28T17:17:52.475Z"
+  "FStringFlagRepoGitHashFastString": "165bb261e1f4b46ad9519e2433f7217f4dc7609e",
+  "DFStringFlagRepoGitHashDynamicString": "165bb261e1f4b46ad9519e2433f7217f4dc7609e",
+  "FStringFlipTimeStampFastString": "2024-03-28T17:21:13.014Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-28T17:21:13.014Z"
 }
