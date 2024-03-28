@@ -6771,7 +6771,6 @@
   "DFFlagSignalSimplifyRemoval": "True",
   "FFlagBubbleChatCaratFix": "True",
   "FFlagExpressiveErrorPrintTopFix": "True",
-  "FIntMaxTimestepMultiplierVelocity": "4",
   "FFlagLuauTableUnifyRecursionLimit": "True",
   "FFlagRequireUIThreadWhenAccessingPixmap": "True",
   "DFIntStreamingJoinStatsHundredths": "100",
@@ -11761,11 +11760,11 @@
   "FFlagUserSearchUseNewEndpointIXP": "True",
   "FFlagVerbsWithNoContainerRemoveDeadVerbs": "True",
   "FFlagVerbsWithNoContainerStats": "True",
-  "FFlagVerbsWithNoContainerScreenshot_Rollout": "True;30;2024-03-27T23:40:33",
   "FFlagVerbsWithNoContainerFullScreen": "True",
   "FFlagVerbsWithNoContainerRecordToggle": "True",
-  "FStringFlagRepoGitHashFastString": "4c8137b0e8548c5821db9c6af831bbaa5293aca5",
-  "DFStringFlagRepoGitHashDynamicString": "4c8137b0e8548c5821db9c6af831bbaa5293aca5",
-  "FStringFlipTimeStampFastString": "2024-03-28T00:41:04.088Z",
-  "DFStringFlipTimeStampDynamicString": "2024-03-28T00:41:04.088Z"
+  "FFlagVerbsWithNoContainerScreenshot": "True",
+  "FStringFlagRepoGitHashFastString": "cc475211167ff88dff83aded5e92b987e1e2eb13",
+  "DFStringFlagRepoGitHashDynamicString": "cc475211167ff88dff83aded5e92b987e1e2eb13",
+  "FStringFlipTimeStampFastString": "2024-03-28T00:50:43.813Z",
+  "DFStringFlipTimeStampDynamicString": "2024-03-28T00:50:43.813Z"
 }
